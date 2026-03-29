@@ -2,6 +2,16 @@ import { NextResponse } from "next/server";
 import { getStotraBySlug } from "@/lib/stotras";
 import { getDeityById } from "@/data/deities";
 
+// Escape HTML to prevent XSS
+function escapeHtml(str: string): string {
+  return str
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#39;");
+}
+
 export async function GET(
   _request: Request,
   { params }: { params: Promise<{ slug: string }> }
@@ -14,7 +24,7 @@ export async function GET(
   }
 
   const deity = getDeityById(stotra.deity);
-  const deityName = deity ? `${deity.name} (${deity.nameHi})` : stotra.deity;
+  const deityName = deity ? `${escapeHtml(deity.name)} (${escapeHtml(deity.nameHi)})` : escapeHtml(stotra.deity);
   const deityColor = deity?.color || "#013F47";
   const year = new Date().getFullYear();
 

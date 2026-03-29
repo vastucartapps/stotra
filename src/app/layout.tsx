@@ -71,6 +71,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
+    site: "@vastucart",
     title: "Stotra - Sacred Hindu Prayers & Hymns | VastuCart",
     description:
       "Complete collection of Hindu stotras, chalisa, and sacred hymns with transliteration, meaning, and free PDF downloads.",

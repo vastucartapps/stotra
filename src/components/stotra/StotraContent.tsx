@@ -60,12 +60,12 @@ export function StotraContent({ stotra, deity }: StotraContentProps) {
           ))}
         </div>
 
-        <h1 className="devanagari-heading text-3xl md:text-4xl text-brand mb-2">
-          {stotra.title}
-        </h1>
-        <h2 className="font-serif text-xl md:text-2xl text-text-light font-medium">
+        <h1 className="font-serif text-xl md:text-2xl text-text-light font-medium mb-1">
           {stotra.titleEn}
-        </h2>
+        </h1>
+        <p className="devanagari-heading text-3xl md:text-4xl text-brand">
+          {stotra.title}
+        </p>
 
         <div className="flex flex-wrap items-center gap-4 mt-4 text-sm text-text-muted">
           <span className="flex items-center gap-1.5">

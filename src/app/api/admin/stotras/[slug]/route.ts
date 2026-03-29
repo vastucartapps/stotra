@@ -18,22 +18,30 @@ export async function PUT(
   request: Request,
   { params }: { params: Promise<{ slug: string }> }
 ) {
-  const { slug } = await params;
-  const existing = getStotraBySlug(slug);
-  if (!existing) {
-    return NextResponse.json({ error: "Not found" }, { status: 404 });
+  try {
+    const { slug } = await params;
+    const existing = getStotraBySlug(slug);
+    if (!existing) {
+      return NextResponse.json({ error: "Not found" }, { status: 404 });
+    }
+
+    const body = (await request.json()) as Stotra;
+    if (!body.slug || !body.title || !body.titleEn) {
+      return NextResponse.json({ error: "Missing required fields" }, { status: 400 });
+    }
+
+    body.updatedAt = new Date().toISOString();
+
+    // If slug changed, delete old file
+    if (body.slug !== slug) {
+      deleteStotra(slug);
+    }
+
+    saveStotra(body);
+    return NextResponse.json({ success: true, slug: body.slug });
+  } catch {
+    return NextResponse.json({ error: "Invalid request" }, { status: 400 });
   }
-
-  const body = (await request.json()) as Stotra;
-  body.updatedAt = new Date().toISOString();
-
-  // If slug changed, delete old file
-  if (body.slug !== slug) {
-    deleteStotra(slug);
-  }
-
-  saveStotra(body);
-  return NextResponse.json({ success: true, slug: body.slug });
 }
 
 export async function DELETE(

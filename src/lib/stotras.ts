@@ -1,9 +1,23 @@
 import fs from "fs";
 import path from "path";
 import type { Stotra, DeityId, DayId, FestivalId, PurposeId } from "@/types";
-import { dailySeed, seededRandom } from "./utils";
+import { dailySeed, seededRandom, getTodayDayName } from "./utils";
 
 const STOTRAS_DIR = path.join(process.cwd(), "src/data/stotras");
+
+// Validate slug to prevent path traversal
+function isValidSlug(slug: string): boolean {
+  return /^[a-z0-9][a-z0-9-]*[a-z0-9]$/.test(slug) && !slug.includes("..");
+}
+
+function safeFilePath(slug: string): string | null {
+  if (!isValidSlug(slug)) return null;
+  const filePath = path.join(STOTRAS_DIR, `${slug}.json`);
+  // Ensure resolved path is within STOTRAS_DIR
+  const resolved = path.resolve(filePath);
+  if (!resolved.startsWith(path.resolve(STOTRAS_DIR))) return null;
+  return filePath;
+}
 
 let cachedStotras: Stotra[] | null = null;
 
@@ -25,7 +39,7 @@ function loadAllStotras(): Stotra[] {
         const stotra = JSON.parse(content) as Stotra;
         stotras.push(stotra);
       } catch {
-        console.error(`Failed to parse stotra file: ${file}`);
+        // Silently skip malformed files
       }
     }
 
@@ -72,19 +86,7 @@ export function getStotrasByPurpose(purpose: PurposeId): Stotra[] {
 }
 
 export function getTodaysStotras(): Stotra[] {
-  const now = new Date();
-  const istOffset = 5.5 * 60 * 60 * 1000;
-  const ist = new Date(now.getTime() + istOffset + now.getTimezoneOffset() * 60 * 1000);
-  const dayNames: DayId[] = [
-    "sunday",
-    "monday",
-    "tuesday",
-    "wednesday",
-    "thursday",
-    "friday",
-    "saturday",
-  ];
-  const todayDay = dayNames[ist.getDay()];
+  const todayDay = getTodayDayName() as DayId;
   return getStotrasByDay(todayDay);
 }
 
@@ -144,17 +146,19 @@ export function getStotraCountByDeity(deity: DeityId): number {
 
 // Save a stotra to a JSON file
 export function saveStotra(stotra: Stotra): void {
+  const filePath = safeFilePath(stotra.slug);
+  if (!filePath) throw new Error("Invalid slug format");
   if (!fs.existsSync(STOTRAS_DIR)) {
     fs.mkdirSync(STOTRAS_DIR, { recursive: true });
   }
-  const filePath = path.join(STOTRAS_DIR, `${stotra.slug}.json`);
   fs.writeFileSync(filePath, JSON.stringify(stotra, null, 2), "utf-8");
   invalidateCache();
 }
 
 // Delete a stotra JSON file
 export function deleteStotra(slug: string): boolean {
-  const filePath = path.join(STOTRAS_DIR, `${slug}.json`);
+  const filePath = safeFilePath(slug);
+  if (!filePath) return false;
   if (fs.existsSync(filePath)) {
     fs.unlinkSync(filePath);
     invalidateCache();

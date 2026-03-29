@@ -106,11 +106,22 @@ export async function generateMetadata({
       description: stotra.seoDescription,
       url: `${APP_URL}/stotra/${stotra.slug}`,
       type: "article",
+      siteName: "Stotra by VastuCart",
+      images: [
+        {
+          url: `${APP_URL}/og-default.jpg`,
+          width: 1200,
+          height: 630,
+          alt: `${stotra.titleEn} - Stotra by VastuCart`,
+        },
+      ],
     },
     twitter: {
       card: "summary_large_image",
+      site: "@vastucart",
       title: `${title} | Stotra by VastuCart`,
       description: stotra.seoDescription,
+      images: [`${APP_URL}/og-default.jpg`],
     },
     keywords: [
       stotra.titleEn.toLowerCase(),
