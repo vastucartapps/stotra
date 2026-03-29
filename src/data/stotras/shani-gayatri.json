@@ -1,0 +1,29 @@
+{
+  "id": "636",
+  "title": "शनि गायत्री",
+  "titleEn": "Shani Gayatri",
+  "slug": "shani-gayatri",
+  "devanagariText": "॥ श्री शनि गायत्री ॥\n\nॐ काकध्वजाय विद्महे खड्गहस्ताय धीमहि।\nतन्नो मन्दः प्रचोदयात्॥\n\nॐ शनैश्चराय विद्महे छायापुत्राय धीमहि।\nतन्नो मन्दः प्रचोदयात्॥\n\nॐ कृष्णाङ्गाय विद्महे रवितनयाय धीमहि।\nतन्नो शनिः प्रचोदयात्॥\n\n॥ इति श्री शनि गायत्री सम्पूर्णम् ॥",
+  "transliteration": "|| Shri Shani Gayatri ||\n\nOm Kakadhwajaya Vidmahe Khadgahastaya Dhimahi.\nTanno Mandah Prachodayat.\n\nOm Shanaishcharaya Vidmahe Chhayaputraya Dhimahi.\nTanno Mandah Prachodayat.\n\nOm Krishnaangaya Vidmahe Ravitanayaya Dhimahi.\nTanno Shanih Prachodayat.\n\n|| Iti Shri Shani Gayatri Sampoornam ||",
+  "hindiMeaning": "हम काक ध्वज वाले, खड्ग धारण करने वाले शनिदेव का ध्यान करते हैं, मन्द गति वाले शनि हमारी बुद्धि को सन्मार्ग पर प्रेरित करें। हम शनैश्चर (धीमी गति वाले), छाया के पुत्र शनि का ध्यान करते हैं। हम कृष्ण अंगों वाले, सूर्यपुत्र शनि का ध्यान करते हैं, वे हमें प्रेरणा प्रदान करें। शनि गायत्री का पाठ शनि दोष शान्ति एवं शनि की कृपा प्राप्ति के लिए अत्यन्त प्रभावशाली है।",
+  "viniyog": null,
+  "benefits": [
+    "Mitigates the malefic effects of Shani (Saturn) in the horoscope",
+    "Brings relief during Sade Sati and Shani Dhaiya periods",
+    "Bestows discipline, patience, and perseverance",
+    "Removes obstacles caused by karmic debts",
+    "Grants justice, longevity, and spiritual wisdom"
+  ],
+  "deity": "shani",
+  "secondaryDeities": ["navagraha"],
+  "days": ["saturday"],
+  "festivals": ["shani-jayanti", "shani-amavasya"],
+  "purposes": ["graha-shanti", "protection", "obstacle-removal"],
+  "readingTimeMinutes": 2,
+  "seoDescription": "Shani Gayatri Mantra in Sanskrit with Hindi meaning. Powerful mantra to pacify Saturn, reduce Sade Sati effects, and gain Shani Dev's blessings.",
+  "verseCount": 3,
+  "source": "Navagraha Stotra Tradition",
+  "createdAt": "2026-03-29T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
+  "isPublished": true
+}

@@ -1,0 +1,29 @@
+{
+  "id": "635",
+  "title": "अग्नि गायत्री",
+  "titleEn": "Agni Gayatri",
+  "slug": "agni-gayatri",
+  "devanagariText": "॥ श्री अग्नि गायत्री ॥\n\nॐ महाज्वालाय विद्महे वैश्वानराय धीमहि।\nतन्नो अग्निः प्रचोदयात्॥\n\nॐ सप्तजिह्वाय विद्महे हव्यवाहनाय धीमहि।\nतन्नो अग्निः प्रचोदयात्॥\n\nॐ पावकाय विद्महे हुताशनाय धीमहि।\nतन्नो अग्निः प्रचोदयात्॥\n\n॥ इति श्री अग्नि गायत्री सम्पूर्णम् ॥",
+  "transliteration": "|| Shri Agni Gayatri ||\n\nOm Mahajwalaya Vidmahe Vaishvanaraya Dhimahi.\nTanno Agnih Prachodayat.\n\nOm Saptajihvaya Vidmahe Havyavahanaya Dhimahi.\nTanno Agnih Prachodayat.\n\nOm Pavakaya Vidmahe Hutashanaya Dhimahi.\nTanno Agnih Prachodayat.\n\n|| Iti Shri Agni Gayatri Sampoornam ||",
+  "hindiMeaning": "हम महाज्वाला वाले, वैश्वानर (सर्वव्यापी अग्नि) का ध्यान करते हैं, अग्निदेव हमारी बुद्धि को सन्मार्ग पर प्रेरित करें। हम सप्त जिह्वाओं वाले, हव्य को देवताओं तक पहुँचाने वाले अग्नि का ध्यान करते हैं। हम पावक (पवित्र करने वाले), हुताशन (हवि भक्षक) अग्निदेव का ध्यान करते हैं, वे हमें प्रेरणा प्रदान करें।",
+  "viniyog": null,
+  "benefits": [
+    "Invokes the divine blessings of Agni Deva",
+    "Purifies the mind, body, and environment",
+    "Enhances digestive fire and physical vitality",
+    "Brings success in yagya, havan, and sacred rituals",
+    "Removes impurities and burns away accumulated sins"
+  ],
+  "deity": "agni",
+  "secondaryDeities": [],
+  "days": ["sunday"],
+  "festivals": ["holi"],
+  "purposes": ["purification", "health", "spiritual-growth"],
+  "readingTimeMinutes": 2,
+  "seoDescription": "Agni Gayatri Mantra in Sanskrit with Hindi meaning. Invoke Agni Deva's blessings for purification, vitality, and success in sacred rituals.",
+  "verseCount": 3,
+  "source": "Rig Veda",
+  "createdAt": "2026-03-29T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
+  "isPublished": true
+}
