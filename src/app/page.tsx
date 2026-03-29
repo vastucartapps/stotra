@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { DEITIES } from "@/data/deities";
+import { DEITIES, getDeityById } from "@/data/deities";
 import { getTodayDay } from "@/data/days";
 import { PURPOSES } from "@/data/purposes";
 import { ECOSYSTEM_SITES } from "@/data/ecosystem";
@@ -151,7 +151,7 @@ export default function Home() {
                   href={`/deity/${deity.slug}`}
                   className="group relative bg-white rounded-xl p-5 border border-border-light hover:border-gold/40 hover:shadow-card-hover transition-all duration-300 text-center"
                 >
-                  <div className="mx-auto mb-3">
+                  <div className="flex justify-center mb-3">
                     <CategoryIcon type="deity" id={deity.id} color={deity.color} size="md" />
                   </div>
                   <p className="font-semibold text-sm text-text group-hover:text-brand transition-colors">
@@ -231,38 +231,80 @@ export default function Home() {
       )}
 
       {/* -- Stotra of the Day -- */}
-      {stotraOfTheDay && (
-        <section className="py-16">
-          <div className="mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8">
-            <div className="bg-white rounded-2xl border-2 border-gold/30 overflow-hidden shadow-card hover:shadow-glow-gold transition-shadow duration-500">
-              <div className="gradient-border-top" />
-              <div className="p-8 md:p-10">
-                <div className="flex items-center gap-2 mb-4">
-                  <span className="text-gold text-lg">&#9733;</span>
-                  <span className="text-xs font-semibold text-gold uppercase tracking-wider">
-                    Stotra of the Day
-                  </span>
+      {stotraOfTheDay && (() => {
+        const sotdDeity = getDeityById(stotraOfTheDay.deity);
+        return (
+          <section className="py-16 md:py-20">
+            <div className="mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8">
+              <div className="relative overflow-hidden rounded-2xl" style={{ backgroundColor: sotdDeity?.color || '#013f47' }}>
+                {/* Decorative mandala pattern */}
+                <div className="absolute inset-0 opacity-[0.06]">
+                  <div
+                    className="absolute inset-0"
+                    style={{
+                      backgroundImage: `url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox='0 0 80 80' xmlns='http://www.w3.org/2000/svg'%3E%3Ccircle cx='40' cy='40' r='30' fill='none' stroke='%23fff' stroke-width='0.6'/%3E%3Ccircle cx='40' cy='40' r='18' fill='none' stroke='%23fff' stroke-width='0.6'/%3E%3Cpath d='M40 10L40 70M10 40L70 40M18 18L62 62M62 18L18 62' stroke='%23fff' stroke-width='0.4'/%3E%3C/svg%3E")`,
+                      backgroundSize: "80px 80px",
+                    }}
+                  />
                 </div>
-                <h3 className="devanagari-heading text-2xl md:text-3xl text-brand mb-1">
-                  {stotraOfTheDay.title}
-                </h3>
-                <p className="text-lg text-text-light mb-4">
-                  {stotraOfTheDay.titleEn}
-                </p>
-                <p className="devanagari text-text-light leading-loose line-clamp-3 mb-6">
-                  {stotraOfTheDay.devanagariText.split("\n").slice(0, 3).join("\n")}
-                </p>
-                <Link
-                  href={`/stotra/${stotraOfTheDay.slug}`}
-                  className="inline-flex items-center gap-2 bg-brand text-white font-medium px-6 py-3 rounded-xl hover:bg-brand-light transition-colors duration-200 text-sm"
-                >
-                  Read Full Stotra &rarr;
-                </Link>
+                {/* Radial glow from deity icon */}
+                <div className="absolute top-0 right-0 w-96 h-96 opacity-10 rounded-full" style={{ background: 'radial-gradient(circle, rgba(255,255,255,0.4) 0%, transparent 70%)', transform: 'translate(20%, -30%)' }} />
+
+                <div className="relative flex flex-col lg:flex-row items-center gap-8 lg:gap-12 p-8 md:p-12 lg:p-16">
+                  {/* Left: Deity Icon */}
+                  <div className="flex-shrink-0 flex flex-col items-center gap-4">
+                    <div className="w-28 h-28 md:w-36 md:h-36 rounded-3xl bg-white/10 backdrop-blur-sm border border-white/20 flex items-center justify-center">
+                      {sotdDeity && (
+                        <CategoryIcon type="deity" id={sotdDeity.id} size="xl" className="!w-20 !h-20 md:!w-24 md:!h-24 !rounded-2xl bg-white/15" />
+                      )}
+                    </div>
+                    <span className="text-white/60 text-xs font-medium tracking-wider uppercase">
+                      {sotdDeity?.name || stotraOfTheDay.deity}
+                    </span>
+                  </div>
+
+                  {/* Right: Content */}
+                  <div className="flex-1 text-center lg:text-left min-w-0">
+                    <div className="inline-flex items-center gap-2 bg-white/10 backdrop-blur-sm rounded-full px-4 py-1.5 mb-5 border border-white/15">
+                      <span className="text-gold text-sm">&#9733;</span>
+                      <span className="text-xs font-semibold text-gold uppercase tracking-[0.15em]">
+                        Stotra of the Day
+                      </span>
+                    </div>
+
+                    <h3 className="devanagari-heading text-3xl md:text-4xl lg:text-5xl text-white mb-2 leading-tight">
+                      {stotraOfTheDay.title}
+                    </h3>
+                    <p className="text-lg md:text-xl text-white/70 font-serif mb-6">
+                      {stotraOfTheDay.titleEn}
+                    </p>
+
+                    <p className="devanagari text-white/50 text-base md:text-lg leading-loose line-clamp-2 mb-8 max-w-2xl mx-auto lg:mx-0">
+                      {stotraOfTheDay.devanagariText.split("\n").filter(Boolean).slice(0, 2).join("\n")}
+                    </p>
+
+                    <div className="flex flex-col sm:flex-row items-center gap-3 lg:justify-start justify-center">
+                      <Link
+                        href={`/stotra/${stotraOfTheDay.slug}`}
+                        className="inline-flex items-center gap-2 bg-gradient-to-r from-gold to-saffron text-brand-dark font-semibold px-7 py-3.5 rounded-xl hover:shadow-glow-gold transition-all duration-300 text-sm"
+                      >
+                        Read Full Stotra &rarr;
+                      </Link>
+                      <div className="flex items-center gap-4 text-white/40 text-xs">
+                        <span>{stotraOfTheDay.verseCount} verses</span>
+                        <span>&middot;</span>
+                        <span>{stotraOfTheDay.readingTimeMinutes} min read</span>
+                        <span>&middot;</span>
+                        <span className="capitalize">{stotraOfTheDay.source}</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
-          </div>
-        </section>
-      )}
+          </section>
+        );
+      })()}
 
       {/* -- Browse by Purpose -- */}
       <section className="py-16 bg-cream-mid/50">
