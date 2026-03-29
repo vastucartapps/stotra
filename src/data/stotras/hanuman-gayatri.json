@@ -1,0 +1,51 @@
+{
+  "id": "353",
+  "title": "हनुमान गायत्री मन्त्र",
+  "titleEn": "Hanuman Gayatri Mantra",
+  "slug": "hanuman-gayatri",
+  "devanagariText": "॥ श्री हनुमान गायत्री मन्त्रः ॥\n\n॥ ध्यानम् ॥\nगोष्पदीकृतवारीशं मशकीकृतराक्षसम्।\nरामायणमहामालारत्नं वन्देऽनिलात्मजम्॥\n\nअतुलितबलधामं हेमशैलाभदेहं\nदनुजवनकृशानुं ज्ञानिनामग्रगण्यम्।\nसकलगुणनिधानं वानराणामधीशं\nरघुपतिप्रियभक्तं वातजातं नमामि॥\n\n॥ हनुमान गायत्री ॥\nॐ आञ्जनेयाय विद्महे\nवायुपुत्राय धीमहि।\nतन्नो हनुमान् प्रचोदयात्॥\n\n॥ अपर हनुमान गायत्री ॥\nॐ रामदूताय विद्महे\nमहावीराय धीमहि।\nतन्नो मारुतिः प्रचोदयात्॥\n\n॥ फलश्रुति ॥\nहनुमद्गायत्रीमेतां यः पठेन्नित्यमादरात्।\nसर्वापद्भ्यो विमुच्येत बलवीर्यसमन्वितः॥\n\n॥ इति श्री हनुमान गायत्री मन्त्रः सम्पूर्णः ॥",
+  "transliteration": "|| Shri Hanuman Gayatri Mantrah ||\n\n|| Dhyanam ||\nGoshpadikrita-variisham Mashakikrita-rakshasam.\nRamayana-maha-mala-ratnam Vande-anila-atmajam.\n\nAtulita-bala-dhamam Hema-shailaabha-deham\nDanuja-vana-krishanum Jnaninam-agraganyam.\nSakala-guna-nidhanam Vanaranam-adheesham\nRaghupati-priya-bhaktam Vatajatam Namami.\n\n|| Hanuman Gayatri ||\nOm Aanjaneyaya Vidmahe\nVayuputraya Dheemahi.\nTanno Hanuman Prachodayat.\n\n|| Apara Hanuman Gayatri ||\nOm Ramadutaya Vidmahe\nMahaveeraya Dheemahi.\nTanno Marutih Prachodayat.\n\n|| Phalashruti ||\nHanumad-gayatrim-etam Yah Pathen-nityam-aadarat.\nSarvapadbhyo Vimuchyeta Bala-virya-samanvitah.\n\n|| Iti Shri Hanuman Gayatri Mantrah Sampurnah ||",
+  "hindiMeaning": "ध्यान: जिन्होंने समुद्र को गोखुर के जल के समान बना दिया, राक्षसों को मच्छर के समान किया, रामायण की महामाला के रत्न — ऐसे वायुपुत्र को वन्दन। अतुलित बलधाम, स्वर्णगिरि के समान देह, दानवों के वन की अग्नि, ज्ञानियों में अग्रगण्य, सकल गुणनिधान, वानराधीश, रघुपतिप्रिय भक्त वातजात (हनुमान) को नमस्कार।\n\nहनुमान गायत्री: हम आञ्जनेय को जानते हैं, वायुपुत्र का ध्यान करते हैं। वे हनुमान हमारी बुद्धि को प्रेरित करें।\n\nअपर गायत्री: हम रामदूत को जानते हैं, महावीर का ध्यान करते हैं। वे मारुति हमें प्रेरित करें।\n\nजो नित्य आदरपूर्वक इस हनुमान गायत्री का पाठ करता है, वह सर्वापदाओं से मुक्त होकर बल-वीर्य से सम्पन्न होता है।",
+  "viniyog": {
+    "rishi": "रामभद्राचार्य",
+    "chhand": "गायत्री",
+    "devata": "श्री हनुमान (आञ्जनेय)",
+    "beej": "ॐ हं",
+    "shakti": "वायु शक्ति",
+    "kilak": "बलवीर्य प्राप्ति",
+    "shloka": "अस्य श्रीहनुमद्गायत्रीमन्त्रस्य रामभद्राचार्य ऋषिः। गायत्री छन्दः। श्री हनुमान (आञ्जनेय) देवता। ॐ हं बीजम्। वायु शक्तिः। बलवीर्य प्राप्ति कीलकम्। श्रीहनुमानप्रीत्यर्थे जपे विनियोगः॥"
+  },
+  "benefits": [
+    "Two Hanuman Gayatri variations — Anjaneya and Ramaduta forms",
+    "Grants extraordinary strength, courage, and valor",
+    "Removes all calamities and bestows fearlessness",
+    "Powerful for Tuesdays, Saturdays, and Hanuman Jayanti",
+    "Enhances physical and mental strength",
+    "Provides protection from evil forces and enemies"
+  ],
+  "deity": "hanuman",
+  "secondaryDeities": [
+    "rama"
+  ],
+  "days": [
+    "tuesday",
+    "saturday"
+  ],
+  "festivals": [
+    "hanuman-jayanti"
+  ],
+  "purposes": [
+    "strength",
+    "courage",
+    "protection",
+    "devotion",
+    "removal-of-obstacles"
+  ],
+  "readingTimeMinutes": 3,
+  "seoDescription": "Read Hanuman Gayatri Mantra with dhyanam in Sanskrit and Hindi meaning. Invoke Lord Hanuman for strength, courage, and divine protection.",
+  "verseCount": 4,
+  "source": "Hanuman tradition / Parasara Samhita",
+  "createdAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-03-28T00:00:00Z",
+  "isPublished": true
+}
