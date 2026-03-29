@@ -1,29 +1,40 @@
 {
-  "id": "575",
-  "title": "सरस्वती पञ्चकम्",
-  "titleEn": "Saraswati Panchakam",
-  "slug": "saraswati-panchakam",
-  "devanagariText": "॥ श्री सरस्वती पञ्चकम् ॥\n\nपाटीरपुष्पकोमलाङ्गीं पद्मपत्रायतेक्षणाम्।\nपद्मासनस्थितां वन्दे परां देवीं सरस्वतीम्॥१॥\n\nशरच्चन्द्रसमानाभां शुभ्रवस्त्रविभूषणाम्।\nशुद्धज्ञानस्वरूपां तां शारदां प्रणमाम्यहम्॥२॥\n\nवीणावादनतत्परां स्मितमुखीं हंसासनस्थामिमां\nमुक्ताहारविराजमानवसनां नेत्रत्रयोपेतिनीम्।\nवाणीं वाक्पटुवर्धिनीं मतिकरीं सिद्धैः सदा सेविताम्\nतामम्बां सरसीरुहासनपरां वन्दे सरस्वतीम्॥३॥\n\nपुस्तकं चाक्षमालां च वीणां दधतीं करैः।\nअभयं वरदां हस्ते बिभ्राणां चतुर्भुजाम्॥४॥\n\nविद्यादायिनि वाग्देवि ब्रह्मरूपे सनातनि।\nमहाविद्ये महाभागे सरस्वत्यै नमो नमः॥५॥\n\n॥ फलश्रुति ॥\nसरस्वतीपञ्चकमेतदुत्तमं\nपठन्ति ये भक्तियुताः प्रतिदिनम्।\nतेषां जिह्वासु वाग्देवी सदा\nवसति मेधां बुद्धिं च वर्धयति॥\n\n॥ इति श्री सरस्वती पञ्चकम् सम्पूर्णम् ॥",
-  "transliteration": "|| Shri Saraswati Panchakam ||\n\nPatira-pushpa-komalangim Padma-patrayatekshanam.\nPadmasana-sthitam Vande Param Devim Saraswatim.||1||\n\nSharach-chandra-samanabham Shubhra-vastra-vibhushanam.\nShuddha-jnana-swarupam tam Sharadam pranamamy-aham.||2||\n\nVina-vadana-tatparam Smita-mukhim Hamsasana-stham-imam\nMukta-hara-virajamana-vasanam Netra-trayopetinim.\nVanim Vak-patu-vardhinim Mati-karim Siddhaih sada sevitam\nTam-ambam Sarasiruhsana-param Vande Saraswatim.||3||\n\nPustakam Chakshamalam cha Vinam dadhatim karaih.\nAbhayam Varadam haste bibhranam Chaturbhujam.||4||\n\nVidya-dayini Vag-devi Brahma-rupe Sanatani.\nMaha-vidye Mahabhage Saraswatyai Namo Namah.||5||\n\n|| Phalashruti ||\nSaraswati-panchakam-etad-uttamam\nPathanti ye bhakti-yutah pratidinam.\nTesham jihvasu Vag-devi sada\nVasati medham buddhim cha vardhayati.\n\n|| Iti Shri Saraswati Panchakam Sampurnam ||",
-  "hindiMeaning": "पाटीर पुष्प जैसे कोमल अंगों वाली, कमलपत्र जैसे विशाल नेत्रों वाली, पद्मासन पर विराजमान परम देवी सरस्वती को वन्दन। शरद् चन्द्र जैसी कान्ति वाली, शुभ्र वस्त्र धारिणी, शुद्ध ज्ञान स्वरूपा शारदा को प्रणाम। वीणावादन में तत्पर, मुस्कान भरे मुख वाली, हंसासन पर विराजमान, मुक्ताहार से शोभित, वाक्पटुता बढ़ाने वाली, बुद्धि प्रदायिनी सरस्वती माँ को वन्दन। जो इस पंचक का प्रतिदिन भक्तिपूर्वक पाठ करते हैं, उनकी जिह्वा पर वाग्देवी सदा निवास करती हैं।",
-  "viniyog": null,
-  "benefits": [
-    "Five verses praising Saraswati for knowledge and eloquence",
-    "Saraswati resides on the tongue of daily reciters",
-    "Increases intelligence (medha) and wisdom (buddhi)",
-    "Grants proficiency in speech and communication",
-    "Ideal for students and scholars seeking knowledge"
-  ],
-  "deity": "saraswati",
-  "secondaryDeities": ["brahma"],
-  "days": ["wednesday", "thursday"],
-  "festivals": ["vasant-panchami"],
-  "purposes": ["education", "wisdom", "devotion"],
-  "readingTimeMinutes": 5,
-  "seoDescription": "Read Saraswati Panchakam in Sanskrit with Hindi meaning. Five verses praising Goddess Saraswati for wisdom, eloquence and knowledge.",
-  "verseCount": 5,
-  "source": "Traditional",
-  "createdAt": "2026-03-29T00:00:00Z",
-  "updatedAt": "2026-03-29T00:00:00Z",
-  "isPublished": true
+    "id": "562",
+    "title": "सरस्वती पञ्चकम्",
+    "titleEn": "Saraswati Panchakam",
+    "slug": "saraswati-panchakam",
+    "devanagariText": "॥ श्री सरस्वती पञ्चकम् ॥\n\nपाटीरपुष्पकोमलाङ्गीं पद्मपत्रायतेक्षणाम्।\nपद्मासनस्थितां वन्दे परां देवीं सरस्वतीम्॥१॥\n\nशरच्चन्द्रसमानाभां शुभ्रवस्त्रविभूषणाम्।\nशुद्धज्ञानस्वरूपां तां शारदां प्रणमाम्यहम्॥२॥\n\nवीणावादनतत्परां स्मितमुखीं हंसासनस्थामिमां\nमुक्ताहारविराजमानवसनां नेत्रत्रयोपेतिनीम्।\nवाणीं वाक्पटुवर्धिनीं मतिकरीं सिद्धैः सदा सेविताम्\nतामम्बां सरसीरुहासनपरां वन्दे सरस्वतीम्॥३॥\n\nपुस्तकं चाक्षमालां च वीणां दधतीं करैः।\nअभयं वरदां हस्ते बिभ्राणां चतुर्भुजाम्॥४॥\n\nविद्यादायिनि वाग्देवि ब्रह्मरूपे सनातनि।\nमहाविद्ये महाभागे सरस्वत्यै नमो नमः॥५॥\n\n॥ फलश्रुति ॥\nसरस्वतीपञ्चकमेतदुत्तमं\nपठन्ति ये भक्तियुताः प्रतिदिनम्।\nतेषां जिह्वासु वाग्देवी सदा\nवसति मेधां बुद्धिं च वर्धयति॥\n\n॥ इति श्री सरस्वती पञ्चकम् सम्पूर्णम् ॥",
+    "transliteration": "|| Shri Saraswati Panchakam ||\n\nPatira-pushpa-komalangim Padma-patrayatekshanam.\nPadmasana-sthitam Vande Param Devim Saraswatim.||1||\n\nSharach-chandra-samanabham Shubhra-vastra-vibhushanam.\nShuddha-jnana-swarupam tam Sharadam pranamamy-aham.||2||\n\nVina-vadana-tatparam Smita-mukhim Hamsasana-stham-imam\nMukta-hara-virajamana-vasanam Netra-trayopetinim.\nVanim Vak-patu-vardhinim Mati-karim Siddhaih sada sevitam\nTam-ambam Sarasiruhsana-param Vande Saraswatim.||3||\n\nPustakam Chakshamalam cha Vinam dadhatim karaih.\nAbhayam Varadam haste bibhranam Chaturbhujam.||4||\n\nVidya-dayini Vag-devi Brahma-rupe Sanatani.\nMaha-vidye Mahabhage Saraswatyai Namo Namah.||5||\n\n|| Phalashruti ||\nSaraswati-panchakam-etad-uttamam\nPathanti ye bhakti-yutah pratidinam.\nTesham jihvasu Vag-devi sada\nVasati medham buddhim cha vardhayati.\n\n|| Iti Shri Saraswati Panchakam Sampurnam ||",
+    "hindiMeaning": "पाटीर पुष्प जैसे कोमल अंगों वाली, कमलपत्र जैसे विशाल नेत्रों वाली, पद्मासन पर विराजमान परम देवी सरस्वती को वन्दन। शरद् चन्द्र जैसी कान्ति वाली, शुभ्र वस्त्र धारिणी, शुद्ध ज्ञान स्वरूपा शारदा को प्रणाम। वीणावादन में तत्पर, मुस्कान भरे मुख वाली, हंसासन पर विराजमान, मुक्ताहार से शोभित, वाक्पटुता बढ़ाने वाली, बुद्धि प्रदायिनी सरस्वती माँ को वन्दन। जो इस पंचक का प्रतिदिन भक्तिपूर्वक पाठ करते हैं, उनकी जिह्वा पर वाग्देवी सदा निवास करती हैं।",
+    "viniyog": null,
+    "benefits": [
+        "Five verses praising Saraswati for knowledge and eloquence",
+        "Saraswati resides on the tongue of daily reciters",
+        "Increases intelligence (medha) and wisdom (buddhi)",
+        "Grants proficiency in speech and communication",
+        "Ideal for students and scholars seeking knowledge"
+    ],
+    "deity": "saraswati",
+    "secondaryDeities": [
+        "brahma"
+    ],
+    "days": [
+        "wednesday",
+        "thursday"
+    ],
+    "festivals": [
+        "vasant-panchami"
+    ],
+    "purposes": [
+        "education",
+        "wisdom",
+        "devotion"
+    ],
+    "readingTimeMinutes": 5,
+    "seoDescription": "Read Saraswati Panchakam in Sanskrit with Hindi meaning. Five verses praising Goddess Saraswati for wisdom, eloquence and knowledge.",
+    "verseCount": 5,
+    "source": "Traditional",
+    "createdAt": "2026-03-29T00:00:00Z",
+    "updatedAt": "2026-03-29T00:00:00Z",
+    "isPublished": true
 }

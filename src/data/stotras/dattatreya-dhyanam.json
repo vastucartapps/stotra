@@ -1,29 +1,42 @@
 {
-  "id": "513",
-  "title": "दत्तात्रेय ध्यानम्",
-  "titleEn": "Dattatreya Dhyanam",
-  "slug": "dattatreya-dhyanam",
-  "devanagariText": "॥ श्री दत्तात्रेय ध्यानम् ॥\n\nजटाधरं पाण्डुरङ्गं शूलहस्तं कृपानिधिम्।\nसर्वरोगहरं देवं दत्तात्रेयमहं भजे॥ १॥\n\nदिगम्बरं भस्मभूषितसर्वाङ्गं नीलकेशम्।\nदत्तात्रेयं चिदानन्दं श्रीपादं वल्लभं भजे॥ २॥\n\nब्रह्मा विष्णुः शिवश्चेति त्रिमूर्तिरूपधारकः।\nएको देवो दत्तात्रेयस्तं वन्दे गुरुमूर्तिकम्॥ ३॥\n\nअवधूतमनादिमव्ययमचिन्त्यम्\nब्रह्मविद्यानिधानम्।\nसर्वभूतहिते रतं सततम्\nदत्तात्रेयं नमामि॥ ४॥\n\nचतुर्भुजं कमण्डलुत्रिशूलडमरुधारिणम्।\nश्वानैश्चतुर्भिः संसेव्यं दत्तात्रेयं नमाम्यहम्॥ ५॥\n\nअत्रिपुत्रं महातेजं अनसूयासुतं विभुम्।\nस्मर्तुः सर्वार्थदातारं दत्तात्रेयं नमाम्यहम्॥ ६॥\n\nयोगीश्वरं ज्ञानसागरमनन्तं\nकरुणानिधिं दत्तदेवम्।\nगुरुवरं निरञ्जनं निर्गुणं\nपरमं पदं प्रपद्ये॥ ७॥\n\nॐ द्रां दत्तात्रेयाय नमः।\nॐ श्रीगुरुदत्तात्रेयाय नमः॥ ८॥\n\n॥ इति श्री दत्तात्रेय ध्यानम् सम्पूर्णम् ॥",
-  "transliteration": "|| Shri Dattatreya Dhyanam ||\n\nJataadharam Pandurangam Shulahastam Kripanidhim |\nSarvarogaharam Devam Dattatreyam Aham Bhaje || 1 ||\n\nDigambaram Bhasma Bhushita Sarvangam Nilakesham |\nDattatreyam Chidanandam Shripadam Vallabham Bhaje || 2 ||\n\nBrahma Vishnuh Shivashcheti Trimurti Rupadharakah |\nEko Devo Dattatreyas Tam Vande Gurumurtikam || 3 ||\n\nAvadhutam Anadim Avyayam Achintyam\nBrahmavidyanidhaanam |\nSarva Bhuta Hite Ratam Satatam\nDattatreyam Namami || 4 ||\n\nChaturbhujam Kamandalu Trishula Damaru Dharinam |\nShvanaish Chaturbhih Samsevyam Dattatreyam Namamy Aham || 5 ||\n\nAtriputram Mahatejam Anasuya Sutam Vibhum |\nSmartuh Sarvartha Dataram Dattatreyam Namamy Aham || 6 ||\n\nYogishvaram Jnanasagaram Anantam\nKarunanidhim Dattadevam |\nGuruvaram Niranjanam Nirgunam\nParamam Padam Prapadye || 7 ||\n\nOm Dram Dattatreyaya Namah |\nOm Shri Guru Dattatreyaya Namah || 8 ||\n\n|| Iti Shri Dattatreya Dhyanam Sampurnam ||",
-  "hindiMeaning": "जटाधारी, पाण्डुरंग (गौरवर्ण), शूलहस्त, कृपानिधि, सर्वरोगहर दत्तात्रेय देव को भजता हूँ।\n\nदिगम्बर, भस्मभूषित, नीलकेशी, चिदानन्दस्वरूप, श्रीपाद वल्लभ दत्तात्रेय को भजता हूँ।\n\nब्रह्मा, विष्णु और शिव — इन तीन मूर्तियों के रूपधारक, एक देव दत्तात्रेय उन गुरुमूर्ति को वन्दन।\n\nअवधूत, अनादि, अव्यय, अचिन्त्य, ब्रह्मविद्या के निधान, सर्वभूतहित में रत दत्तात्रेय को नमस्कार।\n\nचतुर्भुज, कमण्डलु-त्रिशूल-डमरु धारी, चार कुत्तों (चार वेद) से सेवित दत्तात्रेय को नमस्कार।\n\nअत्रि के पुत्र, महातेजस्वी, अनसूया के सुत, विभु, स्मरण करने वाले को सर्वार्थ देने वाले दत्तात्रेय को नमस्कार।\n\nयोगीश्वर, ज्ञानसागर, अनन्त, करुणानिधि, गुरुवर, निरञ्जन, निर्गुण परमपद की शरण।",
-  "viniyog": null,
-  "benefits": [
-    "Complete meditation verses for Lord Dattatreya, the Trimurthy incarnation",
-    "Invokes Dattatreya as Guru, Yogi and Avadhuta",
-    "Grants guru kripa (grace) and spiritual wisdom",
-    "Removes all diseases and afflictions through divine remembrance",
-    "Ideal for Thursday (Guruvar) worship and Dattatreya Jayanti"
-  ],
-  "deity": "dattatreya",
-  "secondaryDeities": ["vishnu", "shiva"],
-  "days": ["thursday"],
-  "festivals": ["dattatreya-jayanti", "guru-purnima"],
-  "purposes": ["devotion", "spiritual-growth", "knowledge", "health"],
-  "readingTimeMinutes": 4,
-  "seoDescription": "Read Dattatreya Dhyanam in Sanskrit with Hindi meaning. Meditation verses for Lord Dattatreya, the Trimurthy Guru incarnation.",
-  "verseCount": 8,
-  "source": "Dattatreya Upanishad / Guru Charitra",
-  "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
-  "isPublished": true
+    "id": "127",
+    "title": "दत्तात्रेय ध्यानम्",
+    "titleEn": "Dattatreya Dhyanam",
+    "slug": "dattatreya-dhyanam",
+    "devanagariText": "॥ श्री दत्तात्रेय ध्यानम् ॥\n\nजटाधरं पाण्डुरङ्गं शूलहस्तं कृपानिधिम्।\nसर्वरोगहरं देवं दत्तात्रेयमहं भजे॥ १॥\n\nदिगम्बरं भस्मभूषितसर्वाङ्गं नीलकेशम्।\nदत्तात्रेयं चिदानन्दं श्रीपादं वल्लभं भजे॥ २॥\n\nब्रह्मा विष्णुः शिवश्चेति त्रिमूर्तिरूपधारकः।\nएको देवो दत्तात्रेयस्तं वन्दे गुरुमूर्तिकम्॥ ३॥\n\nअवधूतमनादिमव्ययमचिन्त्यम्\nब्रह्मविद्यानिधानम्।\nसर्वभूतहिते रतं सततम्\nदत्तात्रेयं नमामि॥ ४॥\n\nचतुर्भुजं कमण्डलुत्रिशूलडमरुधारिणम्।\nश्वानैश्चतुर्भिः संसेव्यं दत्तात्रेयं नमाम्यहम्॥ ५॥\n\nअत्रिपुत्रं महातेजं अनसूयासुतं विभुम्।\nस्मर्तुः सर्वार्थदातारं दत्तात्रेयं नमाम्यहम्॥ ६॥\n\nयोगीश्वरं ज्ञानसागरमनन्तं\nकरुणानिधिं दत्तदेवम्।\nगुरुवरं निरञ्जनं निर्गुणं\nपरमं पदं प्रपद्ये॥ ७॥\n\nॐ द्रां दत्तात्रेयाय नमः।\nॐ श्रीगुरुदत्तात्रेयाय नमः॥ ८॥\n\n॥ इति श्री दत्तात्रेय ध्यानम् सम्पूर्णम् ॥",
+    "transliteration": "|| Shri Dattatreya Dhyanam ||\n\nJataadharam Pandurangam Shulahastam Kripanidhim |\nSarvarogaharam Devam Dattatreyam Aham Bhaje || 1 ||\n\nDigambaram Bhasma Bhushita Sarvangam Nilakesham |\nDattatreyam Chidanandam Shripadam Vallabham Bhaje || 2 ||\n\nBrahma Vishnuh Shivashcheti Trimurti Rupadharakah |\nEko Devo Dattatreyas Tam Vande Gurumurtikam || 3 ||\n\nAvadhutam Anadim Avyayam Achintyam\nBrahmavidyanidhaanam |\nSarva Bhuta Hite Ratam Satatam\nDattatreyam Namami || 4 ||\n\nChaturbhujam Kamandalu Trishula Damaru Dharinam |\nShvanaish Chaturbhih Samsevyam Dattatreyam Namamy Aham || 5 ||\n\nAtriputram Mahatejam Anasuya Sutam Vibhum |\nSmartuh Sarvartha Dataram Dattatreyam Namamy Aham || 6 ||\n\nYogishvaram Jnanasagaram Anantam\nKarunanidhim Dattadevam |\nGuruvaram Niranjanam Nirgunam\nParamam Padam Prapadye || 7 ||\n\nOm Dram Dattatreyaya Namah |\nOm Shri Guru Dattatreyaya Namah || 8 ||\n\n|| Iti Shri Dattatreya Dhyanam Sampurnam ||",
+    "hindiMeaning": "जटाधारी, पाण्डुरंग (गौरवर्ण), शूलहस्त, कृपानिधि, सर्वरोगहर दत्तात्रेय देव को भजता हूँ।\n\nदिगम्बर, भस्मभूषित, नीलकेशी, चिदानन्दस्वरूप, श्रीपाद वल्लभ दत्तात्रेय को भजता हूँ।\n\nब्रह्मा, विष्णु और शिव — इन तीन मूर्तियों के रूपधारक, एक देव दत्तात्रेय उन गुरुमूर्ति को वन्दन।\n\nअवधूत, अनादि, अव्यय, अचिन्त्य, ब्रह्मविद्या के निधान, सर्वभूतहित में रत दत्तात्रेय को नमस्कार।\n\nचतुर्भुज, कमण्डलु-त्रिशूल-डमरु धारी, चार कुत्तों (चार वेद) से सेवित दत्तात्रेय को नमस्कार।\n\nअत्रि के पुत्र, महातेजस्वी, अनसूया के सुत, विभु, स्मरण करने वाले को सर्वार्थ देने वाले दत्तात्रेय को नमस्कार।\n\nयोगीश्वर, ज्ञानसागर, अनन्त, करुणानिधि, गुरुवर, निरञ्जन, निर्गुण परमपद की शरण।",
+    "viniyog": null,
+    "benefits": [
+        "Complete meditation verses for Lord Dattatreya, the Trimurthy incarnation",
+        "Invokes Dattatreya as Guru, Yogi and Avadhuta",
+        "Grants guru kripa (grace) and spiritual wisdom",
+        "Removes all diseases and afflictions through divine remembrance",
+        "Ideal for Thursday (Guruvar) worship and Dattatreya Jayanti"
+    ],
+    "deity": "dattatreya",
+    "secondaryDeities": [
+        "vishnu",
+        "shiva"
+    ],
+    "days": [
+        "thursday"
+    ],
+    "festivals": [
+        "datta-jayanti",
+        "guru-purnima"
+    ],
+    "purposes": [
+        "devotion",
+        "spiritual-growth",
+        "knowledge",
+        "health"
+    ],
+    "readingTimeMinutes": 4,
+    "seoDescription": "Read Dattatreya Dhyanam in Sanskrit with Hindi meaning. Meditation verses for Lord Dattatreya, the Trimurthy Guru incarnation.",
+    "verseCount": 8,
+    "source": "Dattatreya Upanishad / Guru Charitra",
+    "createdAt": "2026-03-28T00:00:00Z",
+    "updatedAt": "2026-03-28T00:00:00Z",
+    "isPublished": true
 }

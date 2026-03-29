@@ -1,30 +1,43 @@
 {
-  "id": "388",
-  "title": "श्री नन्दी स्तोत्रम्",
-  "titleEn": "Nandi Stotram",
-  "slug": "nandi-stotram",
-  "devanagariText": "॥ श्री नन्दी स्तोत्रम् ॥\n\nॐ नमो नन्दिकेश्वराय।\nशिववाहनाय वृषभाय नमः॥\n\nनन्दीश्वरं महाभागं शिवभक्तं सनातनम्।\nवृषभेशं गणाध्यक्षं प्रणमामि मुदान्वितः॥ १॥\n\nशिवद्वारपालं नन्दिं शिवध्यानपरायणम्।\nशिवज्ञानप्रदातारं नन्दिकेशं नमाम्यहम्॥ २॥\n\nश्वेतवर्णं वृषारूढं शूलहस्तं शुभप्रदम्।\nनन्दिनं शिवगणेशानं वन्दे भक्तिसमन्वितः॥ ३॥\n\nशिलदमुनिसुतं दिव्यं शिवेन परिपालितम्।\nतण्डवे नृत्यतो देवं पश्यन्तं नन्दिनं भजे॥ ४॥\n\nचतुर्वेदविदं नित्यं योगशास्त्रप्रवर्तकम्।\nनन्दीश्वरं महायोगं प्रणमामि सदा हृदा॥ ५॥\n\nशिवालयेषु सर्वेषु यः समक्षे विराजते।\nशिवदर्शनदातारं नन्दिनं प्रणमाम्यहम्॥ ६॥\n\nकैलासवासिनं नित्यं शिवपार्वतिसेवकम्।\nगणानां प्रथमं वन्दे नन्दीश्वरमनामयम्॥ ७॥\n\nनन्दिनं प्रार्थयेद्भक्त्या शिवदर्शनकाङ्क्षया।\nनन्दिकृत्यानुमत्या च शिवः प्रसन्नो भवेद् ध्रुवम्॥ ८॥\n\nनन्दिस्तोत्रमिदं पुण्यं यः पठेद् भक्तिसंयुतः।\nशिवकृपां समाप्नोति शिवलोकं स गच्छति॥ ९॥\n\n॥ इति श्री नन्दी स्तोत्रम् सम्पूर्णम् ॥",
-  "transliteration": "|| Shri Nandi Stotram ||\n\nOm Namo Nandikeshwaraya |\nShiva-vahanaya Vrishabhaya namah ||\n\nNandishwaram Mahabhagam Shiva-bhaktam sanatanam |\nVrishabhesham Gana-adhyaksham pranamami muda-anvitah || 1 ||\n\nShiva-dvarapalam Nandim Shiva-dhyana-parayanam |\nShiva-jnana-pradataram Nandikesham namamyaham || 2 ||\n\nShveta-varnam Vrisha-rudham Shula-hastam Shubha-pradam |\nNandinam Shiva-Ganeshanam vande bhakti-samanvitah || 3 ||\n\nShilada-muni-sutam divyam Shivena paripaalitam |\nTandave nrityato Devam pashyantam Nandinam bhaje || 4 ||\n\nChatur-veda-vidam nityam Yoga-shastra-pravartakam |\nNandishwaram Maha-yogam pranamami sada hrida || 5 ||\n\nShivalayeshu sarveshu yah samakshe virajate |\nShiva-darshana-dataram Nandinam pranamamy-aham || 6 ||\n\nKailasa-vasinam nityam Shiva-Parvati-sevakam |\nGananam prathamam vande Nandishwaram-anamayam || 7 ||\n\nNandinam prarthayed-bhaktya Shiva-darshana-kankshaya |\nNandi-kritya-anumatya cha Shivah prasanno bhaved dhruvam || 8 ||\n\nNandi-stotram-idam punyam yah pathed bhakti-samyutah |\nShiva-kripam samapnoti Shivalokam sa gachchhati || 9 ||\n\n|| Iti Shri Nandi Stotram Sampurnam ||",
-  "hindiMeaning": "शिवभक्त, सनातन, वृषभेश, गणाध्यक्ष नन्दीश्वर को मैं प्रसन्नतापूर्वक प्रणाम करता हूँ। शिव के द्वारपाल, शिवध्यानपरायण, शिवज्ञान प्रदान करने वाले नन्दिकेश को नमस्कार। श्वेतवर्ण, वृषभ पर आरूढ़, शूलहस्त, शुभप्रद नन्दिन को भक्तिपूर्वक वन्दन। शिलद मुनि के पुत्र, शिव द्वारा पालित, शिव के ताण्डव नृत्य को देखने वाले नन्दिन को भजता हूँ। चतुर्वेदविद, योगशास्त्र के प्रवर्तक, महायोगी नन्दीश्वर को हृदय से प्रणाम। सभी शिवालयों में शिव के सम्मुख विराजमान, शिवदर्शन प्रदान करने वाले नन्दिन को प्रणाम। नन्दी की कृपा और अनुमति से शिव निश्चय ही प्रसन्न होते हैं।",
-  "viniyog": null,
-  "benefits": [
-    "Pleasing Nandi ensures Lord Shiva's grace",
-    "Grants deep devotion and access to Shiva's presence",
-    "Bestows yogic knowledge and spiritual wisdom",
-    "Protects from obstacles in Shiva worship",
-    "Removes barriers to spiritual progress",
-    "Leads to Shivaloka through Nandi's intercession"
-  ],
-  "deity": "shiva",
-  "secondaryDeities": ["parvati"],
-  "days": ["monday", "saturday"],
-  "festivals": ["mahashivratri", "shravan-somvar"],
-  "purposes": ["devotion", "spiritual-growth", "protection", "knowledge"],
-  "readingTimeMinutes": 6,
-  "seoDescription": "Read Nandi Stotram in Sanskrit with transliteration and Hindi meaning. Sacred prayer to Nandikeshwara, Lord Shiva's divine bull vehicle.",
-  "verseCount": 9,
-  "source": "Shiva Purana",
-  "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
-  "isPublished": true
+    "id": "430",
+    "title": "श्री नन्दी स्तोत्रम्",
+    "titleEn": "Nandi Stotram",
+    "slug": "nandi-stotram",
+    "devanagariText": "॥ श्री नन्दी स्तोत्रम् ॥\n\nॐ नमो नन्दिकेश्वराय।\nशिववाहनाय वृषभाय नमः॥\n\nनन्दीश्वरं महाभागं शिवभक्तं सनातनम्।\nवृषभेशं गणाध्यक्षं प्रणमामि मुदान्वितः॥ १॥\n\nशिवद्वारपालं नन्दिं शिवध्यानपरायणम्।\nशिवज्ञानप्रदातारं नन्दिकेशं नमाम्यहम्॥ २॥\n\nश्वेतवर्णं वृषारूढं शूलहस्तं शुभप्रदम्।\nनन्दिनं शिवगणेशानं वन्दे भक्तिसमन्वितः॥ ३॥\n\nशिलदमुनिसुतं दिव्यं शिवेन परिपालितम्।\nतण्डवे नृत्यतो देवं पश्यन्तं नन्दिनं भजे॥ ४॥\n\nचतुर्वेदविदं नित्यं योगशास्त्रप्रवर्तकम्।\nनन्दीश्वरं महायोगं प्रणमामि सदा हृदा॥ ५॥\n\nशिवालयेषु सर्वेषु यः समक्षे विराजते।\nशिवदर्शनदातारं नन्दिनं प्रणमाम्यहम्॥ ६॥\n\nकैलासवासिनं नित्यं शिवपार्वतिसेवकम्।\nगणानां प्रथमं वन्दे नन्दीश्वरमनामयम्॥ ७॥\n\nनन्दिनं प्रार्थयेद्भक्त्या शिवदर्शनकाङ्क्षया।\nनन्दिकृत्यानुमत्या च शिवः प्रसन्नो भवेद् ध्रुवम्॥ ८॥\n\nनन्दिस्तोत्रमिदं पुण्यं यः पठेद् भक्तिसंयुतः।\nशिवकृपां समाप्नोति शिवलोकं स गच्छति॥ ९॥\n\n॥ इति श्री नन्दी स्तोत्रम् सम्पूर्णम् ॥",
+    "transliteration": "|| Shri Nandi Stotram ||\n\nOm Namo Nandikeshwaraya |\nShiva-vahanaya Vrishabhaya namah ||\n\nNandishwaram Mahabhagam Shiva-bhaktam sanatanam |\nVrishabhesham Gana-adhyaksham pranamami muda-anvitah || 1 ||\n\nShiva-dvarapalam Nandim Shiva-dhyana-parayanam |\nShiva-jnana-pradataram Nandikesham namamyaham || 2 ||\n\nShveta-varnam Vrisha-rudham Shula-hastam Shubha-pradam |\nNandinam Shiva-Ganeshanam vande bhakti-samanvitah || 3 ||\n\nShilada-muni-sutam divyam Shivena paripaalitam |\nTandave nrityato Devam pashyantam Nandinam bhaje || 4 ||\n\nChatur-veda-vidam nityam Yoga-shastra-pravartakam |\nNandishwaram Maha-yogam pranamami sada hrida || 5 ||\n\nShivalayeshu sarveshu yah samakshe virajate |\nShiva-darshana-dataram Nandinam pranamamy-aham || 6 ||\n\nKailasa-vasinam nityam Shiva-Parvati-sevakam |\nGananam prathamam vande Nandishwaram-anamayam || 7 ||\n\nNandinam prarthayed-bhaktya Shiva-darshana-kankshaya |\nNandi-kritya-anumatya cha Shivah prasanno bhaved dhruvam || 8 ||\n\nNandi-stotram-idam punyam yah pathed bhakti-samyutah |\nShiva-kripam samapnoti Shivalokam sa gachchhati || 9 ||\n\n|| Iti Shri Nandi Stotram Sampurnam ||",
+    "hindiMeaning": "शिवभक्त, सनातन, वृषभेश, गणाध्यक्ष नन्दीश्वर को मैं प्रसन्नतापूर्वक प्रणाम करता हूँ। शिव के द्वारपाल, शिवध्यानपरायण, शिवज्ञान प्रदान करने वाले नन्दिकेश को नमस्कार। श्वेतवर्ण, वृषभ पर आरूढ़, शूलहस्त, शुभप्रद नन्दिन को भक्तिपूर्वक वन्दन। शिलद मुनि के पुत्र, शिव द्वारा पालित, शिव के ताण्डव नृत्य को देखने वाले नन्दिन को भजता हूँ। चतुर्वेदविद, योगशास्त्र के प्रवर्तक, महायोगी नन्दीश्वर को हृदय से प्रणाम। सभी शिवालयों में शिव के सम्मुख विराजमान, शिवदर्शन प्रदान करने वाले नन्दिन को प्रणाम। नन्दी की कृपा और अनुमति से शिव निश्चय ही प्रसन्न होते हैं।",
+    "viniyog": null,
+    "benefits": [
+        "Pleasing Nandi ensures Lord Shiva's grace",
+        "Grants deep devotion and access to Shiva's presence",
+        "Bestows yogic knowledge and spiritual wisdom",
+        "Protects from obstacles in Shiva worship",
+        "Removes barriers to spiritual progress",
+        "Leads to Shivaloka through Nandi's intercession"
+    ],
+    "deity": "shiva",
+    "secondaryDeities": [
+        "parvati"
+    ],
+    "days": [
+        "monday",
+        "saturday"
+    ],
+    "festivals": [
+        "maha-shivaratri",
+        "shravan-somvar"
+    ],
+    "purposes": [
+        "devotion",
+        "spiritual-growth",
+        "protection",
+        "knowledge"
+    ],
+    "readingTimeMinutes": 6,
+    "seoDescription": "Read Nandi Stotram in Sanskrit with transliteration and Hindi meaning. Sacred prayer to Nandikeshwara, Lord Shiva's divine bull vehicle.",
+    "verseCount": 9,
+    "source": "Shiva Purana",
+    "createdAt": "2026-03-28T00:00:00Z",
+    "updatedAt": "2026-03-28T00:00:00Z",
+    "isPublished": true
 }

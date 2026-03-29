@@ -1,41 +1,43 @@
 {
-  "id": "375",
-  "title": "श्री गायत्री आरती",
-  "titleEn": "Gayatri Aarti",
-  "slug": "gayatri-aarti",
-  "devanagariText": "॥ श्री गायत्री आरती ॥\n\nॐ जय गायत्री माता, जय जय गायत्री माता।\nसब विधि मंगल दाता, ॐ जय गायत्री माता॥\n\nचारों वेद स्वरूपा, तुम हो जग की माता।\nप्रणव स्वरूपा देवी, सबकी विपदा हरता॥\nॐ जय गायत्री माता...॥\n\nत्रिकाल सन्ध्या तेरी, त्रिमूर्ति स्वरूपा।\nबाला युवती वृद्धा, ताप त्रय निवारिणी॥\nॐ जय गायत्री माता...॥\n\nब्रह्मा विष्णु महेश्वर, सेवत पद तेरो।\nसूर्य शशि ग्रह तारा, ध्यावत पद तेरो॥\nॐ जय गायत्री माता...॥\n\nहंसवाहिनी माता, श्वेतवर्ण शरीरा।\nचार भुजा शुभ सोहे, कमण्डलु पुस्तक धीरा॥\nॐ जय गायत्री माता...॥\n\nपञ्चमुखी छवि न्यारी, सावित्री सरस्वती।\nवेदमाता भवानी, शरण तेरी आती॥\nॐ जय गायत्री माता...॥\n\nमनवांछित फल देती, सबकी विपदा हरती।\nमूढ़ जन को ज्ञान, मेधा बुद्धि भरती॥\nॐ जय गायत्री माता...॥\n\nगायत्री की आरती, जो कोई गावे।\nसुख सम्पत्ति सदा बढ़े, दुःख दरिद्र मिट जावे॥\nॐ जय गायत्री माता...॥\n\n॥ इति श्री गायत्री आरती सम्पूर्णम् ॥",
-  "transliteration": "|| Shri Gayatri Aarti ||\n\nOm Jai Gayatri Mata, Jai Jai Gayatri Mata |\nSab vidhi mangal data, Om Jai Gayatri Mata ||\n\nCharon Ved svarupa, tum ho jag ki Mata |\nPranav svarupa Devi, sabki vipada harta ||\nOm Jai Gayatri Mata... ||\n\nTrikal sandhya teri, Trimurti svarupa |\nBala yuvati vriddha, tap traya nivarini ||\nOm Jai Gayatri Mata... ||\n\nBrahma Vishnu Maheshwar, sevat pad tero |\nSurya Shashi grah tara, dhyavat pad tero ||\nOm Jai Gayatri Mata... ||\n\nHansavahini Mata, shvet varna sharira |\nChar bhuja shubh sohe, kamandalu pustak dhira ||\nOm Jai Gayatri Mata... ||\n\nPanchmukhi chhavi nyari, Savitri Saraswati |\nVedmata Bhavani, sharan teri aati ||\nOm Jai Gayatri Mata... ||\n\nManvanchhit phal deti, sabki vipada harti |\nMudh jan ko gyan, medha buddhi bharti ||\nOm Jai Gayatri Mata... ||\n\nGayatri ki aarti, jo koi gave |\nSukh sampatti sada badhe, dukh daridra mit jave ||\nOm Jai Gayatri Mata... ||\n\n|| Iti Shri Gayatri Aarti Sampurnam ||",
-  "hindiMeaning": "गायत्री माता की इस आरती में उनकी महिमा का गान किया गया है। वे चारों वेदों का स्वरूप हैं, प्रणव (ॐ) रूपा हैं, तीनों समयों (सन्ध्या) की देवी हैं। प्रातःकाल बालिका, मध्याह्न में युवती और सायंकाल में वृद्धा — वे त्रिमूर्ति स्वरूपा हैं। ब्रह्मा, विष्णु, महेश्वर उनके चरणों की सेवा करते हैं। हंसवाहिनी, श्वेतवर्ण, चतुर्भुजा, कमण्डलु-पुस्तक धारिणी, पञ्चमुखी — वे सावित्री, सरस्वती और वेदमाता हैं। वे मनोवांछित फल देती हैं और मूढ़ जनों को ज्ञान प्रदान करती हैं।",
-  "viniyog": null,
-  "benefits": [
-    "Invokes the divine blessings of Gayatri Mata",
-    "Increases wisdom, intelligence and memory",
-    "Removes all sorrows and poverty",
-    "Grants desired wishes and fulfills aspirations",
-    "Bestows auspiciousness and prosperity in all endeavors",
-    "Especially powerful during three sandhya times daily"
-  ],
-  "deity": "gayatri",
-  "secondaryDeities": [
-    "saraswati"
-  ],
-  "days": [
-    "sunday"
-  ],
-  "festivals": [
-    "gayatri-jayanti"
-  ],
-  "purposes": [
-    "devotion",
-    "knowledge",
-    "prosperity",
-    "peace"
-  ],
-  "readingTimeMinutes": 5,
-  "seoDescription": "Read Gayatri Aarti in Hindi with transliteration and meaning. Sacred aarti to Gayatri Mata for wisdom, prosperity and spiritual blessings.",
-  "verseCount": 7,
-  "source": "Traditional Gayatri Bhakti Literature",
-  "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-29T00:00:00Z",
-  "isPublished": true
+    "id": "216",
+    "title": "श्री गायत्री आरती",
+    "titleEn": "Gayatri Aarti",
+    "slug": "gayatri-aarti",
+    "devanagariText": "॥ श्री गायत्री आरती ॥\n\nॐ जय गायत्री माता, जय जय गायत्री माता।\nसब विधि मंगल दाता, ॐ जय गायत्री माता॥\n\nचारों वेद स्वरूपा, तुम हो जग की माता।\nप्रणव स्वरूपा देवी, सबकी विपदा हरता॥\nॐ जय गायत्री माता...॥\n\nत्रिकाल सन्ध्या तेरी, त्रिमूर्ति स्वरूपा।\nबाला युवती वृद्धा, ताप त्रय निवारिणी॥\nॐ जय गायत्री माता...॥\n\nब्रह्मा विष्णु महेश्वर, सेवत पद तेरो।\nसूर्य शशि ग्रह तारा, ध्यावत पद तेरो॥\nॐ जय गायत्री माता...॥\n\nहंसवाहिनी माता, श्वेतवर्ण शरीरा।\nचार भुजा शुभ सोहे, कमण्डलु पुस्तक धीरा॥\nॐ जय गायत्री माता...॥\n\nपञ्चमुखी छवि न्यारी, सावित्री सरस्वती।\nवेदमाता भवानी, शरण तेरी आती॥\nॐ जय गायत्री माता...॥\n\nमनवांछित फल देती, सबकी विपदा हरती।\nमूढ़ जन को ज्ञान, मेधा बुद्धि भरती॥\nॐ जय गायत्री माता...॥\n\nगायत्री की आरती, जो कोई गावे।\nसुख सम्पत्ति सदा बढ़े, दुःख दरिद्र मिट जावे॥\nॐ जय गायत्री माता...॥\n\n॥ इति श्री गायत्री आरती सम्पूर्णम् ॥",
+    "transliteration": "|| Shri Gayatri Aarti ||\n\nOm Jai Gayatri Mata, Jai Jai Gayatri Mata |\nSab vidhi mangal data, Om Jai Gayatri Mata ||\n\nCharon Ved svarupa, tum ho jag ki Mata |\nPranav svarupa Devi, sabki vipada harta ||\nOm Jai Gayatri Mata... ||\n\nTrikal sandhya teri, Trimurti svarupa |\nBala yuvati vriddha, tap traya nivarini ||\nOm Jai Gayatri Mata... ||\n\nBrahma Vishnu Maheshwar, sevat pad tero |\nSurya Shashi grah tara, dhyavat pad tero ||\nOm Jai Gayatri Mata... ||\n\nHansavahini Mata, shvet varna sharira |\nChar bhuja shubh sohe, kamandalu pustak dhira ||\nOm Jai Gayatri Mata... ||\n\nPanchmukhi chhavi nyari, Savitri Saraswati |\nVedmata Bhavani, sharan teri aati ||\nOm Jai Gayatri Mata... ||\n\nManvanchhit phal deti, sabki vipada harti |\nMudh jan ko gyan, medha buddhi bharti ||\nOm Jai Gayatri Mata... ||\n\nGayatri ki aarti, jo koi gave |\nSukh sampatti sada badhe, dukh daridra mit jave ||\nOm Jai Gayatri Mata... ||\n\n|| Iti Shri Gayatri Aarti Sampurnam ||",
+    "hindiMeaning": "गायत्री माता की इस आरती में उनकी महिमा का गान किया गया है। वे चारों वेदों का स्वरूप हैं, प्रणव (ॐ) रूपा हैं, तीनों समयों (सन्ध्या) की देवी हैं। प्रातःकाल बालिका, मध्याह्न में युवती और सायंकाल में वृद्धा — वे त्रिमूर्ति स्वरूपा हैं। ब्रह्मा, विष्णु, महेश्वर उनके चरणों की सेवा करते हैं। हंसवाहिनी, श्वेतवर्ण, चतुर्भुजा, कमण्डलु-पुस्तक धारिणी, पञ्चमुखी — वे सावित्री, सरस्वती और वेदमाता हैं। वे मनोवांछित फल देती हैं और मूढ़ जनों को ज्ञान प्रदान करती हैं।",
+    "viniyog": null,
+    "benefits": [
+        "Invokes the divine blessings of Gayatri Mata",
+        "Increases wisdom, intelligence and memory",
+        "Removes all sorrows and poverty",
+        "Grants desired wishes and fulfills aspirations",
+        "Bestows auspiciousness and prosperity in all endeavors",
+        "Especially powerful during three sandhya times daily"
+    ],
+    "deity": "gayatri",
+    "secondaryDeities": [
+        "saraswati"
+    ],
+    "days": [
+        "sunday"
+    ],
+    "festivals": [
+        "gayatri-jayanti"
+    ],
+    "purposes": [
+        "devotion",
+        "knowledge",
+        "prosperity",
+        "peace",
+        "aarti",
+        "japa"
+    ],
+    "readingTimeMinutes": 5,
+    "seoDescription": "Read Gayatri Aarti in Hindi with transliteration and meaning. Sacred aarti to Gayatri Mata for wisdom, prosperity and spiritual blessings.",
+    "verseCount": 7,
+    "source": "Traditional Gayatri Bhakti Literature",
+    "createdAt": "2026-03-28T00:00:00Z",
+    "updatedAt": "2026-03-29T00:00:00Z",
+    "isPublished": true
 }

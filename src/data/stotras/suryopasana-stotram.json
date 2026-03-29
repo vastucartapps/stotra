@@ -1,29 +1,41 @@
 {
-  "id": "577",
-  "title": "सूर्योपासना स्तोत्रम्",
-  "titleEn": "Suryopasana Stotram",
-  "slug": "suryopasana-stotram",
-  "devanagariText": "॥ श्री सूर्योपासना स्तोत्रम् ॥\n\nॐ ध्येयः सदा सवितृमण्डलमध्यवर्ती\nनारायणः सरसिजासनसन्निविष्टः।\nकेयूरवान्मकरकुण्डलवान्किरीटी\nहारी हिरण्मयवपुर्धृतशंखचक्रः॥१॥\n\nउदयगिरिमुपेत्य भास्करो\nहरति तमः सकलं जगत्त्रये।\nतिमिरमिव दुरितं मदीयकं\nनाशयतु मे सवितासमर्चनम्॥२॥\n\nआदित्यहृदयं पुण्यं सर्वशत्रुविनाशनम्।\nजपं सर्वत्र विजयं जयमाप्नोत्यसंशयम्॥३॥\n\nसप्ताश्ववाहनं शूरं कश्यपात्मजमौर्जसम्।\nश्वेतपद्मधरं देवं सूर्यमुपासयाम्यहम्॥४॥\n\nभास्कराय विद्महे दिवाकराय धीमहि।\nतन्नः सूर्यः प्रचोदयात्॥५॥\n\nसूर्यं सर्वजगत्प्राणं लोकचक्षुर्दिवाकरम्।\nउपासये सदा भक्त्या आरोग्यं तेजो बलं च मे॥६॥\n\nरक्तपद्मसमानाभं द्वादशात्मानमीश्वरम्।\nद्वादशार्कसमायुक्तं सूर्यं प्रणमतो नरः॥७॥\n\nसूर्योपासनया नित्यं सर्वरोगविवर्जितः।\nदीर्घायुः सुखमाप्नोति धनं च विपुलं लभेत्॥८॥\n\n॥ इति श्री सूर्योपासना स्तोत्रम् सम्पूर्णम् ॥",
-  "transliteration": "|| Shri Suryopasana Stotram ||\n\nOm Dhyeyah sada Savitri-mandala-madhya-varti\nNarayanah Sarasijasana-sannivishtah.\nKeyuravan Makara-kundalavan Kiriti\nHari Hiranmaya-vapur-dhrita-shankha-chakrah.||1||\n\nUdaya-girim-upetya Bhaskaro\nHarati tamah sakalam jagat-traye.\nTimiram-iva duritam madiyakam\nNashayatu me Savitasamarchanam.||2||\n\nAditya-hridayam punyam sarva-shatru-vinashanam.\nJapam sarvatra vijayam jayam-apnoty-asamshayam.||3||\n\nSaptashva-vahanam Shuram Kashyapatmajam-aurjasam.\nShveta-padma-dharam Devam Suryam-upasayamy-aham.||4||\n\nBhaskaraya vidmahe Divakaraya dhimahi.\nTannah Suryah prachodayat.||5||\n\nSuryam Sarva-jagat-pranam Loka-chakshur-divakaram.\nUpasaye sada bhaktya arogyam tejo balam cha me.||6||\n\nRakta-padma-samanabham Dwadash-atmanam-ishwaram.\nDwadasharka-samayuktam Suryam pranamato narah.||7||\n\nSuryopasanaya nityam sarva-roga-vivarjitah.\nDirghayuh sukham-apnoti dhanam cha vipulam labhet.||8||\n\n|| Iti Shri Suryopasana Stotram Sampurnam ||",
-  "hindiMeaning": "सवितृमण्डल के मध्य में विराजमान, कमलासन पर बैठे, केयूर-मकरकुण्डल-किरीट-हार से सुशोभित, हिरण्मय शरीर वाले, शंख-चक्र धारण करने वाले नारायण स्वरूप सूर्य का सदा ध्यान करना चाहिए। उदय गिरि पर आकर भास्कर तीनों लोकों के अन्धकार को हरते हैं, वैसे ही मेरे दुरित (पापों) के तिमिर को नष्ट करें। सप्ताश्ववाहन, शूर, कश्यपात्मज, श्वेतपद्मधारी सूर्यदेव की उपासना करता हूँ। सूर्योपासना से सर्वरोग से मुक्ति, दीर्घायु, सुख और विपुल धन प्राप्त होता है।",
-  "viniyog": null,
-  "benefits": [
-    "Comprehensive worship hymn for Sun God (Surya)",
-    "Grants good health and freedom from all diseases",
-    "Bestows long life, happiness and abundant wealth",
-    "Increases inner radiance (tejas) and strength",
-    "Contains Surya Gayatri and powerful meditation verses"
-  ],
-  "deity": "surya",
-  "secondaryDeities": ["vishnu"],
-  "days": ["sunday"],
-  "festivals": ["makar-sankranti", "ratha-saptami"],
-  "purposes": ["health", "protection", "devotion", "wealth"],
-  "readingTimeMinutes": 7,
-  "seoDescription": "Read Suryopasana Stotram in Sanskrit with Hindi meaning. Comprehensive Sun worship hymn for health, strength, longevity and prosperity.",
-  "verseCount": 8,
-  "source": "Traditional",
-  "createdAt": "2026-03-29T00:00:00Z",
-  "updatedAt": "2026-03-29T00:00:00Z",
-  "isPublished": true
+    "id": "690",
+    "title": "सूर्योपासना स्तोत्रम्",
+    "titleEn": "Suryopasana Stotram",
+    "slug": "suryopasana-stotram",
+    "devanagariText": "॥ श्री सूर्योपासना स्तोत्रम् ॥\n\nॐ ध्येयः सदा सवितृमण्डलमध्यवर्ती\nनारायणः सरसिजासनसन्निविष्टः।\nकेयूरवान्मकरकुण्डलवान्किरीटी\nहारी हिरण्मयवपुर्धृतशंखचक्रः॥१॥\n\nउदयगिरिमुपेत्य भास्करो\nहरति तमः सकलं जगत्त्रये।\nतिमिरमिव दुरितं मदीयकं\nनाशयतु मे सवितासमर्चनम्॥२॥\n\nआदित्यहृदयं पुण्यं सर्वशत्रुविनाशनम्।\nजपं सर्वत्र विजयं जयमाप्नोत्यसंशयम्॥३॥\n\nसप्ताश्ववाहनं शूरं कश्यपात्मजमौर्जसम्।\nश्वेतपद्मधरं देवं सूर्यमुपासयाम्यहम्॥४॥\n\nभास्कराय विद्महे दिवाकराय धीमहि।\nतन्नः सूर्यः प्रचोदयात्॥५॥\n\nसूर्यं सर्वजगत्प्राणं लोकचक्षुर्दिवाकरम्।\nउपासये सदा भक्त्या आरोग्यं तेजो बलं च मे॥६॥\n\nरक्तपद्मसमानाभं द्वादशात्मानमीश्वरम्।\nद्वादशार्कसमायुक्तं सूर्यं प्रणमतो नरः॥७॥\n\nसूर्योपासनया नित्यं सर्वरोगविवर्जितः।\nदीर्घायुः सुखमाप्नोति धनं च विपुलं लभेत्॥८॥\n\n॥ इति श्री सूर्योपासना स्तोत्रम् सम्पूर्णम् ॥",
+    "transliteration": "|| Shri Suryopasana Stotram ||\n\nOm Dhyeyah sada Savitri-mandala-madhya-varti\nNarayanah Sarasijasana-sannivishtah.\nKeyuravan Makara-kundalavan Kiriti\nHari Hiranmaya-vapur-dhrita-shankha-chakrah.||1||\n\nUdaya-girim-upetya Bhaskaro\nHarati tamah sakalam jagat-traye.\nTimiram-iva duritam madiyakam\nNashayatu me Savitasamarchanam.||2||\n\nAditya-hridayam punyam sarva-shatru-vinashanam.\nJapam sarvatra vijayam jayam-apnoty-asamshayam.||3||\n\nSaptashva-vahanam Shuram Kashyapatmajam-aurjasam.\nShveta-padma-dharam Devam Suryam-upasayamy-aham.||4||\n\nBhaskaraya vidmahe Divakaraya dhimahi.\nTannah Suryah prachodayat.||5||\n\nSuryam Sarva-jagat-pranam Loka-chakshur-divakaram.\nUpasaye sada bhaktya arogyam tejo balam cha me.||6||\n\nRakta-padma-samanabham Dwadash-atmanam-ishwaram.\nDwadasharka-samayuktam Suryam pranamato narah.||7||\n\nSuryopasanaya nityam sarva-roga-vivarjitah.\nDirghayuh sukham-apnoti dhanam cha vipulam labhet.||8||\n\n|| Iti Shri Suryopasana Stotram Sampurnam ||",
+    "hindiMeaning": "सवितृमण्डल के मध्य में विराजमान, कमलासन पर बैठे, केयूर-मकरकुण्डल-किरीट-हार से सुशोभित, हिरण्मय शरीर वाले, शंख-चक्र धारण करने वाले नारायण स्वरूप सूर्य का सदा ध्यान करना चाहिए। उदय गिरि पर आकर भास्कर तीनों लोकों के अन्धकार को हरते हैं, वैसे ही मेरे दुरित (पापों) के तिमिर को नष्ट करें। सप्ताश्ववाहन, शूर, कश्यपात्मज, श्वेतपद्मधारी सूर्यदेव की उपासना करता हूँ। सूर्योपासना से सर्वरोग से मुक्ति, दीर्घायु, सुख और विपुल धन प्राप्त होता है।",
+    "viniyog": null,
+    "benefits": [
+        "Comprehensive worship hymn for Sun God (Surya)",
+        "Grants good health and freedom from all diseases",
+        "Bestows long life, happiness and abundant wealth",
+        "Increases inner radiance (tejas) and strength",
+        "Contains Surya Gayatri and powerful meditation verses"
+    ],
+    "deity": "surya",
+    "secondaryDeities": [
+        "vishnu"
+    ],
+    "days": [
+        "sunday"
+    ],
+    "festivals": [
+        "makar-sankranti",
+        "ratha-saptami"
+    ],
+    "purposes": [
+        "health",
+        "protection",
+        "devotion",
+        "wealth"
+    ],
+    "readingTimeMinutes": 7,
+    "seoDescription": "Read Suryopasana Stotram in Sanskrit with Hindi meaning. Comprehensive Sun worship hymn for health, strength, longevity and prosperity.",
+    "verseCount": 8,
+    "source": "Traditional",
+    "createdAt": "2026-03-29T00:00:00Z",
+    "updatedAt": "2026-03-29T00:00:00Z",
+    "isPublished": true
 }

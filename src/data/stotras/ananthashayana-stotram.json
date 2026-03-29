@@ -1,38 +1,53 @@
 {
-  "id": "543",
-  "title": "श्री अनन्तशयन स्तोत्रम्",
-  "titleEn": "Ananthashayana Stotram",
-  "slug": "ananthashayana-stotram",
-  "devanagariText": "अनन्तशयनं विष्णुं क्षीरसागरमध्यगम्।\nशेषनागोपरि स्थित्वा योगनिद्रां समाश्रितम्॥१॥\n\nलक्ष्मीकरसरोजाभ्यां पादसेवनतत्परम्।\nसहस्रफणिशय्यायां शयानं पद्मनाभकम्॥२॥\n\nनाभिकमलसम्भूतं ब्रह्माणं विश्वकारणम्।\nनिर्मायैतज्जगत्सर्वं शेते यो योगनिद्रया॥३॥\n\nचतुर्भुजं महाविष्णुं शङ्खचक्रगदाधरम्।\nपद्मं च दक्षिणे हस्ते बिभ्रतं पुरुषोत्तमम्॥४॥\n\nकौस्तुभेन विराजन्तं श्रीवत्साङ्किततेजसम्।\nवनमालाधरं देवं पीताम्बरविभूषितम्॥५॥\n\nसुप्तमेव जगत्पातुं जागर्ति योगमायया।\nसर्वलोकहितार्थाय शेते क्षीरार्णवोपरि॥६॥\n\nयुगे युगे समुत्थाय दुष्टनिग्रहकारकम्।\nसाधुसंरक्षणार्थाय अवतारधरं प्रभुम्॥७॥\n\nअनन्तशयनं ध्यायेद्भक्त्या परमया सदा।\nतस्य सर्वभयं नास्ति सर्वसम्पत्समृद्धिमान्॥८॥\n\nअनन्तशयनस्तोत्रं यः पठेत् सततं नरः।\nयोगनिद्रापरो विष्णुः सदा तं परिपालयेत्॥\n\n॥ इति श्री अनन्तशयन स्तोत्रं सम्पूर्णम् ॥",
-  "transliteration": "Ananthashayanam Vishnum Kshirasagara-Madhyagam.\nSheshanagopaari Sthitva Yoganidram Samashritam.||1||\n\nLakshmikarasarojabhyam Padasevana-Tatparam.\nSahasraphanishayyayam Shayanam Padmanabhakam.||2||\n\nNabhikamala-Sambhutam Brahmanam Vishva-Karanam.\nNirmayaitajjagat Sarvam Shete Yo Yoganidray.||3||\n\nChaturbhujam Mahavishnum Shankhachakragadadharam.\nPadmam Cha Dakshine Haste Bibhratam Purushottamam.||4||\n\nKaustubhena Virajantam Shrivatsa-Ankita-Tejasam.\nVanamaaladharam Devam Pitambara-Vibhushitam.||5||\n\nSuptameva Jagatpatum Jagarti Yogamayaya.\nSarvaloka-Hitarthaya Shete Kshirarnav-Opari.||6||\n\nYuge Yuge Samutthaya Dushtanigraha-Karakam.\nSadhusam-Rakshanarthaya Avataradharam Prabhum.||7||\n\nAnanthashayanam Dhyayed Bhaktya Paramaya Sada.\nTasya Sarvabhayam Nasti Sarvasampatsamriddhiman.||8||\n\nAnanthashayana-Stotram Yah Pathet Satatam Narah.\nYoganidraparo Vishnuh Sada Tam Paripalayat.\n\n|| Iti Shri Ananthashayana Stotram Sampurnam ||",
-  "hindiMeaning": "क्षीरसागर के मध्य में अनन्तशयन विष्णु, शेषनाग पर स्थित होकर योगनिद्रा में विराजमान।\n\nलक्ष्मी अपने कर-कमलों से पाद-सेवा में तत्पर हैं। सहस्रफणि शय्या पर शयन करते पद्मनाभ।\n\nनाभि-कमल से ब्रह्मा उत्पन्न हुए जो विश्व के कारण हैं। सम्पूर्ण जगत् की रचना करके योगनिद्रा में शयन करते हैं।\n\nचतुर्भुज महाविष्णु, शंख-चक्र-गदा और दक्षिण हस्त में पद्म धारण करने वाले पुरुषोत्तम।\n\nकौस्तुभ मणि से विराजमान, श्रीवत्स अंकित तेजस्वी, वनमाला और पीताम्बर से विभूषित देव।\n\nसोते हुए भी जगत की रक्षा के लिए योगमाया से जागते हैं। सर्व लोकों के हित के लिए क्षीरसागर पर शयन करते हैं।\n\nयुग-युग में उठकर दुष्टों का निग्रह और साधुओं की रक्षा के लिए अवतार धारण करने वाले प्रभु।\n\nपरम भक्ति से सदा अनन्तशयन का ध्यान करें — उसे कोई भय नहीं और वह सर्व सम्पत्ति से समृद्ध होता है।\n\nजो मनुष्य अनन्तशयन स्तोत्र का सतत पाठ करता है, योगनिद्रापर विष्णु सदा उसकी रक्षा करते हैं।",
-  "viniyog": {
-    "rishi": "शेष",
-    "chhand": "अनुष्टुप्",
-    "devata": "श्री अनन्तशयन विष्णु",
-    "beej": "ॐ नमो नारायणाय",
-    "shakti": "योगनिद्रा शक्ति",
-    "kilak": "सर्वसम्पत्प्राप्ति",
-    "shloka": "अस्य श्रीअनन्तशयनस्तोत्रमन्त्रस्य शेष ऋषिः। अनुष्टुप् छन्दः। श्रीअनन्तशयनविष्णु देवता। ॐ नमो नारायणाय बीजम्। योगनिद्राशक्तिः। सर्वसम्पत्प्राप्तिः कीलकम्। श्रीविष्णुप्रीत्यर्थे पाठे विनियोगः॥"
-  },
-  "benefits": [
-    "Invokes the cosmic protective form of Vishnu as Ananthashayana",
-    "Grants restful sleep and removes nightmares",
-    "Bestows all forms of wealth and prosperity",
-    "Removes all fears and provides divine security",
-    "Powerful for Ekadashi and Anant Chaturdashi observance",
-    "Ensures Vishnu's constant vigilance over the devotee"
-  ],
-  "deity": "vishnu",
-  "secondaryDeities": ["lakshmi"],
-  "days": ["thursday", "wednesday"],
-  "festivals": ["ekadashi", "anant-chaturdashi", "vaikuntha-ekadashi"],
-  "purposes": ["protection", "wealth", "peace", "mental-peace", "devotion"],
-  "readingTimeMinutes": 5,
-  "seoDescription": "Read Ananthashayana Stotram in Sanskrit with Hindi meaning. Prayer to Vishnu reclining on Shesha in the cosmic ocean for protection and prosperity.",
-  "verseCount": 8,
-  "source": "Vishnu Purana",
-  "createdAt": "2026-03-29T00:00:00Z",
-  "updatedAt": "2026-03-29T00:00:00Z",
-  "isPublished": true
+    "id": "12",
+    "title": "श्री अनन्तशयन स्तोत्रम्",
+    "titleEn": "Ananthashayana Stotram",
+    "slug": "ananthashayana-stotram",
+    "devanagariText": "अनन्तशयनं विष्णुं क्षीरसागरमध्यगम्।\nशेषनागोपरि स्थित्वा योगनिद्रां समाश्रितम्॥१॥\n\nलक्ष्मीकरसरोजाभ्यां पादसेवनतत्परम्।\nसहस्रफणिशय्यायां शयानं पद्मनाभकम्॥२॥\n\nनाभिकमलसम्भूतं ब्रह्माणं विश्वकारणम्।\nनिर्मायैतज्जगत्सर्वं शेते यो योगनिद्रया॥३॥\n\nचतुर्भुजं महाविष्णुं शङ्खचक्रगदाधरम्।\nपद्मं च दक्षिणे हस्ते बिभ्रतं पुरुषोत्तमम्॥४॥\n\nकौस्तुभेन विराजन्तं श्रीवत्साङ्किततेजसम्।\nवनमालाधरं देवं पीताम्बरविभूषितम्॥५॥\n\nसुप्तमेव जगत्पातुं जागर्ति योगमायया।\nसर्वलोकहितार्थाय शेते क्षीरार्णवोपरि॥६॥\n\nयुगे युगे समुत्थाय दुष्टनिग्रहकारकम्।\nसाधुसंरक्षणार्थाय अवतारधरं प्रभुम्॥७॥\n\nअनन्तशयनं ध्यायेद्भक्त्या परमया सदा।\nतस्य सर्वभयं नास्ति सर्वसम्पत्समृद्धिमान्॥८॥\n\nअनन्तशयनस्तोत्रं यः पठेत् सततं नरः।\nयोगनिद्रापरो विष्णुः सदा तं परिपालयेत्॥\n\n॥ इति श्री अनन्तशयन स्तोत्रं सम्पूर्णम् ॥",
+    "transliteration": "Ananthashayanam Vishnum Kshirasagara-Madhyagam.\nSheshanagopaari Sthitva Yoganidram Samashritam.||1||\n\nLakshmikarasarojabhyam Padasevana-Tatparam.\nSahasraphanishayyayam Shayanam Padmanabhakam.||2||\n\nNabhikamala-Sambhutam Brahmanam Vishva-Karanam.\nNirmayaitajjagat Sarvam Shete Yo Yoganidray.||3||\n\nChaturbhujam Mahavishnum Shankhachakragadadharam.\nPadmam Cha Dakshine Haste Bibhratam Purushottamam.||4||\n\nKaustubhena Virajantam Shrivatsa-Ankita-Tejasam.\nVanamaaladharam Devam Pitambara-Vibhushitam.||5||\n\nSuptameva Jagatpatum Jagarti Yogamayaya.\nSarvaloka-Hitarthaya Shete Kshirarnav-Opari.||6||\n\nYuge Yuge Samutthaya Dushtanigraha-Karakam.\nSadhusam-Rakshanarthaya Avataradharam Prabhum.||7||\n\nAnanthashayanam Dhyayed Bhaktya Paramaya Sada.\nTasya Sarvabhayam Nasti Sarvasampatsamriddhiman.||8||\n\nAnanthashayana-Stotram Yah Pathet Satatam Narah.\nYoganidraparo Vishnuh Sada Tam Paripalayat.\n\n|| Iti Shri Ananthashayana Stotram Sampurnam ||",
+    "hindiMeaning": "क्षीरसागर के मध्य में अनन्तशयन विष्णु, शेषनाग पर स्थित होकर योगनिद्रा में विराजमान।\n\nलक्ष्मी अपने कर-कमलों से पाद-सेवा में तत्पर हैं। सहस्रफणि शय्या पर शयन करते पद्मनाभ।\n\nनाभि-कमल से ब्रह्मा उत्पन्न हुए जो विश्व के कारण हैं। सम्पूर्ण जगत् की रचना करके योगनिद्रा में शयन करते हैं।\n\nचतुर्भुज महाविष्णु, शंख-चक्र-गदा और दक्षिण हस्त में पद्म धारण करने वाले पुरुषोत्तम।\n\nकौस्तुभ मणि से विराजमान, श्रीवत्स अंकित तेजस्वी, वनमाला और पीताम्बर से विभूषित देव।\n\nसोते हुए भी जगत की रक्षा के लिए योगमाया से जागते हैं। सर्व लोकों के हित के लिए क्षीरसागर पर शयन करते हैं।\n\nयुग-युग में उठकर दुष्टों का निग्रह और साधुओं की रक्षा के लिए अवतार धारण करने वाले प्रभु।\n\nपरम भक्ति से सदा अनन्तशयन का ध्यान करें — उसे कोई भय नहीं और वह सर्व सम्पत्ति से समृद्ध होता है।\n\nजो मनुष्य अनन्तशयन स्तोत्र का सतत पाठ करता है, योगनिद्रापर विष्णु सदा उसकी रक्षा करते हैं।",
+    "viniyog": {
+        "rishi": "शेष",
+        "chhand": "अनुष्टुप्",
+        "devata": "श्री अनन्तशयन विष्णु",
+        "beej": "ॐ नमो नारायणाय",
+        "shakti": "योगनिद्रा शक्ति",
+        "kilak": "सर्वसम्पत्प्राप्ति",
+        "shloka": "अस्य श्रीअनन्तशयनस्तोत्रमन्त्रस्य शेष ऋषिः। अनुष्टुप् छन्दः। श्रीअनन्तशयनविष्णु देवता। ॐ नमो नारायणाय बीजम्। योगनिद्राशक्तिः। सर्वसम्पत्प्राप्तिः कीलकम्। श्रीविष्णुप्रीत्यर्थे पाठे विनियोगः॥"
+    },
+    "benefits": [
+        "Invokes the cosmic protective form of Vishnu as Ananthashayana",
+        "Grants restful sleep and removes nightmares",
+        "Bestows all forms of wealth and prosperity",
+        "Removes all fears and provides divine security",
+        "Powerful for Ekadashi and Anant Chaturdashi observance",
+        "Ensures Vishnu's constant vigilance over the devotee"
+    ],
+    "deity": "vishnu",
+    "secondaryDeities": [
+        "lakshmi"
+    ],
+    "days": [
+        "thursday",
+        "wednesday"
+    ],
+    "festivals": [
+        "ekadashi",
+        "anant-chaturdashi",
+        "vaikuntha-ekadashi"
+    ],
+    "purposes": [
+        "protection",
+        "wealth",
+        "peace",
+        "mental-peace",
+        "devotion"
+    ],
+    "readingTimeMinutes": 5,
+    "seoDescription": "Read Ananthashayana Stotram in Sanskrit with Hindi meaning. Prayer to Vishnu reclining on Shesha in the cosmic ocean for protection and prosperity.",
+    "verseCount": 8,
+    "source": "Vishnu Purana",
+    "createdAt": "2026-03-29T00:00:00Z",
+    "updatedAt": "2026-03-29T00:00:00Z",
+    "isPublished": true
 }

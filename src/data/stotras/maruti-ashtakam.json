@@ -1,29 +1,41 @@
 {
-  "id": "567",
-  "title": "मारुति अष्टकम्",
-  "titleEn": "Maruti Ashtakam",
-  "slug": "maruti-ashtakam",
-  "devanagariText": "॥ श्री मारुति अष्टकम् ॥\n\nनमामि मारुतिं देवं सर्वशत्रुनिवारणम्।\nसुग्रीवसचिवं वीरं रामदूतं नमाम्यहम्॥१॥\n\nअञ्जनागर्भसम्भूतं केसरीनन्दनं हरिम्।\nवायुपुत्रं महातेजं मारुतिं प्रणमाम्यहम्॥२॥\n\nबालार्कमण्डलग्रासकारिणं भीमविक्रमम्।\nउद्यन्मार्तण्डकोटिप्रभं मारुतिमाश्रये॥३॥\n\nलङ्काप्रासादमथनं सीताशोकविनाशनम्।\nरावणस्य कुलध्वंसिं मारुतिं प्रणमाम्यहम्॥४॥\n\nसञ्जीवनगिरिं धृत्वा लक्ष्मणप्राणरक्षकम्।\nरामहृद्यं कपिश्रेष्ठं मारुतिं प्रणमाम्यहम्॥५॥\n\nसागरोत्तारकं वीरं प्रभञ्जनसुतं बलम्।\nमैनाकपूजितं धीरं मारुतिं प्रणमाम्यहम्॥६॥\n\nमहाबलं महावीर्यं महातेजोविराजितम्।\nमहाभयनिवारिं तं मारुतिं प्रणमाम्यहम्॥७॥\n\nभक्तानां कल्पवृक्षं तं सर्वविघ्नविनाशनम्।\nआश्रितानां परं नाथं मारुतिं प्रणमाम्यहम्॥८॥\n\n॥ फलश्रुति ॥\nमारुत्यष्टकमेतत्तु यः पठेद्भक्तिसंयुतः।\nसर्वान्कामानवाप्नोति मारुतेः प्रसादतः॥\n\n॥ इति श्री मारुति अष्टकम् सम्पूर्णम् ॥",
-  "transliteration": "|| Shri Maruti Ashtakam ||\n\nNamami Marutim Devam Sarva-shatru-nivaranam.\nSugriva-sachivam Viram Rama-dutam namamyaham.||1||\n\nAnjanaa-garbha-sambhutam Kesari-nandanam Harim.\nVayu-putram Maha-tejam Marutim pranamamy-aham.||2||\n\nBalarka-mandala-grasa-karinam Bhima-vikramam.\nUdyan-martanda-koti-prabham Marutim-ashraye.||3||\n\nLanka-prasada-mathanam Sita-shoka-vinashanam.\nRavanasya kula-dhvansim Marutim pranamamy-aham.||4||\n\nSanjivana-girim dhritva Lakshmana-prana-rakshakam.\nRama-hridyam Kapi-shreshtham Marutim pranamamy-aham.||5||\n\nSagarottarakam Viram Prabhanjana-sutam Balam.\nMainaka-pujitam Dhiram Marutim pranamamy-aham.||6||\n\nMaha-balam Maha-viryam Maha-tejo-virajitam.\nMaha-bhaya-nivarim tam Marutim pranamamy-aham.||7||\n\nBhaktanam kalpa-vriksham tam Sarva-vighna-vinashanam.\nAshritanam param natham Marutim pranamamy-aham.||8||\n\n|| Phalashruti ||\nMaruty-ashtakam-etat-tu yah pathed-bhakti-samyutah.\nSarvan-kaman-avapnoti Maruteh prasadatah.\n\n|| Iti Shri Maruti Ashtakam Sampurnam ||",
-  "hindiMeaning": "सर्व शत्रुओं का निवारण करने वाले, सुग्रीव के सचिव, वीर रामदूत मारुति को नमस्कार। अञ्जना के गर्भ से उत्पन्न, केसरीनन्दन, वायुपुत्र, महातेजस्वी मारुति को प्रणाम। बालसूर्य को निगलने वाले, भीम पराक्रमी, कोटि सूर्य जैसी कान्ति वाले मारुति की शरण लेता हूँ। लंका के प्रासादों को ध्वस्त करने वाले, सीता के शोक को नष्ट करने वाले, रावण के कुल का विनाश करने वाले मारुति को प्रणाम।",
-  "viniyog": null,
-  "benefits": [
-    "Eight verses praising Maruti (Hanuman) in his powerful form",
-    "Removes all enemies and obstacles from life",
-    "Grants courage, strength and fearlessness",
-    "Fulfills all desires through Hanuman's grace",
-    "Protects devotees like a wish-fulfilling tree (kalpa-vriksha)"
-  ],
-  "deity": "hanuman",
-  "secondaryDeities": ["rama"],
-  "days": ["tuesday", "saturday"],
-  "festivals": ["hanuman-jayanti"],
-  "purposes": ["protection", "strength", "devotion", "enemy-removal"],
-  "readingTimeMinutes": 7,
-  "seoDescription": "Read Maruti Ashtakam in Sanskrit with Hindi meaning. Eight verses praising Hanuman (Maruti) for strength, protection and courage.",
-  "verseCount": 8,
-  "source": "Traditional",
-  "createdAt": "2026-03-29T00:00:00Z",
-  "updatedAt": "2026-03-29T00:00:00Z",
-  "isPublished": true
+    "id": "408",
+    "title": "मारुति अष्टकम्",
+    "titleEn": "Maruti Ashtakam",
+    "slug": "maruti-ashtakam",
+    "devanagariText": "॥ श्री मारुति अष्टकम् ॥\n\nनमामि मारुतिं देवं सर्वशत्रुनिवारणम्।\nसुग्रीवसचिवं वीरं रामदूतं नमाम्यहम्॥१॥\n\nअञ्जनागर्भसम्भूतं केसरीनन्दनं हरिम्।\nवायुपुत्रं महातेजं मारुतिं प्रणमाम्यहम्॥२॥\n\nबालार्कमण्डलग्रासकारिणं भीमविक्रमम्।\nउद्यन्मार्तण्डकोटिप्रभं मारुतिमाश्रये॥३॥\n\nलङ्काप्रासादमथनं सीताशोकविनाशनम्।\nरावणस्य कुलध्वंसिं मारुतिं प्रणमाम्यहम्॥४॥\n\nसञ्जीवनगिरिं धृत्वा लक्ष्मणप्राणरक्षकम्।\nरामहृद्यं कपिश्रेष्ठं मारुतिं प्रणमाम्यहम्॥५॥\n\nसागरोत्तारकं वीरं प्रभञ्जनसुतं बलम्।\nमैनाकपूजितं धीरं मारुतिं प्रणमाम्यहम्॥६॥\n\nमहाबलं महावीर्यं महातेजोविराजितम्।\nमहाभयनिवारिं तं मारुतिं प्रणमाम्यहम्॥७॥\n\nभक्तानां कल्पवृक्षं तं सर्वविघ्नविनाशनम्।\nआश्रितानां परं नाथं मारुतिं प्रणमाम्यहम्॥८॥\n\n॥ फलश्रुति ॥\nमारुत्यष्टकमेतत्तु यः पठेद्भक्तिसंयुतः।\nसर्वान्कामानवाप्नोति मारुतेः प्रसादतः॥\n\n॥ इति श्री मारुति अष्टकम् सम्पूर्णम् ॥",
+    "transliteration": "|| Shri Maruti Ashtakam ||\n\nNamami Marutim Devam Sarva-shatru-nivaranam.\nSugriva-sachivam Viram Rama-dutam namamyaham.||1||\n\nAnjanaa-garbha-sambhutam Kesari-nandanam Harim.\nVayu-putram Maha-tejam Marutim pranamamy-aham.||2||\n\nBalarka-mandala-grasa-karinam Bhima-vikramam.\nUdyan-martanda-koti-prabham Marutim-ashraye.||3||\n\nLanka-prasada-mathanam Sita-shoka-vinashanam.\nRavanasya kula-dhvansim Marutim pranamamy-aham.||4||\n\nSanjivana-girim dhritva Lakshmana-prana-rakshakam.\nRama-hridyam Kapi-shreshtham Marutim pranamamy-aham.||5||\n\nSagarottarakam Viram Prabhanjana-sutam Balam.\nMainaka-pujitam Dhiram Marutim pranamamy-aham.||6||\n\nMaha-balam Maha-viryam Maha-tejo-virajitam.\nMaha-bhaya-nivarim tam Marutim pranamamy-aham.||7||\n\nBhaktanam kalpa-vriksham tam Sarva-vighna-vinashanam.\nAshritanam param natham Marutim pranamamy-aham.||8||\n\n|| Phalashruti ||\nMaruty-ashtakam-etat-tu yah pathed-bhakti-samyutah.\nSarvan-kaman-avapnoti Maruteh prasadatah.\n\n|| Iti Shri Maruti Ashtakam Sampurnam ||",
+    "hindiMeaning": "सर्व शत्रुओं का निवारण करने वाले, सुग्रीव के सचिव, वीर रामदूत मारुति को नमस्कार। अञ्जना के गर्भ से उत्पन्न, केसरीनन्दन, वायुपुत्र, महातेजस्वी मारुति को प्रणाम। बालसूर्य को निगलने वाले, भीम पराक्रमी, कोटि सूर्य जैसी कान्ति वाले मारुति की शरण लेता हूँ। लंका के प्रासादों को ध्वस्त करने वाले, सीता के शोक को नष्ट करने वाले, रावण के कुल का विनाश करने वाले मारुति को प्रणाम।",
+    "viniyog": null,
+    "benefits": [
+        "Eight verses praising Maruti (Hanuman) in his powerful form",
+        "Removes all enemies and obstacles from life",
+        "Grants courage, strength and fearlessness",
+        "Fulfills all desires through Hanuman's grace",
+        "Protects devotees like a wish-fulfilling tree (kalpa-vriksha)"
+    ],
+    "deity": "hanuman",
+    "secondaryDeities": [
+        "rama"
+    ],
+    "days": [
+        "tuesday",
+        "saturday"
+    ],
+    "festivals": [
+        "hanuman-jayanti"
+    ],
+    "purposes": [
+        "protection",
+        "strength",
+        "devotion",
+        "enemy-removal"
+    ],
+    "readingTimeMinutes": 7,
+    "seoDescription": "Read Maruti Ashtakam in Sanskrit with Hindi meaning. Eight verses praising Hanuman (Maruti) for strength, protection and courage.",
+    "verseCount": 8,
+    "source": "Traditional",
+    "createdAt": "2026-03-29T00:00:00Z",
+    "updatedAt": "2026-03-29T00:00:00Z",
+    "isPublished": true
 }

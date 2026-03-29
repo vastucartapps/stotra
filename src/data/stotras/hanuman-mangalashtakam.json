@@ -1,30 +1,45 @@
 {
-  "id": "345",
-  "title": "हनुमान मङ्गलाष्टकम्",
-  "titleEn": "Hanuman Mangalashtakam",
-  "slug": "hanuman-mangalashtakam",
-  "devanagariText": "॥ श्री हनुमान मङ्गलाष्टकम् ॥\n\nवातात्मजाय विद्महे महाबलाय धीमहि।\nतन्नो हनुमान् प्रचोदयात् मङ्गलं कपीश्वराय॥१॥\n\nअञ्जनानन्दनाय च केसरीप्रियनन्दनाय।\nरामदूताय वीराय मङ्गलं हनुमते नमः॥२॥\n\nलङ्काप्रासादभञ्जनाय लङ्किनीभयकारिणे।\nसीतादुःखहराय च मङ्गलं हनुमते नमः॥३॥\n\nसञ्जीवनगिरिधारिणे लक्ष्मणप्राणदायिने।\nसुग्रीवसचिवायैव मङ्गलं हनुमते नमः॥४॥\n\nभीमरूपधराय च रुद्रावताररूपिणे।\nसर्वग्रहविनाशाय मङ्गलं हनुमते नमः॥५॥\n\nरामनामसदाजपिने रामकार्यसमुद्यतम्।\nरामचन्द्रप्रियभक्ताय मङ्गलं हनुमते नमः॥६॥\n\nअष्टसिद्धिनवनिधीनां दातारं च कपीश्वरम्।\nब्रह्मचर्यव्रतस्थाय मङ्गलं हनुमते नमः॥७॥\n\nत्रैलोक्यरक्षकाय च सर्वभूतहिताय च।\nचिरञ्जीविने वीराय मङ्गलं हनुमते नमः॥८॥\n\nमङ्गलाष्टकमेतद्यो हनुमद्भक्तितत्परः।\nपठेत् सदा सुखं तस्य सर्वभीतिनिवारणम्॥\n\n॥ इति श्री हनुमान मङ्गलाष्टकं सम्पूर्णम् ॥",
-  "transliteration": "|| Shri Hanuman Mangalashtakam ||\n\nVatatmajaya Vidmahe Mahabalaya Dheemahi.\nTanno Hanuman Prachodayat Mangalam Kapeeshvaraya.||1||\n\nAnjanananandanaya Cha Kesari-priyanandanaya.\nRamadutaya Veeraya Mangalam Hanumate Namah.||2||\n\nLanka-prasada-bhanjanaya Lankini-bhayakarine.\nSita-duhkha-haraya Cha Mangalam Hanumate Namah.||3||\n\nSanjeevana-giridhaarine Lakshmana-pranadayine.\nSugreeva-sachivayaiva Mangalam Hanumate Namah.||4||\n\nBheemaroopa-dharaya Cha Rudravatara-roopine.\nSarva-graha-vinashaya Mangalam Hanumate Namah.||5||\n\nRamanama-sada-japine Ramakaryasamudyatam.\nRamachandra-priyabhaktaya Mangalam Hanumate Namah.||6||\n\nAshtasiddhi-navanidhinam Datataram Cha Kapeeshvaram.\nBrahmacharya-vrata-sthaya Mangalam Hanumate Namah.||7||\n\nTrailokya-rakshakaya Cha Sarvabhuta-hitaya Cha.\nChiranjeevine Veeraya Mangalam Hanumate Namah.||8||\n\nMangalashtakam-Etadyo Hanumadbhakti-tatparah.\nPathet Sada Sukham Tasya Sarva-bheeti-nivaranam.\n\n|| Iti Shri Hanuman Mangalashtakam Sampoornam ||",
-  "hindiMeaning": "१. वायुपुत्र, महाबली हनुमान को ध्यान करते हैं, कपीश्वर को मंगल।\n\n२. अञ्जनानन्दन, केसरीनन्दन, रामदूत, वीर हनुमान को मंगल नमस्कार।\n\n३. लंका के प्रासाद भंजक, लंकिनी को भयभीत करने वाले, सीता का दुःख हरने वाले हनुमान को मंगल।\n\n४. संजीवनी पर्वत उठाने वाले, लक्ष्मण के प्राणदाता, सुग्रीव के सचिव हनुमान को मंगल।\n\n५. भीमरूपधारी, रुद्रावतार, सर्वग्रहनाशक हनुमान को मंगल।\n\n६. सदा रामनाम जपने वाले, रामकार्य में सदा तत्पर, रामचन्द्र के प्रिय भक्त हनुमान को मंगल।\n\n७. अष्टसिद्धि और नवनिधि देने वाले, ब्रह्मचर्यव्रती कपीश्वर हनुमान को मंगल।\n\n८. त्रैलोक्यरक्षक, सर्वभूतहितकारी, चिरंजीवी वीर हनुमान को मंगल।\n\nजो हनुमद्भक्तिपूर्वक इस मंगलाष्टक का पाठ करता है, उसे सदा सुख प्राप्त होता है और सब भय दूर होते हैं।",
-  "viniyog": null,
-  "benefits": [
-    "Invokes the powerful auspicious blessings of Lord Hanuman",
-    "Removes all types of fears and grants courage",
-    "Bestows Ashta Siddhi and Nava Nidhi through Hanuman's grace",
-    "Powerful protection from evil spirits and negative energies",
-    "Ideal for Tuesdays, Saturdays, and Hanuman Jayanti",
-    "Grants strength, valor, and devotion to Lord Rama"
-  ],
-  "deity": "hanuman",
-  "secondaryDeities": ["rama", "sita"],
-  "days": ["tuesday", "saturday"],
-  "festivals": ["hanuman-jayanti"],
-  "purposes": ["protection", "strength", "courage", "removal-of-obstacles", "auspiciousness"],
-  "readingTimeMinutes": 5,
-  "seoDescription": "Read Hanuman Mangalashtakam in Sanskrit with Hindi meaning. Eight auspicious verses praising Hanuman for protection, strength, and courage.",
-  "verseCount": 8,
-  "source": "Hanuman tradition",
-  "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
-  "isPublished": true
+    "id": "264",
+    "title": "हनुमान मङ्गलाष्टकम्",
+    "titleEn": "Hanuman Mangalashtakam",
+    "slug": "hanuman-mangalashtakam",
+    "devanagariText": "॥ श्री हनुमान मङ्गलाष्टकम् ॥\n\nवातात्मजाय विद्महे महाबलाय धीमहि।\nतन्नो हनुमान् प्रचोदयात् मङ्गलं कपीश्वराय॥१॥\n\nअञ्जनानन्दनाय च केसरीप्रियनन्दनाय।\nरामदूताय वीराय मङ्गलं हनुमते नमः॥२॥\n\nलङ्काप्रासादभञ्जनाय लङ्किनीभयकारिणे।\nसीतादुःखहराय च मङ्गलं हनुमते नमः॥३॥\n\nसञ्जीवनगिरिधारिणे लक्ष्मणप्राणदायिने।\nसुग्रीवसचिवायैव मङ्गलं हनुमते नमः॥४॥\n\nभीमरूपधराय च रुद्रावताररूपिणे।\nसर्वग्रहविनाशाय मङ्गलं हनुमते नमः॥५॥\n\nरामनामसदाजपिने रामकार्यसमुद्यतम्।\nरामचन्द्रप्रियभक्ताय मङ्गलं हनुमते नमः॥६॥\n\nअष्टसिद्धिनवनिधीनां दातारं च कपीश्वरम्।\nब्रह्मचर्यव्रतस्थाय मङ्गलं हनुमते नमः॥७॥\n\nत्रैलोक्यरक्षकाय च सर्वभूतहिताय च।\nचिरञ्जीविने वीराय मङ्गलं हनुमते नमः॥८॥\n\nमङ्गलाष्टकमेतद्यो हनुमद्भक्तितत्परः।\nपठेत् सदा सुखं तस्य सर्वभीतिनिवारणम्॥\n\n॥ इति श्री हनुमान मङ्गलाष्टकं सम्पूर्णम् ॥",
+    "transliteration": "|| Shri Hanuman Mangalashtakam ||\n\nVatatmajaya Vidmahe Mahabalaya Dheemahi.\nTanno Hanuman Prachodayat Mangalam Kapeeshvaraya.||1||\n\nAnjanananandanaya Cha Kesari-priyanandanaya.\nRamadutaya Veeraya Mangalam Hanumate Namah.||2||\n\nLanka-prasada-bhanjanaya Lankini-bhayakarine.\nSita-duhkha-haraya Cha Mangalam Hanumate Namah.||3||\n\nSanjeevana-giridhaarine Lakshmana-pranadayine.\nSugreeva-sachivayaiva Mangalam Hanumate Namah.||4||\n\nBheemaroopa-dharaya Cha Rudravatara-roopine.\nSarva-graha-vinashaya Mangalam Hanumate Namah.||5||\n\nRamanama-sada-japine Ramakaryasamudyatam.\nRamachandra-priyabhaktaya Mangalam Hanumate Namah.||6||\n\nAshtasiddhi-navanidhinam Datataram Cha Kapeeshvaram.\nBrahmacharya-vrata-sthaya Mangalam Hanumate Namah.||7||\n\nTrailokya-rakshakaya Cha Sarvabhuta-hitaya Cha.\nChiranjeevine Veeraya Mangalam Hanumate Namah.||8||\n\nMangalashtakam-Etadyo Hanumadbhakti-tatparah.\nPathet Sada Sukham Tasya Sarva-bheeti-nivaranam.\n\n|| Iti Shri Hanuman Mangalashtakam Sampoornam ||",
+    "hindiMeaning": "१. वायुपुत्र, महाबली हनुमान को ध्यान करते हैं, कपीश्वर को मंगल।\n\n२. अञ्जनानन्दन, केसरीनन्दन, रामदूत, वीर हनुमान को मंगल नमस्कार।\n\n३. लंका के प्रासाद भंजक, लंकिनी को भयभीत करने वाले, सीता का दुःख हरने वाले हनुमान को मंगल।\n\n४. संजीवनी पर्वत उठाने वाले, लक्ष्मण के प्राणदाता, सुग्रीव के सचिव हनुमान को मंगल।\n\n५. भीमरूपधारी, रुद्रावतार, सर्वग्रहनाशक हनुमान को मंगल।\n\n६. सदा रामनाम जपने वाले, रामकार्य में सदा तत्पर, रामचन्द्र के प्रिय भक्त हनुमान को मंगल।\n\n७. अष्टसिद्धि और नवनिधि देने वाले, ब्रह्मचर्यव्रती कपीश्वर हनुमान को मंगल।\n\n८. त्रैलोक्यरक्षक, सर्वभूतहितकारी, चिरंजीवी वीर हनुमान को मंगल।\n\nजो हनुमद्भक्तिपूर्वक इस मंगलाष्टक का पाठ करता है, उसे सदा सुख प्राप्त होता है और सब भय दूर होते हैं।",
+    "viniyog": null,
+    "benefits": [
+        "Invokes the powerful auspicious blessings of Lord Hanuman",
+        "Removes all types of fears and grants courage",
+        "Bestows Ashta Siddhi and Nava Nidhi through Hanuman's grace",
+        "Powerful protection from evil spirits and negative energies",
+        "Ideal for Tuesdays, Saturdays, and Hanuman Jayanti",
+        "Grants strength, valor, and devotion to Lord Rama"
+    ],
+    "deity": "hanuman",
+    "secondaryDeities": [
+        "rama",
+        "sita"
+    ],
+    "days": [
+        "tuesday",
+        "saturday"
+    ],
+    "festivals": [
+        "hanuman-jayanti"
+    ],
+    "purposes": [
+        "protection",
+        "strength",
+        "courage",
+        "removal-of-obstacles",
+        "auspiciousness",
+        "devotion"
+    ],
+    "readingTimeMinutes": 5,
+    "seoDescription": "Read Hanuman Mangalashtakam in Sanskrit with Hindi meaning. Eight auspicious verses praising Hanuman for protection, strength, and courage.",
+    "verseCount": 8,
+    "source": "Hanuman tradition",
+    "createdAt": "2026-03-28T00:00:00Z",
+    "updatedAt": "2026-03-28T00:00:00Z",
+    "isPublished": true
 }

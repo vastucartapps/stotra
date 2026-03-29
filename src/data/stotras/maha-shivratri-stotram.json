@@ -1,29 +1,38 @@
 {
-  "id": "479",
-  "title": "महाशिवरात्रि स्तोत्रम्",
-  "titleEn": "Maha Shivaratri Stotram",
-  "slug": "maha-shivratri-stotram",
-  "devanagariText": "॥ श्री महाशिवरात्रि स्तोत्रम् ॥\n\nशिवरात्रिमहादेव तव प्रीत्यर्थमेव हि।\nउपवासं करिष्यामि सफलं कुरु मे प्रभो॥ १॥\n\nप्रदोषे प्रथमं पूजां करिष्यामि महेश्वर।\nबिल्वपत्रसमायुक्तां गन्धपुष्पादिभिः सह॥ २॥\n\nनिशीथे द्वितीयां पूजां करिष्यामि वृषध्वज।\nधूपदीपनैवेद्यैश्च पञ्चामृतेन चाभिषेकम्॥ ३॥\n\nतृतीयां प्रत्यूषे पूजां करिष्यामि पिनाकिने।\nभस्मलेपनसंयुक्तां रुद्राक्षमालया युतम्॥ ४॥\n\nचतुर्थीं प्रातःकाले तु पूजयिष्यामि शङ्करम्।\nसम्पूर्णपूजनं कृत्वा प्रणमामि सदाशिवम्॥ ५॥\n\nलिङ्गोद्भवमहाकाले शिवरात्रौ जगत्पतिम्।\nप्रणम्य शिरसा भक्त्या मुक्तो भवति बन्धनात्॥ ६॥\n\nनमो नमः शिवाय च शिवतराय च।\nनमः शिवतमाय च शर्वाय च॥ ७॥\n\nया निशा सर्वभूतानां सा जागर्ति शिवार्चने।\nमहाशिवरात्रि पुण्या सर्वपापप्रणाशिनी॥ ८॥\n\n॥ इति श्री महाशिवरात्रि स्तोत्रम् सम्पूर्णम् ॥",
-  "transliteration": "|| Shri Maha Shivaratri Stotram ||\n\nShivaratri-mahadeva tava prityartham-eva hi |\nUpavasam karishyami saphalam kuru me prabho || 1 ||\n\nPradoshe prathamam poojam karishyami Maheshvara |\nBilvapatrasamayuktam gandha-pushpadibhih saha || 2 ||\n\nNishithe dvitiyam poojam karishyami Vrishadhvaja |\nDhupa-dipa-naivedyaishcha panchamritena chabhishekam || 3 ||\n\nTritiyam pratyushe poojam karishyami Pinakine |\nBhasma-lepana-samyuktam rudraksha-malaya yutam || 4 ||\n\nChaturthim pratah-kale tu poojayishyami Shankaram |\nSampurna-poojanam kritva pranamami Sadashivam || 5 ||\n\nLingodbhava-mahakale Shivaratrau Jagatpatim |\nPranamya shirasa bhaktya mukto bhavati bandhanat || 6 ||\n\nNamo Namah Shivaya cha Shivataraya cha |\nNamah Shivatamaya cha Sharvaya cha || 7 ||\n\nYa nisha sarvabhutanam sa jagarti Shivarchane |\nMahashivaratri punya sarva-papa-pranashini || 8 ||\n\n|| Iti Shri Maha Shivaratri Stotram Sampurnam ||",
-  "hindiMeaning": "हे महादेव! शिवरात्रि पर आपकी प्रीति के लिए मैं उपवास करूँगा, इसे सफल कीजिए हे प्रभो॥ १॥\n\nप्रदोषकाल में प्रथम पूजा बिल्वपत्र, गन्ध और पुष्प से करूँगा॥ २॥\n\nनिशीथकाल में द्वितीय पूजा धूप, दीप, नैवेद्य और पंचामृत अभिषेक से करूँगा॥ ३॥\n\nप्रत्यूष काल में तृतीय पूजा भस्मलेपन और रुद्राक्षमाला से करूँगा॥ ४॥\n\nप्रातःकाल चतुर्थ पूजा सम्पूर्ण विधि से कर सदाशिव को प्रणाम करूँगा॥ ५॥\n\nलिंगोद्भव काल में शिवरात्रि पर जगत्पति को भक्ति से शीश नवाकर जीव बन्धनमुक्त होता है॥ ६॥",
-  "viniyog": null,
-  "benefits": [
-    "Specifically meant for Maha Shivaratri night worship",
-    "Guides the devotee through the four-prahar puja vidhi",
-    "Destroys all sins accumulated over lifetimes",
-    "Grants liberation from the cycle of birth and death",
-    "Pleases Lord Shiva when recited during night vigil"
-  ],
-  "deity": "shiva",
-  "secondaryDeities": [],
-  "days": ["monday"],
-  "festivals": ["maha-shivaratri"],
-  "purposes": ["devotion", "festival-worship", "liberation", "sin-removal"],
-  "readingTimeMinutes": 6,
-  "seoDescription": "Read Maha Shivaratri Stotram in Sanskrit with Hindi meaning. Sacred hymn for Shivaratri night worship with four-prahar puja guidance.",
-  "verseCount": 8,
-  "source": "Shiva Purana",
-  "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
-  "isPublished": true
+    "id": "386",
+    "title": "महाशिवरात्रि स्तोत्रम्",
+    "titleEn": "Maha Shivaratri Stotram",
+    "slug": "maha-shivratri-stotram",
+    "devanagariText": "॥ श्री महाशिवरात्रि स्तोत्रम् ॥\n\nशिवरात्रिमहादेव तव प्रीत्यर्थमेव हि।\nउपवासं करिष्यामि सफलं कुरु मे प्रभो॥ १॥\n\nप्रदोषे प्रथमं पूजां करिष्यामि महेश्वर।\nबिल्वपत्रसमायुक्तां गन्धपुष्पादिभिः सह॥ २॥\n\nनिशीथे द्वितीयां पूजां करिष्यामि वृषध्वज।\nधूपदीपनैवेद्यैश्च पञ्चामृतेन चाभिषेकम्॥ ३॥\n\nतृतीयां प्रत्यूषे पूजां करिष्यामि पिनाकिने।\nभस्मलेपनसंयुक्तां रुद्राक्षमालया युतम्॥ ४॥\n\nचतुर्थीं प्रातःकाले तु पूजयिष्यामि शङ्करम्।\nसम्पूर्णपूजनं कृत्वा प्रणमामि सदाशिवम्॥ ५॥\n\nलिङ्गोद्भवमहाकाले शिवरात्रौ जगत्पतिम्।\nप्रणम्य शिरसा भक्त्या मुक्तो भवति बन्धनात्॥ ६॥\n\nनमो नमः शिवाय च शिवतराय च।\nनमः शिवतमाय च शर्वाय च॥ ७॥\n\nया निशा सर्वभूतानां सा जागर्ति शिवार्चने।\nमहाशिवरात्रि पुण्या सर्वपापप्रणाशिनी॥ ८॥\n\n॥ इति श्री महाशिवरात्रि स्तोत्रम् सम्पूर्णम् ॥",
+    "transliteration": "|| Shri Maha Shivaratri Stotram ||\n\nShivaratri-mahadeva tava prityartham-eva hi |\nUpavasam karishyami saphalam kuru me prabho || 1 ||\n\nPradoshe prathamam poojam karishyami Maheshvara |\nBilvapatrasamayuktam gandha-pushpadibhih saha || 2 ||\n\nNishithe dvitiyam poojam karishyami Vrishadhvaja |\nDhupa-dipa-naivedyaishcha panchamritena chabhishekam || 3 ||\n\nTritiyam pratyushe poojam karishyami Pinakine |\nBhasma-lepana-samyuktam rudraksha-malaya yutam || 4 ||\n\nChaturthim pratah-kale tu poojayishyami Shankaram |\nSampurna-poojanam kritva pranamami Sadashivam || 5 ||\n\nLingodbhava-mahakale Shivaratrau Jagatpatim |\nPranamya shirasa bhaktya mukto bhavati bandhanat || 6 ||\n\nNamo Namah Shivaya cha Shivataraya cha |\nNamah Shivatamaya cha Sharvaya cha || 7 ||\n\nYa nisha sarvabhutanam sa jagarti Shivarchane |\nMahashivaratri punya sarva-papa-pranashini || 8 ||\n\n|| Iti Shri Maha Shivaratri Stotram Sampurnam ||",
+    "hindiMeaning": "हे महादेव! शिवरात्रि पर आपकी प्रीति के लिए मैं उपवास करूँगा, इसे सफल कीजिए हे प्रभो॥ १॥\n\nप्रदोषकाल में प्रथम पूजा बिल्वपत्र, गन्ध और पुष्प से करूँगा॥ २॥\n\nनिशीथकाल में द्वितीय पूजा धूप, दीप, नैवेद्य और पंचामृत अभिषेक से करूँगा॥ ३॥\n\nप्रत्यूष काल में तृतीय पूजा भस्मलेपन और रुद्राक्षमाला से करूँगा॥ ४॥\n\nप्रातःकाल चतुर्थ पूजा सम्पूर्ण विधि से कर सदाशिव को प्रणाम करूँगा॥ ५॥\n\nलिंगोद्भव काल में शिवरात्रि पर जगत्पति को भक्ति से शीश नवाकर जीव बन्धनमुक्त होता है॥ ६॥",
+    "viniyog": null,
+    "benefits": [
+        "Specifically meant for Maha Shivaratri night worship",
+        "Guides the devotee through the four-prahar puja vidhi",
+        "Destroys all sins accumulated over lifetimes",
+        "Grants liberation from the cycle of birth and death",
+        "Pleases Lord Shiva when recited during night vigil"
+    ],
+    "deity": "shiva",
+    "secondaryDeities": [],
+    "days": [
+        "monday"
+    ],
+    "festivals": [
+        "maha-shivaratri"
+    ],
+    "purposes": [
+        "devotion",
+        "festival-worship",
+        "liberation",
+        "sin-removal"
+    ],
+    "readingTimeMinutes": 6,
+    "seoDescription": "Read Maha Shivaratri Stotram in Sanskrit with Hindi meaning. Sacred hymn for Shivaratri night worship with four-prahar puja guidance.",
+    "verseCount": 8,
+    "source": "Shiva Purana",
+    "createdAt": "2026-03-28T00:00:00Z",
+    "updatedAt": "2026-03-28T00:00:00Z",
+    "isPublished": true
 }

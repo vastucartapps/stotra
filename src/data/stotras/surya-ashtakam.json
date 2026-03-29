@@ -1,30 +1,40 @@
 {
-  "id": "71",
-  "title": "सूर्य अष्टकम्",
-  "titleEn": "Surya Ashtakam",
-  "slug": "surya-ashtakam",
-  "devanagariText": "॥ श्री सूर्य अष्टकम् ॥\n\nआदिदेव नमस्तुभ्यं प्रसीद मम भास्कर।\nदिवाकर नमस्तुभ्यं प्रभाकर नमोऽस्तु ते॥१॥\n\nसप्ताश्वरथमारूढं प्रचण्डं कश्यपात्मजम्।\nश्वेतपद्मधरं देवं तं सूर्यं प्रणमाम्यहम्॥२॥\n\nलोहितं रथमारूढं सर्वलोकपितामहम्।\nमहापापहरं देवं तं सूर्यं प्रणमाम्यहम्॥३॥\n\nत्रैगुण्यं च महाशूरं ब्रह्मविष्णुमहेश्वरम्।\nमहापापहरं देवं तं सूर्यं प्रणमाम्यहम्॥४॥\n\nबृंहितं तेजसां पुञ्जं वायुमाकाशमेव च।\nप्रभुं च सर्वलोकानां तं सूर्यं प्रणमाम्यहम्॥५॥\n\nबन्धूकपुष्पसङ्काशं हारकुण्डलभूषितम्।\nएकचक्रधरं देवं तं सूर्यं प्रणमाम्यहम्॥६॥\n\nविश्वेशं विश्वकर्ताणं महातेजःप्रदीपनम्।\nमहापापहरं देवं तं सूर्यं प्रणमाम्यहम्॥७॥\n\nतं सूर्यं जगतां नाथं ज्ञानविज्ञानमोक्षदम्।\nमहापापहरं देवं तं सूर्यं प्रणमाम्यहम्॥८॥\n\nसूर्याष्टकं पठेन्नित्यं ग्रहपीडाप्रणाशनम्।\nअपुत्रो लभते पुत्रं दरिद्रो धनवान् भवेत्॥\n\nआमिषं मधुपानं च यः करोति रवेर्दिने।\nसप्तजन्म भवेद्रोगी जन्मजन्म दरिद्रता॥\n\nस्त्रीतैलमधुमांसानि ये त्यजन्ति रवेर्दिने।\nन व्याधिः शोकदारिद्र्यं सूर्यलोकं स गच्छति॥\n\n॥ इति श्री सूर्य अष्टकं सम्पूर्णम् ॥",
-  "transliteration": "|| Shrī Sūrya Aṣṭakam ||\n\nĀdideva namastubhyaṁ prasīda mama bhāskara.\nDivākara namastubhyaṁ prabhākara namo'stu te.||1||\n\nSaptāśvarathamārūḍhaṁ prachaṇḍaṁ kaśyapātmajam.\nŚvetapadmadharaṁ devaṁ taṁ Sūryaṁ praṇamāmyaham.||2||\n\nLohitaṁ rathamārūḍhaṁ sarvalōkapitāmaham.\nMahāpāpaharaṁ devaṁ taṁ Sūryaṁ praṇamāmyaham.||3||\n\nTraiguṇyaṁ cha mahāśūraṁ Brahmaviṣṇumaheśvaram.\nMahāpāpaharaṁ devaṁ taṁ Sūryaṁ praṇamāmyaham.||4||\n\nBṛṁhitaṁ tejasāṁ puñjaṁ vāyumākāśameva cha.\nPrabhuṁ cha sarvalokānāṁ taṁ Sūryaṁ praṇamāmyaham.||5||\n\nBandhūkapuṣpasaṅkāśaṁ hārakuṇḍalabhūṣitam.\nEkachakradharaṁ devaṁ taṁ Sūryaṁ praṇamāmyaham.||6||\n\nViśveśaṁ viśvakartāṇaṁ mahātejaḥpradīpanam.\nMahāpāpaharaṁ devaṁ taṁ Sūryaṁ praṇamāmyaham.||7||\n\nTaṁ Sūryaṁ jagatāṁ nāthaṁ jñānavijñānamokṣadam.\nMahāpāpaharaṁ devaṁ taṁ Sūryaṁ praṇamāmyaham.||8||\n\nSūryāṣṭakaṁ paṭhennityaṁ grahapīḍāpraṇāśanam.\nAputro labhate putraṁ daridro dhanavān bhavet.\n\nĀmiṣaṁ madhupānaṁ cha yaḥ karoti raverdine.\nSaptajanma bhavedrogi janmajanma daridratā.\n\nStrītailamadhūmāṁsāni ye tyajanti raverdine.\nNa vyādhiḥ śokadāridryaṁ sūryalokaṁ sa gachchhati.\n\n|| Iti Shrī Sūrya Aṣṭakaṁ sampūrṇam ||",
-  "hindiMeaning": "हे आदिदेव! आपको नमस्कार है। हे भास्कर! मुझ पर प्रसन्न होइए। हे दिवाकर! आपको नमस्कार है। हे प्रभाकर! आपको नमस्कार है। सात घोड़ों के रथ पर आरूढ़, प्रचण्ड तेज वाले, कश्यप के पुत्र, श्वेत पद्म धारण करने वाले देव सूर्य को मैं प्रणाम करता हूँ। लोहित वर्ण के रथ पर आरूढ़, सब लोकों के पितामह, महापापों को हरने वाले देव सूर्य को मैं प्रणाम करता हूँ।",
-  "viniyog": null,
-  "benefits": [
-    "Destroys all planetary afflictions and doshas",
-    "Childless couples are blessed with progeny",
-    "Removes poverty and bestows wealth",
-    "Destroys great sins accumulated over lifetimes",
-    "Grants knowledge, wisdom, and spiritual liberation",
-    "Regular recitation leads to Surya Loka after death"
-  ],
-  "deity": "surya",
-  "secondaryDeities": [],
-  "days": ["sunday"],
-  "festivals": ["makar-sankranti"],
-  "purposes": ["planetary-remedy", "wealth", "children", "health"],
-  "readingTimeMinutes": 5,
-  "seoDescription": "Read Surya Ashtakam in Sanskrit with Hindi meaning and transliteration. Eight powerful verses praising Sun God for removing planetary afflictions.",
-  "verseCount": 8,
-  "source": "Traditional Sanskrit Hymn",
-  "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
-  "isPublished": true
+    "id": "679",
+    "title": "सूर्य अष्टकम्",
+    "titleEn": "Surya Ashtakam",
+    "slug": "surya-ashtakam",
+    "devanagariText": "॥ श्री सूर्य अष्टकम् ॥\n\nआदिदेव नमस्तुभ्यं प्रसीद मम भास्कर।\nदिवाकर नमस्तुभ्यं प्रभाकर नमोऽस्तु ते॥१॥\n\nसप्ताश्वरथमारूढं प्रचण्डं कश्यपात्मजम्।\nश्वेतपद्मधरं देवं तं सूर्यं प्रणमाम्यहम्॥२॥\n\nलोहितं रथमारूढं सर्वलोकपितामहम्।\nमहापापहरं देवं तं सूर्यं प्रणमाम्यहम्॥३॥\n\nत्रैगुण्यं च महाशूरं ब्रह्मविष्णुमहेश्वरम्।\nमहापापहरं देवं तं सूर्यं प्रणमाम्यहम्॥४॥\n\nबृंहितं तेजसां पुञ्जं वायुमाकाशमेव च।\nप्रभुं च सर्वलोकानां तं सूर्यं प्रणमाम्यहम्॥५॥\n\nबन्धूकपुष्पसङ्काशं हारकुण्डलभूषितम्।\nएकचक्रधरं देवं तं सूर्यं प्रणमाम्यहम्॥६॥\n\nविश्वेशं विश्वकर्ताणं महातेजःप्रदीपनम्।\nमहापापहरं देवं तं सूर्यं प्रणमाम्यहम्॥७॥\n\nतं सूर्यं जगतां नाथं ज्ञानविज्ञानमोक्षदम्।\nमहापापहरं देवं तं सूर्यं प्रणमाम्यहम्॥८॥\n\nसूर्याष्टकं पठेन्नित्यं ग्रहपीडाप्रणाशनम्।\nअपुत्रो लभते पुत्रं दरिद्रो धनवान् भवेत्॥\n\nआमिषं मधुपानं च यः करोति रवेर्दिने।\nसप्तजन्म भवेद्रोगी जन्मजन्म दरिद्रता॥\n\nस्त्रीतैलमधुमांसानि ये त्यजन्ति रवेर्दिने।\nन व्याधिः शोकदारिद्र्यं सूर्यलोकं स गच्छति॥\n\n॥ इति श्री सूर्य अष्टकं सम्पूर्णम् ॥",
+    "transliteration": "|| Shrī Sūrya Aṣṭakam ||\n\nĀdideva namastubhyaṁ prasīda mama bhāskara.\nDivākara namastubhyaṁ prabhākara namo'stu te.||1||\n\nSaptāśvarathamārūḍhaṁ prachaṇḍaṁ kaśyapātmajam.\nŚvetapadmadharaṁ devaṁ taṁ Sūryaṁ praṇamāmyaham.||2||\n\nLohitaṁ rathamārūḍhaṁ sarvalōkapitāmaham.\nMahāpāpaharaṁ devaṁ taṁ Sūryaṁ praṇamāmyaham.||3||\n\nTraiguṇyaṁ cha mahāśūraṁ Brahmaviṣṇumaheśvaram.\nMahāpāpaharaṁ devaṁ taṁ Sūryaṁ praṇamāmyaham.||4||\n\nBṛṁhitaṁ tejasāṁ puñjaṁ vāyumākāśameva cha.\nPrabhuṁ cha sarvalokānāṁ taṁ Sūryaṁ praṇamāmyaham.||5||\n\nBandhūkapuṣpasaṅkāśaṁ hārakuṇḍalabhūṣitam.\nEkachakradharaṁ devaṁ taṁ Sūryaṁ praṇamāmyaham.||6||\n\nViśveśaṁ viśvakartāṇaṁ mahātejaḥpradīpanam.\nMahāpāpaharaṁ devaṁ taṁ Sūryaṁ praṇamāmyaham.||7||\n\nTaṁ Sūryaṁ jagatāṁ nāthaṁ jñānavijñānamokṣadam.\nMahāpāpaharaṁ devaṁ taṁ Sūryaṁ praṇamāmyaham.||8||\n\nSūryāṣṭakaṁ paṭhennityaṁ grahapīḍāpraṇāśanam.\nAputro labhate putraṁ daridro dhanavān bhavet.\n\nĀmiṣaṁ madhupānaṁ cha yaḥ karoti raverdine.\nSaptajanma bhavedrogi janmajanma daridratā.\n\nStrītailamadhūmāṁsāni ye tyajanti raverdine.\nNa vyādhiḥ śokadāridryaṁ sūryalokaṁ sa gachchhati.\n\n|| Iti Shrī Sūrya Aṣṭakaṁ sampūrṇam ||",
+    "hindiMeaning": "हे आदिदेव! आपको नमस्कार है। हे भास्कर! मुझ पर प्रसन्न होइए। हे दिवाकर! आपको नमस्कार है। हे प्रभाकर! आपको नमस्कार है। सात घोड़ों के रथ पर आरूढ़, प्रचण्ड तेज वाले, कश्यप के पुत्र, श्वेत पद्म धारण करने वाले देव सूर्य को मैं प्रणाम करता हूँ। लोहित वर्ण के रथ पर आरूढ़, सब लोकों के पितामह, महापापों को हरने वाले देव सूर्य को मैं प्रणाम करता हूँ।",
+    "viniyog": null,
+    "benefits": [
+        "Destroys all planetary afflictions and doshas",
+        "Childless couples are blessed with progeny",
+        "Removes poverty and bestows wealth",
+        "Destroys great sins accumulated over lifetimes",
+        "Grants knowledge, wisdom, and spiritual liberation",
+        "Regular recitation leads to Surya Loka after death"
+    ],
+    "deity": "surya",
+    "secondaryDeities": [],
+    "days": [
+        "sunday"
+    ],
+    "festivals": [
+        "makar-sankranti"
+    ],
+    "purposes": [
+        "planetary-remedy",
+        "wealth",
+        "children",
+        "health",
+        "devotion"
+    ],
+    "readingTimeMinutes": 5,
+    "seoDescription": "Read Surya Ashtakam in Sanskrit with Hindi meaning and transliteration. Eight powerful verses praising Sun God for removing planetary afflictions.",
+    "verseCount": 8,
+    "source": "Traditional Sanskrit Hymn",
+    "createdAt": "2026-03-28T00:00:00Z",
+    "updatedAt": "2026-03-28T00:00:00Z",
+    "isPublished": true
 }

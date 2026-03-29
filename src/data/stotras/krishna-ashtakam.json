@@ -1,29 +1,38 @@
 {
-  "id": "59",
-  "title": "कृष्णाष्टकम्",
-  "titleEn": "Krishna Ashtakam",
-  "slug": "krishna-ashtakam",
-  "devanagariText": "वसुदेवसुतं देवं कंसचाणूरमर्दनम्।\nदेवकीपरमानन्दं कृष्णं वन्दे जगद्गुरुम्॥१॥\n\nअतसीपुष्पसङ्काशं हारनूपुरशोभितम्।\nरत्नकङ्कणकेयूरं कृष्णं वन्दे जगद्गुरुम्॥२॥\n\nकुटिलालकसंयुक्तं पूर्णचन्द्रनिभाननम्।\nविलसत्कुण्डलधरं कृष्णं वन्दे जगद्गुरुम्॥३॥\n\nमन्दारगन्धसंयुक्तं चारुहासं चतुर्भुजम्।\nबर्हिपिञ्छावचूडाङ्गं कृष्णं वन्दे जगद्गुरुम्॥४॥\n\nउत्फुल्लपद्मपत्राक्षं नीलजीमूतसन्निभम्।\nयादवानां शिरोरत्नं कृष्णं वन्दे जगद्गुरुम्॥५॥\n\nरुक्मिणीकेलिसंयुक्तं पीताम्बरसुशोभितम्।\nअवाप्ततुलसीगन्धं कृष्णं वन्दे जगद्गुरुम्॥६॥\n\nगोपिकानां कुचद्वन्द्वकुङ्कुमाङ्कितवक्षसम्।\nश्रीनिकेतं महेष्वासं कृष्णं वन्दे जगद्गुरुम्॥७॥\n\nश्रीवत्साङ्कं महोरस्कं वनमालाविराजितम्।\nशङ्खचक्रधरं देवं कृष्णं वन्दे जगद्गुरुम्॥८॥\n\nकृष्णाष्टकमिदं पुण्यं प्रातरुत्थाय यः पठेत्।\nकोटिजन्मकृतं पापं स्मरणेन विनश्यति॥",
-  "transliteration": "Vasudevasutam Devam Kamsa-Chanura-Mardanam.\nDevaki-Paramanandam Krishnam Vande Jagadgurum.||1||\n\nAtasi-Pushpa-Sankasham Hara-Nupura-Shobhitam.\nRatna-Kankana-Keyuram Krishnam Vande Jagadgurum.||2||\n\nKutila-Alaka-Samyuktam Purna-Chandra-Nibhananam.\nVilasat-Kundala-Dharam Krishnam Vande Jagadgurum.||3||\n\nMandara-Gandha-Samyuktam Charu-Hasam Chaturbhujam.\nBarhi-Pinchava-Chudangam Krishnam Vande Jagadgurum.||4||\n\nUtphulla-Padma-Patraksham Nila-Jimuta-Sannibham.\nYadavanam Shiro-Ratnam Krishnam Vande Jagadgurum.||5||\n\nRukmini-Keli-Samyuktam Pitambara-Sushobhitam.\nAvapta-Tulasi-Gandham Krishnam Vande Jagadgurum.||6||\n\nGopikanam Kucha-Dvandva-Kunkuma-Ankita-Vakshasam.\nShri-Niketam Maheshvasam Krishnam Vande Jagadgurum.||7||\n\nShrivatsa-Ankam Mahoraskam Vanamala-Virajitam.\nShankha-Chakra-Dharam Devam Krishnam Vande Jagadgurum.||8||\n\nKrishna-Ashtakam-Idam Punyam Pratar-Utthaya Yah Pathet.\nKoti-Janma-Kritam Papam Smaranena Vinashyati.",
-  "hindiMeaning": "वसुदेव के पुत्र, देवों के देव, कंस और चाणूर का मर्दन करने वाले, देवकी के परम आनंद स्वरूप, जगद्गुरु श्रीकृष्ण को मैं वंदन करता हूँ।\n\nअलसी के फूल के समान कान्ति वाले, हार और नूपुरों से सुशोभित, रत्न कंगन और केयूर धारण करने वाले जगद्गुरु श्रीकृष्ण को मैं वंदन करता हूँ।\n\nघुंघराले बालों से युक्त, पूर्ण चंद्रमा के समान मुख वाले, विलसित कुंडल धारण करने वाले जगद्गुरु श्रीकृष्ण को मैं वंदन करता हूँ।\n\nमंदार पुष्प की सुगंध से युक्त, सुंदर मुस्कान वाले, चतुर्भुज, मोर पंख का मुकुट धारण करने वाले जगद्गुरु श्रीकृष्ण को मैं वंदन करता हूँ।",
-  "viniyog": null,
-  "benefits": [
-    "Destroys sins accumulated over crores of lifetimes",
-    "Grants the blessings and vision of Lord Krishna",
-    "Brings peace and purity of mind",
-    "Ideal for morning recitation for spiritual upliftment",
-    "Removes karmic obstacles from the devotee's path"
-  ],
-  "deity": "krishna",
-  "secondaryDeities": [],
-  "days": ["wednesday"],
-  "festivals": ["janmashtami"],
-  "purposes": ["devotion", "peace", "spiritual-growth", "protection"],
-  "readingTimeMinutes": 5,
-  "seoDescription": "Read Krishna Ashtakam in Sanskrit with Hindi meaning and transliteration. Eight sacred verses praising Lord Krishna, the Jagadguru.",
-  "verseCount": 8,
-  "source": "Traditional Sanskrit Stotra",
-  "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
-  "isPublished": true
+    "id": "337",
+    "title": "कृष्णाष्टकम्",
+    "titleEn": "Krishna Ashtakam",
+    "slug": "krishna-ashtakam",
+    "devanagariText": "वसुदेवसुतं देवं कंसचाणूरमर्दनम्।\nदेवकीपरमानन्दं कृष्णं वन्दे जगद्गुरुम्॥१॥\n\nअतसीपुष्पसङ्काशं हारनूपुरशोभितम्।\nरत्नकङ्कणकेयूरं कृष्णं वन्दे जगद्गुरुम्॥२॥\n\nकुटिलालकसंयुक्तं पूर्णचन्द्रनिभाननम्।\nविलसत्कुण्डलधरं कृष्णं वन्दे जगद्गुरुम्॥३॥\n\nमन्दारगन्धसंयुक्तं चारुहासं चतुर्भुजम्।\nबर्हिपिञ्छावचूडाङ्गं कृष्णं वन्दे जगद्गुरुम्॥४॥\n\nउत्फुल्लपद्मपत्राक्षं नीलजीमूतसन्निभम्।\nयादवानां शिरोरत्नं कृष्णं वन्दे जगद्गुरुम्॥५॥\n\nरुक्मिणीकेलिसंयुक्तं पीताम्बरसुशोभितम्।\nअवाप्ततुलसीगन्धं कृष्णं वन्दे जगद्गुरुम्॥६॥\n\nगोपिकानां कुचद्वन्द्वकुङ्कुमाङ्कितवक्षसम्।\nश्रीनिकेतं महेष्वासं कृष्णं वन्दे जगद्गुरुम्॥७॥\n\nश्रीवत्साङ्कं महोरस्कं वनमालाविराजितम्।\nशङ्खचक्रधरं देवं कृष्णं वन्दे जगद्गुरुम्॥८॥\n\nकृष्णाष्टकमिदं पुण्यं प्रातरुत्थाय यः पठेत्।\nकोटिजन्मकृतं पापं स्मरणेन विनश्यति॥",
+    "transliteration": "Vasudevasutam Devam Kamsa-Chanura-Mardanam.\nDevaki-Paramanandam Krishnam Vande Jagadgurum.||1||\n\nAtasi-Pushpa-Sankasham Hara-Nupura-Shobhitam.\nRatna-Kankana-Keyuram Krishnam Vande Jagadgurum.||2||\n\nKutila-Alaka-Samyuktam Purna-Chandra-Nibhananam.\nVilasat-Kundala-Dharam Krishnam Vande Jagadgurum.||3||\n\nMandara-Gandha-Samyuktam Charu-Hasam Chaturbhujam.\nBarhi-Pinchava-Chudangam Krishnam Vande Jagadgurum.||4||\n\nUtphulla-Padma-Patraksham Nila-Jimuta-Sannibham.\nYadavanam Shiro-Ratnam Krishnam Vande Jagadgurum.||5||\n\nRukmini-Keli-Samyuktam Pitambara-Sushobhitam.\nAvapta-Tulasi-Gandham Krishnam Vande Jagadgurum.||6||\n\nGopikanam Kucha-Dvandva-Kunkuma-Ankita-Vakshasam.\nShri-Niketam Maheshvasam Krishnam Vande Jagadgurum.||7||\n\nShrivatsa-Ankam Mahoraskam Vanamala-Virajitam.\nShankha-Chakra-Dharam Devam Krishnam Vande Jagadgurum.||8||\n\nKrishna-Ashtakam-Idam Punyam Pratar-Utthaya Yah Pathet.\nKoti-Janma-Kritam Papam Smaranena Vinashyati.",
+    "hindiMeaning": "वसुदेव के पुत्र, देवों के देव, कंस और चाणूर का मर्दन करने वाले, देवकी के परम आनंद स्वरूप, जगद्गुरु श्रीकृष्ण को मैं वंदन करता हूँ।\n\nअलसी के फूल के समान कान्ति वाले, हार और नूपुरों से सुशोभित, रत्न कंगन और केयूर धारण करने वाले जगद्गुरु श्रीकृष्ण को मैं वंदन करता हूँ।\n\nघुंघराले बालों से युक्त, पूर्ण चंद्रमा के समान मुख वाले, विलसित कुंडल धारण करने वाले जगद्गुरु श्रीकृष्ण को मैं वंदन करता हूँ।\n\nमंदार पुष्प की सुगंध से युक्त, सुंदर मुस्कान वाले, चतुर्भुज, मोर पंख का मुकुट धारण करने वाले जगद्गुरु श्रीकृष्ण को मैं वंदन करता हूँ।",
+    "viniyog": null,
+    "benefits": [
+        "Destroys sins accumulated over crores of lifetimes",
+        "Grants the blessings and vision of Lord Krishna",
+        "Brings peace and purity of mind",
+        "Ideal for morning recitation for spiritual upliftment",
+        "Removes karmic obstacles from the devotee's path"
+    ],
+    "deity": "krishna",
+    "secondaryDeities": [],
+    "days": [
+        "wednesday"
+    ],
+    "festivals": [
+        "janmashtami"
+    ],
+    "purposes": [
+        "devotion",
+        "peace",
+        "spiritual-growth",
+        "protection"
+    ],
+    "readingTimeMinutes": 5,
+    "seoDescription": "Read Krishna Ashtakam in Sanskrit with Hindi meaning and transliteration. Eight sacred verses praising Lord Krishna, the Jagadguru.",
+    "verseCount": 8,
+    "source": "Traditional Sanskrit Stotra",
+    "createdAt": "2026-03-28T00:00:00Z",
+    "updatedAt": "2026-03-28T00:00:00Z",
+    "isPublished": true
 }

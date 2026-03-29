@@ -1,29 +1,38 @@
 {
-  "id": "603",
-  "title": "उमा स्तुति",
-  "titleEn": "Uma Stuti",
-  "slug": "uma-stuti",
-  "devanagariText": "॥ श्री उमा स्तुति ॥\n\n॥ ध्यानम् ॥\nवन्दे उमां शैलतनयां गौरीं शिवसमन्विताम्।\nचन्द्रमौलिप्रियां नित्यां सर्वमङ्गलदायिनीम्॥\n\nउमादेवि नमस्तुभ्यं महादेवप्रिये शुभे।\nत्रैलोक्यपूजिते देवि शिवे सर्वार्थसाधिके॥ १॥\n\nहिमाचलसुते देवि कैलासवासिनी शुभे।\nगौरि सर्वगते मातः पाहि मां भवसागरात्॥ २॥\n\nनमस्ते शैलतनये नमस्ते शिववल्लभे।\nनमस्ते जगतां मातः नमस्ते विश्वरूपिणी॥ ३॥\n\nसृष्टिस्थितिविनाशानां शक्तिभूते सनातनि।\nगुणाश्रये गुणमये नारायणि नमोऽस्तु ते॥ ४॥\n\nत्वमेव सर्वलोकानां शरण्या शरणप्रदा।\nउमा त्वं शाम्भवी दुर्गा भवानी शङ्करप्रिया॥ ५॥\n\nसदाचारप्रिये देवि तपःसिद्धिप्रदायिनी।\nसमस्तदेवतारूपा उमा लोकहिते रता॥ ६॥\n\nत्वमेव सन्ध्या सावित्री त्वमेव जननी परा।\nत्वमेव शक्तिरूपा च त्वमेव परमेश्वरी॥ ७॥\n\nउमास्तुतिमिमां दिव्यां यः पठेत्प्रयतः सुधीः।\nसर्वसिद्धिमवाप्नोति उमायाः परमं पदम्॥ ८॥\n\n॥ इति श्री उमा स्तुतिः सम्पूर्णा ॥",
-  "transliteration": "|| Shri Uma Stuti ||\n\n|| Dhyanam ||\nVande Umaam Shailatanayaam Gaurim Shivasamanvitam.\nChandramaulipriyam Nityam Sarvamangaladayinim.\n\nUmadevi Namastubhyam Mahadevapriye Shubhe.\nTrailokya-pujite Devi Shive Sarvartha-sadhike. || 1 ||\n\nHimachala-sute Devi Kailasa-vasini Shubhe.\nGauri Sarvagate Matah Pahi Mam Bhavasagarat. || 2 ||\n\nNamaste Shailatanaye Namaste Shivavallabhe.\nNamaste Jagatam Matah Namaste Vishvarupini. || 3 ||\n\nSrishthi-sthiti-vinashanam Shaktibhute Sanatani.\nGunashraye Gunamaye Narayani Namostu Te. || 4 ||\n\nTvameva Sarvalokaanam Sharanya Sharanaprada.\nUma Tvam Shambhavi Durga Bhavani Shankarapriya. || 5 ||\n\nSadachara-priye Devi Tapah-siddhi-pradayini.\nSamasta-devata-roopa Uma Lokahite Rata. || 6 ||\n\nTvameva Sandhya Savitri Tvameva Janani Para.\nTvameva Shaktiroopa Cha Tvameva Parameshwari. || 7 ||\n\nUma-stutim-imam Divyam Yah Pathet Prayatah Sudhih.\nSarva-siddhim-avaapnoti Umayah Paramam Padam. || 8 ||\n\n|| Iti Shri Uma Stutih Sampoorna ||",
-  "hindiMeaning": "उमा स्तुति में माता पार्वती को उमा, गौरी, शैलतनया, शिवप्रिया, भवानी, दुर्गा, शाम्भवी आदि नामों से स्तुति की गई है। देवी सृष्टि, स्थिति और विनाश की शक्ति हैं, सनातनी हैं, गुणमयी हैं। वे सन्ध्या, सावित्री, परा जननी और परमेश्वरी हैं। जो विद्वान श्रद्धापूर्वक इस स्तुति का पाठ करता है, उसे सर्वसिद्धि और उमा का परम पद प्राप्त होता है।",
-  "viniyog": null,
-  "benefits": [
-    "Bestows the supreme grace of Goddess Uma (Parvati)",
-    "Grants spiritual elevation and tapas siddhi",
-    "Removes fear of worldly ocean (bhava-sagara)",
-    "Brings all-round auspiciousness and fulfillment",
-    "Powerful for women seeking divine blessings"
-  ],
-  "deity": "parvati",
-  "secondaryDeities": [],
-  "days": ["monday", "friday"],
-  "festivals": ["navaratri"],
-  "purposes": ["devotion", "spiritual-growth", "prosperity"],
-  "readingTimeMinutes": 7,
-  "seoDescription": "Read Uma Stuti in Sanskrit with Hindi meaning and transliteration. Beautiful prayer to Goddess Uma (Parvati) for grace, siddhi, and spiritual growth.",
-  "verseCount": 8,
-  "source": "Shiva Purana",
-  "createdAt": "2026-03-29T00:00:00Z",
-  "updatedAt": "2026-03-29T00:00:00Z",
-  "isPublished": true
+    "id": "711",
+    "title": "उमा स्तुति",
+    "titleEn": "Uma Stuti",
+    "slug": "uma-stuti",
+    "devanagariText": "॥ श्री उमा स्तुति ॥\n\n॥ ध्यानम् ॥\nवन्दे उमां शैलतनयां गौरीं शिवसमन्विताम्।\nचन्द्रमौलिप्रियां नित्यां सर्वमङ्गलदायिनीम्॥\n\nउमादेवि नमस्तुभ्यं महादेवप्रिये शुभे।\nत्रैलोक्यपूजिते देवि शिवे सर्वार्थसाधिके॥ १॥\n\nहिमाचलसुते देवि कैलासवासिनी शुभे।\nगौरि सर्वगते मातः पाहि मां भवसागरात्॥ २॥\n\nनमस्ते शैलतनये नमस्ते शिववल्लभे।\nनमस्ते जगतां मातः नमस्ते विश्वरूपिणी॥ ३॥\n\nसृष्टिस्थितिविनाशानां शक्तिभूते सनातनि।\nगुणाश्रये गुणमये नारायणि नमोऽस्तु ते॥ ४॥\n\nत्वमेव सर्वलोकानां शरण्या शरणप्रदा।\nउमा त्वं शाम्भवी दुर्गा भवानी शङ्करप्रिया॥ ५॥\n\nसदाचारप्रिये देवि तपःसिद्धिप्रदायिनी।\nसमस्तदेवतारूपा उमा लोकहिते रता॥ ६॥\n\nत्वमेव सन्ध्या सावित्री त्वमेव जननी परा।\nत्वमेव शक्तिरूपा च त्वमेव परमेश्वरी॥ ७॥\n\nउमास्तुतिमिमां दिव्यां यः पठेत्प्रयतः सुधीः।\nसर्वसिद्धिमवाप्नोति उमायाः परमं पदम्॥ ८॥\n\n॥ इति श्री उमा स्तुतिः सम्पूर्णा ॥",
+    "transliteration": "|| Shri Uma Stuti ||\n\n|| Dhyanam ||\nVande Umaam Shailatanayaam Gaurim Shivasamanvitam.\nChandramaulipriyam Nityam Sarvamangaladayinim.\n\nUmadevi Namastubhyam Mahadevapriye Shubhe.\nTrailokya-pujite Devi Shive Sarvartha-sadhike. || 1 ||\n\nHimachala-sute Devi Kailasa-vasini Shubhe.\nGauri Sarvagate Matah Pahi Mam Bhavasagarat. || 2 ||\n\nNamaste Shailatanaye Namaste Shivavallabhe.\nNamaste Jagatam Matah Namaste Vishvarupini. || 3 ||\n\nSrishthi-sthiti-vinashanam Shaktibhute Sanatani.\nGunashraye Gunamaye Narayani Namostu Te. || 4 ||\n\nTvameva Sarvalokaanam Sharanya Sharanaprada.\nUma Tvam Shambhavi Durga Bhavani Shankarapriya. || 5 ||\n\nSadachara-priye Devi Tapah-siddhi-pradayini.\nSamasta-devata-roopa Uma Lokahite Rata. || 6 ||\n\nTvameva Sandhya Savitri Tvameva Janani Para.\nTvameva Shaktiroopa Cha Tvameva Parameshwari. || 7 ||\n\nUma-stutim-imam Divyam Yah Pathet Prayatah Sudhih.\nSarva-siddhim-avaapnoti Umayah Paramam Padam. || 8 ||\n\n|| Iti Shri Uma Stutih Sampoorna ||",
+    "hindiMeaning": "उमा स्तुति में माता पार्वती को उमा, गौरी, शैलतनया, शिवप्रिया, भवानी, दुर्गा, शाम्भवी आदि नामों से स्तुति की गई है। देवी सृष्टि, स्थिति और विनाश की शक्ति हैं, सनातनी हैं, गुणमयी हैं। वे सन्ध्या, सावित्री, परा जननी और परमेश्वरी हैं। जो विद्वान श्रद्धापूर्वक इस स्तुति का पाठ करता है, उसे सर्वसिद्धि और उमा का परम पद प्राप्त होता है।",
+    "viniyog": null,
+    "benefits": [
+        "Bestows the supreme grace of Goddess Uma (Parvati)",
+        "Grants spiritual elevation and tapas siddhi",
+        "Removes fear of worldly ocean (bhava-sagara)",
+        "Brings all-round auspiciousness and fulfillment",
+        "Powerful for women seeking divine blessings"
+    ],
+    "deity": "parvati",
+    "secondaryDeities": [],
+    "days": [
+        "monday",
+        "friday"
+    ],
+    "festivals": [
+        "navratri"
+    ],
+    "purposes": [
+        "devotion",
+        "spiritual-growth",
+        "prosperity"
+    ],
+    "readingTimeMinutes": 7,
+    "seoDescription": "Read Uma Stuti in Sanskrit with Hindi meaning and transliteration. Beautiful prayer to Goddess Uma (Parvati) for grace, siddhi, and spiritual growth.",
+    "verseCount": 8,
+    "source": "Shiva Purana",
+    "createdAt": "2026-03-29T00:00:00Z",
+    "updatedAt": "2026-03-29T00:00:00Z",
+    "isPublished": true
 }

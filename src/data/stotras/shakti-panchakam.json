@@ -1,30 +1,43 @@
 {
-  "id": "541",
-  "title": "शक्ति पञ्चकम्",
-  "titleEn": "Shakti Panchakam",
-  "slug": "shakti-panchakam",
-  "devanagariText": "॥ श्री शक्ति पञ्चकम् ॥\n\nॐ नमो भगवत्यै दुर्गायै॥\n\nत्वमेव माता च पिता त्वमेव त्वमेव बन्धुश्च सखा त्वमेव।\nत्वमेव विद्या द्रविणं त्वमेव त्वमेव सर्वं मम देवदेवि॥१॥\n\nसृष्टिस्थितिविनाशानां शक्तिभूते सनातनि।\nगुणाश्रये गुणमये नारायणि नमोऽस्तु ते॥२॥\n\nशरणागतदीनार्तपरित्राणपरायणे।\nसर्वस्यार्तिहरे देवि नारायणि नमोऽस्तु ते॥३॥\n\nसर्वस्वरूपे सर्वेशे सर्वशक्तिसमन्विते।\nभयेभ्यस्त्राहि नो देवि दुर्गे देवि नमोऽस्तु ते॥४॥\n\nरोगानशेषानपहंसि तुष्टा रुष्टा तु कामान् सकलानभीष्टान्।\nत्वामाश्रितानां न विपन्नराणां त्वामाश्रिता ह्याश्रयतां प्रयान्ति॥५॥\n\nसर्वमंगलमांगल्ये शिवे सर्वार्थसाधिके।\nशरण्ये त्र्यम्बके गौरि नारायणि नमोऽस्तु ते॥\n\n॥ इति श्री शक्ति पञ्चकं सम्पूर्णम् ॥",
-  "transliteration": "|| Shri Shakti Panchakam ||\n\nOm Namo Bhagavatyai Durgayai.\n\nTvam Eva Mata Cha Pita Tvam Eva Tvam Eva Bandhush Cha Sakha Tvam Eva.\nTvam Eva Vidya Dravinam Tvam Eva Tvam Eva Sarvam Mama Deva-devi.||1||\n\nSrishti-sthiti-vinashanam Shakti-bhute Sanatani.\nGuna-ashraye Guna-maye Narayani Namo'stu Te.||2||\n\nSharanagata-dinarta-paritrana-paraayane.\nSarvasyarti-hare Devi Narayani Namo'stu Te.||3||\n\nSarva-svarupe Sarveshe Sarva-shakti-samanvite.\nBhayebhyas Trahi No Devi Durge Devi Namo'stu Te.||4||\n\nRogan Asheshanapa Hamsi Tushta Rushta Tu Kaman Sakalan Abhishtan.\nTvam Ashritanam Na Vipannaranam Tvam Ashrita Hyashrayatam Prayanti.||5||\n\nSarva-mangala-mangalye Shive Sarvartha-sadhike.\nSharanye Tryambake Gauri Narayani Namo'stu Te.\n\n|| Iti Shri Shakti Panchakam Sampurnam ||",
-  "hindiMeaning": "हे देवी! तुम्हीं माता हो, तुम्हीं पिता हो, तुम्हीं बन्धु और सखा हो। तुम्हीं विद्या और धन हो। तुम्हीं मेरा सब कुछ हो।\n\nहे सनातनी! सृष्टि, स्थिति और विनाश की शक्तिभूता! गुणों की आश्रयस्वरूपा, गुणमयी नारायणी! आपको नमस्कार।\n\nहे शरणागत दीन-आर्तों की रक्षा में तत्पर! सबकी पीड़ा हरने वाली! नारायणी! नमस्कार।\n\nहे सर्वस्वरूपा! सर्वेश्वरी! सर्वशक्तिसमन्विता! हे दुर्गा देवी! भयों से हमारी रक्षा करो। नमस्कार।\n\nसन्तुष्ट होने पर सब रोगों को हरती हो। आपके आश्रित कभी विपत्ति में नहीं पड़ते। आपके शरणागत स्वयं दूसरों के आश्रय बन जाते हैं।\n\nहे सर्वमंगलमांगल्ये! शिवे! सर्वार्थसाधिके! शरण्ये त्र्यम्बके गौरी! नारायणी! नमस्कार।",
-  "viniyog": null,
-  "benefits": [
-    "Contains five most powerful verses from Durga Saptashati",
-    "Quick daily recitation for invoking complete Shakti protection",
-    "Removes all fears, diseases, and grants all righteous desires",
-    "Perfect for those who cannot recite the full Saptashati",
-    "Declares the Devi as mother, father, friend, wealth, and everything",
-    "Grants the merit of complete Devi worship in just five verses"
-  ],
-  "deity": "durga",
-  "secondaryDeities": ["lakshmi"],
-  "days": ["tuesday", "friday"],
-  "festivals": ["navratri"],
-  "purposes": ["protection", "devotion", "health", "prosperity", "removal-of-obstacles"],
-  "readingTimeMinutes": 3,
-  "seoDescription": "Read Shakti Panchakam in Sanskrit with Hindi meaning. Five most powerful verses from Durga Saptashati for quick daily Devi worship and protection.",
-  "verseCount": 5,
-  "source": "Markandeya Purana (Durga Saptashati)",
-  "createdAt": "2026-03-29T00:00:00Z",
-  "updatedAt": "2026-03-29T00:00:00Z",
-  "isPublished": true
+    "id": "579",
+    "title": "शक्ति पञ्चकम्",
+    "titleEn": "Shakti Panchakam",
+    "slug": "shakti-panchakam",
+    "devanagariText": "॥ श्री शक्ति पञ्चकम् ॥\n\nॐ नमो भगवत्यै दुर्गायै॥\n\nत्वमेव माता च पिता त्वमेव त्वमेव बन्धुश्च सखा त्वमेव।\nत्वमेव विद्या द्रविणं त्वमेव त्वमेव सर्वं मम देवदेवि॥१॥\n\nसृष्टिस्थितिविनाशानां शक्तिभूते सनातनि।\nगुणाश्रये गुणमये नारायणि नमोऽस्तु ते॥२॥\n\nशरणागतदीनार्तपरित्राणपरायणे।\nसर्वस्यार्तिहरे देवि नारायणि नमोऽस्तु ते॥३॥\n\nसर्वस्वरूपे सर्वेशे सर्वशक्तिसमन्विते।\nभयेभ्यस्त्राहि नो देवि दुर्गे देवि नमोऽस्तु ते॥४॥\n\nरोगानशेषानपहंसि तुष्टा रुष्टा तु कामान् सकलानभीष्टान्।\nत्वामाश्रितानां न विपन्नराणां त्वामाश्रिता ह्याश्रयतां प्रयान्ति॥५॥\n\nसर्वमंगलमांगल्ये शिवे सर्वार्थसाधिके।\nशरण्ये त्र्यम्बके गौरि नारायणि नमोऽस्तु ते॥\n\n॥ इति श्री शक्ति पञ्चकं सम्पूर्णम् ॥",
+    "transliteration": "|| Shri Shakti Panchakam ||\n\nOm Namo Bhagavatyai Durgayai.\n\nTvam Eva Mata Cha Pita Tvam Eva Tvam Eva Bandhush Cha Sakha Tvam Eva.\nTvam Eva Vidya Dravinam Tvam Eva Tvam Eva Sarvam Mama Deva-devi.||1||\n\nSrishti-sthiti-vinashanam Shakti-bhute Sanatani.\nGuna-ashraye Guna-maye Narayani Namo'stu Te.||2||\n\nSharanagata-dinarta-paritrana-paraayane.\nSarvasyarti-hare Devi Narayani Namo'stu Te.||3||\n\nSarva-svarupe Sarveshe Sarva-shakti-samanvite.\nBhayebhyas Trahi No Devi Durge Devi Namo'stu Te.||4||\n\nRogan Asheshanapa Hamsi Tushta Rushta Tu Kaman Sakalan Abhishtan.\nTvam Ashritanam Na Vipannaranam Tvam Ashrita Hyashrayatam Prayanti.||5||\n\nSarva-mangala-mangalye Shive Sarvartha-sadhike.\nSharanye Tryambake Gauri Narayani Namo'stu Te.\n\n|| Iti Shri Shakti Panchakam Sampurnam ||",
+    "hindiMeaning": "हे देवी! तुम्हीं माता हो, तुम्हीं पिता हो, तुम्हीं बन्धु और सखा हो। तुम्हीं विद्या और धन हो। तुम्हीं मेरा सब कुछ हो।\n\nहे सनातनी! सृष्टि, स्थिति और विनाश की शक्तिभूता! गुणों की आश्रयस्वरूपा, गुणमयी नारायणी! आपको नमस्कार।\n\nहे शरणागत दीन-आर्तों की रक्षा में तत्पर! सबकी पीड़ा हरने वाली! नारायणी! नमस्कार।\n\nहे सर्वस्वरूपा! सर्वेश्वरी! सर्वशक्तिसमन्विता! हे दुर्गा देवी! भयों से हमारी रक्षा करो। नमस्कार।\n\nसन्तुष्ट होने पर सब रोगों को हरती हो। आपके आश्रित कभी विपत्ति में नहीं पड़ते। आपके शरणागत स्वयं दूसरों के आश्रय बन जाते हैं।\n\nहे सर्वमंगलमांगल्ये! शिवे! सर्वार्थसाधिके! शरण्ये त्र्यम्बके गौरी! नारायणी! नमस्कार।",
+    "viniyog": null,
+    "benefits": [
+        "Contains five most powerful verses from Durga Saptashati",
+        "Quick daily recitation for invoking complete Shakti protection",
+        "Removes all fears, diseases, and grants all righteous desires",
+        "Perfect for those who cannot recite the full Saptashati",
+        "Declares the Devi as mother, father, friend, wealth, and everything",
+        "Grants the merit of complete Devi worship in just five verses"
+    ],
+    "deity": "durga",
+    "secondaryDeities": [
+        "lakshmi"
+    ],
+    "days": [
+        "tuesday",
+        "friday"
+    ],
+    "festivals": [
+        "navratri"
+    ],
+    "purposes": [
+        "protection",
+        "devotion",
+        "health",
+        "prosperity",
+        "removal-of-obstacles"
+    ],
+    "readingTimeMinutes": 3,
+    "seoDescription": "Read Shakti Panchakam in Sanskrit with Hindi meaning. Five most powerful verses from Durga Saptashati for quick daily Devi worship and protection.",
+    "verseCount": 5,
+    "source": "Markandeya Purana (Durga Saptashati)",
+    "createdAt": "2026-03-29T00:00:00Z",
+    "updatedAt": "2026-03-29T00:00:00Z",
+    "isPublished": true
 }

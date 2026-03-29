@@ -1,30 +1,41 @@
 {
-  "id": "47",
-  "title": "लक्ष्मी आरती",
-  "titleEn": "Lakshmi Aarti - Om Jai Lakshmi Mata",
-  "slug": "lakshmi-aarti",
-  "devanagariText": "॥ श्री लक्ष्मी जी की आरती ॥\n\nॐ जय लक्ष्मी माता, मैया जय लक्ष्मी माता।\nतुमको निसदिन सेवत, हरि विष्णु विधाता॥\nॐ जय लक्ष्मी माता॥\n\nउमा रमा ब्रह्माणी, तुम ही जग माता।\nसूर्य चन्द्रमा ध्यावत, नारद ऋषि गाता॥\nॐ जय लक्ष्मी माता॥\n\nदुर्गा रूप निरंजनी, सुख सम्पत्ति दाता।\nजो कोई तुमको ध्यावत, ऋद्धि सिद्धि धन पाता॥\nॐ जय लक्ष्मी माता॥\n\nतुम पाताल निवासिनी, तुम ही शुभदाता।\nकर्म प्रभाव प्रकाशिनी, भवनिधि की त्राता॥\nॐ जय लक्ष्मी माता॥\n\nजिस घर में तुम रहती, सब सद्गुण आता।\nसब सम्भव हो जाता, मन नहीं घबराता॥\nॐ जय लक्ष्मी माता॥\n\nतुम बिन यज्ञ न होवे, वस्त्र न कोई पाता।\nखान पान का वैभव, सब तुमसे आता॥\nॐ जय लक्ष्मी माता॥\n\nशुभगुण मन्दिर सुन्दर, क्षीरोदधि जाता।\nरत्न चतुर्दश तुम बिन, कोई नहीं पाता॥\nॐ जय लक्ष्मी माता॥\n\nमहालक्ष्मी जी की आरती, जो कोई जन गाता।\nउर आनन्द समाता, पाप उतर जाता॥\nॐ जय लक्ष्मी माता॥",
-  "transliteration": "|| Shri Lakshmi Ji Ki Aarti ||\n\nOm Jai Lakshmi Mata, Maiya Jai Lakshmi Mata.\nTumko Nisdin Sevat, Hari Vishnu Vidhata.\nOm Jai Lakshmi Mata.\n\nUma Rama Brahmani, Tum Hi Jag Mata.\nSurya Chandrama Dhyavat, Narad Rishi Gata.\nOm Jai Lakshmi Mata.\n\nDurga Roop Niranjani, Sukh Sampatti Data.\nJo Koi Tumko Dhyavat, Riddhi Siddhi Dhan Pata.\nOm Jai Lakshmi Mata.\n\nTum Patal Nivasini, Tum Hi Shubhdata.\nKarm Prabhav Prakashini, Bhavnidhi Ki Trata.\nOm Jai Lakshmi Mata.\n\nJis Ghar Mein Tum Rehti, Sab Sadgun Aata.\nSab Sambhav Ho Jata, Man Nahin Ghabrata.\nOm Jai Lakshmi Mata.\n\nTum Bin Yagya Na Hove, Vastra Na Koi Pata.\nKhan Pan Ka Vaibhav, Sab Tumse Aata.\nOm Jai Lakshmi Mata.\n\nShubhgun Mandir Sundar, Kshirodadhi Jata.\nRatna Chaturdash Tum Bin, Koi Nahin Pata.\nOm Jai Lakshmi Mata.\n\nMahalakshmi Ji Ki Aarti, Jo Koi Jan Gata.\nUr Anand Samata, Paap Utar Jata.\nOm Jai Lakshmi Mata.",
-  "hindiMeaning": "हे माता लक्ष्मी! आपकी जय हो। हरि विष्णु और ब्रह्मा सदैव आपकी सेवा करते हैं।\n\nआप उमा, रमा और ब्रह्माणी हैं, आप ही जगत की माता हैं। सूर्य और चन्द्रमा आपका ध्यान करते हैं, नारद ऋषि आपके गुण गाते हैं।\n\nआप दुर्गा रूप निरंजनी हैं, सुख और सम्पत्ति देने वाली हैं। जो कोई आपका ध्यान करता है, वह ऋद्धि, सिद्धि और धन प्राप्त करता है।\n\nजिस घर में आप निवास करती हैं, वहाँ सब सद्गुण आते हैं। सब कुछ सम्भव हो जाता है और मन नहीं घबराता।\n\nमहालक्ष्मी जी की यह आरती जो कोई गाता है, उसके हृदय में आनन्द समाता है और पाप दूर हो जाते हैं।",
-  "viniyog": null,
-  "benefits": [
-    "Invokes the blessings of Goddess Lakshmi for household prosperity",
-    "Removes poverty and brings financial stability",
-    "Fills the home with positive energy and good qualities",
-    "Bestows riddhi (prosperity) and siddhi (spiritual powers)",
-    "Removes sins and fills the heart with joy",
-    "Essential part of Diwali puja and daily evening prayers"
-  ],
-  "deity": "lakshmi",
-  "secondaryDeities": ["vishnu"],
-  "days": ["friday"],
-  "festivals": ["diwali"],
-  "purposes": ["wealth", "peace", "devotion"],
-  "readingTimeMinutes": 5,
-  "seoDescription": "Read Om Jai Lakshmi Mata Aarti in Hindi with English transliteration and meaning. Essential Lakshmi aarti for Diwali puja and daily worship.",
-  "verseCount": 8,
-  "source": "Traditional",
-  "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
-  "isPublished": true
+    "id": "361",
+    "title": "लक्ष्मी आरती",
+    "titleEn": "Lakshmi Aarti - Om Jai Lakshmi Mata",
+    "slug": "lakshmi-aarti",
+    "devanagariText": "॥ श्री लक्ष्मी जी की आरती ॥\n\nॐ जय लक्ष्मी माता, मैया जय लक्ष्मी माता।\nतुमको निसदिन सेवत, हरि विष्णु विधाता॥\nॐ जय लक्ष्मी माता॥\n\nउमा रमा ब्रह्माणी, तुम ही जग माता।\nसूर्य चन्द्रमा ध्यावत, नारद ऋषि गाता॥\nॐ जय लक्ष्मी माता॥\n\nदुर्गा रूप निरंजनी, सुख सम्पत्ति दाता।\nजो कोई तुमको ध्यावत, ऋद्धि सिद्धि धन पाता॥\nॐ जय लक्ष्मी माता॥\n\nतुम पाताल निवासिनी, तुम ही शुभदाता।\nकर्म प्रभाव प्रकाशिनी, भवनिधि की त्राता॥\nॐ जय लक्ष्मी माता॥\n\nजिस घर में तुम रहती, सब सद्गुण आता।\nसब सम्भव हो जाता, मन नहीं घबराता॥\nॐ जय लक्ष्मी माता॥\n\nतुम बिन यज्ञ न होवे, वस्त्र न कोई पाता।\nखान पान का वैभव, सब तुमसे आता॥\nॐ जय लक्ष्मी माता॥\n\nशुभगुण मन्दिर सुन्दर, क्षीरोदधि जाता।\nरत्न चतुर्दश तुम बिन, कोई नहीं पाता॥\nॐ जय लक्ष्मी माता॥\n\nमहालक्ष्मी जी की आरती, जो कोई जन गाता।\nउर आनन्द समाता, पाप उतर जाता॥\nॐ जय लक्ष्मी माता॥",
+    "transliteration": "|| Shri Lakshmi Ji Ki Aarti ||\n\nOm Jai Lakshmi Mata, Maiya Jai Lakshmi Mata.\nTumko Nisdin Sevat, Hari Vishnu Vidhata.\nOm Jai Lakshmi Mata.\n\nUma Rama Brahmani, Tum Hi Jag Mata.\nSurya Chandrama Dhyavat, Narad Rishi Gata.\nOm Jai Lakshmi Mata.\n\nDurga Roop Niranjani, Sukh Sampatti Data.\nJo Koi Tumko Dhyavat, Riddhi Siddhi Dhan Pata.\nOm Jai Lakshmi Mata.\n\nTum Patal Nivasini, Tum Hi Shubhdata.\nKarm Prabhav Prakashini, Bhavnidhi Ki Trata.\nOm Jai Lakshmi Mata.\n\nJis Ghar Mein Tum Rehti, Sab Sadgun Aata.\nSab Sambhav Ho Jata, Man Nahin Ghabrata.\nOm Jai Lakshmi Mata.\n\nTum Bin Yagya Na Hove, Vastra Na Koi Pata.\nKhan Pan Ka Vaibhav, Sab Tumse Aata.\nOm Jai Lakshmi Mata.\n\nShubhgun Mandir Sundar, Kshirodadhi Jata.\nRatna Chaturdash Tum Bin, Koi Nahin Pata.\nOm Jai Lakshmi Mata.\n\nMahalakshmi Ji Ki Aarti, Jo Koi Jan Gata.\nUr Anand Samata, Paap Utar Jata.\nOm Jai Lakshmi Mata.",
+    "hindiMeaning": "हे माता लक्ष्मी! आपकी जय हो। हरि विष्णु और ब्रह्मा सदैव आपकी सेवा करते हैं।\n\nआप उमा, रमा और ब्रह्माणी हैं, आप ही जगत की माता हैं। सूर्य और चन्द्रमा आपका ध्यान करते हैं, नारद ऋषि आपके गुण गाते हैं।\n\nआप दुर्गा रूप निरंजनी हैं, सुख और सम्पत्ति देने वाली हैं। जो कोई आपका ध्यान करता है, वह ऋद्धि, सिद्धि और धन प्राप्त करता है।\n\nजिस घर में आप निवास करती हैं, वहाँ सब सद्गुण आते हैं। सब कुछ सम्भव हो जाता है और मन नहीं घबराता।\n\nमहालक्ष्मी जी की यह आरती जो कोई गाता है, उसके हृदय में आनन्द समाता है और पाप दूर हो जाते हैं।",
+    "viniyog": null,
+    "benefits": [
+        "Invokes the blessings of Goddess Lakshmi for household prosperity",
+        "Removes poverty and brings financial stability",
+        "Fills the home with positive energy and good qualities",
+        "Bestows riddhi (prosperity) and siddhi (spiritual powers)",
+        "Removes sins and fills the heart with joy",
+        "Essential part of Diwali puja and daily evening prayers"
+    ],
+    "deity": "lakshmi",
+    "secondaryDeities": [
+        "vishnu"
+    ],
+    "days": [
+        "friday"
+    ],
+    "festivals": [
+        "diwali"
+    ],
+    "purposes": [
+        "wealth",
+        "peace",
+        "devotion",
+        "aarti"
+    ],
+    "readingTimeMinutes": 5,
+    "seoDescription": "Read Om Jai Lakshmi Mata Aarti in Hindi with English transliteration and meaning. Essential Lakshmi aarti for Diwali puja and daily worship.",
+    "verseCount": 8,
+    "source": "Traditional",
+    "createdAt": "2026-03-28T00:00:00Z",
+    "updatedAt": "2026-03-28T00:00:00Z",
+    "isPublished": true
 }

@@ -1,30 +1,39 @@
 {
-  "id": "221",
-  "title": "श्री गुरु अष्टकम्",
-  "titleEn": "Guru Ashtakam",
-  "slug": "guru-ashtakam",
-  "devanagariText": "॥ श्री गुरु अष्टकम् ॥\n\nशरीरं सुरूपं तथा वा कलत्रं\nयशश्चारु चित्रं धनं मेरुतुल्यम्।\nमनश्चेन्न लग्नं गुरोरङ्घ्रिपद्मे\nततः किं ततः किं ततः किं ततः किम्॥१॥\n\nकलत्रं धनं पुत्रपौत्रादि सर्वं\nगृहं बान्धवाः सर्वमेतद्धि जातम्।\nमनश्चेन्न लग्नं गुरोरङ्घ्रिपद्मे\nततः किं ततः किं ततः किं ततः किम्॥२॥\n\nषडङ्गादिवेदो मुखे शास्त्रविद्या\nकवित्वादि गद्यं सुपद्यं करोति।\nमनश्चेन्न लग्नं गुरोरङ्घ्रिपद्मे\nततः किं ततः किं ततः किं ततः किम्॥३॥\n\nविदेशेषु मान्यः स्वदेशेषु धन्यः\nसदाचारवृत्तेषु मत्तो न चान्यः।\nमनश्चेन्न लग्नं गुरोरङ्घ्रिपद्मे\nततः किं ततः किं ततः किं ततः किम्॥४॥\n\nक्षमामण्डले भूपभूपालवृन्दैः\nसदा सेवितं यस्य पादारविन्दम्।\nमनश्चेन्न लग्नं गुरोरङ्घ्रिपद्मे\nततः किं ततः किं ततः किं ततः किम्॥५॥\n\nयशो मे गतं दिक्षु दानप्रतापात्\nजगद्वस्तु सर्वं करे यत्प्रसादात्।\nमनश्चेन्न लग्नं गुरोरङ्घ्रिपद्मे\nततः किं ततः किं ततः किं ततः किम्॥६॥\n\nन भोगे न योगे न वा वाजिराजौ\nन कान्तामुखे नैव वित्तेषु चित्तम्।\nमनश्चेन्न लग्नं गुरोरङ्घ्रिपद्मे\nततः किं ततः किं ततः किं ततः किम्॥७॥\n\nअरण्ये न वा स्वस्य गेहे न कार्ये\nन देहे मनो वर्तते मे त्वनर्घ्ये।\nमनश्चेन्न लग्नं गुरोरङ्घ्रिपद्मे\nततः किं ततः किं ततः किं ततः किम्॥८॥\n\nगुरोरष्टकं यः पठेत्पुण्यदेही\nयतिर्भूपतिर्ब्रह्मचारी च गेही।\nलभेद्वाञ्छितार्थं पदं ब्रह्मसंज्ञं\nगुरोरुक्तवाक्ये मनो यस्य लग्नम्॥\n\n॥ इति श्रीमदाद्यशंकराचार्यविरचितं गुर्वष्टकं सम्पूर्णम् ॥",
-  "transliteration": "|| Shri Guru Ashtakam ||\n\nShareeram Suroopam Tathaa Vaa Kalatram\nYashashchaaru Chitram Dhanam Merutulyam.\nManashchenna Lagnam Guroranghripadme\nTatah Kim Tatah Kim Tatah Kim Tatah Kim.||1||\n\nKalatram Dhanam Putrapautraadi Sarvam\nGriham Baandhavaah Sarvametaddhi Jaatam.\nManashchenna Lagnam Guroranghripadme\nTatah Kim Tatah Kim Tatah Kim Tatah Kim.||2||\n\nShadangaadiVedo Mukhe Shaastravidyaa\nKavitvaadi Gadyam Supadyam Karoti.\nManashchenna Lagnam Guroranghripadme\nTatah Kim Tatah Kim Tatah Kim Tatah Kim.||3||\n\nVideshesu Maanyah Svadeshesu Dhanyah\nSadaachaaravritteshu Matto Na Chaanyah.\nManashchenna Lagnam Guroranghripadme\nTatah Kim Tatah Kim Tatah Kim Tatah Kim.||4||\n\nKshamaamandele Bhoopabhoopaalavrindaih\nSadaa Sevitam Yasya Paadaaravindam.\nManashchenna Lagnam Guroranghripadme\nTatah Kim Tatah Kim Tatah Kim Tatah Kim.||5||\n\nYasho Me Gatam Dikshu Daanaprataapaat\nJagadvastu Sarvam Kare Yatprasaadaat.\nManashchenna Lagnam Guroranghripadme\nTatah Kim Tatah Kim Tatah Kim Tatah Kim.||6||\n\nNa Bhoge Na Yoge Na Vaa Vaajiraajau\nNa Kaantaamukhe Naiva Vitteshu Chittam.\nManashchenna Lagnam Guroranghripadme\nTatah Kim Tatah Kim Tatah Kim Tatah Kim.||7||\n\nAranye Na Vaa Svasya Gehe Na Kaarye\nNa Dehe Mano Vartate Me Tvanarghye.\nManashchenna Lagnam Guroranghripadme\nTatah Kim Tatah Kim Tatah Kim Tatah Kim.||8||\n\nGurorashtakam Yah Pathetpunyadehee\nYatirbhoopatirbrahmachaaree Cha Gehee.\nLabhedvaanchhitaartham Padam Brahmasamjnam\nGuroruktavaakye Mano Yasya Lagnam.\n\n|| Iti Shrimadaadyashankaraacharyavirachitam Gurvashtakam Sampoornam ||",
-  "hindiMeaning": "(1) शरीर सुन्दर हो, पत्नी हो, यश विचित्र हो, मेरु पर्वत के समान धन हो — किन्तु यदि मन गुरु के चरणकमलों में लगा नहीं, तो इन सबका क्या?\n\n(2) पत्नी, धन, पुत्र, पौत्र आदि सब कुछ हो, घर हो, बन्धु-बान्धव सब हों — किन्तु यदि मन गुरु के चरणकमलों में न लगे, तो इन सबका क्या?\n\n(3) छः अंगों सहित वेद मुख पर हों, शास्त्रविद्या हो, कविता, गद्य, सुन्दर पद्य रचता हो — किन्तु यदि मन गुरु के चरणकमलों में न लगे, तो इन सबका क्या?\n\n(4) विदेश में मान्य, स्वदेश में धन्य, सदाचार-वृत्ति में मुझसे अन्य कोई नहीं — किन्तु यदि मन गुरु के चरणकमलों में न लगे, तो इन सबका क्या?\n\n(5) पृथ्वी-मण्डल में राजा-महाराजाओं के वृन्दों द्वारा जिसके चरणारविन्द सदा सेवित हों — किन्तु यदि मन गुरु के चरणकमलों में न लगे, तो इन सबका क्या?\n\n(6) दान के प्रताप से दिशाओं में यश फैला हो, जिसकी कृपा से जगत की सब वस्तुएँ हाथ में हों — किन्तु यदि मन गुरु के चरणकमलों में न लगे, तो इन सबका क्या?\n\n(7) न भोग में, न योग में, न अश्वों के राजा में, न कान्ता के मुख में, न धन में चित्त लगा हो — फिर भी यदि मन गुरु के चरणकमलों में न लगे, तो इन सबका क्या?\n\n(8) न वन में, न अपने घर में, न कार्य में, न देह में मन लगा हो — फिर भी यदि मन गुरु के चरणकमलों में न लगे, तो इन सबका क्या?\n\nजो पुण्यदेही यति, राजा, ब्रह्मचारी या गृहस्थ इस गुर्वष्टक को पढ़ता है और गुरु की वाणी में मन लगाता है, वह वांछित अर्थ और ब्रह्मपद प्राप्त करता है।",
-  "viniyog": null,
-  "benefits": [
-    "Shankaracharya's supreme teaching on Guru-bhakti - Shareeram Suroopam",
-    "Establishes that without devotion to Guru, all worldly attainments are meaningless",
-    "Recitation develops humility and surrender to the spiritual master",
-    "Ideal for Guru Purnima and all occasions of Guru worship",
-    "Grants the supreme Brahma-pada through Guru's grace",
-    "Removes ego, pride, and attachment to worldly possessions"
-  ],
-  "deity": "dattatreya",
-  "secondaryDeities": [],
-  "days": ["thursday"],
-  "festivals": ["guru-purnima"],
-  "purposes": ["spiritual-growth", "knowledge", "devotion", "liberation"],
-  "readingTimeMinutes": 7,
-  "seoDescription": "Guru Ashtakam by Shankaracharya in Sanskrit with Hindi meaning. Shareeram Suroopam - eight verses on the supremacy of Guru devotion.",
-  "verseCount": 8,
-  "source": "Adi Shankaracharya",
-  "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
-  "isPublished": true
+    "id": "241",
+    "title": "श्री गुरु अष्टकम्",
+    "titleEn": "Guru Ashtakam",
+    "slug": "guru-ashtakam",
+    "devanagariText": "॥ श्री गुरु अष्टकम् ॥\n\nशरीरं सुरूपं तथा वा कलत्रं\nयशश्चारु चित्रं धनं मेरुतुल्यम्।\nमनश्चेन्न लग्नं गुरोरङ्घ्रिपद्मे\nततः किं ततः किं ततः किं ततः किम्॥१॥\n\nकलत्रं धनं पुत्रपौत्रादि सर्वं\nगृहं बान्धवाः सर्वमेतद्धि जातम्।\nमनश्चेन्न लग्नं गुरोरङ्घ्रिपद्मे\nततः किं ततः किं ततः किं ततः किम्॥२॥\n\nषडङ्गादिवेदो मुखे शास्त्रविद्या\nकवित्वादि गद्यं सुपद्यं करोति।\nमनश्चेन्न लग्नं गुरोरङ्घ्रिपद्मे\nततः किं ततः किं ततः किं ततः किम्॥३॥\n\nविदेशेषु मान्यः स्वदेशेषु धन्यः\nसदाचारवृत्तेषु मत्तो न चान्यः।\nमनश्चेन्न लग्नं गुरोरङ्घ्रिपद्मे\nततः किं ततः किं ततः किं ततः किम्॥४॥\n\nक्षमामण्डले भूपभूपालवृन्दैः\nसदा सेवितं यस्य पादारविन्दम्।\nमनश्चेन्न लग्नं गुरोरङ्घ्रिपद्मे\nततः किं ततः किं ततः किं ततः किम्॥५॥\n\nयशो मे गतं दिक्षु दानप्रतापात्\nजगद्वस्तु सर्वं करे यत्प्रसादात्।\nमनश्चेन्न लग्नं गुरोरङ्घ्रिपद्मे\nततः किं ततः किं ततः किं ततः किम्॥६॥\n\nन भोगे न योगे न वा वाजिराजौ\nन कान्तामुखे नैव वित्तेषु चित्तम्।\nमनश्चेन्न लग्नं गुरोरङ्घ्रिपद्मे\nततः किं ततः किं ततः किं ततः किम्॥७॥\n\nअरण्ये न वा स्वस्य गेहे न कार्ये\nन देहे मनो वर्तते मे त्वनर्घ्ये।\nमनश्चेन्न लग्नं गुरोरङ्घ्रिपद्मे\nततः किं ततः किं ततः किं ततः किम्॥८॥\n\nगुरोरष्टकं यः पठेत्पुण्यदेही\nयतिर्भूपतिर्ब्रह्मचारी च गेही।\nलभेद्वाञ्छितार्थं पदं ब्रह्मसंज्ञं\nगुरोरुक्तवाक्ये मनो यस्य लग्नम्॥\n\n॥ इति श्रीमदाद्यशंकराचार्यविरचितं गुर्वष्टकं सम्पूर्णम् ॥",
+    "transliteration": "|| Shri Guru Ashtakam ||\n\nShareeram Suroopam Tathaa Vaa Kalatram\nYashashchaaru Chitram Dhanam Merutulyam.\nManashchenna Lagnam Guroranghripadme\nTatah Kim Tatah Kim Tatah Kim Tatah Kim.||1||\n\nKalatram Dhanam Putrapautraadi Sarvam\nGriham Baandhavaah Sarvametaddhi Jaatam.\nManashchenna Lagnam Guroranghripadme\nTatah Kim Tatah Kim Tatah Kim Tatah Kim.||2||\n\nShadangaadiVedo Mukhe Shaastravidyaa\nKavitvaadi Gadyam Supadyam Karoti.\nManashchenna Lagnam Guroranghripadme\nTatah Kim Tatah Kim Tatah Kim Tatah Kim.||3||\n\nVideshesu Maanyah Svadeshesu Dhanyah\nSadaachaaravritteshu Matto Na Chaanyah.\nManashchenna Lagnam Guroranghripadme\nTatah Kim Tatah Kim Tatah Kim Tatah Kim.||4||\n\nKshamaamandele Bhoopabhoopaalavrindaih\nSadaa Sevitam Yasya Paadaaravindam.\nManashchenna Lagnam Guroranghripadme\nTatah Kim Tatah Kim Tatah Kim Tatah Kim.||5||\n\nYasho Me Gatam Dikshu Daanaprataapaat\nJagadvastu Sarvam Kare Yatprasaadaat.\nManashchenna Lagnam Guroranghripadme\nTatah Kim Tatah Kim Tatah Kim Tatah Kim.||6||\n\nNa Bhoge Na Yoge Na Vaa Vaajiraajau\nNa Kaantaamukhe Naiva Vitteshu Chittam.\nManashchenna Lagnam Guroranghripadme\nTatah Kim Tatah Kim Tatah Kim Tatah Kim.||7||\n\nAranye Na Vaa Svasya Gehe Na Kaarye\nNa Dehe Mano Vartate Me Tvanarghye.\nManashchenna Lagnam Guroranghripadme\nTatah Kim Tatah Kim Tatah Kim Tatah Kim.||8||\n\nGurorashtakam Yah Pathetpunyadehee\nYatirbhoopatirbrahmachaaree Cha Gehee.\nLabhedvaanchhitaartham Padam Brahmasamjnam\nGuroruktavaakye Mano Yasya Lagnam.\n\n|| Iti Shrimadaadyashankaraacharyavirachitam Gurvashtakam Sampoornam ||",
+    "hindiMeaning": "(1) शरीर सुन्दर हो, पत्नी हो, यश विचित्र हो, मेरु पर्वत के समान धन हो — किन्तु यदि मन गुरु के चरणकमलों में लगा नहीं, तो इन सबका क्या?\n\n(2) पत्नी, धन, पुत्र, पौत्र आदि सब कुछ हो, घर हो, बन्धु-बान्धव सब हों — किन्तु यदि मन गुरु के चरणकमलों में न लगे, तो इन सबका क्या?\n\n(3) छः अंगों सहित वेद मुख पर हों, शास्त्रविद्या हो, कविता, गद्य, सुन्दर पद्य रचता हो — किन्तु यदि मन गुरु के चरणकमलों में न लगे, तो इन सबका क्या?\n\n(4) विदेश में मान्य, स्वदेश में धन्य, सदाचार-वृत्ति में मुझसे अन्य कोई नहीं — किन्तु यदि मन गुरु के चरणकमलों में न लगे, तो इन सबका क्या?\n\n(5) पृथ्वी-मण्डल में राजा-महाराजाओं के वृन्दों द्वारा जिसके चरणारविन्द सदा सेवित हों — किन्तु यदि मन गुरु के चरणकमलों में न लगे, तो इन सबका क्या?\n\n(6) दान के प्रताप से दिशाओं में यश फैला हो, जिसकी कृपा से जगत की सब वस्तुएँ हाथ में हों — किन्तु यदि मन गुरु के चरणकमलों में न लगे, तो इन सबका क्या?\n\n(7) न भोग में, न योग में, न अश्वों के राजा में, न कान्ता के मुख में, न धन में चित्त लगा हो — फिर भी यदि मन गुरु के चरणकमलों में न लगे, तो इन सबका क्या?\n\n(8) न वन में, न अपने घर में, न कार्य में, न देह में मन लगा हो — फिर भी यदि मन गुरु के चरणकमलों में न लगे, तो इन सबका क्या?\n\nजो पुण्यदेही यति, राजा, ब्रह्मचारी या गृहस्थ इस गुर्वष्टक को पढ़ता है और गुरु की वाणी में मन लगाता है, वह वांछित अर्थ और ब्रह्मपद प्राप्त करता है।",
+    "viniyog": null,
+    "benefits": [
+        "Shankaracharya's supreme teaching on Guru-bhakti - Shareeram Suroopam",
+        "Establishes that without devotion to Guru, all worldly attainments are meaningless",
+        "Recitation develops humility and surrender to the spiritual master",
+        "Ideal for Guru Purnima and all occasions of Guru worship",
+        "Grants the supreme Brahma-pada through Guru's grace",
+        "Removes ego, pride, and attachment to worldly possessions"
+    ],
+    "deity": "dattatreya",
+    "secondaryDeities": [],
+    "days": [
+        "thursday"
+    ],
+    "festivals": [
+        "guru-purnima"
+    ],
+    "purposes": [
+        "spiritual-growth",
+        "knowledge",
+        "devotion",
+        "liberation"
+    ],
+    "readingTimeMinutes": 7,
+    "seoDescription": "Guru Ashtakam by Shankaracharya in Sanskrit with Hindi meaning. Shareeram Suroopam - eight verses on the supremacy of Guru devotion.",
+    "verseCount": 8,
+    "source": "Adi Shankaracharya",
+    "createdAt": "2026-03-28T00:00:00Z",
+    "updatedAt": "2026-03-28T00:00:00Z",
+    "isPublished": true
 }

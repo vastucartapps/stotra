@@ -1,38 +1,50 @@
 {
-  "id": "553",
-  "title": "श्री वासुदेवाष्टकम्",
-  "titleEn": "Vasudeva Ashtakam",
-  "slug": "vasudeva-ashtakam",
-  "devanagariText": "श्रीवासुदेवं परमं पदं ये\nवदन्ति विष्णुं प्रभवं जगत्ताम्।\nतमादिदेवं प्रणतोऽस्मि नित्यं\nवासुदेवं शरणं प्रपद्ये॥१॥\n\nवसुदेवगृहे जातं देवकीनन्दनं विभुम्।\nनन्दगोपप्रियं बालं वासुदेवं नमाम्यहम्॥२॥\n\nमथुरापुरनिर्माणं कंसभीतं जगत्पतिम्।\nगोकुले लालितं श्रीशं वासुदेवं नमाम्यहम्॥३॥\n\nगोपीजनप्रियं कृष्णं राधामाधवमव्ययम्।\nवृन्दावनविहारिणं वासुदेवं नमाम्यहम्॥४॥\n\nकालियदमनं वीरं गोवर्धनधराव्ययम्।\nगोपालं गोकुलानन्दं वासुदेवं नमाम्यहम्॥५॥\n\nमथुरानाथमीशानं कंसमर्दनकारिणम्।\nउग्रसेनप्रतिष्ठातुं वासुदेवं नमाम्यहम्॥६॥\n\nद्वारकाधीशमीशानं रुक्मिणीवल्लभं प्रभुम्।\nषोडशस्त्रीसहस्रेशं वासुदेवं नमाम्यहम्॥७॥\n\nपार्थसख्यं कृपासिन्धुं गीताज्ञानप्रबोधकम्।\nधर्मसंस्थापकं देवं वासुदेवं नमाम्यहम्॥८॥\n\nवासुदेवाष्टकं पुण्यं यः पठेत् प्रयतः सदा।\nवासुदेवप्रसादेन सर्वसिद्धिमवाप्नुयात्॥\n\n॥ इति श्री वासुदेवाष्टकं सम्पूर्णम् ॥",
-  "transliteration": "Shrivasudevam Paramam Padam Ye\nVadanti Vishnum Prabhavam Jagattam.\nTam Adidevam Pranato'smi Nityam\nVasudevam Sharanam Prapadye.||1||\n\nVasudeva-Grihe Jatam Devaki-Nandanam Vibhum.\nNandagopa-Priyam Balam Vasudevam Namamyaham.||2||\n\nMathura-Pura-Nirmanam Kamsa-Bhitam Jagatpatim.\nGokule Lalitam Shrisham Vasudevam Namamyaham.||3||\n\nGopi-Jana-Priyam Krishnam Radha-Madhavam Avyayam.\nVrindavana-Viharinam Vasudevam Namamyaham.||4||\n\nKaliya-Damanam Viram Govardhana-Dharavyayam.\nGopalam Gokula-Anandam Vasudevam Namamyaham.||5||\n\nMathura-Natham Ishanam Kamsa-Mardana-Karinam.\nUgrasena-Pratishtha-tum Vasudevam Namamyaham.||6||\n\nDvarakaadhisham Ishanam Rukmini-Vallabham Prabhum.\nShodashaStri-Sahasresham Vasudevam Namamyaham.||7||\n\nPartha-Sakhyam Kripaasindhum Gitajnanaprabodhakam.\nDharmasamsthaa-pakam Devam Vasudevam Namamyaham.||8||\n\nVasudeva-Ashtakam Punyam Yah Pathet Prayatah Sada.\nVasudeva-Prasadena Sarvasiddhim Avapnuyat.\n\n|| Iti Shri Vasudeva Ashtakam Sampurnam ||",
-  "hindiMeaning": "श्री वासुदेव को जो परम पद कहते हैं, जो विष्णु जगत के प्रभव हैं — उन आदिदेव को मैं नित्य प्रणत हूँ, वासुदेव की शरण लेता हूँ।\n\nवसुदेव के गृह में जन्मे, देवकीनन्दन, विभु, नन्दगोप के प्रिय बालक वासुदेव को मैं नमन करता हूँ।\n\nमथुरापुरी में अवतरित, कंस से भयभीत जगत के पति, गोकुल में लालित श्रीश वासुदेव को नमन।\n\nगोपीजनप्रिय कृष्ण, राधामाधव, अव्यय, वृन्दावनविहारी वासुदेव को नमन।\n\nकालिय दमन करने वाले वीर, गोवर्धन धारी, गोपाल, गोकुलानन्द वासुदेव को नमन।\n\nमथुरानाथ, कंस-मर्दन करने वाले, उग्रसेन को राज्य पुनः स्थापित करने वाले वासुदेव को नमन।\n\nद्वारकाधीश, रुक्मिणीवल्लभ, सोलह हजार स्त्रियों के ईश प्रभु वासुदेव को नमन।\n\nपार्थ (अर्जुन) के सखा, कृपासिन्धु, गीताज्ञान प्रबोधक, धर्मसंस्थापक देव वासुदेव को नमन।\n\nजो सदा पवित्र भाव से वासुदेवाष्टक पढ़ता है, वह वासुदेव प्रसाद से सर्वसिद्धि प्राप्त करता है।",
-  "viniyog": {
-    "rishi": "नारद",
-    "chhand": "अनुष्टुप् एवं इन्द्रवज्रा",
-    "devata": "श्री वासुदेव (कृष्ण)",
-    "beej": "ॐ नमो भगवते वासुदेवाय",
-    "shakti": "सर्वसिद्धि शक्ति",
-    "kilak": "वासुदेव प्रसाद",
-    "shloka": "अस्य श्रीवासुदेवाष्टकमन्त्रस्य नारद ऋषिः। अनुष्टुप्-इन्द्रवज्रा छन्दः। श्रीवासुदेव देवता। ॐ नमो भगवते वासुदेवाय बीजम्। सर्वसिद्धिशक्तिः। वासुदेवप्रसादः कीलकम्। श्रीवासुदेवप्रीत्यर्थे पाठे विनियोगः॥"
-  },
-  "benefits": [
-    "Covers the complete journey of Vasudeva Krishna from birth to Mahabharata",
-    "Grants Sarva Siddhi (all accomplishments) through Vasudeva's grace",
-    "Each verse corresponds to a major phase of Krishna's divine play",
-    "Ideal for daily devotion and Janmashtami celebration",
-    "Combines bhakti with the essence of Krishna's life story",
-    "Destroys all sins and leads to the supreme abode"
-  ],
-  "deity": "krishna",
-  "secondaryDeities": ["vishnu"],
-  "days": ["wednesday"],
-  "festivals": ["janmashtami", "gita-jayanti"],
-  "purposes": ["devotion", "spiritual-growth", "career", "protection"],
-  "readingTimeMinutes": 5,
-  "seoDescription": "Read Vasudeva Ashtakam in Sanskrit with Hindi meaning. Eight verses covering Krishna's complete life journey for devotion and all-round success.",
-  "verseCount": 8,
-  "source": "Traditional Vaishnavite Stotra",
-  "createdAt": "2026-03-29T00:00:00Z",
-  "updatedAt": "2026-03-29T00:00:00Z",
-  "isPublished": true
+    "id": "729",
+    "title": "श्री वासुदेवाष्टकम्",
+    "titleEn": "Vasudeva Ashtakam",
+    "slug": "vasudeva-ashtakam",
+    "devanagariText": "श्रीवासुदेवं परमं पदं ये\nवदन्ति विष्णुं प्रभवं जगत्ताम्।\nतमादिदेवं प्रणतोऽस्मि नित्यं\nवासुदेवं शरणं प्रपद्ये॥१॥\n\nवसुदेवगृहे जातं देवकीनन्दनं विभुम्।\nनन्दगोपप्रियं बालं वासुदेवं नमाम्यहम्॥२॥\n\nमथुरापुरनिर्माणं कंसभीतं जगत्पतिम्।\nगोकुले लालितं श्रीशं वासुदेवं नमाम्यहम्॥३॥\n\nगोपीजनप्रियं कृष्णं राधामाधवमव्ययम्।\nवृन्दावनविहारिणं वासुदेवं नमाम्यहम्॥४॥\n\nकालियदमनं वीरं गोवर्धनधराव्ययम्।\nगोपालं गोकुलानन्दं वासुदेवं नमाम्यहम्॥५॥\n\nमथुरानाथमीशानं कंसमर्दनकारिणम्।\nउग्रसेनप्रतिष्ठातुं वासुदेवं नमाम्यहम्॥६॥\n\nद्वारकाधीशमीशानं रुक्मिणीवल्लभं प्रभुम्।\nषोडशस्त्रीसहस्रेशं वासुदेवं नमाम्यहम्॥७॥\n\nपार्थसख्यं कृपासिन्धुं गीताज्ञानप्रबोधकम्।\nधर्मसंस्थापकं देवं वासुदेवं नमाम्यहम्॥८॥\n\nवासुदेवाष्टकं पुण्यं यः पठेत् प्रयतः सदा।\nवासुदेवप्रसादेन सर्वसिद्धिमवाप्नुयात्॥\n\n॥ इति श्री वासुदेवाष्टकं सम्पूर्णम् ॥",
+    "transliteration": "Shrivasudevam Paramam Padam Ye\nVadanti Vishnum Prabhavam Jagattam.\nTam Adidevam Pranato'smi Nityam\nVasudevam Sharanam Prapadye.||1||\n\nVasudeva-Grihe Jatam Devaki-Nandanam Vibhum.\nNandagopa-Priyam Balam Vasudevam Namamyaham.||2||\n\nMathura-Pura-Nirmanam Kamsa-Bhitam Jagatpatim.\nGokule Lalitam Shrisham Vasudevam Namamyaham.||3||\n\nGopi-Jana-Priyam Krishnam Radha-Madhavam Avyayam.\nVrindavana-Viharinam Vasudevam Namamyaham.||4||\n\nKaliya-Damanam Viram Govardhana-Dharavyayam.\nGopalam Gokula-Anandam Vasudevam Namamyaham.||5||\n\nMathura-Natham Ishanam Kamsa-Mardana-Karinam.\nUgrasena-Pratishtha-tum Vasudevam Namamyaham.||6||\n\nDvarakaadhisham Ishanam Rukmini-Vallabham Prabhum.\nShodashaStri-Sahasresham Vasudevam Namamyaham.||7||\n\nPartha-Sakhyam Kripaasindhum Gitajnanaprabodhakam.\nDharmasamsthaa-pakam Devam Vasudevam Namamyaham.||8||\n\nVasudeva-Ashtakam Punyam Yah Pathet Prayatah Sada.\nVasudeva-Prasadena Sarvasiddhim Avapnuyat.\n\n|| Iti Shri Vasudeva Ashtakam Sampurnam ||",
+    "hindiMeaning": "श्री वासुदेव को जो परम पद कहते हैं, जो विष्णु जगत के प्रभव हैं — उन आदिदेव को मैं नित्य प्रणत हूँ, वासुदेव की शरण लेता हूँ।\n\nवसुदेव के गृह में जन्मे, देवकीनन्दन, विभु, नन्दगोप के प्रिय बालक वासुदेव को मैं नमन करता हूँ।\n\nमथुरापुरी में अवतरित, कंस से भयभीत जगत के पति, गोकुल में लालित श्रीश वासुदेव को नमन।\n\nगोपीजनप्रिय कृष्ण, राधामाधव, अव्यय, वृन्दावनविहारी वासुदेव को नमन।\n\nकालिय दमन करने वाले वीर, गोवर्धन धारी, गोपाल, गोकुलानन्द वासुदेव को नमन।\n\nमथुरानाथ, कंस-मर्दन करने वाले, उग्रसेन को राज्य पुनः स्थापित करने वाले वासुदेव को नमन।\n\nद्वारकाधीश, रुक्मिणीवल्लभ, सोलह हजार स्त्रियों के ईश प्रभु वासुदेव को नमन।\n\nपार्थ (अर्जुन) के सखा, कृपासिन्धु, गीताज्ञान प्रबोधक, धर्मसंस्थापक देव वासुदेव को नमन।\n\nजो सदा पवित्र भाव से वासुदेवाष्टक पढ़ता है, वह वासुदेव प्रसाद से सर्वसिद्धि प्राप्त करता है।",
+    "viniyog": {
+        "rishi": "नारद",
+        "chhand": "अनुष्टुप् एवं इन्द्रवज्रा",
+        "devata": "श्री वासुदेव (कृष्ण)",
+        "beej": "ॐ नमो भगवते वासुदेवाय",
+        "shakti": "सर्वसिद्धि शक्ति",
+        "kilak": "वासुदेव प्रसाद",
+        "shloka": "अस्य श्रीवासुदेवाष्टकमन्त्रस्य नारद ऋषिः। अनुष्टुप्-इन्द्रवज्रा छन्दः। श्रीवासुदेव देवता। ॐ नमो भगवते वासुदेवाय बीजम्। सर्वसिद्धिशक्तिः। वासुदेवप्रसादः कीलकम्। श्रीवासुदेवप्रीत्यर्थे पाठे विनियोगः॥"
+    },
+    "benefits": [
+        "Covers the complete journey of Vasudeva Krishna from birth to Mahabharata",
+        "Grants Sarva Siddhi (all accomplishments) through Vasudeva's grace",
+        "Each verse corresponds to a major phase of Krishna's divine play",
+        "Ideal for daily devotion and Janmashtami celebration",
+        "Combines bhakti with the essence of Krishna's life story",
+        "Destroys all sins and leads to the supreme abode"
+    ],
+    "deity": "krishna",
+    "secondaryDeities": [
+        "vishnu"
+    ],
+    "days": [
+        "wednesday"
+    ],
+    "festivals": [
+        "janmashtami",
+        "gita-jayanti"
+    ],
+    "purposes": [
+        "devotion",
+        "spiritual-growth",
+        "career",
+        "protection"
+    ],
+    "readingTimeMinutes": 5,
+    "seoDescription": "Read Vasudeva Ashtakam in Sanskrit with Hindi meaning. Eight verses covering Krishna's complete life journey for devotion and all-round success.",
+    "verseCount": 8,
+    "source": "Traditional Vaishnavite Stotra",
+    "createdAt": "2026-03-29T00:00:00Z",
+    "updatedAt": "2026-03-29T00:00:00Z",
+    "isPublished": true
 }

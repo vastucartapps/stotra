@@ -1,29 +1,39 @@
 {
-  "id": "623",
-  "title": "श्री शिव द्वादश नाम स्तोत्रम्",
-  "titleEn": "Shiva Dwadash Nama Stotram",
-  "slug": "shiva-dwadash-nama",
-  "devanagariText": "॥ श्री शिव द्वादश नाम स्तोत्रम् ॥\n\nॐ शिवो महेश्वरः शम्भुः पिनाकी शशिशेखरः।\nवामदेवो विरूपाक्षः कपर्दी नीललोहितः॥ १॥\n\nशङ्करः शूलपाणिश्च भवो भर्गो दिगम्बरः।\nद्वादशैतानि नामानि शिवस्य परमात्मनः॥ २॥\n\nप्रातरुत्थाय यो भक्त्या शिवनामानि यः पठेत्।\nसर्वपापविनिर्मुक्तः शिवलोकमवाप्नुयात्॥ ३॥\n\nनमोऽस्तु शम्भवे नित्यं नमस्ते गिरिजापते।\nनमोऽस्तु भीमनाथाय नमस्ते कृत्तिवाससे॥ ४॥\n\nनमो गङ्गाधराय च नमस्ते त्रिपुरान्तक।\nनमोऽस्तु वृषभेशाय नमस्ते विषमेक्षण॥ ५॥\n\nनमो नमः कालकालाय नमस्ते रुद्ररूपिणे।\nनमो नटेश्वराय च सदा पञ्चमुखाय ते॥ ६॥\n\nइत्येतत् द्वादशनामानि त्रिसन्ध्यं यः पठेन्नरः।\nगोघ्नश्च सुरापश्च चोरश्च गुरुतल्पगः॥ ७॥\n\nसर्वपापैर्विनिर्मुक्तः शिवसायुज्यमाप्नुयात्।\nएतच्छिवस्य द्वादशनाम संस्मरन् सदा॥ ८॥\n\n॥ इति श्री शिव द्वादश नाम स्तोत्रं सम्पूर्णम् ॥",
-  "transliteration": "|| Shri Shiva Dvadash Nama Stotram ||\n\nOm Shivo Maheshvarah Shambhuh Pinaki Shashishekharah.\nVamadevo Virupakshah Kapardi Nilalohitah. || 1 ||\n\nShankarah Shulapanishcha Bhavo Bhargo Digambarah.\nDvadasaitani Namani Shivasya Paramatmanah. || 2 ||\n\nPratarutthaya Yo Bhaktya Shivanamani Yah Pathet.\nSarvapapavinirmuktah Shivalokamavapnuyat. || 3 ||\n\nNamostu Shambhave Nityam Namaste Girijaapate.\nNamostu Bhimanathaya Namaste Krittivasase. || 4 ||\n\nNamo Gangadharaya Cha Namaste Tripurantaka.\nNamostu Vrishabeshaya Namaste Vishamekshana. || 5 ||\n\nNamo Namah Kalakalaya Namaste Rudrarupine.\nNamo Nateshvaraya Cha Sada Panchamukhaya Te. || 6 ||\n\nItyetat Dvadashanamani Trisandhyam Yah Pathennarah.\nGoghnacha Suraapashcha Choraashcha Gurutalpagah. || 7 ||\n\nSarvapapaVinirmuktah Shivasayujyamapnuyat.\nEtachchhivasya Dvadashanama Samsmaran Sada. || 8 ||\n\n|| Iti Shri Shiva Dvadash Nama Stotram Sampoornam ||",
-  "hindiMeaning": "शिव द्वादश नाम स्तोत्र में भगवान शिव के बारह पवित्र नाम हैं: शिव, महेश्वर, शम्भु, पिनाकी, शशिशेखर, वामदेव, विरूपाक्ष, कपर्दी, नीललोहित, शंकर, शूलपाणि, और भव। जो भक्त प्रातःकाल उठकर इन नामों का पाठ करता है वह सर्वपापों से मुक्त होकर शिवलोक प्राप्त करता है। फिर शम्भु, गिरिजापति, भीमनाथ, कृत्तिवासी, गंगाधर, त्रिपुरान्तक, वृषभेश, विषमेक्षण, कालकाल, रुद्र, नटेश्वर और पञ्चमुख को नमन करने से सर्वपापमुक्ति और शिव सायुज्य प्राप्त होता है।",
-  "viniyog": null,
-  "benefits": [
-    "Chanting 12 sacred names of Lord Shiva destroys all sins",
-    "Morning recitation grants liberation and Shiva Loka",
-    "Purifies even the gravest of sinners",
-    "Three-time daily recitation leads to union with Shiva",
-    "Bestows divine protection and spiritual merit"
-  ],
-  "deity": "shiva",
-  "secondaryDeities": [],
-  "days": ["monday"],
-  "festivals": ["maha-shivratri", "shravan"],
-  "purposes": ["devotion", "moksha", "sin-removal", "protection"],
-  "readingTimeMinutes": 5,
-  "seoDescription": "Shiva Dwadash Nama Stotram - 12 sacred names of Lord Shiva in Sanskrit with Hindi meaning. Powerful prayer for sin removal and moksha.",
-  "verseCount": 8,
-  "source": "Shiva Purana",
-  "createdAt": "2026-03-29T00:00:00Z",
-  "updatedAt": "2026-03-29T00:00:00Z",
-  "isPublished": true
+    "id": "623",
+    "title": "श्री शिव द्वादश नाम स्तोत्रम्",
+    "titleEn": "Shiva Dwadash Nama Stotram",
+    "slug": "shiva-dwadash-nama",
+    "devanagariText": "॥ श्री शिव द्वादश नाम स्तोत्रम् ॥\n\nॐ शिवो महेश्वरः शम्भुः पिनाकी शशिशेखरः।\nवामदेवो विरूपाक्षः कपर्दी नीललोहितः॥ १॥\n\nशङ्करः शूलपाणिश्च भवो भर्गो दिगम्बरः।\nद्वादशैतानि नामानि शिवस्य परमात्मनः॥ २॥\n\nप्रातरुत्थाय यो भक्त्या शिवनामानि यः पठेत्।\nसर्वपापविनिर्मुक्तः शिवलोकमवाप्नुयात्॥ ३॥\n\nनमोऽस्तु शम्भवे नित्यं नमस्ते गिरिजापते।\nनमोऽस्तु भीमनाथाय नमस्ते कृत्तिवाससे॥ ४॥\n\nनमो गङ्गाधराय च नमस्ते त्रिपुरान्तक।\nनमोऽस्तु वृषभेशाय नमस्ते विषमेक्षण॥ ५॥\n\nनमो नमः कालकालाय नमस्ते रुद्ररूपिणे।\nनमो नटेश्वराय च सदा पञ्चमुखाय ते॥ ६॥\n\nइत्येतत् द्वादशनामानि त्रिसन्ध्यं यः पठेन्नरः।\nगोघ्नश्च सुरापश्च चोरश्च गुरुतल्पगः॥ ७॥\n\nसर्वपापैर्विनिर्मुक्तः शिवसायुज्यमाप्नुयात्।\nएतच्छिवस्य द्वादशनाम संस्मरन् सदा॥ ८॥\n\n॥ इति श्री शिव द्वादश नाम स्तोत्रं सम्पूर्णम् ॥",
+    "transliteration": "|| Shri Shiva Dvadash Nama Stotram ||\n\nOm Shivo Maheshvarah Shambhuh Pinaki Shashishekharah.\nVamadevo Virupakshah Kapardi Nilalohitah. || 1 ||\n\nShankarah Shulapanishcha Bhavo Bhargo Digambarah.\nDvadasaitani Namani Shivasya Paramatmanah. || 2 ||\n\nPratarutthaya Yo Bhaktya Shivanamani Yah Pathet.\nSarvapapavinirmuktah Shivalokamavapnuyat. || 3 ||\n\nNamostu Shambhave Nityam Namaste Girijaapate.\nNamostu Bhimanathaya Namaste Krittivasase. || 4 ||\n\nNamo Gangadharaya Cha Namaste Tripurantaka.\nNamostu Vrishabeshaya Namaste Vishamekshana. || 5 ||\n\nNamo Namah Kalakalaya Namaste Rudrarupine.\nNamo Nateshvaraya Cha Sada Panchamukhaya Te. || 6 ||\n\nItyetat Dvadashanamani Trisandhyam Yah Pathennarah.\nGoghnacha Suraapashcha Choraashcha Gurutalpagah. || 7 ||\n\nSarvapapaVinirmuktah Shivasayujyamapnuyat.\nEtachchhivasya Dvadashanama Samsmaran Sada. || 8 ||\n\n|| Iti Shri Shiva Dvadash Nama Stotram Sampoornam ||",
+    "hindiMeaning": "शिव द्वादश नाम स्तोत्र में भगवान शिव के बारह पवित्र नाम हैं: शिव, महेश्वर, शम्भु, पिनाकी, शशिशेखर, वामदेव, विरूपाक्ष, कपर्दी, नीललोहित, शंकर, शूलपाणि, और भव। जो भक्त प्रातःकाल उठकर इन नामों का पाठ करता है वह सर्वपापों से मुक्त होकर शिवलोक प्राप्त करता है। फिर शम्भु, गिरिजापति, भीमनाथ, कृत्तिवासी, गंगाधर, त्रिपुरान्तक, वृषभेश, विषमेक्षण, कालकाल, रुद्र, नटेश्वर और पञ्चमुख को नमन करने से सर्वपापमुक्ति और शिव सायुज्य प्राप्त होता है।",
+    "viniyog": null,
+    "benefits": [
+        "Chanting 12 sacred names of Lord Shiva destroys all sins",
+        "Morning recitation grants liberation and Shiva Loka",
+        "Purifies even the gravest of sinners",
+        "Three-time daily recitation leads to union with Shiva",
+        "Bestows divine protection and spiritual merit"
+    ],
+    "deity": "shiva",
+    "secondaryDeities": [],
+    "days": [
+        "monday"
+    ],
+    "festivals": [
+        "maha-shivaratri",
+        "shravan"
+    ],
+    "purposes": [
+        "devotion",
+        "moksha",
+        "sin-removal",
+        "protection"
+    ],
+    "readingTimeMinutes": 5,
+    "seoDescription": "Shiva Dwadash Nama Stotram - 12 sacred names of Lord Shiva in Sanskrit with Hindi meaning. Powerful prayer for sin removal and moksha.",
+    "verseCount": 8,
+    "source": "Shiva Purana",
+    "createdAt": "2026-03-29T00:00:00Z",
+    "updatedAt": "2026-03-29T00:00:00Z",
+    "isPublished": true
 }

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Crescent moon at top -->
+  <path d="M28 4 Q24 7 24 11 Q24 16 29 17 Q26 13 27 9 Q28 6 31 5 Z"/>
+
+  <!-- Trishul (Trident) - main vertical shaft -->
+  <line x1="32" y1="14" x2="32" y2="58"/>
+
+  <!-- Trishul center prong -->
+  <path d="M32 14 L32 24"/>
+  <path d="M32 14 L30 18 L32 22 L34 18 Z"/>
+
+  <!-- Trishul left prong -->
+  <path d="M28 16 Q26 14 25 16 Q24 20 26 22 L28 20"/>
+
+  <!-- Trishul right prong -->
+  <path d="M36 16 Q38 14 39 16 Q40 20 38 22 L36 20"/>
+
+  <!-- Cross bar at prong base -->
+  <line x1="26" y1="22" x2="38" y2="22"/>
+
+  <!-- Damaru drum hanging from left of shaft -->
+  <!-- Damaru top half -->
+  <path d="M20 30 Q18 28 17 30 Q17 34 20 36"/>
+  <!-- Damaru bottom half -->
+  <path d="M20 36 Q18 38 17 40 Q17 44 20 42"/>
+  <!-- Damaru center knot -->
+  <line x1="20" y1="36" x2="28" y2="36"/>
+  <circle cx="24" cy="36" r="1.2"/>
+  <!-- Damaru strings with beads -->
+  <path d="M19 30 Q22 33 20 36"/>
+  <path d="M19 42 Q22 39 20 36"/>
+  <!-- Bead/tassel on string -->
+  <circle cx="17" cy="31" r="1"/>
+  <circle cx="17" cy="41" r="1"/>
+
+  <!-- Cord connecting drum to shaft -->
+  <path d="M28 30 Q30 28 32 30"/>
+  <path d="M28 42 Q30 44 32 42"/>
+
+  <!-- Shaft base / Shivalinga hint -->
+  <ellipse cx="32" cy="57" rx="6" ry="2.5"/>
+  <path d="M26 55 L26 57"/>
+  <path d="M38 55 L38 57"/>
+
+  <!-- Rudraksha beads on shaft (decorative dots) -->
+  <circle cx="32" cy="44" r="1"/>
+  <circle cx="32" cy="48" r="1"/>
+  <circle cx="32" cy="52" r="1"/>
+
+  <!-- Small snake coil near top (Vasuki) -->
+  <path d="M36 25 Q40 23 42 26 Q43 29 40 30 Q38 30 37 28"/>
+  <!-- Snake head -->
+  <path d="M37 28 Q35 27 36 25"/>
+  <!-- Forked tongue -->
+  <path d="M36 25 L35 23 M36 25 L37 23"/>
+</svg>

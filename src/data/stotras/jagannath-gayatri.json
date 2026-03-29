@@ -1,29 +1,42 @@
 {
-  "id": "638",
-  "title": "जगन्नाथ गायत्री",
-  "titleEn": "Jagannath Gayatri",
-  "slug": "jagannath-gayatri",
-  "devanagariText": "॥ श्री जगन्नाथ गायत्री ॥\n\nॐ जगन्नाथाय विद्महे पुरुषोत्तमाय धीमहि।\nतन्नो जगन्नाथः प्रचोदयात्॥\n\nॐ नीलाद्रिवासाय विद्महे विश्वरूपाय धीमहि।\nतन्नो जगन्नाथः प्रचोदयात्॥\n\nॐ दारुब्रह्माय विद्महे सुभद्रासहजाय धीमहि।\nतन्नो जगन्नाथः प्रचोदयात्॥\n\n॥ इति श्री जगन्नाथ गायत्री सम्पूर्णम् ॥",
-  "transliteration": "|| Shri Jagannath Gayatri ||\n\nOm Jagannathaya Vidmahe Purushottamaya Dhimahi.\nTanno Jagannathah Prachodayat.\n\nOm Niladrivasaya Vidmahe Vishwarupaya Dhimahi.\nTanno Jagannathah Prachodayat.\n\nOm Darubrahmaaya Vidmahe Subhadrasahajaya Dhimahi.\nTanno Jagannathah Prachodayat.\n\n|| Iti Shri Jagannath Gayatri Sampoornam ||",
-  "hindiMeaning": "हम जगन्नाथ (जगत के स्वामी), पुरुषोत्तम (परम पुरुष) का ध्यान करते हैं, भगवान जगन्नाथ हमारी बुद्धि को सन्मार्ग पर प्रेरित करें। हम नीलाद्रि (नीलगिरि/पुरी) में विराजमान, विश्वरूप जगन्नाथ का ध्यान करते हैं। हम दारुब्रह्म (काष्ठ में ब्रह्म स्वरूप), सुभद्रा के सहोदर जगन्नाथ का ध्यान करते हैं, वे हमें प्रेरणा प्रदान करें। जगन्नाथ गायत्री भगवान जगन्नाथ की कृपा और मोक्ष प्राप्ति के लिए अत्यन्त फलदायी है।",
-  "viniyog": null,
-  "benefits": [
-    "Invokes the supreme blessings of Lord Jagannath",
-    "Bestows liberation (moksha) and spiritual wisdom",
-    "Brings prosperity, happiness, and divine grace",
-    "Removes all sins and purifies the devotee",
-    "Especially powerful during Rath Yatra and Puri pilgrimage"
-  ],
-  "deity": "jagannath",
-  "secondaryDeities": ["vishnu", "krishna"],
-  "days": ["thursday"],
-  "festivals": ["rath-yatra", "snana-yatra"],
-  "purposes": ["devotion", "moksha", "prosperity"],
-  "readingTimeMinutes": 2,
-  "seoDescription": "Jagannath Gayatri Mantra in Sanskrit with Hindi meaning. Invoke Lord Jagannath's blessings for moksha, spiritual wisdom, and divine grace.",
-  "verseCount": 3,
-  "source": "Skanda Purana",
-  "createdAt": "2026-03-29T00:00:00Z",
-  "updatedAt": "2026-03-29T00:00:00Z",
-  "isPublished": true
+    "id": "286",
+    "title": "जगन्नाथ गायत्री",
+    "titleEn": "Jagannath Gayatri",
+    "slug": "jagannath-gayatri",
+    "devanagariText": "॥ श्री जगन्नाथ गायत्री ॥\n\nॐ जगन्नाथाय विद्महे पुरुषोत्तमाय धीमहि।\nतन्नो जगन्नाथः प्रचोदयात्॥\n\nॐ नीलाद्रिवासाय विद्महे विश्वरूपाय धीमहि।\nतन्नो जगन्नाथः प्रचोदयात्॥\n\nॐ दारुब्रह्माय विद्महे सुभद्रासहजाय धीमहि।\nतन्नो जगन्नाथः प्रचोदयात्॥\n\n॥ इति श्री जगन्नाथ गायत्री सम्पूर्णम् ॥",
+    "transliteration": "|| Shri Jagannath Gayatri ||\n\nOm Jagannathaya Vidmahe Purushottamaya Dhimahi.\nTanno Jagannathah Prachodayat.\n\nOm Niladrivasaya Vidmahe Vishwarupaya Dhimahi.\nTanno Jagannathah Prachodayat.\n\nOm Darubrahmaaya Vidmahe Subhadrasahajaya Dhimahi.\nTanno Jagannathah Prachodayat.\n\n|| Iti Shri Jagannath Gayatri Sampoornam ||",
+    "hindiMeaning": "हम जगन्नाथ (जगत के स्वामी), पुरुषोत्तम (परम पुरुष) का ध्यान करते हैं, भगवान जगन्नाथ हमारी बुद्धि को सन्मार्ग पर प्रेरित करें। हम नीलाद्रि (नीलगिरि/पुरी) में विराजमान, विश्वरूप जगन्नाथ का ध्यान करते हैं। हम दारुब्रह्म (काष्ठ में ब्रह्म स्वरूप), सुभद्रा के सहोदर जगन्नाथ का ध्यान करते हैं, वे हमें प्रेरणा प्रदान करें। जगन्नाथ गायत्री भगवान जगन्नाथ की कृपा और मोक्ष प्राप्ति के लिए अत्यन्त फलदायी है।",
+    "viniyog": null,
+    "benefits": [
+        "Invokes the supreme blessings of Lord Jagannath",
+        "Bestows liberation (moksha) and spiritual wisdom",
+        "Brings prosperity, happiness, and divine grace",
+        "Removes all sins and purifies the devotee",
+        "Especially powerful during Rath Yatra and Puri pilgrimage"
+    ],
+    "deity": "jagannath",
+    "secondaryDeities": [
+        "vishnu",
+        "krishna"
+    ],
+    "days": [
+        "thursday"
+    ],
+    "festivals": [
+        "rath-yatra",
+        "snana-yatra"
+    ],
+    "purposes": [
+        "devotion",
+        "moksha",
+        "prosperity",
+        "japa"
+    ],
+    "readingTimeMinutes": 2,
+    "seoDescription": "Jagannath Gayatri Mantra in Sanskrit with Hindi meaning. Invoke Lord Jagannath's blessings for moksha, spiritual wisdom, and divine grace.",
+    "verseCount": 3,
+    "source": "Skanda Purana",
+    "createdAt": "2026-03-29T00:00:00Z",
+    "updatedAt": "2026-03-29T00:00:00Z",
+    "isPublished": true
 }

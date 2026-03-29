@@ -1,39 +1,47 @@
 {
-  "id": "538",
-  "title": "पृथ्वी सूक्तम्",
-  "titleEn": "Prithvi Suktam",
-  "slug": "prithvi-suktam",
-  "devanagariText": "॥ श्री पृथ्वी सूक्तम् ॥\n\nॐ भूमिर्भूम्ना द्यौर्वरिणान्तरिक्षं महित्वा।\nउपस्थे ते देव्यदितेऽग्निमन्नादमन्नाद्यायादधे॥ १॥\n\nसत्यं बृहदृतमुग्रं दीक्षा तपो ब्रह्म यज्ञः पृथिवीं धारयन्ति।\nसा नो भूतस्य भव्यस्य पत्न्युरुं लोकं पृथिवी नः कृणोतु॥ २॥\n\nअसंबाधं मध्यतो मानवानां यस्या उद्वतः प्रवतः समं बहु।\nनानावीर्या ओषधीर्या बिभर्ति पृथिवी नः प्रथतां राध्यतां नः॥ ३॥\n\nयस्यां समुद्र उत सिन्धुरापो यस्यामन्नं कृष्टयः सम्बभूवुः।\nयस्यामिदं जिन्वति प्राणदेजत् सा नो भूमिः पूर्वपेये दधातु॥ ४॥\n\nयस्याश्चतस्रः प्रदिशः पृथिव्या यस्यामन्नं कृष्टयः सम्बभूवुः।\nया बिभर्ति बहुधा प्राणतो जनान् सा नो भूमिर्गोष्वप्यन्ने दधातु॥ ५॥\n\nयस्यां पूर्वे पूर्वजना विचक्रिरे यस्यां देवा असुरानभ्यवर्तयन्।\nगवामश्वानां वयसश्च विष्ठा भगं वर्चः पृथिवी नो दधातु॥ ६॥\n\nविश्वम्भरा वसुधानी प्रतिष्ठा हिरण्यवक्षा जगतो निवेशनी।\nवैश्वानरं बिभ्रती भूमिरग्निमिन्द्रऋषभा द्रविणे नो दधातु॥ ७॥\n\nयां रक्षन्त्यस्वप्ना विश्वदानीं देवा भूमिं पृथिवीमप्रमादम्।\nसा नो मधु प्रियं दुहामथो उक्षतु वर्चसा॥ ८॥\n\nयत्ते भूमे विखनामि क्षिप्रं तदपि रोहतु।\nमा ते मर्म विमृग्वरि मा ते हृदयमर्पिपम्॥ ९॥\n\nग्रीष्मस्ते भूमे वर्षाणि शरद्धेमन्तः शिशिरो वसन्तः।\nऋतवस्ते विहिताः संवत्सरः कालो रात्र्याह्ना च विश्वं भूमे पत्यतां नः॥ १०॥\n\nमाता भूमिः पुत्रोऽहं पृथिव्याः पर्जन्यः पिता स उ नः पिपर्तु।\nॐ शान्तिः शान्तिः शान्तिः॥ ११॥",
-  "transliteration": "|| Shri Prithvi Suktam ||\n\nOm Bhumir-bhumna dyaur-varinantar-iksham mahitva |\nUpasthe te devy-Adite Agnim-annadam-annadyaya-dadhe || 1 ||\n\nSatyam brihad-ritam-ugram diksha tapo Brahma yajnah prithivim dharayanti |\nSa no bhutasya bhavyasya patny-urum lokam prithivi nah krinotu || 2 ||\n\nAsambadham madhyato manavanam yasya udvatah pravatah samam bahu |\nNana-virya oshadhir-ya bibharti prithivi nah prathatam radhyatam nah || 3 ||\n\nYasyam samudra uta sindhur-apo yasyam-annam krishtayah sambabhuvuh |\nYasyam-idam jinvati pranad-ejat sa no bhumih purva-peye dadhatu || 4 ||\n\nYasyash-chatasrah pradishash prithivya yasyam-annam krishtayah sambabhuvuh |\nYa bibharti bahudha pranato janan sa no bhumir-goshv-apy-anne dadhatu || 5 ||\n\nYasyam purve purvajana vichakrire yasyam deva asuran-abhy-avartayan |\nGavam-ashvanam vayasash-cha vishtha bhagam varchah prithivi no dadhatu || 6 ||\n\nVishvambhara vasudhani pratishtha hiranyavaksha jagato niveshani |\nVaishvanaram bibhrati bhumir-Agnim-Indra-rishabha draviṇe no dadhatu || 7 ||\n\nYam rakshantay-asvapna vishvadanim deva bhumim prithivim-apramadam |\nSa no madhu priyam duham-atho ukshatu varchasaa || 8 ||\n\nYat-te bhume vikhanami kshipram tad-api rohatu |\nMa te marma vimrigvari ma te hridayam-arpipam || 9 ||\n\nGrishmaste bhume varshani sharad-dhemantah shishiro vasantah |\nRitavaste vihitah samvatsarah kalo ratry-ahna cha vishvam bhume patyatam nah || 10 ||\n\nMata bhumih putro-aham prithivyah Parjanyah pita sa u nah pipartu |\nOm Shantih Shantih Shantih || 11 ||",
-  "hindiMeaning": "पृथ्वी अपने विस्तार से, द्यौ अपने आवरण से, अन्तरिक्ष अपनी महत्ता से। हे देवी अदिति! आपकी गोद में अन्नाद अग्नि को अन्नाद्य के लिए स्थापित करता हूँ॥ १॥\n\nसत्य, बृहत, ऋत, उग्र, दीक्षा, तप, ब्रह्म और यज्ञ — ये पृथ्वी को धारण करते हैं। वह भूत और भविष्य की स्वामिनी, हमें विशाल लोक प्रदान करे॥ २॥\n\nमनुष्यों के मध्य में जो अबाधित है, जिसके ऊँचे-नीचे और समतल अनेक भाग हैं, जो नाना प्रकार की वीर्यवान औषधियाँ धारण करती है — पृथ्वी हमें विस्तार और सम्पन्नता दे॥ ३॥\n\nजिसमें समुद्र, सिन्धु, जल हैं, जिसमें अन्न और कृषि उत्पन्न हुई, जिसमें यह सब प्राणवान चेतन जीवित है — वह भूमि हमें प्रथम पान (पोषण) दे॥ ४॥\n\nजिसमें पूर्वज और प्राचीन लोगों ने कर्म किया, जिसमें देवों ने असुरों को पराजित किया — गौ, अश्व, पक्षियों का भाग्य और तेज पृथ्वी हमें प्रदान करे॥ ६॥\n\nविश्वम्भरा, वसुधारिणी, प्रतिष्ठा, हिरण्यवक्षा, जगत की निवासदात्री — वैश्वानर अग्नि धारण करने वाली भूमि, इन्द्र-श्रेष्ठा, हमें धन दे॥ ७॥\n\nहे भूमि! मैं जो तुम्हें खोदता हूँ, वह शीघ्र फिर उग आए। तुम्हारे मर्मस्थल को मैं न बेधूँ, तुम्हारे हृदय को पीड़ित न करूँ॥ ९॥\n\nमाता भूमि है, मैं पृथ्वी का पुत्र हूँ। पर्जन्य (वर्षा) पिता है — वे हमारा पालन करें॥ ११॥",
-  "viniyog": {
-    "rishi": "अथर्वा",
-    "chhand": "अनुष्टुप् / त्रिष्टुप्",
-    "devata": "भूमि / पृथ्वी",
-    "beej": "",
-    "shakti": "",
-    "kilak": "",
-    "shloka": ""
-  },
-  "benefits": [
-    "Sacred hymn to Mother Earth — one of the greatest ecological prayers in any scripture",
-    "Invokes Earth as the nurturing, all-bearing mother of humanity",
-    "Grants agricultural prosperity and abundance of food grains",
-    "Teaches reverence for the environment and natural resources",
-    "Powerful for Bhoomi Puja, land worship, and Vastu ceremonies",
-    "Promotes ecological balance and environmental consciousness",
-    "Brings stability, grounding, and material prosperity"
-  ],
-  "deity": "vishnu",
-  "secondaryDeities": [],
-  "days": ["thursday"],
-  "festivals": [],
-  "purposes": ["prosperity", "peace", "devotion", "protection"],
-  "readingTimeMinutes": 8,
-  "seoDescription": "Read Prithvi Suktam in Sanskrit with transliteration and Hindi meaning. Atharva Veda hymn to Mother Earth for prosperity, environmental reverence, and stability.",
-  "verseCount": 11,
-  "source": "Atharva Veda (Kanda 12, Sukta 1)",
-  "createdAt": "2026-03-29T00:00:00Z",
-  "updatedAt": "2026-03-29T00:00:00Z",
-  "isPublished": true
+    "id": "496",
+    "title": "पृथ्वी सूक्तम्",
+    "titleEn": "Prithvi Suktam",
+    "slug": "prithvi-suktam",
+    "devanagariText": "॥ श्री पृथ्वी सूक्तम् ॥\n\nॐ भूमिर्भूम्ना द्यौर्वरिणान्तरिक्षं महित्वा।\nउपस्थे ते देव्यदितेऽग्निमन्नादमन्नाद्यायादधे॥ १॥\n\nसत्यं बृहदृतमुग्रं दीक्षा तपो ब्रह्म यज्ञः पृथिवीं धारयन्ति।\nसा नो भूतस्य भव्यस्य पत्न्युरुं लोकं पृथिवी नः कृणोतु॥ २॥\n\nअसंबाधं मध्यतो मानवानां यस्या उद्वतः प्रवतः समं बहु।\nनानावीर्या ओषधीर्या बिभर्ति पृथिवी नः प्रथतां राध्यतां नः॥ ३॥\n\nयस्यां समुद्र उत सिन्धुरापो यस्यामन्नं कृष्टयः सम्बभूवुः।\nयस्यामिदं जिन्वति प्राणदेजत् सा नो भूमिः पूर्वपेये दधातु॥ ४॥\n\nयस्याश्चतस्रः प्रदिशः पृथिव्या यस्यामन्नं कृष्टयः सम्बभूवुः।\nया बिभर्ति बहुधा प्राणतो जनान् सा नो भूमिर्गोष्वप्यन्ने दधातु॥ ५॥\n\nयस्यां पूर्वे पूर्वजना विचक्रिरे यस्यां देवा असुरानभ्यवर्तयन्।\nगवामश्वानां वयसश्च विष्ठा भगं वर्चः पृथिवी नो दधातु॥ ६॥\n\nविश्वम्भरा वसुधानी प्रतिष्ठा हिरण्यवक्षा जगतो निवेशनी।\nवैश्वानरं बिभ्रती भूमिरग्निमिन्द्रऋषभा द्रविणे नो दधातु॥ ७॥\n\nयां रक्षन्त्यस्वप्ना विश्वदानीं देवा भूमिं पृथिवीमप्रमादम्।\nसा नो मधु प्रियं दुहामथो उक्षतु वर्चसा॥ ८॥\n\nयत्ते भूमे विखनामि क्षिप्रं तदपि रोहतु।\nमा ते मर्म विमृग्वरि मा ते हृदयमर्पिपम्॥ ९॥\n\nग्रीष्मस्ते भूमे वर्षाणि शरद्धेमन्तः शिशिरो वसन्तः।\nऋतवस्ते विहिताः संवत्सरः कालो रात्र्याह्ना च विश्वं भूमे पत्यतां नः॥ १०॥\n\nमाता भूमिः पुत्रोऽहं पृथिव्याः पर्जन्यः पिता स उ नः पिपर्तु।\nॐ शान्तिः शान्तिः शान्तिः॥ ११॥",
+    "transliteration": "|| Shri Prithvi Suktam ||\n\nOm Bhumir-bhumna dyaur-varinantar-iksham mahitva |\nUpasthe te devy-Adite Agnim-annadam-annadyaya-dadhe || 1 ||\n\nSatyam brihad-ritam-ugram diksha tapo Brahma yajnah prithivim dharayanti |\nSa no bhutasya bhavyasya patny-urum lokam prithivi nah krinotu || 2 ||\n\nAsambadham madhyato manavanam yasya udvatah pravatah samam bahu |\nNana-virya oshadhir-ya bibharti prithivi nah prathatam radhyatam nah || 3 ||\n\nYasyam samudra uta sindhur-apo yasyam-annam krishtayah sambabhuvuh |\nYasyam-idam jinvati pranad-ejat sa no bhumih purva-peye dadhatu || 4 ||\n\nYasyash-chatasrah pradishash prithivya yasyam-annam krishtayah sambabhuvuh |\nYa bibharti bahudha pranato janan sa no bhumir-goshv-apy-anne dadhatu || 5 ||\n\nYasyam purve purvajana vichakrire yasyam deva asuran-abhy-avartayan |\nGavam-ashvanam vayasash-cha vishtha bhagam varchah prithivi no dadhatu || 6 ||\n\nVishvambhara vasudhani pratishtha hiranyavaksha jagato niveshani |\nVaishvanaram bibhrati bhumir-Agnim-Indra-rishabha draviṇe no dadhatu || 7 ||\n\nYam rakshantay-asvapna vishvadanim deva bhumim prithivim-apramadam |\nSa no madhu priyam duham-atho ukshatu varchasaa || 8 ||\n\nYat-te bhume vikhanami kshipram tad-api rohatu |\nMa te marma vimrigvari ma te hridayam-arpipam || 9 ||\n\nGrishmaste bhume varshani sharad-dhemantah shishiro vasantah |\nRitavaste vihitah samvatsarah kalo ratry-ahna cha vishvam bhume patyatam nah || 10 ||\n\nMata bhumih putro-aham prithivyah Parjanyah pita sa u nah pipartu |\nOm Shantih Shantih Shantih || 11 ||",
+    "hindiMeaning": "पृथ्वी अपने विस्तार से, द्यौ अपने आवरण से, अन्तरिक्ष अपनी महत्ता से। हे देवी अदिति! आपकी गोद में अन्नाद अग्नि को अन्नाद्य के लिए स्थापित करता हूँ॥ १॥\n\nसत्य, बृहत, ऋत, उग्र, दीक्षा, तप, ब्रह्म और यज्ञ — ये पृथ्वी को धारण करते हैं। वह भूत और भविष्य की स्वामिनी, हमें विशाल लोक प्रदान करे॥ २॥\n\nमनुष्यों के मध्य में जो अबाधित है, जिसके ऊँचे-नीचे और समतल अनेक भाग हैं, जो नाना प्रकार की वीर्यवान औषधियाँ धारण करती है — पृथ्वी हमें विस्तार और सम्पन्नता दे॥ ३॥\n\nजिसमें समुद्र, सिन्धु, जल हैं, जिसमें अन्न और कृषि उत्पन्न हुई, जिसमें यह सब प्राणवान चेतन जीवित है — वह भूमि हमें प्रथम पान (पोषण) दे॥ ४॥\n\nजिसमें पूर्वज और प्राचीन लोगों ने कर्म किया, जिसमें देवों ने असुरों को पराजित किया — गौ, अश्व, पक्षियों का भाग्य और तेज पृथ्वी हमें प्रदान करे॥ ६॥\n\nविश्वम्भरा, वसुधारिणी, प्रतिष्ठा, हिरण्यवक्षा, जगत की निवासदात्री — वैश्वानर अग्नि धारण करने वाली भूमि, इन्द्र-श्रेष्ठा, हमें धन दे॥ ७॥\n\nहे भूमि! मैं जो तुम्हें खोदता हूँ, वह शीघ्र फिर उग आए। तुम्हारे मर्मस्थल को मैं न बेधूँ, तुम्हारे हृदय को पीड़ित न करूँ॥ ९॥\n\nमाता भूमि है, मैं पृथ्वी का पुत्र हूँ। पर्जन्य (वर्षा) पिता है — वे हमारा पालन करें॥ ११॥",
+    "viniyog": {
+        "rishi": "अथर्वा",
+        "chhand": "अनुष्टुप् / त्रिष्टुप्",
+        "devata": "भूमि / पृथ्वी",
+        "beej": "",
+        "shakti": "",
+        "kilak": "",
+        "shloka": ""
+    },
+    "benefits": [
+        "Sacred hymn to Mother Earth — one of the greatest ecological prayers in any scripture",
+        "Invokes Earth as the nurturing, all-bearing mother of humanity",
+        "Grants agricultural prosperity and abundance of food grains",
+        "Teaches reverence for the environment and natural resources",
+        "Powerful for Bhoomi Puja, land worship, and Vastu ceremonies",
+        "Promotes ecological balance and environmental consciousness",
+        "Brings stability, grounding, and material prosperity"
+    ],
+    "deity": "vishnu",
+    "secondaryDeities": [],
+    "days": [
+        "thursday"
+    ],
+    "festivals": [],
+    "purposes": [
+        "prosperity",
+        "peace",
+        "devotion",
+        "protection",
+        "worship"
+    ],
+    "readingTimeMinutes": 8,
+    "seoDescription": "Read Prithvi Suktam in Sanskrit with transliteration and Hindi meaning. Atharva Veda hymn to Mother Earth for prosperity, environmental reverence, and stability.",
+    "verseCount": 11,
+    "source": "Atharva Veda (Kanda 12, Sukta 1)",
+    "createdAt": "2026-03-29T00:00:00Z",
+    "updatedAt": "2026-03-29T00:00:00Z",
+    "isPublished": true
 }

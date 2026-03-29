@@ -1,29 +1,39 @@
 {
-  "id": "477",
-  "title": "ब्रह्मा मुरारि स्तोत्रम्",
-  "titleEn": "Brahma Murari Stotram",
-  "slug": "brahma-murari-stotram",
-  "devanagariText": "॥ श्री ब्रह्मा मुरारि स्तोत्रम् ॥\n\nब्रह्मा मुरारिस्त्रिपुरान्तकारी\nभानुः शशी भूमिसुतो बुधश्च।\nगुरुश्च शुक्रः शनिराहुकेतवः\nकुर्वन्तु सर्वे मम सुप्रभातम्॥ १॥\n\nभृगुर्वशिष्ठः क्रतुरङ्गिराश्च\nमनुः पुलस्त्यः पुलहः गौतमश्च।\nरैभ्यो मरीचिश्च्यवनश्च दक्षः\nकुर्वन्तु सर्वे मम सुप्रभातम्॥ २॥\n\nसनत्कुमारः सनकः सनन्दनः\nसनातनोऽप्यासुरिपिङ्गलौ च।\nसप्त स्वराः सप्त रसातलानि\nकुर्वन्तु सर्वे मम सुप्रभातम्॥ ३॥\n\nसप्तार्णवाः सप्त कुलाचलाश्च\nसप्तर्षयो द्वीपवनानि सप्त।\nभूरादिकृत्वा भुवनानि सप्त\nकुर्वन्तु सर्वे मम सुप्रभातम्॥ ४॥\n\nपृथ्वी सगन्धा सरसास्तथापः\nस्पर्शी च वायुर्ज्वलनं च तेजः।\nनभः सशब्दं महता सहैव\nकुर्वन्तु सर्वे मम सुप्रभातम्॥ ५॥\n\n॥ इति श्री ब्रह्मा मुरारि स्तोत्रम् सम्पूर्णम् ॥",
-  "transliteration": "|| Shri Brahma Murari Stotram ||\n\nBrahma Muraris-tripurantakari\nBhanuhu Shashi Bhumi-suto Budhashcha |\nGurushcha Shukrah Shani-Rahu-Ketavah\nKurvantu Sarve Mama Suprabhatam || 1 ||\n\nBhrigur-Vasishthah Kratur-Angirashcha\nManuh Pulastyah Pulahah Gautamashcha |\nRaibhyo Marichish-chyavanashcha Dakshah\nKurvantu Sarve Mama Suprabhatam || 2 ||\n\nSanatkumarah Sanakah Sanandanah\nSanatano-pyasuri-pingalau cha |\nSapta Svarah Sapta Rasatalani\nKurvantu Sarve Mama Suprabhatam || 3 ||\n\nSaptarnavah Sapta Kulachalashcha\nSaptarshayo Dvipa-vanani Sapta |\nBhur-adi-kritva Bhuvanani Sapta\nKurvantu Sarve Mama Suprabhatam || 4 ||\n\nPrithvi Sagandha Sarasas-tathapah\nSparshi cha Vayur-jvalanam cha Tejah |\nNabhah Sashabdam Mahata Sahaiva\nKurvantu Sarve Mama Suprabhatam || 5 ||\n\n|| Iti Shri Brahma Murari Stotram Sampurnam ||",
-  "hindiMeaning": "ब्रह्मा, मुरारि (विष्णु), त्रिपुरान्तकारी (शिव), सूर्य, चन्द्र, मंगल, बुध, गुरु, शुक्र, शनि, राहु और केतु — ये सब मिलकर मेरा सुप्रभात करें॥ १॥\n\nभृगु, वशिष्ठ, क्रतु, अंगिरा, मनु, पुलस्त्य, पुलह, गौतम, रैभ्य, मरीचि, च्यवन और दक्ष — ये सब ऋषिगण मेरा सुप्रभात करें॥ २॥\n\nसनत्कुमार, सनक, सनन्दन, सनातन, आसुरि और पिंगल, सात स्वर और सात पाताल — ये सब मेरा सुप्रभात करें॥ ३॥\n\nसात सागर, सात कुलपर्वत, सप्तर्षि, सात द्वीपों के वन, भूः आदि सात लोक — ये सब मेरा सुप्रभात करें॥ ४॥\n\nगन्धयुक्त पृथ्वी, रसयुक्त जल, स्पर्शवान वायु, तेजस्वी अग्नि, शब्दयुक्त आकाश — ये पंचतत्व मेरा सुप्रभात करें॥ ५॥",
-  "viniyog": null,
-  "benefits": [
-    "Extremely popular morning prayer invoking all divine forces",
-    "Ensures an auspicious and blessed start to the day",
-    "Invokes protection of Trimurthi, Navagraha, and Saptarshi",
-    "Removes negative energies and brings positivity",
-    "Widely recited in temples and homes across India"
-  ],
-  "deity": "shiva",
-  "secondaryDeities": ["vishnu", "navagraha"],
-  "days": ["daily"],
-  "festivals": [],
-  "purposes": ["morning-prayer", "protection", "auspiciousness", "peace"],
-  "readingTimeMinutes": 5,
-  "seoDescription": "Read Brahma Murari Tripurantkari Suprabhatam in Sanskrit with Hindi meaning. Popular morning prayer invoking Trinity and Navagraha.",
-  "verseCount": 5,
-  "source": "Traditional Morning Prayer",
-  "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
-  "isPublished": true
+    "id": "89",
+    "title": "ब्रह्मा मुरारि स्तोत्रम्",
+    "titleEn": "Brahma Murari Stotram",
+    "slug": "brahma-murari-stotram",
+    "devanagariText": "॥ श्री ब्रह्मा मुरारि स्तोत्रम् ॥\n\nब्रह्मा मुरारिस्त्रिपुरान्तकारी\nभानुः शशी भूमिसुतो बुधश्च।\nगुरुश्च शुक्रः शनिराहुकेतवः\nकुर्वन्तु सर्वे मम सुप्रभातम्॥ १॥\n\nभृगुर्वशिष्ठः क्रतुरङ्गिराश्च\nमनुः पुलस्त्यः पुलहः गौतमश्च।\nरैभ्यो मरीचिश्च्यवनश्च दक्षः\nकुर्वन्तु सर्वे मम सुप्रभातम्॥ २॥\n\nसनत्कुमारः सनकः सनन्दनः\nसनातनोऽप्यासुरिपिङ्गलौ च।\nसप्त स्वराः सप्त रसातलानि\nकुर्वन्तु सर्वे मम सुप्रभातम्॥ ३॥\n\nसप्तार्णवाः सप्त कुलाचलाश्च\nसप्तर्षयो द्वीपवनानि सप्त।\nभूरादिकृत्वा भुवनानि सप्त\nकुर्वन्तु सर्वे मम सुप्रभातम्॥ ४॥\n\nपृथ्वी सगन्धा सरसास्तथापः\nस्पर्शी च वायुर्ज्वलनं च तेजः।\nनभः सशब्दं महता सहैव\nकुर्वन्तु सर्वे मम सुप्रभातम्॥ ५॥\n\n॥ इति श्री ब्रह्मा मुरारि स्तोत्रम् सम्पूर्णम् ॥",
+    "transliteration": "|| Shri Brahma Murari Stotram ||\n\nBrahma Muraris-tripurantakari\nBhanuhu Shashi Bhumi-suto Budhashcha |\nGurushcha Shukrah Shani-Rahu-Ketavah\nKurvantu Sarve Mama Suprabhatam || 1 ||\n\nBhrigur-Vasishthah Kratur-Angirashcha\nManuh Pulastyah Pulahah Gautamashcha |\nRaibhyo Marichish-chyavanashcha Dakshah\nKurvantu Sarve Mama Suprabhatam || 2 ||\n\nSanatkumarah Sanakah Sanandanah\nSanatano-pyasuri-pingalau cha |\nSapta Svarah Sapta Rasatalani\nKurvantu Sarve Mama Suprabhatam || 3 ||\n\nSaptarnavah Sapta Kulachalashcha\nSaptarshayo Dvipa-vanani Sapta |\nBhur-adi-kritva Bhuvanani Sapta\nKurvantu Sarve Mama Suprabhatam || 4 ||\n\nPrithvi Sagandha Sarasas-tathapah\nSparshi cha Vayur-jvalanam cha Tejah |\nNabhah Sashabdam Mahata Sahaiva\nKurvantu Sarve Mama Suprabhatam || 5 ||\n\n|| Iti Shri Brahma Murari Stotram Sampurnam ||",
+    "hindiMeaning": "ब्रह्मा, मुरारि (विष्णु), त्रिपुरान्तकारी (शिव), सूर्य, चन्द्र, मंगल, बुध, गुरु, शुक्र, शनि, राहु और केतु — ये सब मिलकर मेरा सुप्रभात करें॥ १॥\n\nभृगु, वशिष्ठ, क्रतु, अंगिरा, मनु, पुलस्त्य, पुलह, गौतम, रैभ्य, मरीचि, च्यवन और दक्ष — ये सब ऋषिगण मेरा सुप्रभात करें॥ २॥\n\nसनत्कुमार, सनक, सनन्दन, सनातन, आसुरि और पिंगल, सात स्वर और सात पाताल — ये सब मेरा सुप्रभात करें॥ ३॥\n\nसात सागर, सात कुलपर्वत, सप्तर्षि, सात द्वीपों के वन, भूः आदि सात लोक — ये सब मेरा सुप्रभात करें॥ ४॥\n\nगन्धयुक्त पृथ्वी, रसयुक्त जल, स्पर्शवान वायु, तेजस्वी अग्नि, शब्दयुक्त आकाश — ये पंचतत्व मेरा सुप्रभात करें॥ ५॥",
+    "viniyog": null,
+    "benefits": [
+        "Extremely popular morning prayer invoking all divine forces",
+        "Ensures an auspicious and blessed start to the day",
+        "Invokes protection of Trimurthi, Navagraha, and Saptarshi",
+        "Removes negative energies and brings positivity",
+        "Widely recited in temples and homes across India"
+    ],
+    "deity": "brahma",
+    "secondaryDeities": [
+        "vishnu"
+    ],
+    "days": [
+        "daily"
+    ],
+    "festivals": [],
+    "purposes": [
+        "morning-prayer",
+        "protection",
+        "auspiciousness",
+        "peace",
+        "devotion"
+    ],
+    "readingTimeMinutes": 5,
+    "seoDescription": "Read Brahma Murari Tripurantkari Suprabhatam in Sanskrit with Hindi meaning. Popular morning prayer invoking Trinity and Navagraha.",
+    "verseCount": 5,
+    "source": "Traditional Morning Prayer",
+    "createdAt": "2026-03-28T00:00:00Z",
+    "updatedAt": "2026-03-28T00:00:00Z",
+    "isPublished": true
 }

@@ -1,29 +1,40 @@
 {
-  "id": "622",
-  "title": "श्री सूर्य मङ्गलाष्टकम्",
-  "titleEn": "Surya Mangalashtakam",
-  "slug": "surya-mangalashtakam",
-  "devanagariText": "॥ श्री सूर्य मङ्गलाष्टकम् ॥\n\nसप्ताश्ववाहनं देवं सहस्रकिरणं शुभम्।\nभास्करं लोकनाथं च सूर्यदेवाय मङ्गलम्॥ १॥\n\nआदित्यं प्रभाकरं च दिवाकरं तमोनुदम्।\nसवितारं जगद्धातं सूर्यदेवाय मङ्गलम्॥ २॥\n\nरक्तवर्णं महातेजं पद्महस्तं दिवस्पतिम्।\nद्वादशात्मानमीशानं सूर्यदेवाय मङ्गलम्॥ ३॥\n\nकश्यपात्मजमुद्यन्तं सर्वरोगविनाशनम्।\nसर्वलोकहितार्थाय सूर्यदेवाय मङ्गलम्॥ ४॥\n\nअरुणं सारथिं कृत्वा रथस्थं ग्रहनायकम्।\nचक्रवर्तिनमव्यक्तं सूर्यदेवाय मङ्गलम्॥ ५॥\n\nमित्रं रविं भानुमन्तं मार्तण्डं भास्करं विभुम्।\nप्रत्यक्षदेवं सर्वेषां सूर्यदेवाय मङ्गलम्॥ ६॥\n\nतमोन्धकारनाशाय ज्ञानदीपप्रकाशकम्।\nआरोग्यदायकं श्रेष्ठं सूर्यदेवाय मङ्गलम्॥ ७॥\n\nसर्वमङ्गलमाङ्गल्यं सर्वपापप्रणाशनम्।\nसर्वदुःखहरं देवं सूर्यदेवाय मङ्गलम्॥ ८॥\n\n॥ इति श्री सूर्य मङ्गलाष्टकं सम्पूर्णम् ॥",
-  "transliteration": "|| Shri Surya Mangalashtakam ||\n\nSaptashvavahanam Devam Sahasrakiram Shubham.\nBhaskaram Lokanatham Cha Suryadevaya Mangalam. || 1 ||\n\nAdityam Prabhakaram Cha Divakaram Tamonudam.\nSavitaram Jagaddhatam Suryadevaya Mangalam. || 2 ||\n\nRaktavarnam Mahatejam Padmahastam Divaspatim.\nDvadashatmanamIshanam Suryadevaya Mangalam. || 3 ||\n\nKashyapatmajamudyantam Sarvarogavinashanam.\nSarvalokahitarthaya Suryadevaya Mangalam. || 4 ||\n\nArunam Sarathim Kritva Rathastham Grahanayakam.\nChakravartiinamavyaktam Suryadevaya Mangalam. || 5 ||\n\nMitram Ravim Bhanumantam Martandam Bhaskaram Vibhum.\nPratyakshadevam Sarvesham Suryadevaya Mangalam. || 6 ||\n\nTamondhakarnashaya Jnanadipaprakashakam.\nArogyadayakam Shreshtham Suryadevaya Mangalam. || 7 ||\n\nSarvamangalamanGalyam Sarvapapapranashanam.\nSarvaduhkhaharam Devam Suryadevaya Mangalam. || 8 ||\n\n|| Iti Shri Surya Mangalashtakam Sampoornam ||",
-  "hindiMeaning": "सूर्य मंगलाष्टकम् में सात घोड़ों वाले रथ पर विराजमान, सहस्र किरणों वाले, भास्कर, लोकनाथ, आदित्य, प्रभाकर, दिवाकर, तमोनाशक, सविता, द्वादश आत्माओं वाले, कश्यपनन्दन, सर्वरोगनाशक, अरुण सारथी, ग्रहनायक, मित्र, रवि, मार्तण्ड सूर्यदेव को आठ श्लोकों से मंगल गाया गया है। वे आरोग्यदायक, पापनाशक और सर्वदुःखहरण करने वाले हैं।",
-  "viniyog": null,
-  "benefits": [
-    "Brings divine auspiciousness through Sun God's blessings",
-    "Bestows health, vitality, and freedom from diseases",
-    "Removes all sins and darkness of ignorance",
-    "Grants success, fame, and leadership qualities",
-    "Beneficial for curing eye ailments and skin diseases"
-  ],
-  "deity": "surya",
-  "secondaryDeities": [],
-  "days": ["sunday"],
-  "festivals": ["makar-sankranti", "ratha-saptami", "chhath-puja"],
-  "purposes": ["health", "prosperity", "devotion"],
-  "readingTimeMinutes": 5,
-  "seoDescription": "Surya Mangalashtakam in Sanskrit with Hindi meaning. Eight auspicious verses to Sun God for health, vitality, and removal of sins.",
-  "verseCount": 8,
-  "source": "Surya Purana",
-  "createdAt": "2026-03-29T00:00:00Z",
-  "updatedAt": "2026-03-29T00:00:00Z",
-  "isPublished": true
+    "id": "685",
+    "title": "श्री सूर्य मङ्गलाष्टकम्",
+    "titleEn": "Surya Mangalashtakam",
+    "slug": "surya-mangalashtakam",
+    "devanagariText": "॥ श्री सूर्य मङ्गलाष्टकम् ॥\n\nसप्ताश्ववाहनं देवं सहस्रकिरणं शुभम्।\nभास्करं लोकनाथं च सूर्यदेवाय मङ्गलम्॥ १॥\n\nआदित्यं प्रभाकरं च दिवाकरं तमोनुदम्।\nसवितारं जगद्धातं सूर्यदेवाय मङ्गलम्॥ २॥\n\nरक्तवर्णं महातेजं पद्महस्तं दिवस्पतिम्।\nद्वादशात्मानमीशानं सूर्यदेवाय मङ्गलम्॥ ३॥\n\nकश्यपात्मजमुद्यन्तं सर्वरोगविनाशनम्।\nसर्वलोकहितार्थाय सूर्यदेवाय मङ्गलम्॥ ४॥\n\nअरुणं सारथिं कृत्वा रथस्थं ग्रहनायकम्।\nचक्रवर्तिनमव्यक्तं सूर्यदेवाय मङ्गलम्॥ ५॥\n\nमित्रं रविं भानुमन्तं मार्तण्डं भास्करं विभुम्।\nप्रत्यक्षदेवं सर्वेषां सूर्यदेवाय मङ्गलम्॥ ६॥\n\nतमोन्धकारनाशाय ज्ञानदीपप्रकाशकम्।\nआरोग्यदायकं श्रेष्ठं सूर्यदेवाय मङ्गलम्॥ ७॥\n\nसर्वमङ्गलमाङ्गल्यं सर्वपापप्रणाशनम्।\nसर्वदुःखहरं देवं सूर्यदेवाय मङ्गलम्॥ ८॥\n\n॥ इति श्री सूर्य मङ्गलाष्टकं सम्पूर्णम् ॥",
+    "transliteration": "|| Shri Surya Mangalashtakam ||\n\nSaptashvavahanam Devam Sahasrakiram Shubham.\nBhaskaram Lokanatham Cha Suryadevaya Mangalam. || 1 ||\n\nAdityam Prabhakaram Cha Divakaram Tamonudam.\nSavitaram Jagaddhatam Suryadevaya Mangalam. || 2 ||\n\nRaktavarnam Mahatejam Padmahastam Divaspatim.\nDvadashatmanamIshanam Suryadevaya Mangalam. || 3 ||\n\nKashyapatmajamudyantam Sarvarogavinashanam.\nSarvalokahitarthaya Suryadevaya Mangalam. || 4 ||\n\nArunam Sarathim Kritva Rathastham Grahanayakam.\nChakravartiinamavyaktam Suryadevaya Mangalam. || 5 ||\n\nMitram Ravim Bhanumantam Martandam Bhaskaram Vibhum.\nPratyakshadevam Sarvesham Suryadevaya Mangalam. || 6 ||\n\nTamondhakarnashaya Jnanadipaprakashakam.\nArogyadayakam Shreshtham Suryadevaya Mangalam. || 7 ||\n\nSarvamangalamanGalyam Sarvapapapranashanam.\nSarvaduhkhaharam Devam Suryadevaya Mangalam. || 8 ||\n\n|| Iti Shri Surya Mangalashtakam Sampoornam ||",
+    "hindiMeaning": "सूर्य मंगलाष्टकम् में सात घोड़ों वाले रथ पर विराजमान, सहस्र किरणों वाले, भास्कर, लोकनाथ, आदित्य, प्रभाकर, दिवाकर, तमोनाशक, सविता, द्वादश आत्माओं वाले, कश्यपनन्दन, सर्वरोगनाशक, अरुण सारथी, ग्रहनायक, मित्र, रवि, मार्तण्ड सूर्यदेव को आठ श्लोकों से मंगल गाया गया है। वे आरोग्यदायक, पापनाशक और सर्वदुःखहरण करने वाले हैं।",
+    "viniyog": null,
+    "benefits": [
+        "Brings divine auspiciousness through Sun God's blessings",
+        "Bestows health, vitality, and freedom from diseases",
+        "Removes all sins and darkness of ignorance",
+        "Grants success, fame, and leadership qualities",
+        "Beneficial for curing eye ailments and skin diseases"
+    ],
+    "deity": "surya",
+    "secondaryDeities": [],
+    "days": [
+        "sunday"
+    ],
+    "festivals": [
+        "makar-sankranti",
+        "ratha-saptami",
+        "chhath-puja"
+    ],
+    "purposes": [
+        "health",
+        "prosperity",
+        "devotion",
+        "auspiciousness"
+    ],
+    "readingTimeMinutes": 5,
+    "seoDescription": "Surya Mangalashtakam in Sanskrit with Hindi meaning. Eight auspicious verses to Sun God for health, vitality, and removal of sins.",
+    "verseCount": 8,
+    "source": "Surya Purana",
+    "createdAt": "2026-03-29T00:00:00Z",
+    "updatedAt": "2026-03-29T00:00:00Z",
+    "isPublished": true
 }

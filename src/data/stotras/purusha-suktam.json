@@ -1,51 +1,52 @@
 {
-  "id": "29",
-  "title": "पुरुष सूक्तम्",
-  "titleEn": "Purusha Suktam",
-  "slug": "purusha-suktam",
-  "devanagariText": "॥ श्री पुरुष सूक्तम् ॥\n\nॐ तच्छं योरावृणीमहे। गातुं यज्ञाय। गातुं यज्ञपतये। दैवी स्वस्तिरस्तु नः।\nस्वस्तिर्मानुषेभ्यः। ऊर्ध्वं जिगातु भेषजम्। शं नो अस्तु द्विपदे। शं चतुष्पदे।\nॐ शान्तिः शान्तिः शान्तिः॥\n\nसहस्रशीर्षा पुरुषः सहस्राक्षः सहस्रपात्।\nस भूमिं विश्वतो वृत्वाऽत्यतिष्ठद्दशाङ्गुलम्॥ १॥\n\nपुरुष एवेदं सर्वं यद्भूतं यच्च भव्यम्।\nउतामृतत्वस्येशानो यदन्नेनातिरोहति॥ २॥\n\nएतावानस्य महिमाऽतो ज्यायाँश्च पूरुषः।\nपादोऽस्य विश्वा भूतानि त्रिपादस्यामृतं दिवि॥ ३॥\n\nत्रिपादूर्ध्व उदैत्पुरुषः पादोऽस्येहाभवत्पुनः।\nततो विष्वङ्व्यक्रामत्साशनानशने अभि॥ ४॥\n\nतस्माद्विराडजायत विराजो अधि पूरुषः।\nस जातो अत्यरिच्यत पश्चाद्भूमिमथो पुरः॥ ५॥\n\nयत्पुरुषेण हविषा देवा यज्ञमतन्वत।\nवसन्तो अस्यासीदाज्यं ग्रीष्म इध्मः शरद्धविः॥ ६॥\n\nसप्तास्यासन्परिधयस्त्रिः सप्त समिधः कृताः।\nदेवा यद्यज्ञं तन्वाना अबध्नन्पुरुषं पशुम्॥ ७॥\n\nतं यज्ञं बर्हिषि प्रौक्षन्पुरुषं जातमग्रतः।\nतेन देवा अयजन्त साध्या ऋषयश्च ये॥ ८॥\n\nतस्माद्यज्ञात्सर्वहुतः सम्भृतं पृषदाज्यम्।\nपशूँस्ताँश्चक्रे वायव्यानारण्यान्ग्राम्याश्च ये॥ ९॥\n\nतस्माद्यज्ञात्सर्वहुत ऋचः सामानि जज्ञिरे।\nछन्दांसि जज्ञिरे तस्माद्यजुस्तस्मादजायत॥ १०॥\n\nतस्मादश्वा अजायन्त ये के चोभयादतः।\nगावो ह जज्ञिरे तस्मात्तस्माज्जाता अजावयः॥ ११॥\n\nयत्पुरुषं व्यदधुः कतिधा व्यकल्पयन्।\nमुखं किमस्य कौ बाहू का ऊरू पादा उच्येते॥ १२॥\n\nब्राह्मणोऽस्य मुखमासीद्बाहू राजन्यः कृतः।\nऊरू तदस्य यद्वैश्यः पद्भ्यां शूद्रो अजायत॥ १३॥\n\nचन्द्रमा मनसो जातश्चक्षोः सूर्यो अजायत।\nमुखादिन्द्रश्चाग्निश्च प्राणाद्वायुरजायत॥ १४॥\n\nनाभ्या आसीदन्तरिक्षं शीर्ष्णो द्यौः समवर्तत।\nपद्भ्यां भूमिर्दिशः श्रोत्रात्तथा लोकाँ अकल्पयन्॥ १५॥\n\nवेदाहमेतं पुरुषं महान्तमादित्यवर्णं तमसस्तु पारे।\nसर्वाणि रूपाणि विचित्य धीरः नामानि कृत्वाऽभिवदन्यदास्ते॥ १६॥\n\nधाता पुरस्ताद्यमुदाजहार शक्रः प्रविद्वान्प्रदिशश्चतस्रः।\nतमेवं विद्वानमृत इह भवति नान्यः पन्था अयनाय विद्यते॥ १७॥\n\nयज्ञेन यज्ञमयजन्त देवास्तानि धर्माणि प्रथमान्यासन्।\nते ह नाकं महिमानः सचन्ते यत्र पूर्वे साध्याः सन्ति देवाः॥ १८॥\n\nॐ तच्छं योरावृणीमहे। गातुं यज्ञाय। गातुं यज्ञपतये। दैवी स्वस्तिरस्तु नः।\nस्वस्तिर्मानुषेभ्यः। ऊर्ध्वं जिगातु भेषजम्। शं नो अस्तु द्विपदे। शं चतुष्पदे।\nॐ शान्तिः शान्तिः शान्तिः॥",
-  "transliteration": "|| Shri Purusha Suktam ||\n\nOm tachchham yoravrinmahe | Gatum yajnaya | Gatum yajnapataye | Daivi svastirastu nah |\nSvastir-manushebhyah | Urdhvam jigatu bheshajam | Sham no astu dvipade | Sham chatushpade |\nOm Shantih Shantih Shantih ||\n\nSahasra-shirsha Purushah sahasrakshah sahasrapat |\nSa bhumim vishvato vritva-atyatishthad-dashangulam || 1 ||\n\nPurusha evedam sarvam yad-bhutam yachcha bhavyam |\nUta-amritatvasyeshano yad-annena-atirohati || 2 ||\n\nEtavanasya mahima-ato jyayamshcha Purushah |\nPado-asya vishva bhutani tripad-asyamritam divi || 3 ||\n\nTripad-urdhva udait-Purushah pado-asyeha-abhavat-punah |\nTato vishvang-vyakramat-sashananashane abhi || 4 ||\n\nTasmad-virad-ajayata virajo adhi Purushah |\nSa jato atyarichyata pashchad-bhumim-atho purah || 5 ||\n\nYat-Purushena havisha deva yajnam-atanvata |\nVasanto asyasid-ajyam grishma idhmah sharad-dhavih || 6 ||\n\nSaptasyasan-paridhayah trih sapta samidhah kritah |\nDeva yad-yajnam tanvana abadhnan-Purusham pashum || 7 ||\n\nTam yajnam barhishi praukshan-Purusham jatam-agratah |\nTena deva ayajanta sadhya rishayashcha ye || 8 ||\n\nTasmad-yajnat-sarvahutah sambhritam prishadajyam |\nPashum-stamsh-chakre vayavyan-aranyaan-gramyashcha ye || 9 ||\n\nTasmad-yajnat-sarvahuta richah samani jajnire |\nChhandamsi jajnire tasmad-yajus-tasmad-ajayata || 10 ||\n\nTasmad-ashva ajayanta ye ke chobhayadatah |\nGavo ha jajnire tasmat-tasmaj-jata ajavayah || 11 ||\n\nYat-Purusham vyadadhuh katidha vyakalpayan |\nMukham kimasya kau bahu ka uru pada uchyete || 12 ||\n\nBrahmano-asya mukham-asid-bahu Rajanyah kritah |\nUru tadasya yad-Vaishyah padbhyam Shudro ajayata || 13 ||\n\nChandrama manaso jatash-chakshoh Suryo ajayata |\nMukhad-Indrash-cha-Agnishcha pranad-Vayur-ajayata || 14 ||\n\nNabhya asid-antarksham shirshno dyauh samavartata |\nPadbhyam bhumir-dishah shrotrat-tatha lokan akalpayan || 15 ||\n\nVedaham-etam Purusham mahantam-Aditya-varnam tamasas-tu pare |\nSarvani rupani vichitya dhirah namani kritva-abhivadan-yad-aste || 16 ||\n\nDhata purastadyam-udajahara Shakrah pravidvan-pradishash-chatasrah |\nTam-evam vidvan-amrita iha bhavati na-anyah pantha ayanaya vidyate || 17 ||\n\nYajnena yajnam-ayajanta devah tani dharmani prathamany-asan |\nTe ha nakam mahimanah sachante yatra purve sadhyah santi devah || 18 ||\n\nOm tachchham yoravrinmahe | Gatum yajnaya | Gatum yajnapataye | Daivi svastirastu nah |\nSvastir-manushebhyah | Urdhvam jigatu bheshajam | Sham no astu dvipade | Sham chatushpade |\nOm Shantih Shantih Shantih ||",
-  "hindiMeaning": "वह पुरुष (विराट ब्रह्म) सहस्र (अनन्त) शीर्ष वाला, सहस्र नेत्रों वाला, सहस्र पैरों वाला है। वह पृथ्वी को सब ओर से व्याप्त करके दस अंगुल (सीमा से परे) तक फैला हुआ है॥ १॥\n\nयह सब कुछ जो हो चुका है और जो होने वाला है, वह पुरुष ही है। वह अमरत्व का भी स्वामी है और जो अन्न द्वारा बढ़ता है उसका भी॥ २॥\n\nउसकी इतनी ही महिमा है, इससे भी बड़ा पुरुष है। उसका एक चौथाई (पाद) ये सब प्राणी हैं, उसके तीन चौथाई (त्रिपाद) दिव्य लोक में अमर हैं॥ ३॥\n\nतीन पाद से ऊपर उठा पुरुष, एक पाद यहाँ पुनः प्रकट हुआ। फिर वह सब ओर फैल गया — चेतन और जड़ में॥ ४॥\n\nउससे विराट उत्पन्न हुआ, विराट से पुरुष। उत्पन्न होकर वह पृथ्वी से आगे और पीछे सब ओर व्याप्त हो गया॥ ५॥\n\nजब देवताओं ने पुरुष को हवि बनाकर यज्ञ फैलाया, वसन्त उसका घी था, ग्रीष्म ईंधन था, शरद हवि थी॥ ६॥\n\nचन्द्रमा उसके मन से उत्पन्न हुआ, नेत्रों से सूर्य, मुख से इन्द्र और अग्नि, प्राण से वायु उत्पन्न हुआ॥ १४॥\n\nनाभि से अन्तरिक्ष, शीर्ष से द्युलोक, पैरों से भूमि, कानों से दिशाएँ — इस प्रकार लोकों की रचना हुई॥ १५॥",
-  "viniyog": {
-    "rishi": "नारायण",
-    "chhand": "अनुष्टुप् एवं त्रिष्टुप्",
-    "devata": "पुरुष (नारायण / विष्णु)",
-    "beej": "ॐ",
-    "shakti": "पुरुष शक्ति",
-    "kilak": "श्री पुरुष प्रीत्यर्थे जपे विनियोगः",
-    "shloka": "ॐ अस्य श्रीपुरुषसूक्तमहामन्त्रस्य नारायण ऋषिः। अनुष्टुप् एवं त्रिष्टुप् छन्दः। पुरुषः (श्रीमन्नारायणः) देवता। ॐ बीजम्। पुरुषशक्तिः शक्तिः। श्रीपुरुषप्रीत्यर्थे पुरुषसूक्तजपे विनियोगः॥"
-  },
-  "benefits": [
-    "Bestows knowledge of the cosmic creation and Supreme Being",
-    "Purifies the atmosphere and removes negativity",
-    "Brings prosperity and auspiciousness to homes and workplaces",
-    "Grants spiritual knowledge and Self-realization",
-    "Removes all types of sins and negative karma",
-    "Highly meritorious when chanted during Vedic rituals and yajnas",
-    "Brings blessings of all deities simultaneously"
-  ],
-  "deity": "vishnu",
-  "secondaryDeities": [],
-  "days": [
-    "thursday",
-    "sunday"
-  ],
-  "festivals": [
-    "ekadashi"
-  ],
-  "purposes": [
-    "spiritual-growth",
-    "knowledge",
-    "peace",
-    "devotion",
-    "wealth",
-    "protection"
-  ],
-  "readingTimeMinutes": 12,
-  "seoDescription": "Read Purusha Suktam from Rigveda in Sanskrit with English transliteration and Hindi meaning. Ancient Vedic hymn describing cosmic creation.",
-  "verseCount": 18,
-  "source": "Rigveda - Mandala 10, Sukta 90",
-  "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
-  "isPublished": true
+    "id": "497",
+    "title": "पुरुष सूक्तम्",
+    "titleEn": "Purusha Suktam",
+    "slug": "purusha-suktam",
+    "devanagariText": "॥ श्री पुरुष सूक्तम् ॥\n\nॐ तच्छं योरावृणीमहे। गातुं यज्ञाय। गातुं यज्ञपतये। दैवी स्वस्तिरस्तु नः।\nस्वस्तिर्मानुषेभ्यः। ऊर्ध्वं जिगातु भेषजम्। शं नो अस्तु द्विपदे। शं चतुष्पदे।\nॐ शान्तिः शान्तिः शान्तिः॥\n\nसहस्रशीर्षा पुरुषः सहस्राक्षः सहस्रपात्।\nस भूमिं विश्वतो वृत्वाऽत्यतिष्ठद्दशाङ्गुलम्॥ १॥\n\nपुरुष एवेदं सर्वं यद्भूतं यच्च भव्यम्।\nउतामृतत्वस्येशानो यदन्नेनातिरोहति॥ २॥\n\nएतावानस्य महिमाऽतो ज्यायाँश्च पूरुषः।\nपादोऽस्य विश्वा भूतानि त्रिपादस्यामृतं दिवि॥ ३॥\n\nत्रिपादूर्ध्व उदैत्पुरुषः पादोऽस्येहाभवत्पुनः।\nततो विष्वङ्व्यक्रामत्साशनानशने अभि॥ ४॥\n\nतस्माद्विराडजायत विराजो अधि पूरुषः।\nस जातो अत्यरिच्यत पश्चाद्भूमिमथो पुरः॥ ५॥\n\nयत्पुरुषेण हविषा देवा यज्ञमतन्वत।\nवसन्तो अस्यासीदाज्यं ग्रीष्म इध्मः शरद्धविः॥ ६॥\n\nसप्तास्यासन्परिधयस्त्रिः सप्त समिधः कृताः।\nदेवा यद्यज्ञं तन्वाना अबध्नन्पुरुषं पशुम्॥ ७॥\n\nतं यज्ञं बर्हिषि प्रौक्षन्पुरुषं जातमग्रतः।\nतेन देवा अयजन्त साध्या ऋषयश्च ये॥ ८॥\n\nतस्माद्यज्ञात्सर्वहुतः सम्भृतं पृषदाज्यम्।\nपशूँस्ताँश्चक्रे वायव्यानारण्यान्ग्राम्याश्च ये॥ ९॥\n\nतस्माद्यज्ञात्सर्वहुत ऋचः सामानि जज्ञिरे।\nछन्दांसि जज्ञिरे तस्माद्यजुस्तस्मादजायत॥ १०॥\n\nतस्मादश्वा अजायन्त ये के चोभयादतः।\nगावो ह जज्ञिरे तस्मात्तस्माज्जाता अजावयः॥ ११॥\n\nयत्पुरुषं व्यदधुः कतिधा व्यकल्पयन्।\nमुखं किमस्य कौ बाहू का ऊरू पादा उच्येते॥ १२॥\n\nब्राह्मणोऽस्य मुखमासीद्बाहू राजन्यः कृतः।\nऊरू तदस्य यद्वैश्यः पद्भ्यां शूद्रो अजायत॥ १३॥\n\nचन्द्रमा मनसो जातश्चक्षोः सूर्यो अजायत।\nमुखादिन्द्रश्चाग्निश्च प्राणाद्वायुरजायत॥ १४॥\n\nनाभ्या आसीदन्तरिक्षं शीर्ष्णो द्यौः समवर्तत।\nपद्भ्यां भूमिर्दिशः श्रोत्रात्तथा लोकाँ अकल्पयन्॥ १५॥\n\nवेदाहमेतं पुरुषं महान्तमादित्यवर्णं तमसस्तु पारे।\nसर्वाणि रूपाणि विचित्य धीरः नामानि कृत्वाऽभिवदन्यदास्ते॥ १६॥\n\nधाता पुरस्ताद्यमुदाजहार शक्रः प्रविद्वान्प्रदिशश्चतस्रः।\nतमेवं विद्वानमृत इह भवति नान्यः पन्था अयनाय विद्यते॥ १७॥\n\nयज्ञेन यज्ञमयजन्त देवास्तानि धर्माणि प्रथमान्यासन्।\nते ह नाकं महिमानः सचन्ते यत्र पूर्वे साध्याः सन्ति देवाः॥ १८॥\n\nॐ तच्छं योरावृणीमहे। गातुं यज्ञाय। गातुं यज्ञपतये। दैवी स्वस्तिरस्तु नः।\nस्वस्तिर्मानुषेभ्यः। ऊर्ध्वं जिगातु भेषजम्। शं नो अस्तु द्विपदे। शं चतुष्पदे।\nॐ शान्तिः शान्तिः शान्तिः॥",
+    "transliteration": "|| Shri Purusha Suktam ||\n\nOm tachchham yoravrinmahe | Gatum yajnaya | Gatum yajnapataye | Daivi svastirastu nah |\nSvastir-manushebhyah | Urdhvam jigatu bheshajam | Sham no astu dvipade | Sham chatushpade |\nOm Shantih Shantih Shantih ||\n\nSahasra-shirsha Purushah sahasrakshah sahasrapat |\nSa bhumim vishvato vritva-atyatishthad-dashangulam || 1 ||\n\nPurusha evedam sarvam yad-bhutam yachcha bhavyam |\nUta-amritatvasyeshano yad-annena-atirohati || 2 ||\n\nEtavanasya mahima-ato jyayamshcha Purushah |\nPado-asya vishva bhutani tripad-asyamritam divi || 3 ||\n\nTripad-urdhva udait-Purushah pado-asyeha-abhavat-punah |\nTato vishvang-vyakramat-sashananashane abhi || 4 ||\n\nTasmad-virad-ajayata virajo adhi Purushah |\nSa jato atyarichyata pashchad-bhumim-atho purah || 5 ||\n\nYat-Purushena havisha deva yajnam-atanvata |\nVasanto asyasid-ajyam grishma idhmah sharad-dhavih || 6 ||\n\nSaptasyasan-paridhayah trih sapta samidhah kritah |\nDeva yad-yajnam tanvana abadhnan-Purusham pashum || 7 ||\n\nTam yajnam barhishi praukshan-Purusham jatam-agratah |\nTena deva ayajanta sadhya rishayashcha ye || 8 ||\n\nTasmad-yajnat-sarvahutah sambhritam prishadajyam |\nPashum-stamsh-chakre vayavyan-aranyaan-gramyashcha ye || 9 ||\n\nTasmad-yajnat-sarvahuta richah samani jajnire |\nChhandamsi jajnire tasmad-yajus-tasmad-ajayata || 10 ||\n\nTasmad-ashva ajayanta ye ke chobhayadatah |\nGavo ha jajnire tasmat-tasmaj-jata ajavayah || 11 ||\n\nYat-Purusham vyadadhuh katidha vyakalpayan |\nMukham kimasya kau bahu ka uru pada uchyete || 12 ||\n\nBrahmano-asya mukham-asid-bahu Rajanyah kritah |\nUru tadasya yad-Vaishyah padbhyam Shudro ajayata || 13 ||\n\nChandrama manaso jatash-chakshoh Suryo ajayata |\nMukhad-Indrash-cha-Agnishcha pranad-Vayur-ajayata || 14 ||\n\nNabhya asid-antarksham shirshno dyauh samavartata |\nPadbhyam bhumir-dishah shrotrat-tatha lokan akalpayan || 15 ||\n\nVedaham-etam Purusham mahantam-Aditya-varnam tamasas-tu pare |\nSarvani rupani vichitya dhirah namani kritva-abhivadan-yad-aste || 16 ||\n\nDhata purastadyam-udajahara Shakrah pravidvan-pradishash-chatasrah |\nTam-evam vidvan-amrita iha bhavati na-anyah pantha ayanaya vidyate || 17 ||\n\nYajnena yajnam-ayajanta devah tani dharmani prathamany-asan |\nTe ha nakam mahimanah sachante yatra purve sadhyah santi devah || 18 ||\n\nOm tachchham yoravrinmahe | Gatum yajnaya | Gatum yajnapataye | Daivi svastirastu nah |\nSvastir-manushebhyah | Urdhvam jigatu bheshajam | Sham no astu dvipade | Sham chatushpade |\nOm Shantih Shantih Shantih ||",
+    "hindiMeaning": "वह पुरुष (विराट ब्रह्म) सहस्र (अनन्त) शीर्ष वाला, सहस्र नेत्रों वाला, सहस्र पैरों वाला है। वह पृथ्वी को सब ओर से व्याप्त करके दस अंगुल (सीमा से परे) तक फैला हुआ है॥ १॥\n\nयह सब कुछ जो हो चुका है और जो होने वाला है, वह पुरुष ही है। वह अमरत्व का भी स्वामी है और जो अन्न द्वारा बढ़ता है उसका भी॥ २॥\n\nउसकी इतनी ही महिमा है, इससे भी बड़ा पुरुष है। उसका एक चौथाई (पाद) ये सब प्राणी हैं, उसके तीन चौथाई (त्रिपाद) दिव्य लोक में अमर हैं॥ ३॥\n\nतीन पाद से ऊपर उठा पुरुष, एक पाद यहाँ पुनः प्रकट हुआ। फिर वह सब ओर फैल गया — चेतन और जड़ में॥ ४॥\n\nउससे विराट उत्पन्न हुआ, विराट से पुरुष। उत्पन्न होकर वह पृथ्वी से आगे और पीछे सब ओर व्याप्त हो गया॥ ५॥\n\nजब देवताओं ने पुरुष को हवि बनाकर यज्ञ फैलाया, वसन्त उसका घी था, ग्रीष्म ईंधन था, शरद हवि थी॥ ६॥\n\nचन्द्रमा उसके मन से उत्पन्न हुआ, नेत्रों से सूर्य, मुख से इन्द्र और अग्नि, प्राण से वायु उत्पन्न हुआ॥ १४॥\n\nनाभि से अन्तरिक्ष, शीर्ष से द्युलोक, पैरों से भूमि, कानों से दिशाएँ — इस प्रकार लोकों की रचना हुई॥ १५॥",
+    "viniyog": {
+        "rishi": "नारायण",
+        "chhand": "अनुष्टुप् एवं त्रिष्टुप्",
+        "devata": "पुरुष (नारायण / विष्णु)",
+        "beej": "ॐ",
+        "shakti": "पुरुष शक्ति",
+        "kilak": "श्री पुरुष प्रीत्यर्थे जपे विनियोगः",
+        "shloka": "ॐ अस्य श्रीपुरुषसूक्तमहामन्त्रस्य नारायण ऋषिः। अनुष्टुप् एवं त्रिष्टुप् छन्दः। पुरुषः (श्रीमन्नारायणः) देवता। ॐ बीजम्। पुरुषशक्तिः शक्तिः। श्रीपुरुषप्रीत्यर्थे पुरुषसूक्तजपे विनियोगः॥"
+    },
+    "benefits": [
+        "Bestows knowledge of the cosmic creation and Supreme Being",
+        "Purifies the atmosphere and removes negativity",
+        "Brings prosperity and auspiciousness to homes and workplaces",
+        "Grants spiritual knowledge and Self-realization",
+        "Removes all types of sins and negative karma",
+        "Highly meritorious when chanted during Vedic rituals and yajnas",
+        "Brings blessings of all deities simultaneously"
+    ],
+    "deity": "vishnu",
+    "secondaryDeities": [],
+    "days": [
+        "thursday",
+        "sunday"
+    ],
+    "festivals": [
+        "ekadashi"
+    ],
+    "purposes": [
+        "spiritual-growth",
+        "knowledge",
+        "peace",
+        "devotion",
+        "wealth",
+        "protection",
+        "worship"
+    ],
+    "readingTimeMinutes": 12,
+    "seoDescription": "Read Purusha Suktam from Rigveda in Sanskrit with English transliteration and Hindi meaning. Ancient Vedic hymn describing cosmic creation.",
+    "verseCount": 18,
+    "source": "Rigveda - Mandala 10, Sukta 90",
+    "createdAt": "2026-03-28T00:00:00Z",
+    "updatedAt": "2026-03-28T00:00:00Z",
+    "isPublished": true
 }

@@ -1,42 +1,43 @@
 {
-  "id": "214",
-  "title": "श्री गंगा आरती",
-  "titleEn": "Ganga Aarti - Om Jai Gange Mata",
-  "slug": "ganga-aarti",
-  "devanagariText": "॥ श्री गंगा आरती ॥\n\nॐ जय गंगे माता, मैया जय गंगे माता।\nजो नर तुमको ध्याता, मनवांछित फल पाता॥\n\nॐ जय गंगे माता॥\n\nचन्द्र सी झलकत धारा, निर्मल जल अति पावन।\nएक डुबकी जो लागे, मिट जात पापताप मन॥\n\nॐ जय गंगे माता॥\n\nराजा भगीरथ जब तप कीन्हा, तब पतितन हित आई।\nशिव की जटा से निकली, पतितन को तारन आई॥\n\nॐ जय गंगे माता॥\n\nब्रह्मलोक से उतरी, गंगा तट बहती।\nतीन लोक में व्यापी, महिमा सब कहती॥\n\nॐ जय गंगे माता॥\n\nविष्णु चरणन से निकली, गंगा अमृत धारा।\nशंकर जटा में बसती, सृष्टि का आधारा॥\n\nॐ जय गंगे माता॥\n\nहरिद्वार में आरती, देख सबका मन हर्षाता।\nबनारस काशी में, घाट घाट दीप जलाता॥\n\nॐ जय गंगे माता॥\n\nजो कोई गंगा माता, आरती गावै।\nघर में बसत लक्ष्मी, सुख सम्पत्ति पावै॥\n\nॐ जय गंगे माता॥\n\n॥ इति श्री गंगा आरती सम्पूर्ण ॥",
-  "transliteration": "|| Shri Ganga Aarti ||\n\nOm Jai Gange Mata, Maiya Jai Gange Mata.\nJo Nar Tumako Dhyata, Manvanchhit Phal Pata.\n\nOm Jai Gange Mata.\n\nChandra Si Jhalakat Dhara, Nirmal Jal Ati Pavan.\nEk Dubki Jo Lage, Mit Jaat Paaptap Man.\n\nOm Jai Gange Mata.\n\nRaja Bhagirath Jab Tap Keenha, Tab Patitan Hit Aayi.\nShiv Ki Jata Se Nikli, Patitan Ko Taran Aayi.\n\nOm Jai Gange Mata.\n\nBrahmalok Se Utari, Ganga Tat Bahati.\nTeen Lok Mein Vyapi, Mahima Sab Kahati.\n\nOm Jai Gange Mata.\n\nVishnu Charanan Se Nikli, Ganga Amrit Dhara.\nShankar Jata Mein Basti, Srishti Ka Aadhara.\n\nOm Jai Gange Mata.\n\nHaridwar Mein Aarti, Dekh Sabka Man Harshaata.\nBanaras Kashi Mein, Ghat Ghat Deep Jalata.\n\nOm Jai Gange Mata.\n\nJo Koi Ganga Mata, Aarti Gaavai.\nGhar Mein Basat Lakshmi, Sukh Sampatti Paavai.\n\nOm Jai Gange Mata.\n\n|| Iti Shri Ganga Aarti Sampurna ||",
-  "hindiMeaning": "ॐ जय गंगे माता! हे माता! जो मनुष्य तुम्हारा ध्यान करता है, वह मनवांछित फल पाता है।\n\nचन्द्रमा सी चमकती धारा है, निर्मल जल अत्यन्त पावन है। एक डुबकी जो लगे, मन के सब पाप-ताप मिट जाते हैं।\n\nराजा भगीरथ ने जब तपस्या की, तब पतितों के हित आईं। शिव की जटा से निकलीं, पतितों को तारने आईं।\n\nब्रह्मलोक से उतरी हैं, गंगा तट पर बहती हैं। तीनों लोकों में व्यापिनी, सबकी महिमा कहती हैं।\n\nविष्णु के चरणों से निकली गंगा अमृत धारा। शंकर की जटा में बसती हैं, सृष्टि का आधार हैं।\n\nहरिद्वार में आरती देखकर सबका मन हर्षित होता है। बनारस काशी में घाट-घाट दीपक जलते हैं।\n\nजो कोई गंगा माता की यह आरती गाता है, उसके घर में लक्ष्मी बसती हैं, सुख-सम्पत्ति पाता है।",
-  "viniyog": null,
-  "benefits": [
-    "The most beloved Ganga aarti sung daily at Haridwar and Varanasi ghats",
-    "Purifies the mind and removes all sins through devotional singing",
-    "Brings the blessings of Goddess Ganga into the home",
-    "Grants prosperity and the grace of Lakshmi",
-    "Creates the sacred atmosphere of Ganga aarti at home"
-  ],
-  "deity": "ganga",
-  "secondaryDeities": [
-    "vishnu",
-    "lakshmi"
-  ],
-  "days": [
-    "monday"
-  ],
-  "festivals": [
-    "ganga-dussehra",
-    "ganga-jayanti"
-  ],
-  "purposes": [
-    "purification",
-    "devotion",
-    "wealth",
-    "peace"
-  ],
-  "readingTimeMinutes": 5,
-  "seoDescription": "Om Jai Gange Mata - Ganga Aarti in Hindi with meaning. The famous Haridwar aarti for Goddess Ganga, sung for purification and blessings.",
-  "verseCount": 7,
-  "source": "Traditional Aarti Sangrah",
-  "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-29T00:00:00Z",
-  "isPublished": true
+    "id": "207",
+    "title": "श्री गंगा आरती",
+    "titleEn": "Ganga Aarti - Om Jai Gange Mata",
+    "slug": "ganga-aarti",
+    "devanagariText": "॥ श्री गंगा आरती ॥\n\nॐ जय गंगे माता, मैया जय गंगे माता।\nजो नर तुमको ध्याता, मनवांछित फल पाता॥\n\nॐ जय गंगे माता॥\n\nचन्द्र सी झलकत धारा, निर्मल जल अति पावन।\nएक डुबकी जो लागे, मिट जात पापताप मन॥\n\nॐ जय गंगे माता॥\n\nराजा भगीरथ जब तप कीन्हा, तब पतितन हित आई।\nशिव की जटा से निकली, पतितन को तारन आई॥\n\nॐ जय गंगे माता॥\n\nब्रह्मलोक से उतरी, गंगा तट बहती।\nतीन लोक में व्यापी, महिमा सब कहती॥\n\nॐ जय गंगे माता॥\n\nविष्णु चरणन से निकली, गंगा अमृत धारा।\nशंकर जटा में बसती, सृष्टि का आधारा॥\n\nॐ जय गंगे माता॥\n\nहरिद्वार में आरती, देख सबका मन हर्षाता।\nबनारस काशी में, घाट घाट दीप जलाता॥\n\nॐ जय गंगे माता॥\n\nजो कोई गंगा माता, आरती गावै।\nघर में बसत लक्ष्मी, सुख सम्पत्ति पावै॥\n\nॐ जय गंगे माता॥\n\n॥ इति श्री गंगा आरती सम्पूर्ण ॥",
+    "transliteration": "|| Shri Ganga Aarti ||\n\nOm Jai Gange Mata, Maiya Jai Gange Mata.\nJo Nar Tumako Dhyata, Manvanchhit Phal Pata.\n\nOm Jai Gange Mata.\n\nChandra Si Jhalakat Dhara, Nirmal Jal Ati Pavan.\nEk Dubki Jo Lage, Mit Jaat Paaptap Man.\n\nOm Jai Gange Mata.\n\nRaja Bhagirath Jab Tap Keenha, Tab Patitan Hit Aayi.\nShiv Ki Jata Se Nikli, Patitan Ko Taran Aayi.\n\nOm Jai Gange Mata.\n\nBrahmalok Se Utari, Ganga Tat Bahati.\nTeen Lok Mein Vyapi, Mahima Sab Kahati.\n\nOm Jai Gange Mata.\n\nVishnu Charanan Se Nikli, Ganga Amrit Dhara.\nShankar Jata Mein Basti, Srishti Ka Aadhara.\n\nOm Jai Gange Mata.\n\nHaridwar Mein Aarti, Dekh Sabka Man Harshaata.\nBanaras Kashi Mein, Ghat Ghat Deep Jalata.\n\nOm Jai Gange Mata.\n\nJo Koi Ganga Mata, Aarti Gaavai.\nGhar Mein Basat Lakshmi, Sukh Sampatti Paavai.\n\nOm Jai Gange Mata.\n\n|| Iti Shri Ganga Aarti Sampurna ||",
+    "hindiMeaning": "ॐ जय गंगे माता! हे माता! जो मनुष्य तुम्हारा ध्यान करता है, वह मनवांछित फल पाता है।\n\nचन्द्रमा सी चमकती धारा है, निर्मल जल अत्यन्त पावन है। एक डुबकी जो लगे, मन के सब पाप-ताप मिट जाते हैं।\n\nराजा भगीरथ ने जब तपस्या की, तब पतितों के हित आईं। शिव की जटा से निकलीं, पतितों को तारने आईं।\n\nब्रह्मलोक से उतरी हैं, गंगा तट पर बहती हैं। तीनों लोकों में व्यापिनी, सबकी महिमा कहती हैं।\n\nविष्णु के चरणों से निकली गंगा अमृत धारा। शंकर की जटा में बसती हैं, सृष्टि का आधार हैं।\n\nहरिद्वार में आरती देखकर सबका मन हर्षित होता है। बनारस काशी में घाट-घाट दीपक जलते हैं।\n\nजो कोई गंगा माता की यह आरती गाता है, उसके घर में लक्ष्मी बसती हैं, सुख-सम्पत्ति पाता है।",
+    "viniyog": null,
+    "benefits": [
+        "The most beloved Ganga aarti sung daily at Haridwar and Varanasi ghats",
+        "Purifies the mind and removes all sins through devotional singing",
+        "Brings the blessings of Goddess Ganga into the home",
+        "Grants prosperity and the grace of Lakshmi",
+        "Creates the sacred atmosphere of Ganga aarti at home"
+    ],
+    "deity": "ganga",
+    "secondaryDeities": [
+        "vishnu",
+        "lakshmi"
+    ],
+    "days": [
+        "monday"
+    ],
+    "festivals": [
+        "ganga-dussehra",
+        "ganga-jayanti"
+    ],
+    "purposes": [
+        "purification",
+        "devotion",
+        "wealth",
+        "peace",
+        "aarti"
+    ],
+    "readingTimeMinutes": 5,
+    "seoDescription": "Om Jai Gange Mata - Ganga Aarti in Hindi with meaning. The famous Haridwar aarti for Goddess Ganga, sung for purification and blessings.",
+    "verseCount": 7,
+    "source": "Traditional Aarti Sangrah",
+    "createdAt": "2026-03-28T00:00:00Z",
+    "updatedAt": "2026-03-29T00:00:00Z",
+    "isPublished": true
 }

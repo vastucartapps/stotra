@@ -1,29 +1,41 @@
 {
-  "id": "570",
-  "title": "गणेश स्तुति (मुद्गल पुराण)",
-  "titleEn": "Ganesha Stuti - Mudgala Purana",
-  "slug": "ganesha-stuti-mudgala-purana",
-  "devanagariText": "॥ श्री गणेश स्तुति - मुद्गल पुराण ॥\n\nॐ गणानां त्वा गणपतिं हवामहे\nकविं कवीनामुपमश्रवस्तमम्।\nज्येष्ठराजं ब्रह्मणां ब्रह्मणस्पत\nआ नः शृण्वन्नूतिभिः सीद सादनम्॥१॥\n\nप्रणम्य शिरसा देवं गौरीपुत्रं विनायकम्।\nभक्तावासं स्मरेन्नित्यमायुष्कामार्थसिद्धये॥२॥\n\nवक्रतुण्ड महाकाय सूर्यकोटिसमप्रभ।\nनिर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा॥३॥\n\nमुद्गले पुराणे यः स्तुतो गणनायकः।\nसिद्धिबुद्धिसमायुक्तः पार्वतीनन्दनोऽव्ययः॥४॥\n\nअष्टौ रूपाणि यस्यैव गणेशस्य महात्मनः।\nवक्रतुण्डश्चैकदन्तो महोदरो गजाननः॥५॥\n\nलम्बोदरो विकटश्च विघ्नराजो धूम्रवर्णकः।\nएतान्यष्टौ स्वरूपाणि मुद्गले प्रकटानि हि॥६॥\n\nमोदकप्रियहस्तं तं मूषकवाहनमीश्वरम्।\nसिन्दूरवर्णं गणपं मुद्गलोक्तं भजाम्यहम्॥७॥\n\nसर्वविघ्नहरं देवं सर्वविघ्नविवर्जितम्।\nसर्वसिद्धिप्रदातारं वन्दे गणपतिं प्रभुम्॥८॥\n\n॥ इति श्री मुद्गल पुराणोक्त गणेश स्तुति सम्पूर्णा ॥",
-  "transliteration": "|| Shri Ganesha Stuti - Mudgala Purana ||\n\nOm Gananam tva Ganapatim havamahe\nKavim kavinam upama-shravastamam.\nJyeshtha-rajam Brahmanam Brahmanaspata\nA nah shrinvann utibhih sida sadanam.||1||\n\nPranamya shirasa devam Gauri-putram Vinayakam.\nBhaktavasam smaren-nityam ayush-kamartha-siddhaye.||2||\n\nVakratunda Mahakaya Surya-koti-samaprabha.\nNirvighnam kuru me deva sarva-karyeshu sarvada.||3||\n\nMudgale Purane yah stuto Gana-nayakah.\nSiddhi-Buddhi-samayuktah Parvati-nandano'vyayah.||4||\n\nAshtau rupani yasyaiva Ganeshaya Mahatmanah.\nVakratundash-chaikadanto Mahodaro Gajananah.||5||\n\nLambodaro Vikatash-cha Vighnarajo Dhumravarnakah.\nEtany-ashtau swarupani Mudgale prakatani hi.||6||\n\nModaka-priya-hastam tam Mushaka-vahanam-Ishwaram.\nSindura-varnam Ganapam Mudgaloktam bhajamy-aham.||7||\n\nSarva-vighna-haram Devam Sarva-vighna-vivarjitam.\nSarva-siddhi-pradataram Vande Ganapatim Prabhum.||8||\n\n|| Iti Shri Mudgala Puranoktam Ganesha Stuti Sampurna ||",
-  "hindiMeaning": "मुद्गल पुराण में वर्णित गणेश स्तुति में गणपति के आठ रूपों का वर्णन है - वक्रतुण्ड, एकदन्त, महोदर, गजानन, लम्बोदर, विकट, विघ्नराज और धूम्रवर्ण। गणों के अधिपति, कवियों में श्रेष्ठ, ज्येष्ठ, ब्रह्मणस्पति गणपति का आवाहन किया जाता है। सिद्धि-बुद्धि सहित, पार्वतीनन्दन, मोदकप्रिय, मूषकवाहन, सिन्दूरवर्ण गणपति की स्तुति से सर्व विघ्न दूर होते हैं।",
-  "viniyog": null,
-  "benefits": [
-    "Invokes all eight forms of Ganesha from Mudgala Purana",
-    "Grants wisdom (Buddhi) and success (Siddhi)",
-    "Removes all obstacles in spiritual and worldly endeavors",
-    "Ancient Vedic prayer with immense spiritual potency",
-    "Ensures long life, fulfillment of desires and achievement"
-  ],
-  "deity": "ganesha",
-  "secondaryDeities": ["parvati", "shiva"],
-  "days": ["wednesday"],
-  "festivals": ["ganesh-chaturthi"],
-  "purposes": ["obstacle-removal", "devotion", "wisdom", "spiritual-growth"],
-  "readingTimeMinutes": 7,
-  "seoDescription": "Read Ganesha Stuti from Mudgala Purana in Sanskrit with Hindi meaning. Ancient prayer describing eight forms of Ganesha for obstacle removal.",
-  "verseCount": 8,
-  "source": "Mudgala Purana",
-  "createdAt": "2026-03-29T00:00:00Z",
-  "updatedAt": "2026-03-29T00:00:00Z",
-  "isPublished": true
+    "id": "206",
+    "title": "गणेश स्तुति (मुद्गल पुराण)",
+    "titleEn": "Ganesha Stuti - Mudgala Purana",
+    "slug": "ganesha-stuti-mudgala-purana",
+    "devanagariText": "॥ श्री गणेश स्तुति - मुद्गल पुराण ॥\n\nॐ गणानां त्वा गणपतिं हवामहे\nकविं कवीनामुपमश्रवस्तमम्।\nज्येष्ठराजं ब्रह्मणां ब्रह्मणस्पत\nआ नः शृण्वन्नूतिभिः सीद सादनम्॥१॥\n\nप्रणम्य शिरसा देवं गौरीपुत्रं विनायकम्।\nभक्तावासं स्मरेन्नित्यमायुष्कामार्थसिद्धये॥२॥\n\nवक्रतुण्ड महाकाय सूर्यकोटिसमप्रभ।\nनिर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा॥३॥\n\nमुद्गले पुराणे यः स्तुतो गणनायकः।\nसिद्धिबुद्धिसमायुक्तः पार्वतीनन्दनोऽव्ययः॥४॥\n\nअष्टौ रूपाणि यस्यैव गणेशस्य महात्मनः।\nवक्रतुण्डश्चैकदन्तो महोदरो गजाननः॥५॥\n\nलम्बोदरो विकटश्च विघ्नराजो धूम्रवर्णकः।\nएतान्यष्टौ स्वरूपाणि मुद्गले प्रकटानि हि॥६॥\n\nमोदकप्रियहस्तं तं मूषकवाहनमीश्वरम्।\nसिन्दूरवर्णं गणपं मुद्गलोक्तं भजाम्यहम्॥७॥\n\nसर्वविघ्नहरं देवं सर्वविघ्नविवर्जितम्।\nसर्वसिद्धिप्रदातारं वन्दे गणपतिं प्रभुम्॥८॥\n\n॥ इति श्री मुद्गल पुराणोक्त गणेश स्तुति सम्पूर्णा ॥",
+    "transliteration": "|| Shri Ganesha Stuti - Mudgala Purana ||\n\nOm Gananam tva Ganapatim havamahe\nKavim kavinam upama-shravastamam.\nJyeshtha-rajam Brahmanam Brahmanaspata\nA nah shrinvann utibhih sida sadanam.||1||\n\nPranamya shirasa devam Gauri-putram Vinayakam.\nBhaktavasam smaren-nityam ayush-kamartha-siddhaye.||2||\n\nVakratunda Mahakaya Surya-koti-samaprabha.\nNirvighnam kuru me deva sarva-karyeshu sarvada.||3||\n\nMudgale Purane yah stuto Gana-nayakah.\nSiddhi-Buddhi-samayuktah Parvati-nandano'vyayah.||4||\n\nAshtau rupani yasyaiva Ganeshaya Mahatmanah.\nVakratundash-chaikadanto Mahodaro Gajananah.||5||\n\nLambodaro Vikatash-cha Vighnarajo Dhumravarnakah.\nEtany-ashtau swarupani Mudgale prakatani hi.||6||\n\nModaka-priya-hastam tam Mushaka-vahanam-Ishwaram.\nSindura-varnam Ganapam Mudgaloktam bhajamy-aham.||7||\n\nSarva-vighna-haram Devam Sarva-vighna-vivarjitam.\nSarva-siddhi-pradataram Vande Ganapatim Prabhum.||8||\n\n|| Iti Shri Mudgala Puranoktam Ganesha Stuti Sampurna ||",
+    "hindiMeaning": "मुद्गल पुराण में वर्णित गणेश स्तुति में गणपति के आठ रूपों का वर्णन है - वक्रतुण्ड, एकदन्त, महोदर, गजानन, लम्बोदर, विकट, विघ्नराज और धूम्रवर्ण। गणों के अधिपति, कवियों में श्रेष्ठ, ज्येष्ठ, ब्रह्मणस्पति गणपति का आवाहन किया जाता है। सिद्धि-बुद्धि सहित, पार्वतीनन्दन, मोदकप्रिय, मूषकवाहन, सिन्दूरवर्ण गणपति की स्तुति से सर्व विघ्न दूर होते हैं।",
+    "viniyog": null,
+    "benefits": [
+        "Invokes all eight forms of Ganesha from Mudgala Purana",
+        "Grants wisdom (Buddhi) and success (Siddhi)",
+        "Removes all obstacles in spiritual and worldly endeavors",
+        "Ancient Vedic prayer with immense spiritual potency",
+        "Ensures long life, fulfillment of desires and achievement"
+    ],
+    "deity": "ganesha",
+    "secondaryDeities": [
+        "parvati",
+        "shiva"
+    ],
+    "days": [
+        "wednesday"
+    ],
+    "festivals": [
+        "ganesh-chaturthi"
+    ],
+    "purposes": [
+        "obstacle-removal",
+        "devotion",
+        "wisdom",
+        "spiritual-growth"
+    ],
+    "readingTimeMinutes": 7,
+    "seoDescription": "Read Ganesha Stuti from Mudgala Purana in Sanskrit with Hindi meaning. Ancient prayer describing eight forms of Ganesha for obstacle removal.",
+    "verseCount": 8,
+    "source": "Mudgala Purana",
+    "createdAt": "2026-03-29T00:00:00Z",
+    "updatedAt": "2026-03-29T00:00:00Z",
+    "isPublished": true
 }

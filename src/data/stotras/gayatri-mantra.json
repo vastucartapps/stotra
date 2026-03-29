@@ -1,43 +1,44 @@
 {
-  "id": "90",
-  "title": "गायत्री मन्त्र",
-  "titleEn": "Gayatri Mantra",
-  "slug": "gayatri-mantra",
-  "devanagariText": "॥ श्री गायत्री मन्त्रः ॥\n\n॥ विनियोगः ॥\nॐ अस्य श्री गायत्री मन्त्रस्य विश्वामित्र ऋषिः।\nगायत्री छन्दः। सविता देवता।\nॐ भूः बीजम्। ॐ भुवः शक्तिः। ॐ स्वः कीलकम्।\nश्री सवितुः प्रीत्यर्थे गायत्री मन्त्रजपे विनियोगः॥\n\n॥ ध्यानम् ॥\nमुक्ताविद्रुमहेमनीलधवलच्छायैर्मुखैस्त्रीक्षणैः\nयुक्तामिन्दुनिबद्धरत्नमकुटां तत्त्वार्थवर्णात्मिकाम्।\nगायत्रीं वरदाभयाङ्कुशकशाशूलं कपालं गदां\nशंखं चक्रमथारविन्दयुगलं हस्तैर्वहन्तीं भजे॥\n\n॥ मन्त्रः ॥\nॐ भूर्भुवः स्वः\nतत्सवितुर्वरेण्यं\nभर्गो देवस्य धीमहि\nधियो यो नः प्रचोदयात्॥\n\n॥ अर्थः ॥\nॐ — परमात्मा का नाम\nभूः — प्राण स्वरूप\nभुवः — दुःख नाशक\nस्वः — सुख स्वरूप\nतत् — वह (परमात्मा)\nसवितुः — सृष्टिकर्ता सविता (सूर्य) देवता का\nवरेण्यं — वरण करने योग्य, श्रेष्ठ\nभर्गः — पापनाशक तेज\nदेवस्य — दिव्य, देव का\nधीमहि — हम ध्यान करें\nधियः — बुद्धि को\nयः — जो\nनः — हमारी\nप्रचोदयात् — शुभ मार्ग पर प्रेरित करें\n\n॥ गायत्री शीर्ष ॥\nॐ आपो ज्योतीरसोऽमृतं ब्रह्म भूर्भुवः स्वरोम्॥\n\n॥ इति श्री गायत्री मन्त्रः सम्पूर्णः ॥",
-  "transliteration": "|| Shri Gayatri Mantrah ||\n\n|| Viniyogah ||\nOm Asya Shri Gayatri Mantrasya Vishwamitra Rishiph.\nGayatri Chhandah. Savita Devata.\nOm Bhuh Bijam. Om Bhuvah Shaktih. Om Svah Kilakam.\nShri Savituh Prityarthe Gayatri Mantra-Jape Viniyogah.\n\n|| Dhyanam ||\nMukta-vidruma-hema-nila-dhavala-chchhayair-mukhaih-trikshanaiah\nYuktam-indu-nibaddha-ratna-makutam Tattvartha-varnatmikam.\nGayatrim Varada-bhaya-ankusha-kasha-shulam Kapalam Gadam\nShankham Chakram-atha-aravinda-yugalam Hastair-vahantim Bhaje.\n\n|| Mantrah ||\nOm Bhur Bhuvah Svah\nTat Savitur Varenyam\nBhargo Devasya Dhimahi\nDhiyo Yo Nah Prachodayat.\n\n|| Arthah ||\nOm — Paramatma ka Nama\nBhuh — Prana Svarupa\nBhuvah — Duhkha Nashaka\nSvah — Sukha Svarupa\nTat — Vah (Paramatma)\nSavituh — Srishti-karta Savita (Surya) Devata ka\nVarenyam — Varana karane yogya, Shreshtha\nBhargah — Papa-nashaka Teja\nDevasya — Divya, Deva ka\nDhimahi — Hama Dhyana Karen\nDhiyah — Buddhi ko\nYah — Jo\nNah — Hamari\nPrachodayat — Shubha marga par prerit karen\n\n|| Gayatri Shirsha ||\nOm Apo Jyoti-raso-amritam Brahma Bhur-Bhuvah Svar-Om.\n\n|| Iti Shri Gayatri Mantrah Sampurnah ||",
-  "hindiMeaning": "उस प्राणस्वरूप, दुःखनाशक, सुखस्वरूप, श्रेष्ठ, तेजस्वी, पापनाशक, देवस्वरूप परमात्मा (सविता/सूर्य) को हम ध्यान करते हैं। वह परमात्मा हमारी बुद्धि को सन्मार्ग की ओर प्रेरित करें।\n\nगायत्री मन्त्र वेदमाता है। यह सबसे पवित्र और प्राचीन मन्त्र है जो ऋग्वेद (3.62.10) में उल्लिखित है। इस मन्त्र के ऋषि विश्वामित्र हैं, छन्द गायत्री है और देवता सविता (सूर्य) हैं। यह मन्त्र सूर्य के दिव्य तेज का ध्यान करते हुए बुद्धि की प्रेरणा की प्रार्थना है।",
-  "viniyog": {
-    "rishi": "विश्वामित्र",
-    "chhand": "गायत्री",
-    "devata": "सविता",
-    "beej": "ॐ भूः",
-    "shakti": "ॐ भुवः",
-    "kilak": "ॐ स्वः",
-    "shloka": "ॐ अस्य श्रीगायत्रीमन्त्रस्य विश्वामित्र ऋषिः। गायत्री छन्दः। सविता देवता। ॐ भूः बीजम्। ॐ भुवः शक्तिः। ॐ स्वः कीलकम्। श्रीसवितुः प्रीत्यर्थे गायत्रीमन्त्रजपे विनियोगः॥"
-  },
-  "benefits": [
-    "Supreme Vedic mantra called the Mother of all Vedas (Veda Mata)",
-    "Sharpens intellect and grants divine wisdom and discrimination",
-    "Purifies the mind, body, and soul of the chanter",
-    "Removes ignorance and leads to spiritual enlightenment",
-    "Grants health, vitality, and protection from negative energies",
-    "Daily chanting at Sandhya time brings immense spiritual merit"
-  ],
-  "deity": "gayatri",
-  "secondaryDeities": [],
-  "days": [
-    "sunday"
-  ],
-  "festivals": [],
-  "purposes": [
-    "spiritual-growth",
-    "knowledge"
-  ],
-  "readingTimeMinutes": 3,
-  "seoDescription": "Gayatri Mantra in Sanskrit with viniyog, dhyana, Hindi meaning and transliteration. Sacred Vedic mantra for wisdom and spiritual growth.",
-  "verseCount": 1,
-  "source": "Rigveda (3.62.10)",
-  "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-29T00:00:00Z",
-  "isPublished": true
+    "id": "220",
+    "title": "गायत्री मन्त्र",
+    "titleEn": "Gayatri Mantra",
+    "slug": "gayatri-mantra",
+    "devanagariText": "॥ श्री गायत्री मन्त्रः ॥\n\n॥ विनियोगः ॥\nॐ अस्य श्री गायत्री मन्त्रस्य विश्वामित्र ऋषिः।\nगायत्री छन्दः। सविता देवता।\nॐ भूः बीजम्। ॐ भुवः शक्तिः। ॐ स्वः कीलकम्।\nश्री सवितुः प्रीत्यर्थे गायत्री मन्त्रजपे विनियोगः॥\n\n॥ ध्यानम् ॥\nमुक्ताविद्रुमहेमनीलधवलच्छायैर्मुखैस्त्रीक्षणैः\nयुक्तामिन्दुनिबद्धरत्नमकुटां तत्त्वार्थवर्णात्मिकाम्।\nगायत्रीं वरदाभयाङ्कुशकशाशूलं कपालं गदां\nशंखं चक्रमथारविन्दयुगलं हस्तैर्वहन्तीं भजे॥\n\n॥ मन्त्रः ॥\nॐ भूर्भुवः स्वः\nतत्सवितुर्वरेण्यं\nभर्गो देवस्य धीमहि\nधियो यो नः प्रचोदयात्॥\n\n॥ अर्थः ॥\nॐ — परमात्मा का नाम\nभूः — प्राण स्वरूप\nभुवः — दुःख नाशक\nस्वः — सुख स्वरूप\nतत् — वह (परमात्मा)\nसवितुः — सृष्टिकर्ता सविता (सूर्य) देवता का\nवरेण्यं — वरण करने योग्य, श्रेष्ठ\nभर्गः — पापनाशक तेज\nदेवस्य — दिव्य, देव का\nधीमहि — हम ध्यान करें\nधियः — बुद्धि को\nयः — जो\nनः — हमारी\nप्रचोदयात् — शुभ मार्ग पर प्रेरित करें\n\n॥ गायत्री शीर्ष ॥\nॐ आपो ज्योतीरसोऽमृतं ब्रह्म भूर्भुवः स्वरोम्॥\n\n॥ इति श्री गायत्री मन्त्रः सम्पूर्णः ॥",
+    "transliteration": "|| Shri Gayatri Mantrah ||\n\n|| Viniyogah ||\nOm Asya Shri Gayatri Mantrasya Vishwamitra Rishiph.\nGayatri Chhandah. Savita Devata.\nOm Bhuh Bijam. Om Bhuvah Shaktih. Om Svah Kilakam.\nShri Savituh Prityarthe Gayatri Mantra-Jape Viniyogah.\n\n|| Dhyanam ||\nMukta-vidruma-hema-nila-dhavala-chchhayair-mukhaih-trikshanaiah\nYuktam-indu-nibaddha-ratna-makutam Tattvartha-varnatmikam.\nGayatrim Varada-bhaya-ankusha-kasha-shulam Kapalam Gadam\nShankham Chakram-atha-aravinda-yugalam Hastair-vahantim Bhaje.\n\n|| Mantrah ||\nOm Bhur Bhuvah Svah\nTat Savitur Varenyam\nBhargo Devasya Dhimahi\nDhiyo Yo Nah Prachodayat.\n\n|| Arthah ||\nOm — Paramatma ka Nama\nBhuh — Prana Svarupa\nBhuvah — Duhkha Nashaka\nSvah — Sukha Svarupa\nTat — Vah (Paramatma)\nSavituh — Srishti-karta Savita (Surya) Devata ka\nVarenyam — Varana karane yogya, Shreshtha\nBhargah — Papa-nashaka Teja\nDevasya — Divya, Deva ka\nDhimahi — Hama Dhyana Karen\nDhiyah — Buddhi ko\nYah — Jo\nNah — Hamari\nPrachodayat — Shubha marga par prerit karen\n\n|| Gayatri Shirsha ||\nOm Apo Jyoti-raso-amritam Brahma Bhur-Bhuvah Svar-Om.\n\n|| Iti Shri Gayatri Mantrah Sampurnah ||",
+    "hindiMeaning": "उस प्राणस्वरूप, दुःखनाशक, सुखस्वरूप, श्रेष्ठ, तेजस्वी, पापनाशक, देवस्वरूप परमात्मा (सविता/सूर्य) को हम ध्यान करते हैं। वह परमात्मा हमारी बुद्धि को सन्मार्ग की ओर प्रेरित करें।\n\nगायत्री मन्त्र वेदमाता है। यह सबसे पवित्र और प्राचीन मन्त्र है जो ऋग्वेद (3.62.10) में उल्लिखित है। इस मन्त्र के ऋषि विश्वामित्र हैं, छन्द गायत्री है और देवता सविता (सूर्य) हैं। यह मन्त्र सूर्य के दिव्य तेज का ध्यान करते हुए बुद्धि की प्रेरणा की प्रार्थना है।",
+    "viniyog": {
+        "rishi": "विश्वामित्र",
+        "chhand": "गायत्री",
+        "devata": "सविता",
+        "beej": "ॐ भूः",
+        "shakti": "ॐ भुवः",
+        "kilak": "ॐ स्वः",
+        "shloka": "ॐ अस्य श्रीगायत्रीमन्त्रस्य विश्वामित्र ऋषिः। गायत्री छन्दः। सविता देवता। ॐ भूः बीजम्। ॐ भुवः शक्तिः। ॐ स्वः कीलकम्। श्रीसवितुः प्रीत्यर्थे गायत्रीमन्त्रजपे विनियोगः॥"
+    },
+    "benefits": [
+        "Supreme Vedic mantra called the Mother of all Vedas (Veda Mata)",
+        "Sharpens intellect and grants divine wisdom and discrimination",
+        "Purifies the mind, body, and soul of the chanter",
+        "Removes ignorance and leads to spiritual enlightenment",
+        "Grants health, vitality, and protection from negative energies",
+        "Daily chanting at Sandhya time brings immense spiritual merit"
+    ],
+    "deity": "gayatri",
+    "secondaryDeities": [],
+    "days": [
+        "sunday"
+    ],
+    "festivals": [],
+    "purposes": [
+        "spiritual-growth",
+        "knowledge",
+        "japa"
+    ],
+    "readingTimeMinutes": 3,
+    "seoDescription": "Gayatri Mantra in Sanskrit with viniyog, dhyana, Hindi meaning and transliteration. Sacred Vedic mantra for wisdom and spiritual growth.",
+    "verseCount": 1,
+    "source": "Rigveda (3.62.10)",
+    "createdAt": "2026-03-28T00:00:00Z",
+    "updatedAt": "2026-03-29T00:00:00Z",
+    "isPublished": true
 }

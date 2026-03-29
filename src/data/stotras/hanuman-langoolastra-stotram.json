@@ -1,29 +1,41 @@
 {
-  "id": "565",
-  "title": "हनुमान लाङ्गूलास्त्र स्तोत्रम्",
-  "titleEn": "Hanuman Langoolastra Stotram",
-  "slug": "hanuman-langoolastra-stotram",
-  "devanagariText": "॥ श्री हनुमान लाङ्गूलास्त्र स्तोत्रम् ॥\n\nॐ अस्य श्री हनुमल्लाङ्गूलास्त्रस्तोत्रस्य श्रीरामचन्द्र ऋषिः।\nअनुष्टुप् छन्दः। श्रीहनुमान् देवता। मम सर्वभयनिवारणार्थे जपे विनियोगः।\n\nॐ ह्रीं ह्रौं हनुमते लाङ्गूलास्त्राय फट्।\n\nॐ नमो भगवते पञ्चवक्त्रहनूमते\nप्रकटपराक्रमाय प्रबलबाहवे।\nभूतप्रेतपिशाचब्रह्मराक्षसानपसारय अपसारय॥१॥\n\nहनुमल्लाङ्गूलाग्निज्वालामालाविभूषितम्।\nलङ्कापुरीदहनकं वन्दे लाङ्गूलवीरकम्॥२॥\n\nयस्य लाङ्गूलपवने दह्यन्ते रावणालयाः।\nतं हनूमन्तमुग्रं च लाङ्गूलास्त्रं नमाम्यहम्॥३॥\n\nउद्यद्दिनकरसम्प्रभं महाबलपराक्रमम्।\nलाङ्गूलेनाहतं शत्रून् हनूमन्तं नमाम्यहम्॥४॥\n\nअग्निज्वालासमायुक्तं लाङ्गूलं यस्य शोभते।\nतं वायुपुत्रमुग्रं च लाङ्गूलास्त्रं नमाम्यहम्॥५॥\n\nशत्रून्सन्तापयामास लाङ्गूलेन महाबलः।\nलङ्कां प्रदग्धवान्यस्तु तमहं प्रणमाम्यहम्॥६॥\n\nलाङ्गूलास्त्रमिदं पुण्यं यः पठेन्नियतः शुचिः।\nशत्रवो नश्यन्ति तस्य हनूमत्प्रसादतः॥७॥\n\n॥ इति श्री हनुमान लाङ्गूलास्त्र स्तोत्रम् सम्पूर्णम् ॥",
-  "transliteration": "|| Shri Hanuman Langoolastra Stotram ||\n\nOm Asya Shri Hanumal-Langoolastra-stotrasya Shri Ramachandra Rishih.\nAnushtup Chhandah. Shri Hanuman Devata. Mama Sarva-bhaya-nivaranaarthe jape Viniyogah.\n\nOm Hrim Hraum Hanumate Langoolastraya Phat.\n\nOm Namo Bhagavate Pancha-vaktra-Hanumate\nPrakata-parakramaya Prabala-bahave.\nBhuta-preta-pishacha-Brahma-rakshasaan apasaraya apasaraya.||1||\n\nHanumal-langula-agni-jwala-mala-vibhushitam.\nLanka-puri-dahanakam Vande Langula-virakam.||2||\n\nYasya Langula-pavane dahyante Ravanalayah.\nTam Hanumantam-ugram cha Langulastram namamyaham.||3||\n\nUdyad-dinakara-samprabham Maha-bala-parakramam.\nLangulenahatam shatrun Hanumantam namamyaham.||4||\n\nAgni-jwala-samayuktam Langulam yasya shobhate.\nTam Vayu-putram-ugram cha Langulastram namamyaham.||5||\n\nShatrun santapayamasa Langulena Mahabalah.\nLankam pradagdhavan-yastu tam-aham pranamamy-aham.||6||\n\nLangulastram-idam punyam yah pathen-niyatah shuchih.\nShatravo nashyanti tasya Hanumat-prasadatah.||7||\n\n|| Iti Shri Hanuman Langoolastra Stotram Sampurnam ||",
-  "hindiMeaning": "हनुमान लाङ्गूलास्त्र स्तोत्र में हनुमानजी की पूँछ (लाङ्गूल) को अस्त्र के रूप में वर्णित किया गया है। जिस पूँछ की अग्नि ज्वाला से लंका पुरी जल गई, उन उग्र हनुमानजी को नमस्कार है। इस स्तोत्र के पाठ से शत्रुओं का नाश होता है, भूत-प्रेत-पिशाच दूर भागते हैं और हनुमानजी की कृपा प्राप्त होती है।",
-  "viniyog": null,
-  "benefits": [
-    "Powerful protection against enemies and evil forces",
-    "Destroys the effect of black magic and evil spirits",
-    "Invokes the fierce protective form of Hanuman",
-    "Removes all fears and provides courage",
-    "Burns away negativity like Lanka was burned"
-  ],
-  "deity": "hanuman",
-  "secondaryDeities": ["rama"],
-  "days": ["tuesday", "saturday"],
-  "festivals": ["hanuman-jayanti"],
-  "purposes": ["protection", "enemy-removal", "fear-removal", "devotion"],
-  "readingTimeMinutes": 7,
-  "seoDescription": "Read Hanuman Langoolastra Stotram in Sanskrit with Hindi meaning. Powerful prayer invoking Hanuman's tail-weapon for protection from enemies.",
-  "verseCount": 7,
-  "source": "Traditional",
-  "createdAt": "2026-03-29T00:00:00Z",
-  "updatedAt": "2026-03-29T00:00:00Z",
-  "isPublished": true
+    "id": "263",
+    "title": "हनुमान लाङ्गूलास्त्र स्तोत्रम्",
+    "titleEn": "Hanuman Langoolastra Stotram",
+    "slug": "hanuman-langoolastra-stotram",
+    "devanagariText": "॥ श्री हनुमान लाङ्गूलास्त्र स्तोत्रम् ॥\n\nॐ अस्य श्री हनुमल्लाङ्गूलास्त्रस्तोत्रस्य श्रीरामचन्द्र ऋषिः।\nअनुष्टुप् छन्दः। श्रीहनुमान् देवता। मम सर्वभयनिवारणार्थे जपे विनियोगः।\n\nॐ ह्रीं ह्रौं हनुमते लाङ्गूलास्त्राय फट्।\n\nॐ नमो भगवते पञ्चवक्त्रहनूमते\nप्रकटपराक्रमाय प्रबलबाहवे।\nभूतप्रेतपिशाचब्रह्मराक्षसानपसारय अपसारय॥१॥\n\nहनुमल्लाङ्गूलाग्निज्वालामालाविभूषितम्।\nलङ्कापुरीदहनकं वन्दे लाङ्गूलवीरकम्॥२॥\n\nयस्य लाङ्गूलपवने दह्यन्ते रावणालयाः।\nतं हनूमन्तमुग्रं च लाङ्गूलास्त्रं नमाम्यहम्॥३॥\n\nउद्यद्दिनकरसम्प्रभं महाबलपराक्रमम्।\nलाङ्गूलेनाहतं शत्रून् हनूमन्तं नमाम्यहम्॥४॥\n\nअग्निज्वालासमायुक्तं लाङ्गूलं यस्य शोभते।\nतं वायुपुत्रमुग्रं च लाङ्गूलास्त्रं नमाम्यहम्॥५॥\n\nशत्रून्सन्तापयामास लाङ्गूलेन महाबलः।\nलङ्कां प्रदग्धवान्यस्तु तमहं प्रणमाम्यहम्॥६॥\n\nलाङ्गूलास्त्रमिदं पुण्यं यः पठेन्नियतः शुचिः।\nशत्रवो नश्यन्ति तस्य हनूमत्प्रसादतः॥७॥\n\n॥ इति श्री हनुमान लाङ्गूलास्त्र स्तोत्रम् सम्पूर्णम् ॥",
+    "transliteration": "|| Shri Hanuman Langoolastra Stotram ||\n\nOm Asya Shri Hanumal-Langoolastra-stotrasya Shri Ramachandra Rishih.\nAnushtup Chhandah. Shri Hanuman Devata. Mama Sarva-bhaya-nivaranaarthe jape Viniyogah.\n\nOm Hrim Hraum Hanumate Langoolastraya Phat.\n\nOm Namo Bhagavate Pancha-vaktra-Hanumate\nPrakata-parakramaya Prabala-bahave.\nBhuta-preta-pishacha-Brahma-rakshasaan apasaraya apasaraya.||1||\n\nHanumal-langula-agni-jwala-mala-vibhushitam.\nLanka-puri-dahanakam Vande Langula-virakam.||2||\n\nYasya Langula-pavane dahyante Ravanalayah.\nTam Hanumantam-ugram cha Langulastram namamyaham.||3||\n\nUdyad-dinakara-samprabham Maha-bala-parakramam.\nLangulenahatam shatrun Hanumantam namamyaham.||4||\n\nAgni-jwala-samayuktam Langulam yasya shobhate.\nTam Vayu-putram-ugram cha Langulastram namamyaham.||5||\n\nShatrun santapayamasa Langulena Mahabalah.\nLankam pradagdhavan-yastu tam-aham pranamamy-aham.||6||\n\nLangulastram-idam punyam yah pathen-niyatah shuchih.\nShatravo nashyanti tasya Hanumat-prasadatah.||7||\n\n|| Iti Shri Hanuman Langoolastra Stotram Sampurnam ||",
+    "hindiMeaning": "हनुमान लाङ्गूलास्त्र स्तोत्र में हनुमानजी की पूँछ (लाङ्गूल) को अस्त्र के रूप में वर्णित किया गया है। जिस पूँछ की अग्नि ज्वाला से लंका पुरी जल गई, उन उग्र हनुमानजी को नमस्कार है। इस स्तोत्र के पाठ से शत्रुओं का नाश होता है, भूत-प्रेत-पिशाच दूर भागते हैं और हनुमानजी की कृपा प्राप्त होती है।",
+    "viniyog": null,
+    "benefits": [
+        "Powerful protection against enemies and evil forces",
+        "Destroys the effect of black magic and evil spirits",
+        "Invokes the fierce protective form of Hanuman",
+        "Removes all fears and provides courage",
+        "Burns away negativity like Lanka was burned"
+    ],
+    "deity": "hanuman",
+    "secondaryDeities": [
+        "rama"
+    ],
+    "days": [
+        "tuesday",
+        "saturday"
+    ],
+    "festivals": [
+        "hanuman-jayanti"
+    ],
+    "purposes": [
+        "protection",
+        "enemy-removal",
+        "fear-removal",
+        "devotion"
+    ],
+    "readingTimeMinutes": 7,
+    "seoDescription": "Read Hanuman Langoolastra Stotram in Sanskrit with Hindi meaning. Powerful prayer invoking Hanuman's tail-weapon for protection from enemies.",
+    "verseCount": 7,
+    "source": "Traditional",
+    "createdAt": "2026-03-29T00:00:00Z",
+    "updatedAt": "2026-03-29T00:00:00Z",
+    "isPublished": true
 }

@@ -1,30 +1,44 @@
 {
-  "id": "343",
-  "title": "कृष्ण मङ्गलाष्टकम्",
-  "titleEn": "Krishna Mangalashtakam",
-  "slug": "krishna-mangalashtakam",
-  "devanagariText": "॥ श्री कृष्ण मङ्गलाष्टकम् ॥\n\nवसुदेवसुतं देवं कंसचाणूरमर्दनम्।\nदेवकीपरमानन्दं कृष्णं वन्दे जगद्गुरुम्।\nश्रीकृष्णाय मङ्गलम्॥१॥\n\nनन्दगोपकुमाराय गोविन्दाय नमो नमः।\nगोपीजनवल्लभाय गोपालाय च मङ्गलम्॥२॥\n\nवेणुवाद्यविशारदाय गोपालाय नमो नमः।\nरुक्मिणीशाय राधेशाय कृष्णाय च सुमङ्गलम्॥३॥\n\nपीताम्बरधरं देवं कौस्तुभोद्भासिताङ्गदम्।\nमुरलीधररूपाय कृष्णाय च सुमङ्गलम्॥४॥\n\nमथुरानाथमीशानं वृन्दावनविहारिणम्।\nगोवर्धनगिरिधारिणं कृष्णाय च सुमङ्गलम्॥५॥\n\nकालियफणिमर्दनं बकासुरविमर्दनम्।\nपूतनाप्राणहारिणं कृष्णाय च सुमङ्गलम्॥६॥\n\nरासलीलाविलासाय यमुनातीरवासिने।\nबांसुरीधरमोहनाय कृष्णाय च सुमङ्गलम्॥७॥\n\nपार्थसारथये नित्यं गीताज्ञानप्रदायिने।\nविश्वरूपप्रदर्शाय कृष्णाय च सुमङ्गलम्॥८॥\n\nमङ्गलाष्टकमेतद्यो कृष्णस्य प्रपठेन्नरः।\nसर्वपापविनिर्मुक्तो गोलोकं स गमिष्यति॥\n\n॥ इति श्री कृष्ण मङ्गलाष्टकं सम्पूर्णम् ॥",
-  "transliteration": "|| Shri Krishna Mangalashtakam ||\n\nVasudevasutam Devam Kamsa-chanura-mardanam.\nDevaki-paramananadam Krishnam Vande Jagadgurum.\nShri Krishnaya Mangalam.||1||\n\nNandagopa-kumaraya Govindaya Namo Namah.\nGopi-jana-vallabhaya Gopalaya Cha Mangalam.||2||\n\nVenu-vadya-visharadaya Gopalaya Namo Namah.\nRukminishaya Radheshaya Krishnaya Cha Sumangalam.||3||\n\nPitambara-dharam Devam Kaustubhodbhasitangadam.\nMurali-dhara-rupaya Krishnaya Cha Sumangalam.||4||\n\nMathura-natham-Ishanam Vrindavana-viharinam.\nGovardhana-giridharim Krishnaya Cha Sumangalam.||5||\n\nKaliya-phani-mardanam Bakasura-vimardanam.\nPutana-prana-harinam Krishnaya Cha Sumangalam.||6||\n\nRasa-leela-vilasaya Yamuna-tira-vasine.\nBansuri-dhara-mohanaya Krishnaya Cha Sumangalam.||7||\n\nPartha-sarathaye Nityam Gita-jnana-pradayine.\nVishvarupa-pradarshaya Krishnaya Cha Sumangalam.||8||\n\nMangalashtakam-Etadyo Krishnasya Prapathennnarah.\nSarva-papa-vinirmukto Golokam Sa Gamishyati.\n\n|| Iti Shri Krishna Mangalashtakam Sampoornam ||",
-  "hindiMeaning": "१. वसुदेवपुत्र, कंसचाणूरमर्दन, देवकी के परमानन्द, जगद्गुरु श्रीकृष्ण को मंगल।\n\n२. नन्दगोपकुमार, गोविन्द, गोपीजनवल्लभ, गोपाल को मंगल नमस्कार।\n\n३. वेणुवादनविशारद, गोपाल, रुक्मिणीश, राधेश कृष्ण को सुमंगल।\n\n४. पीताम्बरधारी, कौस्तुभमणि से दीप्त, मुरलीधर कृष्ण को सुमंगल।\n\n५. मथुरानाथ, वृन्दावनविहारी, गोवर्धनधारी कृष्ण को सुमंगल।\n\n६. कालियनागमर्दन, बकासुरवध, पूतनाप्राणहारी कृष्ण को सुमंगल।\n\n७. रासलीलाविलासी, यमुनातीरवासी, बांसुरीधर मोहन कृष्ण को सुमंगल।\n\n८. पार्थसारथि, गीताज्ञानदाता, विश्वरूपदर्शक कृष्ण को सुमंगल।\n\nजो इस कृष्ण मंगलाष्टक का पाठ करता है, वह सर्वपापमुक्त होकर गोलोक को जाता है।",
-  "viniyog": null,
-  "benefits": [
-    "Invokes the auspicious blessings of Lord Krishna",
-    "Covers all leelas from Vrindavan to Kurukshetra",
-    "Grants liberation from all sins and attainment of Goloka",
-    "Ideal for Janmashtami and Krishna-related festivals",
-    "Fills the heart with devotion and divine love",
-    "Powerful for new beginnings and auspicious occasions"
-  ],
-  "deity": "krishna",
-  "secondaryDeities": ["radha", "rukmini"],
-  "days": ["wednesday"],
-  "festivals": ["janmashtami", "holi"],
-  "purposes": ["auspiciousness", "devotion", "love", "protection", "moksha"],
-  "readingTimeMinutes": 5,
-  "seoDescription": "Read Krishna Mangalashtakam in Sanskrit with Hindi meaning. Eight auspicious verses praising Lord Krishna's divine leelas and blessings.",
-  "verseCount": 8,
-  "source": "Bhagavata Purana tradition",
-  "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
-  "isPublished": true
+    "id": "347",
+    "title": "कृष्ण मङ्गलाष्टकम्",
+    "titleEn": "Krishna Mangalashtakam",
+    "slug": "krishna-mangalashtakam",
+    "devanagariText": "॥ श्री कृष्ण मङ्गलाष्टकम् ॥\n\nवसुदेवसुतं देवं कंसचाणूरमर्दनम्।\nदेवकीपरमानन्दं कृष्णं वन्दे जगद्गुरुम्।\nश्रीकृष्णाय मङ्गलम्॥१॥\n\nनन्दगोपकुमाराय गोविन्दाय नमो नमः।\nगोपीजनवल्लभाय गोपालाय च मङ्गलम्॥२॥\n\nवेणुवाद्यविशारदाय गोपालाय नमो नमः।\nरुक्मिणीशाय राधेशाय कृष्णाय च सुमङ्गलम्॥३॥\n\nपीताम्बरधरं देवं कौस्तुभोद्भासिताङ्गदम्।\nमुरलीधररूपाय कृष्णाय च सुमङ्गलम्॥४॥\n\nमथुरानाथमीशानं वृन्दावनविहारिणम्।\nगोवर्धनगिरिधारिणं कृष्णाय च सुमङ्गलम्॥५॥\n\nकालियफणिमर्दनं बकासुरविमर्दनम्।\nपूतनाप्राणहारिणं कृष्णाय च सुमङ्गलम्॥६॥\n\nरासलीलाविलासाय यमुनातीरवासिने।\nबांसुरीधरमोहनाय कृष्णाय च सुमङ्गलम्॥७॥\n\nपार्थसारथये नित्यं गीताज्ञानप्रदायिने।\nविश्वरूपप्रदर्शाय कृष्णाय च सुमङ्गलम्॥८॥\n\nमङ्गलाष्टकमेतद्यो कृष्णस्य प्रपठेन्नरः।\nसर्वपापविनिर्मुक्तो गोलोकं स गमिष्यति॥\n\n॥ इति श्री कृष्ण मङ्गलाष्टकं सम्पूर्णम् ॥",
+    "transliteration": "|| Shri Krishna Mangalashtakam ||\n\nVasudevasutam Devam Kamsa-chanura-mardanam.\nDevaki-paramananadam Krishnam Vande Jagadgurum.\nShri Krishnaya Mangalam.||1||\n\nNandagopa-kumaraya Govindaya Namo Namah.\nGopi-jana-vallabhaya Gopalaya Cha Mangalam.||2||\n\nVenu-vadya-visharadaya Gopalaya Namo Namah.\nRukminishaya Radheshaya Krishnaya Cha Sumangalam.||3||\n\nPitambara-dharam Devam Kaustubhodbhasitangadam.\nMurali-dhara-rupaya Krishnaya Cha Sumangalam.||4||\n\nMathura-natham-Ishanam Vrindavana-viharinam.\nGovardhana-giridharim Krishnaya Cha Sumangalam.||5||\n\nKaliya-phani-mardanam Bakasura-vimardanam.\nPutana-prana-harinam Krishnaya Cha Sumangalam.||6||\n\nRasa-leela-vilasaya Yamuna-tira-vasine.\nBansuri-dhara-mohanaya Krishnaya Cha Sumangalam.||7||\n\nPartha-sarathaye Nityam Gita-jnana-pradayine.\nVishvarupa-pradarshaya Krishnaya Cha Sumangalam.||8||\n\nMangalashtakam-Etadyo Krishnasya Prapathennnarah.\nSarva-papa-vinirmukto Golokam Sa Gamishyati.\n\n|| Iti Shri Krishna Mangalashtakam Sampoornam ||",
+    "hindiMeaning": "१. वसुदेवपुत्र, कंसचाणूरमर्दन, देवकी के परमानन्द, जगद्गुरु श्रीकृष्ण को मंगल।\n\n२. नन्दगोपकुमार, गोविन्द, गोपीजनवल्लभ, गोपाल को मंगल नमस्कार।\n\n३. वेणुवादनविशारद, गोपाल, रुक्मिणीश, राधेश कृष्ण को सुमंगल।\n\n४. पीताम्बरधारी, कौस्तुभमणि से दीप्त, मुरलीधर कृष्ण को सुमंगल।\n\n५. मथुरानाथ, वृन्दावनविहारी, गोवर्धनधारी कृष्ण को सुमंगल।\n\n६. कालियनागमर्दन, बकासुरवध, पूतनाप्राणहारी कृष्ण को सुमंगल।\n\n७. रासलीलाविलासी, यमुनातीरवासी, बांसुरीधर मोहन कृष्ण को सुमंगल।\n\n८. पार्थसारथि, गीताज्ञानदाता, विश्वरूपदर्शक कृष्ण को सुमंगल।\n\nजो इस कृष्ण मंगलाष्टक का पाठ करता है, वह सर्वपापमुक्त होकर गोलोक को जाता है।",
+    "viniyog": null,
+    "benefits": [
+        "Invokes the auspicious blessings of Lord Krishna",
+        "Covers all leelas from Vrindavan to Kurukshetra",
+        "Grants liberation from all sins and attainment of Goloka",
+        "Ideal for Janmashtami and Krishna-related festivals",
+        "Fills the heart with devotion and divine love",
+        "Powerful for new beginnings and auspicious occasions"
+    ],
+    "deity": "krishna",
+    "secondaryDeities": [
+        "radha",
+        "rukmini"
+    ],
+    "days": [
+        "wednesday"
+    ],
+    "festivals": [
+        "janmashtami",
+        "holi"
+    ],
+    "purposes": [
+        "auspiciousness",
+        "devotion",
+        "love",
+        "protection",
+        "moksha"
+    ],
+    "readingTimeMinutes": 5,
+    "seoDescription": "Read Krishna Mangalashtakam in Sanskrit with Hindi meaning. Eight auspicious verses praising Lord Krishna's divine leelas and blessings.",
+    "verseCount": 8,
+    "source": "Bhagavata Purana tradition",
+    "createdAt": "2026-03-28T00:00:00Z",
+    "updatedAt": "2026-03-28T00:00:00Z",
+    "isPublished": true
 }

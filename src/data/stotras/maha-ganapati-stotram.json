@@ -1,29 +1,41 @@
 {
-  "id": "571",
-  "title": "महा गणपति स्तोत्रम्",
-  "titleEn": "Maha Ganapati Stotram",
-  "slug": "maha-ganapati-stotram",
-  "devanagariText": "॥ श्री महा गणपति स्तोत्रम् ॥\n\nॐ श्रीं ह्रीं क्लीं ग्लौं गं गणपतये वर वरद सर्वजनं मे वशमानय स्वाहा।\n\nनमस्ते गणनाथाय सिद्धिबुद्धिसमन्विताय।\nनमस्ते महागणपतये सर्वविघ्नविनाशाय॥१॥\n\nएकदन्तं चतुर्हस्तं पाशमङ्कुशधारिणम्।\nरदं च वरदं हस्तैर्बिभ्राणं मूषकध्वजम्॥२॥\n\nरक्तं लम्बोदरं शूर्पकर्णकं रक्तवाससम्।\nरक्तगन्धानुलिप्ताङ्गं रक्तपुष्पैः सुपूजितम्॥३॥\n\nभक्तानुकम्पिनं देवं जगत्कारणमच्युतम्।\nआविर्भूतं च सृष्ट्यादौ प्रकृतेः पुरुषात्परम्॥४॥\n\nमहागणपतिं देवं महादेवसुतं प्रभुम्।\nमहाविघ्नविनाशाय महादेवं नमाम्यहम्॥५॥\n\nदशबाहुं त्रिनेत्रं च पञ्चबाणधनुर्धरम्।\nपाशाङ्कुशाभयवरं कमलं शूलमेव च॥६॥\n\nचक्रं च रत्नकुम्भं च दधानं भूषणान्वितम्।\nमहागणपतिं ध्यायेत्सर्वसिद्ध्यर्थसाधकम्॥७॥\n\nमहागणपतिस्तोत्रं यः पठेद्भक्तिसंयुतः।\nसर्वसिद्धिमवाप्नोति नात्र कार्या विचारणा॥८॥\n\n॥ इति श्री महा गणपति स्तोत्रम् सम्पूर्णम् ॥",
-  "transliteration": "|| Shri Maha Ganapati Stotram ||\n\nOm Shrim Hrim Klim Glaum Gam Ganapataye Vara Varada Sarvajanam me Vashamanaya Svaha.\n\nNamaste Gana-nathaya Siddhi-Buddhi-samanvitaya.\nNamaste Maha-Ganapataye Sarva-vighna-vinashaya.||1||\n\nEkadantam Chatur-hastam Pasha-ankusha-dharinam.\nRadam cha Varadam hastaih bibhranam Mushaka-dhvajam.||2||\n\nRaktam Lambodaram Shurpa-karnakam Rakta-vasasam.\nRakta-gandhanuliptangam Rakta-pushpaih supujitam.||3||\n\nBhaktanukampinam Devam Jagat-karanam-achyutam.\nAvirbhutam cha srishtyadau Prakriteh Purushat-param.||4||\n\nMaha-Ganapatim Devam Mahadeva-sutam Prabhum.\nMaha-vighna-vinashaya Maha-devam namamyaham.||5||\n\nDasha-bahum Trinetram cha Pancha-bana-dhanurdaram.\nPashankushabhaya-varam Kamalam Shulam-eva cha.||6||\n\nChakram cha Ratna-kumbham cha dadhanam bhushananvitam.\nMaha-Ganapatim dhyayet sarva-siddhyartha-sadhakam.||7||\n\nMaha-Ganapati-stotram yah pathed bhakti-samyutah.\nSarva-siddhim avapnoti natra karya vicharana.||8||\n\n|| Iti Shri Maha Ganapati Stotram Sampurnam ||",
-  "hindiMeaning": "महागणपति स्तोत्र में गणेशजी के विशेष तान्त्रिक स्वरूप का ध्यान किया जाता है। दस भुजाओं वाले, तीन नेत्रों वाले, पाश-अंकुश-धनुष-बाण-कमल-शूल-चक्र-रत्नकुम्भ धारण करने वाले, लाल वस्त्र पहनने वाले, लाल गन्ध से लिप्त, लाल पुष्पों से पूजित, भक्तों पर कृपा करने वाले, जगत के कारण, अच्युत, सृष्टि के आदि में प्रकट हुए महागणपति का ध्यान करें। इस स्तोत्र के भक्तिपूर्वक पाठ से सर्वसिद्धि प्राप्त होती है।",
-  "viniyog": null,
-  "benefits": [
-    "Invokes Maha Ganapati - the tantric form with ten arms",
-    "Bestows all siddhis without doubt",
-    "Extremely powerful for removing major obstacles",
-    "Grants success in all spiritual practices (sadhana)",
-    "Combines both Vedic and Tantric worship of Ganesha"
-  ],
-  "deity": "ganesha",
-  "secondaryDeities": ["shiva", "parvati"],
-  "days": ["wednesday"],
-  "festivals": ["ganesh-chaturthi"],
-  "purposes": ["obstacle-removal", "devotion", "spiritual-growth", "success"],
-  "readingTimeMinutes": 7,
-  "seoDescription": "Read Maha Ganapati Stotram in Sanskrit with Hindi meaning. Powerful tantric hymn to ten-armed Ganesha for obstacle removal and siddhis.",
-  "verseCount": 8,
-  "source": "Tantric Tradition",
-  "createdAt": "2026-03-29T00:00:00Z",
-  "updatedAt": "2026-03-29T00:00:00Z",
-  "isPublished": true
+    "id": "384",
+    "title": "महा गणपति स्तोत्रम्",
+    "titleEn": "Maha Ganapati Stotram",
+    "slug": "maha-ganapati-stotram",
+    "devanagariText": "॥ श्री महा गणपति स्तोत्रम् ॥\n\nॐ श्रीं ह्रीं क्लीं ग्लौं गं गणपतये वर वरद सर्वजनं मे वशमानय स्वाहा।\n\nनमस्ते गणनाथाय सिद्धिबुद्धिसमन्विताय।\nनमस्ते महागणपतये सर्वविघ्नविनाशाय॥१॥\n\nएकदन्तं चतुर्हस्तं पाशमङ्कुशधारिणम्।\nरदं च वरदं हस्तैर्बिभ्राणं मूषकध्वजम्॥२॥\n\nरक्तं लम्बोदरं शूर्पकर्णकं रक्तवाससम्।\nरक्तगन्धानुलिप्ताङ्गं रक्तपुष्पैः सुपूजितम्॥३॥\n\nभक्तानुकम्पिनं देवं जगत्कारणमच्युतम्।\nआविर्भूतं च सृष्ट्यादौ प्रकृतेः पुरुषात्परम्॥४॥\n\nमहागणपतिं देवं महादेवसुतं प्रभुम्।\nमहाविघ्नविनाशाय महादेवं नमाम्यहम्॥५॥\n\nदशबाहुं त्रिनेत्रं च पञ्चबाणधनुर्धरम्।\nपाशाङ्कुशाभयवरं कमलं शूलमेव च॥६॥\n\nचक्रं च रत्नकुम्भं च दधानं भूषणान्वितम्।\nमहागणपतिं ध्यायेत्सर्वसिद्ध्यर्थसाधकम्॥७॥\n\nमहागणपतिस्तोत्रं यः पठेद्भक्तिसंयुतः।\nसर्वसिद्धिमवाप्नोति नात्र कार्या विचारणा॥८॥\n\n॥ इति श्री महा गणपति स्तोत्रम् सम्पूर्णम् ॥",
+    "transliteration": "|| Shri Maha Ganapati Stotram ||\n\nOm Shrim Hrim Klim Glaum Gam Ganapataye Vara Varada Sarvajanam me Vashamanaya Svaha.\n\nNamaste Gana-nathaya Siddhi-Buddhi-samanvitaya.\nNamaste Maha-Ganapataye Sarva-vighna-vinashaya.||1||\n\nEkadantam Chatur-hastam Pasha-ankusha-dharinam.\nRadam cha Varadam hastaih bibhranam Mushaka-dhvajam.||2||\n\nRaktam Lambodaram Shurpa-karnakam Rakta-vasasam.\nRakta-gandhanuliptangam Rakta-pushpaih supujitam.||3||\n\nBhaktanukampinam Devam Jagat-karanam-achyutam.\nAvirbhutam cha srishtyadau Prakriteh Purushat-param.||4||\n\nMaha-Ganapatim Devam Mahadeva-sutam Prabhum.\nMaha-vighna-vinashaya Maha-devam namamyaham.||5||\n\nDasha-bahum Trinetram cha Pancha-bana-dhanurdaram.\nPashankushabhaya-varam Kamalam Shulam-eva cha.||6||\n\nChakram cha Ratna-kumbham cha dadhanam bhushananvitam.\nMaha-Ganapatim dhyayet sarva-siddhyartha-sadhakam.||7||\n\nMaha-Ganapati-stotram yah pathed bhakti-samyutah.\nSarva-siddhim avapnoti natra karya vicharana.||8||\n\n|| Iti Shri Maha Ganapati Stotram Sampurnam ||",
+    "hindiMeaning": "महागणपति स्तोत्र में गणेशजी के विशेष तान्त्रिक स्वरूप का ध्यान किया जाता है। दस भुजाओं वाले, तीन नेत्रों वाले, पाश-अंकुश-धनुष-बाण-कमल-शूल-चक्र-रत्नकुम्भ धारण करने वाले, लाल वस्त्र पहनने वाले, लाल गन्ध से लिप्त, लाल पुष्पों से पूजित, भक्तों पर कृपा करने वाले, जगत के कारण, अच्युत, सृष्टि के आदि में प्रकट हुए महागणपति का ध्यान करें। इस स्तोत्र के भक्तिपूर्वक पाठ से सर्वसिद्धि प्राप्त होती है।",
+    "viniyog": null,
+    "benefits": [
+        "Invokes Maha Ganapati - the tantric form with ten arms",
+        "Bestows all siddhis without doubt",
+        "Extremely powerful for removing major obstacles",
+        "Grants success in all spiritual practices (sadhana)",
+        "Combines both Vedic and Tantric worship of Ganesha"
+    ],
+    "deity": "ganesha",
+    "secondaryDeities": [
+        "shiva",
+        "parvati"
+    ],
+    "days": [
+        "wednesday"
+    ],
+    "festivals": [
+        "ganesh-chaturthi"
+    ],
+    "purposes": [
+        "obstacle-removal",
+        "devotion",
+        "spiritual-growth",
+        "success"
+    ],
+    "readingTimeMinutes": 7,
+    "seoDescription": "Read Maha Ganapati Stotram in Sanskrit with Hindi meaning. Powerful tantric hymn to ten-armed Ganesha for obstacle removal and siddhis.",
+    "verseCount": 8,
+    "source": "Tantric Tradition",
+    "createdAt": "2026-03-29T00:00:00Z",
+    "updatedAt": "2026-03-29T00:00:00Z",
+    "isPublished": true
 }

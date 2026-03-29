@@ -1,30 +1,47 @@
 {
-  "id": "546",
-  "title": "श्री हरि नाम माला स्तोत्रम्",
-  "titleEn": "Hari Nama Mala Stotram",
-  "slug": "hari-nama-mala-stotram",
-  "devanagariText": "केशवं माधवं गोविन्दं वासुदेवं जनार्दनम्।\nविष्णुं श्रीधरं हृषीकेशं पद्मनाभं दामोदरम्॥१॥\n\nसंकर्षणं वामनं च श्रीधरं पुरुषोत्तमम्।\nवैकुण्ठनाथं श्रीपतिं गोपालं गरुडध्वजम्॥२॥\n\nनारायणं नृसिंहं च वाराहं परमेश्वरम्।\nअनन्तं शेषशायिनमच्युतं मधुसूदनम्॥३॥\n\nत्रिविक्रमं श्रीनिवासं वैकुण्ठं कमलापतिम्।\nरामं दाशरथिं कृष्णं कंसारिं देवकीसुतम्॥४॥\n\nविश्वरूपं विश्वमूर्तिं विश्वव्यापिनमव्ययम्।\nमुकुन्दं हरिं ईशानं जगन्नाथं जगद्गुरुम्॥५॥\n\nपीताम्बरं चतुर्बाहुं शङ्खचक्रगदाधरम्।\nश्रीवत्साङ्कितवक्षस्कं कौस्तुभाभरणं प्रभुम्॥६॥\n\nवनमालिनमानन्दं भक्तानामभयप्रदम्।\nसहस्रशीर्षं पुरुषं सहस्राक्षं सहस्रपात्॥७॥\n\nनामानामेतां मालां यः पठेद्भक्तिसंयुतः।\nसर्वपापविनिर्मुक्तो विष्णुसायुज्यमाप्नुयात्॥८॥\n\n॥ इति श्री हरि नाम माला स्तोत्रं सम्पूर्णम् ॥",
-  "transliteration": "Keshavam Madhavam Govindam Vasudevam Janardanam.\nVishnum Shridharam Hrishikesham Padmanabham Damodaram.||1||\n\nSankarshanam Vamanam Cha Shridharam Purushottamam.\nVaikunthanatham Shripatim Gopalam Garudadhvajam.||2||\n\nNarayanam Nrisimham Cha Varaham Parameshvaram.\nAnantam Sheshashayinam Achyutam Madhusudanam.||3||\n\nTrivikramam Shrinivasam Vaikuntham Kamalapatim.\nRamam Dasharathim Krishnam Kamsarim Devakisutam.||4||\n\nVishvarupam Vishvamurtim Vishvavyapinam Avyayam.\nMukundam Harim Ishanam Jagannatham Jagadgurum.||5||\n\nPitambaram Chaturbahum Shankhachakragadadharam.\nShrivatsankitavakshaskam Kaustubhabharanam Prabhum.||6||\n\nVanamalinam Anandam Bhaktanam Abhayapradam.\nSahasrashirsham Purusham Sahasraksham Sahasrapat.||7||\n\nNamanam Etam Malam Yah Pathed Bhaktisamyutah.\nSarvapapa-Vinirmukto Vishnusayujyam Apnuyat.||8||\n\n|| Iti Shri Hari Nama Mala Stotram Sampurnam ||",
-  "hindiMeaning": "केशव, माधव, गोविन्द, वासुदेव, जनार्दन, विष्णु, श्रीधर, हृषीकेश, पद्मनाभ और दामोदर।\n\nसंकर्षण, वामन, श्रीधर, पुरुषोत्तम, वैकुण्ठनाथ, श्रीपति, गोपाल और गरुडध्वज।\n\nनारायण, नृसिंह, वराह, परमेश्वर, अनन्त, शेषशायी, अच्युत और मधुसूदन।\n\nत्रिविक्रम, श्रीनिवास, वैकुण्ठ, कमलापति, राम, दाशरथि, कृष्ण, कंसारि और देवकीसुत।\n\nविश्वरूप, विश्वमूर्ति, विश्वव्यापी, अव्यय, मुकुन्द, हरि, ईशान, जगन्नाथ और जगद्गुरु।\n\nपीताम्बरधारी, चतुर्बाहु, शंख-चक्र-गदाधर, श्रीवत्स अंकित वक्षस्थल वाले, कौस्तुभाभरण प्रभु।\n\nवनमालिन, आनन्दस्वरूप, भक्तों को अभयदान देने वाले, सहस्र शीर्ष, सहस्र नेत्र, सहस्र पाद पुरुष।\n\nइन नामों की इस माला को जो भक्तिपूर्वक पढ़ता है, वह सर्व पापों से मुक्त होकर विष्णु-सायुज्य प्राप्त करता है।",
-  "viniyog": null,
-  "benefits": [
-    "A garland of Vishnu's most powerful names for daily recitation",
-    "Destroys all sins and purifies the devotee",
-    "Easy to memorize and use as a Japa mala",
-    "Covers all major forms and avatars of Lord Vishnu",
-    "Grants Vishnu Sayujya (complete union with Vishnu)",
-    "Ideal substitute when full Sahasranama is not possible"
-  ],
-  "deity": "vishnu",
-  "secondaryDeities": ["krishna", "rama", "narasimha"],
-  "days": ["wednesday", "thursday", "sunday"],
-  "festivals": ["ekadashi", "vaikuntha-ekadashi", "holi"],
-  "purposes": ["devotion", "spiritual-growth", "protection", "moksha"],
-  "readingTimeMinutes": 5,
-  "seoDescription": "Read Hari Nama Mala Stotram in Sanskrit with Hindi meaning. A garland of Lord Vishnu's sacred names covering all avatars for devotion and liberation.",
-  "verseCount": 8,
-  "source": "Garuda Purana",
-  "createdAt": "2026-03-29T00:00:00Z",
-  "updatedAt": "2026-03-29T00:00:00Z",
-  "isPublished": true
+    "id": "272",
+    "title": "श्री हरि नाम माला स्तोत्रम्",
+    "titleEn": "Hari Nama Mala Stotram",
+    "slug": "hari-nama-mala-stotram",
+    "devanagariText": "केशवं माधवं गोविन्दं वासुदेवं जनार्दनम्।\nविष्णुं श्रीधरं हृषीकेशं पद्मनाभं दामोदरम्॥१॥\n\nसंकर्षणं वामनं च श्रीधरं पुरुषोत्तमम्।\nवैकुण्ठनाथं श्रीपतिं गोपालं गरुडध्वजम्॥२॥\n\nनारायणं नृसिंहं च वाराहं परमेश्वरम्।\nअनन्तं शेषशायिनमच्युतं मधुसूदनम्॥३॥\n\nत्रिविक्रमं श्रीनिवासं वैकुण्ठं कमलापतिम्।\nरामं दाशरथिं कृष्णं कंसारिं देवकीसुतम्॥४॥\n\nविश्वरूपं विश्वमूर्तिं विश्वव्यापिनमव्ययम्।\nमुकुन्दं हरिं ईशानं जगन्नाथं जगद्गुरुम्॥५॥\n\nपीताम्बरं चतुर्बाहुं शङ्खचक्रगदाधरम्।\nश्रीवत्साङ्कितवक्षस्कं कौस्तुभाभरणं प्रभुम्॥६॥\n\nवनमालिनमानन्दं भक्तानामभयप्रदम्।\nसहस्रशीर्षं पुरुषं सहस्राक्षं सहस्रपात्॥७॥\n\nनामानामेतां मालां यः पठेद्भक्तिसंयुतः।\nसर्वपापविनिर्मुक्तो विष्णुसायुज्यमाप्नुयात्॥८॥\n\n॥ इति श्री हरि नाम माला स्तोत्रं सम्पूर्णम् ॥",
+    "transliteration": "Keshavam Madhavam Govindam Vasudevam Janardanam.\nVishnum Shridharam Hrishikesham Padmanabham Damodaram.||1||\n\nSankarshanam Vamanam Cha Shridharam Purushottamam.\nVaikunthanatham Shripatim Gopalam Garudadhvajam.||2||\n\nNarayanam Nrisimham Cha Varaham Parameshvaram.\nAnantam Sheshashayinam Achyutam Madhusudanam.||3||\n\nTrivikramam Shrinivasam Vaikuntham Kamalapatim.\nRamam Dasharathim Krishnam Kamsarim Devakisutam.||4||\n\nVishvarupam Vishvamurtim Vishvavyapinam Avyayam.\nMukundam Harim Ishanam Jagannatham Jagadgurum.||5||\n\nPitambaram Chaturbahum Shankhachakragadadharam.\nShrivatsankitavakshaskam Kaustubhabharanam Prabhum.||6||\n\nVanamalinam Anandam Bhaktanam Abhayapradam.\nSahasrashirsham Purusham Sahasraksham Sahasrapat.||7||\n\nNamanam Etam Malam Yah Pathed Bhaktisamyutah.\nSarvapapa-Vinirmukto Vishnusayujyam Apnuyat.||8||\n\n|| Iti Shri Hari Nama Mala Stotram Sampurnam ||",
+    "hindiMeaning": "केशव, माधव, गोविन्द, वासुदेव, जनार्दन, विष्णु, श्रीधर, हृषीकेश, पद्मनाभ और दामोदर।\n\nसंकर्षण, वामन, श्रीधर, पुरुषोत्तम, वैकुण्ठनाथ, श्रीपति, गोपाल और गरुडध्वज।\n\nनारायण, नृसिंह, वराह, परमेश्वर, अनन्त, शेषशायी, अच्युत और मधुसूदन।\n\nत्रिविक्रम, श्रीनिवास, वैकुण्ठ, कमलापति, राम, दाशरथि, कृष्ण, कंसारि और देवकीसुत।\n\nविश्वरूप, विश्वमूर्ति, विश्वव्यापी, अव्यय, मुकुन्द, हरि, ईशान, जगन्नाथ और जगद्गुरु।\n\nपीताम्बरधारी, चतुर्बाहु, शंख-चक्र-गदाधर, श्रीवत्स अंकित वक्षस्थल वाले, कौस्तुभाभरण प्रभु।\n\nवनमालिन, आनन्दस्वरूप, भक्तों को अभयदान देने वाले, सहस्र शीर्ष, सहस्र नेत्र, सहस्र पाद पुरुष।\n\nइन नामों की इस माला को जो भक्तिपूर्वक पढ़ता है, वह सर्व पापों से मुक्त होकर विष्णु-सायुज्य प्राप्त करता है।",
+    "viniyog": null,
+    "benefits": [
+        "A garland of Vishnu's most powerful names for daily recitation",
+        "Destroys all sins and purifies the devotee",
+        "Easy to memorize and use as a Japa mala",
+        "Covers all major forms and avatars of Lord Vishnu",
+        "Grants Vishnu Sayujya (complete union with Vishnu)",
+        "Ideal substitute when full Sahasranama is not possible"
+    ],
+    "deity": "vishnu",
+    "secondaryDeities": [
+        "krishna",
+        "rama",
+        "narasimha"
+    ],
+    "days": [
+        "wednesday",
+        "thursday",
+        "sunday"
+    ],
+    "festivals": [
+        "ekadashi",
+        "vaikuntha-ekadashi",
+        "holi"
+    ],
+    "purposes": [
+        "devotion",
+        "spiritual-growth",
+        "protection",
+        "moksha"
+    ],
+    "readingTimeMinutes": 5,
+    "seoDescription": "Read Hari Nama Mala Stotram in Sanskrit with Hindi meaning. A garland of Lord Vishnu's sacred names covering all avatars for devotion and liberation.",
+    "verseCount": 8,
+    "source": "Garuda Purana",
+    "createdAt": "2026-03-29T00:00:00Z",
+    "updatedAt": "2026-03-29T00:00:00Z",
+    "isPublished": true
 }

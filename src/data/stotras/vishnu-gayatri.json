@@ -1,51 +1,52 @@
 {
-  "id": "350",
-  "title": "विष्णु गायत्री मन्त्र",
-  "titleEn": "Vishnu Gayatri Mantra",
-  "slug": "vishnu-gayatri",
-  "devanagariText": "॥ श्री विष्णु गायत्री मन्त्रः ॥\n\n॥ ध्यानम् ॥\nशान्ताकारं भुजगशयनं पद्मनाभं सुरेशं\nविश्वाधारं गगनसदृशं मेघवर्णं शुभाङ्गम्।\nलक्ष्मीकान्तं कमलनयनं योगिभिर्ध्यानगम्यं\nवन्दे विष्णुं भवभयहरं सर्वलोकैकनाथम्॥\n\n॥ विष्णु गायत्री ॥\nॐ नारायणाय विद्महे\nवासुदेवाय धीमहि।\nतन्नो विष्णुः प्रचोदयात्॥\n\n॥ अपर विष्णु गायत्री ॥\nॐ श्रीनिवासाय विद्महे\nवैकुण्ठवासिने धीमहि।\nतन्नो विष्णुः प्रचोदयात्॥\n\n॥ चतुर्भुज गायत्री ॥\nॐ चतुर्भुजाय विद्महे\nशङ्खचक्रधराय धीमहि।\nतन्नो विष्णुः प्रचोदयात्॥\n\n॥ फलश्रुति ॥\nविष्णुगायत्रीमेतां यः पठेद्भक्तिमान्नरः।\nसर्वपापविनिर्मुक्तो वैकुण्ठे वसते सदा॥\n\n॥ इति श्री विष्णु गायत्री मन्त्रः सम्पूर्णः ॥",
-  "transliteration": "|| Shri Vishnu Gayatri Mantrah ||\n\n|| Dhyanam ||\nShantakaram Bhujagashayanam Padmanabham Suresham\nVishvadharam Gaganasadrisham Meghavarnam Shubhangam.\nLakshmi-kantam Kamalanayanam Yogibhir-dhyanagamyam\nVande Vishnum Bhavabhayaharam Sarvalokaika-natham.\n\n|| Vishnu Gayatri ||\nOm Narayanaya Vidmahe\nVasudevaya Dheemahi.\nTanno Vishnuh Prachodayat.\n\n|| Apara Vishnu Gayatri ||\nOm Shrinivasaya Vidmahe\nVaikuntha-vasine Dheemahi.\nTanno Vishnuh Prachodayat.\n\n|| Chaturbhuja Gayatri ||\nOm Chaturbhujaya Vidmahe\nShankha-chakra-dharaya Dheemahi.\nTanno Vishnuh Prachodayat.\n\n|| Phalashruti ||\nVishnu-gayatrim-etam Yah Pathad-bhaktiman-narah.\nSarva-papa-vinirmukto Vaikunthe Vasate Sada.\n\n|| Iti Shri Vishnu Gayatri Mantrah Sampurnah ||",
-  "hindiMeaning": "ध्यान: शान्ताकार, शेषनाग पर शयन करने वाले, पद्मनाभ, सुरेश, विश्वाधार, गगन के समान, मेघवर्ण, शुभांग, लक्ष्मीकान्त, कमलनयन, योगियों द्वारा ध्यानगम्य, भवभयहारी, सर्वलोकनाथ विष्णु को वन्दन।\n\nविष्णु गायत्री: हम नारायण को जानते हैं, वासुदेव का ध्यान करते हैं। वे विष्णु हमारी बुद्धि को प्रेरित करें।\n\nअपर गायत्री: हम श्रीनिवास को जानते हैं, वैकुण्ठवासी का ध्यान करते हैं। वे विष्णु हमें प्रेरित करें।\n\nचतुर्भुज गायत्री: हम चतुर्भुज को जानते हैं, शंख-चक्रधारी का ध्यान करते हैं। वे विष्णु हमें प्रेरित करें।\n\nजो भक्तिमान पुरुष इस विष्णु गायत्री का पाठ करता है, वह सर्वपापमुक्त होकर सदा वैकुण्ठ में वास करता है।",
-  "viniyog": {
-    "rishi": "नारायण ऋषि",
-    "chhand": "गायत्री",
-    "devata": "श्री विष्णु (नारायण)",
-    "beej": "ॐ नमो नारायणाय",
-    "shakti": "नारायण शक्ति",
-    "kilak": "वैकुण्ठ प्राप्ति",
-    "shloka": "अस्य श्रीविष्णुगायत्रीमन्त्रस्य नारायण ऋषिः। गायत्री छन्दः। श्री विष्णु (नारायण) देवता। ॐ नमो नारायणाय बीजम्। नारायण शक्तिः। वैकुण्ठ प्राप्ति कीलकम्। श्रीविष्णुप्रीत्यर्थे जपे विनियोगः॥"
-  },
-  "benefits": [
-    "Narayanaya Vidmahe — connects to the supreme preserver aspect",
-    "Three variations covering Narayana, Shrinivasa, and Chaturbhuja forms",
-    "Destroys all sins and grants permanent abode in Vaikuntha",
-    "Powerful for spiritual upliftment and divine protection",
-    "Ideal for Ekadashi, Thursdays, and Vishnu festivals",
-    "Grants peace, prosperity, and moksha"
-  ],
-  "deity": "vishnu",
-  "secondaryDeities": [
-    "lakshmi"
-  ],
-  "days": [
-    "thursday"
-  ],
-  "festivals": [
-    "ekadashi",
-    "vaikuntha-ekadashi"
-  ],
-  "purposes": [
-    "devotion",
-    "moksha",
-    "peace",
-    "protection",
-    "spiritual-growth"
-  ],
-  "readingTimeMinutes": 4,
-  "seoDescription": "Read Vishnu Gayatri Mantra — Narayanaya Vidmahe — with dhyanam in Sanskrit and Hindi meaning. Three powerful Vishnu Gayatri variations.",
-  "verseCount": 5,
-  "source": "Rig Veda / Vishnu Purana",
-  "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
-  "isPublished": true
+    "id": "753",
+    "title": "विष्णु गायत्री मन्त्र",
+    "titleEn": "Vishnu Gayatri Mantra",
+    "slug": "vishnu-gayatri",
+    "devanagariText": "॥ श्री विष्णु गायत्री मन्त्रः ॥\n\n॥ ध्यानम् ॥\nशान्ताकारं भुजगशयनं पद्मनाभं सुरेशं\nविश्वाधारं गगनसदृशं मेघवर्णं शुभाङ्गम्।\nलक्ष्मीकान्तं कमलनयनं योगिभिर्ध्यानगम्यं\nवन्दे विष्णुं भवभयहरं सर्वलोकैकनाथम्॥\n\n॥ विष्णु गायत्री ॥\nॐ नारायणाय विद्महे\nवासुदेवाय धीमहि।\nतन्नो विष्णुः प्रचोदयात्॥\n\n॥ अपर विष्णु गायत्री ॥\nॐ श्रीनिवासाय विद्महे\nवैकुण्ठवासिने धीमहि।\nतन्नो विष्णुः प्रचोदयात्॥\n\n॥ चतुर्भुज गायत्री ॥\nॐ चतुर्भुजाय विद्महे\nशङ्खचक्रधराय धीमहि।\nतन्नो विष्णुः प्रचोदयात्॥\n\n॥ फलश्रुति ॥\nविष्णुगायत्रीमेतां यः पठेद्भक्तिमान्नरः।\nसर्वपापविनिर्मुक्तो वैकुण्ठे वसते सदा॥\n\n॥ इति श्री विष्णु गायत्री मन्त्रः सम्पूर्णः ॥",
+    "transliteration": "|| Shri Vishnu Gayatri Mantrah ||\n\n|| Dhyanam ||\nShantakaram Bhujagashayanam Padmanabham Suresham\nVishvadharam Gaganasadrisham Meghavarnam Shubhangam.\nLakshmi-kantam Kamalanayanam Yogibhir-dhyanagamyam\nVande Vishnum Bhavabhayaharam Sarvalokaika-natham.\n\n|| Vishnu Gayatri ||\nOm Narayanaya Vidmahe\nVasudevaya Dheemahi.\nTanno Vishnuh Prachodayat.\n\n|| Apara Vishnu Gayatri ||\nOm Shrinivasaya Vidmahe\nVaikuntha-vasine Dheemahi.\nTanno Vishnuh Prachodayat.\n\n|| Chaturbhuja Gayatri ||\nOm Chaturbhujaya Vidmahe\nShankha-chakra-dharaya Dheemahi.\nTanno Vishnuh Prachodayat.\n\n|| Phalashruti ||\nVishnu-gayatrim-etam Yah Pathad-bhaktiman-narah.\nSarva-papa-vinirmukto Vaikunthe Vasate Sada.\n\n|| Iti Shri Vishnu Gayatri Mantrah Sampurnah ||",
+    "hindiMeaning": "ध्यान: शान्ताकार, शेषनाग पर शयन करने वाले, पद्मनाभ, सुरेश, विश्वाधार, गगन के समान, मेघवर्ण, शुभांग, लक्ष्मीकान्त, कमलनयन, योगियों द्वारा ध्यानगम्य, भवभयहारी, सर्वलोकनाथ विष्णु को वन्दन।\n\nविष्णु गायत्री: हम नारायण को जानते हैं, वासुदेव का ध्यान करते हैं। वे विष्णु हमारी बुद्धि को प्रेरित करें।\n\nअपर गायत्री: हम श्रीनिवास को जानते हैं, वैकुण्ठवासी का ध्यान करते हैं। वे विष्णु हमें प्रेरित करें।\n\nचतुर्भुज गायत्री: हम चतुर्भुज को जानते हैं, शंख-चक्रधारी का ध्यान करते हैं। वे विष्णु हमें प्रेरित करें।\n\nजो भक्तिमान पुरुष इस विष्णु गायत्री का पाठ करता है, वह सर्वपापमुक्त होकर सदा वैकुण्ठ में वास करता है।",
+    "viniyog": {
+        "rishi": "नारायण ऋषि",
+        "chhand": "गायत्री",
+        "devata": "श्री विष्णु (नारायण)",
+        "beej": "ॐ नमो नारायणाय",
+        "shakti": "नारायण शक्ति",
+        "kilak": "वैकुण्ठ प्राप्ति",
+        "shloka": "अस्य श्रीविष्णुगायत्रीमन्त्रस्य नारायण ऋषिः। गायत्री छन्दः। श्री विष्णु (नारायण) देवता। ॐ नमो नारायणाय बीजम्। नारायण शक्तिः। वैकुण्ठ प्राप्ति कीलकम्। श्रीविष्णुप्रीत्यर्थे जपे विनियोगः॥"
+    },
+    "benefits": [
+        "Narayanaya Vidmahe — connects to the supreme preserver aspect",
+        "Three variations covering Narayana, Shrinivasa, and Chaturbhuja forms",
+        "Destroys all sins and grants permanent abode in Vaikuntha",
+        "Powerful for spiritual upliftment and divine protection",
+        "Ideal for Ekadashi, Thursdays, and Vishnu festivals",
+        "Grants peace, prosperity, and moksha"
+    ],
+    "deity": "vishnu",
+    "secondaryDeities": [
+        "lakshmi"
+    ],
+    "days": [
+        "thursday"
+    ],
+    "festivals": [
+        "ekadashi",
+        "vaikuntha-ekadashi"
+    ],
+    "purposes": [
+        "devotion",
+        "moksha",
+        "peace",
+        "protection",
+        "spiritual-growth",
+        "japa"
+    ],
+    "readingTimeMinutes": 4,
+    "seoDescription": "Read Vishnu Gayatri Mantra — Narayanaya Vidmahe — with dhyanam in Sanskrit and Hindi meaning. Three powerful Vishnu Gayatri variations.",
+    "verseCount": 5,
+    "source": "Rig Veda / Vishnu Purana",
+    "createdAt": "2026-03-28T00:00:00Z",
+    "updatedAt": "2026-03-28T00:00:00Z",
+    "isPublished": true
 }

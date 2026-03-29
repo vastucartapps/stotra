@@ -1,29 +1,41 @@
 {
-  "id": "566",
-  "title": "हनुमान पञ्चरत्नम्",
-  "titleEn": "Hanuman Pancharatnam",
-  "slug": "hanuman-pancharatnam",
-  "devanagariText": "॥ श्री हनुमान पञ्चरत्नम् ॥\n\nवीतरागं जितक्रोधं सदा ब्रह्मपरायणम्।\nश्रीरामभक्तं धीरं तं हनूमन्तं नमाम्यहम्॥१॥\n\nनानारत्नसमायुक्तं कुण्डलद्वयभूषितम्।\nसर्वदा रामसेवार्थं हनूमन्तं नमाम्यहम्॥२॥\n\nउद्यद्दिवाकरद्युतिं महाबलपराक्रमम्।\nदैत्यनाशकरं वीरं हनूमन्तं नमाम्यहम्॥३॥\n\nसागरोल्लङ्घनं कृत्वा लङ्कामारोप्य लीलया।\nसीतायाः शोकनाशार्थं हनूमन्तं नमाम्यहम्॥४॥\n\nलक्ष्मणप्राणदातारं संजीवनसमानयम्।\nरामेष्टं कपिश्रेष्ठं हनूमन्तं नमाम्यहम्॥५॥\n\n॥ फलश्रुति ॥\nपञ्चरत्नमिदं पुण्यं हनूमत्प्रीतिकारकम्।\nयः पठेत्प्रातरुत्थाय सर्वपापैः प्रमुच्यते॥\nआयुरारोग्यमैश्वर्यं बलं तेजो विवर्धनम्।\nहनूमत्पञ्चरत्नस्य पाठनात्सर्वसिद्धिदम्॥\n\n॥ इति श्री शंकराचार्यविरचितं श्री हनुमान पञ्चरत्नम् सम्पूर्णम् ॥",
-  "transliteration": "|| Shri Hanuman Pancharatnam ||\n\nVita-ragam Jita-krodham Sada Brahma-parayanam.\nShri Rama-bhaktam Dhiram tam Hanumantam namamyaham.||1||\n\nNana-ratna-samayuktam Kundala-dwaya-bhushitam.\nSarvada Rama-sevartham Hanumantam namamyaham.||2||\n\nUdyad-divakara-dyutim Maha-bala-parakramam.\nDaitya-nashakaram Viram Hanumantam namamyaham.||3||\n\nSagarollan-ghanam kritva Lankam-aropya lilaya.\nSitayah shoka-nashartham Hanumantam namamyaham.||4||\n\nLakshmana-prana-dataram Sanjivana-samanayam.\nRameshtam Kapi-shreshtham Hanumantam namamyaham.||5||\n\n|| Phalashruti ||\nPancharatnam-idam punyam Hanumat-priti-karakam.\nYah pathet pratar-utthaya sarva-papaih pramuchyate.\nAyur-arogya-maishwaryam balam tejo vivardhanam.\nHanumat-pancharatnasya pathanat sarva-siddhidam.\n\n|| Iti Shri Shankaracharya-virachitam Shri Hanuman Pancharatnam Sampurnam ||",
-  "hindiMeaning": "वीतराग, जितक्रोध, सदा ब्रह्मपरायण, श्रीरामभक्त, धीर हनुमानजी को नमस्कार। विविध रत्नों से सुशोभित, दो कुण्डलों से भूषित, सदा राम सेवा में लीन हनुमानजी को नमस्कार। उदयकालीन सूर्य जैसी कान्ति वाले, महाबलपराक्रमी, दैत्यनाशक वीर हनुमानजी को नमस्कार। समुद्र लाँघकर लंका पहुँचकर सीताजी के शोक को दूर करने वाले हनुमानजी को नमस्कार। लक्ष्मण के प्राणदाता, संजीवनी लाने वाले, रामप्रिय, कपिश्रेष्ठ हनुमानजी को नमस्कार।",
-  "viniyog": null,
-  "benefits": [
-    "Five gems of prayer composed by Adi Shankaracharya",
-    "Destroys all sins when recited at dawn",
-    "Grants long life, good health, wealth and strength",
-    "Increases inner radiance and spiritual power",
-    "Bestows all siddhis and pleases Hanuman"
-  ],
-  "deity": "hanuman",
-  "secondaryDeities": ["rama"],
-  "days": ["tuesday", "saturday"],
-  "festivals": ["hanuman-jayanti"],
-  "purposes": ["devotion", "protection", "health", "strength"],
-  "readingTimeMinutes": 5,
-  "seoDescription": "Read Hanuman Pancharatnam by Adi Shankaracharya in Sanskrit with Hindi meaning. Five gems praising Hanuman for health, strength and protection.",
-  "verseCount": 5,
-  "source": "Adi Shankaracharya",
-  "createdAt": "2026-03-29T00:00:00Z",
-  "updatedAt": "2026-03-29T00:00:00Z",
-  "isPublished": true
+    "id": "265",
+    "title": "हनुमान पञ्चरत्नम्",
+    "titleEn": "Hanuman Pancharatnam",
+    "slug": "hanuman-pancharatnam",
+    "devanagariText": "॥ श्री हनुमान पञ्चरत्नम् ॥\n\nवीतरागं जितक्रोधं सदा ब्रह्मपरायणम्।\nश्रीरामभक्तं धीरं तं हनूमन्तं नमाम्यहम्॥१॥\n\nनानारत्नसमायुक्तं कुण्डलद्वयभूषितम्।\nसर्वदा रामसेवार्थं हनूमन्तं नमाम्यहम्॥२॥\n\nउद्यद्दिवाकरद्युतिं महाबलपराक्रमम्।\nदैत्यनाशकरं वीरं हनूमन्तं नमाम्यहम्॥३॥\n\nसागरोल्लङ्घनं कृत्वा लङ्कामारोप्य लीलया।\nसीतायाः शोकनाशार्थं हनूमन्तं नमाम्यहम्॥४॥\n\nलक्ष्मणप्राणदातारं संजीवनसमानयम्।\nरामेष्टं कपिश्रेष्ठं हनूमन्तं नमाम्यहम्॥५॥\n\n॥ फलश्रुति ॥\nपञ्चरत्नमिदं पुण्यं हनूमत्प्रीतिकारकम्।\nयः पठेत्प्रातरुत्थाय सर्वपापैः प्रमुच्यते॥\nआयुरारोग्यमैश्वर्यं बलं तेजो विवर्धनम्।\nहनूमत्पञ्चरत्नस्य पाठनात्सर्वसिद्धिदम्॥\n\n॥ इति श्री शंकराचार्यविरचितं श्री हनुमान पञ्चरत्नम् सम्पूर्णम् ॥",
+    "transliteration": "|| Shri Hanuman Pancharatnam ||\n\nVita-ragam Jita-krodham Sada Brahma-parayanam.\nShri Rama-bhaktam Dhiram tam Hanumantam namamyaham.||1||\n\nNana-ratna-samayuktam Kundala-dwaya-bhushitam.\nSarvada Rama-sevartham Hanumantam namamyaham.||2||\n\nUdyad-divakara-dyutim Maha-bala-parakramam.\nDaitya-nashakaram Viram Hanumantam namamyaham.||3||\n\nSagarollan-ghanam kritva Lankam-aropya lilaya.\nSitayah shoka-nashartham Hanumantam namamyaham.||4||\n\nLakshmana-prana-dataram Sanjivana-samanayam.\nRameshtam Kapi-shreshtham Hanumantam namamyaham.||5||\n\n|| Phalashruti ||\nPancharatnam-idam punyam Hanumat-priti-karakam.\nYah pathet pratar-utthaya sarva-papaih pramuchyate.\nAyur-arogya-maishwaryam balam tejo vivardhanam.\nHanumat-pancharatnasya pathanat sarva-siddhidam.\n\n|| Iti Shri Shankaracharya-virachitam Shri Hanuman Pancharatnam Sampurnam ||",
+    "hindiMeaning": "वीतराग, जितक्रोध, सदा ब्रह्मपरायण, श्रीरामभक्त, धीर हनुमानजी को नमस्कार। विविध रत्नों से सुशोभित, दो कुण्डलों से भूषित, सदा राम सेवा में लीन हनुमानजी को नमस्कार। उदयकालीन सूर्य जैसी कान्ति वाले, महाबलपराक्रमी, दैत्यनाशक वीर हनुमानजी को नमस्कार। समुद्र लाँघकर लंका पहुँचकर सीताजी के शोक को दूर करने वाले हनुमानजी को नमस्कार। लक्ष्मण के प्राणदाता, संजीवनी लाने वाले, रामप्रिय, कपिश्रेष्ठ हनुमानजी को नमस्कार।",
+    "viniyog": null,
+    "benefits": [
+        "Five gems of prayer composed by Adi Shankaracharya",
+        "Destroys all sins when recited at dawn",
+        "Grants long life, good health, wealth and strength",
+        "Increases inner radiance and spiritual power",
+        "Bestows all siddhis and pleases Hanuman"
+    ],
+    "deity": "hanuman",
+    "secondaryDeities": [
+        "rama"
+    ],
+    "days": [
+        "tuesday",
+        "saturday"
+    ],
+    "festivals": [
+        "hanuman-jayanti"
+    ],
+    "purposes": [
+        "devotion",
+        "protection",
+        "health",
+        "strength"
+    ],
+    "readingTimeMinutes": 5,
+    "seoDescription": "Read Hanuman Pancharatnam by Adi Shankaracharya in Sanskrit with Hindi meaning. Five gems praising Hanuman for health, strength and protection.",
+    "verseCount": 5,
+    "source": "Adi Shankaracharya",
+    "createdAt": "2026-03-29T00:00:00Z",
+    "updatedAt": "2026-03-29T00:00:00Z",
+    "isPublished": true
 }

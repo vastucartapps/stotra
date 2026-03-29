@@ -1,29 +1,39 @@
 {
-  "id": "579",
-  "title": "रथ सप्तमी स्तोत्रम्",
-  "titleEn": "Ratha Saptami Stotram",
-  "slug": "ratha-saptami-stotram",
-  "devanagariText": "॥ श्री रथ सप्तमी स्तोत्रम् ॥\n\nसप्ताश्वरथमारूढं प्रचण्डं कश्यपात्मजम्।\nश्वेतपद्मधरं देवं तं सूर्यं प्रणमाम्यहम्॥१॥\n\nरथसप्तम्यां यो भानुमुद्यन्तं सन्दर्शयेत्।\nसप्तजन्मकृतं पापं तत्क्षणादेव नश्यति॥२॥\n\nयन्मयापूर्वजन्मानि जन्मान्तरसहस्रशः।\nतन्मे रोगं च शोकं च माकरी हन्तु सप्तमी॥३॥\n\nरथसप्तमीव्रतं कृत्वा सूर्यं सम्पूज्य भक्तितः।\nसर्वपापविनिर्मुक्तः सूर्यलोकं स गच्छति॥४॥\n\nसप्ताश्ववाहनं शूरं सहस्रकिरणं विभुम्।\nत्रैलोक्यतिमिरध्वान्तनाशनं प्रणमाम्यहम्॥५॥\n\nउद्यन्नद्यविवस्वानारोहन्नुत्तरां दिवम्।\nहृद्रोगं मम सूर्यो हरिमाणं चाशु नाशयेत्॥६॥\n\nमाघशुक्लसप्तम्यां सूर्योदयं च यो नरः।\nपश्येत्स्नानपरो भूत्वा मुच्यते सर्वकिल्बिषैः॥७॥\n\nनमः सवित्रे जगदेकचक्षुषे\nजगत्प्रसूतिस्थितिनाशहेतवे।\nत्रयीमयाय त्रिगुणात्मधारिणे\nविरिञ्चिनारायणशंकरात्मने॥८॥\n\n॥ इति श्री रथ सप्तमी स्तोत्रम् सम्पूर्णम् ॥",
-  "transliteration": "|| Shri Ratha Saptami Stotram ||\n\nSaptashva-ratham-arudham Prachandam Kashyapatmajam.\nShveta-padma-dharam Devam Tam Suryam pranamamy-aham.||1||\n\nRatha-saptamyam yo Bhanum-udyantam sandarshayet.\nSapta-janma-kritam papam tat-kshanad-eva nashyati.||2||\n\nYan-mayapurva-janmani Janmantara-sahasrashah.\nTan-me rogam cha shokam cha Makari hantu Saptami.||3||\n\nRatha-saptami-vratam kritva Suryam sampujya bhaktitah.\nSarva-papa-vinirmuktah Surya-lokam sa gachchhati.||4||\n\nSaptashva-vahanam Shuram Sahasra-kiranam Vibhum.\nTrailokya-timira-dhvanta-nashanam pranamamy-aham.||5||\n\nUdyann-adya-vivasvan-arohan-uttaram divam.\nHrid-rogam mama Suryo harimaanam chashu nashayet.||6||\n\nMagha-shukla-saptamyam Suryodayam cha yo narah.\nPashyet-snana-paro bhutva muchyate sarva-kilbishaih.||7||\n\nNamah Savitre Jagad-eka-chakshushe\nJagat-prasuti-sthiti-nasha-hetave.\nTrayimayaya Triguna-atma-dharine\nVirinchi-Narayana-Shankaratmane.||8||\n\n|| Iti Shri Ratha Saptami Stotram Sampurnam ||",
-  "hindiMeaning": "सात घोड़ों के रथ पर आरूढ़, प्रचण्ड, कश्यपात्मज, श्वेतपद्मधारी सूर्यदेव को प्रणाम। रथसप्तमी के दिन उदयकालीन सूर्य के दर्शन से सात जन्मों के पाप तत्काल नष्ट हो जाते हैं। जो पूर्वजन्मों में सहस्रशः संचित रोग और शोक हैं, वे माकरी सप्तमी (रथसप्तमी) से नष्ट होते हैं। रथसप्तमी का व्रत करके भक्तिपूर्वक सूर्य की पूजा करने से सर्वपापों से मुक्ति और सूर्यलोक प्राप्त होता है।",
-  "viniyog": null,
-  "benefits": [
-    "Specific stotram for Ratha Saptami festival",
-    "Destroys sins accumulated over seven lifetimes",
-    "Removes chronic diseases and deep-seated grief",
-    "Grants freedom from all sins when observed with bathing and worship",
-    "Leads to Surya-loka (solar realm) after life"
-  ],
-  "deity": "surya",
-  "secondaryDeities": [],
-  "days": ["sunday"],
-  "festivals": ["ratha-saptami", "makar-sankranti"],
-  "purposes": ["health", "purification", "devotion", "sin-removal"],
-  "readingTimeMinutes": 7,
-  "seoDescription": "Read Ratha Saptami Stotram in Sanskrit with Hindi meaning. Special Sun worship prayer for Ratha Saptami to remove sins and diseases.",
-  "verseCount": 8,
-  "source": "Skanda Purana",
-  "createdAt": "2026-03-29T00:00:00Z",
-  "updatedAt": "2026-03-29T00:00:00Z",
-  "isPublished": true
+    "id": "531",
+    "title": "रथ सप्तमी स्तोत्रम्",
+    "titleEn": "Ratha Saptami Stotram",
+    "slug": "ratha-saptami-stotram",
+    "devanagariText": "॥ श्री रथ सप्तमी स्तोत्रम् ॥\n\nसप्ताश्वरथमारूढं प्रचण्डं कश्यपात्मजम्।\nश्वेतपद्मधरं देवं तं सूर्यं प्रणमाम्यहम्॥१॥\n\nरथसप्तम्यां यो भानुमुद्यन्तं सन्दर्शयेत्।\nसप्तजन्मकृतं पापं तत्क्षणादेव नश्यति॥२॥\n\nयन्मयापूर्वजन्मानि जन्मान्तरसहस्रशः।\nतन्मे रोगं च शोकं च माकरी हन्तु सप्तमी॥३॥\n\nरथसप्तमीव्रतं कृत्वा सूर्यं सम्पूज्य भक्तितः।\nसर्वपापविनिर्मुक्तः सूर्यलोकं स गच्छति॥४॥\n\nसप्ताश्ववाहनं शूरं सहस्रकिरणं विभुम्।\nत्रैलोक्यतिमिरध्वान्तनाशनं प्रणमाम्यहम्॥५॥\n\nउद्यन्नद्यविवस्वानारोहन्नुत्तरां दिवम्।\nहृद्रोगं मम सूर्यो हरिमाणं चाशु नाशयेत्॥६॥\n\nमाघशुक्लसप्तम्यां सूर्योदयं च यो नरः।\nपश्येत्स्नानपरो भूत्वा मुच्यते सर्वकिल्बिषैः॥७॥\n\nनमः सवित्रे जगदेकचक्षुषे\nजगत्प्रसूतिस्थितिनाशहेतवे।\nत्रयीमयाय त्रिगुणात्मधारिणे\nविरिञ्चिनारायणशंकरात्मने॥८॥\n\n॥ इति श्री रथ सप्तमी स्तोत्रम् सम्पूर्णम् ॥",
+    "transliteration": "|| Shri Ratha Saptami Stotram ||\n\nSaptashva-ratham-arudham Prachandam Kashyapatmajam.\nShveta-padma-dharam Devam Tam Suryam pranamamy-aham.||1||\n\nRatha-saptamyam yo Bhanum-udyantam sandarshayet.\nSapta-janma-kritam papam tat-kshanad-eva nashyati.||2||\n\nYan-mayapurva-janmani Janmantara-sahasrashah.\nTan-me rogam cha shokam cha Makari hantu Saptami.||3||\n\nRatha-saptami-vratam kritva Suryam sampujya bhaktitah.\nSarva-papa-vinirmuktah Surya-lokam sa gachchhati.||4||\n\nSaptashva-vahanam Shuram Sahasra-kiranam Vibhum.\nTrailokya-timira-dhvanta-nashanam pranamamy-aham.||5||\n\nUdyann-adya-vivasvan-arohan-uttaram divam.\nHrid-rogam mama Suryo harimaanam chashu nashayet.||6||\n\nMagha-shukla-saptamyam Suryodayam cha yo narah.\nPashyet-snana-paro bhutva muchyate sarva-kilbishaih.||7||\n\nNamah Savitre Jagad-eka-chakshushe\nJagat-prasuti-sthiti-nasha-hetave.\nTrayimayaya Triguna-atma-dharine\nVirinchi-Narayana-Shankaratmane.||8||\n\n|| Iti Shri Ratha Saptami Stotram Sampurnam ||",
+    "hindiMeaning": "सात घोड़ों के रथ पर आरूढ़, प्रचण्ड, कश्यपात्मज, श्वेतपद्मधारी सूर्यदेव को प्रणाम। रथसप्तमी के दिन उदयकालीन सूर्य के दर्शन से सात जन्मों के पाप तत्काल नष्ट हो जाते हैं। जो पूर्वजन्मों में सहस्रशः संचित रोग और शोक हैं, वे माकरी सप्तमी (रथसप्तमी) से नष्ट होते हैं। रथसप्तमी का व्रत करके भक्तिपूर्वक सूर्य की पूजा करने से सर्वपापों से मुक्ति और सूर्यलोक प्राप्त होता है।",
+    "viniyog": null,
+    "benefits": [
+        "Specific stotram for Ratha Saptami festival",
+        "Destroys sins accumulated over seven lifetimes",
+        "Removes chronic diseases and deep-seated grief",
+        "Grants freedom from all sins when observed with bathing and worship",
+        "Leads to Surya-loka (solar realm) after life"
+    ],
+    "deity": "surya",
+    "secondaryDeities": [],
+    "days": [
+        "sunday"
+    ],
+    "festivals": [
+        "ratha-saptami",
+        "makar-sankranti"
+    ],
+    "purposes": [
+        "health",
+        "purification",
+        "devotion",
+        "sin-removal"
+    ],
+    "readingTimeMinutes": 7,
+    "seoDescription": "Read Ratha Saptami Stotram in Sanskrit with Hindi meaning. Special Sun worship prayer for Ratha Saptami to remove sins and diseases.",
+    "verseCount": 8,
+    "source": "Skanda Purana",
+    "createdAt": "2026-03-29T00:00:00Z",
+    "updatedAt": "2026-03-29T00:00:00Z",
+    "isPublished": true
 }

@@ -1,29 +1,39 @@
 {
-  "id": "634",
-  "title": "रुद्र गायत्री",
-  "titleEn": "Rudra Gayatri",
-  "slug": "rudra-gayatri",
-  "devanagariText": "॥ श्री रुद्र गायत्री ॥\n\nॐ तत्पुरुषाय विद्महे महादेवाय धीमहि।\nतन्नो रुद्रः प्रचोदयात्॥\n\nॐ अघोराय विद्महे घोरघोराय धीमहि।\nतन्नो रुद्रः प्रचोदयात्॥\n\nॐ तत्पुरुषाय विद्महे शूलहस्ताय धीमहि।\nतन्नो रुद्रः प्रचोदयात्॥\n\n॥ इति श्री रुद्र गायत्री सम्पूर्णम् ॥",
-  "transliteration": "|| Shri Rudra Gayatri ||\n\nOm Tatpurushaya Vidmahe Mahadevaya Dhimahi.\nTanno Rudrah Prachodayat.\n\nOm Aghoraya Vidmahe Ghoraghoraya Dhimahi.\nTanno Rudrah Prachodayat.\n\nOm Tatpurushaya Vidmahe Shulahastaya Dhimahi.\nTanno Rudrah Prachodayat.\n\n|| Iti Shri Rudra Gayatri Sampoornam ||",
-  "hindiMeaning": "हम तत्पुरुष (परम पुरुष) महादेव का ध्यान करते हैं, त्रिशूलधारी रुद्र देव हमारी बुद्धि को सन्मार्ग पर प्रेरित करें। हम अघोर स्वरूप, घोर से भी घोरतर रुद्र का ध्यान करते हैं, वे हमें प्रेरणा प्रदान करें। रुद्र गायत्री भगवान शिव के रुद्र रूप की उपासना का परम मन्त्र है जो भय और कष्टों का नाश करता है।",
-  "viniyog": null,
-  "benefits": [
-    "Invokes the fierce protective energy of Lord Rudra",
-    "Destroys fear, negative energies, and evil influences",
-    "Bestows courage, strength, and fearlessness",
-    "Grants protection from untimely death and calamities",
-    "Purifies the mind and leads to spiritual enlightenment"
-  ],
-  "deity": "shiva",
-  "secondaryDeities": [],
-  "days": ["monday"],
-  "festivals": ["maha-shivaratri", "pradosh-vrat"],
-  "purposes": ["protection", "courage", "spiritual-growth"],
-  "readingTimeMinutes": 2,
-  "seoDescription": "Rudra Gayatri Mantra in Sanskrit with Hindi meaning. Invoke Lord Rudra's blessings for protection, fearlessness, and spiritual strength.",
-  "verseCount": 3,
-  "source": "Yajur Veda",
-  "createdAt": "2026-03-29T00:00:00Z",
-  "updatedAt": "2026-03-29T00:00:00Z",
-  "isPublished": true
+    "id": "533",
+    "title": "रुद्र गायत्री",
+    "titleEn": "Rudra Gayatri",
+    "slug": "rudra-gayatri",
+    "devanagariText": "॥ श्री रुद्र गायत्री ॥\n\nॐ तत्पुरुषाय विद्महे महादेवाय धीमहि।\nतन्नो रुद्रः प्रचोदयात्॥\n\nॐ अघोराय विद्महे घोरघोराय धीमहि।\nतन्नो रुद्रः प्रचोदयात्॥\n\nॐ तत्पुरुषाय विद्महे शूलहस्ताय धीमहि।\nतन्नो रुद्रः प्रचोदयात्॥\n\n॥ इति श्री रुद्र गायत्री सम्पूर्णम् ॥",
+    "transliteration": "|| Shri Rudra Gayatri ||\n\nOm Tatpurushaya Vidmahe Mahadevaya Dhimahi.\nTanno Rudrah Prachodayat.\n\nOm Aghoraya Vidmahe Ghoraghoraya Dhimahi.\nTanno Rudrah Prachodayat.\n\nOm Tatpurushaya Vidmahe Shulahastaya Dhimahi.\nTanno Rudrah Prachodayat.\n\n|| Iti Shri Rudra Gayatri Sampoornam ||",
+    "hindiMeaning": "हम तत्पुरुष (परम पुरुष) महादेव का ध्यान करते हैं, त्रिशूलधारी रुद्र देव हमारी बुद्धि को सन्मार्ग पर प्रेरित करें। हम अघोर स्वरूप, घोर से भी घोरतर रुद्र का ध्यान करते हैं, वे हमें प्रेरणा प्रदान करें। रुद्र गायत्री भगवान शिव के रुद्र रूप की उपासना का परम मन्त्र है जो भय और कष्टों का नाश करता है।",
+    "viniyog": null,
+    "benefits": [
+        "Invokes the fierce protective energy of Lord Rudra",
+        "Destroys fear, negative energies, and evil influences",
+        "Bestows courage, strength, and fearlessness",
+        "Grants protection from untimely death and calamities",
+        "Purifies the mind and leads to spiritual enlightenment"
+    ],
+    "deity": "shiva",
+    "secondaryDeities": [],
+    "days": [
+        "monday"
+    ],
+    "festivals": [
+        "maha-shivaratri",
+        "pradosh"
+    ],
+    "purposes": [
+        "protection",
+        "courage",
+        "spiritual-growth",
+        "japa"
+    ],
+    "readingTimeMinutes": 2,
+    "seoDescription": "Rudra Gayatri Mantra in Sanskrit with Hindi meaning. Invoke Lord Rudra's blessings for protection, fearlessness, and spiritual strength.",
+    "verseCount": 3,
+    "source": "Yajur Veda",
+    "createdAt": "2026-03-29T00:00:00Z",
+    "updatedAt": "2026-03-29T00:00:00Z",
+    "isPublished": true
 }

@@ -1,29 +1,40 @@
 {
-  "id": "586",
-  "title": "तिरुचेन्दूर स्तोत्रम्",
-  "titleEn": "Thiruchendur Stotram",
-  "slug": "thiruchendur-stotram",
-  "devanagariText": "॥ श्री तिरुचेन्दूर स्तोत्रम् ॥\n\nतिरुचेन्दूर्निवासाय षण्मुखाय नमो नमः।\nदेवसेनापतये तुभ्यं शरवणभवाय ते॥१॥\n\nसमुद्रतीरवासाय सूरपद्मनिसूदनाय।\nतिरुचेन्दूरनाथाय वेलमुरुगनाय ते॥२॥\n\nषडाननं कुमारं च शक्तिहस्तं कृपानिधिम्।\nतिरुचेन्दूरवासं तं मुरुगनं प्रणमाम्यहम्॥३॥\n\nशूरसंहारकं वीरं वल्लीदेवसेनापतिम्।\nतिरुचेन्दूरदेवं तं नमामि शरणागतः॥४॥\n\nमयूरवाहनं स्कन्दं वेलाञ्चलनिवासिनम्।\nकृपासागरमीशानं तिरुचेन्दूरमाश्रये॥५॥\n\nवेदवेदाङ्गतत्त्वज्ञं ब्रह्मज्ञानप्रदायकम्।\nसर्वविद्याप्रदं देवं तिरुचेन्दूरनायकम्॥६॥\n\nतारकासुरसंहर्त्रे क्रौञ्चगिरिविदारिणे।\nदेवानां रक्षकं शूरं तिरुचेन्दूरवल्लभम्॥७॥\n\nतिरुचेन्दूरस्तोत्रं यः पठेद्भक्तिसंयुतः।\nसर्वपापविनिर्मुक्तः स्कन्दलोकमवाप्नुयात्॥८॥\n\n॥ इति श्री तिरुचेन्दूर स्तोत्रम् सम्पूर्णम् ॥",
-  "transliteration": "|| Shri Thiruchendur Stotram ||\n\nTiruchendur-nivasaya Shanmukhaya Namo Namah.\nDeva-senapataye tubhyam Sharavanabhavaya te.||1||\n\nSamudra-tira-vasaya Sura-padma-nisudanaya.\nTiruchendur-nathaya Vela-muruganaya te.||2||\n\nShad-ananam Kumaram cha Shakti-hastam Kripaanidhim.\nTiruchendur-vasam tam Muruganam pranamamy-aham.||3||\n\nShura-samharakam Viram Valli-Devasenaapatim.\nTiruchendur-devam tam Namami sharanaagatah.||4||\n\nMayura-vahanam Skandam Velanchala-nivasinam.\nKripa-sagaram-Ishanam Tiruchenduram-ashraye.||5||\n\nVeda-vedanga-tattvajnam Brahma-jnana-pradayakam.\nSarva-vidya-pradam devam Tiruchendur-nayakam.||6||\n\nTarakasura-samhartre Krauncha-giri-vidarine.\nDevanam rakshakam Shuram Tiruchendur-vallabham.||7||\n\nTiruchendur-stotram yah pathed bhakti-samyutah.\nSarva-papa-vinirmuktah Skanda-lokam avapnuyat.||8||\n\n|| Iti Shri Thiruchendur Stotram Sampurnam ||",
-  "hindiMeaning": "तिरुचेन्दूर निवासी, षण्मुख, देवसेनापति, शरवणभव को नमस्कार। समुद्रतट पर निवास करने वाले, सूरपद्म का संहार करने वाले, तिरुचेन्दूर के स्वामी वेलमुरुगन को नमस्कार। षडानन, कुमार, शक्तिहस्त, कृपानिधि, तिरुचेन्दूरवासी मुरुगन को प्रणाम करता हूँ। शूरसंहारक वीर, वल्ली-देवसेनापति, तिरुचेन्दूर देव को शरणागत होकर नमस्कार करता हूँ। इस स्तोत्र के भक्तिपूर्वक पाठ से सर्वपापमुक्ति और स्कन्दलोक की प्राप्ति होती है।",
-  "viniyog": null,
-  "benefits": [
-    "Praises Lord Murugan at his Thiruchendur abode",
-    "Specially connected to the seaside temple of Kartikeya",
-    "Frees from all sins and leads to Skanda-loka",
-    "Grants knowledge of Vedas and Brahman",
-    "Powerful for seekers of divine protection and wisdom"
-  ],
-  "deity": "kartikeya",
-  "secondaryDeities": ["shiva"],
-  "days": ["tuesday"],
-  "festivals": ["skanda-sashti"],
-  "purposes": ["devotion", "protection", "spiritual-growth", "wisdom"],
-  "readingTimeMinutes": 7,
-  "seoDescription": "Read Thiruchendur Stotram in Sanskrit with Hindi meaning. Prayer to Lord Murugan at Thiruchendur for protection, wisdom and liberation.",
-  "verseCount": 8,
-  "source": "South Indian Tradition",
-  "createdAt": "2026-03-29T00:00:00Z",
-  "updatedAt": "2026-03-29T00:00:00Z",
-  "isPublished": true
+    "id": "695",
+    "title": "तिरुचेन्दूर स्तोत्रम्",
+    "titleEn": "Thiruchendur Stotram",
+    "slug": "thiruchendur-stotram",
+    "devanagariText": "॥ श्री तिरुचेन्दूर स्तोत्रम् ॥\n\nतिरुचेन्दूर्निवासाय षण्मुखाय नमो नमः।\nदेवसेनापतये तुभ्यं शरवणभवाय ते॥१॥\n\nसमुद्रतीरवासाय सूरपद्मनिसूदनाय।\nतिरुचेन्दूरनाथाय वेलमुरुगनाय ते॥२॥\n\nषडाननं कुमारं च शक्तिहस्तं कृपानिधिम्।\nतिरुचेन्दूरवासं तं मुरुगनं प्रणमाम्यहम्॥३॥\n\nशूरसंहारकं वीरं वल्लीदेवसेनापतिम्।\nतिरुचेन्दूरदेवं तं नमामि शरणागतः॥४॥\n\nमयूरवाहनं स्कन्दं वेलाञ्चलनिवासिनम्।\nकृपासागरमीशानं तिरुचेन्दूरमाश्रये॥५॥\n\nवेदवेदाङ्गतत्त्वज्ञं ब्रह्मज्ञानप्रदायकम्।\nसर्वविद्याप्रदं देवं तिरुचेन्दूरनायकम्॥६॥\n\nतारकासुरसंहर्त्रे क्रौञ्चगिरिविदारिणे।\nदेवानां रक्षकं शूरं तिरुचेन्दूरवल्लभम्॥७॥\n\nतिरुचेन्दूरस्तोत्रं यः पठेद्भक्तिसंयुतः।\nसर्वपापविनिर्मुक्तः स्कन्दलोकमवाप्नुयात्॥८॥\n\n॥ इति श्री तिरुचेन्दूर स्तोत्रम् सम्पूर्णम् ॥",
+    "transliteration": "|| Shri Thiruchendur Stotram ||\n\nTiruchendur-nivasaya Shanmukhaya Namo Namah.\nDeva-senapataye tubhyam Sharavanabhavaya te.||1||\n\nSamudra-tira-vasaya Sura-padma-nisudanaya.\nTiruchendur-nathaya Vela-muruganaya te.||2||\n\nShad-ananam Kumaram cha Shakti-hastam Kripaanidhim.\nTiruchendur-vasam tam Muruganam pranamamy-aham.||3||\n\nShura-samharakam Viram Valli-Devasenaapatim.\nTiruchendur-devam tam Namami sharanaagatah.||4||\n\nMayura-vahanam Skandam Velanchala-nivasinam.\nKripa-sagaram-Ishanam Tiruchenduram-ashraye.||5||\n\nVeda-vedanga-tattvajnam Brahma-jnana-pradayakam.\nSarva-vidya-pradam devam Tiruchendur-nayakam.||6||\n\nTarakasura-samhartre Krauncha-giri-vidarine.\nDevanam rakshakam Shuram Tiruchendur-vallabham.||7||\n\nTiruchendur-stotram yah pathed bhakti-samyutah.\nSarva-papa-vinirmuktah Skanda-lokam avapnuyat.||8||\n\n|| Iti Shri Thiruchendur Stotram Sampurnam ||",
+    "hindiMeaning": "तिरुचेन्दूर निवासी, षण्मुख, देवसेनापति, शरवणभव को नमस्कार। समुद्रतट पर निवास करने वाले, सूरपद्म का संहार करने वाले, तिरुचेन्दूर के स्वामी वेलमुरुगन को नमस्कार। षडानन, कुमार, शक्तिहस्त, कृपानिधि, तिरुचेन्दूरवासी मुरुगन को प्रणाम करता हूँ। शूरसंहारक वीर, वल्ली-देवसेनापति, तिरुचेन्दूर देव को शरणागत होकर नमस्कार करता हूँ। इस स्तोत्र के भक्तिपूर्वक पाठ से सर्वपापमुक्ति और स्कन्दलोक की प्राप्ति होती है।",
+    "viniyog": null,
+    "benefits": [
+        "Praises Lord Murugan at his Thiruchendur abode",
+        "Specially connected to the seaside temple of Kartikeya",
+        "Frees from all sins and leads to Skanda-loka",
+        "Grants knowledge of Vedas and Brahman",
+        "Powerful for seekers of divine protection and wisdom"
+    ],
+    "deity": "kartikeya",
+    "secondaryDeities": [
+        "shiva"
+    ],
+    "days": [
+        "tuesday"
+    ],
+    "festivals": [
+        "skanda-shashti"
+    ],
+    "purposes": [
+        "devotion",
+        "protection",
+        "spiritual-growth",
+        "wisdom"
+    ],
+    "readingTimeMinutes": 7,
+    "seoDescription": "Read Thiruchendur Stotram in Sanskrit with Hindi meaning. Prayer to Lord Murugan at Thiruchendur for protection, wisdom and liberation.",
+    "verseCount": 8,
+    "source": "South Indian Tradition",
+    "createdAt": "2026-03-29T00:00:00Z",
+    "updatedAt": "2026-03-29T00:00:00Z",
+    "isPublished": true
 }

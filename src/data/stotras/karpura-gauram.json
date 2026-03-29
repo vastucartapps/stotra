@@ -1,29 +1,42 @@
 {
-  "id": "478",
-  "title": "कर्पूरगौरम् करुणावतारम्",
-  "titleEn": "Karpura Gauram Karunavataram",
-  "slug": "karpura-gauram",
-  "devanagariText": "॥ कर्पूरगौरम् ॥\n\nकर्पूरगौरं करुणावतारं\nसंसारसारं भुजगेन्द्रहारम्।\nसदा वसन्तं हृदयारविन्दे\nभवं भवानीसहितं नमामि॥\n\n॥ इति कर्पूरगौरम् सम्पूर्णम् ॥",
-  "transliteration": "|| Karpura Gauram ||\n\nKarpura Gauram Karunavataram\nSamsara Saaram Bhujagendra Haaram |\nSada Vasantam Hridayaaravinde\nBhavam Bhavanee Sahitam Namaami ||\n\n|| Iti Karpura Gauram Sampurnam ||",
-  "hindiMeaning": "कर्पूर के समान गौर वर्ण वाले, करुणा के अवतार, संसार के सार, सर्पों के राजा का हार धारण करने वाले, सदा हृदय कमल में निवास करने वाले, भवानी (पार्वती) सहित भगवान शिव को मैं नमस्कार करता हूँ।\n\nयह श्लोक शिवजी की आरती के अंत में सम्पूर्ण भारत में गाया जाता है। यह अत्यंत लोकप्रिय और पवित्र मंत्र है।",
-  "viniyog": null,
-  "benefits": [
-    "Most popular closing verse of Shiva aarti across India",
-    "Invokes Shiva and Parvati together for complete blessings",
-    "Purifies the heart and brings spiritual peace",
-    "Removes all fears and attachments to worldly life",
-    "Simple yet profound — ideal for daily recitation"
-  ],
-  "deity": "shiva",
-  "secondaryDeities": ["durga"],
-  "days": ["monday", "daily"],
-  "festivals": ["maha-shivaratri", "shravan-somvar"],
-  "purposes": ["devotion", "aarti", "peace", "daily-prayer"],
-  "readingTimeMinutes": 1,
-  "seoDescription": "Read Karpura Gauram Karunavataram mantra in Sanskrit with Hindi meaning. Most popular Shiva aarti closing verse recited across India.",
-  "verseCount": 1,
-  "source": "Traditional Shaivite Aarti",
-  "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
-  "isPublished": true
+    "id": "314",
+    "title": "कर्पूरगौरम् करुणावतारम्",
+    "titleEn": "Karpura Gauram Karunavataram",
+    "slug": "karpura-gauram",
+    "devanagariText": "॥ कर्पूरगौरम् ॥\n\nकर्पूरगौरं करुणावतारं\nसंसारसारं भुजगेन्द्रहारम्।\nसदा वसन्तं हृदयारविन्दे\nभवं भवानीसहितं नमामि॥\n\n॥ इति कर्पूरगौरम् सम्पूर्णम् ॥",
+    "transliteration": "|| Karpura Gauram ||\n\nKarpura Gauram Karunavataram\nSamsara Saaram Bhujagendra Haaram |\nSada Vasantam Hridayaaravinde\nBhavam Bhavanee Sahitam Namaami ||\n\n|| Iti Karpura Gauram Sampurnam ||",
+    "hindiMeaning": "कर्पूर के समान गौर वर्ण वाले, करुणा के अवतार, संसार के सार, सर्पों के राजा का हार धारण करने वाले, सदा हृदय कमल में निवास करने वाले, भवानी (पार्वती) सहित भगवान शिव को मैं नमस्कार करता हूँ।\n\nयह श्लोक शिवजी की आरती के अंत में सम्पूर्ण भारत में गाया जाता है। यह अत्यंत लोकप्रिय और पवित्र मंत्र है।",
+    "viniyog": null,
+    "benefits": [
+        "Most popular closing verse of Shiva aarti across India",
+        "Invokes Shiva and Parvati together for complete blessings",
+        "Purifies the heart and brings spiritual peace",
+        "Removes all fears and attachments to worldly life",
+        "Simple yet profound — ideal for daily recitation"
+    ],
+    "deity": "shiva",
+    "secondaryDeities": [
+        "durga"
+    ],
+    "days": [
+        "monday",
+        "daily"
+    ],
+    "festivals": [
+        "maha-shivaratri",
+        "shravan-somvar"
+    ],
+    "purposes": [
+        "devotion",
+        "aarti",
+        "peace",
+        "daily-prayer"
+    ],
+    "readingTimeMinutes": 1,
+    "seoDescription": "Read Karpura Gauram Karunavataram mantra in Sanskrit with Hindi meaning. Most popular Shiva aarti closing verse recited across India.",
+    "verseCount": 1,
+    "source": "Traditional Shaivite Aarti",
+    "createdAt": "2026-03-28T00:00:00Z",
+    "updatedAt": "2026-03-28T00:00:00Z",
+    "isPublished": true
 }

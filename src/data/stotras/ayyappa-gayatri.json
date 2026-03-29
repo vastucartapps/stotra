@@ -1,29 +1,39 @@
 {
-  "id": "637",
-  "title": "अय्यप्पा गायत्री",
-  "titleEn": "Ayyappa Gayatri",
-  "slug": "ayyappa-gayatri",
-  "devanagariText": "॥ श्री अय्यप्पा गायत्री ॥\n\nॐ भूतनाथाय विद्महे भवपुत्राय धीमहि।\nतन्नो अय्यप्पः प्रचोदयात्॥\n\nॐ शास्त्रे विद्महे महाशास्त्रे धीमहि।\nतन्नो अय्यप्पः प्रचोदयात्॥\n\nॐ हरिहरपुत्राय विद्महे धर्मशास्त्राय धीमहि।\nतन्नो शास्ता प्रचोदयात्॥\n\n॥ इति श्री अय्यप्पा गायत्री सम्पूर्णम् ॥",
-  "transliteration": "|| Shri Ayyappa Gayatri ||\n\nOm Bhutanathaya Vidmahe Bhavaputraya Dhimahi.\nTanno Ayyappah Prachodayat.\n\nOm Shastre Vidmahe Mahashastre Dhimahi.\nTanno Ayyappah Prachodayat.\n\nOm Hariharaputraya Vidmahe Dharmashastraya Dhimahi.\nTanno Shasta Prachodayat.\n\n|| Iti Shri Ayyappa Gayatri Sampoornam ||",
-  "hindiMeaning": "हम भूतनाथ (भूत-प्रेतों के स्वामी), भव (शिव) के पुत्र अय्यप्प का ध्यान करते हैं, अय्यप्प स्वामी हमारी बुद्धि को सन्मार्ग पर प्रेरित करें। हम शास्ता (नियामक) और महाशास्ता अय्यप्प का ध्यान करते हैं। हम हरि (विष्णु) और हर (शिव) के पुत्र, धर्मशास्ता अय्यप्प का ध्यान करते हैं, वे शास्ता हमें प्रेरणा प्रदान करें। अय्यप्पा गायत्री का पाठ ब्रह्मचर्य, धर्म और भक्ति को दृढ़ करता है।",
-  "viniyog": null,
-  "benefits": [
-    "Invokes the divine blessings of Lord Ayyappa (Dharma Shasta)",
-    "Bestows discipline, celibacy, and righteous conduct",
-    "Removes fear of evil spirits and negative energies",
-    "Grants courage, protection, and spiritual advancement",
-    "Especially beneficial during Mandala Kalam and Sabarimala pilgrimage"
-  ],
-  "deity": "ayyappa",
-  "secondaryDeities": ["vishnu", "shiva"],
-  "days": ["saturday"],
-  "festivals": ["makar-sankranti"],
-  "purposes": ["devotion", "protection", "spiritual-growth"],
-  "readingTimeMinutes": 2,
-  "seoDescription": "Ayyappa Gayatri Mantra in Sanskrit with Hindi meaning. Invoke Lord Ayyappa's blessings for protection, discipline, and spiritual growth.",
-  "verseCount": 3,
-  "source": "Kerala Tantra Tradition",
-  "createdAt": "2026-03-29T00:00:00Z",
-  "updatedAt": "2026-03-29T00:00:00Z",
-  "isPublished": true
+    "id": "39",
+    "title": "अय्यप्पा गायत्री",
+    "titleEn": "Ayyappa Gayatri",
+    "slug": "ayyappa-gayatri",
+    "devanagariText": "॥ श्री अय्यप्पा गायत्री ॥\n\nॐ भूतनाथाय विद्महे भवपुत्राय धीमहि।\nतन्नो अय्यप्पः प्रचोदयात्॥\n\nॐ शास्त्रे विद्महे महाशास्त्रे धीमहि।\nतन्नो अय्यप्पः प्रचोदयात्॥\n\nॐ हरिहरपुत्राय विद्महे धर्मशास्त्राय धीमहि।\nतन्नो शास्ता प्रचोदयात्॥\n\n॥ इति श्री अय्यप्पा गायत्री सम्पूर्णम् ॥",
+    "transliteration": "|| Shri Ayyappa Gayatri ||\n\nOm Bhutanathaya Vidmahe Bhavaputraya Dhimahi.\nTanno Ayyappah Prachodayat.\n\nOm Shastre Vidmahe Mahashastre Dhimahi.\nTanno Ayyappah Prachodayat.\n\nOm Hariharaputraya Vidmahe Dharmashastraya Dhimahi.\nTanno Shasta Prachodayat.\n\n|| Iti Shri Ayyappa Gayatri Sampoornam ||",
+    "hindiMeaning": "हम भूतनाथ (भूत-प्रेतों के स्वामी), भव (शिव) के पुत्र अय्यप्प का ध्यान करते हैं, अय्यप्प स्वामी हमारी बुद्धि को सन्मार्ग पर प्रेरित करें। हम शास्ता (नियामक) और महाशास्ता अय्यप्प का ध्यान करते हैं। हम हरि (विष्णु) और हर (शिव) के पुत्र, धर्मशास्ता अय्यप्प का ध्यान करते हैं, वे शास्ता हमें प्रेरणा प्रदान करें। अय्यप्पा गायत्री का पाठ ब्रह्मचर्य, धर्म और भक्ति को दृढ़ करता है।",
+    "viniyog": null,
+    "benefits": [
+        "Invokes the divine blessings of Lord Ayyappa (Dharma Shasta)",
+        "Bestows discipline, celibacy, and righteous conduct",
+        "Removes fear of evil spirits and negative energies",
+        "Grants courage, protection, and spiritual advancement",
+        "Especially beneficial during Mandala Kalam and Sabarimala pilgrimage"
+    ],
+    "deity": "ayyappa",
+    "secondaryDeities": [
+        "vishnu",
+        "shiva"
+    ],
+    "days": [
+        "saturday"
+    ],
+    "festivals": [],
+    "purposes": [
+        "devotion",
+        "protection",
+        "spiritual-growth",
+        "japa"
+    ],
+    "readingTimeMinutes": 2,
+    "seoDescription": "Ayyappa Gayatri Mantra in Sanskrit with Hindi meaning. Invoke Lord Ayyappa's blessings for protection, discipline, and spiritual growth.",
+    "verseCount": 3,
+    "source": "Kerala Tantra Tradition",
+    "createdAt": "2026-03-29T00:00:00Z",
+    "updatedAt": "2026-03-29T00:00:00Z",
+    "isPublished": true
 }

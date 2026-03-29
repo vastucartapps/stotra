@@ -1,29 +1,40 @@
 {
-  "id": "619",
-  "title": "सरस्वती हृदयम्",
-  "titleEn": "Saraswati Hridayam",
-  "slug": "saraswati-hridayam",
-  "devanagariText": "॥ श्री सरस्वती हृदयम् ॥\n\n॥ ध्यानम् ॥\nशरदिन्दुसमानभां पद्मासनसमाश्रिताम्।\nवीणापुस्तकधारिणीं वन्दे वाग्देवतां शुभाम्॥\n\n॥ हृदयम् ॥\nनमस्ते शारदे देवि नमस्ते वाग्विलासिनि।\nनमस्ते ज्ञानदे मातर्नमस्ते ब्रह्मरूपिणि॥ १॥\n\nत्वमेव विद्या सर्वेषां त्वमेव ज्ञानदायिनी।\nत्वमेव बुद्धिरूपा च त्वमेव स्मृतिरूपिणी॥ २॥\n\nत्वमेव वेदजननी त्वमेव शास्त्रदेवता।\nत्वमेव कलारूपा च त्वमेव वाक्स्वरूपिणी॥ ३॥\n\nत्वमेव गीतं संगीतं त्वमेव काव्यवाहिनी।\nत्वमेव मेधा प्रज्ञा च त्वमेव धारणा स्मृतिः॥ ४॥\n\nत्वमेव मोक्षमार्गस्य प्रदीपं ज्ञानदीपिका।\nत्वमेव विश्वजननी त्वमेव विश्वमोहिनी॥ ५॥\n\nहंसवाहनमारूढा शुभ्रवर्णा चतुर्भुजा।\nवीणां पुस्तकमक्षस्य मालां कमलधारिणी॥ ६॥\n\nसरस्वतीहृदयं यः पठेद्विद्यार्थिमानवः।\nस विद्यां लभते शीघ्रं वाग्देवीकृपया ध्रुवम्॥ ७॥\n\nकवित्वं लभते मर्त्यो वाक्सिद्धिं लभते सदा।\nपरीक्षासु जयं नित्यं सरस्वतीप्रसादतः॥ ८॥\n\n॥ इति श्री सरस्वती हृदयं सम्पूर्णम् ॥",
-  "transliteration": "|| Shri Saraswati Hridayam ||\n\n|| Dhyanam ||\nSharad-indu-samanabham Padmasana-samashritam.\nVina-pustaka-dharinim Vande Vagdevatam Shubham.\n\n|| Hridayam ||\nNamaste Sharade Devi Namaste Vagvilasini.\nNamaste Jnanade Matar-namaste Brahmarupini. || 1 ||\n\nTvameva Vidya Sarvesham Tvameva Jnanadayini.\nTvameva Buddhirupaa Cha Tvameva Smritirupini. || 2 ||\n\nTvameva Vedajanani Tvameva Shastradevata.\nTvameva Kalarupaa Cha Tvameva Vakswarupini. || 3 ||\n\nTvameva Gitam Sangitam Tvameva Kavyavahini.\nTvameva Medha Prajna Cha Tvameva Dharana Smritih. || 4 ||\n\nTvameva Mokshamargasya Pradipam Jnanadipika.\nTvameva Vishwajanani Tvameva Vishwamohini. || 5 ||\n\nHamsavahanam-arudha Shubhravarna Chaturbhuja.\nVinam Pustakam-akṣasya Malam Kamaladharinim. || 6 ||\n\nSaraswati-hridayam Yah Pathed-vidyarthi-manavah.\nSa Vidyam Labhate Shighram Vagdevi-kripaya Dhruvam. || 7 ||\n\nKavitvam Labhate Martyo Vak-siddhim Labhate Sada.\nParikshasu Jayam Nityam Saraswati-prasadatah. || 8 ||\n\n|| Iti Shri Saraswati Hridayam Sampoornam ||",
-  "hindiMeaning": "सरस्वती हृदयम् में माता सरस्वती को विद्या, ज्ञान, बुद्धि, स्मृति, वेदजननी, शास्त्रदेवता, कला, वाणी, संगीत, काव्य, मेधा, प्रज्ञा और मोक्षमार्ग की प्रदीपिका बताया गया है। हंसवाहिनी, शुभ्रवर्णा, चतुर्भुजा देवी वीणा, पुस्तक, अक्षमाला और कमल धारण करती हैं। जो विद्यार्थी भक्तिपूर्वक इसका पाठ करता है उसे शीघ्र विद्या, कवित्वशक्ति, वाक्सिद्धि और परीक्षाओं में विजय प्राप्त होती है।",
-  "viniyog": null,
-  "benefits": [
-    "Grants vidya (knowledge) and buddhi (intelligence) rapidly",
-    "Bestows eloquence, poetic ability, and mastery of speech",
-    "Ideal for students seeking success in examinations",
-    "Enhances memory, concentration, and learning ability",
-    "Brings the complete grace of Goddess Saraswati"
-  ],
-  "deity": "saraswati",
-  "secondaryDeities": [],
-  "days": ["thursday", "wednesday"],
-  "festivals": ["vasant-panchami", "saraswati-puja"],
-  "purposes": ["knowledge", "education", "devotion", "creativity"],
-  "readingTimeMinutes": 7,
-  "seoDescription": "Read Saraswati Hridayam in Sanskrit with Hindi meaning. Sacred hymn to Goddess Saraswati for knowledge, eloquence, memory, and academic success.",
-  "verseCount": 8,
-  "source": "Saraswati Rahasya",
-  "createdAt": "2026-03-29T00:00:00Z",
-  "updatedAt": "2026-03-29T00:00:00Z",
-  "isPublished": true
+    "id": "559",
+    "title": "सरस्वती हृदयम्",
+    "titleEn": "Saraswati Hridayam",
+    "slug": "saraswati-hridayam",
+    "devanagariText": "॥ श्री सरस्वती हृदयम् ॥\n\n॥ ध्यानम् ॥\nशरदिन्दुसमानभां पद्मासनसमाश्रिताम्।\nवीणापुस्तकधारिणीं वन्दे वाग्देवतां शुभाम्॥\n\n॥ हृदयम् ॥\nनमस्ते शारदे देवि नमस्ते वाग्विलासिनि।\nनमस्ते ज्ञानदे मातर्नमस्ते ब्रह्मरूपिणि॥ १॥\n\nत्वमेव विद्या सर्वेषां त्वमेव ज्ञानदायिनी।\nत्वमेव बुद्धिरूपा च त्वमेव स्मृतिरूपिणी॥ २॥\n\nत्वमेव वेदजननी त्वमेव शास्त्रदेवता।\nत्वमेव कलारूपा च त्वमेव वाक्स्वरूपिणी॥ ३॥\n\nत्वमेव गीतं संगीतं त्वमेव काव्यवाहिनी।\nत्वमेव मेधा प्रज्ञा च त्वमेव धारणा स्मृतिः॥ ४॥\n\nत्वमेव मोक्षमार्गस्य प्रदीपं ज्ञानदीपिका।\nत्वमेव विश्वजननी त्वमेव विश्वमोहिनी॥ ५॥\n\nहंसवाहनमारूढा शुभ्रवर्णा चतुर्भुजा।\nवीणां पुस्तकमक्षस्य मालां कमलधारिणी॥ ६॥\n\nसरस्वतीहृदयं यः पठेद्विद्यार्थिमानवः।\nस विद्यां लभते शीघ्रं वाग्देवीकृपया ध्रुवम्॥ ७॥\n\nकवित्वं लभते मर्त्यो वाक्सिद्धिं लभते सदा।\nपरीक्षासु जयं नित्यं सरस्वतीप्रसादतः॥ ८॥\n\n॥ इति श्री सरस्वती हृदयं सम्पूर्णम् ॥",
+    "transliteration": "|| Shri Saraswati Hridayam ||\n\n|| Dhyanam ||\nSharad-indu-samanabham Padmasana-samashritam.\nVina-pustaka-dharinim Vande Vagdevatam Shubham.\n\n|| Hridayam ||\nNamaste Sharade Devi Namaste Vagvilasini.\nNamaste Jnanade Matar-namaste Brahmarupini. || 1 ||\n\nTvameva Vidya Sarvesham Tvameva Jnanadayini.\nTvameva Buddhirupaa Cha Tvameva Smritirupini. || 2 ||\n\nTvameva Vedajanani Tvameva Shastradevata.\nTvameva Kalarupaa Cha Tvameva Vakswarupini. || 3 ||\n\nTvameva Gitam Sangitam Tvameva Kavyavahini.\nTvameva Medha Prajna Cha Tvameva Dharana Smritih. || 4 ||\n\nTvameva Mokshamargasya Pradipam Jnanadipika.\nTvameva Vishwajanani Tvameva Vishwamohini. || 5 ||\n\nHamsavahanam-arudha Shubhravarna Chaturbhuja.\nVinam Pustakam-akṣasya Malam Kamaladharinim. || 6 ||\n\nSaraswati-hridayam Yah Pathed-vidyarthi-manavah.\nSa Vidyam Labhate Shighram Vagdevi-kripaya Dhruvam. || 7 ||\n\nKavitvam Labhate Martyo Vak-siddhim Labhate Sada.\nParikshasu Jayam Nityam Saraswati-prasadatah. || 8 ||\n\n|| Iti Shri Saraswati Hridayam Sampoornam ||",
+    "hindiMeaning": "सरस्वती हृदयम् में माता सरस्वती को विद्या, ज्ञान, बुद्धि, स्मृति, वेदजननी, शास्त्रदेवता, कला, वाणी, संगीत, काव्य, मेधा, प्रज्ञा और मोक्षमार्ग की प्रदीपिका बताया गया है। हंसवाहिनी, शुभ्रवर्णा, चतुर्भुजा देवी वीणा, पुस्तक, अक्षमाला और कमल धारण करती हैं। जो विद्यार्थी भक्तिपूर्वक इसका पाठ करता है उसे शीघ्र विद्या, कवित्वशक्ति, वाक्सिद्धि और परीक्षाओं में विजय प्राप्त होती है।",
+    "viniyog": null,
+    "benefits": [
+        "Grants vidya (knowledge) and buddhi (intelligence) rapidly",
+        "Bestows eloquence, poetic ability, and mastery of speech",
+        "Ideal for students seeking success in examinations",
+        "Enhances memory, concentration, and learning ability",
+        "Brings the complete grace of Goddess Saraswati"
+    ],
+    "deity": "saraswati",
+    "secondaryDeities": [],
+    "days": [
+        "thursday",
+        "wednesday"
+    ],
+    "festivals": [
+        "vasant-panchami",
+        "saraswati-puja"
+    ],
+    "purposes": [
+        "knowledge",
+        "education",
+        "devotion",
+        "creativity"
+    ],
+    "readingTimeMinutes": 7,
+    "seoDescription": "Read Saraswati Hridayam in Sanskrit with Hindi meaning. Sacred hymn to Goddess Saraswati for knowledge, eloquence, memory, and academic success.",
+    "verseCount": 8,
+    "source": "Saraswati Rahasya",
+    "createdAt": "2026-03-29T00:00:00Z",
+    "updatedAt": "2026-03-29T00:00:00Z",
+    "isPublished": true
 }

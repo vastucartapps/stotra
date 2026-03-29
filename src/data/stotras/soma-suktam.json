@@ -1,38 +1,46 @@
 {
-  "id": "600",
-  "title": "सोम सूक्तम्",
-  "titleEn": "Soma Suktam",
-  "slug": "soma-suktam",
-  "devanagariText": "॥ श्री सोम सूक्तम् ॥\n\nॐ स्वादिष्ठया मदिष्ठया पवस्व सोम धारया।\nइन्द्राय पातवे सुतः॥ १॥\n\nरक्षोहा विश्वचर्षणिः अभि योनिं अयोहतम्।\nद्रुणा सदेहि धारया॥ २॥\n\nअप त्या अस्य संविषो विष्वगत्र पतन्ति सम्।\nयदी पवित्रमेरवत्॥ ३॥\n\nसोमः पुनानो अर्षति सहस्रधारः पयोवृधः।\nवाजी धिया पनस्यते॥ ४॥\n\nपरि प्रियो दिवः कविर्नृभिः पवित्रमेरवत्।\nपुनानो अर्षति द्रुषत्॥ ५॥\n\nस्वादुः पवस्व दिव्यः स्वादुरिन्द्राय वायवे।\nस्वादुर्मित्राय वरुणे॥ ६॥\n\nस्वादोः स्वादीयसं सुतम् ऋतस्य ज्योतिषस्पतिम्।\nमदाय सोमम्ईमहे॥ ७॥\n\nस पवित्रमति एति रेभन् त्सोमो देवेभ्य इन्दुः।\nविश्वा धामान्यावृशत्॥ ८॥",
-  "transliteration": "|| Shri Soma Suktam ||\n\nOm Svadishthaya madishthaya pavasva Soma dharaya |\nIndraya patave sutah || 1 ||\n\nRakshoha vishvacharshanir-abhi yonim ayohatam |\nDruna sadehi dharaya || 2 ||\n\nApa tya asya samvisho vishvag-atra patanti sam |\nYadi pavitram-eravat || 3 ||\n\nSomah punano arshati sahasra-dharah payo-vridhah |\nVaji dhiya panasyate || 4 ||\n\nPari priyo divah kavir-nribhih pavitram-eravat |\nPunano arshati drushat || 5 ||\n\nSvaduh pavasva divyah svadur-Indraya Vayave |\nSvadur-Mitraya Varune || 6 ||\n\nSvadoh svadiyasam sutam ritasya jyotishash-patim |\nMadaya Somam-imahe || 7 ||\n\nSa pavitram-ati eti rebhan-Tsomo devebhya Induh |\nVishva dhamany-avrishat || 8 ||",
-  "hindiMeaning": "हे सोम! सबसे मधुर, सबसे मादक धारा से इन्द्र के पान हेतु पवित्र होकर बहो॥ १॥\n\nराक्षसों का नाश करने वाले, सब को देखने वाले सोम, लोहे के पात्र में काष्ठ से धारा से निकलो॥ २॥\n\nउनके विष सर्वत्र गिर जाते हैं जब पवित्र सोम प्रवाहित होता है॥ ३॥\n\nसोम पवित्र होकर बहता है, सहस्रधारा वाला, दुग्धवर्धक, बलवान, बुद्धि से स्तुत्य॥ ४॥\n\nप्रिय, दिव्य, कवि सोम मनुष्यों द्वारा पवित्र किया जाकर प्रवाहित होता है॥ ५॥\n\nहे दिव्य सोम! मधुर बनकर बहो — इन्द्र के लिए, वायु के लिए, मित्र और वरुण के लिए मधुर॥ ६॥\n\nमधुर से भी अधिक मधुर, निचोड़े हुए, ऋत के ज्योतिपति सोम को हम आनन्द के लिए याचना करते हैं॥ ७॥\n\nवह सोम इन्दु (चन्द्र) देवों के लिए पवित्र को पार करता हुआ, गुंजार करता हुआ, सभी धामों को सींचता है॥ ८॥",
-  "viniyog": {
-    "rishi": "कण्वः",
-    "chhand": "गायत्री",
-    "devata": "सोम (पवमान)",
-    "beej": "",
-    "shakti": "",
-    "kilak": "",
-    "shloka": ""
-  },
-  "benefits": [
-    "Sacred hymn to Soma, the divine nectar of immortality",
-    "Purifies the mind and body from toxins and negativity",
-    "Invokes the lunar deity for mental peace and clarity",
-    "Strengthens spiritual practice and meditation",
-    "Associated with rejuvenation and longevity",
-    "Ideal for Somvar (Monday) puja and Chandra-related rituals"
-  ],
-  "deity": "shiva",
-  "secondaryDeities": [],
-  "days": ["monday"],
-  "festivals": [],
-  "purposes": ["peace", "health", "devotion", "protection"],
-  "readingTimeMinutes": 5,
-  "seoDescription": "Read Soma Suktam in Sanskrit with Hindi meaning and transliteration. Ancient Rigvedic hymn to Soma, the divine nectar, for purification, peace, and longevity.",
-  "verseCount": 8,
-  "source": "Rigveda (Mandala 9)",
-  "createdAt": "2026-03-29T00:00:00Z",
-  "updatedAt": "2026-03-29T00:00:00Z",
-  "isPublished": true
+    "id": "662",
+    "title": "सोम सूक्तम्",
+    "titleEn": "Soma Suktam",
+    "slug": "soma-suktam",
+    "devanagariText": "॥ श्री सोम सूक्तम् ॥\n\nॐ स्वादिष्ठया मदिष्ठया पवस्व सोम धारया।\nइन्द्राय पातवे सुतः॥ १॥\n\nरक्षोहा विश्वचर्षणिः अभि योनिं अयोहतम्।\nद्रुणा सदेहि धारया॥ २॥\n\nअप त्या अस्य संविषो विष्वगत्र पतन्ति सम्।\nयदी पवित्रमेरवत्॥ ३॥\n\nसोमः पुनानो अर्षति सहस्रधारः पयोवृधः।\nवाजी धिया पनस्यते॥ ४॥\n\nपरि प्रियो दिवः कविर्नृभिः पवित्रमेरवत्।\nपुनानो अर्षति द्रुषत्॥ ५॥\n\nस्वादुः पवस्व दिव्यः स्वादुरिन्द्राय वायवे।\nस्वादुर्मित्राय वरुणे॥ ६॥\n\nस्वादोः स्वादीयसं सुतम् ऋतस्य ज्योतिषस्पतिम्।\nमदाय सोमम्ईमहे॥ ७॥\n\nस पवित्रमति एति रेभन् त्सोमो देवेभ्य इन्दुः।\nविश्वा धामान्यावृशत्॥ ८॥",
+    "transliteration": "|| Shri Soma Suktam ||\n\nOm Svadishthaya madishthaya pavasva Soma dharaya |\nIndraya patave sutah || 1 ||\n\nRakshoha vishvacharshanir-abhi yonim ayohatam |\nDruna sadehi dharaya || 2 ||\n\nApa tya asya samvisho vishvag-atra patanti sam |\nYadi pavitram-eravat || 3 ||\n\nSomah punano arshati sahasra-dharah payo-vridhah |\nVaji dhiya panasyate || 4 ||\n\nPari priyo divah kavir-nribhih pavitram-eravat |\nPunano arshati drushat || 5 ||\n\nSvaduh pavasva divyah svadur-Indraya Vayave |\nSvadur-Mitraya Varune || 6 ||\n\nSvadoh svadiyasam sutam ritasya jyotishash-patim |\nMadaya Somam-imahe || 7 ||\n\nSa pavitram-ati eti rebhan-Tsomo devebhya Induh |\nVishva dhamany-avrishat || 8 ||",
+    "hindiMeaning": "हे सोम! सबसे मधुर, सबसे मादक धारा से इन्द्र के पान हेतु पवित्र होकर बहो॥ १॥\n\nराक्षसों का नाश करने वाले, सब को देखने वाले सोम, लोहे के पात्र में काष्ठ से धारा से निकलो॥ २॥\n\nउनके विष सर्वत्र गिर जाते हैं जब पवित्र सोम प्रवाहित होता है॥ ३॥\n\nसोम पवित्र होकर बहता है, सहस्रधारा वाला, दुग्धवर्धक, बलवान, बुद्धि से स्तुत्य॥ ४॥\n\nप्रिय, दिव्य, कवि सोम मनुष्यों द्वारा पवित्र किया जाकर प्रवाहित होता है॥ ५॥\n\nहे दिव्य सोम! मधुर बनकर बहो — इन्द्र के लिए, वायु के लिए, मित्र और वरुण के लिए मधुर॥ ६॥\n\nमधुर से भी अधिक मधुर, निचोड़े हुए, ऋत के ज्योतिपति सोम को हम आनन्द के लिए याचना करते हैं॥ ७॥\n\nवह सोम इन्दु (चन्द्र) देवों के लिए पवित्र को पार करता हुआ, गुंजार करता हुआ, सभी धामों को सींचता है॥ ८॥",
+    "viniyog": {
+        "rishi": "कण्वः",
+        "chhand": "गायत्री",
+        "devata": "सोम (पवमान)",
+        "beej": "",
+        "shakti": "",
+        "kilak": "",
+        "shloka": ""
+    },
+    "benefits": [
+        "Sacred hymn to Soma, the divine nectar of immortality",
+        "Purifies the mind and body from toxins and negativity",
+        "Invokes the lunar deity for mental peace and clarity",
+        "Strengthens spiritual practice and meditation",
+        "Associated with rejuvenation and longevity",
+        "Ideal for Somvar (Monday) puja and Chandra-related rituals"
+    ],
+    "deity": "shiva",
+    "secondaryDeities": [],
+    "days": [
+        "monday"
+    ],
+    "festivals": [],
+    "purposes": [
+        "peace",
+        "health",
+        "devotion",
+        "protection",
+        "worship"
+    ],
+    "readingTimeMinutes": 5,
+    "seoDescription": "Read Soma Suktam in Sanskrit with Hindi meaning and transliteration. Ancient Rigvedic hymn to Soma, the divine nectar, for purification, peace, and longevity.",
+    "verseCount": 8,
+    "source": "Rigveda (Mandala 9)",
+    "createdAt": "2026-03-29T00:00:00Z",
+    "updatedAt": "2026-03-29T00:00:00Z",
+    "isPublished": true
 }
