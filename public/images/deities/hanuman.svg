@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Gada (mace/club) held upright -->
+
+  <!-- Gada head - ornate top knob -->
+  <ellipse cx="32" cy="8" rx="9" ry="6"/>
+  <!-- Decorative rings on gada head -->
+  <path d="M23 8 Q32 11 41 8"/>
+  <path d="M24 6 Q32 3 40 6"/>
+  <!-- Top finial -->
+  <path d="M28 3 Q32 1 36 3"/>
+  <line x1="32" y1="1" x2="32" y2="3"/>
+
+  <!-- Gada neck (narrowing) -->
+  <path d="M27 13 Q32 15 37 13"/>
+  <path d="M26 13 L26 18"/>
+  <path d="M38 13 L38 18"/>
+
+  <!-- Gada shaft - long handle -->
+  <path d="M28 17 L28 52 Q28 54 30 55 Q32 56 34 55 Q36 54 36 52 L36 17"/>
+  <!-- Decorative rings on shaft -->
+  <line x1="28" y1="25" x2="36" y2="25"/>
+  <line x1="28" y1="35" x2="36" y2="35"/>
+  <line x1="28" y1="45" x2="36" y2="45"/>
+
+  <!-- Gada base/grip -->
+  <ellipse cx="32" cy="55" rx="4" ry="2"/>
+
+  <!-- Tail curl at bottom -->
+  <path d="M32 57 Q32 60 35 61 Q40 62 42 59 Q44 56 42 53 Q40 51 37 52 Q35 53 36 55"/>
+
+  <!-- Hand gripping the gada (stylized) -->
+  <path d="M27 30 Q24 30 23 32 Q23 36 26 37 Q27 37 28 35"/>
+  <!-- Fingers wrap -->
+  <path d="M24 31 Q22 33 23 35"/>
+  <path d="M24 33 Q22 35 23 37"/>
+
+  <!-- Small Hanuman face suggestion at top (optional, minimalist) -->
+  <!-- Simple face above gada top -->
+  <circle cx="32" cy="0" r="0"/>
+
+  <!-- Tilak mark suggestion on shaft -->
+  <path d="M30 20 L32 18 L34 20"/>
+</svg>

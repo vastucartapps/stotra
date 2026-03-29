@@ -4,6 +4,7 @@ import Link from "next/link";
 import { PURPOSES, getPurposeBySlug } from "@/data/purposes";
 import { getStotrasByPurpose } from "@/lib/stotras";
 import { StotraCard } from "@/components/stotra/StotraCard";
+import { CategoryIcon } from "@/components/ui/CategoryIcon";
 
 const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
 
@@ -149,8 +150,13 @@ export default async function PurposePage({ params }: { params: Promise<{ slug: 
         <span>/</span>
         <span className="text-text">{purpose.name}</span>
       </nav>
-      <h1 className="font-serif text-3xl md:text-4xl font-bold text-brand mb-2">Stotras for {purpose.name}</h1>
-      <p className="devanagari-heading text-lg text-text-muted mb-8">{purpose.nameHi}</p>
+      <div className="flex items-center gap-4 mb-8">
+        <CategoryIcon type="purpose" id={purpose.id} size="xl" className="rounded-2xl bg-brand/10" />
+        <div>
+          <h1 className="font-serif text-3xl md:text-4xl font-bold text-brand">{purpose.name}</h1>
+          <p className="devanagari-heading text-lg text-text-muted">{purpose.nameHi}</p>
+        </div>
+      </div>
       {stotras.length > 0 ? (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
           {stotras.map((s) => <StotraCard key={s.slug} stotra={s} />)}

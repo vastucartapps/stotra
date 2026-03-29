@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Blooming lotus - center -->
+  <circle cx="32" cy="36" r="5" />
+  <!-- Inner petal layer (4 petals) -->
+  <path d="M32 31 Q29 28 32 26 Q35 28 32 31Z" />
+  <path d="M37 36 Q40 33 42 36 Q40 39 37 36Z" />
+  <path d="M32 41 Q29 44 32 46 Q35 44 32 41Z" />
+  <path d="M27 36 Q24 33 22 36 Q24 39 27 36Z" />
+  <!-- Outer petal layer (8 petals) -->
+  <path d="M32 29 Q27 24 30 20 Q33 23 32 29Z" />
+  <path d="M36 30 Q40 24 44 26 Q42 30 36 30Z" />
+  <path d="M39 34 Q46 32 48 36 Q45 38 39 34Z" />
+  <path d="M38 39 Q43 44 41 48 Q38 45 38 39Z" />
+  <path d="M32 43 Q33 49 30 52 Q29 48 32 43Z" />
+  <path d="M26 39 Q21 44 23 48 Q26 45 26 39Z" />
+  <path d="M25 34 Q18 32 16 36 Q19 38 25 34Z" />
+  <path d="M28 30 Q24 24 20 26 Q22 30 28 30Z" />
+  <!-- Lotus stem -->
+  <path d="M32 52 Q30 56 32 58 Q34 56 32 52" />
+  <line x1="32" y1="58" x2="32" y2="60" />
+  <!-- Jewels / diamonds floating around lotus (Lakshmi wealth) -->
+  <!-- Diamond 1 top left -->
+  <path d="M18 16 L15 20 L18 24 L21 20 Z" />
+  <!-- Diamond 2 top right -->
+  <path d="M46 16 L43 20 L46 24 L49 20 Z" />
+  <!-- Diamond 3 upper left -->
+  <path d="M10 28 L8 31 L10 34 L12 31 Z" />
+  <!-- Diamond 4 upper right -->
+  <path d="M54 28 L52 31 L54 34 L56 31 Z" />
+  <!-- Small star sparkles near diamonds -->
+  <line x1="18" y1="12" x2="18" y2="10" />
+  <line x1="15" y1="14" x2="13" y2="13" />
+  <line x1="21" y1="14" x2="23" y2="13" />
+  <line x1="46" y1="12" x2="46" y2="10" />
+  <line x1="43" y1="14" x2="41" y2="13" />
+  <line x1="49" y1="14" x2="51" y2="13" />
+  <!-- Gold coins scattered (prosperity) -->
+  <circle cx="12" cy="46" r="3" />
+  <circle cx="52" cy="46" r="3" />
+  <circle cx="10" cy="54" r="2" />
+  <circle cx="54" cy="54" r="2" />
+</svg>

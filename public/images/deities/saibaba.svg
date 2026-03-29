@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Head with distinctive cloth/kafni headwrap -->
+  <!-- Head shape -->
+  <ellipse cx="32" cy="17" rx="8" ry="9"/>
+  <!-- Headcloth wrapping (Sai Baba's iconic cloth on head) -->
+  <!-- Cloth drapes over top and falls on sides -->
+  <path d="M24 14 Q24 8 32 7 Q40 8 40 14"/>
+  <path d="M24 14 Q22 16 21 20"/>
+  <path d="M40 14 Q42 16 43 20"/>
+  <!-- Cloth fold on top -->
+  <path d="M26 10 Q32 8 38 10"/>
+  <!-- Cloth knot/gather on top right -->
+  <path d="M38 9 Q41 8 42 11 Q40 12 38 10"/>
+
+  <!-- Face features -->
+  <!-- Eyes (gentle, slightly closed) -->
+  <path d="M28.5 17 Q30 15.5 31.5 17"/>
+  <path d="M32.5 17 Q34 15.5 35.5 17"/>
+  <!-- Nose -->
+  <path d="M31 18 Q32 20 33 18"/>
+  <!-- Gentle smile -->
+  <path d="M29 21 Q32 23 35 21"/>
+  <!-- Beard (Sai Baba's thin beard outline) -->
+  <path d="M28 22 Q32 26 36 22"/>
+  <path d="M30 24 Q32 27 34 24"/>
+
+  <!-- Neck and body (sitting in kafni robe) -->
+  <!-- Long kafni/robe outline -->
+  <path d="M24 26 Q20 30 18 40 Q17 50 18 60"/>
+  <path d="M40 26 Q44 30 46 40 Q47 50 46 60"/>
+  <!-- Robe bottom hem -->
+  <path d="M18 60 Q32 62 46 60"/>
+  <!-- Robe center fold -->
+  <path d="M32 28 L32 60"/>
+  <!-- Robe side fold lines -->
+  <path d="M22 35 Q28 37 32 35"/>
+  <path d="M42 35 Q36 37 32 35"/>
+
+  <!-- Right arm raised in Ashirwad (blessing mudra) — palm out, raised -->
+  <path d="M40 28 Q46 24 50 20"/>
+  <!-- Hand in blessing pose -->
+  <path d="M50 20 Q53 18 54 21 Q53 24 50 23"/>
+  <!-- Fingers extended upward -->
+  <path d="M51 20 L52 16"/>
+  <path d="M53 21 L55 17"/>
+  <path d="M54 23 L56 20"/>
+
+  <!-- Left arm resting on left knee -->
+  <path d="M22 36 Q16 40 14 44"/>
+  <path d="M14 44 Q13 46 15 47 Q17 47 17 45"/>
+
+  <!-- Dhuni (sacred fire) at the base in front -->
+  <!-- Three-brick dhuni base -->
+  <path d="M24 58 L40 58 L38 54 L26 54 Z"/>
+  <!-- Ash mound -->
+  <path d="M26 54 Q32 52 38 54"/>
+  <!-- Small flame on dhuni -->
+  <path d="M32 54 Q30 50 31 46 Q33 50 32 54"/>
+  <path d="M29 54 Q27 51 28 48 Q30 51 29 54"/>
+  <path d="M35 54 Q37 51 36 48 Q34 51 35 54"/>
+</svg>

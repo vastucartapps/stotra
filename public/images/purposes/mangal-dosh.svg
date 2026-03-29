@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Outer yantra hexagon (calming pattern) -->
+  <polygon points="32,6 50,16 50,38 32,48 14,38 14,16"/>
+  <!-- Inner yantra triangle (upward - masculine/Mars) -->
+  <polygon points="32,14 46,36 18,36"/>
+  <!-- Inner yantra triangle (downward - calming/feminine) -->
+  <polygon points="32,44 18,22 46,22"/>
+  <!-- Mars symbol - circle -->
+  <circle cx="32" cy="29" r="7"/>
+  <!-- Mars arrow (circle with arrow pointing up-right) -->
+  <line x1="37" y1="24" x2="44" y2="17"/>
+  <path d="M44 17 L40 17 M44 17 L44 21"/>
+  <!-- Central dot (yantra bindu) -->
+  <circle cx="32" cy="29" r="1.5" stroke="none" fill="currentColor"/>
+  <!-- Petal decorations between hexagon and triangles -->
+  <path d="M32 6 Q30 10 32 14 Q34 10 32 6"/>
+  <path d="M50 16 Q46 17 46 22 Q50 20 50 16"/>
+  <path d="M50 38 Q46 37 46 36 Q48 40 50 38"/>
+  <path d="M32 48 Q30 44 32 44 Q34 44 32 48"/>
+  <path d="M14 38 Q18 37 18 36 Q16 40 14 38"/>
+  <path d="M14 16 Q18 17 18 22 Q14 20 14 16"/>
+</svg>

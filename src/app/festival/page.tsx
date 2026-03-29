@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { CategoryIcon } from "@/components/ui/CategoryIcon";
 import { FESTIVALS } from "@/data/festivals";
 import { getDeityById } from "@/data/deities";
 import { getStotrasByFestival } from "@/lib/stotras";
@@ -104,10 +105,15 @@ export default function FestivalListPage() {
               href={`/festival/${festival.slug}`}
               className="group bg-white rounded-xl p-6 border border-border-light hover:border-gold/30 hover:shadow-card-hover transition-all duration-300"
             >
-              <h2 className="font-serif text-xl font-semibold text-brand group-hover:text-brand-light transition-colors">
-                {festival.name}
-              </h2>
-              <p className="devanagari-heading text-sm text-text-muted mb-3">{festival.nameHi}</p>
+              <div className="flex items-center gap-3 mb-3">
+                <CategoryIcon type="festival" id={festival.id} size="lg" className="rounded-xl bg-saffron/10" />
+                <div>
+                  <h2 className="font-serif text-xl font-semibold text-brand group-hover:text-brand-light transition-colors">
+                    {festival.name}
+                  </h2>
+                  <p className="devanagari-heading text-sm text-text-muted">{festival.nameHi}</p>
+                </div>
+              </div>
               <div className="flex flex-wrap gap-1.5 mb-3">
                 {festival.deities.map((did) => {
                   const d = getDeityById(did);

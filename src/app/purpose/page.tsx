@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { PURPOSES } from "@/data/purposes";
 import { getStotrasByPurpose } from "@/lib/stotras";
+import { CategoryIcon } from "@/components/ui/CategoryIcon";
 
 const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
 
@@ -94,8 +95,13 @@ export default function PurposeListPage() {
           return (
             <Link key={purpose.id} href={`/purpose/${purpose.slug}`}
               className="group bg-white rounded-xl p-6 border border-border-light hover:border-gold/30 hover:shadow-card-hover transition-all duration-300">
-              <h2 className="font-serif text-xl font-semibold text-brand group-hover:text-brand-light transition-colors">{purpose.name}</h2>
-              <p className="devanagari-heading text-sm text-text-muted mb-2">{purpose.nameHi}</p>
+              <div className="flex items-center gap-3 mb-2">
+                <CategoryIcon type="purpose" id={purpose.id} size="lg" className="rounded-xl bg-brand/10" />
+                <div>
+                  <h2 className="font-serif text-xl font-semibold text-brand group-hover:text-brand-light transition-colors">{purpose.name}</h2>
+                  <p className="devanagari-heading text-sm text-text-muted">{purpose.nameHi}</p>
+                </div>
+              </div>
               {count > 0 && <p className="text-xs text-text-muted">{count} stotras</p>}
             </Link>
           );

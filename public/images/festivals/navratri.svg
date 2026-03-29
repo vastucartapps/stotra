@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Trishul center shaft -->
+  <line x1="32" y1="18" x2="32" y2="52"/>
+  <!-- Trishul left prong -->
+  <path d="M32 18 C28 14 26 10 27 7 C28 9 29 12 32 14"/>
+  <!-- Trishul right prong -->
+  <path d="M32 18 C36 14 38 10 37 7 C36 9 35 12 32 14"/>
+  <!-- Trishul center prong -->
+  <path d="M32 14 C31 10 31 7 32 5 C33 7 33 10 32 14"/>
+  <!-- Trishul crossbar -->
+  <line x1="27" y1="22" x2="37" y2="22"/>
+  <!-- Nine flames arranged in 3 rows of 3 -->
+  <!-- Row 1 -->
+  <path d="M10 44 C10 40 8 37 10 35 C12 37 12 40 10 44Z"/>
+  <path d="M17 42 C17 38 15 35 17 33 C19 35 19 38 17 42Z"/>
+  <path d="M24 44 C24 40 22 37 24 35 C26 37 26 40 24 44Z"/>
+  <!-- Row 2 -->
+  <path d="M40 44 C40 40 38 37 40 35 C42 37 42 40 40 44Z"/>
+  <path d="M47 42 C47 38 45 35 47 33 C49 35 49 38 47 42Z"/>
+  <path d="M54 44 C54 40 52 37 54 35 C56 37 56 40 54 44Z"/>
+  <!-- Row 3 bottom flames flanking base -->
+  <path d="M10 56 C10 52 8 49 10 47 C12 49 12 52 10 56Z"/>
+  <path d="M54 56 C54 52 52 49 54 47 C56 49 56 52 54 56Z"/>
+  <!-- Ninth flame on trishul tip area -->
+  <path d="M32 32 C31 29 31 27 32 25 C33 27 33 29 32 32Z"/>
+  <!-- Small lamp bases -->
+  <path d="M8 44 Q10 46 12 44"/>
+  <path d="M15 42 Q17 44 19 42"/>
+  <path d="M22 44 Q24 46 26 44"/>
+  <path d="M38 44 Q40 46 42 44"/>
+  <path d="M45 42 Q47 44 49 42"/>
+  <path d="M52 44 Q54 46 56 44"/>
+  <path d="M8 56 Q10 58 12 56"/>
+  <path d="M52 56 Q54 58 56 56"/>
+</svg>

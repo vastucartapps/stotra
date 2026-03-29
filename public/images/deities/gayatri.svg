@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Central sun disc -->
+  <circle cx="32" cy="32" r="10"/>
+
+  <!-- Five flame points around the sun (petals at 72° intervals) -->
+  <!-- Flame top (0°) -->
+  <path d="M32 22 Q30 16 32 10 Q34 16 32 22"/>
+  <!-- Flame upper-right (72°) -->
+  <path d="M40.5 25.5 Q45 21 50 19 Q46.5 24.5 40.5 25.5"/>
+  <!-- Flame lower-right (144°) -->
+  <path d="M38.5 37.5 Q44 41 45 47 Q40 43.5 38.5 37.5"/>
+  <!-- Flame lower-left (216°) -->
+  <path d="M25.5 37.5 Q20 41 19 47 Q24 43.5 25.5 37.5"/>
+  <!-- Flame upper-left (288°) -->
+  <path d="M23.5 25.5 Q19 21 14 19 Q17.5 24.5 23.5 25.5"/>
+
+  <!-- Om symbol in center (stylized) -->
+  <!-- Om curve body -->
+  <path d="M28 30 Q26 28 27 31 Q28 34 32 34"/>
+  <path d="M32 34 Q36 34 36 31 Q36 28 32 28 Q29 28 28 30"/>
+  <!-- Om upper curve -->
+  <path d="M32 28 Q35 25 34 22"/>
+  <!-- Om tail/hook -->
+  <path d="M33 34 Q35 37 33 39"/>
+  <path d="M30 37 Q34 36 36 38"/>
+
+  <!-- Lotus seat at base -->
+  <path d="M24 54 Q26 50 32 50 Q38 50 40 54"/>
+  <path d="M26 54 Q28 51 32 51 Q36 51 38 54"/>
+  <!-- Left petal -->
+  <path d="M24 54 Q22 50 20 52 Q21 55 24 54"/>
+  <!-- Right petal -->
+  <path d="M40 54 Q42 50 44 52 Q43 55 40 54"/>
+
+  <!-- Goddess figure (simplified bust above lotus) -->
+  <!-- Head with crown (five-headed suggested by double crown arc) -->
+  <ellipse cx="32" cy="44" rx="5" ry="5.5"/>
+  <!-- Crown suggestive of multiple faces -->
+  <path d="M27 41 Q29 38 32 37 Q35 38 37 41"/>
+  <path d="M28 40 Q30 37 32 36 Q34 37 36 40"/>
+  <!-- Eyes -->
+  <circle cx="30.5" cy="44" r="0.7"/>
+  <circle cx="33.5" cy="44" r="0.7"/>
+</svg>

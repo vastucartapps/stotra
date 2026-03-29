@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Spear / lance shaft -->
+  <line x1="32" y1="56" x2="32" y2="16" />
+  <!-- Spear blade (triangular tip) -->
+  <path d="M32 8 L27 18 L32 16 L37 18 Z" />
+  <!-- Cross guard / hand guard -->
+  <line x1="24" y1="38" x2="40" y2="38" />
+  <path d="M24 38 Q22 36 23 34 Q25 35 24 38" />
+  <path d="M40 38 Q42 36 41 34 Q39 35 40 38" />
+  <!-- Flame at the tip base (Agni energy) -->
+  <path d="M28 16 Q27 13 29 11 Q30 14 32 12 Q34 14 35 11 Q37 13 36 16" />
+  <!-- Energy lines radiating from spear (Mars power) -->
+  <line x1="20" y1="24" x2="16" y2="20" />
+  <line x1="18" y1="30" x2="13" y2="28" />
+  <line x1="44" y1="24" x2="48" y2="20" />
+  <line x1="46" y1="30" x2="51" y2="28" />
+  <!-- Small triangles along shaft (energy marks) -->
+  <path d="M30 28 L32 24 L34 28" />
+  <path d="M30 46 L32 42 L34 46" />
+  <!-- Decorative rings on shaft -->
+  <line x1="29" y1="33" x2="35" y2="33" />
+  <line x1="29" y1="51" x2="35" y2="51" />
+  <!-- Pointed foot of spear -->
+  <path d="M32 56 L29 52 L32 54 L35 52 Z" />
+</svg>

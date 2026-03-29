@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Govardhan hill -->
+  <path d="M8 38 Q16 20 32 18 Q48 20 56 38"/>
+  <path d="M12 38 Q20 26 32 24 Q44 26 52 38"/>
+  <!-- Hill texture lines -->
+  <path d="M24 28 Q28 24 32 23"/>
+  <path d="M40 28 Q36 24 32 23"/>
+  <!-- Lifting hand/finger from below -->
+  <path d="M30 52 L30 42"/>
+  <path d="M34 52 L34 40"/>
+  <path d="M32 54 L28 54 L28 50 Q28 46 30 44"/>
+  <path d="M32 54 L36 54 L36 50 Q36 46 34 42"/>
+  <!-- Little finger / pinky extended upward -->
+  <path d="M32 42 Q32 38 32 36"/>
+  <!-- Cows below/around -->
+  <!-- Cow 1 left -->
+  <path d="M10 50 Q12 46 16 46 Q20 46 22 50"/>
+  <path d="M16 46 L16 42"/>
+  <!-- Head -->
+  <circle cx="22" cy="48" r="2.5"/>
+  <!-- Horns -->
+  <path d="M21 46 L19 43 M23 46 L25 43"/>
+  <!-- Legs -->
+  <line x1="12" y1="50" x2="12" y2="56"/>
+  <line x1="14" y1="50" x2="14" y2="56"/>
+  <line x1="18" y1="50" x2="18" y2="56"/>
+  <line x1="20" y1="50" x2="20" y2="56"/>
+  <!-- Cow 2 right -->
+  <path d="M42 50 Q44 46 48 46 Q52 46 54 50"/>
+  <path d="M48 46 L48 42"/>
+  <circle cx="42" cy="48" r="2.5"/>
+  <path d="M43 46 L41 43 M41 46 L39 43"/>
+  <line x1="44" y1="50" x2="44" y2="56"/>
+  <line x1="46" y1="50" x2="46" y2="56"/>
+  <line x1="50" y1="50" x2="50" y2="56"/>
+  <line x1="52" y1="50" x2="52" y2="56"/>
+  <!-- Ground -->
+  <line x1="4" y1="56" x2="60" y2="56"/>
+</svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Khadga / Curved sword (kripan/talwar style) -->
+  <!-- Sword blade (curved, wide at base narrowing to sharp tip) -->
+  <path d="M32 4 C34 8 36 14 37 20 C38 26 37 32 34 36 C31 40 28 42 26 44"/>
+  <path d="M32 4 C30 8 30 14 30 20 C30 26 31 32 31 36 C30 40 28 42 26 44"/>
+  <!-- Blade edge detail (inner curve) -->
+  <path d="M33 8 C34.5 14 35 22 33 30 C32 34 30 38 28 41" stroke-width="0.8"/>
+  <!-- Sword guard / cross hilt -->
+  <path d="M27 43 C26 42 25 40 25 38 L32 36 L38 36 C38 38 37 40 36 41"/>
+  <!-- Sword handle / grip -->
+  <path d="M27 43 C27 46 29 48 32 48 C35 48 37 46 37 43"/>
+  <!-- Handle wrapping lines -->
+  <path d="M28 43 C28 44 36 44 36 43" stroke-width="1"/>
+  <path d="M28.5 45 C28.5 46 35.5 46 35.5 45" stroke-width="1"/>
+  <!-- Pommel (end of handle) -->
+  <ellipse cx="32" cy="48" rx="3" ry="1.5"/>
+  <!-- Lotus flower (base, below sword) - Kali stands on lotus -->
+  <path d="M22 58 C24 54 28 54 30 56 C31 57 32 58 32 58 C32 58 33 57 34 56 C36 54 40 54 42 58"/>
+  <path d="M24 60 C26 56 30 56 32 58 C34 56 38 56 40 60"/>
+  <line x1="32" y1="58" x2="32" y2="62"/>
+  <!-- Skull garland (mala of skulls) - arranged in arc below hilt -->
+  <!-- Small skull shapes in a chain -->
+  <circle cx="14" cy="34" r="2.5"/>
+  <path d="M12 35 C11 37 13 38 14 37 C15 38 17 37 16 35"/>
+  <circle cx="9" cy="28" r="2.5"/>
+  <path d="M7 29 C6 31 8 32 9 31 C10 32 12 31 11 29"/>
+  <circle cx="8" cy="21" r="2.5"/>
+  <path d="M6 22 C5 24 7 25 8 24 C9 25 11 24 10 22"/>
+  <circle cx="12" cy="15" r="2.5"/>
+  <path d="M10 16 C9 18 11 19 12 18 C13 19 15 18 14 16"/>
+  <!-- Chain connecting skulls -->
+  <path d="M12 32 C11 30 10 29 11 27" stroke-width="1"/>
+  <path d="M9 26 C9 24 8 23 8 22" stroke-width="1"/>
+  <path d="M9 19 C10 17 11 16 11 15" stroke-width="1"/>
+  <!-- Third eye symbol (at top center - Kali's power) -->
+  <ellipse cx="32" cy="10" rx="3" ry="2"/>
+  <line x1="29" y1="10" x2="27" y2="10"/>
+  <line x1="35" y1="10" x2="37" y2="10"/>
+  <!-- Crescent moon above third eye -->
+  <path d="M28 7 C30 4 36 4 36 7 C34 5 30 5 28 7"/>
+  <!-- Tongue (sticking out - Kali's famous tongue) -->
+  <path d="M30 10 C30 12 31 14 32 14 C33 14 34 12 34 10" stroke-width="1"/>
+  <!-- Right side skulls continuing garland -->
+  <circle cx="50" cy="34" r="2.5"/>
+  <path d="M48 35 C47 37 49 38 50 37 C51 38 53 37 52 35"/>
+  <circle cx="55" cy="28" r="2.5"/>
+  <path d="M53 29 C52 31 54 32 55 31 C56 32 58 31 57 29"/>
+  <circle cx="56" cy="21" r="2.5"/>
+  <path d="M54 22 C53 24 55 25 56 24 C57 25 59 24 58 22"/>
+  <circle cx="52" cy="15" r="2.5"/>
+  <path d="M50 16 C49 18 51 19 52 18 C53 19 55 18 54 16"/>
+  <!-- Right chain -->
+  <path d="M52 32 C53 30 54 29 53 27" stroke-width="1"/>
+  <path d="M55 26 C55 24 56 23 56 22" stroke-width="1"/>
+  <path d="M55 19 C54 17 53 16 53 15" stroke-width="1"/>
+</svg>

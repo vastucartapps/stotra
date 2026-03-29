@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Protective hands (cupped, around center) -->
+  <path d="M10 44 Q8 36 10 28 Q14 18 22 18"/>
+  <path d="M54 44 Q56 36 54 28 Q50 18 42 18"/>
+  <path d="M10 44 Q18 54 32 56 Q46 54 54 44"/>
+  <!-- Womb/oval shape -->
+  <ellipse cx="32" cy="34" rx="14" ry="17"/>
+  <!-- Lotus bud inside (life symbol) -->
+  <!-- Central petal -->
+  <path d="M32 28 Q29 32 32 38 Q35 32 32 28 Z"/>
+  <!-- Left petal -->
+  <path d="M32 33 Q26 30 26 34 Q26 38 32 36"/>
+  <!-- Right petal -->
+  <path d="M32 33 Q38 30 38 34 Q38 38 32 36"/>
+  <!-- Lotus base stem -->
+  <line x1="32" y1="38" x2="32" y2="42"/>
+  <!-- Small life spark at top -->
+  <circle cx="32" cy="26" r="1.5"/>
+  <!-- Radiating warmth lines -->
+  <path d="M22 18 Q20 12 22 8" stroke-width="1"/>
+  <path d="M42 18 Q44 12 42 8" stroke-width="1"/>
+  <line x1="32" y1="17" x2="32" y2="11" stroke-width="1"/>
+</svg>

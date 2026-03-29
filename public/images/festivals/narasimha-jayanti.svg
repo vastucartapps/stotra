@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Pillar being broken -->
+  <rect x="26" y="8" width="12" height="44" rx="2"/>
+  <!-- Crack in pillar -->
+  <path d="M26 30 L30 28 L28 33 L33 31 L32 36 L38 34"/>
+  <!-- Lion head emerging from pillar -->
+  <!-- Mane outline -->
+  <path d="M20 20 Q14 16 12 22 Q10 28 14 32 Q10 36 12 42 Q16 46 22 44"/>
+  <path d="M44 20 Q50 16 52 22 Q54 28 50 32 Q54 36 52 42 Q48 46 42 44"/>
+  <!-- Lion face -->
+  <path d="M22 18 Q32 12 42 18 Q46 24 44 34 Q42 44 32 46 Q22 44 20 34 Q18 24 22 18"/>
+  <!-- Fierce eyes -->
+  <ellipse cx="27" cy="26" rx="3" ry="2.5"/>
+  <ellipse cx="37" cy="26" rx="3" ry="2.5"/>
+  <circle cx="27" cy="26" r="1.2"/>
+  <circle cx="37" cy="26" r="1.2"/>
+  <!-- Nose -->
+  <path d="M30 32 Q32 34 34 32"/>
+  <!-- Open mouth / roar -->
+  <path d="M26 36 Q32 42 38 36"/>
+  <path d="M28 38 Q32 44 36 38"/>
+  <!-- Teeth -->
+  <line x1="28" y1="37" x2="30" y2="40"/>
+  <line x1="36" y1="37" x2="34" y2="40"/>
+  <!-- Claws extended from sides -->
+  <path d="M14 36 L8 32"/>
+  <path d="M14 38 L6 38"/>
+  <path d="M14 40 L8 44"/>
+  <!-- Right claws -->
+  <path d="M50 36 L56 32"/>
+  <path d="M50 38 L58 38"/>
+  <path d="M50 40 L56 44"/>
+  <!-- Crown / Kiriti mukuta -->
+  <path d="M24 20 Q26 14 32 12 Q38 14 40 20"/>
+  <line x1="32" y1="12" x2="32" y2="8"/>
+  <!-- Ground -->
+  <line x1="4" y1="56" x2="60" y2="56"/>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Crown (Indra's magnificent crown) -->
+  <!-- Crown base band -->
+  <path d="M18 14 Q32 10 46 14"/>
+  <!-- Crown spires -->
+  <path d="M20 14 L18 8 L22 12"/>
+  <path d="M26 13 L25 6 L29 11"/>
+  <path d="M32 12 L32 4 L32 12"/>
+  <path d="M38 13 L39 6 L35 11"/>
+  <path d="M44 14 L46 8 L42 12"/>
+  <!-- Crown gems -->
+  <circle cx="32" cy="7" r="1.2"/>
+  <circle cx="26" cy="9" r="0.8"/>
+  <circle cx="38" cy="9" r="0.8"/>
+
+  <!-- Vajra (thunderbolt) — central, dominant element -->
+  <!-- Vajra is diamond-shaped with spokes at both ends -->
+  <!-- Central grip bar -->
+  <line x1="32" y1="24" x2="32" y2="52"/>
+  <!-- Central diamond -->
+  <path d="M32 30 L38 38 L32 46 L26 38 Z"/>
+
+  <!-- Upper vajra crown (trident-like prongs pointing up) -->
+  <path d="M32 30 L32 24"/>
+  <!-- Left upper prong -->
+  <path d="M32 26 Q26 23 24 18"/>
+  <path d="M24 18 Q23 16 25 15 Q27 16 26 19"/>
+  <!-- Center upper prong -->
+  <path d="M32 24 L32 17"/>
+  <path d="M30 17 Q32 14 34 17 Q33 20 32 24"/>
+  <!-- Right upper prong -->
+  <path d="M32 26 Q38 23 40 18"/>
+  <path d="M40 18 Q41 16 39 15 Q37 16 38 19"/>
+
+  <!-- Lower vajra crown (mirrored, prongs pointing down) -->
+  <path d="M32 46 L32 52"/>
+  <!-- Left lower prong -->
+  <path d="M32 50 Q26 53 24 58"/>
+  <path d="M24 58 Q23 60 25 61 Q27 60 26 57"/>
+  <!-- Center lower prong -->
+  <path d="M32 52 L32 59"/>
+  <path d="M30 59 Q32 62 34 59 Q33 56 32 52"/>
+  <!-- Right lower prong -->
+  <path d="M32 50 Q38 53 40 58"/>
+  <path d="M40 58 Q41 60 39 61 Q37 60 38 57"/>
+
+  <!-- Lightning bolt flash around vajra (power symbol) -->
+  <path d="M22 32 Q18 36 20 40 Q22 38 24 40"/>
+  <path d="M42 32 Q46 36 44 40 Q42 38 40 40"/>
+</svg>

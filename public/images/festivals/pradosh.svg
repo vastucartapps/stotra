@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Crescent moon -->
+  <path d="M38 14 Q26 18 22 30 Q18 42 28 50 Q16 48 12 36 Q8 22 20 14 Q28 9 38 14 Z"/>
+  <!-- Trishul (trident) -->
+  <line x1="44" y1="54" x2="44" y2="24"/>
+  <!-- Center prong -->
+  <path d="M44 24 Q44 18 44 14"/>
+  <path d="M44 14 L42 18 M44 14 L46 18"/>
+  <!-- Left prong -->
+  <path d="M44 24 Q40 20 38 16"/>
+  <path d="M38 16 L37 20 M38 16 L41 19"/>
+  <!-- Right prong -->
+  <path d="M44 24 Q48 20 50 16"/>
+  <path d="M50 16 L49 20 M50 16 L53 19"/>
+  <!-- Trishul base crossbar -->
+  <line x1="40" y1="48" x2="48" y2="48"/>
+  <line x1="42" y1="50" x2="46" y2="50"/>
+  <!-- Twilight horizon -->
+  <path d="M4 52 Q16 48 28 50 Q40 52 60 50"/>
+  <!-- Sunset rays -->
+  <line x1="18" y1="40" x2="14" y2="36"/>
+  <line x1="16" y1="44" x2="10" y2="44"/>
+  <line x1="18" y1="48" x2="12" y2="50"/>
+  <!-- Small stars -->
+  <circle cx="52" cy="24" r="1"/>
+  <circle cx="58" cy="32" r="1"/>
+  <circle cx="56" cy="16" r="1"/>
+  <!-- Damru (optional small symbol) -->
+  <path d="M56 42 Q54 44 56 46 Q58 44 56 42"/>
+  <line x1="55" y1="43" x2="53" y2="45"/>
+  <line x1="57" y1="45" x2="59" y2="47"/>
+</svg>

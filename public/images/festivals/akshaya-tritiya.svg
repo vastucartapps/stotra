@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Pot base -->
+  <path d="M20 48 Q18 44 18 40 Q18 32 32 32 Q46 32 46 40 Q46 44 44 48 Z"/>
+  <!-- Pot neck -->
+  <path d="M24 32 Q24 28 32 28 Q40 28 40 32"/>
+  <!-- Pot rim -->
+  <ellipse cx="32" cy="28" rx="10" ry="3"/>
+  <!-- Overflowing coins out -->
+  <circle cx="28" cy="24" r="3"/>
+  <circle cx="36" cy="22" r="3"/>
+  <circle cx="24" cy="20" r="2.5"/>
+  <circle cx="40" cy="20" r="2.5"/>
+  <circle cx="32" cy="18" r="2.5"/>
+  <!-- Swastik on pot -->
+  <path d="M28 38 H36 M32 34 V42"/>
+  <path d="M28 34 H30 V38 M36 34 H34 V38 M28 42 H30 V38 M36 42 H34 V38"/>
+  <!-- Decorative lines on pot -->
+  <path d="M22 42 Q32 44 42 42"/>
+  <!-- Ground line -->
+  <line x1="16" y1="52" x2="48" y2="52"/>
+</svg>

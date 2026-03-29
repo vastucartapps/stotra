@@ -6,6 +6,7 @@ import { PURPOSES } from "@/data/purposes";
 import { ECOSYSTEM_SITES } from "@/data/ecosystem";
 import { getAllStotras, getTodaysStotras, getStotraOfTheDay, getStotraCountByDeity } from "@/lib/stotras";
 import { FAQSection } from "@/components/pages/HomePage";
+import { CategoryIcon } from "@/components/ui/CategoryIcon";
 
 const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
 
@@ -150,11 +151,8 @@ export default function Home() {
                   href={`/deity/${deity.slug}`}
                   className="group relative bg-white rounded-xl p-5 border border-border-light hover:border-gold/40 hover:shadow-card-hover transition-all duration-300 text-center"
                 >
-                  <div
-                    className="w-12 h-12 mx-auto mb-3 rounded-xl flex items-center justify-center text-white text-lg font-bold"
-                    style={{ backgroundColor: deity.color }}
-                  >
-                    {deity.nameHi.charAt(0)}
+                  <div className="mx-auto mb-3">
+                    <CategoryIcon type="deity" id={deity.id} color={deity.color} size="md" />
                   </div>
                   <p className="font-semibold text-sm text-text group-hover:text-brand transition-colors">
                     {deity.name}
@@ -280,10 +278,11 @@ export default function Home() {
               <Link
                 key={purpose.id}
                 href={`/purpose/${purpose.slug}`}
-                className="bg-white border border-border-light hover:border-gold/40 hover:shadow-card px-5 py-2.5 rounded-full text-sm font-medium text-text hover:text-brand transition-all duration-200"
+                className="inline-flex items-center gap-2 bg-white border border-border-light hover:border-gold/40 hover:shadow-card px-5 py-2.5 rounded-full text-sm font-medium text-text hover:text-brand transition-all duration-200"
               >
+                <CategoryIcon type="purpose" id={purpose.id} size="sm" className="rounded-lg bg-brand/10" />
                 {purpose.name}
-                <span className="text-text-muted ml-1.5 text-xs">{purpose.nameHi}</span>
+                <span className="text-text-muted text-xs">{purpose.nameHi}</span>
               </Link>
             ))}
           </div>

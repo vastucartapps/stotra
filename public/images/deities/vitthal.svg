@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Crown (Mukut) -->
+  <path d="M26 6 L28 3 L30 6 L32 3 L34 6 L36 3 L38 6"/>
+  <path d="M24 8 Q31 5 38 8"/>
+
+  <!-- Head -->
+  <ellipse cx="31" cy="16" rx="7" ry="8"/>
+
+  <!-- Eyes -->
+  <circle cx="28.5" cy="15" r="1"/>
+  <circle cx="33.5" cy="15" r="1"/>
+  <!-- Tilak on forehead (Vaishnava U-shape) -->
+  <path d="M29.5 11 Q31 9.5 32.5 11"/>
+  <line x1="31" y1="9.5" x2="31" y2="12"/>
+
+  <!-- Neck -->
+  <path d="M27 23 L28 26"/>
+  <path d="M35 23 L36 26"/>
+
+  <!-- Body torso (slim, upright standing figure) -->
+  <path d="M24 26 Q23 38 24 46 Q26 50 31 51 Q36 50 38 46 Q39 38 38 26 Q35 24 31 24 Q27 24 24 26 Z"/>
+
+  <!-- LEFT ARM — akimbo (hand on left hip, elbow out left) -->
+  <path d="M24 30 Q17 28 14 33 Q16 36 20 35 Q22 37 24 36"/>
+
+  <!-- RIGHT ARM — akimbo (hand on right hip, elbow out right) -->
+  <path d="M38 30 Q45 28 48 33 Q46 36 42 35 Q40 37 38 36"/>
+
+  <!-- Waistband / dhoti line -->
+  <path d="M24 46 Q31 48 38 46"/>
+
+  <!-- Dhoti folds -->
+  <path d="M26 48 Q28 54 27 58"/>
+  <path d="M36 48 Q34 54 35 58"/>
+  <path d="M31 50 L31 58"/>
+
+  <!-- Legs (feet visible, slightly apart) -->
+  <path d="M27 58 Q25 61 24 62"/>
+  <path d="M35 58 Q37 61 38 62"/>
+
+  <!-- Brick / Veet (the rectangular brick Vitthal stands on) -->
+  <rect x="20" y="62" width="22" height="4" rx="1"/>
+  <!-- Brick detail lines -->
+  <line x1="31" y1="62" x2="31" y2="66"/>
+
+  <!-- Necklace (Vaijayanti mala hint) -->
+  <path d="M27 25 Q31 27 35 25"/>
+</svg>

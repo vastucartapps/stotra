@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Kodanda (bow) - large graceful curve -->
+  <!-- Bow limb - elegant arc from top-left to bottom-right -->
+  <path d="M16 4 Q8 16 8 32 Q8 48 16 60"/>
+
+  <!-- Bow string - taut straight line -->
+  <line x1="16" y1="4" x2="16" y2="60"/>
+
+  <!-- Bow grip / handle reinforcement -->
+  <path d="M10 30 Q8 32 10 34"/>
+  <line x1="10" y1="28" x2="10" y2="36"/>
+  <path d="M9 29 Q7 32 9 35"/>
+
+  <!-- Bow tips / nocks -->
+  <!-- Top nock -->
+  <path d="M16 4 Q14 2 12 3 Q11 5 13 6"/>
+  <!-- Bottom nock -->
+  <path d="M16 60 Q14 62 12 61 Q11 59 13 58"/>
+
+  <!-- Bow decoration (string wrapping at handle) -->
+  <path d="M13 28 Q11 30 11 32 Q11 34 13 36"/>
+
+  <!-- Arrow nocked on string -->
+  <!-- Arrow shaft - diagonal line -->
+  <line x1="14" y1="32" x2="58" y2="16"/>
+
+  <!-- Arrow tip/head (arrowhead) -->
+  <path d="M58 16 L54 12 L56 18 Z"/>
+  <path d="M56 13 Q58 14 58 16 Q56 18 54 17"/>
+
+  <!-- Arrow fletching (feathers at nock end) -->
+  <!-- Fletching 1 -->
+  <path d="M14 32 Q10 28 8 30 Q9 34 14 34"/>
+  <!-- Fletching 2 -->
+  <path d="M14 32 Q12 36 10 35 Q10 31 14 30"/>
+  <!-- Fletching 3 (center/spine) -->
+  <path d="M14 32 Q11 32 9 32"/>
+
+  <!-- Arrow shaft decoration (bands) -->
+  <line x1="25" y1="28" x2="26" y2="27"/>
+  <line x1="35" y1="24" x2="36" y2="23"/>
+  <line x1="45" y1="20" x2="46" y2="19"/>
+
+  <!-- Second arrow in quiver (suggested) -->
+  <line x1="18" y1="34" x2="56" y2="20"/>
+  <path d="M56 20 L52 16 L54 22 Z"/>
+
+  <!-- Quiver (hanging) -->
+  <path d="M18 34 Q20 36 22 35 Q22 32 20 31 Q18 31 18 34"/>
+  <path d="M18 34 Q18 42 20 44 Q22 44 22 42 Q22 38 20 36"/>
+  <!-- Quiver strap -->
+  <path d="M18 31 Q22 28 28 30"/>
+
+  <!-- Om symbol or auspicious mark near handle (stylized) -->
+  <path d="M6 40 Q5 38 6 36 Q8 35 9 37 Q9 40 7 41 Q5 43 6 46 Q8 48 10 46"/>
+  <path d="M6 46 Q4 46 4 48"/>
+  <path d="M8 36 Q10 34 11 36"/>
+</svg>

@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Lion mane (large, radiating from head center) -->
+  <!-- Outer mane rays -->
+  <path d="M32 8 C30 5 26 4 25 6"/>
+  <path d="M32 8 C31 5 30 3 28 4"/>
+  <path d="M32 8 C32 4 32 2 32 2"/>
+  <path d="M32 8 C33 5 34 3 36 4"/>
+  <path d="M32 8 C34 5 38 4 39 6"/>
+  <path d="M24 11 C22 8 18 7 18 9"/>
+  <path d="M24 11 C21 9 18 11 19 13"/>
+  <path d="M40 11 C42 8 46 7 46 9"/>
+  <path d="M40 11 C43 9 46 11 45 13"/>
+  <path d="M22 16 C18 14 14 15 15 17"/>
+  <path d="M42 16 C46 14 50 15 49 17"/>
+  <path d="M20 22 C16 21 13 23 14 25"/>
+  <path d="M44 22 C48 21 51 23 50 25"/>
+  <!-- Lion face (large, round) -->
+  <circle cx="32" cy="26" r="16"/>
+  <!-- Mane inner (smaller circle suggesting mane edge) -->
+  <circle cx="32" cy="26" r="11" stroke-width="1" stroke-dasharray="2 1"/>
+  <!-- Lion ears (on top sides) -->
+  <path d="M21 16 C19 12 21 10 23 11 C25 12 24 15 22 17"/>
+  <path d="M43 16 C45 12 43 10 41 11 C39 12 40 15 42 17"/>
+  <!-- Large lion eyes (fierce, wide) -->
+  <ellipse cx="26" cy="23" rx="3.5" ry="3"/>
+  <circle cx="26" cy="23" r="1.5" stroke-width="1"/>
+  <!-- Eye gleam dot -->
+  <circle cx="27" cy="22" r="0.4" stroke-width="0.8"/>
+  <ellipse cx="38" cy="23" rx="3.5" ry="3"/>
+  <circle cx="38" cy="23" r="1.5" stroke-width="1"/>
+  <circle cx="39" cy="22" r="0.4" stroke-width="0.8"/>
+  <!-- Third eye (Narasimha as avatar of Vishnu) -->
+  <ellipse cx="32" cy="20" rx="2" ry="1.2"/>
+  <!-- Nose (broad lion nose) -->
+  <path d="M29 28 C30 27 34 27 35 28"/>
+  <path d="M30 28 C30 29 31 30 32 30 C33 30 34 29 34 28"/>
+  <!-- Nostrils -->
+  <circle cx="30" cy="28.5" r="0.8" stroke-width="1"/>
+  <circle cx="34" cy="28.5" r="0.8" stroke-width="1"/>
+  <!-- Roaring mouth (open wide) -->
+  <path d="M22 31 C24 35 28 38 32 38 C36 38 40 35 42 31"/>
+  <!-- Upper teeth (large lion fangs) -->
+  <line x1="25" y1="32" x2="25" y2="35"/>
+  <path d="M26.5 32 L27 36"/>
+  <line x1="28" y1="32" x2="28" y2="36"/>
+  <line x1="36" y1="32" x2="36" y2="36"/>
+  <path d="M37.5 32 L37 36"/>
+  <line x1="39" y1="32" x2="39" y2="35"/>
+  <!-- Large fangs -->
+  <path d="M24 31 C23 34 24 37 25 36"/>
+  <path d="M40 31 C41 34 40 37 39 36"/>
+  <!-- Human hands with claws (below face, extending outward) -->
+  <!-- Left clawed hand -->
+  <path d="M18 36 C15 38 12 40 10 42"/>
+  <path d="M10 42 C9 40 10 38 12 38"/>
+  <!-- Claws on left hand -->
+  <path d="M10 42 C8 44 8 46 10 45"/>
+  <path d="M12 43 C10 45 10 47 12 46"/>
+  <path d="M14 43 C13 45 13 47 15 46"/>
+  <path d="M16 42 C15 44 16 46 17 45"/>
+  <!-- Right clawed hand -->
+  <path d="M46 36 C49 38 52 40 54 42"/>
+  <path d="M54 42 C55 40 54 38 52 38"/>
+  <!-- Claws on right hand -->
+  <path d="M54 42 C56 44 56 46 54 45"/>
+  <path d="M52 43 C54 45 54 47 52 46"/>
+  <path d="M50 43 C51 45 51 47 49 46"/>
+  <path d="M48 42 C49 44 48 46 47 45"/>
+  <!-- Chakra/Sudarshana (small, in upper right - Vishnu symbol) -->
+  <circle cx="54" cy="10" r="4"/>
+  <circle cx="54" cy="10" r="2" stroke-width="0.8"/>
+  <line x1="54" y1="5" x2="54" y2="15"/>
+  <line x1="49" y1="10" x2="59" y2="10"/>
+  <line x1="50.5" y1="6.5" x2="57.5" y2="13.5"/>
+  <line x1="57.5" y1="6.5" x2="50.5" y2="13.5"/>
+</svg>

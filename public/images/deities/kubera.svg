@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Overflowing pot of gold/coins (Nidhi Kumbha) -->
+  <!-- Pot body -->
+  <path d="M16 42 Q14 36 14 32 Q14 24 20 22 Q26 20 32 20 Q38 20 44 22 Q50 24 50 32 Q50 36 48 42"/>
+  <!-- Pot rim/lip -->
+  <path d="M14 42 Q16 46 32 46 Q48 46 50 42"/>
+  <!-- Pot base/foot -->
+  <path d="M20 46 Q18 50 18 52 Q20 54 32 54 Q44 54 46 52 Q46 50 44 46"/>
+  <!-- Base plate -->
+  <path d="M16 52 Q16 56 32 56 Q48 56 48 52"/>
+
+  <!-- Coins overflowing from the top -->
+  <!-- Coins spilling left -->
+  <ellipse cx="16" cy="28" rx="4" ry="2"/>
+  <ellipse cx="10" cy="24" rx="3.5" ry="1.8"/>
+  <ellipse cx="8" cy="18" rx="3" ry="1.5"/>
+  <!-- Left coin stack lines (depth) -->
+  <path d="M12 28 Q12 30 16 30 Q20 30 20 28"/>
+  <path d="M6 24 Q6 26 10 26 Q14 26 14 24"/>
+  <path d="M5 18 Q5 20 8 20 Q11 20 11 18"/>
+
+  <!-- Coins spilling right -->
+  <ellipse cx="48" cy="28" rx="4" ry="2"/>
+  <ellipse cx="54" cy="24" rx="3.5" ry="1.8"/>
+  <ellipse cx="56" cy="18" rx="3" ry="1.5"/>
+  <!-- Right coin stack lines -->
+  <path d="M44 28 Q44 30 48 30 Q52 30 52 28"/>
+  <path d="M50 24 Q50 26 54 26 Q58 26 58 24"/>
+  <path d="M53 18 Q53 20 56 20 Q59 20 59 18"/>
+
+  <!-- Coins inside pot (visible at top) -->
+  <ellipse cx="32" cy="22" rx="10" ry="4"/>
+  <ellipse cx="32" cy="20" rx="10" ry="4"/>
+  <ellipse cx="32" cy="18" rx="9" ry="3.5"/>
+
+  <!-- Overflowing coins cascading down front -->
+  <ellipse cx="24" cy="36" rx="3" ry="1.5"/>
+  <ellipse cx="32" cy="38" rx="3" ry="1.5"/>
+  <ellipse cx="40" cy="36" rx="3" ry="1.5"/>
+  <ellipse cx="20" cy="42" rx="2.5" ry="1.2"/>
+  <ellipse cx="44" cy="42" rx="2.5" ry="1.2"/>
+
+  <!-- Mace (Gada) leaning against pot on right side -->
+  <!-- Mace handle -->
+  <line x1="52" y1="62" x2="46" y2="30"/>
+  <!-- Mace head (bulbous top) -->
+  <ellipse cx="44.5" cy="27" rx="5" ry="6" transform="rotate(-15 44.5 27)"/>
+  <!-- Mace decorative rings on handle -->
+  <path d="M50 54 Q52 53 53 55"/>
+  <path d="M49 48 Q51 47 52 49"/>
+  <path d="M48 42 Q50 41 51 43"/>
+
+  <!-- Mongoose (Nakula/symbol of Kubera) - lower left -->
+  <!-- Mongoose body -->
+  <path d="M6 56 Q8 52 14 52 Q20 52 22 56 Q20 60 14 60 Q8 60 6 56"/>
+  <!-- Mongoose head -->
+  <circle cx="22" cy="54" r="4"/>
+  <!-- Snout (pointed) -->
+  <path d="M24 55 Q28 54 29 56 Q27 57 24 56"/>
+  <!-- Eye -->
+  <circle cx="23" cy="52.5" r="0.8" fill="currentColor"/>
+  <!-- Ear -->
+  <path d="M20 51 Q19 48 22 49 Q22 51 21 52"/>
+  <!-- Tail (bushy, mongoose style) -->
+  <path d="M6 56 Q4 53 5 50 Q7 48 10 50 Q11 53 8 56"/>
+</svg>

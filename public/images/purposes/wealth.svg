@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Bottom coin (largest) -->
+  <ellipse cx="32" cy="52" rx="16" ry="5"/>
+  <!-- Bottom coin side -->
+  <path d="M16 52 L16 48 M48 52 L48 48"/>
+  <ellipse cx="32" cy="48" rx="16" ry="5"/>
+  <!-- Middle coin -->
+  <path d="M18 48 L18 44 M46 48 L46 44"/>
+  <ellipse cx="32" cy="44" rx="14" ry="4.5"/>
+  <!-- Top coin -->
+  <path d="M20 44 L20 40 M44 44 L44 40"/>
+  <ellipse cx="32" cy="40" rx="12" ry="4"/>
+  <!-- Lotus above coins -->
+  <!-- Lotus center -->
+  <circle cx="32" cy="26" r="4" stroke-width="1.2"/>
+  <!-- Lotus petals -->
+  <path d="M32 22 C30 18 26 17 25 20 C24 23 27 25 32 22Z"/>
+  <path d="M32 22 C34 18 38 17 39 20 C40 23 37 25 32 22Z"/>
+  <path d="M28 24 C24 23 21 26 23 29 C25 32 28 30 28 24Z"/>
+  <path d="M36 24 C40 23 43 26 41 29 C39 32 36 30 36 24Z"/>
+  <path d="M29 28 C27 32 28 36 31 36 C34 36 35 32 35 28 C33 30 31 30 29 28Z"/>
+  <!-- Stem from lotus to coins -->
+  <path d="M32 30 L32 36" stroke-width="1.2"/>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Vel / Vel Spear (Shakti Vel) -->
+  <!-- Spear shaft -->
+  <line x1="32" y1="4" x2="32" y2="44"/>
+  <!-- Spear tip - diamond/leaf shaped Vel -->
+  <path d="M32 4 L27 12 L32 20 L37 12 Z"/>
+  <!-- Vel inner detail (inner smaller diamond) -->
+  <path d="M32 7 L29.5 12 L32 17 L34.5 12 Z" stroke-width="1"/>
+  <!-- Cross guard / handguard -->
+  <line x1="26" y1="22" x2="38" y2="22"/>
+  <path d="M26 21 C25 21 24 22 25 23 C26 24 27 23 26 22"/>
+  <path d="M38 21 C39 21 40 22 39 23 C38 24 37 23 38 22"/>
+  <!-- Shaft taper toward base -->
+  <line x1="31" y1="22" x2="31" y2="44" stroke-width="1"/>
+  <line x1="33" y1="22" x2="33" y2="44" stroke-width="1"/>
+  <!-- Spear butt end (rounded cap) -->
+  <path d="M30 44 C30 46 34 46 34 44"/>
+  <!-- Peacock (standing at base of spear, left side) -->
+  <!-- Peacock body -->
+  <ellipse cx="18" cy="52" rx="7" ry="4.5" transform="rotate(-10 18 52)"/>
+  <!-- Peacock neck -->
+  <path d="M22 48 C22 44 23 42 24 40"/>
+  <!-- Peacock head (small circle) -->
+  <circle cx="24.5" cy="39" r="2.5"/>
+  <!-- Peacock crest feathers -->
+  <path d="M23 37 C23 35 24 33 24 33"/>
+  <path d="M24.5 36.5 C24.5 34 25 33 25 33"/>
+  <path d="M26 37 C26 35 26 33 26 33"/>
+  <!-- Peacock eye -->
+  <circle cx="25.2" cy="38.5" r="0.6" stroke-width="1"/>
+  <!-- Peacock beak -->
+  <path d="M26.5 39 L28.5 38.5" stroke-width="1.2"/>
+  <!-- Peacock tail feathers (fanned) -->
+  <path d="M12 52 C10 56 8 60 8 62"/>
+  <path d="M13 54 C11 58 10 62 10 63"/>
+  <path d="M15 55 C14 59 14 63 14 64"/>
+  <path d="M17 55.5 C17 60 17 63 17 64"/>
+  <path d="M19 55 C20 59 20 63 20 64"/>
+  <path d="M21 54 C23 58 23 62 23 63"/>
+  <path d="M22 52 C25 56 26 60 26 62"/>
+  <!-- Peacock tail eye spots (small circles on tail) -->
+  <circle cx="9" cy="61" r="1.2" stroke-width="0.8"/>
+  <circle cx="14" cy="63" r="1.2" stroke-width="0.8"/>
+  <circle cx="19" cy="63" r="1.2" stroke-width="0.8"/>
+  <circle cx="24" cy="61" r="1.2" stroke-width="0.8"/>
+  <!-- Peacock legs -->
+  <line x1="17" y1="56" x2="16" y2="60"/>
+  <line x1="19" y1="56" x2="20" y2="60"/>
+  <!-- Small star/Om symbol at top right corner (Murugan symbol) -->
+  <path d="M50 8 L52 12 L56 12 L53 15 L54 19 L50 17 L46 19 L47 15 L44 12 L48 12 Z" stroke-width="1" stroke-dasharray="0"/>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Meditation figure seated -->
+  <!-- Head -->
+  <circle cx="32" cy="14" r="5"/>
+  <!-- Body in lotus posture - torso -->
+  <path d="M32 19 L32 30"/>
+  <!-- Left arm resting on knee -->
+  <path d="M32 23 C26 25 22 28 20 32"/>
+  <!-- Right arm resting on knee -->
+  <path d="M32 23 C38 25 42 28 44 32"/>
+  <!-- Left knee/leg in lotus -->
+  <path d="M20 32 C18 35 18 38 22 40"/>
+  <!-- Right knee/leg in lotus -->
+  <path d="M44 32 C46 35 46 38 42 40"/>
+  <!-- Base sitting line -->
+  <path d="M18 40 C22 43 42 43 46 40"/>
+  <!-- Peaceful aura rays emanating outward -->
+  <path d="M32 8 L32 4" stroke-width="1"/>
+  <path d="M24 10 L21 7" stroke-width="1"/>
+  <path d="M40 10 L43 7" stroke-width="1"/>
+  <path d="M19 18 L15 16" stroke-width="1"/>
+  <path d="M45 18 L49 16" stroke-width="1"/>
+  <!-- Halo / divine aura circle -->
+  <circle cx="32" cy="14" r="9" stroke-width="1" stroke-dasharray="2 2"/>
+</svg>

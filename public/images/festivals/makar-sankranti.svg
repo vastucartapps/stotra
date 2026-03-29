@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Sun (with rays) -->
+  <circle cx="46" cy="14" r="7"/>
+  <!-- Sun rays -->
+  <line x1="46" y1="4" x2="46" y2="6"/>
+  <line x1="53" y1="6" x2="52" y2="8"/>
+  <line x1="56" y1="14" x2="54" y2="14"/>
+  <line x1="53" y1="21" x2="52" y2="20"/>
+  <line x1="46" y1="24" x2="46" y2="22"/>
+  <line x1="39" y1="21" x2="40" y2="20"/>
+  <line x1="36" y1="14" x2="38" y2="14"/>
+  <line x1="39" y1="6" x2="40" y2="8"/>
+  <!-- Kite diamond shape -->
+  <path d="M18 6 L30 20 L18 42 L6 20 Z"/>
+  <!-- Kite cross spars -->
+  <line x1="6" y1="20" x2="30" y2="20"/>
+  <line x1="18" y1="6" x2="18" y2="42"/>
+  <!-- Kite decoration lines -->
+  <line x1="6" y1="20" x2="18" y2="6"/>
+  <!-- Kite tail -->
+  <path d="M18 42 Q22 46 20 50 Q24 52 22 56 Q26 58 24 62"/>
+  <!-- Tilgul (sesame laddu) round sweet -->
+  <circle cx="46" cy="44" r="8"/>
+  <!-- Sesame seeds texture on laddu -->
+  <circle cx="43" cy="41" r="1" fill="currentColor" stroke="none"/>
+  <circle cx="47" cy="40" r="1" fill="currentColor" stroke="none"/>
+  <circle cx="50" cy="42" r="1" fill="currentColor" stroke="none"/>
+  <circle cx="51" cy="46" r="1" fill="currentColor" stroke="none"/>
+  <circle cx="48" cy="49" r="1" fill="currentColor" stroke="none"/>
+  <circle cx="44" cy="50" r="1" fill="currentColor" stroke="none"/>
+  <circle cx="41" cy="47" r="1" fill="currentColor" stroke="none"/>
+  <circle cx="41" cy="44" r="1" fill="currentColor" stroke="none"/>
+  <circle cx="46" cy="44" r="1" fill="currentColor" stroke="none"/>
+  <!-- Second smaller laddu -->
+  <circle cx="54" cy="54" r="5"/>
+  <circle cx="52" cy="52" r="0.8" fill="currentColor" stroke="none"/>
+  <circle cx="55" cy="51" r="0.8" fill="currentColor" stroke="none"/>
+  <circle cx="57" cy="54" r="0.8" fill="currentColor" stroke="none"/>
+  <circle cx="55" cy="57" r="0.8" fill="currentColor" stroke="none"/>
+  <circle cx="52" cy="56" r="0.8" fill="currentColor" stroke="none"/>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Havan Kund (fire altar) — truncated square pyramid shape -->
+  <!-- Outer base -->
+  <path d="M12 58 L52 58 L48 44 L16 44 Z"/>
+  <!-- Inner pit opening at top -->
+  <path d="M20 44 L44 44 L42 48 L22 48 Z"/>
+  <!-- Altar step detail -->
+  <line x1="14" y1="52" x2="50" y2="52"/>
+  <!-- Altar decorative lines -->
+  <line x1="16" y1="56" x2="48" y2="56"/>
+
+  <!-- Three distinct flame tongues rising from the pit -->
+  <!-- Central flame (tallest) -->
+  <path d="M32 44 Q29 38 31 30 Q33 23 32 16 Q34 23 35 30 Q37 38 34 44"/>
+  <!-- Left flame -->
+  <path d="M24 44 Q21 38 23 32 Q25 26 24 20 Q27 26 27 32 Q28 38 26 44"/>
+  <!-- Right flame -->
+  <path d="M40 44 Q43 38 41 32 Q39 26 40 20 Q37 26 37 32 Q36 38 38 44"/>
+
+  <!-- Inner flame curls (secondary flame tips for depth) -->
+  <!-- Center flame inner curl -->
+  <path d="M32 36 Q31 31 32 26 Q33 31 32 36"/>
+  <!-- Left inner curl -->
+  <path d="M24 38 Q23 34 24 30 Q25 34 24 38"/>
+  <!-- Right inner curl -->
+  <path d="M40 38 Q41 34 40 30 Q39 34 40 38"/>
+
+  <!-- Sparks / embers rising -->
+  <circle cx="28" cy="18" r="0.8"/>
+  <circle cx="36" cy="14" r="0.8"/>
+  <circle cx="22" cy="22" r="0.6"/>
+  <circle cx="42" cy="19" r="0.6"/>
+  <circle cx="30" cy="12" r="0.5"/>
+
+  <!-- Smoke wisps at top -->
+  <path d="M32 16 Q30 10 32 6"/>
+  <path d="M28 20 Q25 14 27 9"/>
+  <path d="M36 20 Q39 14 37 9"/>
+</svg>

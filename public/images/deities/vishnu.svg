@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Sudarshan Chakra (discus) - top center -->
+  <!-- Outer ring -->
+  <circle cx="32" cy="20" r="14"/>
+  <!-- Inner ring -->
+  <circle cx="32" cy="20" r="8"/>
+  <!-- Central hub -->
+  <circle cx="32" cy="20" r="3"/>
+
+  <!-- 8 spokes radiating from center -->
+  <line x1="32" y1="17" x2="32" y2="6"/>
+  <line x1="35" y1="17" x2="41" y2="11"/>
+  <line x1="35" y1="20" x2="46" y2="20"/>
+  <line x1="35" y1="23" x2="41" y2="29"/>
+  <line x1="32" y1="23" x2="32" y2="34"/>
+  <line x1="29" y1="23" x2="23" y2="29"/>
+  <line x1="29" y1="20" x2="18" y2="20"/>
+  <line x1="29" y1="17" x2="23" y2="11"/>
+
+  <!-- Flame tips on outer ring (serrated edge) -->
+  <path d="M32 6 Q30 4 28 6 Q26 4 24 6"/>
+  <path d="M41 11 Q41 9 43 9 Q43 7 45 8"/>
+  <path d="M46 20 Q48 18 50 20 Q48 22 46 20"/>
+  <path d="M41 29 Q43 31 43 33 Q41 33 41 29"/>
+  <path d="M32 34 Q30 36 28 34 Q30 32 32 34"/>
+  <path d="M23 29 Q21 31 19 30 Q21 28 23 29"/>
+  <path d="M18 20 Q16 22 14 20 Q16 18 18 20"/>
+  <path d="M23 11 Q21 9 19 8 Q21 7 23 11"/>
+
+  <!-- Shankha (conch shell) - bottom half -->
+  <!-- Conch body -->
+  <path d="M26 44 Q22 40 22 46 Q22 54 30 56 Q38 58 42 52 Q46 46 42 42 Q38 38 34 40 Q30 40 28 44"/>
+  <!-- Conch spiral -->
+  <path d="M30 44 Q28 46 29 49 Q31 52 34 51 Q37 50 37 47 Q36 44 33 43"/>
+  <!-- Conch tip -->
+  <path d="M26 44 Q24 42 23 39 Q24 37 26 38"/>
+  <!-- Conch opening -->
+  <path d="M42 42 Q44 40 46 42 Q46 46 44 48"/>
+  <!-- Conch neck/base line -->
+  <path d="M28 56 Q30 60 32 62 Q34 60 36 58"/>
+</svg>

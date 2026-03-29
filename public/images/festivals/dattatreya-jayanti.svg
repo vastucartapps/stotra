@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Three heads on one body (Trimurti: Brahma, Vishnu, Shiva) -->
+  <!-- Body -->
+  <path d="M24 52 L22 36 Q22 32 32 32 Q42 32 42 36 L40 52"/>
+  <line x1="24" y1="52" x2="40" y2="52"/>
+  <!-- Arms -->
+  <path d="M22 38 L12 42"/>
+  <path d="M42 38 L52 42"/>
+  <!-- Extra arms (Dattatreya has multiple arms) -->
+  <path d="M22 36 L10 34"/>
+  <path d="M42 36 L54 34"/>
+  <!-- Central head (Vishnu - crown) -->
+  <circle cx="32" cy="22" r="6"/>
+  <path d="M28 17 L29 12 L32 15 L35 12 L36 17"/>
+  <!-- Left head (Brahma - 4 faces, simplified) -->
+  <circle cx="18" cy="24" r="5"/>
+  <path d="M15 20 L16 16 L18 18 L20 16 L21 20"/>
+  <!-- Beard on Brahma head -->
+  <path d="M16 28 Q18 31 20 28"/>
+  <!-- Right head (Shiva - crescent) -->
+  <circle cx="46" cy="24" r="5"/>
+  <path d="M43 19 Q46 17 49 19"/>
+  <!-- Third eye on Shiva -->
+  <circle cx="46" cy="22" r="1"/>
+  <!-- Sacred cow (kamadhenu) below -->
+  <path d="M16 52 Q18 48 22 48 Q26 48 28 52"/>
+  <circle cx="28" cy="50" r="2.5"/>
+  <!-- Cow horns -->
+  <path d="M27 48 L25 44 M29 48 L31 44"/>
+  <!-- Cow tail -->
+  <path d="M16 50 Q12 48 10 52"/>
+  <!-- Cow legs -->
+  <line x1="18" y1="52" x2="18" y2="58"/>
+  <line x1="20" y1="52" x2="20" y2="58"/>
+  <line x1="24" y1="52" x2="24" y2="58"/>
+  <line x1="26" y1="52" x2="26" y2="58"/>
+  <!-- Attributes in hands: kamandalu, trishul, chakra, padma, etc -->
+  <!-- Trishul in right upper hand -->
+  <line x1="52" y1="30" x2="52" y2="22"/>
+  <path d="M52 22 L50 26 M52 22 L54 26"/>
+  <path d="M50 24 L48 20 L50 22 M54 24 L56 20 L54 22"/>
+  <!-- Lotus in left upper hand -->
+  <path d="M10 30 Q12 26 14 28 Q12 32 10 30"/>
+  <path d="M14 28 Q16 24 18 26 Q16 30 14 28"/>
+  <!-- Ground -->
+  <line x1="8" y1="58" x2="56" y2="58"/>
+</svg>

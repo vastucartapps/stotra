@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Jagannath — iconic geometric face, Puri temple style -->
+
+  <!-- Ornate crown / Mukut (tall, temple-spire style) -->
+  <path d="M22 14 L24 10 L26 12 L28 7 L30 10 L32 6 L34 10 L36 7 L38 12 L40 10 L42 14"/>
+  <path d="M21 16 Q32 12 43 16"/>
+  <!-- Crown base band -->
+  <path d="M20 18 Q32 15 44 18"/>
+
+  <!-- Round circular face (Jagannath is distinctively circular) -->
+  <circle cx="32" cy="36" r="18"/>
+
+  <!-- The most iconic feature: huge, round, wide-open eyes -->
+  <!-- Left eye (large, circular, no eyelids — fixed gaze) -->
+  <circle cx="22" cy="34" r="7"/>
+  <circle cx="22" cy="34" r="4.5"/>
+  <circle cx="22" cy="34" r="2"/>
+  <!-- Eye highlight -->
+  <circle cx="20.5" cy="32.5" r="0.7" fill="currentColor"/>
+
+  <!-- Right eye (same — symmetrical) -->
+  <circle cx="42" cy="34" r="7"/>
+  <circle cx="42" cy="34" r="4.5"/>
+  <circle cx="42" cy="34" r="2"/>
+  <!-- Eye highlight -->
+  <circle cx="40.5" cy="32.5" r="0.7" fill="currentColor"/>
+
+  <!-- Flat stylized nose (minimal, just a dot) -->
+  <circle cx="32" cy="36" r="1.2"/>
+
+  <!-- Wide, flat, semi-circular smile (iconic Jagannath smile) -->
+  <path d="M22 42 Q27 46 32 46 Q37 46 42 42"/>
+  <!-- Lip line detail -->
+  <path d="M22 42 Q32 40 42 42"/>
+
+  <!-- Tilaka / forehead mark between eyes -->
+  <path d="M29 26 Q32 23 35 26 Q33 28 32 27 Q31 28 29 26"/>
+
+  <!-- Flower garland around neck -->
+  <path d="M16 50 Q18 54 22 56 Q27 58 32 58 Q37 58 42 56 Q46 54 48 50"/>
+  <!-- Garland flowers -->
+  <circle cx="20" cy="55" r="1.5"/>
+  <circle cx="26" cy="57.5" r="1.5"/>
+  <circle cx="32" cy="58" r="1.5"/>
+  <circle cx="38" cy="57.5" r="1.5"/>
+  <circle cx="44" cy="55" r="1.5"/>
+  <!-- Small decorative dots between flowers -->
+  <circle cx="23" cy="56.5" r="0.6" fill="currentColor"/>
+  <circle cx="29" cy="58" r="0.6" fill="currentColor"/>
+  <circle cx="35" cy="58" r="0.6" fill="currentColor"/>
+  <circle cx="41" cy="56.5" r="0.6" fill="currentColor"/>
+
+  <!-- Ear ornaments (Kundala) -->
+  <circle cx="14" cy="36" r="2.5"/>
+  <circle cx="50" cy="36" r="2.5"/>
+  <!-- Hanging earring drops -->
+  <line x1="14" y1="38.5" x2="14" y2="42"/>
+  <circle cx="14" cy="43" r="1.2"/>
+  <line x1="50" y1="38.5" x2="50" y2="42"/>
+  <circle cx="50" cy="43" r="1.2"/>
+
+  <!-- Chakra disc (Sudarshana) upper right — Jagannath holds it -->
+  <circle cx="54" cy="14" r="5"/>
+  <circle cx="54" cy="14" r="2.5"/>
+  <line x1="54" y1="9" x2="54" y2="19"/>
+  <line x1="49" y1="14" x2="59" y2="14"/>
+  <line x1="50.5" y1="10.5" x2="57.5" y2="17.5"/>
+  <line x1="57.5" y1="10.5" x2="50.5" y2="17.5"/>
+
+  <!-- Conch (Shankha) upper left -->
+  <path d="M8 8 Q6 12 8 16 Q12 20 16 18 Q20 16 18 12 Q16 8 12 8 Q10 8 8 8"/>
+  <path d="M10 16 Q8 20 10 22"/>
+  <path d="M16 18 Q20 22 18 24"/>
+  <line x1="10" y1="22" x2="18" y2="24"/>
+</svg>

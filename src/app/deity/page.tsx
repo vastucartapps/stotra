@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { DEITIES } from "@/data/deities";
 import { getStotraCountByDeity } from "@/lib/stotras";
+import { CategoryIcon } from "@/components/ui/CategoryIcon";
 
 const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
 
@@ -106,12 +107,7 @@ export default function DeityListPage() {
               className="group bg-white rounded-xl p-6 border border-border-light hover:border-gold/30 hover:shadow-card-hover transition-all duration-300"
             >
               <div className="flex items-center gap-4 mb-3">
-                <div
-                  className="w-14 h-14 rounded-xl flex items-center justify-center text-white text-2xl font-bold font-serif"
-                  style={{ backgroundColor: deity.color }}
-                >
-                  {deity.nameHi.charAt(0)}
-                </div>
+                <CategoryIcon type="deity" id={deity.id} color={deity.color} size="lg" />
                 <div>
                   <h2 className="font-serif text-xl font-semibold text-brand group-hover:text-brand-light transition-colors">
                     {deity.name}

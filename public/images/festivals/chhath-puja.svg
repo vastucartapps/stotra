@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Setting/rising sun at horizon -->
+  <path d="M8 38 Q20 28 32 26 Q44 28 56 38"/>
+  <!-- Sun semicircle at horizon -->
+  <path d="M20 38 Q26 30 32 28 Q38 30 44 38"/>
+  <!-- Sun body (half visible at horizon) -->
+  <path d="M24 38 Q28 32 32 31 Q36 32 40 38"/>
+  <!-- Sun rays above horizon -->
+  <line x1="32" y1="28" x2="32" y2="22"/>
+  <line x1="39" y1="29" x2="42" y2="24"/>
+  <line x1="44" y1="34" x2="48" y2="30"/>
+  <line x1="25" y1="29" x2="22" y2="24"/>
+  <line x1="20" y1="34" x2="16" y2="30"/>
+  <!-- Diagonal rays -->
+  <line x1="36" y1="28" x2="40" y2="22"/>
+  <line x1="28" y1="28" x2="24" y2="22"/>
+  <!-- Water/river with waves -->
+  <path d="M4 42 Q10 38 16 42 Q22 46 28 42 Q34 38 40 42 Q46 46 52 42 Q58 38 62 42"/>
+  <path d="M4 46 Q10 42 16 46 Q22 50 28 46 Q34 42 40 46 Q46 50 52 46 Q58 42 62 46"/>
+  <!-- Sun reflection -->
+  <path d="M28 44 Q32 46 36 44" stroke-dasharray="2,2"/>
+  <!-- Woman figure standing in water -->
+  <!-- Head -->
+  <circle cx="32" cy="36" r="3"/>
+  <!-- Saree draped body -->
+  <path d="M30 39 Q28 44 29 50"/>
+  <path d="M34 39 Q36 44 35 50"/>
+  <path d="M29 50 Q32 52 35 50"/>
+  <!-- Arms raised with suroop (basket) on head -->
+  <path d="M29 41 Q26 38 24 36"/>
+  <path d="M35 41 Q38 38 40 36"/>
+  <!-- Suroop (offering basket) on head -->
+  <path d="M26 34 Q32 30 38 34"/>
+  <path d="M26 34 Q32 36 38 34"/>
+  <!-- Basket contents (fruits/offerings) -->
+  <path d="M28 32 Q32 30 36 32"/>
+  <circle cx="30" cy="32" r="1.5"/>
+  <circle cx="32" cy="31" r="1.5"/>
+  <circle cx="34" cy="32" r="1.5"/>
+  <!-- Water level around figure -->
+  <path d="M24 48 Q32 50 40 48" stroke-dasharray="3,2"/>
+</svg>

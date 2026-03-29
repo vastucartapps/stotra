@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Crescent moon (top area) -->
+  <path d="M22 14 Q32 8 40 16 Q32 18 26 26 Q16 22 22 14Z" />
+  <!-- Gentle rays from crescent -->
+  <line x1="22" y1="10" x2="18" y2="6" />
+  <line x1="32" y1="8" x2="32" y2="4" />
+  <line x1="40" y1="12" x2="44" y2="8" />
+  <line x1="44" y1="19" x2="48" y2="17" />
+  <!-- Shivalinga base (oval oval shape) -->
+  <ellipse cx="32" cy="46" rx="10" ry="4" />
+  <!-- Shivalinga column -->
+  <path d="M24 46 L24 42 Q24 38 32 36 Q40 38 40 42 L40 46" />
+  <!-- Top of linga (rounded) -->
+  <path d="M26 42 Q26 36 32 34 Q38 36 38 42" />
+  <!-- Bilva leaves / trishula hint above linga -->
+  <path d="M32 34 L32 30" />
+  <!-- Small trishula prongs -->
+  <path d="M29 30 L32 28 L35 30" />
+  <line x1="32" y1="28" x2="32" y2="26" />
+  <line x1="28" y1="29" x2="27" y2="27" />
+  <line x1="36" y1="29" x2="37" y2="27" />
+  <!-- Water/abhisheka drops -->
+  <path d="M30 38 Q30 39 31 39.5 Q32 40 33 39.5 Q34 39 34 38 Q33 36.5 32 36 Q31 36.5 30 38Z" />
+</svg>

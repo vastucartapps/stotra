@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Folded hands (Namaste/Pranam) -->
+  <!-- Left hand/fingers -->
+  <path d="M32 52 C28 52 24 50 22 46 L18 36 C17 33 18 31 20 31 C21 31 22 32 23 33 L25 38"/>
+  <!-- Right hand/fingers -->
+  <path d="M32 52 C36 52 40 50 42 46 L46 36 C47 33 46 31 44 31 C43 31 42 32 41 33 L39 38"/>
+  <!-- Joined hands in namaste -->
+  <path d="M25 38 C25 42 26 46 28 48 L32 52 L36 48 C38 46 39 42 39 38"/>
+  <!-- Thumbs touching at top -->
+  <path d="M29 38 C29 35 30 33 32 32 C34 33 35 35 35 38"/>
+  <!-- Wrist/palm base -->
+  <path d="M26 44 C28 46 36 46 38 44"/>
+  <!-- Divine light rays above hands -->
+  <path d="M32 28 L32 20" stroke-width="1.2"/>
+  <path d="M26 30 L22 24" stroke-width="1.2"/>
+  <path d="M38 30 L42 24" stroke-width="1.2"/>
+  <path d="M23 33 L18 30" stroke-width="1"/>
+  <path d="M41 33 L46 30" stroke-width="1"/>
+  <!-- Radiance burst at top -->
+  <circle cx="32" cy="18" r="3" stroke-width="1.2"/>
+  <path d="M32 14 L32 11" stroke-width="1"/>
+  <path d="M28 15 L26 13" stroke-width="1"/>
+  <path d="M36 15 L38 13" stroke-width="1"/>
+  <path d="M27 18 L24 18" stroke-width="1"/>
+  <path d="M37 18 L40 18" stroke-width="1"/>
+</svg>

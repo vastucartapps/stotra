@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Lotus flower centered above -->
+  <!-- Outer petals -->
+  <path d="M32 8 Q28 12 28 17 Q30 15 32 14 Q34 15 36 17 Q36 12 32 8"/>
+  <path d="M22 12 Q22 18 26 20 Q25 17 27 15 Q24 14 22 12"/>
+  <path d="M42 12 Q40 18 38 20 Q39 17 37 15 Q40 14 42 12"/>
+  <path d="M18 20 Q22 22 26 22 Q23 20 22 18 Q20 18 18 20"/>
+  <path d="M46 20 Q42 22 38 22 Q41 20 42 18 Q44 18 46 20"/>
+  <!-- Lotus center -->
+  <circle cx="32" cy="20" r="3.5"/>
+  <circle cx="32" cy="20" r="1.5"/>
+
+  <!-- Lotus stem curving down -->
+  <path d="M32 23 Q31 28 30 33"/>
+
+  <!-- Ankle/wrist with ghungroo bells (line of small circles) -->
+  <!-- Left foot ankle bells -->
+  <path d="M16 42 Q18 40 22 40 Q26 40 28 42 Q26 44 22 44 Q18 44 16 42"/>
+  <!-- Bell details on left ankle band -->
+  <circle cx="18" cy="42" r="1.2"/>
+  <circle cx="20.5" cy="42" r="1.2"/>
+  <circle cx="23" cy="42" r="1.2"/>
+  <circle cx="25.5" cy="42" r="1.2"/>
+
+  <!-- Right foot ankle bells -->
+  <path d="M36 46 Q38 44 42 44 Q46 44 48 46 Q46 48 42 48 Q38 48 36 46"/>
+  <!-- Bell details on right ankle band -->
+  <circle cx="38" cy="46" r="1.2"/>
+  <circle cx="40.5" cy="46" r="1.2"/>
+  <circle cx="43" cy="46" r="1.2"/>
+  <circle cx="45.5" cy="46" r="1.2"/>
+
+  <!-- Graceful dancing feet -->
+  <!-- Left foot (raised, dance pose) -->
+  <path d="M16 40 Q14 38 13 35 Q15 33 18 34 Q20 36 20 40"/>
+  <!-- Left toes -->
+  <path d="M13 34 Q12 32 14 31"/>
+  <path d="M15 33 Q14 31 16 30"/>
+  <path d="M17 33 Q17 31 19 31"/>
+
+  <!-- Right foot (grounded, slight turn) -->
+  <path d="M36 44 Q34 42 33 40 Q34 38 37 38 Q40 39 41 44"/>
+  <!-- Right toes -->
+  <path d="M33 39 Q32 37 34 36"/>
+  <path d="M35 38 Q34 36 36 35"/>
+  <path d="M37.5 38 Q37 36 39 36"/>
+
+  <!-- Small bell dangling from each anklet -->
+  <line x1="18" y1="44" x2="18" y2="47"/>
+  <path d="M16 47 Q18 49 20 47"/>
+  <line x1="23" y1="44" x2="23" y2="47"/>
+  <path d="M21 47 Q23 49 25 47"/>
+
+  <line x1="40.5" y1="48" x2="40.5" y2="51"/>
+  <path d="M38.5 51 Q40.5 53 42.5 51"/>
+  <line x1="45" y1="48" x2="45" y2="51"/>
+  <path d="M43 51 Q45 53 47 51"/>
+
+  <!-- Wavy decorative line suggesting garment hem -->
+  <path d="M12 56 Q16 53 20 56 Q24 59 28 56 Q32 53 36 56 Q40 59 44 56 Q48 53 52 56"/>
+
+  <!-- Small musical notes suggesting devotional music -->
+  <path d="M54 18 Q56 16 57 18"/>
+  <line x1="57" y1="14" x2="57" y2="18"/>
+  <line x1="54" y1="15" x2="54" y2="18"/>
+  <path d="M8 26 Q10 24 11 26"/>
+  <line x1="11" y1="22" x2="11" y2="26"/>
+  <line x1="8" y1="23" x2="8" y2="26"/>
+</svg>

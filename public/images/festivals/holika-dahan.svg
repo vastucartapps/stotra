@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Log base of bonfire -->
+  <line x1="14" y1="52" x2="36" y2="44"/>
+  <line x1="50" y1="52" x2="28" y2="44"/>
+  <line x1="18" y1="54" x2="46" y2="54"/>
+  <!-- Main bonfire flames - large central -->
+  <path d="M32 44 Q28 36 30 26 Q32 18 32 12 Q34 18 34 26 Q36 36 32 44"/>
+  <!-- Left flame -->
+  <path d="M28 44 Q22 36 24 26 Q26 20 28 16 Q30 22 28 32 Q26 38 28 44"/>
+  <!-- Right flame -->
+  <path d="M36 44 Q42 36 40 26 Q38 20 36 16 Q34 22 36 32 Q38 38 36 44"/>
+  <!-- Outer left flame -->
+  <path d="M22 46 Q16 38 18 30 Q20 24 22 20 Q24 26 22 36 Q20 42 22 46"/>
+  <!-- Outer right flame -->
+  <path d="M42 46 Q48 38 46 30 Q44 24 42 20 Q40 26 42 36 Q44 42 42 46"/>
+  <!-- Prahlad protected figure in fire (simple outline) -->
+  <circle cx="32" cy="36" r="3"/>
+  <!-- Body outline of Prahlad (peaceful, hands folded) -->
+  <path d="M30 39 Q28 44 30 46 Q32 47 34 46 Q36 44 34 39"/>
+  <!-- Hands folded (namaskar) -->
+  <path d="M29 41 Q32 39 35 41"/>
+  <!-- Divine halo around Prahlad -->
+  <circle cx="32" cy="38" r="5" stroke-dasharray="2 2"/>
+  <!-- Sparks flying -->
+  <circle cx="20" cy="22" r="1"/>
+  <circle cx="44" cy="20" r="1"/>
+  <circle cx="14" cy="32" r="0.8"/>
+  <circle cx="50" cy="28" r="0.8"/>
+  <circle cx="24" cy="14" r="0.8"/>
+  <circle cx="40" cy="14" r="0.8"/>
+  <circle cx="10" cy="24" r="0.8"/>
+  <circle cx="54" cy="22" r="0.8"/>
+  <!-- Ground -->
+  <line x1="6" y1="56" x2="58" y2="56"/>
+  <!-- Crowd/people surrounding fire (dots) -->
+  <circle cx="8" cy="52" r="2"/>
+  <circle cx="56" cy="52" r="2"/>
+  <line x1="8" y1="54" x2="8" y2="58"/>
+  <line x1="56" y1="54" x2="56" y2="58"/>
+</svg>

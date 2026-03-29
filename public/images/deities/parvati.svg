@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Mountain (Himalaya) in the background -->
+  <!-- Far peak left -->
+  <path d="M2 50 L14 22 L22 36"/>
+  <!-- Center main peak (tallest) -->
+  <path d="M14 50 L28 8 L42 50"/>
+  <!-- Right peak -->
+  <path d="M38 50 L50 24 L62 50"/>
+  <!-- Snow caps on peaks -->
+  <path d="M25 15 Q28 8 31 15"/>
+  <path d="M11 28 Q14 22 17 28"/>
+  <path d="M47 30 Q50 24 53 30"/>
+  <!-- Mountain base ground line -->
+  <line x1="2" y1="50" x2="62" y2="50"/>
+
+  <!-- Lotus flower floating at base center -->
+  <!-- Lotus petals -->
+  <path d="M32 56 Q28 52 28 48 Q30 50 32 49 Q34 50 36 48 Q36 52 32 56"/>
+  <path d="M24 54 Q22 49 25 46 Q26 49 28 49 Q26 51 24 54"/>
+  <path d="M40 54 Q42 49 39 46 Q38 49 36 49 Q38 51 40 54"/>
+  <path d="M21 50 Q20 46 23 44 Q24 47 26 47 Q23 48 21 50"/>
+  <path d="M43 50 Q44 46 41 44 Q40 47 38 47 Q41 48 43 50"/>
+  <!-- Lotus center -->
+  <circle cx="32" cy="50" r="3"/>
+  <circle cx="32" cy="50" r="1.5"/>
+
+  <!-- Lotus stem -->
+  <path d="M32 53 Q32 55 32 57"/>
+  <!-- Water ripples below -->
+  <path d="M26 58 Q29 57 32 58 Q35 59 38 58"/>
+  <path d="M24 60 Q28 59 32 60 Q36 61 40 60"/>
+</svg>

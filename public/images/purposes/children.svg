@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Cradle / jhula -->
+  <!-- Cradle body - rounded bottom -->
+  <path d="M14 44 C14 52 20 56 32 56 C44 56 50 52 50 44"/>
+  <!-- Cradle sides -->
+  <path d="M14 36 L14 44 M50 36 L50 44"/>
+  <!-- Cradle top rails -->
+  <path d="M14 36 C14 32 50 32 50 36"/>
+  <!-- Cradle hood/canopy -->
+  <path d="M14 36 C16 28 26 24 32 24 C38 24 48 28 50 36"/>
+  <!-- Baby inside - small curved form -->
+  <path d="M24 46 C24 42 28 40 32 40 C36 40 40 42 40 46" stroke-width="1.2"/>
+  <!-- Baby head -->
+  <circle cx="32" cy="38" r="3" stroke-width="1.2"/>
+  <!-- Hanging ropes for swing -->
+  <path d="M20 32 L20 12 M44 32 L44 12"/>
+  <!-- Ceiling mount/beam -->
+  <path d="M16 12 L48 12"/>
+  <!-- Blessing star above -->
+  <path d="M32 6 L33.5 4 L32 2 L30.5 4 Z" stroke-width="1"/>
+  <path d="M30 5 L34 5 M32 3 L32 7" stroke-width="1"/>
+  <!-- Stars / blessings around -->
+  <path d="M24 8 L25 6 L26 8 L24 7 L26 7 Z" stroke-width="1"/>
+  <path d="M38 8 L39 6 L40 8 L38 7 L40 7 Z" stroke-width="1"/>
+</svg>

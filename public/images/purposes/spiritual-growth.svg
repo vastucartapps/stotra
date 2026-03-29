@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Lotus flower opening upward -->
+  <!-- Center of lotus -->
+  <circle cx="32" cy="44" r="4"/>
+  <!-- Inner petals -->
+  <path d="M32 40 C31 36 28 34 28 38 C28 42 30 43 32 40Z"/>
+  <path d="M32 40 C33 36 36 34 36 38 C36 42 34 43 32 40Z"/>
+  <!-- Outer petals -->
+  <path d="M29 42 C24 38 22 32 26 31 C29 30 31 34 29 42Z"/>
+  <path d="M35 42 C40 38 42 32 38 31 C35 30 33 34 35 42Z"/>
+  <path d="M32 40 C28 35 26 29 29 27 C31 26 33 29 32 40Z"/>
+  <path d="M32 40 C36 35 38 29 35 27 C33 26 31 29 32 40Z"/>
+  <!-- Lotus base / water -->
+  <path d="M20 50 C24 47 28 46 32 48 C36 46 40 47 44 50" stroke-width="1.2"/>
+  <!-- Rising chakra energy spiral above lotus -->
+  <!-- Central energy line rising upward -->
+  <path d="M32 26 L32 8"/>
+  <!-- Spiral / kundalini energy coils -->
+  <path d="M32 24 C36 22 38 18 34 16 C30 14 28 18 32 16" stroke-width="1.2"/>
+  <path d="M32 20 C28 18 26 14 30 12 C34 10 36 14 32 12" stroke-width="1.2"/>
+  <!-- Crown light burst at top -->
+  <circle cx="32" cy="8" r="3.5" stroke-width="1.2"/>
+  <path d="M32 3.5 L32 1" stroke-width="1"/>
+  <path d="M27.5 5 L25.5 3" stroke-width="1"/>
+  <path d="M36.5 5 L38.5 3" stroke-width="1"/>
+  <path d="M26 8 L23 8" stroke-width="1"/>
+  <path d="M38 8 L41 8" stroke-width="1"/>
+  <path d="M27.5 11 L25.5 13" stroke-width="1"/>
+  <path d="M36.5 11 L38.5 13" stroke-width="1"/>
+</svg>

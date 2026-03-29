@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Amrit Kalash (nectar pot) - central, prominent -->
+  <!-- Pot body (wide, classic kalash shape) -->
+  <path d="M18 42 Q16 34 16 28 Q16 20 22 18 Q26 16 32 16 Q38 16 42 18 Q48 20 48 28 Q48 34 46 42"/>
+  <!-- Pot rim with coconut top (traditional kalash) -->
+  <path d="M14 42 Q16 46 32 46 Q48 46 50 42"/>
+  <!-- Pot neck -->
+  <path d="M22 16 Q24 12 32 12 Q40 12 42 16"/>
+  <!-- Pot neck collar -->
+  <path d="M20 14 Q22 11 32 11 Q42 11 44 14"/>
+  <!-- Coconut/mango leaves at top -->
+  <path d="M28 11 Q26 8 24 10 Q26 12 28 11"/>
+  <path d="M32 10 Q32 7 32 6 Q32 7 32 10"/>
+  <path d="M36 11 Q38 8 40 10 Q38 12 36 11"/>
+  <path d="M30 10 Q28 7 27 9 Q29 11 30 10"/>
+  <path d="M34 10 Q36 7 37 9 Q35 11 34 10"/>
+
+  <!-- Pot base/foot -->
+  <path d="M20 46 Q18 50 18 52 Q20 54 32 54 Q44 54 46 52 Q46 50 44 46"/>
+  <path d="M16 52 Q16 56 32 56 Q48 56 48 52"/>
+
+  <!-- Pot decorative band -->
+  <path d="M18 32 Q32 30 46 32"/>
+  <!-- Diamond pattern on pot body -->
+  <path d="M24 26 L28 22 L32 26 L28 30 Z"/>
+  <path d="M32 26 L36 22 L40 26 L36 30 Z"/>
+
+  <!-- Snake coiled around a staff (Indian caduceus / rod of Dhanvantari) -->
+  <!-- Staff (danda) -->
+  <line x1="54" y1="62" x2="54" y2="8"/>
+  <!-- Snake body coiling around staff -->
+  <path d="M50 56 Q48 52 52 50 Q58 48 58 44 Q58 40 52 38 Q46 36 48 30 Q50 24 56 22"/>
+  <!-- Second coil -->
+  <path d="M56 22 Q60 20 60 16 Q60 12 56 10"/>
+  <!-- Snake head (at top of staff) -->
+  <path d="M56 10 Q58 8 60 9 Q62 11 60 13 Q58 12 56 10"/>
+  <!-- Hood flare -->
+  <path d="M54 8 Q56 6 60 7 Q62 9 61 12"/>
+  <path d="M56 8 Q58 5 62 6"/>
+  <!-- Snake tongue -->
+  <path d="M60 9 L62 8 M60 9 L62 10"/>
+  <!-- Snake eye -->
+  <circle cx="59" cy="9" r="0.7" fill="currentColor"/>
+
+  <!-- Medicinal herbs / leaves emerging from pot top -->
+  <!-- Left herb stem -->
+  <path d="M26 12 Q22 6 20 4"/>
+  <path d="M20 4 Q18 2 20 2 Q22 4 20 4"/>
+  <path d="M22 7 Q18 6 19 8 Q21 8 22 7"/>
+  <!-- Right herb stem -->
+  <path d="M38 12 Q42 6 44 4"/>
+  <path d="M44 4 Q46 2 44 2 Q42 4 44 4"/>
+  <path d="M42 7 Q46 6 45 8 Q43 8 42 7"/>
+  <!-- Center herb (tall) -->
+  <path d="M32 10 Q32 4 32 2"/>
+  <path d="M32 6 Q30 4 29 5 Q30 7 32 6"/>
+  <path d="M32 6 Q34 4 35 5 Q34 7 32 6"/>
+
+  <!-- Waves of amrit (nectar) inside pot (visible at top) -->
+  <path d="M20 24 Q24 22 28 24 Q32 26 36 24 Q40 22 44 24"/>
+  <path d="M20 28 Q24 26 28 28 Q32 30 36 28 Q40 26 44 28"/>
+</svg>

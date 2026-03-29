@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Dhvaja (flag staff) -->
+  <line x1="14" y1="8" x2="14" y2="58"/>
+  <!-- Staff base anchor -->
+  <path d="M10 58 Q14 55 18 58"/>
+
+  <!-- Flag billowing in wind (flowing right) -->
+  <path d="M14 8 Q28 10 36 16 Q42 22 38 26 Q32 28 28 24 Q22 20 14 22"/>
+  <!-- Flag inner fold detail -->
+  <path d="M14 12 Q24 14 32 20 Q36 24 32 26"/>
+  <!-- Flag trailing edge flutter -->
+  <path d="M38 26 Q44 28 46 24 Q44 18 38 16"/>
+
+  <!-- Wind spirals / swirls (dynamic movement) -->
+  <!-- Large spiral (center-right) -->
+  <path d="M42 36 Q50 32 54 36 Q58 40 54 44 Q50 48 44 46 Q38 44 38 38 Q38 34 42 32"/>
+  <!-- Medium spiral (upper right) -->
+  <path d="M46 20 Q52 18 54 22 Q56 26 52 28 Q48 30 46 26 Q44 22 46 20"/>
+  <!-- Small spiral (lower left) -->
+  <path d="M22 42 Q28 40 30 44 Q32 48 28 50 Q24 52 22 48 Q20 44 22 42"/>
+
+  <!-- Wind streaks (flowing lines) -->
+  <path d="M20 30 Q30 28 38 32"/>
+  <path d="M18 36 Q28 33 38 38"/>
+  <path d="M22 52 Q34 50 44 54"/>
+
+  <!-- Leaves/particles carried by wind -->
+  <path d="M34 40 Q36 38 38 40 Q37 42 34 40"/>
+  <path d="M48 44 Q50 42 52 44 Q51 46 48 44"/>
+  <path d="M26 36 Q28 34 30 36 Q29 38 26 36"/>
+</svg>

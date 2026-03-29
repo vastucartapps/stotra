@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Gada (mace) handle -->
+  <line x1="20" y1="56" x2="36" y2="20"/>
+  <!-- Gada head (bulbous top) -->
+  <ellipse cx="38" cy="17" rx="8" ry="7" transform="rotate(-30 38 17)"/>
+  <!-- Gada head detail ridges -->
+  <path d="M33 13 Q36 11 40 12"/>
+  <path d="M32 17 Q35 15 40 16"/>
+  <path d="M34 21 Q37 20 41 21"/>
+  <!-- Gada handle wrapping/grip -->
+  <path d="M21 53 Q24 51 23 48"/>
+  <path d="M23 48 Q26 46 25 43"/>
+  <path d="M25 43 Q28 41 27 38"/>
+  <!-- Flag pole -->
+  <line x1="46" y1="8" x2="46" y2="52"/>
+  <!-- Flag pole base -->
+  <line x1="42" y1="52" x2="50" y2="52"/>
+  <!-- Bhagwa (saffron) flag waving -->
+  <path d="M46 8 Q52 10 54 14 Q52 18 46 20 Q50 16 50 12 Q48 9 46 8Z"/>
+  <!-- Flag flutter lines -->
+  <path d="M48 11 Q52 13 52 14"/>
+  <path d="M48 15 Q51 16 52 14"/>
+  <path d="M48 18 Q50 18 50 17"/>
+  <!-- Om or Hanuman symbol on flag (simplified) -->
+  <path d="M49 13 Q50 12 50 13 Q50 14 49 14 Q50 14 50 15"/>
+  <!-- Small lotus/design at gada junction -->
+  <circle cx="19" cy="58" r="2"/>
+</svg>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Body (single torso) -->
+  <path d="M24 38 C22 40 21 44 22 50 C24 52 40 52 42 50 C43 44 42 40 40 38"/>
+  <!-- Body center line / dhoti suggestion -->
+  <path d="M28 45 C30 47 34 47 36 45"/>
+  <!-- Three heads - Brahma (left), Vishnu (center), Shiva (right) -->
+  <!-- Center head - Vishnu (with crown) -->
+  <circle cx="32" cy="20" r="5.5"/>
+  <!-- Vishnu crown (tall, pointed) -->
+  <path d="M29 15 L32 8 L35 15"/>
+  <line x1="30" y1="13" x2="34" y2="13" stroke-width="1"/>
+  <!-- Left head - Brahma (with beard) -->
+  <circle cx="18" cy="22" r="4.5"/>
+  <!-- Brahma crown (four-sided/lotus crown) -->
+  <path d="M15.5 18 L18 13 L20.5 18"/>
+  <path d="M14 19 L18 13 L22 19" stroke-width="1"/>
+  <!-- Brahma beard -->
+  <path d="M16 26 C16 28 18 29 18 28 C18 29 20 28 20 26" stroke-width="1"/>
+  <!-- Right head - Shiva (with matted hair/jata) -->
+  <circle cx="46" cy="22" r="4.5"/>
+  <!-- Shiva's jata (matted locks spiraling up) -->
+  <path d="M43 18 C43 15 45 13 47 14 C49 15 49 17 47 17 C45 17 44 15 46 14"/>
+  <path d="M46 13 C47 11 48 10 49 11"/>
+  <!-- Shiva third eye -->
+  <ellipse cx="46" cy="21" rx="1" ry="0.6" stroke-width="1"/>
+  <!-- Crescent on Shiva's head -->
+  <path d="M44 19 C43 17 44 16 46 17" stroke-width="1"/>
+  <!-- Neck connecting heads to body -->
+  <line x1="18" y1="26.5" x2="25" y2="33"/>
+  <line x1="32" y1="25.5" x2="32" y2="33"/>
+  <line x1="46" y1="26.5" x2="39" y2="33"/>
+  <!-- Shoulders -->
+  <path d="M24 33 C26 32 38 32 40 33"/>
+  <!-- Arms (multiple - 6 arms of Dattatreya) -->
+  <!-- Left arms -->
+  <path d="M24 36 C20 34 16 32 14 30"/>
+  <path d="M24 38 C20 37 16 36 13 35"/>
+  <path d="M24 40 C20 40 16 41 13 42"/>
+  <!-- Right arms -->
+  <path d="M40 36 C44 34 48 32 50 30"/>
+  <path d="M40 38 C44 37 48 36 51 35"/>
+  <path d="M40 40 C44 40 48 41 51 42"/>
+  <!-- Symbolic items: conch (right), lotus (left), trident, kamandalu -->
+  <!-- Conch in right hand -->
+  <path d="M50 29 C51 27 52 28 51 30 C50 32 49 31 50 29"/>
+  <!-- Lotus in left hand -->
+  <path d="M14 29 C13 27 12 28 13 30"/>
+  <path d="M13 28 C14 26 16 26 16 28"/>
+  <!-- Cow beside (right side, small) -->
+  <path d="M50 52 C50 48 54 46 56 48 C58 50 57 52 55 52 Z"/>
+  <path d="M55 46 C55 44 56 43 56 44"/>
+  <line x1="51" y1="52" x2="51" y2="58"/>
+  <line x1="53" y1="52" x2="53" y2="58"/>
+  <line x1="55" y1="52" x2="55" y2="58"/>
+  <line x1="57" y1="52" x2="57" y2="58"/>
+  <!-- Cow tail -->
+  <path d="M58 50 C60 51 60 54 58 55"/>
+</svg>

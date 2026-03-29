@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Four crowns (chatur-mukha — 3 visible faces in 2D) -->
+  <!-- Center face crown -->
+  <path d="M28 4 L30 1 L32 4 L34 1 L36 4"/>
+  <path d="M26 6 Q32 3 38 6"/>
+  <!-- Left face crown (smaller, angled) -->
+  <path d="M14 8 L15.5 6 L17 8 L18.5 6 L20 8"/>
+  <path d="M13 9 Q16.5 7 20.5 9"/>
+  <!-- Right face crown (smaller, angled) -->
+  <path d="M44 8 L45.5 6 L47 8 L48.5 6 L50 8"/>
+  <path d="M43 9 Q46.5 7 50.5 9"/>
+
+  <!-- Center face (main, forward-facing) -->
+  <ellipse cx="32" cy="16" rx="8" ry="9"/>
+  <!-- Center face eyes -->
+  <circle cx="29" cy="15" r="1"/>
+  <circle cx="35" cy="15" r="1"/>
+  <!-- Center beard (Brahma has a beard) -->
+  <path d="M28 21 Q32 24 36 21"/>
+  <path d="M30 22 Q32 25 34 22"/>
+
+  <!-- Left face (side profile, partially visible) -->
+  <path d="M12 14 Q10 12 10 17 Q10 22 13 23 Q16 24 18 21"/>
+  <!-- Left face eye -->
+  <circle cx="13" cy="17" r="0.8"/>
+  <!-- Left beard -->
+  <path d="M11 22 Q14 25 17 22"/>
+
+  <!-- Right face (side profile, partially visible) -->
+  <path d="M52 14 Q54 12 54 17 Q54 22 51 23 Q48 24 46 21"/>
+  <!-- Right face eye -->
+  <circle cx="51" cy="17" r="0.8"/>
+  <!-- Right beard -->
+  <path d="M53 22 Q50 25 47 22"/>
+
+  <!-- Neck and body -->
+  <path d="M28 24 L26 28"/>
+  <path d="M36 24 L38 28"/>
+  <!-- Body torso -->
+  <path d="M22 28 Q20 40 22 48 Q26 52 32 52 Q38 52 42 48 Q44 40 42 28 Q38 26 32 26 Q26 26 22 28 Z"/>
+
+  <!-- Four arms (Brahma's four arms holding sacred items) -->
+  <!-- Upper right — Vedas (book shape) -->
+  <path d="M40 30 Q48 26 52 28"/>
+  <path d="M50 26 Q53 27 53 30 Q52 32 50 31 Z"/>
+  <!-- Upper left — Kamandalu (water pot) -->
+  <path d="M22 30 Q14 26 10 28"/>
+  <ellipse cx="9" cy="29" rx="2.5" ry="3"/>
+  <path d="M9 26 Q10 24 11 25"/>
+  <!-- Lower right — Mala (rosary/lotus) -->
+  <path d="M42 38 Q50 38 52 42"/>
+  <circle cx="53" cy="42" r="2"/>
+  <!-- Lower left — Lotus -->
+  <path d="M20 38 Q12 38 10 42"/>
+  <circle cx="9" cy="42" r="2"/>
+  <path d="M7 42 Q9 39 11 42"/>
+
+  <!-- Sacred thread (yajnopavita) -->
+  <path d="M26 28 Q32 35 38 28"/>
+
+  <!-- Lotus seat (padma) -->
+  <!-- Center lotus -->
+  <path d="M22 56 Q27 52 32 52 Q37 52 42 56"/>
+  <!-- Petals -->
+  <path d="M22 56 Q20 52 17 54 Q18 57 22 56"/>
+  <path d="M42 56 Q44 52 47 54 Q46 57 42 56"/>
+  <path d="M25 57 Q23 60 25 62 Q28 61 25 57"/>
+  <path d="M39 57 Q41 60 39 62 Q36 61 39 57"/>
+  <path d="M32 58 L32 62"/>
+  <!-- Lotus base water lines -->
+  <path d="M16 62 Q20 60 24 62 Q28 64 32 62 Q36 60 40 62 Q44 64 48 62"/>
+</svg>

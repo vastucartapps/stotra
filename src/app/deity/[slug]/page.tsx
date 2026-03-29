@@ -4,6 +4,7 @@ import Link from "next/link";
 import { DEITIES, getDeityBySlug } from "@/data/deities";
 import { getStotrasByDeity } from "@/lib/stotras";
 import { StotraCard } from "@/components/stotra/StotraCard";
+import { CategoryIcon } from "@/components/ui/CategoryIcon";
 
 const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
 
@@ -163,12 +164,7 @@ export default async function DeityPage({
 
       {/* Header */}
       <div className="flex items-center gap-5 mb-10">
-        <div
-          className="w-16 h-16 rounded-2xl flex items-center justify-center text-white text-3xl font-bold font-serif"
-          style={{ backgroundColor: deity.color }}
-        >
-          {deity.nameHi.charAt(0)}
-        </div>
+        <CategoryIcon type="deity" id={deity.id} color={deity.color} size="xl" />
         <div>
           <h1 className="font-serif text-3xl md:text-4xl font-bold text-brand">
             {deity.name} Stotras

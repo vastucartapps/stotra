@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Temple gateway / Vaikuntha Dwaram -->
+  <!-- Main arch -->
+  <path d="M14 56 L14 24 Q14 12 32 10 Q50 12 50 24 L50 56"/>
+  <!-- Inner arch opening -->
+  <path d="M20 56 L20 28 Q20 18 32 16 Q44 18 44 28 L44 56"/>
+  <!-- Decorative temple tower / shikhara hints -->
+  <path d="M28 16 Q26 12 28 8 Q32 4 36 8 Q38 12 36 16"/>
+  <line x1="32" y1="4" x2="32" y2="8"/>
+  <!-- Amalaka (capstone) -->
+  <ellipse cx="32" cy="8" rx="4" ry="2.5"/>
+  <!-- Kalash on top -->
+  <path d="M30 6 Q32 2 34 6"/>
+  <circle cx="32" cy="2" r="1.5"/>
+  <!-- Divine light rays from within gateway -->
+  <line x1="32" y1="30" x2="32" y2="20"/>
+  <line x1="32" y1="30" x2="26" y2="22"/>
+  <line x1="32" y1="30" x2="38" y2="22"/>
+  <line x1="32" y1="30" x2="24" y2="28"/>
+  <line x1="32" y1="30" x2="40" y2="28"/>
+  <!-- Rays spreading downward too -->
+  <line x1="32" y1="38" x2="28" y2="34"/>
+  <line x1="32" y1="38" x2="36" y2="34"/>
+  <line x1="32" y1="38" x2="24" y2="38"/>
+  <line x1="32" y1="38" x2="40" y2="38"/>
+  <!-- Steps approaching gate -->
+  <path d="M10 56 L8 60 L56 60 L54 56"/>
+  <path d="M12 52 L52 52"/>
+  <!-- Chakra / Sudarsana above light source -->
+  <circle cx="32" cy="30" r="6"/>
+  <circle cx="32" cy="30" r="3"/>
+  <line x1="32" y1="24" x2="32" y2="36"/>
+  <line x1="26" y1="30" x2="38" y2="30"/>
+  <line x1="27.8" y1="25.8" x2="36.2" y2="34.2"/>
+  <line x1="36.2" y1="25.8" x2="27.8" y2="34.2"/>
+  <!-- Garlands on arch -->
+  <path d="M14 28 Q20 32 26 28"/>
+  <path d="M38 28 Q44 32 50 28"/>
+  <!-- Flag on top -->
+  <line x1="32" y1="4" x2="36" y2="4"/>
+</svg>

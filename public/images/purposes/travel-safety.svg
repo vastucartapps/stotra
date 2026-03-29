@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Protective shield arc (outer) -->
+  <path d="M10 28 Q10 10 32 8 Q54 10 54 28 Q54 46 32 56 Q10 46 10 28 Z"/>
+  <!-- Compass circle (inner) -->
+  <circle cx="32" cy="32" r="12"/>
+  <!-- Compass cross lines -->
+  <line x1="32" y1="20" x2="32" y2="44"/>
+  <line x1="20" y1="32" x2="44" y2="32"/>
+  <!-- Compass needle (N pointing up) -->
+  <path d="M32 22 L35 32 L32 30 L29 32 Z"/>
+  <!-- Compass N/S/E/W markers -->
+  <circle cx="32" cy="21" r="1" stroke="none" fill="currentColor"/>
+  <circle cx="32" cy="43" r="1" stroke="none" fill="currentColor"/>
+  <circle cx="21" cy="32" r="1" stroke="none" fill="currentColor"/>
+  <circle cx="43" cy="32" r="1" stroke="none" fill="currentColor"/>
+  <!-- Shield decorative notch -->
+  <path d="M32 8 L32 14"/>
+</svg>

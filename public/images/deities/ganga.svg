@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Kalash (water pot) tilted, pouring water -->
+  <!-- Pot body (tilted ~30°) -->
+  <path d="M22 10 Q18 12 16 20 Q15 28 18 34 Q21 38 26 38 Q31 38 34 34 Q37 28 36 20 Q34 12 30 10 Z"/>
+  <!-- Pot neck -->
+  <path d="M24 10 Q26 8 28 9"/>
+  <!-- Pot mouth (rim) -->
+  <path d="M22 9 Q26 6 30 8"/>
+  <!-- Mango/leaf on pot top (traditional kalash) -->
+  <path d="M26 6 Q28 3 30 5 Q29 7 26 7"/>
+
+  <!-- Water pouring from tilted kalash (right side) -->
+  <path d="M34 20 Q38 22 40 26 Q42 30 40 34"/>
+  <path d="M36 22 Q40 25 41 30 Q42 34 39 38"/>
+  <path d="M35 25 Q38 28 39 33"/>
+
+  <!-- River waves at bottom — three wave bands -->
+  <!-- Wave row 1 -->
+  <path d="M8 44 Q12 41 16 44 Q20 47 24 44 Q28 41 32 44 Q36 47 40 44 Q44 41 48 44 Q52 47 56 44"/>
+  <!-- Wave row 2 -->
+  <path d="M8 50 Q12 47 16 50 Q20 53 24 50 Q28 47 32 50 Q36 53 40 50 Q44 47 48 50 Q52 53 56 50"/>
+  <!-- Wave row 3 -->
+  <path d="M8 57 Q12 54 16 57 Q20 60 24 57 Q28 54 32 57 Q36 60 40 57 Q44 54 48 57 Q52 60 56 57"/>
+
+  <!-- Lotus floating on water (river goddess symbol) -->
+  <circle cx="48" cy="44" r="4"/>
+  <path d="M48 40 Q46 37 44 39 Q45 42 48 40"/>
+  <path d="M48 40 Q50 37 52 39 Q51 42 48 40"/>
+  <path d="M44 44 Q41 43 41 45 Q43 47 44 44"/>
+  <path d="M52 44 Q55 43 55 45 Q53 47 52 44"/>
+</svg>

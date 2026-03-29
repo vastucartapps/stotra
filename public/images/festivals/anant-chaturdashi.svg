@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Infinity / Anant symbol (large, prominent) -->
+  <path d="M16 28 Q16 20 24 20 Q32 20 32 28 Q32 36 40 36 Q48 36 48 28 Q48 20 40 20 Q32 20 32 28 Q32 36 24 36 Q16 36 16 28 Z"/>
+  <!-- Sacred thread (dohra) wound around infinity -->
+  <path d="M16 28 Q16 22 22 21" stroke-dasharray="3 2"/>
+  <path d="M22 21 Q28 20 32 24" stroke-dasharray="3 2"/>
+  <!-- 14 knots on thread (chaturdashi = 14) -->
+  <circle cx="14" cy="28" r="1.5"/>
+  <circle cx="16" cy="22" r="1.5"/>
+  <circle cx="20" cy="18" r="1.5"/>
+  <circle cx="26" cy="17" r="1.5"/>
+  <circle cx="32" cy="20" r="1.5"/>
+  <circle cx="36" cy="24" r="1.5"/>
+  <circle cx="38" cy="30" r="1.5"/>
+  <circle cx="36" cy="36" r="1.5"/>
+  <circle cx="32" cy="39" r="1.5"/>
+  <circle cx="26" cy="38" r="1.5"/>
+  <circle cx="20" cy="37" r="1.5"/>
+  <circle cx="16" cy="34" r="1.5"/>
+  <circle cx="48" cy="22" r="1.5"/>
+  <circle cx="50" cy="28" r="1.5"/>
+  <!-- Ganesh visarjan pot / idol -->
+  <!-- Ganesha head outline (simple) -->
+  <path d="M28 54 Q26 50 28 48 Q30 44 32 44 Q34 44 36 48 Q38 50 36 54 Z"/>
+  <!-- Trunk -->
+  <path d="M32 48 Q36 50 38 54"/>
+  <!-- Ears -->
+  <path d="M28 48 Q24 46 26 52"/>
+  <path d="M36 48 Q40 46 38 52"/>
+  <!-- Crown -->
+  <path d="M29 46 L30 42 L32 44 L34 42 L35 46"/>
+  <!-- Water waves (visarjan) -->
+  <path d="M8 60 Q12 56 16 60 Q20 56 24 60 Q28 56 32 60 Q36 56 40 60 Q44 56 48 60 Q52 56 56 60"/>
+  <path d="M10 58 Q14 54 18 58 Q22 54 26 58 Q30 54 34 58 Q38 54 42 58 Q46 54 50 58"/>
+  <!-- Lotus below Ganesha -->
+  <path d="M28 56 Q30 52 32 56 Q34 52 36 56"/>
+</svg>

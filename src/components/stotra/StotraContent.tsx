@@ -12,6 +12,7 @@ import {
   Check,
 } from "lucide-react";
 import type { Stotra, Deity } from "@/types";
+import { CategoryIcon } from "@/components/ui/CategoryIcon";
 
 interface StotraContentProps {
   stotra: Stotra;
@@ -44,9 +45,10 @@ export function StotraContent({ stotra, deity }: StotraContentProps) {
         <div className="flex flex-wrap items-center gap-2 mb-4">
           {deity && (
             <span
-              className="inline-flex items-center gap-1.5 text-xs font-medium px-3 py-1 rounded-full text-white"
+              className="inline-flex items-center gap-2 text-xs font-medium pl-1 pr-3 py-1 rounded-full text-white"
               style={{ backgroundColor: deity.color }}
             >
+              <CategoryIcon type="deity" id={deity.id} color={deity.color} size="sm" />
               {deity.name}
             </span>
           )}

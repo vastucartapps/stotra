@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Shiva's broken bow (Pinaka) -->
+  <!-- Left half of bow (broken at center) -->
+  <path d="M8 48 Q10 30 20 18 Q24 14 28 16"/>
+  <!-- Right half of bow (broken) -->
+  <path d="M36 16 Q42 14 48 20 Q56 32 56 48"/>
+  <!-- Break point marks at center -->
+  <line x1="28" y1="15" x2="30" y2="18"/>
+  <line x1="34" y1="15" x2="36" y2="18"/>
+  <!-- Broken ends (jagged) -->
+  <path d="M28 16 L30 14 L31 17 L33 13 L34 16"/>
+
+  <!-- Decorative garland draped over bow -->
+  <!-- Garland left arc -->
+  <path d="M14 38 Q16 46 22 50 Q28 54 32 52 Q36 54 42 50 Q48 46 50 38"/>
+  <!-- Flower clusters on garland -->
+  <!-- Center flower -->
+  <circle cx="32" cy="52" r="2.5"/>
+  <path d="M29.5 52 Q32 50 34.5 52"/>
+  <path d="M32 49.5 Q34 52 32 54.5"/>
+  <path d="M29.5 52 Q32 54 34.5 52"/>
+  <!-- Left flowers -->
+  <circle cx="22" cy="50" r="2"/>
+  <path d="M20 50 Q22 48.5 24 50"/>
+  <path d="M22 48.5 Q23.5 50 22 51.5"/>
+  <!-- Right flowers -->
+  <circle cx="42" cy="50" r="2"/>
+  <path d="M40 50 Q42 48.5 44 50"/>
+  <path d="M42 48.5 Q43.5 50 42 51.5"/>
+  <!-- Small flower buds on garland string -->
+  <circle cx="17" cy="44" r="1.2"/>
+  <circle cx="26" cy="51" r="1"/>
+  <circle cx="38" cy="51" r="1"/>
+  <circle cx="47" cy="44" r="1.2"/>
+
+  <!-- Small lotus at bottom (Sita born from earth/lotus) -->
+  <path d="M32 58 Q29 55 29 53 Q31 54 32 53 Q33 54 35 53 Q35 55 32 58"/>
+  <line x1="32" y1="58" x2="32" y2="62"/>
+  <!-- Leaf -->
+  <path d="M32 60 Q36 58 38 60"/>
+
+  <!-- Decorative stars/auspicious dots -->
+  <circle cx="10" cy="14" r="0.8" fill="currentColor"/>
+  <circle cx="54" cy="14" r="0.8" fill="currentColor"/>
+  <circle cx="8" cy="20" r="0.6" fill="currentColor"/>
+  <circle cx="56" cy="20" r="0.6" fill="currentColor"/>
+</svg>

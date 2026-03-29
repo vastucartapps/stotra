@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import Link from "next/link";
+import { CategoryIcon } from "@/components/ui/CategoryIcon";
 import { DAYS, getDayBySlug } from "@/data/days";
 import { getDeityById } from "@/data/deities";
 import { getStotrasByDay } from "@/lib/stotras";
@@ -163,12 +164,17 @@ export default async function DayPage({
       </nav>
 
       <div className="mb-10">
-        <h1 className="font-serif text-3xl md:text-4xl font-bold text-brand mb-2">
-          {day.name} Stotras
-        </h1>
-        <p className="devanagari-heading text-lg text-text-muted mb-4">
-          {day.nameHi} के स्तोत्र
-        </p>
+        <div className="flex items-center gap-4 mb-4">
+          <CategoryIcon type="day" id={day.id} size="xl" className="rounded-2xl bg-brand/10" />
+          <div>
+            <h1 className="font-serif text-3xl md:text-4xl font-bold text-brand">
+              {day.name} Stotras
+            </h1>
+            <p className="devanagari-heading text-lg text-text-muted">
+              {day.nameHi} के स्तोत्र
+            </p>
+          </div>
+        </div>
         <div className="flex flex-wrap gap-2">
           {day.deities.map((deityId) => {
             const deity = getDeityById(deityId);

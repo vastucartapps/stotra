@@ -5,6 +5,7 @@ import { FESTIVALS, getFestivalBySlug } from "@/data/festivals";
 import { getDeityById } from "@/data/deities";
 import { getStotrasByFestival } from "@/lib/stotras";
 import { StotraCard } from "@/components/stotra/StotraCard";
+import { CategoryIcon } from "@/components/ui/CategoryIcon";
 
 const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
 
@@ -167,8 +168,13 @@ export default async function FestivalPage({ params }: { params: Promise<{ slug:
         <span>/</span>
         <span className="text-text">{festival.name}</span>
       </nav>
-      <h1 className="font-serif text-3xl md:text-4xl font-bold text-brand mb-2">{festival.name} Stotras</h1>
-      <p className="devanagari-heading text-lg text-text-muted mb-8">{festival.nameHi} के स्तोत्र</p>
+      <div className="flex items-center gap-4 mb-8">
+        <CategoryIcon type="festival" id={festival.id} size="xl" className="rounded-2xl bg-saffron/10" />
+        <div>
+          <h1 className="font-serif text-3xl md:text-4xl font-bold text-brand">{festival.name} Stotras</h1>
+          <p className="devanagari-heading text-lg text-text-muted">{festival.nameHi} के स्तोत्र</p>
+        </div>
+      </div>
       {stotras.length > 0 ? (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
           {stotras.map((s) => <StotraCard key={s.slug} stotra={s} />)}

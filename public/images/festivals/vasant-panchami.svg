@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Veena body (gourd) -->
+  <ellipse cx="18" cy="46" rx="7" ry="8"/>
+  <!-- Veena neck -->
+  <path d="M22 40 L44 16"/>
+  <!-- Veena head/tuning pegs -->
+  <path d="M44 16 Q48 13 46 10 Q43 12 44 16"/>
+  <!-- Strings -->
+  <line x1="23" y1="41" x2="43" y2="17"/>
+  <line x1="21" y1="42" x2="41" y2="18"/>
+  <line x1="19" y1="43" x2="39" y2="19"/>
+  <!-- Mustard flowers (5-petal) -->
+  <!-- Flower 1 -->
+  <circle cx="46" cy="26" r="2"/>
+  <line x1="44" y1="26" x2="41" y2="26"/>
+  <line x1="48" y1="26" x2="51" y2="26"/>
+  <line x1="46" y1="24" x2="46" y2="21"/>
+  <line x1="46" y1="28" x2="46" y2="31"/>
+  <line x1="44.5" y1="24.5" x2="42" y2="22"/>
+  <line x1="47.5" y1="24.5" x2="50" y2="22"/>
+  <!-- Flower 2 -->
+  <circle cx="52" cy="36" r="2"/>
+  <line x1="50" y1="36" x2="47" y2="36"/>
+  <line x1="54" y1="36" x2="57" y2="36"/>
+  <line x1="52" y1="34" x2="52" y2="31"/>
+  <line x1="52" y1="38" x2="52" y2="41"/>
+  <line x1="50.5" y1="34.5" x2="48" y2="32"/>
+  <!-- Flower 3 small -->
+  <circle cx="40" cy="14" r="1.5"/>
+  <line x1="38.5" y1="14" x2="36" y2="14"/>
+  <line x1="41.5" y1="14" x2="44" y2="14"/>
+  <line x1="40" y1="12.5" x2="40" y2="10"/>
+  <line x1="40" y1="15.5" x2="40" y2="18"/>
+  <!-- Leaves/spring -->
+  <path d="M45 42 Q50 38 48 34"/>
+  <path d="M50 46 Q55 42 53 38"/>
+  <!-- Ground -->
+  <line x1="8" y1="54" x2="56" y2="54"/>
+  <!-- Grass -->
+  <path d="M12 54 Q14 50 16 54"/>
+  <path d="M20 54 Q22 50 24 54"/>
+</svg>

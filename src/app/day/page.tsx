@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { CategoryIcon } from "@/components/ui/CategoryIcon";
 import { DAYS, getTodayDay } from "@/data/days";
 import { getDeityById } from "@/data/deities";
 import { getStotrasByDay } from "@/lib/stotras";
@@ -118,12 +119,17 @@ export default function DayListPage() {
                   &#9733; Today
                 </span>
               )}
-              <h2 className="font-serif text-xl font-semibold text-brand group-hover:text-brand-light transition-colors">
-                {day.name}
-              </h2>
-              <p className="devanagari-heading text-sm text-text-muted mb-3">
-                {day.nameHi}
-              </p>
+              <div className="flex items-center gap-3 mb-2">
+                <CategoryIcon type="day" id={day.id} size="lg" className="rounded-xl bg-brand/10" />
+                <div>
+                  <h2 className="font-serif text-xl font-semibold text-brand group-hover:text-brand-light transition-colors">
+                    {day.name}
+                  </h2>
+                  <p className="devanagari-heading text-sm text-text-muted">
+                    {day.nameHi}
+                  </p>
+                </div>
+              </div>
               <div className="flex flex-wrap gap-1.5 mb-3">
                 {day.deities.map((deityId) => {
                   const deity = getDeityById(deityId);

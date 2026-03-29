@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Two intertwined garlands (Jaimala) -->
+  <!-- Left garland loop -->
+  <path d="M20 24 C14 20 10 26 14 32 C18 38 24 36 26 32 C28 28 26 24 22 22"/>
+  <!-- Right garland loop -->
+  <path d="M44 24 C50 20 54 26 50 32 C46 38 40 36 38 32 C36 28 38 24 42 22"/>
+  <!-- Intertwining middle section -->
+  <path d="M22 22 C26 20 32 22 38 20 C44 18 46 22 44 24"/>
+  <path d="M20 24 C22 28 28 30 32 28 C36 26 40 28 44 24"/>
+  <!-- Flower clusters on left garland -->
+  <circle cx="15" cy="28" r="2.5"/>
+  <circle cx="13" cy="24" r="1.5" stroke-width="1"/>
+  <circle cx="17" cy="22" r="1.5" stroke-width="1"/>
+  <!-- Flower clusters on right garland -->
+  <circle cx="49" cy="28" r="2.5"/>
+  <circle cx="51" cy="24" r="1.5" stroke-width="1"/>
+  <circle cx="47" cy="22" r="1.5" stroke-width="1"/>
+  <!-- Sacred fire (Vivaha Havan) below -->
+  <!-- Fire pit/kund -->
+  <path d="M20 56 L18 44 L44 44 L46 56 Z" stroke-width="1.5"/>
+  <path d="M18 44 L14 56 M46 44 L50 56" stroke-width="1"/>
+  <!-- Flames -->
+  <path d="M26 44 C25 40 23 37 24 34 C25 31 26 30 27 32 C28 34 28 38 27 40"/>
+  <path d="M32 44 C31 39 29 35 30 31 C31 28 32 27 32 27 C32 27 33 28 34 31 C35 35 33 39 32 44"/>
+  <path d="M38 44 C39 40 41 37 40 34 C39 31 38 30 37 32 C36 34 36 38 37 40"/>
+</svg>
