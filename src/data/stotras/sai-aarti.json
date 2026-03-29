@@ -15,16 +15,27 @@
     "Bestows spiritual peace and ultimate contentment",
     "Especially powerful when recited on Thursdays"
   ],
-  "deity": "vishnu",
-  "secondaryDeities": ["dattatreya"],
-  "days": ["thursday"],
-  "festivals": ["guru-purnima"],
-  "purposes": ["devotion", "peace", "protection", "healing"],
+  "deity": "saibaba",
+  "secondaryDeities": [
+    "dattatreya"
+  ],
+  "days": [
+    "thursday"
+  ],
+  "festivals": [
+    "guru-purnima"
+  ],
+  "purposes": [
+    "devotion",
+    "peace",
+    "protection",
+    "healing"
+  ],
   "readingTimeMinutes": 8,
   "seoDescription": "Read Sai Baba Aarti in Marathi-Hindi with English transliteration and meaning. Sacred evening aarti of Shirdi Sai Baba for Thursday worship.",
   "verseCount": 8,
   "source": "Shri Sai Satcharitra Tradition",
   "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
   "isPublished": true
 }

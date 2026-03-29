@@ -14,16 +14,29 @@
     "Grants prosperity and the grace of Lakshmi",
     "Creates the sacred atmosphere of Ganga aarti at home"
   ],
-  "deity": "shiva",
-  "secondaryDeities": ["vishnu", "lakshmi"],
-  "days": ["monday"],
-  "festivals": ["ganga-dussehra", "ganga-jayanti"],
-  "purposes": ["purification", "devotion", "wealth", "peace"],
+  "deity": "ganga",
+  "secondaryDeities": [
+    "vishnu",
+    "lakshmi"
+  ],
+  "days": [
+    "monday"
+  ],
+  "festivals": [
+    "ganga-dussehra",
+    "ganga-jayanti"
+  ],
+  "purposes": [
+    "purification",
+    "devotion",
+    "wealth",
+    "peace"
+  ],
   "readingTimeMinutes": 5,
   "seoDescription": "Om Jai Gange Mata - Ganga Aarti in Hindi with meaning. The famous Haridwar aarti for Goddess Ganga, sung for purification and blessings.",
   "verseCount": 7,
   "source": "Traditional Aarti Sangrah",
   "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
   "isPublished": true
 }

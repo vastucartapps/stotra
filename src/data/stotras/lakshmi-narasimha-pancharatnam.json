@@ -14,16 +14,28 @@
     "Supreme protection stotra from the Advaita Vedanta tradition",
     "Grants moksha and liberation from cycle of birth and death"
   ],
-  "deity": "vishnu",
-  "secondaryDeities": ["lakshmi"],
-  "days": ["saturday", "tuesday"],
-  "festivals": ["narasimha-jayanti"],
-  "purposes": ["protection", "devotion", "spiritual-growth", "removal-of-obstacles"],
+  "deity": "narasimha",
+  "secondaryDeities": [
+    "lakshmi"
+  ],
+  "days": [
+    "saturday",
+    "tuesday"
+  ],
+  "festivals": [
+    "narasimha-jayanti"
+  ],
+  "purposes": [
+    "protection",
+    "devotion",
+    "spiritual-growth",
+    "removal-of-obstacles"
+  ],
   "readingTimeMinutes": 4,
   "seoDescription": "Read Lakshmi Narasimha Pancharatnam by Shankaracharya in Sanskrit with Hindi meaning. Five jewel verses of divine surrender to Narasimha.",
   "verseCount": 5,
   "source": "Lakshmi Narasimha Pancharatnam (Adi Shankaracharya)",
   "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
   "isPublished": true
 }

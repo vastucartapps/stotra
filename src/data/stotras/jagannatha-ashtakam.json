@@ -15,16 +15,25 @@
     "Especially powerful during Rath Yatra festival",
     "Develops deep devotion and surrender to the Lord"
   ],
-  "deity": "krishna",
-  "secondaryDeities": ["vishnu"],
+  "deity": "jagannath",
+  "secondaryDeities": [
+    "vishnu"
+  ],
   "days": [],
-  "festivals": ["janmashtami"],
-  "purposes": ["devotion", "spiritual-growth", "peace", "protection"],
+  "festivals": [
+    "janmashtami"
+  ],
+  "purposes": [
+    "devotion",
+    "spiritual-growth",
+    "peace",
+    "protection"
+  ],
   "readingTimeMinutes": 8,
   "seoDescription": "Read Jagannatha Ashtakam by Adi Shankaracharya in Sanskrit with Hindi meaning. Eight verses seeking the divine vision of Lord Jagannath.",
   "verseCount": 8,
   "source": "Adi Shankaracharya",
   "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
   "isPublished": true
 }

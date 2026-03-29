@@ -15,16 +15,29 @@
     "Sung during Wari pilgrimage and daily worship in Vaishnava homes",
     "Purifies the mind through the sacred chant 'Vitthal Vitthal'"
   ],
-  "deity": "krishna",
-  "secondaryDeities": ["rukmini"],
-  "days": ["thursday", "saturday"],
-  "festivals": ["ashadhi-ekadashi", "kartiki-ekadashi"],
-  "purposes": ["devotion", "peace", "spiritual-growth", "purification"],
+  "deity": "vitthal",
+  "secondaryDeities": [
+    "rukmini"
+  ],
+  "days": [
+    "thursday",
+    "saturday"
+  ],
+  "festivals": [
+    "ashadhi-ekadashi",
+    "kartiki-ekadashi"
+  ],
+  "purposes": [
+    "devotion",
+    "peace",
+    "spiritual-growth",
+    "purification"
+  ],
   "readingTimeMinutes": 6,
   "seoDescription": "Vitthal Aarti in Marathi with Hindi meaning. Pandharpur tradition aarti with verses by Tukaram, Jnanadeva, and Namadeva.",
   "verseCount": 10,
   "source": "Pandharpur Varkari Tradition (Jnanadeva, Tukaram, Namadeva)",
   "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
   "isPublished": true
 }

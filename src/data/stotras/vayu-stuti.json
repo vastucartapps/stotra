@@ -14,16 +14,30 @@
     "Grants strength, knowledge and devotion to Vishnu",
     "Recited daily by followers of Madhva Sampradaya"
   ],
-  "deity": "hanuman",
-  "secondaryDeities": ["vishnu", "rama"],
-  "days": ["tuesday", "saturday"],
-  "festivals": ["hanuman-jayanti", "madhva-navami"],
-  "purposes": ["devotion", "knowledge", "spiritual-growth", "protection"],
+  "deity": "vayu",
+  "secondaryDeities": [
+    "vishnu",
+    "rama"
+  ],
+  "days": [
+    "tuesday",
+    "saturday"
+  ],
+  "festivals": [
+    "hanuman-jayanti",
+    "madhva-navami"
+  ],
+  "purposes": [
+    "devotion",
+    "knowledge",
+    "spiritual-growth",
+    "protection"
+  ],
   "readingTimeMinutes": 5,
   "seoDescription": "Read Vayu Stuti by Madhvacharya in Sanskrit with Hindi meaning. Sacred hymn praising three incarnations of Vayu — Hanuman, Bhima, Madhva.",
   "verseCount": 8,
   "source": "Vayu Stuti (Shri Madhvacharya)",
   "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
   "isPublished": true
 }

@@ -14,16 +14,28 @@
     "Removes obstacles in matters of love and relationships",
     "Bestows the highest form of devotion - Prema Bhakti"
   ],
-  "deity": "krishna",
+  "deity": "radha",
   "secondaryDeities": [],
-  "days": ["wednesday", "friday"],
-  "festivals": ["radha-ashtami", "holi", "janmashtami"],
-  "purposes": ["devotion", "love", "marital-harmony", "spiritual-growth"],
+  "days": [
+    "wednesday",
+    "friday"
+  ],
+  "festivals": [
+    "radha-ashtami",
+    "holi",
+    "janmashtami"
+  ],
+  "purposes": [
+    "devotion",
+    "love",
+    "marital-harmony",
+    "spiritual-growth"
+  ],
   "readingTimeMinutes": 14,
   "seoDescription": "Radha Chalisa in Hindi with English transliteration and meaning. Devotional prayer to Radha Rani, beloved of Lord Krishna.",
   "verseCount": 42,
   "source": "Traditional Chalisa Sangrah",
   "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
   "isPublished": true
 }

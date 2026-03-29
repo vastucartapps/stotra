@@ -15,16 +15,24 @@
     "Especially powerful when recited on Dhanteras (Kartik Krishna Chaturdashi)",
     "Bestows the nectar of immortality (Amrit) and divine medicine"
   ],
-  "deity": "vishnu",
+  "deity": "dhanvantari",
   "secondaryDeities": [],
-  "days": ["saturday"],
-  "festivals": ["dhanteras"],
-  "purposes": ["health", "protection", "devotion"],
+  "days": [
+    "saturday"
+  ],
+  "festivals": [
+    "dhanteras"
+  ],
+  "purposes": [
+    "health",
+    "protection",
+    "devotion"
+  ],
   "readingTimeMinutes": 7,
   "seoDescription": "Dhanvantari Mantra in Sanskrit with Hindi meaning. Sacred mantras to the divine physician for health, healing, and freedom from disease.",
   "verseCount": 10,
   "source": "Bhagavata Purana / Ayurvedic Tradition",
   "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
   "isPublished": true
 }

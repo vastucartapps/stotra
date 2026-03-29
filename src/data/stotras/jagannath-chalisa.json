@@ -14,16 +14,27 @@
     "Fulfills all material and spiritual desires of devotees",
     "Special significance during Rath Yatra festival"
   ],
-  "deity": "krishna",
+  "deity": "jagannath",
   "secondaryDeities": [],
-  "days": ["thursday", "sunday"],
-  "festivals": ["rath-yatra", "snana-yatra"],
-  "purposes": ["devotion", "moksha", "peace", "fulfillment-of-desires"],
+  "days": [
+    "thursday",
+    "sunday"
+  ],
+  "festivals": [
+    "rath-yatra",
+    "snana-yatra"
+  ],
+  "purposes": [
+    "devotion",
+    "moksha",
+    "peace",
+    "fulfillment-of-desires"
+  ],
   "readingTimeMinutes": 15,
   "seoDescription": "Jagannath Chalisa in Hindi with English transliteration and meaning. Prayer to Lord Jagannath of Puri Dham for moksha and divine blessings.",
   "verseCount": 42,
   "source": "Traditional Chalisa Sangrah",
   "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
   "isPublished": true
 }

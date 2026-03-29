@@ -14,16 +14,29 @@
     "Transcends caste and social barriers in devotion",
     "Powerful for those unable to visit Sabarimala temple"
   ],
-  "deity": "vishnu",
-  "secondaryDeities": ["shiva"],
-  "days": ["saturday", "daily"],
-  "festivals": ["makar-sankranti", "mandala-puja"],
-  "purposes": ["devotion", "protection", "removal-of-obstacles", "spiritual-growth"],
+  "deity": "ayyappa",
+  "secondaryDeities": [
+    "shiva"
+  ],
+  "days": [
+    "saturday",
+    "daily"
+  ],
+  "festivals": [
+    "makar-sankranti",
+    "mandala-puja"
+  ],
+  "purposes": [
+    "devotion",
+    "protection",
+    "removal-of-obstacles",
+    "spiritual-growth"
+  ],
   "readingTimeMinutes": 7,
   "seoDescription": "Read Ayyappa Chalisa in Hindi with meaning. Complete 40 verses dedicated to Lord Ayyappa of Sabarimala for Mandala Kalam vratha.",
   "verseCount": 20,
   "source": "Ayyappa Bhakti Tradition",
   "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
   "isPublished": true
 }

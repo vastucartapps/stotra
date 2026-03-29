@@ -15,16 +15,24 @@
     "Bestows all siddhis by the grace of Batuk Bhairav",
     "Especially powerful when recited at Kala Bhairav temples in Varanasi"
   ],
-  "deity": "shiva",
+  "deity": "bhairava",
   "secondaryDeities": [],
-  "days": ["sunday", "tuesday"],
-  "festivals": ["kalashtami", "maha-shivaratri"],
-  "purposes": ["protection"],
+  "days": [
+    "sunday",
+    "tuesday"
+  ],
+  "festivals": [
+    "kalashtami",
+    "maha-shivaratri"
+  ],
+  "purposes": [
+    "protection"
+  ],
   "readingTimeMinutes": 8,
   "seoDescription": "Batuk Bhairav Stotram in Sanskrit with Hindi meaning and transliteration. Powerful Bhairav prayer for protection from fears and calamities.",
   "verseCount": 8,
   "source": "Rudrayamala Tantra",
   "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
   "isPublished": true
 }

@@ -15,16 +15,30 @@
     "Powerful recitation during Narasimha Jayanti and twilight hours",
     "Cures diseases and removes all obstacles from devotee's path"
   ],
-  "deity": "vishnu",
-  "secondaryDeities": ["lakshmi", "prahlada"],
-  "days": ["saturday", "tuesday"],
-  "festivals": ["narasimha-jayanti"],
-  "purposes": ["protection", "fearlessness", "removal-of-obstacles", "health", "devotion"],
+  "deity": "narasimha",
+  "secondaryDeities": [
+    "lakshmi",
+    "prahlada"
+  ],
+  "days": [
+    "saturday",
+    "tuesday"
+  ],
+  "festivals": [
+    "narasimha-jayanti"
+  ],
+  "purposes": [
+    "protection",
+    "fearlessness",
+    "removal-of-obstacles",
+    "health",
+    "devotion"
+  ],
   "readingTimeMinutes": 5,
   "seoDescription": "Read Narasimha Mangalashtakam in Sanskrit with Hindi meaning. Eight auspicious verses invoking Lord Narasimha for fearlessness and divine protection.",
   "verseCount": 8,
   "source": "Narasimha Purana",
   "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
   "isPublished": true
 }

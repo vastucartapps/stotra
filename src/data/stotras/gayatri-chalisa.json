@@ -14,16 +14,28 @@
     "Removes sins and negative karma accumulated over lifetimes",
     "Bestows Brahma Tejas (divine radiance) on the devotee"
   ],
-  "deity": "surya",
-  "secondaryDeities": ["saraswati"],
-  "days": ["sunday", "thursday"],
-  "festivals": ["gayatri-jayanti"],
-  "purposes": ["wisdom", "spiritual-growth", "purification", "devotion"],
+  "deity": "gayatri",
+  "secondaryDeities": [
+    "saraswati"
+  ],
+  "days": [
+    "sunday",
+    "thursday"
+  ],
+  "festivals": [
+    "gayatri-jayanti"
+  ],
+  "purposes": [
+    "wisdom",
+    "spiritual-growth",
+    "purification",
+    "devotion"
+  ],
   "readingTimeMinutes": 15,
   "seoDescription": "Gayatri Chalisa in Hindi with English transliteration and meaning. Prayer to Gayatri Mata, the Veda Mata, for wisdom and spiritual growth.",
   "verseCount": 42,
   "source": "Traditional Chalisa Sangrah",
   "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
   "isPublished": true
 }

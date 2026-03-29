@@ -14,16 +14,30 @@
     "Grants courage, strength, and fearlessness",
     "Invokes the most powerful form of the Divine Mother"
   ],
-  "deity": "durga",
-  "secondaryDeities": ["shiva"],
-  "days": ["tuesday", "saturday"],
-  "festivals": ["kali-puja", "deepawali", "navratri"],
-  "purposes": ["protection", "fearlessness", "removal-of-evil", "devotion"],
+  "deity": "kali",
+  "secondaryDeities": [
+    "shiva"
+  ],
+  "days": [
+    "tuesday",
+    "saturday"
+  ],
+  "festivals": [
+    "kali-puja",
+    "deepawali",
+    "navratri"
+  ],
+  "purposes": [
+    "protection",
+    "fearlessness",
+    "removal-of-evil",
+    "devotion"
+  ],
   "readingTimeMinutes": 4,
   "seoDescription": "Kali Mata Aarti in Hindi with meaning and transliteration. Jai Kali Mata - powerful aarti for Kali Puja and protection from evil.",
   "verseCount": 8,
   "source": "Traditional Aarti Sangrah",
   "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
   "isPublished": true
 }

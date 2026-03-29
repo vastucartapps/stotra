@@ -15,16 +15,30 @@
     "Invokes the combined grace of Lakshmi and Sita as consort of Rama",
     "Especially beneficial for married women seeking domestic well-being"
   ],
-  "deity": "rama",
-  "secondaryDeities": ["lakshmi"],
-  "days": ["friday", "tuesday"],
-  "festivals": ["ram-navami", "vivah-panchami"],
-  "purposes": ["family-happiness", "devotion", "children", "health", "marital-bliss"],
+  "deity": "sita",
+  "secondaryDeities": [
+    "lakshmi"
+  ],
+  "days": [
+    "friday",
+    "tuesday"
+  ],
+  "festivals": [
+    "ram-navami",
+    "vivah-panchami"
+  ],
+  "purposes": [
+    "family-happiness",
+    "devotion",
+    "children",
+    "health",
+    "marital-bliss"
+  ],
   "readingTimeMinutes": 6,
   "seoDescription": "Sita Stotram in Sanskrit with Hindi meaning. Sacred prayer to Sita Devi for marital bliss, saubhagya, progeny, and family happiness.",
   "verseCount": 10,
   "source": "Valmiki Ramayana tradition",
   "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
   "isPublished": true
 }

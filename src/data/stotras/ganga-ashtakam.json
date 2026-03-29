@@ -14,16 +14,28 @@
     "Destroys poverty, bad dreams, and bodily ailments",
     "Bestows Vishnu-pada (supreme abode) at the time of death"
   ],
-  "deity": "shiva",
-  "secondaryDeities": ["vishnu"],
-  "days": ["monday"],
-  "festivals": ["ganga-dussehra", "ganga-jayanti"],
-  "purposes": ["purification", "liberation", "devotion", "removal-of-sins"],
+  "deity": "ganga",
+  "secondaryDeities": [
+    "vishnu"
+  ],
+  "days": [
+    "monday"
+  ],
+  "festivals": [
+    "ganga-dussehra",
+    "ganga-jayanti"
+  ],
+  "purposes": [
+    "purification",
+    "liberation",
+    "devotion",
+    "removal-of-sins"
+  ],
   "readingTimeMinutes": 7,
   "seoDescription": "Ganga Ashtakam in Sanskrit with Hindi meaning. Eight sacred verses glorifying Goddess Ganga for purification, liberation and spiritual merit.",
   "verseCount": 8,
   "source": "Traditional Sanskrit Hymn",
   "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
   "isPublished": true
 }

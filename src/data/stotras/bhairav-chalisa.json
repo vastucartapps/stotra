@@ -14,16 +14,26 @@
     "Guards homes, temples, and villages from theft and crime",
     "Essential prayer for Kaal Bhairav Ashtami worship"
   ],
-  "deity": "shiva",
+  "deity": "bhairava",
   "secondaryDeities": [],
-  "days": ["tuesday", "saturday"],
-  "festivals": ["kaal-bhairav-ashtami"],
-  "purposes": ["protection", "removal-of-graha-dosha", "fearlessness", "tantra-sadhana"],
+  "days": [
+    "tuesday",
+    "saturday"
+  ],
+  "festivals": [
+    "kaal-bhairav-ashtami"
+  ],
+  "purposes": [
+    "protection",
+    "removal-of-graha-dosha",
+    "fearlessness",
+    "tantra-sadhana"
+  ],
   "readingTimeMinutes": 15,
   "seoDescription": "Bhairav Chalisa in Hindi with English transliteration and meaning. Powerful prayer to Kaal Bhairav for protection from evil and planetary afflictions.",
   "verseCount": 42,
   "source": "Traditional Chalisa Sangrah",
   "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
   "isPublished": true
 }

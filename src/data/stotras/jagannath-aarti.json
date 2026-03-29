@@ -14,16 +14,27 @@
     "Special significance during Rath Yatra festival",
     "Purifies all sins through the grace of Lord Jagannath"
   ],
-  "deity": "krishna",
+  "deity": "jagannath",
   "secondaryDeities": [],
-  "days": ["thursday", "sunday"],
-  "festivals": ["rath-yatra", "snana-yatra"],
-  "purposes": ["devotion", "moksha", "equality", "purification"],
+  "days": [
+    "thursday",
+    "sunday"
+  ],
+  "festivals": [
+    "rath-yatra",
+    "snana-yatra"
+  ],
+  "purposes": [
+    "devotion",
+    "moksha",
+    "equality",
+    "purification"
+  ],
   "readingTimeMinutes": 4,
   "seoDescription": "Jagannath Aarti in Hindi with meaning and transliteration. Jai Jagannath Swami - sacred aarti of Puri Dham Jagannath temple.",
   "verseCount": 8,
   "source": "Traditional Aarti Sangrah - Jagannath Temple Puri",
   "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
   "isPublished": true
 }

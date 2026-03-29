@@ -15,16 +15,31 @@
     "Invokes protection and blessings of the Divine Mother",
     "Ideal for recitation on Ram Navami and Sita Navami"
   ],
-  "deity": "rama",
-  "secondaryDeities": ["sita"],
-  "days": ["tuesday", "friday"],
-  "festivals": ["ram-navami", "sita-navami", "vivah-panchami"],
-  "purposes": ["devotion", "marital-bliss", "protection", "courage", "saubhagya"],
+  "deity": "sita",
+  "secondaryDeities": [
+    "sita"
+  ],
+  "days": [
+    "tuesday",
+    "friday"
+  ],
+  "festivals": [
+    "ram-navami",
+    "sita-navami",
+    "vivah-panchami"
+  ],
+  "purposes": [
+    "devotion",
+    "marital-bliss",
+    "protection",
+    "courage",
+    "saubhagya"
+  ],
   "readingTimeMinutes": 8,
   "seoDescription": "Sita Ashtakam - eight verses on Devi Sita in Sanskrit with transliteration and Hindi meaning. Prayer for courage, devotion and saubhagya.",
   "verseCount": 8,
   "source": "Traditional Rama Literature",
   "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
   "isPublished": true
 }

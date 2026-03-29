@@ -14,16 +14,28 @@
     "Essential for Sandhya Vandana practitioners seeking deeper understanding",
     "Frees from all diseases and leads to Brahma realization"
   ],
-  "deity": "saraswati",
-  "secondaryDeities": ["surya"],
-  "days": ["daily"],
-  "festivals": ["gayatri-jayanti", "guru-purnima"],
-  "purposes": ["knowledge", "spiritual-growth", "health", "devotion"],
+  "deity": "gayatri",
+  "secondaryDeities": [
+    "surya"
+  ],
+  "days": [
+    "daily"
+  ],
+  "festivals": [
+    "gayatri-jayanti",
+    "guru-purnima"
+  ],
+  "purposes": [
+    "knowledge",
+    "spiritual-growth",
+    "health",
+    "devotion"
+  ],
   "readingTimeMinutes": 4,
   "seoDescription": "Read Gayatri Hridayam in Sanskrit with Hindi meaning. Heart of Gayatri Mantra with complete Devi meditation for Sandhya Vandana.",
   "verseCount": 7,
   "source": "Atharvaveda Parishishta",
   "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
   "isPublished": true
 }

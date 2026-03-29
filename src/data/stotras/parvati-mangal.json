@@ -15,16 +15,25 @@
     "Invokes the grace of the cosmic parents - Shiva and Parvati",
     "Brings all-round happiness and removes obstacles in marriage"
   ],
-  "deity": "shiva",
-  "secondaryDeities": ["durga"],
-  "days": ["monday"],
-  "festivals": ["maha-shivaratri"],
-  "purposes": ["devotion", "peace"],
+  "deity": "parvati",
+  "secondaryDeities": [
+    "durga"
+  ],
+  "days": [
+    "monday"
+  ],
+  "festivals": [
+    "maha-shivaratri"
+  ],
+  "purposes": [
+    "devotion",
+    "peace"
+  ],
   "readingTimeMinutes": 15,
   "seoDescription": "Parvati Mangal by Tulsidas in Hindi with transliteration. Shiva-Parvati vivah description for wedding blessings and marital harmony.",
   "verseCount": 10,
   "source": "Parvati Mangal - Goswami Tulsidas",
   "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
   "isPublished": true
 }

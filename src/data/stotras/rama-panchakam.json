@@ -1,0 +1,30 @@
+{
+  "id": "556",
+  "title": "श्री राम पञ्चकम्",
+  "titleEn": "Rama Panchakam",
+  "slug": "rama-panchakam",
+  "devanagariText": "कञ्जाताक्षं कञ्जवक्त्रं कञ्जपादमनन्यकम्।\nकञ्जनाभं कुन्दहासं रामं राजीवलोचनम्॥१॥\n\nरामं सुग्रीवमित्रं च रामं दशरथात्मजम्।\nरामं सीतापतिं श्रेष्ठं रामचन्द्रं नमाम्यहम्॥२॥\n\nकोदण्डपाणिमाजानुबाहुमीषत्स्मितोज्ज्वलम्।\nपीताम्बरधरं रामं सेव्यं सर्वसुरासुरैः॥३॥\n\nरामं रघुकुलश्रेष्ठं धर्मज्ञं सत्यवादिनम्।\nएकपत्नीव्रतधरं रामं सत्पुरुषोत्तमम्॥४॥\n\nरामं लक्ष्मणसंयुक्तं सीतासमेतमव्ययम्।\nहनुमत्सेवितं देवं प्रणमामि रघूत्तमम्॥५॥\n\nरामपञ्चकमेतत्तु यः पठेत् सततं नरः।\nसर्वपापविनिर्मुक्तो रामसायुज्यमाप्नुयात्॥\n\n॥ इति श्री राम पञ्चकं सम्पूर्णम् ॥",
+  "transliteration": "Kanjataksham Kanjavaktram Kanjapadam Ananyakam.\nKanjanabham Kundahasam Ramam Rajivalochanam.||1||\n\nRamam Sugriva-Mitram Cha Ramam Dasharathatmajam.\nRamam Sitapatim Shreshtham Ramachandram Namamyaham.||2||\n\nKodandapanim Ajanu-Bahum Ishat-Smitojjvalam.\nPitambaradharam Ramam Sevyam Sarvasurasuraih.||3||\n\nRamam Raghukula-Shreshtham Dharmajnam Satyavadinam.\nEkapatni-Vratadharam Ramam Satpurushottamam.||4||\n\nRamam Lakshmana-Samyuktam Sita-Sametam Avyayam.\nHanumat-Sevitam Devam Pranamami Raghuttamam.||5||\n\nRama-Panchakam Etat Tu Yah Pathet Satatam Narah.\nSarvapapa-Vinirmukto Rama-Sayujyam Apnuyat.\n\n|| Iti Shri Rama Panchakam Sampurnam ||",
+  "hindiMeaning": "कमलनयन, कमलवदन, कमलपाद, अनन्य, कमलनाभ, कुन्द सी मुस्कान वाले, राजीवलोचन राम।\n\nसुग्रीव मित्र राम, दशरथ आत्मज राम, सीतापति श्रेष्ठ रामचन्द्र — मैं नमन करता हूँ।\n\nकोदण्ड (धनुष) हाथ में, जानु तक लम्बी भुजाएँ, ईषत् (हल्की) मुस्कान से उज्ज्वल, पीताम्बरधारी राम — देव-असुर सबके सेव्य।\n\nरघुकुल श्रेष्ठ, धर्मज्ञ, सत्यवादी, एकपत्नी व्रतधारी राम — सत्पुरुषोत्तम।\n\nलक्ष्मण से संयुक्त, सीता समेत, अव्यय, हनुमान द्वारा सेवित देव — रघूत्तम को मैं प्रणाम करता हूँ।\n\nजो मनुष्य सतत यह राम पञ्चक पढ़ता है, वह सर्व पापों से मुक्त होकर राम सायुज्य प्राप्त करता है।",
+  "viniyog": null,
+  "benefits": [
+    "Concise five-verse prayer capturing the essence of Lord Rama",
+    "Easy to memorize for daily morning recitation",
+    "Grants all blessings of Rama devotion in a short form",
+    "Destroys all sins and leads to Rama Sayujya",
+    "Invokes Rama with Sita, Lakshmana, and Hanuman",
+    "Ideal for those who want a brief but complete Rama prayer"
+  ],
+  "deity": "rama",
+  "secondaryDeities": ["sita", "hanuman"],
+  "days": ["sunday", "tuesday"],
+  "festivals": ["ram-navami", "dussehra", "vivaha-panchami"],
+  "purposes": ["devotion", "protection", "peace", "spiritual-growth"],
+  "readingTimeMinutes": 3,
+  "seoDescription": "Read Rama Panchakam in Sanskrit with Hindi meaning. Five beautiful verses praising Lord Rama's divine form, virtues, and grace for daily devotion.",
+  "verseCount": 5,
+  "source": "Traditional Sanskrit Stotra",
+  "createdAt": "2026-03-29T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
+  "isPublished": true
+}

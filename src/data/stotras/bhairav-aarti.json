@@ -14,16 +14,26 @@
     "Essential aarti for Kaal Bhairav Ashtami worship",
     "Invokes the fierce protective aspect of Lord Shiva"
   ],
-  "deity": "shiva",
+  "deity": "bhairava",
   "secondaryDeities": [],
-  "days": ["tuesday", "saturday"],
-  "festivals": ["kaal-bhairav-ashtami"],
-  "purposes": ["protection", "removal-of-graha-dosha", "fearlessness", "devotion"],
+  "days": [
+    "tuesday",
+    "saturday"
+  ],
+  "festivals": [
+    "kaal-bhairav-ashtami"
+  ],
+  "purposes": [
+    "protection",
+    "removal-of-graha-dosha",
+    "fearlessness",
+    "devotion"
+  ],
   "readingTimeMinutes": 4,
   "seoDescription": "Bhairav Aarti in Hindi with meaning and transliteration. Jai Bhairav Deva - sacred aarti of Kaal Bhairav for protection from evil.",
   "verseCount": 8,
   "source": "Traditional Aarti Sangrah",
   "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
   "isPublished": true
 }

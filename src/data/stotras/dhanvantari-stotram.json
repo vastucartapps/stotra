@@ -15,16 +15,28 @@
     "Essential for medical professionals and Ayurveda practitioners",
     "Recited on Dhanteras (Dhanvantari Jayanti) for health blessings"
   ],
-  "deity": "vishnu",
-  "secondaryDeities": ["lakshmi"],
-  "days": ["thursday"],
-  "festivals": ["dhanteras", "dhanvantari-jayanti"],
-  "purposes": ["health", "devotion", "protection", "longevity"],
+  "deity": "dhanvantari",
+  "secondaryDeities": [
+    "lakshmi"
+  ],
+  "days": [
+    "thursday"
+  ],
+  "festivals": [
+    "dhanteras",
+    "dhanvantari-jayanti"
+  ],
+  "purposes": [
+    "health",
+    "devotion",
+    "protection",
+    "longevity"
+  ],
   "readingTimeMinutes": 6,
   "seoDescription": "Dhanvantari Stotram in Sanskrit with Hindi meaning. Sacred prayer to the divine physician for health, healing and freedom from all diseases.",
   "verseCount": 8,
   "source": "Traditional Sanskrit Hymn",
   "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
   "isPublished": true
 }

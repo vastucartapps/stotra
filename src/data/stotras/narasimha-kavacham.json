@@ -24,7 +24,7 @@
     "Grants victory everywhere in all endeavors",
     "Protects from malefic planetary influences"
   ],
-  "deity": "vishnu",
+  "deity": "narasimha",
   "secondaryDeities": [
     "lakshmi"
   ],
@@ -49,6 +49,6 @@
   "verseCount": 13,
   "source": "Brahmanda Purana (Prahlada-uktam)",
   "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
   "isPublished": true
 }

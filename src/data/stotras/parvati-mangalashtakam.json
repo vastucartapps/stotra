@@ -15,16 +15,32 @@
     "Ideal recitation during weddings and auspicious ceremonies",
     "Grants moksha and supreme wisdom (mativara)"
   ],
-  "deity": "durga",
-  "secondaryDeities": ["shiva"],
-  "days": ["monday", "tuesday", "friday"],
-  "festivals": ["navratri", "gangaur", "hartalika-teej"],
-  "purposes": ["marital-harmony", "prosperity", "devotion", "peace", "spiritual-growth"],
+  "deity": "parvati",
+  "secondaryDeities": [
+    "shiva"
+  ],
+  "days": [
+    "monday",
+    "tuesday",
+    "friday"
+  ],
+  "festivals": [
+    "navratri",
+    "gangaur",
+    "hartalika-teej"
+  ],
+  "purposes": [
+    "marital-harmony",
+    "prosperity",
+    "devotion",
+    "peace",
+    "spiritual-growth"
+  ],
   "readingTimeMinutes": 6,
   "seoDescription": "Read Parvati Mangalashtakam in Sanskrit with Hindi meaning. Eight auspicious verses to Goddess Parvati for marital bliss and divine blessings.",
   "verseCount": 8,
   "source": "Traditional (Stotra Literature)",
   "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
   "isPublished": true
 }

@@ -14,16 +14,30 @@
     "Invokes the divine mother's protection for the household",
     "Recommended for Karva Chauth and Hartalika Teej puja"
   ],
-  "deity": "durga",
-  "secondaryDeities": ["shiva"],
-  "days": ["monday", "friday"],
-  "festivals": ["navratri", "karva-chauth", "hartalika-teej"],
-  "purposes": ["marital-harmony", "devotion", "family-happiness", "saubhagya"],
+  "deity": "parvati",
+  "secondaryDeities": [
+    "shiva"
+  ],
+  "days": [
+    "monday",
+    "friday"
+  ],
+  "festivals": [
+    "navratri",
+    "karva-chauth",
+    "hartalika-teej"
+  ],
+  "purposes": [
+    "marital-harmony",
+    "devotion",
+    "family-happiness",
+    "saubhagya"
+  ],
   "readingTimeMinutes": 15,
   "seoDescription": "Parvati Chalisa in Hindi with English transliteration and meaning. Prayer to Goddess Parvati for marital bliss and family happiness.",
   "verseCount": 42,
   "source": "Traditional Chalisa Sangrah",
   "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
   "isPublished": true
 }

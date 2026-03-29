@@ -14,16 +14,32 @@
     "Blesses married women with strength of pativrata dharma",
     "Ideal for Monday and Friday worship of the Divine Mother"
   ],
-  "deity": "durga",
-  "secondaryDeities": ["shiva", "ganesha", "kartikeya"],
-  "days": ["monday", "friday"],
-  "festivals": ["navaratri", "teej", "gauri-puja"],
-  "purposes": ["devotion", "marriage", "peace", "protection"],
+  "deity": "parvati",
+  "secondaryDeities": [
+    "shiva",
+    "ganesha",
+    "kartikeya"
+  ],
+  "days": [
+    "monday",
+    "friday"
+  ],
+  "festivals": [
+    "navaratri",
+    "teej",
+    "gauri-puja"
+  ],
+  "purposes": [
+    "devotion",
+    "marriage",
+    "peace",
+    "protection"
+  ],
   "readingTimeMinutes": 5,
   "seoDescription": "Read Parvati Ashtakam in Sanskrit with Hindi meaning. Eight verses praising Goddess Parvati for marital fortune and divine blessings.",
   "verseCount": 8,
   "source": "Shiva Purana / Parvati Stuti",
   "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
   "isPublished": true
 }

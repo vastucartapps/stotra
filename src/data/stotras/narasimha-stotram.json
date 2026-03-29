@@ -15,16 +15,30 @@
     "Powerful stotra for protection against black magic and negativity",
     "Bestows courage, valor, and victory in all endeavors"
   ],
-  "deity": "vishnu",
-  "secondaryDeities": ["lakshmi"],
-  "days": ["thursday", "sunday", "saturday"],
-  "festivals": ["narasimha-jayanti", "ekadashi"],
-  "purposes": ["protection", "removal-of-obstacles", "fearlessness", "devotion"],
+  "deity": "narasimha",
+  "secondaryDeities": [
+    "lakshmi"
+  ],
+  "days": [
+    "thursday",
+    "sunday",
+    "saturday"
+  ],
+  "festivals": [
+    "narasimha-jayanti",
+    "ekadashi"
+  ],
+  "purposes": [
+    "protection",
+    "removal-of-obstacles",
+    "fearlessness",
+    "devotion"
+  ],
   "readingTimeMinutes": 7,
   "seoDescription": "Narasimha Stotram in Sanskrit with Hindi meaning. Powerful prayer to Lord Narasimha for protection, including the famous 'Ito Nrisimhah' verse.",
   "verseCount": 10,
   "source": "Traditional Vaishnavite Literature",
   "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
   "isPublished": true
 }

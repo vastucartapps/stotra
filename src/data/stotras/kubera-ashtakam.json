@@ -15,16 +15,26 @@
     "Pleases Kubera who is the divine friend of Lord Vishnu",
     "Powerful when recited on Dhanteras, Akshaya Tritiya, and Fridays"
   ],
-  "deity": "vishnu",
-  "secondaryDeities": ["lakshmi"],
-  "days": ["thursday", "friday"],
-  "festivals": ["dhanteras", "akshaya-tritiya"],
-  "purposes": ["wealth"],
+  "deity": "kubera",
+  "secondaryDeities": [
+    "lakshmi"
+  ],
+  "days": [
+    "thursday",
+    "friday"
+  ],
+  "festivals": [
+    "dhanteras",
+    "akshaya-tritiya"
+  ],
+  "purposes": [
+    "wealth"
+  ],
   "readingTimeMinutes": 7,
   "seoDescription": "Kubera Ashtakam in Sanskrit with Hindi meaning and transliteration. Eight verses praising Lord Kubera for wealth and Navnidhi blessings.",
   "verseCount": 8,
   "source": "Skanda Purana",
   "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
   "isPublished": true
 }

@@ -15,16 +15,26 @@
     "Grants the grace of both Shankhanihi and Padmanidhi treasures",
     "Especially powerful when recited on Dhanteras and Diwali"
   ],
-  "deity": "vishnu",
-  "secondaryDeities": ["lakshmi"],
-  "days": ["thursday", "friday"],
-  "festivals": ["dhanteras", "diwali"],
-  "purposes": ["wealth"],
+  "deity": "kubera",
+  "secondaryDeities": [
+    "lakshmi"
+  ],
+  "days": [
+    "thursday",
+    "friday"
+  ],
+  "festivals": [
+    "dhanteras",
+    "diwali"
+  ],
+  "purposes": [
+    "wealth"
+  ],
   "readingTimeMinutes": 8,
   "seoDescription": "Kubera Stotram in Sanskrit with Hindi meaning and transliteration. Prayer to Lord Kubera for wealth, prosperity and freedom from debts.",
   "verseCount": 8,
   "source": "Vishnu Dharmottara Purana",
   "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
   "isPublished": true
 }

@@ -15,16 +15,32 @@
     "Bestows prosperity and divine grace",
     "Especially meritorious during Rath Yatra festival"
   ],
-  "deity": "krishna",
-  "secondaryDeities": ["vishnu", "subhadra", "balabhadra"],
-  "days": ["thursday", "sunday"],
-  "festivals": ["rath-yatra", "janmashtami", "ekadashi"],
-  "purposes": ["devotion", "pilgrimage", "liberation", "peace"],
+  "deity": "jagannath",
+  "secondaryDeities": [
+    "vishnu",
+    "subhadra",
+    "balabhadra"
+  ],
+  "days": [
+    "thursday",
+    "sunday"
+  ],
+  "festivals": [
+    "rath-yatra",
+    "janmashtami",
+    "ekadashi"
+  ],
+  "purposes": [
+    "devotion",
+    "pilgrimage",
+    "liberation",
+    "peace"
+  ],
   "readingTimeMinutes": 8,
   "seoDescription": "Read Jagannath Stotram in Sanskrit with transliteration and Hindi meaning. Sacred hymn to Lord Jagannath at Puri Dham for divine blessings.",
   "verseCount": 10,
   "source": "Skanda Purana - Purushottama Kshetra Mahatmya",
   "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
   "isPublished": true
 }

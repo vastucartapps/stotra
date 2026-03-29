@@ -15,16 +15,25 @@
     "Promotes communal harmony and universal brotherhood",
     "Bestows peace, prosperity and spiritual contentment"
   ],
-  "deity": "vishnu",
+  "deity": "saibaba",
   "secondaryDeities": [],
-  "days": ["thursday"],
-  "festivals": ["guru-purnima"],
-  "purposes": ["devotion", "peace", "healing", "wish-fulfillment"],
+  "days": [
+    "thursday"
+  ],
+  "festivals": [
+    "guru-purnima"
+  ],
+  "purposes": [
+    "devotion",
+    "peace",
+    "healing",
+    "wish-fulfillment"
+  ],
   "readingTimeMinutes": 15,
   "seoDescription": "Read Sai Chalisa in Hindi with English transliteration and meaning. Powerful 40-verse prayer to Shirdi Sai Baba for blessings and wish fulfillment.",
   "verseCount": 20,
   "source": "Traditional Sai Bhakti Literature",
   "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
   "isPublished": true
 }

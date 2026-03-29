@@ -15,16 +15,29 @@
     "Grants the merit of residing at Ganga's banks",
     "Bestows Moksha and removes all sorrows, diseases, and fears"
   ],
-  "deity": "shiva",
-  "secondaryDeities": ["vishnu"],
-  "days": ["monday"],
-  "festivals": ["ganga-dussehra", "ganga-jayanti", "makar-sankranti"],
-  "purposes": ["purification", "liberation", "devotion", "removal-of-sins"],
+  "deity": "ganga",
+  "secondaryDeities": [
+    "vishnu"
+  ],
+  "days": [
+    "monday"
+  ],
+  "festivals": [
+    "ganga-dussehra",
+    "ganga-jayanti",
+    "makar-sankranti"
+  ],
+  "purposes": [
+    "purification",
+    "liberation",
+    "devotion",
+    "removal-of-sins"
+  ],
   "readingTimeMinutes": 8,
   "seoDescription": "Ganga Stotram by Shankaracharya in Sanskrit with Hindi meaning. Sacred hymn praising Goddess Ganga for purification, liberation and removal of sins.",
   "verseCount": 12,
   "source": "Adi Shankaracharya",
   "createdAt": "2026-03-28T00:00:00Z",
-  "updatedAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-03-29T00:00:00Z",
   "isPublished": true
 }
