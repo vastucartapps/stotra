@@ -2,14 +2,12 @@ import { NextResponse } from "next/server";
 import { getStotraBySlug } from "@/lib/stotras";
 import { getDeityById } from "@/data/deities";
 
-// Escape HTML to prevent XSS
-function escapeHtml(str: string): string {
-  return str
-    .replace(/&/g, "&amp;")
-    .replace(/</g, "&lt;")
-    .replace(/>/g, "&gt;")
-    .replace(/"/g, "&quot;")
-    .replace(/'/g, "&#39;");
+function esc(str: string): string {
+  return str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+}
+
+function nl2br(str: string): string {
+  return esc(str).replace(/\n/g, "<br>");
 }
 
 export async function GET(
@@ -18,425 +16,173 @@ export async function GET(
 ) {
   const { slug } = await params;
   const stotra = getStotraBySlug(slug);
-
   if (!stotra) {
     return NextResponse.json({ error: "Stotra not found" }, { status: 404 });
   }
 
   const deity = getDeityById(stotra.deity);
-  const deityName = deity ? `${escapeHtml(deity.name)} (${escapeHtml(deity.nameHi)})` : escapeHtml(stotra.deity);
-  const deityColor = deity?.color || "#013F47";
-  const year = new Date().getFullYear();
+  const dn = deity ? `${esc(deity.name)} (${esc(deity.nameHi)})` : esc(stotra.deity);
+  const dc = deity?.color || "#013F47";
+  const yr = new Date().getFullYear();
 
-  // Format verses into 2-column pairs where possible
-  const verses = stotra.devanagariText.split("\n").filter((l) => l.trim());
-  const translitLines = stotra.transliteration
-    ? stotra.transliteration.split("\n").filter((l) => l.trim())
-    : [];
-
-  const viniyogHtml = stotra.viniyog
-    ? `
-    <div class="viniyog-box">
-      <div class="viniyog-header">
-        <div class="viniyog-icon">V</div>
-        <span>विनियोग &middot; Viniyog</span>
+  const viniyogHtml = stotra.viniyog ? `
+    <div class="vin">
+      <div class="vin-h"><span class="vin-i">॥</span> विनियोग · Viniyog</div>
+      ${stotra.viniyog.shloka ? `<div class="vin-sh">${nl2br(stotra.viniyog.shloka)}</div>` : ""}
+      <div class="vin-g">
+        ${stotra.viniyog.rishi ? `<div class="vin-r"><span class="vin-l">ऋषि</span>${esc(stotra.viniyog.rishi)}</div>` : ""}
+        ${stotra.viniyog.chhand ? `<div class="vin-r"><span class="vin-l">छन्द</span>${esc(stotra.viniyog.chhand)}</div>` : ""}
+        ${stotra.viniyog.devata ? `<div class="vin-r"><span class="vin-l">देवता</span>${esc(stotra.viniyog.devata)}</div>` : ""}
+        ${stotra.viniyog.beej ? `<div class="vin-r"><span class="vin-l">बीज</span>${esc(stotra.viniyog.beej)}</div>` : ""}
+        ${stotra.viniyog.shakti ? `<div class="vin-r"><span class="vin-l">शक्ति</span>${esc(stotra.viniyog.shakti)}</div>` : ""}
+        ${stotra.viniyog.kilak ? `<div class="vin-r"><span class="vin-l">कीलक</span>${esc(stotra.viniyog.kilak)}</div>` : ""}
       </div>
-      ${stotra.viniyog.shloka ? `<div class="viniyog-shloka">${stotra.viniyog.shloka.replace(/\n/g, "<br>")}</div>` : ""}
-      <table class="viniyog-table">
-        ${stotra.viniyog.rishi ? `<tr><td class="vt-label">ऋषि (Rishi)</td><td class="vt-value">${stotra.viniyog.rishi}</td></tr>` : ""}
-        ${stotra.viniyog.chhand ? `<tr><td class="vt-label">छन्द (Chhand)</td><td class="vt-value">${stotra.viniyog.chhand}</td></tr>` : ""}
-        ${stotra.viniyog.devata ? `<tr><td class="vt-label">देवता (Devata)</td><td class="vt-value">${stotra.viniyog.devata}</td></tr>` : ""}
-        ${stotra.viniyog.beej ? `<tr><td class="vt-label">बीज (Beej)</td><td class="vt-value">${stotra.viniyog.beej}</td></tr>` : ""}
-        ${stotra.viniyog.shakti ? `<tr><td class="vt-label">शक्ति (Shakti)</td><td class="vt-value">${stotra.viniyog.shakti}</td></tr>` : ""}
-        ${stotra.viniyog.kilak ? `<tr><td class="vt-label">कीलक (Kilak)</td><td class="vt-value">${stotra.viniyog.kilak}</td></tr>` : ""}
-      </table>
-    </div>`
-    : "";
+    </div>` : "";
 
-  const benefitsHtml =
-    stotra.benefits.length > 0
-      ? `
-    <div class="benefits-section">
-      <div class="section-label">फल &middot; Benefits</div>
-      <div class="benefits-grid">
-        ${stotra.benefits.map((b) => `<div class="benefit-item"><span class="benefit-star">★</span> ${b}</div>`).join("")}
-      </div>
-    </div>`
-      : "";
+  const benefitsHtml = stotra.benefits.length > 0 ? `
+    <div class="sec">
+      <div class="sec-t"><span class="sec-bar"></span>फल · Benefits</div>
+      <div class="ben-g">${stotra.benefits.map((b) => `<div class="ben">★ ${esc(b)}</div>`).join("")}</div>
+    </div>` : "";
 
   const html = `<!DOCTYPE html>
 <html lang="hi">
 <head>
 <meta charset="UTF-8">
-<title>${stotra.titleEn} - ${stotra.title} | Stotra by VastuCart</title>
+<title>${esc(stotra.titleEn)} · ${esc(stotra.title)} | Stotra by VastuCart</title>
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Open+Sans:wght@400;500;600;700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,600;0,700;1,400&family=Open+Sans:wght@400;500;600&display=swap');
 *{margin:0;padding:0;box-sizing:border-box}
+@page{size:A4;margin:18mm 15mm 18mm 15mm}
+body{font-family:'Open Sans',sans-serif;color:#333;background:#fff;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+.page{max-width:780px;margin:0 auto;padding:30px 20px;position:relative}
 
-@page{size:A4;margin:0}
+/* Header */
+.hdr{text-align:center;padding:0 0 18px;margin:0 0 18px;border-bottom:3px solid;border-image:linear-gradient(90deg,transparent 5%,#013F47 20%,#DAA520 50%,#FF9933 80%,transparent 95%) 1}
+.brand{font-family:'Lora',serif;font-size:16px;font-weight:700;color:#013F47;letter-spacing:1px}
+.brand-s{font-size:9px;color:#999;text-transform:uppercase;letter-spacing:3px;display:block;margin-top:1px}
+.t-hi{font-family:'Noto Sans Devanagari',sans-serif;font-size:30px;font-weight:700;color:#013F47;margin:14px 0 4px;line-height:1.3}
+.t-en{font-family:'Lora',serif;font-size:19px;color:#555;font-style:italic;font-weight:400}
+.meta{display:flex;align-items:center;justify-content:center;gap:12px;margin-top:12px;flex-wrap:wrap}
+.badge{font-size:10px;padding:3px 14px;border-radius:20px;color:#fff;font-weight:600;background:${dc}}
+.meta-i{font-size:10px;color:#888}
 
-body{
-  font-family:'Open Sans',sans-serif;
-  color:#433B35;
-  background:#FFFBF5;
-  -webkit-print-color-adjust:exact;
-  print-color-adjust:exact;
-}
+/* Viniyog */
+.vin{background:#FFFAF0;border:1px solid #E8D5A8;border-radius:8px;padding:16px 18px;margin:16px 0;page-break-inside:avoid}
+.vin-h{font-family:'Lora',serif;font-size:13px;font-weight:600;color:#013F47;margin-bottom:10px;display:flex;align-items:center;gap:8px}
+.vin-i{color:#DAA520;font-size:16px}
+.vin-sh{font-family:'Noto Sans Devanagari',sans-serif;font-size:12px;line-height:1.8;color:#444;background:#fff;border-radius:6px;padding:10px 14px;margin-bottom:10px;border-left:3px solid #DAA520}
+.vin-g{display:grid;grid-template-columns:1fr 1fr 1fr;gap:6px}
+.vin-r{font-family:'Noto Sans Devanagari',sans-serif;font-size:11px;color:#444;background:#fff;border-radius:4px;padding:5px 8px}
+.vin-l{display:block;font-size:9px;color:#999;margin-bottom:1px}
 
-.page{
-  width:210mm;min-height:297mm;margin:0 auto;
-  padding:32px 40px;
-  position:relative;
-}
+/* Sections */
+.sec{margin:20px 0}
+.sec-t{font-family:'Lora',serif;font-size:12px;font-weight:600;color:#013F47;text-transform:uppercase;letter-spacing:1.5px;margin-bottom:10px;display:flex;align-items:center;gap:8px}
+.sec-bar{width:4px;height:14px;background:#DAA520;border-radius:2px;display:inline-block}
 
-/* ── Decorative Border ── */
-.page::before{
-  content:'';position:absolute;top:16px;left:16px;right:16px;bottom:16px;
-  border:1px solid rgba(218,165,32,0.25);
-  border-radius:4px;pointer-events:none;
-}
+/* Two-column layout for text */
+.two-col{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:6px}
+.col{border-radius:8px;padding:16px 18px;border:1px solid #eee}
+.col-l{background:#FAFAFA}
+.col-r{background:#F8F8F4}
+.col-t{font-family:'Lora',serif;font-size:9px;font-weight:600;color:#999;text-transform:uppercase;letter-spacing:1.5px;margin-bottom:8px}
+.dev{font-family:'Noto Sans Devanagari',sans-serif;font-size:13px;line-height:2;color:#333}
+.trl{font-family:'Open Sans',sans-serif;font-size:11px;line-height:2;color:#555;font-style:italic}
 
-.page::after{
-  content:'';position:absolute;top:12px;left:12px;right:12px;bottom:12px;
-  border:0.5px solid rgba(1,63,71,0.1);
-  border-radius:6px;pointer-events:none;
-}
+/* Single column fallback */
+.one-col{background:#FAFAFA;border-radius:8px;padding:18px 20px;border:1px solid #eee;margin-top:6px}
+.one-col .dev{font-size:14px;line-height:2.2}
 
-/* ── Header ── */
-.header{
-  text-align:center;
-  padding-bottom:24px;
-  margin-bottom:24px;
-  position:relative;
-}
+/* Meaning */
+.mng{font-family:'Noto Sans Devanagari',sans-serif;font-size:11px;line-height:1.8;color:#555;background:#FAFAFA;border-radius:8px;padding:14px 18px;border:1px solid #eee;margin-top:6px}
 
-.header::after{
-  content:'';position:absolute;bottom:0;left:10%;right:10%;
-  height:3px;
-  background:linear-gradient(90deg,transparent,#013F47,#DAA520,#FF9933,#DAA520,#013F47,transparent);
-  border-radius:2px;
-}
+/* Benefits */
+.ben-g{display:grid;grid-template-columns:1fr 1fr;gap:4px 14px}
+.ben{font-size:11px;color:#555;padding:3px 0}
 
-.logo-row{
-  display:flex;align-items:center;justify-content:center;gap:8px;
-  margin-bottom:16px;
-}
+/* Footer */
+.ftr{margin-top:24px;padding-top:14px;text-align:center;border-top:2px solid;border-image:linear-gradient(90deg,transparent 5%,#013F47 20%,#DAA520 50%,#FF9933 80%,transparent 95%) 1}
+.ftr-b{font-family:'Lora',serif;font-size:13px;font-weight:600;color:#013F47}
+.ftr-links{display:flex;align-items:center;justify-content:center;gap:10px;margin:6px 0;flex-wrap:wrap}
+.ftr-l{font-size:9px;color:#013F47;text-decoration:none;padding:3px 12px;border:1px solid #ddd;border-radius:14px}
+.ftr-c{font-size:8px;color:#999;margin-top:6px}
 
-.logo-img{
-  width:32px;height:32px;border-radius:6px;
-}
+/* Print button (hidden in print) */
+.no-print{position:fixed;top:20px;right:20px;z-index:100}
+.print-btn{background:#013F47;color:#fff;border:none;padding:12px 28px;border-radius:10px;font-size:14px;font-weight:600;cursor:pointer;font-family:'Open Sans',sans-serif;box-shadow:0 4px 20px rgba(0,0,0,0.15)}
+.print-btn:hover{background:#025868}
+.print-hint{font-size:11px;color:#888;margin-top:8px;text-align:center}
 
-.logo-text{
-  font-family:'Lora',serif;font-size:18px;font-weight:700;color:#013F47;
-}
-
-.logo-sub{
-  font-size:9px;color:#9A8D82;text-transform:uppercase;letter-spacing:3px;
-  display:block;margin-top:-2px;
-}
-
-.title-hi{
-  font-family:'Noto Sans Devanagari',sans-serif;
-  font-size:32px;font-weight:700;color:#013F47;
-  margin:8px 0 4px;line-height:1.3;
-}
-
-.title-en{
-  font-family:'Lora',serif;font-size:20px;color:#6B5E54;
-  font-weight:500;font-style:italic;
-}
-
-.meta-row{
-  display:flex;align-items:center;justify-content:center;gap:16px;
-  margin-top:14px;flex-wrap:wrap;
-}
-
-.meta-badge{
-  display:inline-flex;align-items:center;gap:4px;
-  font-size:10px;padding:4px 12px;border-radius:20px;
-  background:${deityColor};color:#fff;font-weight:600;
-}
-
-.meta-item{
-  font-size:10px;color:#9A8D82;
-}
-
-/* ── Viniyog ── */
-.viniyog-box{
-  background:linear-gradient(135deg,#FFFBF5,#FFF5E9);
-  border:1px solid rgba(218,165,32,0.3);
-  border-radius:10px;padding:20px;margin:20px 0;
-  page-break-inside:avoid;
-}
-
-.viniyog-header{
-  display:flex;align-items:center;gap:10px;
-  font-family:'Lora',serif;font-size:14px;font-weight:600;color:#013F47;
-  margin-bottom:12px;
-}
-
-.viniyog-icon{
-  width:28px;height:28px;border-radius:6px;
-  background:linear-gradient(135deg,#DAA520,#FF9933);
-  color:#fff;font-family:'Lora',serif;font-weight:700;font-size:13px;
-  display:flex;align-items:center;justify-content:center;
-}
-
-.viniyog-shloka{
-  font-family:'Noto Sans Devanagari',sans-serif;
-  font-size:13px;line-height:1.9;color:#433B35;
-  background:#fff;border-radius:8px;padding:14px 16px;
-  margin-bottom:14px;
-  border-left:3px solid #DAA520;
-}
-
-.viniyog-table{
-  width:100%;border-collapse:collapse;
-}
-
-.viniyog-table tr{border-bottom:1px solid rgba(218,165,32,0.12)}
-.viniyog-table tr:last-child{border:none}
-
-.vt-label{
-  font-size:11px;color:#9A8D82;padding:6px 8px 6px 0;width:130px;
-  white-space:nowrap;vertical-align:top;
-}
-
-.vt-value{
-  font-family:'Noto Sans Devanagari',sans-serif;
-  font-size:12px;color:#433B35;padding:6px 0;
-}
-
-/* ── Section Labels ── */
-.section-label{
-  font-family:'Lora',serif;font-size:12px;font-weight:600;
-  color:#013F47;text-transform:uppercase;letter-spacing:1.5px;
-  margin:28px 0 14px;padding-bottom:8px;
-  border-bottom:2px solid transparent;
-  border-image:linear-gradient(90deg,#013F47 0%,#DAA520 50%,transparent 100%) 1;
-  display:flex;align-items:center;gap:8px;
-}
-
-.section-label::before{
-  content:'';width:4px;height:16px;background:#DAA520;border-radius:2px;
-  flex-shrink:0;
-}
-
-/* ── Main Text ── */
-.stotra-text{
-  font-family:'Noto Sans Devanagari',sans-serif;
-  font-size:15px;line-height:2.4;color:#433B35;
-  background:#fff;border-radius:10px;padding:24px 28px;
-  border:1px solid #F0E8DE;
-  column-count:auto;
-}
-
-/* Side-by-side layout for Devanagari + Transliteration */
-.dual-column{
-  display:grid;grid-template-columns:1fr 1fr;gap:20px;
-  margin-top:4px;
-}
-
-.dual-column .col-left{
-  background:#fff;border-radius:10px;padding:20px 24px;
-  border:1px solid #F0E8DE;
-}
-
-.dual-column .col-right{
-  background:#FAFAF5;border-radius:10px;padding:20px 24px;
-  border:1px solid #F0E8DE;
-}
-
-.col-label{
-  font-family:'Lora',serif;font-size:10px;font-weight:600;
-  color:#9A8D82;text-transform:uppercase;letter-spacing:1.5px;
-  margin-bottom:10px;
-}
-
-.devanagari-col{
-  font-family:'Noto Sans Devanagari',sans-serif;
-  font-size:14px;line-height:2.2;color:#433B35;
-}
-
-.translit-col{
-  font-family:'Open Sans',sans-serif;
-  font-size:12px;line-height:2.2;color:#6B5E54;
-  font-style:italic;
-}
-
-/* Single column transliteration (if too long for dual) */
-.translit-block{
-  font-family:'Open Sans',sans-serif;
-  font-size:12px;line-height:2;color:#6B5E54;
-  font-style:italic;
-  background:#FAFAF5;border-radius:10px;padding:20px 24px;
-  border:1px solid #F0E8DE;
-}
-
-/* ── Meaning ── */
-.meaning-block{
-  font-family:'Noto Sans Devanagari',sans-serif;
-  font-size:12px;line-height:1.9;color:#6B5E54;
-  background:#fff;border-radius:10px;padding:20px 24px;
-  border:1px solid #F0E8DE;
-}
-
-/* ── Benefits ── */
-.benefits-section{
-  page-break-inside:avoid;
-}
-
-.benefits-grid{
-  display:grid;grid-template-columns:1fr 1fr;gap:8px 16px;
-}
-
-.benefit-item{
-  font-size:11px;color:#6B5E54;padding:6px 0;
-  display:flex;align-items:flex-start;gap:6px;
-}
-
-.benefit-star{
-  color:#DAA520;font-size:12px;flex-shrink:0;margin-top:1px;
-}
-
-/* ── Footer ── */
-.footer{
-  margin-top:36px;padding-top:16px;
-  text-align:center;position:relative;
-}
-
-.footer::before{
-  content:'';position:absolute;top:0;left:10%;right:10%;
-  height:2px;
-  background:linear-gradient(90deg,transparent,#013F47,#DAA520,#FF9933,#DAA520,#013F47,transparent);
-  border-radius:2px;
-}
-
-.footer-brand{
-  font-family:'Lora',serif;font-size:14px;font-weight:600;color:#013F47;
-  margin-bottom:4px;
-}
-
-.footer-links{
-  display:flex;align-items:center;justify-content:center;gap:16px;
-  margin:8px 0;flex-wrap:wrap;
-}
-
-.footer-link{
-  font-size:10px;color:#013F47;text-decoration:none;
-  padding:4px 14px;border:1px solid #E8DDD4;border-radius:20px;
-  transition:all 0.2s;
-}
-
-.footer-link:hover{border-color:#013F47}
-
-.footer-copy{
-  font-size:9px;color:#9A8D82;margin-top:8px;
-}
-
-.footer-tagline{
-  font-size:9px;color:#B8860B;font-style:italic;margin-top:4px;
-}
-
-/* ── Print Optimization ── */
 @media print{
+  .no-print{display:none!important}
   body{background:#fff}
-  .page{padding:24px 32px;width:100%;min-height:auto}
-  .page::before,.page::after{display:none}
-  .stotra-text,.dual-column .col-left,.dual-column .col-right,
-  .translit-block,.meaning-block{border-color:#eee}
+  .page{padding:0;max-width:100%}
+  .col,.one-col,.mng,.vin{break-inside:avoid}
 }
-
-/* ── Ornamental corners ── */
-.corner-tl,.corner-tr,.corner-bl,.corner-br{
-  position:absolute;width:24px;height:24px;
-  opacity:0.4;
-}
-.corner-tl{top:20px;left:20px;border-top:2px solid #DAA520;border-left:2px solid #DAA520}
-.corner-tr{top:20px;right:20px;border-top:2px solid #DAA520;border-right:2px solid #DAA520}
-.corner-bl{bottom:20px;left:20px;border-bottom:2px solid #DAA520;border-left:2px solid #DAA520}
-.corner-br{bottom:20px;right:20px;border-bottom:2px solid #DAA520;border-right:2px solid #DAA520}
 </style>
 </head>
 <body>
+<div class="no-print">
+  <button class="print-btn" onclick="window.print()">Save as PDF</button>
+  <div class="print-hint">Use "Save as PDF" in print dialog</div>
+</div>
 <div class="page">
-  <!-- Ornamental corners -->
-  <div class="corner-tl"></div>
-  <div class="corner-tr"></div>
-  <div class="corner-bl"></div>
-  <div class="corner-br"></div>
 
   <!-- Header -->
-  <div class="header">
-    <div class="logo-row">
-      <img src="https://stotra.vastucart.in/VastuCartFav.png" alt="VastuCart" class="logo-img" onerror="this.style.display='none'">
-      <div>
-        <span class="logo-text">Stotra</span>
-        <span class="logo-sub">by VastuCart</span>
-      </div>
-    </div>
-    <div class="title-hi">${stotra.title}</div>
-    <div class="title-en">${stotra.titleEn}</div>
-    <div class="meta-row">
-      <span class="meta-badge">${deityName}</span>
-      <span class="meta-item">${stotra.verseCount} verses</span>
-      <span class="meta-item">${stotra.readingTimeMinutes} min read</span>
-      ${stotra.source ? `<span class="meta-item">Source: ${stotra.source}</span>` : ""}
+  <div class="hdr">
+    <div class="brand">Stotra<span class="brand-s">by VastuCart</span></div>
+    <div class="t-hi">${esc(stotra.title)}</div>
+    <div class="t-en">${esc(stotra.titleEn)}</div>
+    <div class="meta">
+      <span class="badge">${dn}</span>
+      <span class="meta-i">${stotra.verseCount} verses</span>
+      <span class="meta-i">${stotra.readingTimeMinutes} min read</span>
+      ${stotra.source ? `<span class="meta-i">${esc(stotra.source)}</span>` : ""}
     </div>
   </div>
 
   ${viniyogHtml}
 
-  <!-- Main Stotra Text -->
-  ${
-    translitLines.length > 0 && verses.length <= 60
-      ? `
-  <div class="section-label">स्तोत्र पाठ &middot; Stotra Path</div>
-  <div class="dual-column">
-    <div class="col-left">
-      <div class="col-label">संस्कृत / हिन्दी</div>
-      <div class="devanagari-col">${verses.map((v) => `<div>${v}</div>`).join("")}</div>
-    </div>
-    <div class="col-right">
-      <div class="col-label">Transliteration</div>
-      <div class="translit-col">${translitLines.map((l) => `<div>${l}</div>`).join("")}</div>
-    </div>
-  </div>`
-      : `
-  <div class="section-label">स्तोत्र पाठ &middot; Stotra Path</div>
-  <div class="stotra-text">${stotra.devanagariText.replace(/\n/g, "<br>")}</div>
-  ${
-    stotra.transliteration
-      ? `
-  <div class="section-label">Transliteration</div>
-  <div class="translit-block">${stotra.transliteration.replace(/\n/g, "<br>")}</div>`
-      : ""
-  }`
-  }
+  <!-- Main Text -->
+  <div class="sec">
+    <div class="sec-t"><span class="sec-bar"></span>स्तोत्र पाठ · Stotra Path</div>
+    ${stotra.transliteration ? `
+    <div class="two-col">
+      <div class="col col-l">
+        <div class="col-t">संस्कृत / हिन्दी</div>
+        <div class="dev">${nl2br(stotra.devanagariText)}</div>
+      </div>
+      <div class="col col-r">
+        <div class="col-t">Transliteration</div>
+        <div class="trl">${nl2br(stotra.transliteration)}</div>
+      </div>
+    </div>` : `
+    <div class="one-col">
+      <div class="dev">${nl2br(stotra.devanagariText)}</div>
+    </div>`}
+  </div>
 
-  ${
-    stotra.hindiMeaning
-      ? `
-  <div class="section-label">अर्थ &middot; Meaning</div>
-  <div class="meaning-block">${stotra.hindiMeaning.replace(/\n/g, "<br>")}</div>`
-      : ""
-  }
+  ${stotra.hindiMeaning ? `
+  <div class="sec">
+    <div class="sec-t"><span class="sec-bar"></span>अर्थ · Meaning</div>
+    <div class="mng">${nl2br(stotra.hindiMeaning)}</div>
+  </div>` : ""}
 
   ${benefitsHtml}
 
   <!-- Footer -->
-  <div class="footer">
-    <div class="footer-brand">Stotra by VastuCart</div>
-    <div class="footer-links">
-      <a href="https://stotra.vastucart.in" class="footer-link">stotra.vastucart.in</a>
-      <a href="https://store.vastucart.in" class="footer-link">VastuCart Store</a>
-      <a href="https://kundali.vastucart.in" class="footer-link">Kundali</a>
-      <a href="https://panchang.vastucart.in" class="footer-link">Panchang</a>
+  <div class="ftr">
+    <div class="ftr-b">Stotra by VastuCart</div>
+    <div class="ftr-links">
+      <a href="https://stotra.vastucart.in" class="ftr-l">stotra.vastucart.in</a>
+      <a href="https://store.vastucart.in" class="ftr-l">VastuCart Store</a>
+      <a href="https://kundali.vastucart.in" class="ftr-l">Kundali</a>
+      <a href="https://panchang.vastucart.in" class="ftr-l">Panchang</a>
     </div>
-    <div class="footer-copy">&copy; ${year} VastuCart. Content sourced from public domain scriptures.</div>
-    <div class="footer-tagline">Sacred Essentials for Your Spiritual Journey</div>
+    <div class="ftr-c">&copy; ${yr} VastuCart · Content from public domain scriptures · stotra.vastucart.in</div>
   </div>
+
 </div>
 </body>
 </html>`;
@@ -444,7 +190,6 @@ body{
   return new NextResponse(html, {
     headers: {
       "Content-Type": "text/html; charset=utf-8",
-      "Content-Disposition": `inline; filename="${stotra.slug}.html"`,
     },
   });
 }

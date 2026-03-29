@@ -249,6 +249,8 @@ export function StotraContent({ stotra, deity }: StotraContentProps) {
           {/* PDF Download */}
           <a
             href={`/api/pdf/${stotra.slug}`}
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-brand text-white font-medium px-5 py-2.5 rounded-xl hover:bg-brand-light transition-colors duration-200 text-sm"
           >
             <Download className="w-4 h-4" />
