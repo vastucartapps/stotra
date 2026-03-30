@@ -233,75 +233,143 @@ export default function Home() {
       {/* -- Stotra of the Day -- */}
       {stotraOfTheDay && (() => {
         const sotdDeity = getDeityById(stotraOfTheDay.deity);
+        const deityColor = sotdDeity?.color || '#013f47';
+        const firstVerses = stotraOfTheDay.devanagariText
+          .split("\n")
+          .filter((l: string) => l.trim().length > 0)
+          .slice(0, 4)
+          .join("\n");
         return (
-          <section className="py-16 md:py-20">
-            <div className="mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8">
-              <div className="relative overflow-hidden rounded-2xl" style={{ backgroundColor: sotdDeity?.color || '#013f47' }}>
-                {/* Decorative mandala pattern */}
-                <div className="absolute inset-0 opacity-[0.06]">
-                  <div
-                    className="absolute inset-0"
-                    style={{
-                      backgroundImage: `url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox='0 0 80 80' xmlns='http://www.w3.org/2000/svg'%3E%3Ccircle cx='40' cy='40' r='30' fill='none' stroke='%23fff' stroke-width='0.6'/%3E%3Ccircle cx='40' cy='40' r='18' fill='none' stroke='%23fff' stroke-width='0.6'/%3E%3Cpath d='M40 10L40 70M10 40L70 40M18 18L62 62M62 18L18 62' stroke='%23fff' stroke-width='0.4'/%3E%3C/svg%3E")`,
-                      backgroundSize: "80px 80px",
-                    }}
-                  />
-                </div>
-                {/* Radial glow from deity icon */}
-                <div className="absolute top-0 right-0 w-96 h-96 opacity-10 rounded-full" style={{ background: 'radial-gradient(circle, rgba(255,255,255,0.4) 0%, transparent 70%)', transform: 'translate(20%, -30%)' }} />
+          <section className="relative overflow-hidden" style={{ background: `linear-gradient(135deg, ${deityColor} 0%, ${deityColor}ee 40%, #013f47 100%)` }}>
+            {/* Gold shimmer top edge */}
+            <div className="h-[2px] bg-gradient-to-r from-transparent via-gold to-transparent" />
 
-                <div className="relative flex flex-col lg:flex-row items-center gap-8 lg:gap-12 p-8 md:p-12 lg:p-16">
-                  {/* Left: Deity Icon */}
-                  <div className="flex-shrink-0 flex flex-col items-center gap-4">
-                    <div className="w-28 h-28 md:w-36 md:h-36 rounded-3xl bg-white/10 backdrop-blur-sm border border-white/20 flex items-center justify-center">
-                      {sotdDeity && (
-                        <CategoryIcon type="deity" id={sotdDeity.id} size="xl" className="!w-20 !h-20 md:!w-24 md:!h-24 !rounded-2xl bg-white/15" />
-                      )}
-                    </div>
-                    <span className="text-white/60 text-xs font-medium tracking-wider uppercase">
-                      {sotdDeity?.name || stotraOfTheDay.deity}
+            {/* Layer 1: Mandala concentric rings */}
+            <div className="absolute inset-0 overflow-hidden pointer-events-none">
+              <div className="absolute opacity-[0.04]" style={{ width: '800px', height: '800px', top: '50%', right: '-10%', transform: 'translateY(-50%)' }}>
+                <svg viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <circle cx="200" cy="200" r="195" stroke="white" strokeWidth="0.5"/>
+                  <circle cx="200" cy="200" r="160" stroke="white" strokeWidth="0.5"/>
+                  <circle cx="200" cy="200" r="125" stroke="white" strokeWidth="0.5"/>
+                  <circle cx="200" cy="200" r="90" stroke="white" strokeWidth="0.5"/>
+                  <circle cx="200" cy="200" r="55" stroke="white" strokeWidth="0.5"/>
+                  <path d="M200 5L200 395M5 200L395 200" stroke="white" strokeWidth="0.3"/>
+                  <path d="M62 62L338 338M338 62L62 338" stroke="white" strokeWidth="0.3"/>
+                  <path d="M200 5L338 338M200 5L62 338M200 395L338 62M200 395L62 62" stroke="white" strokeWidth="0.2"/>
+                  <path d="M5 200L338 62M5 200L338 338M395 200L62 62M395 200L62 338" stroke="white" strokeWidth="0.2"/>
+                </svg>
+              </div>
+            </div>
+
+            {/* Layer 2: Warm glow spots */}
+            <div className="absolute top-0 left-1/4 w-[500px] h-[500px] rounded-full opacity-[0.08] pointer-events-none" style={{ background: 'radial-gradient(circle, #DAA520 0%, transparent 70%)' }} />
+            <div className="absolute bottom-0 right-1/4 w-[400px] h-[400px] rounded-full opacity-[0.05] pointer-events-none" style={{ background: 'radial-gradient(circle, #FF9933 0%, transparent 70%)' }} />
+
+            {/* Layer 3: Giant watermark deity icon */}
+            {sotdDeity && (
+              <div className="absolute right-0 top-1/2 -translate-y-1/2 translate-x-[15%] opacity-[0.06] pointer-events-none hidden lg:block">
+                <img
+                  src={`/images/deities/${sotdDeity.id}.svg`}
+                  alt=""
+                  className="w-[500px] h-[500px]"
+                  style={{ filter: 'brightness(0) invert(1)' }}
+                />
+              </div>
+            )}
+
+            {/* Content */}
+            <div className="relative mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8 py-16 md:py-24">
+              <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16 items-center">
+
+                {/* Left Column: Info */}
+                <div className="text-center lg:text-left">
+                  {/* Badge */}
+                  <div className="inline-flex items-center gap-2.5 mb-8">
+                    <span className="flex items-center gap-2 bg-gold/20 backdrop-blur-sm rounded-full pl-1.5 pr-4 py-1.5 border border-gold/30">
+                      <span className="w-6 h-6 rounded-full bg-gold/30 flex items-center justify-center text-gold text-xs">&#9733;</span>
+                      <span className="text-xs font-bold text-gold uppercase tracking-[0.2em]">
+                        Stotra of the Day
+                      </span>
+                    </span>
+                    {sotdDeity && (
+                      <span className="flex items-center gap-2 bg-white/10 backdrop-blur-sm rounded-full pl-1 pr-3 py-1 border border-white/15">
+                        <CategoryIcon type="deity" id={sotdDeity.id} color="transparent" size="sm" className="!w-6 !h-6 !rounded-full bg-white/10" />
+                        <span className="text-xs font-medium text-white/80">{sotdDeity.name}</span>
+                      </span>
+                    )}
+                  </div>
+
+                  {/* Title */}
+                  <h3 className="devanagari-heading text-4xl md:text-5xl lg:text-6xl text-white mb-3 leading-[1.15]">
+                    {stotraOfTheDay.title}
+                  </h3>
+                  <p className="font-serif text-xl md:text-2xl text-white/60 mb-8 italic">
+                    {stotraOfTheDay.titleEn}
+                  </p>
+
+                  {/* Meta pills */}
+                  <div className="flex flex-wrap items-center gap-2 mb-8 justify-center lg:justify-start">
+                    <span className="text-xs bg-white/10 text-white/70 px-3 py-1.5 rounded-full border border-white/10">
+                      {stotraOfTheDay.verseCount} verses
+                    </span>
+                    <span className="text-xs bg-white/10 text-white/70 px-3 py-1.5 rounded-full border border-white/10">
+                      {stotraOfTheDay.readingTimeMinutes} min read
+                    </span>
+                    <span className="text-xs bg-white/10 text-white/70 px-3 py-1.5 rounded-full border border-white/10 capitalize">
+                      {stotraOfTheDay.source}
                     </span>
                   </div>
 
-                  {/* Right: Content */}
-                  <div className="flex-1 text-center lg:text-left min-w-0">
-                    <div className="inline-flex items-center gap-2 bg-white/10 backdrop-blur-sm rounded-full px-4 py-1.5 mb-5 border border-white/15">
-                      <span className="text-gold text-sm">&#9733;</span>
-                      <span className="text-xs font-semibold text-gold uppercase tracking-[0.15em]">
-                        Stotra of the Day
-                      </span>
+                  {/* CTA */}
+                  <div className="flex flex-col sm:flex-row items-center gap-4 justify-center lg:justify-start">
+                    <Link
+                      href={`/stotra/${stotraOfTheDay.slug}`}
+                      className="group inline-flex items-center gap-2 bg-gradient-to-r from-gold to-saffron text-brand-dark font-bold px-8 py-4 rounded-xl hover:shadow-glow-gold transition-all duration-300 text-sm"
+                    >
+                      Read Full Stotra
+                      <span className="group-hover:translate-x-1 transition-transform duration-200">&rarr;</span>
+                    </Link>
+                    <Link
+                      href={`/deity/${sotdDeity?.slug || stotraOfTheDay.deity}`}
+                      className="inline-flex items-center gap-2 text-white/50 hover:text-white/80 text-sm font-medium transition-colors duration-200"
+                    >
+                      More {sotdDeity?.name} Stotras &rarr;
+                    </Link>
+                  </div>
+                </div>
+
+                {/* Right Column: Verse Preview Card */}
+                <div className="relative">
+                  <div className="relative bg-white/[0.07] backdrop-blur-md rounded-2xl border border-white/[0.12] p-8 md:p-10">
+                    {/* Decorative corner accents */}
+                    <div className="absolute top-0 left-0 w-8 h-8 border-t-2 border-l-2 border-gold/40 rounded-tl-2xl" />
+                    <div className="absolute top-0 right-0 w-8 h-8 border-t-2 border-r-2 border-gold/40 rounded-tr-2xl" />
+                    <div className="absolute bottom-0 left-0 w-8 h-8 border-b-2 border-l-2 border-gold/40 rounded-bl-2xl" />
+                    <div className="absolute bottom-0 right-0 w-8 h-8 border-b-2 border-r-2 border-gold/40 rounded-br-2xl" />
+
+                    {/* Om header */}
+                    <div className="text-center mb-6">
+                      <span className="text-gold/60 text-3xl font-serif">&#x0950;</span>
                     </div>
 
-                    <h3 className="devanagari-heading text-3xl md:text-4xl lg:text-5xl text-white mb-2 leading-tight">
-                      {stotraOfTheDay.title}
-                    </h3>
-                    <p className="text-lg md:text-xl text-white/70 font-serif mb-6">
-                      {stotraOfTheDay.titleEn}
+                    {/* Verse text */}
+                    <p className="devanagari text-white/80 text-lg md:text-xl leading-[2.2] text-center whitespace-pre-line">
+                      {firstVerses}
                     </p>
 
-                    <p className="devanagari text-white/50 text-base md:text-lg leading-loose line-clamp-2 mb-8 max-w-2xl mx-auto lg:mx-0">
-                      {stotraOfTheDay.devanagariText.split("\n").filter(Boolean).slice(0, 2).join("\n")}
-                    </p>
-
-                    <div className="flex flex-col sm:flex-row items-center gap-3 lg:justify-start justify-center">
-                      <Link
-                        href={`/stotra/${stotraOfTheDay.slug}`}
-                        className="inline-flex items-center gap-2 bg-gradient-to-r from-gold to-saffron text-brand-dark font-semibold px-7 py-3.5 rounded-xl hover:shadow-glow-gold transition-all duration-300 text-sm"
-                      >
-                        Read Full Stotra &rarr;
-                      </Link>
-                      <div className="flex items-center gap-4 text-white/40 text-xs">
-                        <span>{stotraOfTheDay.verseCount} verses</span>
-                        <span>&middot;</span>
-                        <span>{stotraOfTheDay.readingTimeMinutes} min read</span>
-                        <span>&middot;</span>
-                        <span className="capitalize">{stotraOfTheDay.source}</span>
-                      </div>
+                    {/* Divider */}
+                    <div className="mt-6 flex items-center justify-center gap-3">
+                      <div className="w-12 h-px bg-gradient-to-r from-transparent to-gold/40" />
+                      <span className="text-gold/40 text-xs">&#x0965;</span>
+                      <div className="w-12 h-px bg-gradient-to-l from-transparent to-gold/40" />
                     </div>
                   </div>
                 </div>
               </div>
             </div>
+
+            {/* Gold shimmer bottom edge */}
+            <div className="h-[2px] bg-gradient-to-r from-transparent via-gold to-transparent" />
           </section>
         );
       })()}
