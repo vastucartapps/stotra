@@ -1,5 +1,5 @@
 {
-    "id": "810",
+    "id": "513",
     "title": "नरसिंह हृदयम्",
     "titleEn": "Narasimha Hridayam",
     "slug": "narasimha-hridayam",
@@ -15,10 +15,23 @@
         "Sacred recitation revealed by Prahlada Maharaja himself"
     ],
     "deity": "narasimha",
-    "secondaryDeities": ["lakshmi", "vishnu"],
-    "days": ["saturday", "tuesday"],
-    "festivals": ["narasimha-jayanti"],
-    "purposes": ["protection", "fear-removal", "health", "victory"],
+    "secondaryDeities": [
+        "lakshmi",
+        "vishnu"
+    ],
+    "days": [
+        "saturday",
+        "tuesday"
+    ],
+    "festivals": [
+        "narasimha-jayanti"
+    ],
+    "purposes": [
+        "protection",
+        "fear-removal",
+        "health",
+        "victory"
+    ],
     "readingTimeMinutes": 5,
     "seoDescription": "Read Narasimha Hridayam in Sanskrit with Hindi meaning. Heart hymn of Lord Narasimha for ultimate divine protection and victory.",
     "verseCount": 10,

@@ -1,5 +1,5 @@
 {
-    "id": "811",
+    "id": "586",
     "title": "राधा कवचम्",
     "titleEn": "Radha Kavacham",
     "slug": "radha-kavacham",
@@ -15,10 +15,23 @@
         "Essential for Radha Ashtami and Holi celebrations"
     ],
     "deity": "radha",
-    "secondaryDeities": ["krishna"],
-    "days": ["wednesday", "friday"],
-    "festivals": ["radha-ashtami", "holi"],
-    "purposes": ["protection", "devotion", "love", "spiritual-growth"],
+    "secondaryDeities": [
+        "krishna"
+    ],
+    "days": [
+        "wednesday",
+        "friday"
+    ],
+    "festivals": [
+        "radha-ashtami",
+        "holi"
+    ],
+    "purposes": [
+        "protection",
+        "devotion",
+        "love",
+        "spiritual-growth"
+    ],
     "readingTimeMinutes": 4,
     "seoDescription": "Read Radha Kavacham in Sanskrit with Hindi meaning. Divine armor of Shri Radha for spiritual protection, divine love and devotion.",
     "verseCount": 8,

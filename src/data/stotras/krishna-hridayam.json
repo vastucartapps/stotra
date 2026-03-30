@@ -1,5 +1,5 @@
 {
-    "id": "832",
+    "id": "407",
     "title": "कृष्ण हृदयम्",
     "titleEn": "Krishna Hridayam",
     "slug": "krishna-hridayam",
@@ -15,10 +15,23 @@
         "Ideal for Janmashtami, Ekadashi, and daily Krishna worship"
     ],
     "deity": "krishna",
-    "secondaryDeities": ["radha", "vishnu"],
-    "days": ["wednesday"],
-    "festivals": ["janmashtami", "holi"],
-    "purposes": ["devotion", "love", "moksha", "spiritual-growth"],
+    "secondaryDeities": [
+        "radha",
+        "vishnu"
+    ],
+    "days": [
+        "wednesday"
+    ],
+    "festivals": [
+        "janmashtami",
+        "holi"
+    ],
+    "purposes": [
+        "devotion",
+        "love",
+        "moksha",
+        "spiritual-growth"
+    ],
     "readingTimeMinutes": 4,
     "seoDescription": "Read Krishna Hridayam in Sanskrit with Hindi meaning. Heart hymn of Lord Krishna for divine love, devotion, and moksha.",
     "verseCount": 8,

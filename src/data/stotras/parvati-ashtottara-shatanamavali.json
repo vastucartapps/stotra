@@ -1,5 +1,5 @@
 {
-    "id": "822",
+    "id": "561",
     "title": "पार्वती अष्टोत्तर शतनामावली",
     "titleEn": "Parvati Ashtottara Shatanamavali",
     "slug": "parvati-ashtottara-shatanamavali",
@@ -15,10 +15,25 @@
         "Bestows moksha and all worldly blessings"
     ],
     "deity": "parvati",
-    "secondaryDeities": ["shiva", "durga"],
-    "days": ["monday", "friday"],
-    "festivals": ["navratri", "maha-shivratri", "durga-puja"],
-    "purposes": ["archana-puja", "devotion", "saubhagya", "protection"],
+    "secondaryDeities": [
+        "shiva",
+        "durga"
+    ],
+    "days": [
+        "monday",
+        "friday"
+    ],
+    "festivals": [
+        "navratri",
+        "maha-shivratri",
+        "durga-puja"
+    ],
+    "purposes": [
+        "archana-puja",
+        "devotion",
+        "saubhagya",
+        "protection"
+    ],
     "readingTimeMinutes": 8,
     "seoDescription": "Read Parvati Ashtottara Shatanamavali - 108 names of Mata Parvati in Sanskrit with Hindi meaning for Navratri archana.",
     "verseCount": 108,

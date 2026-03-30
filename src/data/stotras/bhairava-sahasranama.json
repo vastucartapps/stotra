@@ -1,5 +1,5 @@
 {
-    "id": "817",
+    "id": "88",
     "title": "भैरव सहस्रनाम स्तोत्रम्",
     "titleEn": "Bhairava Sahasranama Stotram",
     "slug": "bhairava-sahasranama",
@@ -15,10 +15,22 @@
         "Essential for Kala Bhairava Ashtami and Saturday worship"
     ],
     "deity": "bhairava",
-    "secondaryDeities": ["shiva"],
-    "days": ["saturday", "tuesday"],
-    "festivals": ["kala-bhairava-ashtami"],
-    "purposes": ["protection", "fear-removal", "evil-eye-removal", "archana-puja"],
+    "secondaryDeities": [
+        "shiva"
+    ],
+    "days": [
+        "saturday",
+        "tuesday"
+    ],
+    "festivals": [
+        "kala-bhairava-ashtami"
+    ],
+    "purposes": [
+        "protection",
+        "fear-removal",
+        "evil-eye-removal",
+        "archana-puja"
+    ],
     "readingTimeMinutes": 7,
     "seoDescription": "Read Bhairava Sahasranama in Sanskrit with Hindi meaning. Thousand names of Lord Bhairava for supreme protection and fear removal.",
     "verseCount": 10,

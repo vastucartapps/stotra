@@ -1,5 +1,5 @@
 {
-    "id": "825",
+    "id": "684",
     "title": "शनि हृदयम्",
     "titleEn": "Shani Hridayam",
     "slug": "shani-hridayam",
@@ -15,10 +15,22 @@
         "Best recited on Saturdays for complete Shani shanti"
     ],
     "deity": "shani",
-    "secondaryDeities": ["surya"],
-    "days": ["saturday"],
-    "festivals": ["shani-jayanti", "shani-amavasya"],
-    "purposes": ["planetary-remedy", "protection", "wealth", "health"],
+    "secondaryDeities": [
+        "surya"
+    ],
+    "days": [
+        "saturday"
+    ],
+    "festivals": [
+        "shani-jayanti",
+        "shani-amavasya"
+    ],
+    "purposes": [
+        "planetary-remedy",
+        "protection",
+        "wealth",
+        "health"
+    ],
     "readingTimeMinutes": 4,
     "seoDescription": "Read Shani Hridayam in Sanskrit with Hindi meaning. Heart hymn of Lord Shani for Sade Sati relief and planetary peace.",
     "verseCount": 8,

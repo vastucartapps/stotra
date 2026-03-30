@@ -1,5 +1,5 @@
 {
-    "id": "812",
+    "id": "585",
     "title": "राधा हृदयम्",
     "titleEn": "Radha Hridayam",
     "slug": "radha-hridayam",
@@ -15,10 +15,23 @@
         "Essential for Radha Ashtami and Sharad Purnima"
     ],
     "deity": "radha",
-    "secondaryDeities": ["krishna"],
-    "days": ["wednesday", "friday"],
-    "festivals": ["radha-ashtami", "sharad-purnima"],
-    "purposes": ["devotion", "love", "spiritual-growth", "peace"],
+    "secondaryDeities": [
+        "krishna"
+    ],
+    "days": [
+        "wednesday",
+        "friday"
+    ],
+    "festivals": [
+        "radha-ashtami",
+        "sharad-purnima"
+    ],
+    "purposes": [
+        "devotion",
+        "love",
+        "spiritual-growth",
+        "peace"
+    ],
     "readingTimeMinutes": 4,
     "seoDescription": "Read Radha Hridayam in Sanskrit with Hindi meaning. Heart hymn of Shri Radha revealing divine love of Radha-Krishna.",
     "verseCount": 8,

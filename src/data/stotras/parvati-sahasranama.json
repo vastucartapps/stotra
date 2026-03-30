@@ -1,5 +1,5 @@
 {
-    "id": "821",
+    "id": "567",
     "title": "पार्वती सहस्रनाम स्तोत्रम्",
     "titleEn": "Parvati Sahasranama Stotram",
     "slug": "parvati-sahasranama",
@@ -15,10 +15,25 @@
         "Bestows saubhagya, shakti, and moksha to devotees"
     ],
     "deity": "parvati",
-    "secondaryDeities": ["shiva", "durga"],
-    "days": ["monday", "friday"],
-    "festivals": ["navratri", "maha-shivratri", "durga-puja"],
-    "purposes": ["devotion", "protection", "saubhagya", "archana-puja"],
+    "secondaryDeities": [
+        "shiva",
+        "durga"
+    ],
+    "days": [
+        "monday",
+        "friday"
+    ],
+    "festivals": [
+        "navratri",
+        "maha-shivratri",
+        "durga-puja"
+    ],
+    "purposes": [
+        "devotion",
+        "protection",
+        "saubhagya",
+        "archana-puja"
+    ],
     "readingTimeMinutes": 8,
     "seoDescription": "Read Parvati Sahasranama in Sanskrit with Hindi meaning. Thousand names of Mata Parvati for protection, saubhagya, and devotion.",
     "verseCount": 10,

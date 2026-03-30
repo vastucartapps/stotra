@@ -1,5 +1,5 @@
 {
-    "id": "806",
+    "id": "899",
     "title": "विठ्ठल सहस्रनाम स्तोत्रम्",
     "titleEn": "Vitthal Sahasranama Stotram",
     "slug": "vitthal-sahasranama",
@@ -15,10 +15,24 @@
         "Ideal for Ashadhi and Kartiki Ekadashi worship"
     ],
     "deity": "vitthal",
-    "secondaryDeities": ["krishna", "vishnu"],
-    "days": ["thursday", "ekadashi"],
-    "festivals": ["ashadhi-ekadashi", "kartiki-ekadashi"],
-    "purposes": ["devotion", "spiritual-growth", "moksha", "archana-puja"],
+    "secondaryDeities": [
+        "krishna",
+        "vishnu"
+    ],
+    "days": [
+        "thursday",
+        "ekadashi"
+    ],
+    "festivals": [
+        "ashadhi-ekadashi",
+        "kartiki-ekadashi"
+    ],
+    "purposes": [
+        "devotion",
+        "spiritual-growth",
+        "moksha",
+        "archana-puja"
+    ],
     "readingTimeMinutes": 8,
     "seoDescription": "Read Vitthal Sahasranama in Sanskrit with Hindi meaning. Thousand names of Lord Vitthal of Pandharpur for Varkari devotion.",
     "verseCount": 12,

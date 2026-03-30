@@ -1,5 +1,5 @@
 {
-    "id": "820",
+    "id": "263",
     "title": "गायत्री मङ्गलाष्टकम्",
     "titleEn": "Gayatri Mangalashtakam",
     "slug": "gayatri-mangalashtakam",
@@ -15,10 +15,23 @@
         "Ideal morning recitation with Gayatri Mantra japa"
     ],
     "deity": "gayatri",
-    "secondaryDeities": ["saraswati", "savitri"],
-    "days": ["sunday", "wednesday"],
-    "festivals": ["gayatri-jayanti"],
-    "purposes": ["auspiciousness", "knowledge", "health", "sin-removal"],
+    "secondaryDeities": [
+        "saraswati",
+        "savitri"
+    ],
+    "days": [
+        "sunday",
+        "wednesday"
+    ],
+    "festivals": [
+        "gayatri-jayanti"
+    ],
+    "purposes": [
+        "auspiciousness",
+        "knowledge",
+        "health",
+        "sin-removal"
+    ],
     "readingTimeMinutes": 3,
     "seoDescription": "Read Gayatri Mangalashtakam in Sanskrit with Hindi meaning. Eight auspicious verses for Gayatri Mata's blessings and knowledge.",
     "verseCount": 8,

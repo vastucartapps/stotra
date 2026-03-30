@@ -1,5 +1,5 @@
 {
-    "id": "828",
+    "id": "802",
     "title": "सूर्य पञ्चरत्नम्",
     "titleEn": "Surya Pancharatnam",
     "slug": "surya-pancharatnam",
@@ -15,10 +15,23 @@
         "Ideal for Sunday worship and Surya Namaskara practice"
     ],
     "deity": "surya",
-    "secondaryDeities": ["vishnu", "brahma"],
-    "days": ["sunday"],
-    "festivals": ["makar-sankranti", "ratha-saptami"],
-    "purposes": ["health", "knowledge", "devotion", "sin-removal"],
+    "secondaryDeities": [
+        "vishnu",
+        "brahma"
+    ],
+    "days": [
+        "sunday"
+    ],
+    "festivals": [
+        "makar-sankranti",
+        "ratha-saptami"
+    ],
+    "purposes": [
+        "health",
+        "knowledge",
+        "devotion",
+        "sin-removal"
+    ],
     "readingTimeMinutes": 3,
     "seoDescription": "Read Surya Pancharatnam in Sanskrit with Hindi meaning. Five jewel-verses of Lord Surya for health, knowledge, and spiritual light.",
     "verseCount": 5,

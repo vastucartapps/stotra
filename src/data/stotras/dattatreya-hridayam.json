@@ -1,5 +1,5 @@
 {
-    "id": "829",
+    "id": "155",
     "title": "दत्तात्रेय हृदयम्",
     "titleEn": "Dattatreya Hridayam",
     "slug": "dattatreya-hridayam",
@@ -15,10 +15,24 @@
         "Ideal for Datta Jayanti and Thursday Guru worship"
     ],
     "deity": "dattatreya",
-    "secondaryDeities": ["brahma", "vishnu", "shiva"],
-    "days": ["thursday"],
-    "festivals": ["datta-jayanti", "guru-purnima"],
-    "purposes": ["knowledge", "spiritual-growth", "protection", "moksha"],
+    "secondaryDeities": [
+        "brahma",
+        "vishnu",
+        "shiva"
+    ],
+    "days": [
+        "thursday"
+    ],
+    "festivals": [
+        "datta-jayanti",
+        "guru-purnima"
+    ],
+    "purposes": [
+        "knowledge",
+        "spiritual-growth",
+        "protection",
+        "moksha"
+    ],
     "readingTimeMinutes": 4,
     "seoDescription": "Read Dattatreya Hridayam in Sanskrit with Hindi meaning. Heart hymn of Lord Dattatreya for guru's grace, knowledge, and moksha.",
     "verseCount": 8,

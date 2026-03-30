@@ -1,5 +1,5 @@
 {
-    "id": "813",
+    "id": "589",
     "title": "राधा मङ्गलाष्टकम्",
     "titleEn": "Radha Mangalashtakam",
     "slug": "radha-mangalashtakam",
@@ -15,10 +15,24 @@
         "Powerful for Radha Ashtami and Holi celebrations"
     ],
     "deity": "radha",
-    "secondaryDeities": ["krishna"],
-    "days": ["wednesday", "friday"],
-    "festivals": ["radha-ashtami", "holi", "sharad-purnima"],
-    "purposes": ["devotion", "love", "auspiciousness", "peace"],
+    "secondaryDeities": [
+        "krishna"
+    ],
+    "days": [
+        "wednesday",
+        "friday"
+    ],
+    "festivals": [
+        "radha-ashtami",
+        "holi",
+        "sharad-purnima"
+    ],
+    "purposes": [
+        "devotion",
+        "love",
+        "auspiciousness",
+        "peace"
+    ],
     "readingTimeMinutes": 3,
     "seoDescription": "Read Radha Mangalashtakam in Sanskrit with Hindi meaning. Eight auspicious verses for Shri Radha's blessings and divine love.",
     "verseCount": 8,

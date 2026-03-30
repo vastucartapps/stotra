@@ -1,5 +1,5 @@
 {
-    "id": "826",
+    "id": "688",
     "title": "शनि पञ्चरत्नम्",
     "titleEn": "Shani Pancharatnam",
     "slug": "shani-pancharatnam",
@@ -15,10 +15,22 @@
         "Perfect Saturday recitation for Shani graha shanti"
     ],
     "deity": "shani",
-    "secondaryDeities": ["surya"],
-    "days": ["saturday"],
-    "festivals": ["shani-jayanti", "shani-amavasya"],
-    "purposes": ["planetary-remedy", "protection", "wealth", "peace"],
+    "secondaryDeities": [
+        "surya"
+    ],
+    "days": [
+        "saturday"
+    ],
+    "festivals": [
+        "shani-jayanti",
+        "shani-amavasya"
+    ],
+    "purposes": [
+        "planetary-remedy",
+        "protection",
+        "wealth",
+        "peace"
+    ],
     "readingTimeMinutes": 2,
     "seoDescription": "Read Shani Pancharatnam in Sanskrit with Hindi meaning. Five jewel-verses for Shani graha shanti and Sade Sati relief.",
     "verseCount": 5,

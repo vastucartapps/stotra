@@ -1,5 +1,5 @@
 {
-    "id": "824",
+    "id": "687",
     "title": "शनि मङ्गलाष्टकम्",
     "titleEn": "Shani Mangalashtakam",
     "slug": "shani-mangalashtakam",
@@ -15,10 +15,22 @@
         "Must recite on Saturdays for maximum benefit"
     ],
     "deity": "shani",
-    "secondaryDeities": ["surya"],
-    "days": ["saturday"],
-    "festivals": ["shani-jayanti", "shani-amavasya"],
-    "purposes": ["planetary-remedy", "protection", "peace", "auspiciousness"],
+    "secondaryDeities": [
+        "surya"
+    ],
+    "days": [
+        "saturday"
+    ],
+    "festivals": [
+        "shani-jayanti",
+        "shani-amavasya"
+    ],
+    "purposes": [
+        "planetary-remedy",
+        "protection",
+        "peace",
+        "auspiciousness"
+    ],
     "readingTimeMinutes": 3,
     "seoDescription": "Read Shani Mangalashtakam in Sanskrit with Hindi meaning. Eight auspicious verses to remove Sade Sati and Shani afflictions.",
     "verseCount": 8,

@@ -1,5 +1,5 @@
 {
-    "id": "838",
+    "id": "276",
     "title": "गोपाल विंशतिका",
     "titleEn": "Gopala Vimshatika",
     "slug": "gopala-vimshatika",
@@ -15,10 +15,24 @@
         "Ideal for Janmashtami, Gopashtami, and daily worship"
     ],
     "deity": "krishna",
-    "secondaryDeities": ["radha", "vishnu"],
-    "days": ["wednesday"],
-    "festivals": ["janmashtami", "gopashtami", "holi"],
-    "purposes": ["devotion", "love", "moksha", "spiritual-growth"],
+    "secondaryDeities": [
+        "radha",
+        "vishnu"
+    ],
+    "days": [
+        "wednesday"
+    ],
+    "festivals": [
+        "janmashtami",
+        "gopashtami",
+        "holi"
+    ],
+    "purposes": [
+        "devotion",
+        "love",
+        "moksha",
+        "spiritual-growth"
+    ],
     "readingTimeMinutes": 8,
     "seoDescription": "Read Gopala Vimshatika in Sanskrit with Hindi meaning. Twenty verses of Lord Krishna's complete leela from Vrindavan to Dwarka.",
     "verseCount": 20,

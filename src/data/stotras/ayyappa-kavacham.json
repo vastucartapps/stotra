@@ -1,5 +1,5 @@
 {
-    "id": "834",
+    "id": "47",
     "title": "अय्यप्पा कवचम्",
     "titleEn": "Ayyappa Kavacham",
     "slug": "ayyappa-kavacham",
@@ -15,10 +15,23 @@
         "Ideal for Mandala Puja and Makaravilakku season"
     ],
     "deity": "ayyappa",
-    "secondaryDeities": ["shiva", "vishnu"],
-    "days": ["saturday"],
-    "festivals": ["mandala-puja", "makar-sankranti"],
-    "purposes": ["protection", "devotion", "sin-removal", "spiritual-growth"],
+    "secondaryDeities": [
+        "shiva",
+        "vishnu"
+    ],
+    "days": [
+        "saturday"
+    ],
+    "festivals": [
+        "mandala-puja",
+        "makar-sankranti"
+    ],
+    "purposes": [
+        "protection",
+        "devotion",
+        "sin-removal",
+        "spiritual-growth"
+    ],
     "readingTimeMinutes": 4,
     "seoDescription": "Read Ayyappa Kavacham in Sanskrit with Hindi meaning. Divine armor of Lord Ayyappa for protection during Mandala Kalam vratam.",
     "verseCount": 7,

@@ -1,5 +1,5 @@
 {
-    "id": "814",
+    "id": "766",
     "title": "सीता कवचम्",
     "titleEn": "Sita Kavacham",
     "slug": "sita-kavacham",
@@ -15,10 +15,25 @@
         "Ideal for Sita Navami, Vivah Panchami, and Ram Navami"
     ],
     "deity": "sita",
-    "secondaryDeities": ["rama", "lakshmi"],
-    "days": ["tuesday", "friday"],
-    "festivals": ["sita-navami", "vivah-panchami", "ram-navami"],
-    "purposes": ["protection", "saubhagya", "marital-harmony", "devotion"],
+    "secondaryDeities": [
+        "rama",
+        "lakshmi"
+    ],
+    "days": [
+        "tuesday",
+        "friday"
+    ],
+    "festivals": [
+        "sita-navami",
+        "vivah-panchami",
+        "ram-navami"
+    ],
+    "purposes": [
+        "protection",
+        "saubhagya",
+        "marital-harmony",
+        "devotion"
+    ],
     "readingTimeMinutes": 4,
     "seoDescription": "Read Sita Kavacham in Sanskrit with Hindi meaning. Divine armor of Mata Sita for protection, saubhagya, and marital harmony.",
     "verseCount": 7,

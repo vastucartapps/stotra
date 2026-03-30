@@ -1,5 +1,5 @@
 {
-    "id": "835",
+    "id": "205",
     "title": "दुर्गा पञ्चरत्नम्",
     "titleEn": "Durga Pancharatnam",
     "slug": "durga-pancharatnam",
@@ -15,10 +15,25 @@
         "Most powerful during Navratri and Durga Puja recitation"
     ],
     "deity": "durga",
-    "secondaryDeities": ["parvati", "kali"],
-    "days": ["tuesday", "friday"],
-    "festivals": ["navratri", "durga-puja", "dussehra"],
-    "purposes": ["protection", "health", "prosperity", "sin-removal"],
+    "secondaryDeities": [
+        "parvati",
+        "kali"
+    ],
+    "days": [
+        "tuesday",
+        "friday"
+    ],
+    "festivals": [
+        "navratri",
+        "durga-puja",
+        "dussehra"
+    ],
+    "purposes": [
+        "protection",
+        "health",
+        "prosperity",
+        "sin-removal"
+    ],
     "readingTimeMinutes": 3,
     "seoDescription": "Read Durga Pancharatnam in Sanskrit with Hindi meaning. Five jewel-verses of Goddess Durga for protection, health, and prosperity.",
     "verseCount": 5,

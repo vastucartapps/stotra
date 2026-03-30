@@ -1,5 +1,5 @@
 {
-    "id": "823",
+    "id": "375",
     "title": "कार्तिकेय हृदयम्",
     "titleEn": "Kartikeya Hridayam",
     "slug": "kartikeya-hridayam",
@@ -15,10 +15,22 @@
         "Ideal for Skanda Shashthi and Tuesday worship"
     ],
     "deity": "kartikeya",
-    "secondaryDeities": ["shiva", "parvati"],
-    "days": ["tuesday"],
-    "festivals": ["skanda-shashthi"],
-    "purposes": ["protection", "victory", "courage", "knowledge"],
+    "secondaryDeities": [
+        "shiva",
+        "parvati"
+    ],
+    "days": [
+        "tuesday"
+    ],
+    "festivals": [
+        "skanda-shashthi"
+    ],
+    "purposes": [
+        "protection",
+        "victory",
+        "courage",
+        "knowledge"
+    ],
     "readingTimeMinutes": 4,
     "seoDescription": "Read Kartikeya Hridayam in Sanskrit with Hindi meaning. Heart hymn of Lord Kartikeya for victory, protection, and courage.",
     "verseCount": 7,

@@ -1,5 +1,5 @@
 {
-    "id": "818",
+    "id": "87",
     "title": "भैरव हृदयम्",
     "titleEn": "Bhairava Hridayam",
     "slug": "bhairava-hridayam",
@@ -15,10 +15,22 @@
         "Powerful for Kala Bhairava Ashtami and Saturday worship"
     ],
     "deity": "bhairava",
-    "secondaryDeities": ["shiva"],
-    "days": ["saturday", "tuesday"],
-    "festivals": ["kala-bhairava-ashtami"],
-    "purposes": ["protection", "fear-removal", "health", "victory"],
+    "secondaryDeities": [
+        "shiva"
+    ],
+    "days": [
+        "saturday",
+        "tuesday"
+    ],
+    "festivals": [
+        "kala-bhairava-ashtami"
+    ],
+    "purposes": [
+        "protection",
+        "fear-removal",
+        "health",
+        "victory"
+    ],
     "readingTimeMinutes": 4,
     "seoDescription": "Read Bhairava Hridayam in Sanskrit with Hindi meaning. Heart hymn of Lord Bhairava for protection, fear removal, and victory.",
     "verseCount": 8,

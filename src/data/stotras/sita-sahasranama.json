@@ -1,5 +1,5 @@
 {
-    "id": "815",
+    "id": "769",
     "title": "सीता सहस्रनाम स्तोत्रम्",
     "titleEn": "Sita Sahasranama Stotram",
     "slug": "sita-sahasranama",
@@ -15,10 +15,25 @@
         "Sacred for Sita Navami, Vivah Panchami, and Ram Navami"
     ],
     "deity": "sita",
-    "secondaryDeities": ["rama", "lakshmi"],
-    "days": ["tuesday", "friday"],
-    "festivals": ["sita-navami", "vivah-panchami", "ram-navami"],
-    "purposes": ["devotion", "saubhagya", "marital-harmony", "archana-puja"],
+    "secondaryDeities": [
+        "rama",
+        "lakshmi"
+    ],
+    "days": [
+        "tuesday",
+        "friday"
+    ],
+    "festivals": [
+        "sita-navami",
+        "vivah-panchami",
+        "ram-navami"
+    ],
+    "purposes": [
+        "devotion",
+        "saubhagya",
+        "marital-harmony",
+        "archana-puja"
+    ],
     "readingTimeMinutes": 7,
     "seoDescription": "Read Sita Sahasranama in Sanskrit with Hindi meaning. Thousand names of Mata Sita for saubhagya, protection, and devotion.",
     "verseCount": 10,

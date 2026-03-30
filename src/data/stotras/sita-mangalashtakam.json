@@ -1,5 +1,5 @@
 {
-    "id": "816",
+    "id": "767",
     "title": "सीता मङ्गलाष्टकम्",
     "titleEn": "Sita Mangalashtakam",
     "slug": "sita-mangalashtakam",
@@ -15,10 +15,25 @@
         "Ideal morning recitation for Sita Navami and Vivah Panchami"
     ],
     "deity": "sita",
-    "secondaryDeities": ["rama", "lakshmi"],
-    "days": ["tuesday", "friday"],
-    "festivals": ["sita-navami", "vivah-panchami", "ram-navami"],
-    "purposes": ["auspiciousness", "saubhagya", "devotion", "marital-harmony"],
+    "secondaryDeities": [
+        "rama",
+        "lakshmi"
+    ],
+    "days": [
+        "tuesday",
+        "friday"
+    ],
+    "festivals": [
+        "sita-navami",
+        "vivah-panchami",
+        "ram-navami"
+    ],
+    "purposes": [
+        "auspiciousness",
+        "saubhagya",
+        "devotion",
+        "marital-harmony"
+    ],
     "readingTimeMinutes": 3,
     "seoDescription": "Read Sita Mangalashtakam in Sanskrit with Hindi meaning. Eight auspicious verses for Mata Sita's blessings and saubhagya.",
     "verseCount": 8,

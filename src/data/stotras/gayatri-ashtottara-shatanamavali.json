@@ -1,5 +1,5 @@
 {
-    "id": "819",
+    "id": "259",
     "title": "गायत्री अष्टोत्तर शतनामावली",
     "titleEn": "Gayatri Ashtottara Shatanamavali",
     "slug": "gayatri-ashtottara-shatanamavali",
@@ -15,10 +15,23 @@
         "Ideal for Gayatri Jayanti and daily Sandhya Vandana"
     ],
     "deity": "gayatri",
-    "secondaryDeities": ["saraswati", "savitri"],
-    "days": ["sunday", "wednesday"],
-    "festivals": ["gayatri-jayanti"],
-    "purposes": ["knowledge", "spiritual-growth", "archana-puja", "devotion"],
+    "secondaryDeities": [
+        "saraswati",
+        "savitri"
+    ],
+    "days": [
+        "sunday",
+        "wednesday"
+    ],
+    "festivals": [
+        "gayatri-jayanti"
+    ],
+    "purposes": [
+        "knowledge",
+        "spiritual-growth",
+        "archana-puja",
+        "devotion"
+    ],
     "readingTimeMinutes": 8,
     "seoDescription": "Read Gayatri Ashtottara Shatanamavali - 108 names of Gayatri Mata in Sanskrit with Hindi meaning for archana and spiritual growth.",
     "verseCount": 108,

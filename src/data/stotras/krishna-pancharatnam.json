@@ -1,5 +1,5 @@
 {
-    "id": "833",
+    "id": "412",
     "title": "कृष्ण पञ्चरत्नम्",
     "titleEn": "Krishna Pancharatnam",
     "slug": "krishna-pancharatnam",
@@ -15,10 +15,23 @@
         "Ideal for Janmashtami, Holi, and daily Krishna bhajan"
     ],
     "deity": "krishna",
-    "secondaryDeities": ["radha", "vishnu"],
-    "days": ["wednesday"],
-    "festivals": ["janmashtami", "holi"],
-    "purposes": ["devotion", "love", "moksha", "peace"],
+    "secondaryDeities": [
+        "radha",
+        "vishnu"
+    ],
+    "days": [
+        "wednesday"
+    ],
+    "festivals": [
+        "janmashtami",
+        "holi"
+    ],
+    "purposes": [
+        "devotion",
+        "love",
+        "moksha",
+        "peace"
+    ],
     "readingTimeMinutes": 3,
     "seoDescription": "Read Krishna Pancharatnam in Sanskrit with Hindi meaning. Five jewel-verses declaring Krishna as the supreme tattva for devotion.",
     "verseCount": 5,

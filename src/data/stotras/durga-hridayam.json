@@ -1,5 +1,5 @@
 {
-    "id": "836",
+    "id": "202",
     "title": "दुर्गा हृदयम्",
     "titleEn": "Durga Hridayam",
     "slug": "durga-hridayam",
@@ -15,10 +15,25 @@
         "Supreme recitation during Navratri and Durga Puja"
     ],
     "deity": "durga",
-    "secondaryDeities": ["parvati", "kali"],
-    "days": ["tuesday", "friday"],
-    "festivals": ["navratri", "durga-puja", "dussehra"],
-    "purposes": ["protection", "health", "prosperity", "devotion"],
+    "secondaryDeities": [
+        "parvati",
+        "kali"
+    ],
+    "days": [
+        "tuesday",
+        "friday"
+    ],
+    "festivals": [
+        "navratri",
+        "durga-puja",
+        "dussehra"
+    ],
+    "purposes": [
+        "protection",
+        "health",
+        "prosperity",
+        "devotion"
+    ],
     "readingTimeMinutes": 5,
     "seoDescription": "Read Durga Hridayam in Sanskrit with Hindi meaning. Heart hymn of Goddess Durga for supreme protection and Navadurga blessings.",
     "verseCount": 9,

@@ -1,5 +1,5 @@
 {
-    "id": "830",
+    "id": "446",
     "title": "लक्ष्मी पञ्चरत्नम्",
     "titleEn": "Lakshmi Pancharatnam",
     "slug": "lakshmi-pancharatnam",
@@ -15,10 +15,23 @@
         "Ideal for Friday worship and Diwali Lakshmi Puja"
     ],
     "deity": "lakshmi",
-    "secondaryDeities": ["vishnu"],
-    "days": ["friday"],
-    "festivals": ["diwali", "sharad-purnima", "akshaya-tritiya"],
-    "purposes": ["wealth", "prosperity", "saubhagya", "devotion"],
+    "secondaryDeities": [
+        "vishnu"
+    ],
+    "days": [
+        "friday"
+    ],
+    "festivals": [
+        "diwali",
+        "sharad-purnima",
+        "akshaya-tritiya"
+    ],
+    "purposes": [
+        "wealth",
+        "prosperity",
+        "saubhagya",
+        "devotion"
+    ],
     "readingTimeMinutes": 3,
     "seoDescription": "Read Lakshmi Pancharatnam in Sanskrit with Hindi meaning. Five jewel-verses of Goddess Lakshmi for wealth and prosperity.",
     "verseCount": 5,

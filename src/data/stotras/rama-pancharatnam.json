@@ -1,5 +1,5 @@
 {
-    "id": "831",
+    "id": "614",
     "title": "राम पञ्चरत्नम्",
     "titleEn": "Rama Pancharatnam",
     "slug": "rama-pancharatnam",
@@ -15,10 +15,23 @@
         "Ideal for Ram Navami, Tuesday, and daily worship"
     ],
     "deity": "rama",
-    "secondaryDeities": ["sita", "hanuman"],
-    "days": ["tuesday"],
-    "festivals": ["ram-navami", "dussehra"],
-    "purposes": ["devotion", "moksha", "sin-removal", "peace"],
+    "secondaryDeities": [
+        "sita",
+        "hanuman"
+    ],
+    "days": [
+        "tuesday"
+    ],
+    "festivals": [
+        "ram-navami",
+        "dussehra"
+    ],
+    "purposes": [
+        "devotion",
+        "moksha",
+        "sin-removal",
+        "peace"
+    ],
     "readingTimeMinutes": 3,
     "seoDescription": "Read Rama Pancharatnam in Sanskrit with Hindi meaning. Five jewel-verses of Lord Rama for devotion, moksha, and sin removal.",
     "verseCount": 5,

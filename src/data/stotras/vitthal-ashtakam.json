@@ -1,5 +1,5 @@
 {
-    "id": "808",
+    "id": "896",
     "title": "विठ्ठल अष्टकम्",
     "titleEn": "Vitthal Ashtakam",
     "slug": "vitthal-ashtakam",
@@ -15,10 +15,24 @@
         "Ideal for daily recitation and Ekadashi worship"
     ],
     "deity": "vitthal",
-    "secondaryDeities": ["krishna", "vishnu"],
-    "days": ["thursday", "ekadashi"],
-    "festivals": ["ashadhi-ekadashi", "kartiki-ekadashi"],
-    "purposes": ["devotion", "moksha", "sin-removal", "peace"],
+    "secondaryDeities": [
+        "krishna",
+        "vishnu"
+    ],
+    "days": [
+        "thursday",
+        "ekadashi"
+    ],
+    "festivals": [
+        "ashadhi-ekadashi",
+        "kartiki-ekadashi"
+    ],
+    "purposes": [
+        "devotion",
+        "moksha",
+        "sin-removal",
+        "peace"
+    ],
     "readingTimeMinutes": 3,
     "seoDescription": "Read Vitthal Ashtakam in Sanskrit with Hindi meaning. Eight verses glorifying Lord Vitthal of Pandharpur for devotion and moksha.",
     "verseCount": 8,

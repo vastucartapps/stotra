@@ -1,5 +1,5 @@
 {
-    "id": "837",
+    "id": "758",
     "title": "श्यामसुन्दर स्तोत्रम्",
     "titleEn": "Shyama Sundara Stotram",
     "slug": "shyama-sundara-stotram",
@@ -15,10 +15,22 @@
         "Ideal for Janmashtami, Holi, and daily Krishna worship"
     ],
     "deity": "krishna",
-    "secondaryDeities": ["radha"],
-    "days": ["wednesday"],
-    "festivals": ["janmashtami", "holi"],
-    "purposes": ["devotion", "love", "peace", "moksha"],
+    "secondaryDeities": [
+        "radha"
+    ],
+    "days": [
+        "wednesday"
+    ],
+    "festivals": [
+        "janmashtami",
+        "holi"
+    ],
+    "purposes": [
+        "devotion",
+        "love",
+        "peace",
+        "moksha"
+    ],
     "readingTimeMinutes": 4,
     "seoDescription": "Read Shyama Sundara Stotram in Sanskrit with Hindi meaning. Beautiful hymn to Krishna's enchanting Vrindavan form for divine love.",
     "verseCount": 8,

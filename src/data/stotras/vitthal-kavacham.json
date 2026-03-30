@@ -1,5 +1,5 @@
 {
-    "id": "807",
+    "id": "898",
     "title": "विठ्ठल कवचम्",
     "titleEn": "Vitthal Kavacham",
     "slug": "vitthal-kavacham",
@@ -15,10 +15,24 @@
         "Essential for Varkari devotees during pilgrimage"
     ],
     "deity": "vitthal",
-    "secondaryDeities": ["vishnu", "krishna"],
-    "days": ["thursday", "ekadashi"],
-    "festivals": ["ashadhi-ekadashi", "kartiki-ekadashi"],
-    "purposes": ["protection", "devotion", "sin-removal", "spiritual-growth"],
+    "secondaryDeities": [
+        "vishnu",
+        "krishna"
+    ],
+    "days": [
+        "thursday",
+        "ekadashi"
+    ],
+    "festivals": [
+        "ashadhi-ekadashi",
+        "kartiki-ekadashi"
+    ],
+    "purposes": [
+        "protection",
+        "devotion",
+        "sin-removal",
+        "spiritual-growth"
+    ],
     "readingTimeMinutes": 5,
     "seoDescription": "Read Vitthal Kavacham in Sanskrit with Hindi meaning. Divine armor of Lord Vitthal of Pandharpur for complete protection.",
     "verseCount": 9,

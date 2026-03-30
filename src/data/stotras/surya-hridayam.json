@@ -1,5 +1,5 @@
 {
-    "id": "827",
+    "id": "797",
     "title": "सूर्य हृदयम्",
     "titleEn": "Surya Hridayam",
     "slug": "surya-hridayam",
@@ -15,10 +15,24 @@
         "Revealed by Sage Agastya to Lord Rama before battle"
     ],
     "deity": "surya",
-    "secondaryDeities": ["rama", "vishnu"],
-    "days": ["sunday"],
-    "festivals": ["makar-sankranti", "chhath-puja", "ratha-saptami"],
-    "purposes": ["victory", "health", "protection", "sin-removal"],
+    "secondaryDeities": [
+        "rama",
+        "vishnu"
+    ],
+    "days": [
+        "sunday"
+    ],
+    "festivals": [
+        "makar-sankranti",
+        "chhath-puja",
+        "ratha-saptami"
+    ],
+    "purposes": [
+        "victory",
+        "health",
+        "protection",
+        "sin-removal"
+    ],
     "readingTimeMinutes": 6,
     "seoDescription": "Read Surya Hridayam (Aditya Hridayam) in Sanskrit with Hindi meaning. Heart hymn of Surya for victory, health, and protection.",
     "verseCount": 12,

@@ -1,5 +1,5 @@
 {
-    "id": "809",
+    "id": "518",
     "title": "नरसिंह पञ्चरत्नम्",
     "titleEn": "Narasimha Pancharatnam",
     "slug": "narasimha-pancharatnam",
@@ -15,10 +15,23 @@
         "Ideal for Narasimha Jayanti and daily protection prayers"
     ],
     "deity": "narasimha",
-    "secondaryDeities": ["lakshmi", "vishnu"],
-    "days": ["saturday", "tuesday"],
-    "festivals": ["narasimha-jayanti"],
-    "purposes": ["protection", "fear-removal", "sin-removal", "devotion"],
+    "secondaryDeities": [
+        "lakshmi",
+        "vishnu"
+    ],
+    "days": [
+        "saturday",
+        "tuesday"
+    ],
+    "festivals": [
+        "narasimha-jayanti"
+    ],
+    "purposes": [
+        "protection",
+        "fear-removal",
+        "sin-removal",
+        "devotion"
+    ],
     "readingTimeMinutes": 4,
     "seoDescription": "Read Narasimha Pancharatnam in Sanskrit with Hindi meaning. Five jewel-verses of Lord Narasimha for divine protection and fear removal.",
     "verseCount": 5,
