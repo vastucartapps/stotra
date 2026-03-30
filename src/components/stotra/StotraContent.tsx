@@ -156,6 +156,22 @@ export function StotraContent({ stotra, deity }: StotraContentProps) {
         </div>
       )}
 
+      {/* About This Stotra */}
+      {stotra.description && (
+        <div className="mx-6 md:mx-8 mt-6">
+          <div className="bg-cream/50 rounded-xl border border-border-light p-5 md:p-6">
+            <h2 className="font-serif text-sm font-semibold text-brand uppercase tracking-wider mb-3">
+              About {stotra.titleEn}
+            </h2>
+            <div className="text-sm md:text-[15px] text-text-light leading-relaxed md:leading-[1.85] space-y-3">
+              {stotra.description.split("\n\n").map((para, i) => (
+                <p key={i}>{para}</p>
+              ))}
+            </div>
+          </div>
+        </div>
+      )}
+
       {/* Devanagari Text */}
       <div className="p-6 md:p-8">
         <h3 className="font-serif text-sm font-semibold text-brand uppercase tracking-wider mb-4">

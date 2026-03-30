@@ -15,6 +15,7 @@ export interface Stotra {
   festivals: FestivalId[];
   purposes: PurposeId[];
   readingTimeMinutes: number;
+  description?: string;
   seoDescription: string;
   verseCount: number;
   source: string;
