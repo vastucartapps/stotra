@@ -170,6 +170,71 @@ export default function Home() {
         </div>
       </section>
 
+      {/* -- Featured: Bhagavad Gita + Vrat Katha -- */}
+      <section className="py-12 md:py-16 bg-cream-mid/50">
+        <div className="mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+            {/* Bhagavad Gita Card */}
+            <Link
+              href="/gita"
+              className="group relative overflow-hidden rounded-2xl p-8 md:p-10 border-2 border-gold/20 hover:border-gold/50 hover:shadow-glow-gold transition-all duration-300"
+              style={{ background: 'linear-gradient(135deg, #013f47 0%, #01303a 100%)' }}
+            >
+              <div className="absolute inset-0 opacity-[0.07]">
+                <div className="absolute inset-0" style={{ backgroundImage: `url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M30 0L60 30L30 60L0 30Z' fill='none' stroke='%23DAA520' stroke-width='0.6'/%3E%3C/svg%3E")`, backgroundSize: "60px 60px" }} />
+              </div>
+              <div className="absolute top-0 right-0 w-48 h-48 opacity-[0.04] pointer-events-none">
+                <img src="/images/deities/krishna.svg" alt="" className="w-full h-full" style={{ filter: 'brightness(0) invert(1)' }} />
+              </div>
+              <div className="relative">
+                <div className="flex items-center gap-3 mb-5">
+                  <div className="w-8 h-[2px] bg-gradient-to-r from-gold to-saffron" />
+                  <span className="text-xs font-bold uppercase tracking-[0.15em]" style={{ color: '#DAA520' }}>श्रीमद्भगवद्गीता</span>
+                </div>
+                <h3 className="font-serif text-2xl md:text-3xl font-bold text-white mb-2 group-hover:text-gold transition-colors duration-300">
+                  Bhagavad Gita
+                </h3>
+                <p className="text-white/50 text-sm leading-relaxed mb-6 max-w-sm">
+                  All 18 chapters of the divine song of Lord Krishna — 700 verses in Sanskrit with Hindi meaning and transliteration.
+                </p>
+                <span className="inline-flex items-center gap-2 text-sm font-semibold group-hover:gap-3 transition-all duration-200" style={{ color: '#DAA520' }}>
+                  Read All Chapters <span>&rarr;</span>
+                </span>
+              </div>
+            </Link>
+
+            {/* Vrat Katha Card */}
+            <Link
+              href="/vrat-katha"
+              className="group relative overflow-hidden rounded-2xl p-8 md:p-10 border-2 border-gold/20 hover:border-gold/50 hover:shadow-glow-gold transition-all duration-300"
+              style={{ background: 'linear-gradient(135deg, #013f47 0%, #01303a 100%)' }}
+            >
+              <div className="absolute inset-0 opacity-[0.07]">
+                <div className="absolute inset-0" style={{ backgroundImage: `url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M30 0L60 30L30 60L0 30Z' fill='none' stroke='%23DAA520' stroke-width='0.6'/%3E%3C/svg%3E")`, backgroundSize: "60px 60px" }} />
+              </div>
+              <div className="absolute top-0 right-0 w-48 h-48 opacity-[0.04] pointer-events-none">
+                <img src="/images/festivals/diwali.svg" alt="" className="w-full h-full" style={{ filter: 'brightness(0) invert(1)' }} />
+              </div>
+              <div className="relative">
+                <div className="flex items-center gap-3 mb-5">
+                  <div className="w-8 h-[2px] bg-gradient-to-r from-gold to-saffron" />
+                  <span className="text-xs font-bold uppercase tracking-[0.15em]" style={{ color: '#DAA520' }}>व्रत कथा संग्रह</span>
+                </div>
+                <h3 className="font-serif text-2xl md:text-3xl font-bold text-white mb-2 group-hover:text-gold transition-colors duration-300">
+                  Vrat Katha
+                </h3>
+                <p className="text-white/50 text-sm leading-relaxed mb-6 max-w-sm">
+                  Complete collection of Hindu fasting stories — 7 weekly vrats, 12-month festival kathas, and special occasion kathas in Hindi.
+                </p>
+                <span className="inline-flex items-center gap-2 text-sm font-semibold group-hover:gap-3 transition-all duration-200" style={{ color: '#DAA520' }}>
+                  Browse All Kathas <span>&rarr;</span>
+                </span>
+              </div>
+            </Link>
+          </div>
+        </div>
+      </section>
+
       {/* -- Today's Stotras -- */}
       {todaysStotras.length > 0 && (
         <section className="py-16 bg-cream-mid/50">
@@ -375,63 +440,6 @@ export default function Home() {
                 <span className="text-text-muted text-xs">{purpose.nameHi}</span>
               </Link>
             ))}
-          </div>
-        </div>
-      </section>
-
-      {/* -- Featured: Bhagavad Gita + Vrat Katha -- */}
-      <section className="py-16 md:py-20">
-        <div className="mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8">
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            {/* Bhagavad Gita Card */}
-            <Link
-              href="/gita"
-              className="group relative overflow-hidden rounded-2xl bg-brand p-8 md:p-10 border border-brand hover:shadow-glow-gold transition-all duration-300"
-            >
-              <div className="absolute inset-0 opacity-[0.06]">
-                <div className="absolute inset-0" style={{ backgroundImage: `url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M30 0L60 30L30 60L0 30Z' fill='none' stroke='%23DAA520' stroke-width='0.5'/%3E%3C/svg%3E")`, backgroundSize: "60px 60px" }} />
-              </div>
-              <div className="relative">
-                <div className="flex items-center gap-3 mb-4">
-                  <div className="w-8 h-[2px] bg-saffron" />
-                  <span className="text-saffron text-xs font-bold uppercase tracking-[0.15em]">श्रीमद्भगवद्गीता</span>
-                </div>
-                <h3 className="font-serif text-2xl md:text-3xl font-bold text-white mb-3 group-hover:text-gold transition-colors">
-                  Bhagavad Gita
-                </h3>
-                <p className="text-white/60 text-sm leading-relaxed mb-6 max-w-sm">
-                  All 18 chapters of the divine song of Lord Krishna — 700 verses in Sanskrit with Hindi meaning and transliteration.
-                </p>
-                <span className="inline-flex items-center gap-2 text-saffron text-sm font-medium group-hover:gap-3 transition-all">
-                  Read All Chapters <span>&rarr;</span>
-                </span>
-              </div>
-            </Link>
-
-            {/* Vrat Katha Card */}
-            <Link
-              href="/vrat-katha"
-              className="group relative overflow-hidden rounded-2xl bg-brand p-8 md:p-10 border border-brand hover:shadow-glow-gold transition-all duration-300"
-            >
-              <div className="absolute inset-0 opacity-[0.06]">
-                <div className="absolute inset-0" style={{ backgroundImage: `url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M30 0L60 30L30 60L0 30Z' fill='none' stroke='%23DAA520' stroke-width='0.5'/%3E%3C/svg%3E")`, backgroundSize: "60px 60px" }} />
-              </div>
-              <div className="relative">
-                <div className="flex items-center gap-3 mb-4">
-                  <div className="w-8 h-[2px] bg-saffron" />
-                  <span className="text-saffron text-xs font-bold uppercase tracking-[0.15em]">व्रत कथा संग्रह</span>
-                </div>
-                <h3 className="font-serif text-2xl md:text-3xl font-bold text-white mb-3 group-hover:text-gold transition-colors">
-                  Vrat Katha
-                </h3>
-                <p className="text-white/60 text-sm leading-relaxed mb-6 max-w-sm">
-                  Complete collection of Hindu fasting stories — 7 weekly vrats, 12-month festival kathas, and special occasion kathas in Hindi.
-                </p>
-                <span className="inline-flex items-center gap-2 text-saffron text-sm font-medium group-hover:gap-3 transition-all">
-                  Browse All Kathas <span>&rarr;</span>
-                </span>
-              </div>
-            </Link>
           </div>
         </div>
       </section>
