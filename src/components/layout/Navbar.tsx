@@ -14,6 +14,7 @@ const NAV_LINKS = [
   { label: "Today", href: "/today" },
   { label: "By Day", href: "/day" },
   { label: "Festivals", href: "/festival" },
+  { label: "Bhagavad Gita", href: "/gita" },
   { label: "All Stotras", href: "/stotra" },
 ];
 

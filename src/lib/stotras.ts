@@ -136,6 +136,28 @@ export function getRelatedStotras(stotra: Stotra, limit = 4): Stotra[] {
   return scored.slice(0, limit).map((s) => s.stotra);
 }
 
+export function getBhagavadGitaChapters(): Stotra[] {
+  return getAllStotras()
+    .filter((s) => s.slug.startsWith("bhagavad-gita-chapter-"))
+    .sort((a, b) => {
+      const numA = parseInt(a.slug.replace("bhagavad-gita-chapter-", ""));
+      const numB = parseInt(b.slug.replace("bhagavad-gita-chapter-", ""));
+      return numA - numB;
+    });
+}
+
+export function getBhagavadGitaSupportingTexts(): Stotra[] {
+  const supportSlugs = [
+    "bhagavad-gita-dhyana-shloka",
+    "bhagavad-gita-dhyanam",
+    "bhagavad-gita-mahatmya",
+    "gita-mahatmya",
+    "gita-sara",
+    "saptashloki-gita",
+  ];
+  return getAllStotras().filter((s) => supportSlugs.includes(s.slug));
+}
+
 export function getStotraCount(): number {
   return getAllStotras().length;
 }
