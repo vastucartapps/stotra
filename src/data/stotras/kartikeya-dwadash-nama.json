@@ -1,5 +1,5 @@
 {
-    "id": "374",
+    "id": 378,
     "title": "कार्तिकेय द्वादश नाम स्तोत्रम्",
     "titleEn": "Kartikeya Dwadash Nama Stotram",
     "slug": "kartikeya-dwadash-nama",
@@ -24,14 +24,15 @@
         "thursday"
     ],
     "festivals": [
-        "skanda-shashthi",
+        "skanda-shashti",
         "kartik-purnima"
     ],
     "purposes": [
         "protection",
         "victory",
         "health",
-        "education"
+        "education",
+        "devotion"
     ],
     "readingTimeMinutes": 3,
     "seoDescription": "Recite Kartikeya Dwadash Nama - 12 names of Lord Kartikeya (Skanda/Murugan) in Sanskrit with Hindi meaning for victory, health, and knowledge.",

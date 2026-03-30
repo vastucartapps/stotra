@@ -1,5 +1,5 @@
 {
-    "id": "192",
+    "id": 193,
     "title": "धूमावती स्तोत्रम्",
     "titleEn": "Dhumavati Stotram",
     "slug": "dhumavati-stotram",
@@ -24,7 +24,7 @@
         "Grants victory in conflicts, quarrels, and enmities",
         "Unique among Mahavidyas — worshipped for removing negativity, not for gaining luxury"
     ],
-    "deity": "durga",
+    "deity": "kali",
     "secondaryDeities": [],
     "days": [
         "saturday",

@@ -1,5 +1,5 @@
 {
-    "id": "896",
+    "id": 901,
     "title": "विठ्ठल अष्टकम्",
     "titleEn": "Vitthal Ashtakam",
     "slug": "vitthal-ashtakam",
@@ -20,8 +20,7 @@
         "vishnu"
     ],
     "days": [
-        "thursday",
-        "ekadashi"
+        "thursday"
     ],
     "festivals": [
         "ashadhi-ekadashi",

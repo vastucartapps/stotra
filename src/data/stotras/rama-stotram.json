@@ -1,5 +1,5 @@
 {
-    "id": "616",
+    "id": 621,
     "title": "राम स्तोत्रम्",
     "titleEn": "Rama Stotram",
     "slug": "rama-stotram",
@@ -22,7 +22,6 @@
         "lakshmana"
     ],
     "days": [
-        "tuesday",
         "thursday",
         "sunday"
     ],

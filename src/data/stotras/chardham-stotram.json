@@ -1,5 +1,5 @@
 {
-    "id": "130",
+    "id": 131,
     "title": "चारधाम स्तोत्रम्",
     "titleEn": "Char Dham Stotram",
     "slug": "chardham-stotram",
@@ -24,7 +24,7 @@
         "monday"
     ],
     "festivals": [
-        "dev-uthani-ekadashi",
+        "devuthani-ekadashi",
         "rath-yatra"
     ],
     "purposes": [

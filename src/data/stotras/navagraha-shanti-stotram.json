@@ -1,5 +1,5 @@
 {
-    "id": "874",
+    "id": 545,
     "title": "नवग्रह शान्ति स्तोत्रम्",
     "titleEn": "Navagraha Shanti Stotram",
     "slug": "navagraha-shanti-stotram",
@@ -15,11 +15,28 @@
         "Essential for those undergoing difficult dasha periods",
         "Most widely recited navagraha stotra in Hindu tradition"
     ],
-    "deity": "surya",
-    "secondaryDeities": ["shiva", "vishnu"],
-    "days": ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"],
+    "deity": "navagraha",
+    "secondaryDeities": [
+        "shiva",
+        "vishnu"
+    ],
+    "days": [
+        "sunday",
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday",
+        "saturday"
+    ],
     "festivals": [],
-    "purposes": ["graha-shanti", "obstacle-removal", "protection", "peace"],
+    "purposes": [
+        "graha-shanti",
+        "obstacle-removal",
+        "protection",
+        "peace",
+        "devotion"
+    ],
     "readingTimeMinutes": 5,
     "seoDescription": "Read Navagraha Shanti Stotram by Vyasa in Sanskrit with Hindi meaning. Powerful prayer to pacify all nine planets for peace and obstacle removal.",
     "verseCount": 10,

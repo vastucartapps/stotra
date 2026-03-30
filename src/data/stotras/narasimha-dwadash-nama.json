@@ -1,5 +1,5 @@
 {
-    "id": "510",
+    "id": 514,
     "title": "नरसिंह द्वादश नाम स्तोत्रम्",
     "titleEn": "Narasimha Dwadash Nama Stotram",
     "slug": "narasimha-dwadash-nama",
@@ -19,8 +19,7 @@
         "vishnu"
     ],
     "days": [
-        "saturday",
-        "tuesday"
+        "saturday"
     ],
     "festivals": [
         "narasimha-jayanti"
@@ -29,7 +28,8 @@
         "protection",
         "health",
         "prosperity",
-        "fear-removal"
+        "fear-removal",
+        "devotion"
     ],
     "readingTimeMinutes": 3,
     "seoDescription": "Recite Narasimha Dwadash Nama - 12 sacred names of Lord Narasimha in Sanskrit with Hindi meaning for protection from evil, nightmares, and diseases.",

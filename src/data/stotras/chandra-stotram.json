@@ -1,5 +1,5 @@
 {
-    "id": "127",
+    "id": 128,
     "title": "चन्द्र स्तोत्रम्",
     "titleEn": "Chandra Stotram",
     "slug": "chandra-stotram",
@@ -14,10 +14,8 @@
         "Removes afflictions and bestows auspiciousness",
         "Ideal for Chandra graha shanti and worship"
     ],
-    "deity": "chandra",
-    "secondaryDeities": [
-        "navagraha"
-    ],
+    "deity": "navagraha",
+    "secondaryDeities": [],
     "days": [
         "monday"
     ],
@@ -28,7 +26,8 @@
         "planetary-remedy",
         "peace",
         "health",
-        "mental-health"
+        "mental-health",
+        "devotion"
     ],
     "readingTimeMinutes": 3,
     "seoDescription": "Read Chandra Stotram in Sanskrit with Hindi meaning. Sacred hymn for Chandra graha shanti.",

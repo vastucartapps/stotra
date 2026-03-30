@@ -1,5 +1,5 @@
 {
-    "id": "342",
+    "id": 346,
     "title": "जगन्नाथ सहस्रनाम स्तोत्रम्",
     "titleEn": "Jagannath Sahasranama Stotram",
     "slug": "jagannath-sahasranama",
@@ -29,7 +29,8 @@
     "purposes": [
         "devotion",
         "prosperity",
-        "moksha"
+        "moksha",
+        "archana-puja"
     ],
     "readingTimeMinutes": 6,
     "seoDescription": "Read Jagannath Sahasranama in Sanskrit with Hindi meaning. Thousand names of Lord Jagannath of Puri for bhukti and mukti.",

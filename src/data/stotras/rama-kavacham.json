@@ -1,5 +1,5 @@
 {
-    "id": "611",
+    "id": 616,
     "title": "राम कवचम्",
     "titleEn": "Rama Kavacham",
     "slug": "rama-kavacham",
@@ -30,7 +30,6 @@
         "lakshmana"
     ],
     "days": [
-        "tuesday",
         "thursday",
         "saturday"
     ],

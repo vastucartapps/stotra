@@ -1,5 +1,5 @@
 {
-    "id": "882",
+    "id": 887,
     "title": "विष्णु पञ्चरत्नम्",
     "titleEn": "Vishnu Pancharatnam",
     "slug": "vishnu-pancharatnam",
@@ -19,11 +19,10 @@
         "lakshmi"
     ],
     "days": [
-        "thursday",
-        "ekadashi"
+        "thursday"
     ],
     "festivals": [
-        "dev-uthani-ekadashi"
+        "devuthani-ekadashi"
     ],
     "purposes": [
         "devotion",

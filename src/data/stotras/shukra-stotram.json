@@ -1,5 +1,5 @@
 {
-    "id": "755",
+    "id": 760,
     "title": "शुक्र स्तोत्रम्",
     "titleEn": "Shukra Stotram",
     "slug": "shukra-stotram",
@@ -14,10 +14,8 @@
         "Removes afflictions and bestows auspiciousness",
         "Ideal for Shukra graha shanti and worship"
     ],
-    "deity": "shukra",
-    "secondaryDeities": [
-        "navagraha"
-    ],
+    "deity": "navagraha",
+    "secondaryDeities": [],
     "days": [
         "friday"
     ],
@@ -28,7 +26,8 @@
         "planetary-remedy",
         "saubhagya",
         "love",
-        "wealth"
+        "wealth",
+        "devotion"
     ],
     "readingTimeMinutes": 3,
     "seoDescription": "Read Shukra Stotram in Sanskrit with Hindi meaning. Sacred hymn for Shukra graha shanti.",

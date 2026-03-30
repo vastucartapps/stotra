@@ -1,5 +1,5 @@
 {
-    "id": "116",
+    "id": 117,
     "title": "बुध स्तोत्रम्",
     "titleEn": "Budha Stotram",
     "slug": "budha-stotram",
@@ -14,10 +14,8 @@
         "Removes sins and bestows spiritual merit",
         "Ideal for Budha festivals and daily worship"
     ],
-    "deity": "budha",
-    "secondaryDeities": [
-        "navagraha"
-    ],
+    "deity": "navagraha",
+    "secondaryDeities": [],
     "days": [
         "wednesday"
     ],
@@ -28,7 +26,8 @@
         "planetary-remedy",
         "knowledge",
         "business",
-        "education"
+        "education",
+        "devotion"
     ],
     "readingTimeMinutes": 3,
     "seoDescription": "Read Budha Stotram in Sanskrit with Hindi meaning. Sacred hymn for Budha devotion and blessings.",

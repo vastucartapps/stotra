@@ -1,5 +1,5 @@
 {
-    "id": "375",
+    "id": 379,
     "title": "कार्तिकेय हृदयम्",
     "titleEn": "Kartikeya Hridayam",
     "slug": "kartikeya-hridayam",
@@ -23,7 +23,7 @@
         "tuesday"
     ],
     "festivals": [
-        "skanda-shashthi"
+        "skanda-shashti"
     ],
     "purposes": [
         "protection",

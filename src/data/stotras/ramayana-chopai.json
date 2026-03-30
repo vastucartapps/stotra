@@ -1,5 +1,5 @@
 {
-    "id": "617",
+    "id": 622,
     "title": "रामायण चौपाई",
     "titleEn": "Ramayana Chopai",
     "slug": "ramayana-chopai",
@@ -22,7 +22,6 @@
     ],
     "days": [
         "sunday",
-        "tuesday",
         "thursday"
     ],
     "festivals": [

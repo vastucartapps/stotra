@@ -1,5 +1,5 @@
 {
-    "id": "873",
+    "id": 286,
     "title": "ग्रह पीड़ा हर स्तोत्रम्",
     "titleEn": "Graha Peeda Hara Stotram",
     "slug": "graha-peeda-hara-stotram",
@@ -16,10 +16,23 @@
         "Ideal for those experiencing multiple planetary afflictions"
     ],
     "deity": "surya",
-    "secondaryDeities": ["shiva", "vishnu"],
-    "days": ["sunday", "saturday"],
+    "secondaryDeities": [
+        "shiva",
+        "vishnu"
+    ],
+    "days": [
+        "sunday",
+        "saturday"
+    ],
     "festivals": [],
-    "purposes": ["graha-shanti", "dosha-removal", "peace", "protection"],
+    "purposes": [
+        "graha-shanti",
+        "dosha-removal",
+        "peace",
+        "protection",
+        "devotion",
+        "health"
+    ],
     "readingTimeMinutes": 3,
     "seoDescription": "Read Graha Peeda Hara Stotram in Sanskrit with Hindi meaning. Universal prayer to pacify all nine planets and remove all planetary afflictions.",
     "verseCount": 6,

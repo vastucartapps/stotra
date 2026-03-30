@@ -1,5 +1,5 @@
 {
-    "id": "475",
+    "id": 479,
     "title": "मङ्गल स्तोत्रम्",
     "titleEn": "Mangal Stotram",
     "slug": "mangal-stotram",
@@ -14,10 +14,8 @@
         "Removes sins and bestows spiritual merit",
         "Ideal for Mangal festivals and daily worship"
     ],
-    "deity": "mangal",
-    "secondaryDeities": [
-        "navagraha"
-    ],
+    "deity": "navagraha",
+    "secondaryDeities": [],
     "days": [
         "tuesday"
     ],
@@ -28,7 +26,8 @@
         "planetary-remedy",
         "protection",
         "courage",
-        "marital-harmony"
+        "marital-harmony",
+        "devotion"
     ],
     "readingTimeMinutes": 3,
     "seoDescription": "Read Mangal Stotram in Sanskrit with Hindi meaning. Sacred hymn for Mangal devotion and blessings.",

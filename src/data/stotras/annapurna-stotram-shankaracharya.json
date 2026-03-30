@@ -1,5 +1,5 @@
 {
-    "id": "20",
+    "id": 21,
     "title": "अन्नपूर्णा स्तोत्रम् (शंकराचार्य)",
     "titleEn": "Annapurna Stotram Shankaracharya",
     "slug": "annapurna-stotram-shankaracharya",
@@ -14,10 +14,8 @@
         "Removes sins and bestows spiritual merit",
         "Ideal for Annapurna festivals and daily worship"
     ],
-    "deity": "annapurna",
-    "secondaryDeities": [
-        "parvati"
-    ],
+    "deity": "parvati",
+    "secondaryDeities": [],
     "days": [
         "friday",
         "monday"

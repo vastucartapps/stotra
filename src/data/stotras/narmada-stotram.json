@@ -1,5 +1,5 @@
 {
-    "id": "529",
+    "id": 533,
     "title": "नर्मदा स्तोत्रम्",
     "titleEn": "Narmada Stotram",
     "slug": "narmada-stotram",
@@ -14,7 +14,7 @@
         "Removes sins and bestows spiritual merit",
         "Ideal for Narmada festivals and daily worship"
     ],
-    "deity": "narmada",
+    "deity": "ganga",
     "secondaryDeities": [
         "shiva"
     ],
@@ -22,7 +22,7 @@
         "monday"
     ],
     "festivals": [
-        "maha-shivratri"
+        "maha-shivaratri"
     ],
     "purposes": [
         "sin-removal",

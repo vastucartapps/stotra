@@ -1,5 +1,5 @@
 {
-    "id": "875",
+    "id": 3,
     "title": "आदित्य कवचम्",
     "titleEn": "Aditya Kavacham",
     "slug": "aditya-kavacham",
@@ -17,9 +17,19 @@
     ],
     "deity": "surya",
     "secondaryDeities": [],
-    "days": ["sunday"],
-    "festivals": ["makar-sankranti", "ratha-saptami"],
-    "purposes": ["health", "protection", "longevity", "vitality"],
+    "days": [
+        "sunday"
+    ],
+    "festivals": [
+        "makar-sankranti",
+        "ratha-saptami"
+    ],
+    "purposes": [
+        "health",
+        "protection",
+        "longevity",
+        "vitality"
+    ],
     "readingTimeMinutes": 5,
     "seoDescription": "Read Aditya Kavacham in Sanskrit with Hindi meaning. Protective armor of Lord Surya by Sage Agastya for health, longevity, and vitality.",
     "verseCount": 8,

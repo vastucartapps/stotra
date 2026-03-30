@@ -1,5 +1,5 @@
 {
-    "id": "903",
+    "id": 908,
     "title": "विवाह प्राप्ति स्तोत्रम्",
     "titleEn": "Vivaha Prapti Stotram",
     "slug": "vivaha-prapti-stotram",
@@ -27,13 +27,14 @@
     ],
     "festivals": [
         "navratri",
-        "vivaha-panchami"
+        "vivah-panchami"
     ],
     "purposes": [
         "marriage",
         "love",
         "saubhagya",
-        "mangal-dosh"
+        "mangal-dosh",
+        "devotion"
     ],
     "readingTimeMinutes": 4,
     "seoDescription": "Read Vivaha Prapti Stotram in Sanskrit with Hindi meaning. Powerful prayer to Parvati and Katyayani for early marriage and finding a suitable partner.",

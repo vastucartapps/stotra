@@ -1,5 +1,5 @@
 {
-    "id": "93",
+    "id": 94,
     "title": "भय निवारण स्तोत्रम्",
     "titleEn": "Bhaya Nivaran Stotram",
     "slug": "bhaya-nivaran-stotram",
@@ -18,7 +18,6 @@
     "deity": "narasimha",
     "secondaryDeities": [],
     "days": [
-        "tuesday",
         "saturday"
     ],
     "festivals": [

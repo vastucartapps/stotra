@@ -1,5 +1,5 @@
 {
-    "id": "776",
+    "id": 781,
     "title": "सौन्दर्यलहरी (चयन)",
     "titleEn": "Soundarya Lahari Excerpt",
     "slug": "soundarya-lahari-excerpt",
@@ -14,9 +14,8 @@
         "Removes sins and bestows spiritual merit",
         "Ideal for Lalita festivals and daily worship"
     ],
-    "deity": "lalita",
+    "deity": "parvati",
     "secondaryDeities": [
-        "parvati",
         "tripurasundari"
     ],
     "days": [

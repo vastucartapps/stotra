@@ -1,5 +1,5 @@
 {
-    "id": "819",
+    "id": 824,
     "title": "त्रिपुरसुन्दरी पञ्चरत्नम्",
     "titleEn": "Tripura Sundari Pancharatnam",
     "slug": "tripura-sundari-pancharatnam",
@@ -14,9 +14,8 @@
         "Removes sins and bestows spiritual merit",
         "Ideal for Tripurasundari festivals and daily worship"
     ],
-    "deity": "tripurasundari",
+    "deity": "parvati",
     "secondaryDeities": [
-        "parvati",
         "lalita"
     ],
     "days": [

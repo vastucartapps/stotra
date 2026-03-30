@@ -1,5 +1,5 @@
 {
-    "id": "884",
+    "id": 889,
     "title": "विष्णु सहस्रनाम ध्यानम्",
     "titleEn": "Vishnu Sahasranama Dhyanam",
     "slug": "vishnu-sahasranama-dhyanam",
@@ -19,17 +19,17 @@
         "lakshmi"
     ],
     "days": [
-        "thursday",
-        "ekadashi"
+        "thursday"
     ],
     "festivals": [
-        "dev-uthani-ekadashi"
+        "devuthani-ekadashi"
     ],
     "purposes": [
         "devotion",
         "moksha",
         "peace",
-        "sin-removal"
+        "sin-removal",
+        "archana-puja"
     ],
     "readingTimeMinutes": 3,
     "seoDescription": "Read Vishnu Sahasranama Dhyanam in Sanskrit with Hindi meaning. Sacred hymn for Vishnu devotion.",

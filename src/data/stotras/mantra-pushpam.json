@@ -1,5 +1,5 @@
 {
-    "id": "478",
+    "id": 482,
     "title": "मन्त्रपुष्पम्",
     "titleEn": "Mantra Pushpam",
     "slug": "mantra-pushpam",
@@ -14,9 +14,8 @@
         "Removes sins and bestows spiritual merit",
         "Ideal for Vedic festivals and daily worship"
     ],
-    "deity": "vedic",
+    "deity": "vishnu",
     "secondaryDeities": [
-        "vishnu",
         "shiva"
     ],
     "days": [

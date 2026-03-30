@@ -1,5 +1,5 @@
 {
-    "id": "899",
+    "id": 904,
     "title": "विठ्ठल सहस्रनाम स्तोत्रम्",
     "titleEn": "Vitthal Sahasranama Stotram",
     "slug": "vitthal-sahasranama",
@@ -20,8 +20,7 @@
         "vishnu"
     ],
     "days": [
-        "thursday",
-        "ekadashi"
+        "thursday"
     ],
     "festivals": [
         "ashadhi-ekadashi",

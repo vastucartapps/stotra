@@ -1,5 +1,5 @@
 {
-    "id": "398",
+    "id": 402,
     "title": "श्री कोदण्ड राम स्तोत्रम्",
     "titleEn": "Kodanda Rama Stotram",
     "slug": "kodanda-rama-stotram",
@@ -29,8 +29,7 @@
         "hanuman"
     ],
     "days": [
-        "sunday",
-        "tuesday"
+        "sunday"
     ],
     "festivals": [
         "ram-navami",

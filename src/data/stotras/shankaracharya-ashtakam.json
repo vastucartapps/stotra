@@ -1,5 +1,5 @@
 {
-    "id": "694",
+    "id": 699,
     "title": "शंकराचार्य अष्टकम्",
     "titleEn": "Shankaracharya Ashtakam",
     "slug": "shankaracharya-ashtakam",
@@ -14,10 +14,8 @@
         "Removes sins and bestows spiritual merit",
         "Ideal for Shankaracharya festivals and daily worship"
     ],
-    "deity": "shankaracharya",
-    "secondaryDeities": [
-        "shiva"
-    ],
+    "deity": "shiva",
+    "secondaryDeities": [],
     "days": [
         "thursday",
         "monday"

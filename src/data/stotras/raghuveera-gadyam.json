@@ -1,5 +1,5 @@
 {
-    "id": "594",
+    "id": 599,
     "title": "श्री रघुवीर गद्यम्",
     "titleEn": "Raghuveera Gadyam",
     "slug": "raghuveera-gadyam",
@@ -29,8 +29,7 @@
         "hanuman"
     ],
     "days": [
-        "sunday",
-        "tuesday"
+        "sunday"
     ],
     "festivals": [
         "ram-navami",

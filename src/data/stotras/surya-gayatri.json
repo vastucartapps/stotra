@@ -1,5 +1,5 @@
 {
-    "id": "796",
+    "id": 801,
     "title": "सूर्य गायत्री",
     "titleEn": "Surya Gayatri",
     "slug": "surya-gayatri",
@@ -28,7 +28,8 @@
         "health",
         "vitality",
         "success",
-        "graha-shanti"
+        "graha-shanti",
+        "japa"
     ],
     "readingTimeMinutes": 2,
     "seoDescription": "Chant Surya Gayatri Mantra in Sanskrit with Hindi meaning. Three powerful Gayatri mantras for Lord Surya for health, vitality, and graha shanti.",

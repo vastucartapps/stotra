@@ -1,5 +1,5 @@
 {
-    "id": "820",
+    "id": 825,
     "title": "त्रिपुर सुन्दरी सहस्रनाम स्तोत्रम्",
     "titleEn": "Tripura Sundari Sahasranama",
     "slug": "tripura-sundari-sahasranama",
@@ -15,7 +15,7 @@
         "Fulfills all material and spiritual desires",
         "Sacred for Navratri recitation and Lalita worship"
     ],
-    "deity": "durga",
+    "deity": "parvati",
     "secondaryDeities": [
         "lakshmi",
         "saraswati"
@@ -33,7 +33,8 @@
         "beauty",
         "prosperity",
         "moksha",
-        "devotion"
+        "devotion",
+        "archana-puja"
     ],
     "readingTimeMinutes": 35,
     "seoDescription": "Read Tripura Sundari Sahasranama - 1000 names of Goddess Lalita Tripurasundari from Brahmanda Purana in Sanskrit with Hindi meaning.",

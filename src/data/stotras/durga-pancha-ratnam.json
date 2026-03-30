@@ -1,5 +1,5 @@
 {
-    "id": "876",
+    "id": 207,
     "title": "दुर्गा पञ्चरत्नम्",
     "titleEn": "Durga Pancha Ratnam",
     "slug": "durga-pancha-ratnam",
@@ -16,9 +16,20 @@
     ],
     "deity": "durga",
     "secondaryDeities": [],
-    "days": ["tuesday", "friday"],
-    "festivals": ["navratri", "durga-puja"],
-    "purposes": ["protection", "devotion", "fear-removal", "peace"],
+    "days": [
+        "tuesday",
+        "friday"
+    ],
+    "festivals": [
+        "navratri",
+        "durga-puja"
+    ],
+    "purposes": [
+        "protection",
+        "devotion",
+        "fear-removal",
+        "peace"
+    ],
     "readingTimeMinutes": 3,
     "seoDescription": "Read Durga Pancha Ratnam - five jewel verses of Goddess Durga in Sanskrit with Hindi meaning for protection and divine shelter from all dangers.",
     "verseCount": 5,

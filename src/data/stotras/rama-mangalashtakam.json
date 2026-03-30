@@ -1,5 +1,5 @@
 {
-    "id": "612",
+    "id": 617,
     "title": "राम मङ्गलाष्टकम्",
     "titleEn": "Rama Mangalashtakam",
     "slug": "rama-mangalashtakam",
@@ -22,7 +22,6 @@
         "hanuman"
     ],
     "days": [
-        "tuesday",
         "thursday"
     ],
     "festivals": [

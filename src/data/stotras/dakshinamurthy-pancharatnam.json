@@ -1,5 +1,5 @@
 {
-    "id": "138",
+    "id": 139,
     "title": "दक्षिणामूर्ति पञ्चरत्नम्",
     "titleEn": "Dakshinamurthy Pancharatnam",
     "slug": "dakshinamurthy-pancharatnam",
@@ -14,17 +14,15 @@
         "Removes sins and bestows spiritual merit",
         "Ideal for Dakshinamurthy festivals and daily worship"
     ],
-    "deity": "dakshinamurthy",
-    "secondaryDeities": [
-        "shiva"
-    ],
+    "deity": "shiva",
+    "secondaryDeities": [],
     "days": [
         "thursday",
         "monday"
     ],
     "festivals": [
         "guru-purnima",
-        "maha-shivratri"
+        "maha-shivaratri"
     ],
     "purposes": [
         "knowledge",

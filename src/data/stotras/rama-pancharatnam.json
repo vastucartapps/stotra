@@ -1,5 +1,5 @@
 {
-    "id": "614",
+    "id": 619,
     "title": "राम पञ्चरत्नम्",
     "titleEn": "Rama Pancharatnam",
     "slug": "rama-pancharatnam",
@@ -19,9 +19,7 @@
         "sita",
         "hanuman"
     ],
-    "days": [
-        "tuesday"
-    ],
+    "days": [],
     "festivals": [
         "ram-navami",
         "dussehra"

@@ -1,5 +1,5 @@
 {
-    "id": "877",
+    "id": 206,
     "title": "दुर्गा नवश्लोकी",
     "titleEn": "Durga Nav Shloki",
     "slug": "durga-nav-shloki",
@@ -17,9 +17,21 @@
     ],
     "deity": "durga",
     "secondaryDeities": [],
-    "days": ["tuesday", "friday"],
-    "festivals": ["navratri", "durga-puja"],
-    "purposes": ["protection", "devotion", "fear-removal", "prosperity", "health"],
+    "days": [
+        "tuesday",
+        "friday"
+    ],
+    "festivals": [
+        "navratri",
+        "durga-puja"
+    ],
+    "purposes": [
+        "protection",
+        "devotion",
+        "fear-removal",
+        "prosperity",
+        "health"
+    ],
     "readingTimeMinutes": 4,
     "seoDescription": "Read Durga Nav Shloki - nine essential verses from Devi Mahatmya in Sanskrit with Hindi meaning for protection, prosperity, and fear removal.",
     "verseCount": 9,

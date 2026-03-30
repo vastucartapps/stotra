@@ -1,5 +1,5 @@
 {
-    "id": "212",
+    "id": 215,
     "title": "दशहरा स्तोत्रम्",
     "titleEn": "Dussehra Stotram",
     "slug": "dussehra-stotram",
@@ -20,7 +20,6 @@
         "sita"
     ],
     "days": [
-        "tuesday",
         "thursday"
     ],
     "festivals": [

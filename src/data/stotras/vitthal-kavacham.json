@@ -1,5 +1,5 @@
 {
-    "id": "898",
+    "id": 903,
     "title": "विठ्ठल कवचम्",
     "titleEn": "Vitthal Kavacham",
     "slug": "vitthal-kavacham",
@@ -20,8 +20,7 @@
         "krishna"
     ],
     "days": [
-        "thursday",
-        "ekadashi"
+        "thursday"
     ],
     "festivals": [
         "ashadhi-ekadashi",

@@ -1,5 +1,5 @@
 {
-    "id": "191",
+    "id": 192,
     "title": "श्री धूमावती कवचम्",
     "titleEn": "Dhumavati Kavacham",
     "slug": "dhumavati-kavacham",
@@ -14,10 +14,8 @@
         "Protection from Apamrityu (untimely death) by Dhumavati's grace",
         "Supreme kavacham for warding off negativity and dark forces"
     ],
-    "deity": "durga",
-    "secondaryDeities": [
-        "kali"
-    ],
+    "deity": "kali",
+    "secondaryDeities": [],
     "days": [
         "saturday",
         "tuesday"

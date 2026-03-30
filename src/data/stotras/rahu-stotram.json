@@ -1,5 +1,5 @@
 {
-    "id": "600",
+    "id": 605,
     "title": "राहु स्तोत्रम्",
     "titleEn": "Rahu Stotram",
     "slug": "rahu-stotram",
@@ -14,10 +14,8 @@
         "Removes afflictions and bestows auspiciousness",
         "Ideal for Rahu graha shanti and worship"
     ],
-    "deity": "rahu",
-    "secondaryDeities": [
-        "navagraha"
-    ],
+    "deity": "navagraha",
+    "secondaryDeities": [],
     "days": [
         "saturday"
     ],
@@ -28,7 +26,8 @@
         "planetary-remedy",
         "protection",
         "fear-removal",
-        "health"
+        "health",
+        "devotion"
     ],
     "readingTimeMinutes": 3,
     "seoDescription": "Read Rahu Stotram in Sanskrit with Hindi meaning. Sacred hymn for Rahu graha shanti.",

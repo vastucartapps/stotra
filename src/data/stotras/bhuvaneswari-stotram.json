@@ -1,5 +1,5 @@
 {
-    "id": "99",
+    "id": 100,
     "title": "भुवनेश्वरी स्तोत्रम्",
     "titleEn": "Bhuvaneswari Stotram",
     "slug": "bhuvaneswari-stotram",
@@ -14,10 +14,8 @@
         "Removes sins and bestows spiritual merit",
         "Ideal for Bhuvaneswari festivals and daily worship"
     ],
-    "deity": "bhuvaneswari",
-    "secondaryDeities": [
-        "parvati"
-    ],
+    "deity": "parvati",
+    "secondaryDeities": [],
     "days": [
         "friday"
     ],

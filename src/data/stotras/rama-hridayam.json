@@ -1,5 +1,5 @@
 {
-    "id": "610",
+    "id": 615,
     "title": "राम हृदयम्",
     "titleEn": "Rama Hridayam",
     "slug": "rama-hridayam",
@@ -20,7 +20,6 @@
         "vishnu"
     ],
     "days": [
-        "tuesday",
         "thursday",
         "saturday"
     ],

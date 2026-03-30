@@ -1,5 +1,5 @@
 {
-    "id": "567",
+    "id": 572,
     "title": "पार्वती सहस्रनाम स्तोत्रम्",
     "titleEn": "Parvati Sahasranama Stotram",
     "slug": "parvati-sahasranama",
@@ -25,7 +25,7 @@
     ],
     "festivals": [
         "navratri",
-        "maha-shivratri",
+        "maha-shivaratri",
         "durga-puja"
     ],
     "purposes": [

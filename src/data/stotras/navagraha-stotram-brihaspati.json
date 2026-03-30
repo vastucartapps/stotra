@@ -1,5 +1,5 @@
 {
-    "id": "542",
+    "id": 547,
     "title": "नवग्रह स्तोत्रम् (बृहस्पति)",
     "titleEn": "Navagraha Stotram Brihaspati",
     "slug": "navagraha-stotram-brihaspati",
@@ -14,10 +14,8 @@
         "Removes sins and bestows spiritual merit",
         "Ideal for Brihaspati festivals and daily worship"
     ],
-    "deity": "brihaspati",
-    "secondaryDeities": [
-        "navagraha"
-    ],
+    "deity": "navagraha",
+    "secondaryDeities": [],
     "days": [
         "thursday"
     ],

@@ -1,5 +1,5 @@
 {
-    "id": "503",
+    "id": 507,
     "title": "नाम रामायणम्",
     "titleEn": "Nama Ramayanam",
     "slug": "nama-ramayanam",
@@ -22,7 +22,6 @@
         "lakshmana"
     ],
     "days": [
-        "tuesday",
         "thursday",
         "saturday"
     ],

@@ -1,5 +1,5 @@
 {
-    "id": "615",
+    "id": 620,
     "title": "राम सहस्रनाम स्तोत्रम्",
     "titleEn": "Rama Sahasranama Stotram",
     "slug": "rama-sahasranama",
@@ -30,7 +30,6 @@
         "lakshmana"
     ],
     "days": [
-        "tuesday",
         "saturday"
     ],
     "festivals": [

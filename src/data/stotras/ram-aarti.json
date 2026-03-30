@@ -1,5 +1,5 @@
 {
-    "id": "602",
+    "id": 607,
     "title": "आरती श्री रामायण जी की",
     "titleEn": "Ram Aarti",
     "slug": "ram-aarti",
@@ -22,7 +22,6 @@
     ],
     "days": [
         "sunday",
-        "tuesday",
         "thursday",
         "saturday"
     ],

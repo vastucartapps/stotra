@@ -1,5 +1,5 @@
 {
-    "id": "518",
+    "id": 522,
     "title": "नरसिंह पञ्चरत्नम्",
     "titleEn": "Narasimha Pancharatnam",
     "slug": "narasimha-pancharatnam",
@@ -20,8 +20,7 @@
         "vishnu"
     ],
     "days": [
-        "saturday",
-        "tuesday"
+        "saturday"
     ],
     "festivals": [
         "narasimha-jayanti"

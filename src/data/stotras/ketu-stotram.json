@@ -1,5 +1,5 @@
 {
-    "id": "394",
+    "id": 398,
     "title": "केतु स्तोत्रम्",
     "titleEn": "Ketu Stotram",
     "slug": "ketu-stotram",
@@ -14,10 +14,8 @@
         "Removes afflictions and bestows auspiciousness",
         "Ideal for Ketu graha shanti and worship"
     ],
-    "deity": "ketu",
-    "secondaryDeities": [
-        "navagraha"
-    ],
+    "deity": "navagraha",
+    "secondaryDeities": [],
     "days": [
         "tuesday"
     ],
@@ -28,7 +26,8 @@
         "planetary-remedy",
         "moksha",
         "spiritual-growth",
-        "health"
+        "health",
+        "devotion"
     ],
     "readingTimeMinutes": 3,
     "seoDescription": "Read Ketu Stotram in Sanskrit with Hindi meaning. Sacred hymn for Ketu graha shanti.",
