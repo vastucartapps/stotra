@@ -1,0 +1,1434 @@
+{
+  "chapterNumber": 16,
+  "titleSanskrit": "दैवासुरसम्पद्विभागयोगः",
+  "titleHindi": "दैवी और आसुरी सम्पदा का योग",
+  "titleEnglish": "Daivasura Sampad Vibhaga Yoga - The Yoga of Division between Divine and Demoniac Qualities",
+  "slug": "chapter-16",
+  "description": "Bhagavad Gita Chapter 16, Daivasura Sampad Vibhaga Yoga, presents Lord Krishna's detailed classification of divine (daivi) and demoniac (asuri) natures in human beings. Krishna enumerates twenty-six divine qualities including fearlessness, purity of heart, charity, self-control, and non-violence that lead to liberation. He contrasts these with demoniac traits such as hypocrisy, arrogance, anger, and ignorance that bind the soul to suffering. The chapter describes the destructive worldview of those with demoniac nature who deny God, live for selfish desires, and accumulate wealth through unjust means. Krishna identifies lust, anger, and greed as the three gates to hell and urges Arjuna to abandon them. The chapter concludes with the instruction to follow scriptural guidance in determining right and wrong action, assuring Arjuna that he is born with divine qualities.",
+  "verseCount": 24,
+  "verses": [
+    {
+      "verseNumber": 1,
+      "devanagari": "अभयं सत्त्वसंशुद्धिर्ज्ञानयोगव्यवस्थितिः।\nदानं दमश्च यज्ञश्च स्वाध्यायस्तप आर्जवम्॥",
+      "transliteration": "Abhayam sattva-samshuddhir jnana-yoga-vyavasthitih\nDanam damash-cha yajnash-cha svadhyayas-tapa arjavam",
+      "wordByWord": [
+        {
+          "word": "अभयम्",
+          "transliteration": "abhayam",
+          "meaning": "fearlessness"
+        },
+        {
+          "word": "सत्त्वसंशुद्धिः",
+          "transliteration": "sattva-samshuddhih",
+          "meaning": "purity of heart"
+        },
+        {
+          "word": "ज्ञानयोगव्यवस्थितिः",
+          "transliteration": "jnana-yoga-vyavasthitih",
+          "meaning": "steadfastness in knowledge and yoga"
+        },
+        {
+          "word": "दानम्",
+          "transliteration": "danam",
+          "meaning": "charity"
+        },
+        {
+          "word": "दमः",
+          "transliteration": "damah",
+          "meaning": "self-control"
+        },
+        {
+          "word": "यज्ञः",
+          "transliteration": "yajnah",
+          "meaning": "sacrifice"
+        },
+        {
+          "word": "स्वाध्यायः",
+          "transliteration": "svadhyayah",
+          "meaning": "study of scriptures"
+        },
+        {
+          "word": "तपः",
+          "transliteration": "tapah",
+          "meaning": "austerity"
+        },
+        {
+          "word": "आर्जवम्",
+          "transliteration": "arjavam",
+          "meaning": "straightforwardness"
+        }
+      ],
+      "hindiTranslation": "श्रीभगवान् बोले — हे भारत! अभय, अन्तःकरण की शुद्धि, ज्ञानयोग में दृढ़ स्थिति, दान, इन्द्रियों का दमन, यज्ञ, स्वाध्याय, तप और सरलता — ये दैवी सम्पदा हैं।",
+      "englishTranslation": "The Supreme Lord said: Fearlessness, purity of heart, steadfastness in the yoga of knowledge, charity, self-control, sacrifice, study of scriptures, austerity, and straightforwardness — these are divine qualities.",
+      "commentary": "Krishna begins enumerating the divine qualities that lead to liberation. Fearlessness tops the list because spiritual progress requires courage to face truth. Purity of heart and steadfastness in knowledge form the foundation of all other virtues.",
+      "slug": "verse-1",
+      "speaker": "Krishna"
+    },
+    {
+      "verseNumber": 2,
+      "devanagari": "अहिंसा सत्यमक्रोधस्त्यागः शान्तिरपैशुनम्।\nदया भूतेष्वलोलुप्त्वं मार्दवं ह्रीरचापलम्॥",
+      "transliteration": "Ahimsa satyam-akrodhas-tyagah shantir-apaishunam\nDaya bhuteshv-aloluptvam mardavam hrir-achapalam",
+      "wordByWord": [
+        {
+          "word": "अहिंसा",
+          "transliteration": "ahimsa",
+          "meaning": "non-violence"
+        },
+        {
+          "word": "सत्यम्",
+          "transliteration": "satyam",
+          "meaning": "truthfulness"
+        },
+        {
+          "word": "अक्रोधः",
+          "transliteration": "akrodhah",
+          "meaning": "absence of anger"
+        },
+        {
+          "word": "त्यागः",
+          "transliteration": "tyagah",
+          "meaning": "renunciation"
+        },
+        {
+          "word": "शान्तिः",
+          "transliteration": "shantih",
+          "meaning": "peace"
+        },
+        {
+          "word": "अपैशुनम्",
+          "transliteration": "apaishunam",
+          "meaning": "absence of fault-finding"
+        },
+        {
+          "word": "दया",
+          "transliteration": "daya",
+          "meaning": "compassion"
+        },
+        {
+          "word": "भूतेषु",
+          "transliteration": "bhuteshu",
+          "meaning": "towards all beings"
+        },
+        {
+          "word": "अलोलुप्त्वम्",
+          "transliteration": "aloluptvam",
+          "meaning": "freedom from greed"
+        },
+        {
+          "word": "मार्दवम्",
+          "transliteration": "mardavam",
+          "meaning": "gentleness"
+        },
+        {
+          "word": "ह्रीः",
+          "transliteration": "hrih",
+          "meaning": "modesty"
+        },
+        {
+          "word": "अचापलम्",
+          "transliteration": "achapalam",
+          "meaning": "absence of fickleness"
+        }
+      ],
+      "hindiTranslation": "अहिंसा, सत्य, क्रोध का अभाव, त्याग, शान्ति, चुगली न करना, प्राणियों पर दया, लोभ का अभाव, कोमलता, लज्जा और चंचलता का अभाव — ये दैवी गुण हैं।",
+      "englishTranslation": "Non-violence, truthfulness, absence of anger, renunciation, peacefulness, absence of fault-finding, compassion for all beings, freedom from greed, gentleness, modesty, and steadiness — these are divine qualities.",
+      "commentary": "The list of divine virtues continues with qualities that govern interpersonal conduct. Non-violence and truthfulness are foundational ethical principles. Compassion toward all beings reflects the understanding that the same divine essence dwells in everyone.",
+      "slug": "verse-2",
+      "speaker": "Krishna"
+    },
+    {
+      "verseNumber": 3,
+      "devanagari": "तेजः क्षमा धृतिः शौचमद्रोहो नातिमानिता।\nभवन्ति सम्पदं दैवीमभिजातस्य भारत॥",
+      "transliteration": "Tejah kshama dhritih shaucham-adroho na-atimanita\nBhavanti sampadam daivim-abhijatasya Bharata",
+      "wordByWord": [
+        {
+          "word": "तेजः",
+          "transliteration": "tejah",
+          "meaning": "vigor"
+        },
+        {
+          "word": "क्षमा",
+          "transliteration": "kshama",
+          "meaning": "forgiveness"
+        },
+        {
+          "word": "धृतिः",
+          "transliteration": "dhritih",
+          "meaning": "fortitude"
+        },
+        {
+          "word": "शौचम्",
+          "transliteration": "shaucham",
+          "meaning": "cleanliness"
+        },
+        {
+          "word": "अद्रोहः",
+          "transliteration": "adrohah",
+          "meaning": "absence of malice"
+        },
+        {
+          "word": "न अतिमानिता",
+          "transliteration": "na atimanita",
+          "meaning": "absence of excessive pride"
+        },
+        {
+          "word": "भवन्ति",
+          "transliteration": "bhavanti",
+          "meaning": "belong to"
+        },
+        {
+          "word": "सम्पदम्",
+          "transliteration": "sampadam",
+          "meaning": "qualities"
+        },
+        {
+          "word": "दैवीम्",
+          "transliteration": "daivim",
+          "meaning": "divine"
+        },
+        {
+          "word": "अभिजातस्य",
+          "transliteration": "abhijatasya",
+          "meaning": "one who is born with"
+        }
+      ],
+      "hindiTranslation": "तेज, क्षमा, धैर्य, शौच (पवित्रता), द्रोह का अभाव और अभिमान का अभाव — हे भारत! ये सब दैवी सम्पदा को प्राप्त हुए मनुष्य के लक्षण हैं।",
+      "englishTranslation": "Vigor, forgiveness, fortitude, cleanliness, absence of malice, and absence of excessive pride — O Bharata, these are the qualities of one born with divine nature.",
+      "commentary": "Krishna completes the list of twenty-six divine qualities with vigor, forgiveness, and humility. These three verses together form a comprehensive guide for spiritual development. A person endowed with these qualities is naturally inclined toward liberation.",
+      "slug": "verse-3",
+      "speaker": "Krishna"
+    },
+    {
+      "verseNumber": 4,
+      "devanagari": "दम्भो दर्पोऽभिमानश्च क्रोधः पारुष्यमेव च।\nअज्ञानं चाभिजातस्य पार्थ सम्पदमासुरीम्॥",
+      "transliteration": "Dambho darpo'bhimanash-cha krodhah parushyam-eva cha\nAjnanam cha-abhijatasya Partha sampadam-asurim",
+      "wordByWord": [
+        {
+          "word": "दम्भः",
+          "transliteration": "dambhah",
+          "meaning": "hypocrisy"
+        },
+        {
+          "word": "दर्पः",
+          "transliteration": "darpah",
+          "meaning": "arrogance"
+        },
+        {
+          "word": "अभिमानः",
+          "transliteration": "abhimanah",
+          "meaning": "conceit"
+        },
+        {
+          "word": "क्रोधः",
+          "transliteration": "krodhah",
+          "meaning": "anger"
+        },
+        {
+          "word": "पारुष्यम्",
+          "transliteration": "parushyam",
+          "meaning": "harshness"
+        },
+        {
+          "word": "अज्ञानम्",
+          "transliteration": "ajnanam",
+          "meaning": "ignorance"
+        },
+        {
+          "word": "अभिजातस्य",
+          "transliteration": "abhijatasya",
+          "meaning": "of one born with"
+        },
+        {
+          "word": "पार्थ",
+          "transliteration": "Partha",
+          "meaning": "O son of Pritha"
+        },
+        {
+          "word": "सम्पदम्",
+          "transliteration": "sampadam",
+          "meaning": "qualities"
+        },
+        {
+          "word": "आसुरीम्",
+          "transliteration": "asurim",
+          "meaning": "demoniac"
+        }
+      ],
+      "hindiTranslation": "हे पार्थ! दम्भ, घमण्ड, अभिमान, क्रोध, कठोरता और अज्ञान — ये आसुरी सम्पदा को प्राप्त मनुष्य के लक्षण हैं।",
+      "englishTranslation": "Hypocrisy, arrogance, conceit, anger, harshness, and ignorance — O Partha, these are the qualities of one born with demoniac nature.",
+      "commentary": "In stark contrast to the divine qualities, Krishna lists six demoniac traits. Hypocrisy and arrogance head the list as they block self-awareness and spiritual growth. These qualities bind the soul to the cycle of birth and death.",
+      "slug": "verse-4",
+      "speaker": "Krishna"
+    },
+    {
+      "verseNumber": 5,
+      "devanagari": "दैवी सम्पद्विमोक्षाय निबन्धायासुरी मता।\nमा शुचः सम्पदं दैवीमभिजातोऽसि पाण्डव॥",
+      "transliteration": "Daivi sampad-vimokshaya nibandhaya-asuri mata\nMa shuchah sampadam daivim-abhijato'si Pandava",
+      "wordByWord": [
+        {
+          "word": "दैवी",
+          "transliteration": "daivi",
+          "meaning": "divine"
+        },
+        {
+          "word": "सम्पत्",
+          "transliteration": "sampat",
+          "meaning": "qualities"
+        },
+        {
+          "word": "विमोक्षाय",
+          "transliteration": "vimokshaya",
+          "meaning": "for liberation"
+        },
+        {
+          "word": "निबन्धाय",
+          "transliteration": "nibandhaya",
+          "meaning": "for bondage"
+        },
+        {
+          "word": "आसुरी",
+          "transliteration": "asuri",
+          "meaning": "demoniac"
+        },
+        {
+          "word": "मता",
+          "transliteration": "mata",
+          "meaning": "is considered"
+        },
+        {
+          "word": "मा शुचः",
+          "transliteration": "ma shuchah",
+          "meaning": "do not grieve"
+        },
+        {
+          "word": "अभिजातः असि",
+          "transliteration": "abhijatah asi",
+          "meaning": "you are born with"
+        },
+        {
+          "word": "पाण्डव",
+          "transliteration": "Pandava",
+          "meaning": "O son of Pandu"
+        }
+      ],
+      "hindiTranslation": "दैवी सम्पदा मोक्ष के लिए और आसुरी सम्पदा बन्धन के लिए मानी गई है। हे पाण्डव! तुम शोक मत करो, तुम दैवी सम्पदा को प्राप्त हुए हो।",
+      "englishTranslation": "The divine qualities lead to liberation and the demoniac qualities lead to bondage. Do not grieve, O Pandava, for you are born with divine nature.",
+      "commentary": "Krishna reassures Arjuna that he possesses divine qualities. This verse serves as both a classification principle and personal encouragement. The distinction between divine and demoniac natures determines one's spiritual trajectory toward freedom or bondage.",
+      "slug": "verse-5",
+      "speaker": "Krishna"
+    },
+    {
+      "verseNumber": 6,
+      "devanagari": "द्वौ भूतसर्गौ लोकेऽस्मिन्दैव आसुर एव च।\nदैवो विस्तरशः प्रोक्त आसुरं पार्थ मे शृणु॥",
+      "transliteration": "Dvau bhuta-sargau loke'smin daiva asura eva cha\nDaivo vistarashah prokta asuram Partha me shrinu",
+      "wordByWord": [
+        {
+          "word": "द्वौ",
+          "transliteration": "dvau",
+          "meaning": "two"
+        },
+        {
+          "word": "भूतसर्गौ",
+          "transliteration": "bhuta-sargau",
+          "meaning": "types of created beings"
+        },
+        {
+          "word": "लोके अस्मिन्",
+          "transliteration": "loke asmin",
+          "meaning": "in this world"
+        },
+        {
+          "word": "दैवः",
+          "transliteration": "daivah",
+          "meaning": "divine"
+        },
+        {
+          "word": "आसुरः",
+          "transliteration": "asurah",
+          "meaning": "demoniac"
+        },
+        {
+          "word": "विस्तरशः",
+          "transliteration": "vistarashah",
+          "meaning": "in detail"
+        },
+        {
+          "word": "प्रोक्तः",
+          "transliteration": "proktah",
+          "meaning": "described"
+        },
+        {
+          "word": "आसुरम्",
+          "transliteration": "asuram",
+          "meaning": "the demoniac"
+        },
+        {
+          "word": "मे शृणु",
+          "transliteration": "me shrinu",
+          "meaning": "hear from Me"
+        }
+      ],
+      "hindiTranslation": "इस संसार में दो प्रकार के प्राणी सृष्टि हैं — दैवी और आसुरी। दैवी का विस्तार से वर्णन हो चुका, अब हे पार्थ! आसुरी को मुझसे सुनो।",
+      "englishTranslation": "There are two types of beings in this world — the divine and the demoniac. The divine has been described in detail; now hear from Me about the demoniac, O Partha.",
+      "commentary": "Having described divine qualities in three verses, Krishna now turns to elaborate on demoniac nature. This transition signals that understanding negative tendencies is equally important for spiritual growth. Self-awareness of both types helps one consciously choose the divine path.",
+      "slug": "verse-6",
+      "speaker": "Krishna"
+    },
+    {
+      "verseNumber": 7,
+      "devanagari": "प्रवृत्तिं च निवृत्तिं च जना न विदुरासुराः।\nन शौचं नापि चाचारो न सत्यं तेषु विद्यते॥",
+      "transliteration": "Pravrittim cha nivrittim cha jana na vidur-asurah\nNa shaucham na-api cha-acharo na satyam teshu vidyate",
+      "wordByWord": [
+        {
+          "word": "प्रवृत्तिम्",
+          "transliteration": "pravrittim",
+          "meaning": "proper action"
+        },
+        {
+          "word": "निवृत्तिम्",
+          "transliteration": "nivrittim",
+          "meaning": "abstinence from wrong"
+        },
+        {
+          "word": "जनाः",
+          "transliteration": "janah",
+          "meaning": "people"
+        },
+        {
+          "word": "न विदुः",
+          "transliteration": "na viduh",
+          "meaning": "do not know"
+        },
+        {
+          "word": "आसुराः",
+          "transliteration": "asurah",
+          "meaning": "of demoniac nature"
+        },
+        {
+          "word": "न शौचम्",
+          "transliteration": "na shaucham",
+          "meaning": "neither purity"
+        },
+        {
+          "word": "न आचारः",
+          "transliteration": "na acharah",
+          "meaning": "nor good conduct"
+        },
+        {
+          "word": "न सत्यम्",
+          "transliteration": "na satyam",
+          "meaning": "nor truth"
+        },
+        {
+          "word": "तेषु",
+          "transliteration": "teshu",
+          "meaning": "in them"
+        },
+        {
+          "word": "विद्यते",
+          "transliteration": "vidyate",
+          "meaning": "exists"
+        }
+      ],
+      "hindiTranslation": "आसुरी स्वभाव के लोग न प्रवृत्ति (क्या करना चाहिए) जानते हैं, न निवृत्ति (क्या नहीं करना चाहिए)। उनमें न शुद्धता है, न सदाचार, न सत्य है।",
+      "englishTranslation": "Those of demoniac nature do not know what to do and what to refrain from. Neither purity, nor good conduct, nor truth is found in them.",
+      "commentary": "The fundamental deficiency of demoniac nature is the inability to distinguish right from wrong. Without this moral compass, purity, conduct, and truthfulness are all absent. This verse highlights that ignorance of dharma is the root cause of all demoniac behavior.",
+      "slug": "verse-7",
+      "speaker": "Krishna"
+    },
+    {
+      "verseNumber": 8,
+      "devanagari": "असत्यमप्रतिष्ठं ते जगदाहुरनीश्वरम्।\nअपरस्परसम्भूतं किमन्यत्कामहैतुकम्॥",
+      "transliteration": "Asatyam-apratistham te jagad-ahur-anishvaram\nAparasparasambhutam kim-anyat kama-haitukam",
+      "wordByWord": [
+        {
+          "word": "असत्यम्",
+          "transliteration": "asatyam",
+          "meaning": "without truth"
+        },
+        {
+          "word": "अप्रतिष्ठम्",
+          "transliteration": "apratistham",
+          "meaning": "without foundation"
+        },
+        {
+          "word": "ते",
+          "transliteration": "te",
+          "meaning": "they"
+        },
+        {
+          "word": "जगत्",
+          "transliteration": "jagat",
+          "meaning": "the world"
+        },
+        {
+          "word": "आहुः",
+          "transliteration": "ahuh",
+          "meaning": "say"
+        },
+        {
+          "word": "अनीश्वरम्",
+          "transliteration": "anishvaram",
+          "meaning": "without God"
+        },
+        {
+          "word": "अपरस्परसम्भूतम्",
+          "transliteration": "aparasparasambhutam",
+          "meaning": "without mutual cause"
+        },
+        {
+          "word": "कामहैतुकम्",
+          "transliteration": "kama-haitukam",
+          "meaning": "caused by desire alone"
+        }
+      ],
+      "hindiTranslation": "वे कहते हैं कि यह संसार असत्य है, बिना आधार का है, बिना ईश्वर का है, बिना किसी क्रम से उत्पन्न हुआ है — केवल काम (इच्छा) ही इसका कारण है, और क्या?",
+      "englishTranslation": "They say that this world is unreal, without foundation, and without a God. It is produced by mutual union alone, caused by nothing other than desire.",
+      "commentary": "This verse describes the materialistic philosophy of demoniac people who deny God, moral order, and purposeful creation. They see the universe as a random product of desire alone. Such a worldview eliminates moral responsibility and opens the door to unbridled selfishness.",
+      "slug": "verse-8",
+      "speaker": "Krishna"
+    },
+    {
+      "verseNumber": 9,
+      "devanagari": "एतां दृष्टिमवष्टभ्य नष्टात्मानोऽल्पबुद्धयः।\nप्रभवन्त्युग्रकर्माणः क्षयाय जगतोऽहिताः॥",
+      "transliteration": "Etam drishtim-avashtabhya nashta-atmano'lpa-buddhayah\nPrabhavanty-ugra-karmanah kshayaya jagato'hitah",
+      "wordByWord": [
+        {
+          "word": "एताम्",
+          "transliteration": "etam",
+          "meaning": "this"
+        },
+        {
+          "word": "दृष्टिम्",
+          "transliteration": "drishtim",
+          "meaning": "view"
+        },
+        {
+          "word": "अवष्टभ्य",
+          "transliteration": "avashtabhya",
+          "meaning": "holding"
+        },
+        {
+          "word": "नष्टात्मानः",
+          "transliteration": "nashta-atmanah",
+          "meaning": "lost souls"
+        },
+        {
+          "word": "अल्पबुद्धयः",
+          "transliteration": "alpa-buddhayah",
+          "meaning": "of small intellect"
+        },
+        {
+          "word": "प्रभवन्ति",
+          "transliteration": "prabhavanti",
+          "meaning": "arise"
+        },
+        {
+          "word": "उग्रकर्माणः",
+          "transliteration": "ugra-karmanah",
+          "meaning": "of cruel deeds"
+        },
+        {
+          "word": "क्षयाय",
+          "transliteration": "kshayaya",
+          "meaning": "for destruction"
+        },
+        {
+          "word": "जगतः",
+          "transliteration": "jagatah",
+          "meaning": "of the world"
+        },
+        {
+          "word": "अहिताः",
+          "transliteration": "ahitah",
+          "meaning": "harmful"
+        }
+      ],
+      "hindiTranslation": "इस दृष्टि को धारण करके, जिनकी आत्मा नष्ट हो चुकी है, अल्पबुद्धि, उग्र कर्म करने वाले — ये संसार के शत्रु उसके विनाश के लिए उत्पन्न होते हैं।",
+      "englishTranslation": "Holding this view, these lost souls of small intellect and cruel deeds arise as enemies of the world, bringing about its destruction.",
+      "commentary": "Those who deny divine order become agents of destruction. Their atheistic worldview combined with small intellect leads to cruel and harmful actions. Krishna warns that such people, despite appearing powerful, ultimately cause ruin to themselves and the world.",
+      "slug": "verse-9",
+      "speaker": "Krishna"
+    },
+    {
+      "verseNumber": 10,
+      "devanagari": "काममाश्रित्य दुष्पूरं दम्भमानमदान्विताः।\nमोहाद्गृहीत्वासद्ग्राहान्प्रवर्तन्तेऽशुचिव्रताः॥",
+      "transliteration": "Kamam-ashritya dushpuram dambha-mana-mada-anvitah\nMohad-grihitva-asad-grahan pravartante'shuchi-vratah",
+      "wordByWord": [
+        {
+          "word": "कामम्",
+          "transliteration": "kamam",
+          "meaning": "desire"
+        },
+        {
+          "word": "आश्रित्य",
+          "transliteration": "ashritya",
+          "meaning": "taking refuge in"
+        },
+        {
+          "word": "दुष्पूरम्",
+          "transliteration": "dushpuram",
+          "meaning": "insatiable"
+        },
+        {
+          "word": "दम्भमानमदान्विताः",
+          "transliteration": "dambha-mana-mada-anvitah",
+          "meaning": "full of hypocrisy, pride and arrogance"
+        },
+        {
+          "word": "मोहात्",
+          "transliteration": "mohat",
+          "meaning": "due to delusion"
+        },
+        {
+          "word": "गृहीत्वा",
+          "transliteration": "grihitva",
+          "meaning": "accepting"
+        },
+        {
+          "word": "असद्ग्राहान्",
+          "transliteration": "asad-grahan",
+          "meaning": "false doctrines"
+        },
+        {
+          "word": "प्रवर्तन्ते",
+          "transliteration": "pravartante",
+          "meaning": "they act"
+        },
+        {
+          "word": "अशुचिव्रताः",
+          "transliteration": "ashuchi-vratah",
+          "meaning": "of impure vows"
+        }
+      ],
+      "hindiTranslation": "कठिनाई से पूरी होने वाली कामनाओं का आश्रय लेकर, दम्भ, मान और मद से युक्त, मोहवश मिथ्या सिद्धान्तों को ग्रहण करके, अशुद्ध आचरण वाले ये प्रवृत्त होते हैं।",
+      "englishTranslation": "Taking refuge in insatiable desires, full of hypocrisy, pride, and arrogance, holding false views through delusion, they act with impure resolve.",
+      "commentary": "Demoniac people are driven by insatiable desires that can never be fulfilled. Delusion causes them to adopt false ideologies that justify their selfish pursuits. Their impure vows and actions stem from this fundamental misalignment with truth and dharma.",
+      "slug": "verse-10",
+      "speaker": "Krishna"
+    },
+    {
+      "verseNumber": 11,
+      "devanagari": "चिन्तामपरिमेयां च प्रलयान्तामुपाश्रिताः।\nकामोपभोगपरमा एतावदिति निश्चिताः॥",
+      "transliteration": "Chintam-aparimeyam cha pralaya-antam-upashritah\nKama-upabhoga-parama etavad-iti nishchitah",
+      "wordByWord": [
+        {
+          "word": "चिन्ताम्",
+          "transliteration": "chintam",
+          "meaning": "anxiety"
+        },
+        {
+          "word": "अपरिमेयाम्",
+          "transliteration": "aparimeyam",
+          "meaning": "immeasurable"
+        },
+        {
+          "word": "प्रलयान्ताम्",
+          "transliteration": "pralaya-antam",
+          "meaning": "ending only at death"
+        },
+        {
+          "word": "उपाश्रिताः",
+          "transliteration": "upashritah",
+          "meaning": "taking shelter of"
+        },
+        {
+          "word": "कामोपभोगपरमाः",
+          "transliteration": "kama-upabhoga-paramah",
+          "meaning": "devoted to sense enjoyment"
+        },
+        {
+          "word": "एतावत्",
+          "transliteration": "etavat",
+          "meaning": "this much"
+        },
+        {
+          "word": "इति",
+          "transliteration": "iti",
+          "meaning": "thus"
+        },
+        {
+          "word": "निश्चिताः",
+          "transliteration": "nishchitah",
+          "meaning": "firmly convinced"
+        }
+      ],
+      "hindiTranslation": "मृत्यु तक बनी रहने वाली असीम चिन्ताओं का आश्रय लेकर, कामनाओं के भोग को ही परम लक्ष्य मानते हुए, वे निश्चित मानते हैं कि बस इतना ही सब कुछ है।",
+      "englishTranslation": "Beset with immeasurable anxieties that end only with death, regarding sense enjoyment as the highest goal, they are convinced that this is all there is.",
+      "commentary": "Demoniac people carry boundless worries that persist until death because material desires are never truly satisfied. Their conviction that sensory pleasure is life's ultimate purpose traps them in an endless cycle of craving and anxiety. This verse reveals the inherent suffering in a purely materialistic life.",
+      "slug": "verse-11",
+      "speaker": "Krishna"
+    },
+    {
+      "verseNumber": 12,
+      "devanagari": "आशापाशशतैर्बद्धाः कामक्रोधपरायणाः।\nईहन्ते कामभोगार्थमन्यायेनार्थसञ्चयान्॥",
+      "transliteration": "Asha-pasha-shatair-baddhah kama-krodha-parayanah\nIhante kama-bhoga-artham anyayena-artha-sanchayan",
+      "wordByWord": [
+        {
+          "word": "आशापाशशतैः",
+          "transliteration": "asha-pasha-shataih",
+          "meaning": "by hundreds of bonds of desire"
+        },
+        {
+          "word": "बद्धाः",
+          "transliteration": "baddhah",
+          "meaning": "bound"
+        },
+        {
+          "word": "कामक्रोधपरायणाः",
+          "transliteration": "kama-krodha-parayanah",
+          "meaning": "devoted to lust and anger"
+        },
+        {
+          "word": "ईहन्ते",
+          "transliteration": "ihante",
+          "meaning": "they strive"
+        },
+        {
+          "word": "कामभोगार्थम्",
+          "transliteration": "kama-bhoga-artham",
+          "meaning": "for sense enjoyment"
+        },
+        {
+          "word": "अन्यायेन",
+          "transliteration": "anyayena",
+          "meaning": "by unjust means"
+        },
+        {
+          "word": "अर्थसञ्चयान्",
+          "transliteration": "artha-sanchayan",
+          "meaning": "accumulation of wealth"
+        }
+      ],
+      "hindiTranslation": "सैकड़ों आशाओं के पाशों से बँधे, काम और क्रोध के परायण, वे कामभोग के लिए अन्यायपूर्वक धन संग्रह करने का प्रयत्न करते हैं।",
+      "englishTranslation": "Bound by hundreds of ties of desire, given over to lust and anger, they strive to accumulate wealth by unjust means for the gratification of their desires.",
+      "commentary": "Hope and desire act as hundreds of ropes binding the demoniac soul. Driven by lust and anger, they resort to unethical means to amass wealth solely for sensory pleasure. This verse exposes how unchecked desires corrupt both individual morality and social order.",
+      "slug": "verse-12",
+      "speaker": "Krishna"
+    },
+    {
+      "verseNumber": 13,
+      "devanagari": "इदमद्य मया लब्धमिमं प्राप्स्ये मनोरथम्।\nइदमस्तीदमपि मे भविष्यति पुनर्धनम्॥",
+      "transliteration": "Idam-adya maya labdham-imam prapsye manoratham\nIdam-asti-idam-api me bhavishyati punar-dhanam",
+      "wordByWord": [
+        {
+          "word": "इदम्",
+          "transliteration": "idam",
+          "meaning": "this"
+        },
+        {
+          "word": "अद्य",
+          "transliteration": "adya",
+          "meaning": "today"
+        },
+        {
+          "word": "मया",
+          "transliteration": "maya",
+          "meaning": "by me"
+        },
+        {
+          "word": "लब्धम्",
+          "transliteration": "labdham",
+          "meaning": "gained"
+        },
+        {
+          "word": "इमम्",
+          "transliteration": "imam",
+          "meaning": "this"
+        },
+        {
+          "word": "प्राप्स्ये",
+          "transliteration": "prapsye",
+          "meaning": "I shall obtain"
+        },
+        {
+          "word": "मनोरथम्",
+          "transliteration": "manoratham",
+          "meaning": "desire"
+        },
+        {
+          "word": "इदम् अस्ति",
+          "transliteration": "idam asti",
+          "meaning": "this I have"
+        },
+        {
+          "word": "पुनः धनम्",
+          "transliteration": "punah dhanam",
+          "meaning": "more wealth"
+        },
+        {
+          "word": "भविष्यति",
+          "transliteration": "bhavishyati",
+          "meaning": "will be mine"
+        }
+      ],
+      "hindiTranslation": "आज मैंने यह प्राप्त किया, इस मनोरथ को भी पाऊँगा। यह मेरे पास है और यह धन भी फिर मेरा होगा — ऐसा वे सोचते हैं।",
+      "englishTranslation": "'Today I have gained this; tomorrow I shall fulfill this desire. This wealth is mine, and that also shall be mine' — thus they think.",
+      "commentary": "Krishna reveals the inner monologue of the demoniac mind, consumed by possessiveness and endless craving. Each acquisition only fuels the desire for more. This self-centered thinking cycle prevents any contentment or spiritual awareness from arising.",
+      "slug": "verse-13",
+      "speaker": "Krishna"
+    },
+    {
+      "verseNumber": 14,
+      "devanagari": "असौ मया हतः शत्रुर्हनिष्ये चापरानपि।\nईश्वरोऽहमहं भोगी सिद्धोऽहं बलवान्सुखी॥",
+      "transliteration": "Asau maya hatah shatrur-hanishye cha-aparan-api\nIshvaro'ham-aham bhogi siddho'ham balavan sukhi",
+      "wordByWord": [
+        {
+          "word": "असौ",
+          "transliteration": "asau",
+          "meaning": "that"
+        },
+        {
+          "word": "मया",
+          "transliteration": "maya",
+          "meaning": "by me"
+        },
+        {
+          "word": "हतः",
+          "transliteration": "hatah",
+          "meaning": "slain"
+        },
+        {
+          "word": "शत्रुः",
+          "transliteration": "shatruh",
+          "meaning": "enemy"
+        },
+        {
+          "word": "हनिष्ये",
+          "transliteration": "hanishye",
+          "meaning": "I shall slay"
+        },
+        {
+          "word": "अपरान् अपि",
+          "transliteration": "aparan api",
+          "meaning": "others also"
+        },
+        {
+          "word": "ईश्वरः अहम्",
+          "transliteration": "ishvarah aham",
+          "meaning": "I am the lord"
+        },
+        {
+          "word": "भोगी",
+          "transliteration": "bhogi",
+          "meaning": "enjoyer"
+        },
+        {
+          "word": "सिद्धः",
+          "transliteration": "siddhah",
+          "meaning": "perfect"
+        },
+        {
+          "word": "बलवान्",
+          "transliteration": "balavan",
+          "meaning": "powerful"
+        },
+        {
+          "word": "सुखी",
+          "transliteration": "sukhi",
+          "meaning": "happy"
+        }
+      ],
+      "hindiTranslation": "'वह शत्रु मेरे द्वारा मारा गया और दूसरों को भी मारूँगा। मैं ईश्वर हूँ, मैं भोगी हूँ, मैं सिद्ध हूँ, मैं बलवान् और सुखी हूँ' — ऐसा वे मानते हैं।",
+      "englishTranslation": "'That enemy has been slain by me, and I shall slay others too. I am the lord, I am the enjoyer, I am perfect, powerful, and happy' — thus they think.",
+      "commentary": "The demoniac ego reaches its peak with delusions of being God-like — lord, enjoyer, and conqueror. This extreme self-glorification is the opposite of spiritual humility. Such individuals see others as obstacles to destroy rather than fellow souls to respect.",
+      "slug": "verse-14",
+      "speaker": "Krishna"
+    },
+    {
+      "verseNumber": 15,
+      "devanagari": "आढ्योऽभिजनवानस्मि कोऽन्योऽस्ति सदृशो मया।\nयक्ष्ये दास्यामि मोदिष्य इत्यज्ञानविमोहिताः॥",
+      "transliteration": "Adhyo'bhijanavan-asmi ko'nyo'sti sadrisho maya\nYakshye dasyami modishya ity-ajnana-vimohitah",
+      "wordByWord": [
+        {
+          "word": "आढ्यः",
+          "transliteration": "adhyah",
+          "meaning": "wealthy"
+        },
+        {
+          "word": "अभिजनवान्",
+          "transliteration": "abhijanavan",
+          "meaning": "of noble birth"
+        },
+        {
+          "word": "अस्मि",
+          "transliteration": "asmi",
+          "meaning": "I am"
+        },
+        {
+          "word": "कः अन्यः",
+          "transliteration": "kah anyah",
+          "meaning": "who else"
+        },
+        {
+          "word": "सदृशः",
+          "transliteration": "sadrishah",
+          "meaning": "equal"
+        },
+        {
+          "word": "मया",
+          "transliteration": "maya",
+          "meaning": "to me"
+        },
+        {
+          "word": "यक्ष्ये",
+          "transliteration": "yakshye",
+          "meaning": "I shall perform sacrifices"
+        },
+        {
+          "word": "दास्यामि",
+          "transliteration": "dasyami",
+          "meaning": "I shall give charity"
+        },
+        {
+          "word": "मोदिष्ये",
+          "transliteration": "modishye",
+          "meaning": "I shall rejoice"
+        },
+        {
+          "word": "अज्ञानविमोहिताः",
+          "transliteration": "ajnana-vimohitah",
+          "meaning": "deluded by ignorance"
+        }
+      ],
+      "hindiTranslation": "'मैं धनवान् हूँ, कुलीन हूँ, मेरे समान कौन है? मैं यज्ञ करूँगा, दान दूँगा, आनन्द मनाऊँगा' — ऐसे अज्ञान से मोहित होते हैं।",
+      "englishTranslation": "'I am wealthy and of noble birth. Who else is equal to me? I shall perform sacrifices, I shall give charity, I shall rejoice' — thus deluded by ignorance.",
+      "commentary": "Even religious acts become tainted by the demoniac ego when performed for prestige rather than devotion. The claim of being unequaled reveals complete spiritual blindness. Krishna shows that ignorance can corrupt even seemingly virtuous activities like sacrifice and charity.",
+      "slug": "verse-15",
+      "speaker": "Krishna"
+    },
+    {
+      "verseNumber": 16,
+      "devanagari": "अनेकचित्तविभ्रान्ता मोहजालसमावृताः।\nप्रसक्ताः कामभोगेषु पतन्ति नरकेऽशुचौ॥",
+      "transliteration": "Aneka-chitta-vibhranta moha-jala-samavritah\nPrasaktah kama-bhogeshu patanti narake'shuchau",
+      "wordByWord": [
+        {
+          "word": "अनेकचित्तविभ्रान्ताः",
+          "transliteration": "aneka-chitta-vibhrantah",
+          "meaning": "bewildered by many thoughts"
+        },
+        {
+          "word": "मोहजालसमावृताः",
+          "transliteration": "moha-jala-samavritah",
+          "meaning": "covered by a net of delusion"
+        },
+        {
+          "word": "प्रसक्ताः",
+          "transliteration": "prasaktah",
+          "meaning": "attached"
+        },
+        {
+          "word": "कामभोगेषु",
+          "transliteration": "kama-bhogeshu",
+          "meaning": "to sense enjoyment"
+        },
+        {
+          "word": "पतन्ति",
+          "transliteration": "patanti",
+          "meaning": "they fall"
+        },
+        {
+          "word": "नरके",
+          "transliteration": "narake",
+          "meaning": "into hell"
+        },
+        {
+          "word": "अशुचौ",
+          "transliteration": "ashuchau",
+          "meaning": "impure"
+        }
+      ],
+      "hindiTranslation": "अनेक प्रकार से भ्रमित चित्त वाले, मोह के जाल में फँसे हुए, कामभोगों में अत्यन्त आसक्त, वे अशुचि (अपवित्र) नरक में गिरते हैं।",
+      "englishTranslation": "Bewildered by many anxious thoughts, entangled in a net of delusion, and addicted to sense pleasures, they fall into a foul hell.",
+      "commentary": "The scattered mind, entrapped in delusion and addicted to pleasures, inevitably descends into suffering. The metaphor of a net captures how delusion entangles from all sides, leaving no escape. This is the natural consequence of the demoniac mentality described in previous verses.",
+      "slug": "verse-16",
+      "speaker": "Krishna"
+    },
+    {
+      "verseNumber": 17,
+      "devanagari": "आत्मसम्भाविताः स्तब्धा धनमानमदान्विताः।\nयजन्ते नामयज्ञैस्ते दम्भेनाविधिपूर्वकम्॥",
+      "transliteration": "Atma-sambhavitah stabdha dhana-mana-mada-anvitah\nYajante nama-yajnais-te dambhena-avidhi-purvakam",
+      "wordByWord": [
+        {
+          "word": "आत्मसम्भाविताः",
+          "transliteration": "atma-sambhavitah",
+          "meaning": "self-conceited"
+        },
+        {
+          "word": "स्तब्धाः",
+          "transliteration": "stabdhah",
+          "meaning": "obstinate"
+        },
+        {
+          "word": "धनमानमदान्विताः",
+          "transliteration": "dhana-mana-mada-anvitah",
+          "meaning": "intoxicated by wealth and pride"
+        },
+        {
+          "word": "यजन्ते",
+          "transliteration": "yajante",
+          "meaning": "they perform sacrifice"
+        },
+        {
+          "word": "नामयज्ञैः",
+          "transliteration": "nama-yajnaih",
+          "meaning": "sacrifices in name only"
+        },
+        {
+          "word": "दम्भेन",
+          "transliteration": "dambhena",
+          "meaning": "with hypocrisy"
+        },
+        {
+          "word": "अविधिपूर्वकम्",
+          "transliteration": "avidhi-purvakam",
+          "meaning": "without following proper rules"
+        }
+      ],
+      "hindiTranslation": "अपने आप को श्रेष्ठ मानने वाले, अकड़ू, धन और मान के मद से युक्त, वे दम्भपूर्वक नाममात्र के यज्ञ करते हैं — शास्त्रविधि के बिना।",
+      "englishTranslation": "Self-conceited, obstinate, intoxicated by wealth and pride, they perform sacrifices in name only, hypocritically, without following proper rules.",
+      "commentary": "Outward religious acts performed with ego and hypocrisy have no spiritual value. The demoniac turn even sacred rituals into displays of wealth and status. Without sincere devotion and proper scriptural guidance, such rituals become meaningless performances.",
+      "slug": "verse-17",
+      "speaker": "Krishna"
+    },
+    {
+      "verseNumber": 18,
+      "devanagari": "अहङ्कारं बलं दर्पं कामं क्रोधं च संश्रिताः।\nमामात्मपरदेहेषु प्रद्विषन्तोऽभ्यसूयकाः॥",
+      "transliteration": "Ahankaram balam darpam kamam krodham cha samshritah\nMam-atma-para-deheshu pradvisanto'bhyasuyakah",
+      "wordByWord": [
+        {
+          "word": "अहङ्कारम्",
+          "transliteration": "ahankaram",
+          "meaning": "egotism"
+        },
+        {
+          "word": "बलम्",
+          "transliteration": "balam",
+          "meaning": "force"
+        },
+        {
+          "word": "दर्पम्",
+          "transliteration": "darpam",
+          "meaning": "arrogance"
+        },
+        {
+          "word": "कामम्",
+          "transliteration": "kamam",
+          "meaning": "desire"
+        },
+        {
+          "word": "क्रोधम्",
+          "transliteration": "krodham",
+          "meaning": "anger"
+        },
+        {
+          "word": "संश्रिताः",
+          "transliteration": "samshritah",
+          "meaning": "taking refuge in"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        },
+        {
+          "word": "आत्मपरदेहेषु",
+          "transliteration": "atma-para-deheshu",
+          "meaning": "in their own and others' bodies"
+        },
+        {
+          "word": "प्रद्विषन्तः",
+          "transliteration": "pradvisantah",
+          "meaning": "envying/hating"
+        },
+        {
+          "word": "अभ्यसूयकाः",
+          "transliteration": "abhyasuyakah",
+          "meaning": "fault-finders"
+        }
+      ],
+      "hindiTranslation": "अहंकार, बल, दर्प, काम और क्रोध का आश्रय लेकर, ये दूषण लगाने वाले अपने और दूसरों के शरीर में स्थित मुझ परमात्मा से द्वेष करते हैं।",
+      "englishTranslation": "Taking refuge in egotism, force, arrogance, desire, and anger, these malicious people hate Me who dwells in their own bodies and in the bodies of others.",
+      "commentary": "The gravest consequence of demoniac nature is hatred toward the Divine who resides in all beings. By hating others, they unknowingly hate God who dwells within everyone. This represents the deepest level of spiritual degradation — rejecting the very source of existence.",
+      "slug": "verse-18",
+      "speaker": "Krishna"
+    },
+    {
+      "verseNumber": 19,
+      "devanagari": "तानहं द्विषतः क्रूरान्संसारेषु नराधमान्।\nक्षिपाम्यजस्रमशुभानासुरीष्वेव योनिषु॥",
+      "transliteration": "Tan-aham dvishatah kruran-samsareshu naradhaman\nKshipamy-ajasram-ashubhan-asurishv-eva yonishu",
+      "wordByWord": [
+        {
+          "word": "तान्",
+          "transliteration": "tan",
+          "meaning": "them"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I"
+        },
+        {
+          "word": "द्विषतः",
+          "transliteration": "dvishatah",
+          "meaning": "hateful"
+        },
+        {
+          "word": "क्रूरान्",
+          "transliteration": "kruran",
+          "meaning": "cruel"
+        },
+        {
+          "word": "संसारेषु",
+          "transliteration": "samsareshu",
+          "meaning": "in the cycle of birth and death"
+        },
+        {
+          "word": "नराधमान्",
+          "transliteration": "naradhaman",
+          "meaning": "lowest of mankind"
+        },
+        {
+          "word": "क्षिपामि",
+          "transliteration": "kshipami",
+          "meaning": "I hurl"
+        },
+        {
+          "word": "अजस्रम्",
+          "transliteration": "ajasram",
+          "meaning": "repeatedly"
+        },
+        {
+          "word": "अशुभान्",
+          "transliteration": "ashubhan",
+          "meaning": "inauspicious"
+        },
+        {
+          "word": "आसुरीषु योनिषु",
+          "transliteration": "asurishu yonishu",
+          "meaning": "into demoniac wombs"
+        }
+      ],
+      "hindiTranslation": "उन द्वेषी, क्रूर, संसार के सबसे नीच, अशुभ मनुष्यों को मैं बार-बार आसुरी योनियों में गिराता हूँ।",
+      "englishTranslation": "Those hateful, cruel, and vile — the lowest of mankind — I repeatedly cast into demoniac wombs in the cycle of birth and death.",
+      "commentary": "This verse describes the karmic consequence for those who persist in demoniac behavior. God does not punish arbitrarily but allows the law of karma to place souls according to their nature. Repeated birth in demoniac conditions is the natural result of persistent hatred and cruelty.",
+      "slug": "verse-19",
+      "speaker": "Krishna"
+    },
+    {
+      "verseNumber": 20,
+      "devanagari": "आसुरीं योनिमापन्ना मूढा जन्मनि जन्मनि।\nमामप्राप्यैव कौन्तेय ततो यान्त्यधमां गतिम्॥",
+      "transliteration": "Asurim yonim-apanna mudha janmani janmani\nMam-aprapya-eva Kaunteya tato yanty-adhamam gatim",
+      "wordByWord": [
+        {
+          "word": "आसुरीम्",
+          "transliteration": "asurim",
+          "meaning": "demoniac"
+        },
+        {
+          "word": "योनिम्",
+          "transliteration": "yonim",
+          "meaning": "womb"
+        },
+        {
+          "word": "आपन्नाः",
+          "transliteration": "apannah",
+          "meaning": "attaining"
+        },
+        {
+          "word": "मूढाः",
+          "transliteration": "mudhah",
+          "meaning": "deluded"
+        },
+        {
+          "word": "जन्मनि जन्मनि",
+          "transliteration": "janmani janmani",
+          "meaning": "birth after birth"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        },
+        {
+          "word": "अप्राप्य",
+          "transliteration": "aprapya",
+          "meaning": "not attaining"
+        },
+        {
+          "word": "कौन्तेय",
+          "transliteration": "Kaunteya",
+          "meaning": "O son of Kunti"
+        },
+        {
+          "word": "अधमाम् गतिम्",
+          "transliteration": "adhamam gatim",
+          "meaning": "the lowest destination"
+        }
+      ],
+      "hindiTranslation": "हे कौन्तेय! आसुरी योनि को प्राप्त, मूढ़ लोग जन्म-जन्म में मुझे प्राप्त न करके अधम गति को जाते हैं।",
+      "englishTranslation": "Attaining demoniac wombs birth after birth, these deluded souls never reach Me, O Kaunteya, and thus sink to the lowest state.",
+      "commentary": "The repetition of 'birth after birth' emphasizes the tragic cycle of those trapped in demoniac nature. Without turning toward God, there is no escape from this downward spiral. This verse serves as a powerful warning about the consequences of persistent spiritual negligence.",
+      "slug": "verse-20",
+      "speaker": "Krishna"
+    },
+    {
+      "verseNumber": 21,
+      "devanagari": "त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः।\nकामः क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत्॥",
+      "transliteration": "Trividham narakasye-dam dvaram nashanam-atmanah\nKamah krodhas-tatha lobhas-tasmad-etat-trayam tyajet",
+      "wordByWord": [
+        {
+          "word": "त्रिविधम्",
+          "transliteration": "trividham",
+          "meaning": "three kinds"
+        },
+        {
+          "word": "नरकस्य",
+          "transliteration": "narakasya",
+          "meaning": "of hell"
+        },
+        {
+          "word": "इदम्",
+          "transliteration": "idam",
+          "meaning": "this"
+        },
+        {
+          "word": "द्वारम्",
+          "transliteration": "dvaram",
+          "meaning": "gate"
+        },
+        {
+          "word": "नाशनम्",
+          "transliteration": "nashanam",
+          "meaning": "destructive"
+        },
+        {
+          "word": "आत्मनः",
+          "transliteration": "atmanah",
+          "meaning": "of the self"
+        },
+        {
+          "word": "कामः",
+          "transliteration": "kamah",
+          "meaning": "lust"
+        },
+        {
+          "word": "क्रोधः",
+          "transliteration": "krodhah",
+          "meaning": "anger"
+        },
+        {
+          "word": "लोभः",
+          "transliteration": "lobhah",
+          "meaning": "greed"
+        },
+        {
+          "word": "तस्मात्",
+          "transliteration": "tasmat",
+          "meaning": "therefore"
+        },
+        {
+          "word": "एतत् त्रयम्",
+          "transliteration": "etat trayam",
+          "meaning": "these three"
+        },
+        {
+          "word": "त्यजेत्",
+          "transliteration": "tyajet",
+          "meaning": "one should abandon"
+        }
+      ],
+      "hindiTranslation": "काम, क्रोध और लोभ — ये तीन नरक के द्वार हैं जो आत्मा का नाश करते हैं। इसलिए इन तीनों को त्याग देना चाहिए।",
+      "englishTranslation": "There are three gates to hell that lead to the destruction of the self — lust, anger, and greed. Therefore, one should abandon all three.",
+      "commentary": "This is one of the most quoted verses of the Gita, summarizing the root causes of spiritual downfall. Lust, anger, and greed are interconnected — unfulfilled desire leads to anger, and greed fuels endless craving. Abandoning these three opens the path to liberation.",
+      "slug": "verse-21",
+      "speaker": "Krishna"
+    },
+    {
+      "verseNumber": 22,
+      "devanagari": "एतैर्विमुक्तः कौन्तेय तमोद्वारैस्त्रिभिर्नरः।\nआचरत्यात्मनः श्रेयस्ततो याति परां गतिम्॥",
+      "transliteration": "Etair-vimuktah Kaunteya tamo-dvarais-tribhir-narah\nAcharaty-atmanah shreyas-tato yati param gatim",
+      "wordByWord": [
+        {
+          "word": "एतैः",
+          "transliteration": "etaih",
+          "meaning": "from these"
+        },
+        {
+          "word": "विमुक्तः",
+          "transliteration": "vimuktah",
+          "meaning": "freed"
+        },
+        {
+          "word": "कौन्तेय",
+          "transliteration": "Kaunteya",
+          "meaning": "O son of Kunti"
+        },
+        {
+          "word": "तमोद्वारैः",
+          "transliteration": "tamo-dvaraih",
+          "meaning": "gates of darkness"
+        },
+        {
+          "word": "त्रिभिः",
+          "transliteration": "tribhih",
+          "meaning": "three"
+        },
+        {
+          "word": "नरः",
+          "transliteration": "narah",
+          "meaning": "a person"
+        },
+        {
+          "word": "आचरति",
+          "transliteration": "acharati",
+          "meaning": "practices"
+        },
+        {
+          "word": "आत्मनः",
+          "transliteration": "atmanah",
+          "meaning": "for the self"
+        },
+        {
+          "word": "श्रेयः",
+          "transliteration": "shreyah",
+          "meaning": "what is beneficial"
+        },
+        {
+          "word": "पराम् गतिम्",
+          "transliteration": "param gatim",
+          "meaning": "the supreme destination"
+        }
+      ],
+      "hindiTranslation": "हे कौन्तेय! इन तीन तमोद्वारों (अन्धकार के द्वारों) से मुक्त हुआ मनुष्य अपने कल्याण का आचरण करता है और फिर परम गति को प्राप्त होता है।",
+      "englishTranslation": "A person who is freed from these three gates of darkness, O Kaunteya, practices what is good for the self and thus attains the supreme destination.",
+      "commentary": "Liberation from lust, anger, and greed naturally leads to righteous conduct and spiritual progress. Once these destructive tendencies are overcome, the soul is free to pursue its highest good. This verse provides hope by showing that the path to the supreme is accessible to anyone who conquers these three enemies.",
+      "slug": "verse-22",
+      "speaker": "Krishna"
+    },
+    {
+      "verseNumber": 23,
+      "devanagari": "यः शास्त्रविधिमुत्सृज्य वर्तते कामकारतः।\nन स सिद्धिमवाप्नोति न सुखं न परां गतिम्॥",
+      "transliteration": "Yah shastra-vidhim-utsrijya vartate kama-karatah\nNa sa siddhim-avapnoti na sukham na param gatim",
+      "wordByWord": [
+        {
+          "word": "यः",
+          "transliteration": "yah",
+          "meaning": "who"
+        },
+        {
+          "word": "शास्त्रविधिम्",
+          "transliteration": "shastra-vidhim",
+          "meaning": "scriptural injunctions"
+        },
+        {
+          "word": "उत्सृज्य",
+          "transliteration": "utsrijya",
+          "meaning": "discarding"
+        },
+        {
+          "word": "वर्तते",
+          "transliteration": "vartate",
+          "meaning": "acts"
+        },
+        {
+          "word": "कामकारतः",
+          "transliteration": "kama-karatah",
+          "meaning": "according to whims"
+        },
+        {
+          "word": "न सिद्धिम्",
+          "transliteration": "na siddhim",
+          "meaning": "neither perfection"
+        },
+        {
+          "word": "अवाप्नोति",
+          "transliteration": "avapnoti",
+          "meaning": "attains"
+        },
+        {
+          "word": "न सुखम्",
+          "transliteration": "na sukham",
+          "meaning": "nor happiness"
+        },
+        {
+          "word": "न पराम् गतिम्",
+          "transliteration": "na param gatim",
+          "meaning": "nor the supreme goal"
+        }
+      ],
+      "hindiTranslation": "जो मनुष्य शास्त्रविधि को त्यागकर अपनी इच्छा से मनमाने आचरण करता है, वह न सिद्धि प्राप्त करता है, न सुख, न परम गति।",
+      "englishTranslation": "He who discards scriptural injunctions and acts according to his own whims attains neither perfection, nor happiness, nor the supreme goal.",
+      "commentary": "Krishna warns against the danger of abandoning scriptural guidance in favor of impulsive desires. Without a moral framework, neither material success nor spiritual fulfillment is possible. This verse establishes scripture as the reliable compass for distinguishing right action from wrong.",
+      "slug": "verse-23",
+      "speaker": "Krishna"
+    },
+    {
+      "verseNumber": 24,
+      "devanagari": "तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ।\nज्ञात्वा शास्त्रविधानोक्तं कर्म कर्तुमिहार्हसि॥",
+      "transliteration": "Tasmach-chhastram pramanam te karya-akarya-vyavasthitau\nJnatva shastra-vidhano-uktam karma kartum-iha-arhasi",
+      "wordByWord": [
+        {
+          "word": "तस्मात्",
+          "transliteration": "tasmat",
+          "meaning": "therefore"
+        },
+        {
+          "word": "शास्त्रम्",
+          "transliteration": "shastram",
+          "meaning": "scripture"
+        },
+        {
+          "word": "प्रमाणम्",
+          "transliteration": "pramanam",
+          "meaning": "authority"
+        },
+        {
+          "word": "ते",
+          "transliteration": "te",
+          "meaning": "your"
+        },
+        {
+          "word": "कार्याकार्यव्यवस्थितौ",
+          "transliteration": "karya-akarya-vyavasthitau",
+          "meaning": "in determining what to do and not do"
+        },
+        {
+          "word": "ज्ञात्वा",
+          "transliteration": "jnatva",
+          "meaning": "knowing"
+        },
+        {
+          "word": "शास्त्रविधानोक्तम्",
+          "transliteration": "shastra-vidhana-uktam",
+          "meaning": "prescribed by scriptural rules"
+        },
+        {
+          "word": "कर्म",
+          "transliteration": "karma",
+          "meaning": "action"
+        },
+        {
+          "word": "कर्तुम्",
+          "transliteration": "kartum",
+          "meaning": "to perform"
+        },
+        {
+          "word": "इह",
+          "transliteration": "iha",
+          "meaning": "here"
+        },
+        {
+          "word": "अर्हसि",
+          "transliteration": "arhasi",
+          "meaning": "you should"
+        }
+      ],
+      "hindiTranslation": "इसलिए कार्य और अकार्य की व्यवस्था में शास्त्र ही तेरा प्रमाण है। शास्त्र-विधान से उक्त कर्म को जानकर तुम्हें यहाँ कर्म करना चाहिए।",
+      "englishTranslation": "Therefore, let scripture be your authority in determining what should be done and what should not be done. Knowing the scriptural injunctions, you should perform your duty here.",
+      "commentary": "The chapter concludes with a practical instruction: use scripture as the guide for moral decision-making. This is not blind obedience but informed understanding of dharmic principles. Krishna directs Arjuna — and all seekers — to act according to scriptural wisdom rather than personal whims or demoniac impulses.",
+      "slug": "verse-24",
+      "speaker": "Krishna"
+    }
+  ]
+}

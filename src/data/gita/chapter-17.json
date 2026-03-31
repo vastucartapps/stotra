@@ -1,0 +1,1682 @@
+{
+  "chapterNumber": 17,
+  "titleSanskrit": "श्रद्धात्रयविभागयोगः",
+  "titleHindi": "श्रद्धा के तीन प्रकारों का योग",
+  "titleEnglish": "Shraddhatraya Vibhaga Yoga - The Yoga of the Division of Threefold Faith",
+  "slug": "chapter-17",
+  "description": "Bhagavad Gita Chapter 17, Shraddhatraya Vibhaga Yoga, explores the threefold nature of faith (shraddha) according to the three gunas — sattva, rajas, and tamas. Prompted by Arjuna's question about those who worship with faith but disregard scriptural rules, Krishna explains that every person's faith corresponds to their innate nature. The chapter systematically classifies food, sacrifice, austerity, and charity into sattvic, rajasic, and tamasic categories. Sattvic food promotes health and longevity, sattvic sacrifice is performed without desire for reward, and sattvic charity is given selflessly at the right time and place. Krishna also describes three types of austerity — physical, verbal, and mental. The chapter culminates with the sacred teaching of Om Tat Sat, the threefold designation of Brahman, establishing that all acts of sacrifice, charity, and austerity should be performed with faith and dedication to the Supreme.",
+  "verseCount": 28,
+  "verses": [
+    {
+      "verseNumber": 1,
+      "speaker": "Arjuna",
+      "devanagari": "ये शास्त्रविधिमुत्सृज्य यजन्ते श्रद्धयान्विताः।\nतेषां निष्ठा तु का कृष्ण सत्त्वमाहो रजस्तमः॥",
+      "transliteration": "Ye shastra-vidhim-utsrijya yajante shraddhaya-anvitah\nTesham nishtha tu ka Krishna sattvam-aho rajas-tamah",
+      "wordByWord": [
+        {
+          "word": "ये",
+          "transliteration": "ye",
+          "meaning": "those who"
+        },
+        {
+          "word": "शास्त्रविधिम्",
+          "transliteration": "shastra-vidhim",
+          "meaning": "scriptural injunctions"
+        },
+        {
+          "word": "उत्सृज्य",
+          "transliteration": "utsrijya",
+          "meaning": "discarding"
+        },
+        {
+          "word": "यजन्ते",
+          "transliteration": "yajante",
+          "meaning": "worship"
+        },
+        {
+          "word": "श्रद्धया",
+          "transliteration": "shraddhaya",
+          "meaning": "with faith"
+        },
+        {
+          "word": "अन्विताः",
+          "transliteration": "anvitah",
+          "meaning": "endowed"
+        },
+        {
+          "word": "तेषाम्",
+          "transliteration": "tesham",
+          "meaning": "their"
+        },
+        {
+          "word": "निष्ठा",
+          "transliteration": "nishtha",
+          "meaning": "position/faith"
+        },
+        {
+          "word": "का",
+          "transliteration": "ka",
+          "meaning": "what"
+        },
+        {
+          "word": "कृष्ण",
+          "transliteration": "Krishna",
+          "meaning": "O Krishna"
+        },
+        {
+          "word": "सत्त्वम्",
+          "transliteration": "sattvam",
+          "meaning": "sattva (goodness)"
+        },
+        {
+          "word": "रजः",
+          "transliteration": "rajah",
+          "meaning": "rajas (passion)"
+        },
+        {
+          "word": "तमः",
+          "transliteration": "tamah",
+          "meaning": "tamas (ignorance)"
+        }
+      ],
+      "hindiTranslation": "अर्जुन बोले — हे कृष्ण! जो लोग शास्त्रविधि को त्यागकर श्रद्धा से युक्त होकर पूजन करते हैं, उनकी स्थिति क्या है — सत्त्व, रजस् या तमस्?",
+      "englishTranslation": "Arjuna said: O Krishna, what is the position of those who discard scriptural rules yet worship with faith? Is their faith in the mode of goodness, passion, or ignorance?",
+      "commentary": "Arjuna raises an important practical question: what about sincere devotees who have faith but don't follow scriptural rules? This question bridges the previous chapter's emphasis on scripture with the reality that many people worship genuinely but without formal knowledge.",
+      "slug": "verse-1"
+    },
+    {
+      "verseNumber": 2,
+      "speaker": "Krishna",
+      "devanagari": "त्रिविधा भवति श्रद्धा देहिनां सा स्वभावजा।\nसात्त्विकी राजसी चैव तामसी चेति तां शृणु॥",
+      "transliteration": "Trividha bhavati shraddha dehinam sa svabhava-ja\nSattviki rajasi chaiva tamasi che-ti tam shrinu",
+      "wordByWord": [
+        {
+          "word": "त्रिविधा",
+          "transliteration": "trividha",
+          "meaning": "threefold"
+        },
+        {
+          "word": "भवति",
+          "transliteration": "bhavati",
+          "meaning": "is"
+        },
+        {
+          "word": "श्रद्धा",
+          "transliteration": "shraddha",
+          "meaning": "faith"
+        },
+        {
+          "word": "देहिनाम्",
+          "transliteration": "dehinam",
+          "meaning": "of the embodied"
+        },
+        {
+          "word": "सा",
+          "transliteration": "sa",
+          "meaning": "that"
+        },
+        {
+          "word": "स्वभावजा",
+          "transliteration": "svabhava-ja",
+          "meaning": "born of one's nature"
+        },
+        {
+          "word": "सात्त्विकी",
+          "transliteration": "sattviki",
+          "meaning": "sattvic"
+        },
+        {
+          "word": "राजसी",
+          "transliteration": "rajasi",
+          "meaning": "rajasic"
+        },
+        {
+          "word": "तामसी",
+          "transliteration": "tamasi",
+          "meaning": "tamasic"
+        },
+        {
+          "word": "शृणु",
+          "transliteration": "shrinu",
+          "meaning": "hear"
+        }
+      ],
+      "hindiTranslation": "श्रीभगवान् बोले — देहधारियों की श्रद्धा स्वभाव से उत्पन्न तीन प्रकार की होती है — सात्त्विकी, राजसी और तामसी। उसे सुनो।",
+      "englishTranslation": "The Supreme Lord said: The faith of embodied beings is of three kinds, born of their innate nature — sattvic, rajasic, and tamasic. Hear about it.",
+      "commentary": "Krishna responds by classifying faith itself into three categories based on the dominant guna. Faith is not uniform — it takes on the quality of one's inherent nature. This framework allows self-assessment without judging faith as simply present or absent.",
+      "slug": "verse-2"
+    },
+    {
+      "verseNumber": 3,
+      "speaker": "Krishna",
+      "devanagari": "सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत।\nश्रद्धामयोऽयं पुरुषो यो यच्छ्रद्धः स एव सः॥",
+      "transliteration": "Sattva-anurupa sarvasya shraddha bhavati Bharata\nShraddha-mayo'yam purusho yo yach-chraddhah sa eva sah",
+      "wordByWord": [
+        {
+          "word": "सत्त्वानुरूपा",
+          "transliteration": "sattva-anurupa",
+          "meaning": "according to one's nature"
+        },
+        {
+          "word": "सर्वस्य",
+          "transliteration": "sarvasya",
+          "meaning": "of everyone"
+        },
+        {
+          "word": "श्रद्धा",
+          "transliteration": "shraddha",
+          "meaning": "faith"
+        },
+        {
+          "word": "भवति",
+          "transliteration": "bhavati",
+          "meaning": "is"
+        },
+        {
+          "word": "भारत",
+          "transliteration": "Bharata",
+          "meaning": "O Bharata"
+        },
+        {
+          "word": "श्रद्धामयः",
+          "transliteration": "shraddha-mayah",
+          "meaning": "full of faith"
+        },
+        {
+          "word": "अयम् पुरुषः",
+          "transliteration": "ayam purushah",
+          "meaning": "this person"
+        },
+        {
+          "word": "यः यत् श्रद्धः",
+          "transliteration": "yah yat shraddhah",
+          "meaning": "whatever faith one has"
+        },
+        {
+          "word": "सः एव सः",
+          "transliteration": "sah eva sah",
+          "meaning": "that indeed is he"
+        }
+      ],
+      "hindiTranslation": "हे भारत! सबकी श्रद्धा उनके अन्तःकरण के अनुरूप होती है। यह पुरुष श्रद्धामय है — जो जैसी श्रद्धा रखता है, वह वैसा ही है।",
+      "englishTranslation": "O Bharata, the faith of everyone corresponds to their inner nature. A person is made of their faith — whatever one's faith is, that indeed is what they are.",
+      "commentary": "This profound verse establishes that faith defines identity — you are what you believe. Your deepest convictions shape your character, choices, and destiny. This teaching empowers spiritual growth by showing that transforming one's faith transforms one's entire being.",
+      "slug": "verse-3"
+    },
+    {
+      "verseNumber": 4,
+      "speaker": "Krishna",
+      "devanagari": "यजन्ते सात्त्विका देवान्यक्षरक्षांसि राजसाः।\nप्रेतान्भूतगणांश्चान्ये यजन्ते तामसा जनाः॥",
+      "transliteration": "Yajante sattvika devan yaksha-rakshamsi rajasah\nPretan-bhuta-ganamsh-cha-anye yajante tamasa janah",
+      "wordByWord": [
+        {
+          "word": "यजन्ते",
+          "transliteration": "yajante",
+          "meaning": "worship"
+        },
+        {
+          "word": "सात्त्विकाः",
+          "transliteration": "sattvikah",
+          "meaning": "those in goodness"
+        },
+        {
+          "word": "देवान्",
+          "transliteration": "devan",
+          "meaning": "gods"
+        },
+        {
+          "word": "यक्षरक्षांसि",
+          "transliteration": "yaksha-rakshamsi",
+          "meaning": "yakshas and rakshasas"
+        },
+        {
+          "word": "राजसाः",
+          "transliteration": "rajasah",
+          "meaning": "those in passion"
+        },
+        {
+          "word": "प्रेतान्",
+          "transliteration": "pretan",
+          "meaning": "ghosts"
+        },
+        {
+          "word": "भूतगणान्",
+          "transliteration": "bhuta-ganan",
+          "meaning": "spirits"
+        },
+        {
+          "word": "तामसाः",
+          "transliteration": "tamasah",
+          "meaning": "those in ignorance"
+        },
+        {
+          "word": "जनाः",
+          "transliteration": "janah",
+          "meaning": "people"
+        }
+      ],
+      "hindiTranslation": "सात्त्विक लोग देवताओं की पूजा करते हैं, राजसिक लोग यक्ष-राक्षसों की, और तामसिक लोग प्रेत-भूतगणों की पूजा करते हैं।",
+      "englishTranslation": "Those in the mode of goodness worship the gods; those in the mode of passion worship yakshas and rakshasas; and those in the mode of ignorance worship ghosts and spirits.",
+      "commentary": "The object of worship directly reflects one's dominant guna. Sattvic people are drawn to divine beings, rajasic to powerful entities that grant material desires, and tamasic to dark forces. This classification helps seekers evaluate and elevate their spiritual aspirations.",
+      "slug": "verse-4"
+    },
+    {
+      "verseNumber": 5,
+      "speaker": "Krishna",
+      "devanagari": "अशास्त्रविहितं घोरं तप्यन्ते ये तपो जनाः।\nदम्भाहङ्कारसंयुक्ताः कामरागबलान्विताः॥",
+      "transliteration": "Ashastra-vihitam ghoram tapyante ye tapo janah\nDambha-ahankara-samyuktah kama-raga-bala-anvitah",
+      "wordByWord": [
+        {
+          "word": "अशास्त्रविहितम्",
+          "transliteration": "ashastra-vihitam",
+          "meaning": "not enjoined by scriptures"
+        },
+        {
+          "word": "घोरम्",
+          "transliteration": "ghoram",
+          "meaning": "terrible"
+        },
+        {
+          "word": "तप्यन्ते",
+          "transliteration": "tapyante",
+          "meaning": "perform"
+        },
+        {
+          "word": "ये",
+          "transliteration": "ye",
+          "meaning": "those who"
+        },
+        {
+          "word": "तपः",
+          "transliteration": "tapah",
+          "meaning": "austerity"
+        },
+        {
+          "word": "जनाः",
+          "transliteration": "janah",
+          "meaning": "people"
+        },
+        {
+          "word": "दम्भाहङ्कारसंयुक्ताः",
+          "transliteration": "dambha-ahankara-samyuktah",
+          "meaning": "full of hypocrisy and egotism"
+        },
+        {
+          "word": "कामरागबलान्विताः",
+          "transliteration": "kama-raga-bala-anvitah",
+          "meaning": "driven by desire, attachment and force"
+        }
+      ],
+      "hindiTranslation": "जो लोग शास्त्रविधि के विरुद्ध घोर तपस्या करते हैं, दम्भ और अहंकार से युक्त, काम, राग और बल से प्रेरित —",
+      "englishTranslation": "Those who perform terrible austerities not enjoined by scripture, full of hypocrisy and egotism, driven by desire, attachment, and force —",
+      "commentary": "This verse begins a two-verse warning about misguided austerity. Extreme self-mortification done without scriptural basis and driven by ego is not true tapas. The motivation behind austerity matters as much as the practice itself.",
+      "slug": "verse-5"
+    },
+    {
+      "verseNumber": 6,
+      "speaker": "Krishna",
+      "devanagari": "कर्शयन्तः शरीरस्थं भूतग्राममचेतसः।\nमां चैवान्तःशरीरस्थं तान्विद्ध्यासुरनिश्चयान्॥",
+      "transliteration": "Karshayantah sharira-stham bhuta-gramam-achetasah\nMam chaiva-antah-sharira-stham tan-viddhy-asura-nishchayan",
+      "wordByWord": [
+        {
+          "word": "कर्शयन्तः",
+          "transliteration": "karshayantah",
+          "meaning": "tormenting"
+        },
+        {
+          "word": "शरीरस्थम्",
+          "transliteration": "sharira-stham",
+          "meaning": "dwelling in the body"
+        },
+        {
+          "word": "भूतग्रामम्",
+          "transliteration": "bhuta-gramam",
+          "meaning": "the aggregate of elements"
+        },
+        {
+          "word": "अचेतसः",
+          "transliteration": "achetasah",
+          "meaning": "without understanding"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        },
+        {
+          "word": "अन्तःशरीरस्थम्",
+          "transliteration": "antah-sharira-stham",
+          "meaning": "dwelling within the body"
+        },
+        {
+          "word": "तान्",
+          "transliteration": "tan",
+          "meaning": "them"
+        },
+        {
+          "word": "विद्धि",
+          "transliteration": "viddhi",
+          "meaning": "know"
+        },
+        {
+          "word": "आसुरनिश्चयान्",
+          "transliteration": "asura-nishchayan",
+          "meaning": "of demoniac resolve"
+        }
+      ],
+      "hindiTranslation": "— जो शरीर में स्थित भूत-समुदाय को और शरीर के भीतर स्थित मुझ परमात्मा को भी कष्ट देते हैं, ऐसे अज्ञानियों को तुम आसुरी निश्चय वाले जानो।",
+      "englishTranslation": "— who torment the bodily elements and also Me who dwells within the body — know them to be of demoniac resolve, lacking true understanding.",
+      "commentary": "Those who torture their own body through extreme practices also torture the indwelling God. Krishna reveals that the body is a sacred temple housing the Divine, and harming it is an act against God. True spiritual practice nourishes rather than destroys the body-mind instrument.",
+      "slug": "verse-6"
+    },
+    {
+      "verseNumber": 7,
+      "speaker": "Krishna",
+      "devanagari": "आहारस्त्वपि सर्वस्य त्रिविधो भवति प्रियः।\nयज्ञस्तपस्तथा दानं तेषां भेदमिमं शृणु॥",
+      "transliteration": "Aharas-tv-api sarvasya trividho bhavati priyah\nYajnas-tapas-tatha danam tesham bhedam-imam shrinu",
+      "wordByWord": [
+        {
+          "word": "आहारः",
+          "transliteration": "aharah",
+          "meaning": "food"
+        },
+        {
+          "word": "तु अपि",
+          "transliteration": "tu api",
+          "meaning": "also indeed"
+        },
+        {
+          "word": "सर्वस्य",
+          "transliteration": "sarvasya",
+          "meaning": "of everyone"
+        },
+        {
+          "word": "त्रिविधः",
+          "transliteration": "trividhah",
+          "meaning": "threefold"
+        },
+        {
+          "word": "भवति",
+          "transliteration": "bhavati",
+          "meaning": "is"
+        },
+        {
+          "word": "प्रियः",
+          "transliteration": "priyah",
+          "meaning": "dear"
+        },
+        {
+          "word": "यज्ञः",
+          "transliteration": "yajnah",
+          "meaning": "sacrifice"
+        },
+        {
+          "word": "तपः",
+          "transliteration": "tapah",
+          "meaning": "austerity"
+        },
+        {
+          "word": "दानम्",
+          "transliteration": "danam",
+          "meaning": "charity"
+        },
+        {
+          "word": "तेषाम् भेदम्",
+          "transliteration": "tesham bhedam",
+          "meaning": "their distinction"
+        },
+        {
+          "word": "शृणु",
+          "transliteration": "shrinu",
+          "meaning": "hear"
+        }
+      ],
+      "hindiTranslation": "प्रत्येक व्यक्ति को प्रिय आहार भी तीन प्रकार का होता है। इसी प्रकार यज्ञ, तप और दान भी — उनके भेद को सुनो।",
+      "englishTranslation": "The food that is dear to everyone is also of three kinds. So too are sacrifice, austerity, and charity. Hear now their distinctions.",
+      "commentary": "Krishna introduces a practical framework for spiritual self-assessment through everyday activities. Food, worship, discipline, and generosity — the building blocks of daily life — are all colored by the dominant guna. Understanding these distinctions helps one consciously elevate each aspect of life.",
+      "slug": "verse-7"
+    },
+    {
+      "verseNumber": 8,
+      "speaker": "Krishna",
+      "devanagari": "आयुःसत्त्वबलारोग्यसुखप्रीतिविवर्धनाः।\nरस्याः स्निग्धाः स्थिरा हृद्या आहाराः सात्त्विकप्रियाः॥",
+      "transliteration": "Ayuh-sattva-bala-arogya-sukha-priti-vivardhanah\nRasyah snigdhah sthira hridya aharah sattvika-priyah",
+      "wordByWord": [
+        {
+          "word": "आयुः",
+          "transliteration": "ayuh",
+          "meaning": "longevity"
+        },
+        {
+          "word": "सत्त्व",
+          "transliteration": "sattva",
+          "meaning": "vitality"
+        },
+        {
+          "word": "बल",
+          "transliteration": "bala",
+          "meaning": "strength"
+        },
+        {
+          "word": "आरोग्य",
+          "transliteration": "arogya",
+          "meaning": "health"
+        },
+        {
+          "word": "सुखप्रीतिविवर्धनाः",
+          "transliteration": "sukha-priti-vivardhanah",
+          "meaning": "promoting happiness and satisfaction"
+        },
+        {
+          "word": "रस्याः",
+          "transliteration": "rasyah",
+          "meaning": "juicy"
+        },
+        {
+          "word": "स्निग्धाः",
+          "transliteration": "snigdhah",
+          "meaning": "oily/nourishing"
+        },
+        {
+          "word": "स्थिराः",
+          "transliteration": "sthirah",
+          "meaning": "substantial"
+        },
+        {
+          "word": "हृद्याः",
+          "transliteration": "hridyah",
+          "meaning": "pleasing to the heart"
+        },
+        {
+          "word": "सात्त्विकप्रियाः",
+          "transliteration": "sattvika-priyah",
+          "meaning": "dear to sattvic people"
+        }
+      ],
+      "hindiTranslation": "आयु, सत्त्व, बल, आरोग्य, सुख और प्रीति बढ़ाने वाले, रसयुक्त, स्निग्ध, स्थिर और हृदय को प्रिय आहार सात्त्विक लोगों को प्रिय होते हैं।",
+      "englishTranslation": "Foods that promote longevity, vitality, strength, health, happiness, and satisfaction — which are juicy, nourishing, substantial, and pleasing to the heart — are dear to those in the mode of goodness.",
+      "commentary": "Sattvic food nourishes body and mind together. These foods are fresh, wholesome, and naturally pleasing rather than artificially stimulating. The Gita's dietary guidance aligns with the principle that what we consume directly affects our consciousness and spiritual capacity.",
+      "slug": "verse-8"
+    },
+    {
+      "verseNumber": 9,
+      "speaker": "Krishna",
+      "devanagari": "कट्वम्ललवणात्युष्णतीक्ष्णरूक्षविदाहिनः।\nआहारा राजसस्येष्टा दुःखशोकामयप्रदाः॥",
+      "transliteration": "Katv-amla-lavana-atyushna-tikshna-ruksha-vidahinah\nAhara rajasasya-ishta duhkha-shoka-amaya-pradah",
+      "wordByWord": [
+        {
+          "word": "कटु",
+          "transliteration": "katu",
+          "meaning": "bitter"
+        },
+        {
+          "word": "अम्ल",
+          "transliteration": "amla",
+          "meaning": "sour"
+        },
+        {
+          "word": "लवण",
+          "transliteration": "lavana",
+          "meaning": "salty"
+        },
+        {
+          "word": "अत्युष्ण",
+          "transliteration": "atyushna",
+          "meaning": "very hot"
+        },
+        {
+          "word": "तीक्ष्ण",
+          "transliteration": "tikshna",
+          "meaning": "pungent"
+        },
+        {
+          "word": "रूक्ष",
+          "transliteration": "ruksha",
+          "meaning": "dry"
+        },
+        {
+          "word": "विदाहिनः",
+          "transliteration": "vidahinah",
+          "meaning": "burning"
+        },
+        {
+          "word": "आहाराः",
+          "transliteration": "aharah",
+          "meaning": "foods"
+        },
+        {
+          "word": "राजसस्य",
+          "transliteration": "rajasasya",
+          "meaning": "of rajasic person"
+        },
+        {
+          "word": "इष्टाः",
+          "transliteration": "ishtah",
+          "meaning": "desirable"
+        },
+        {
+          "word": "दुःखशोकामयप्रदाः",
+          "transliteration": "duhkha-shoka-amaya-pradah",
+          "meaning": "causing pain, grief and disease"
+        }
+      ],
+      "hindiTranslation": "कड़वे, खट्टे, नमकीन, अत्यन्त गरम, तीखे, रूखे और जलन पैदा करने वाले आहार राजसिक लोगों को प्रिय होते हैं — ये दुःख, शोक और रोग देते हैं।",
+      "englishTranslation": "Foods that are bitter, sour, salty, very hot, pungent, dry, and burning are dear to those in the mode of passion. They cause pain, grief, and disease.",
+      "commentary": "Rajasic food stimulates and aggravates the body and mind. Excessive spices and extreme flavors create restlessness and eventually lead to physical ailments. This verse warns that the temporary excitement from such foods comes at the cost of long-term health and peace.",
+      "slug": "verse-9"
+    },
+    {
+      "verseNumber": 10,
+      "speaker": "Krishna",
+      "devanagari": "यातयामं गतरसं पूति पर्युषितं च यत्।\nउच्छिष्टमपि चामेध्यं भोजनं तामसप्रियम्॥",
+      "transliteration": "Yata-yamam gata-rasam puti paryushitam cha yat\nUchchhishtam-api cha-amedhyam bhojanam tamasa-priyam",
+      "wordByWord": [
+        {
+          "word": "यातयामम्",
+          "transliteration": "yata-yamam",
+          "meaning": "stale"
+        },
+        {
+          "word": "गतरसम्",
+          "transliteration": "gata-rasam",
+          "meaning": "tasteless"
+        },
+        {
+          "word": "पूति",
+          "transliteration": "puti",
+          "meaning": "foul-smelling"
+        },
+        {
+          "word": "पर्युषितम्",
+          "transliteration": "paryushitam",
+          "meaning": "decomposed"
+        },
+        {
+          "word": "उच्छिष्टम्",
+          "transliteration": "uchchhishtam",
+          "meaning": "leftover/remnants"
+        },
+        {
+          "word": "अमेध्यम्",
+          "transliteration": "amedhyam",
+          "meaning": "impure"
+        },
+        {
+          "word": "भोजनम्",
+          "transliteration": "bhojanam",
+          "meaning": "food"
+        },
+        {
+          "word": "तामसप्रियम्",
+          "transliteration": "tamasa-priyam",
+          "meaning": "dear to tamasic"
+        }
+      ],
+      "hindiTranslation": "जो भोजन बासी, रसहीन, दुर्गन्धयुक्त, पर्युषित (रात का रखा हुआ), जूठा और अपवित्र है — वह तामसिक लोगों को प्रिय होता है।",
+      "englishTranslation": "Food that is stale, tasteless, foul-smelling, decomposed, leftover, and impure is dear to those in the mode of ignorance.",
+      "commentary": "Tamasic food lacks life force and nourishment. Consuming such food promotes lethargy, dullness, and disease. The Gita teaches that even the most basic choice of what to eat has spiritual implications and can either uplift or degrade consciousness.",
+      "slug": "verse-10"
+    },
+    {
+      "verseNumber": 11,
+      "speaker": "Krishna",
+      "devanagari": "अफलाकाङ्क्षिभिर्यज्ञो विधिदृष्टो य इज्यते।\nयष्टव्यमेवेति मनः समाधाय स सात्त्विकः॥",
+      "transliteration": "Aphala-akankshi-bhir yajno vidhi-drishto ya ijyate\nYashtavyam-eve-ti manah samadhaya sa sattvikah",
+      "wordByWord": [
+        {
+          "word": "अफलाकाङ्क्षिभिः",
+          "transliteration": "aphala-akankshi-bhih",
+          "meaning": "by those not desiring fruit"
+        },
+        {
+          "word": "यज्ञः",
+          "transliteration": "yajnah",
+          "meaning": "sacrifice"
+        },
+        {
+          "word": "विधिदृष्टः",
+          "transliteration": "vidhi-drishtah",
+          "meaning": "according to scriptural rules"
+        },
+        {
+          "word": "इज्यते",
+          "transliteration": "ijyate",
+          "meaning": "is performed"
+        },
+        {
+          "word": "यष्टव्यम् एव",
+          "transliteration": "yashtavyam eva",
+          "meaning": "must be performed as duty"
+        },
+        {
+          "word": "इति",
+          "transliteration": "iti",
+          "meaning": "thus"
+        },
+        {
+          "word": "मनः समाधाय",
+          "transliteration": "manah samadhaya",
+          "meaning": "with mind fixed"
+        },
+        {
+          "word": "सः",
+          "transliteration": "sah",
+          "meaning": "that"
+        },
+        {
+          "word": "सात्त्विकः",
+          "transliteration": "sattvikah",
+          "meaning": "is sattvic"
+        }
+      ],
+      "hindiTranslation": "जो यज्ञ शास्त्रविधि अनुसार, फल की इच्छा न रखने वालों द्वारा, 'यह करना कर्तव्य है' ऐसा मन में निश्चय करके किया जाता है — वह सात्त्विक है।",
+      "englishTranslation": "That sacrifice which is performed according to scriptural rules, by those who desire no reward, with firm conviction that it is a duty — that is sattvic.",
+      "commentary": "Sattvic sacrifice is characterized by adherence to proper procedures, absence of selfish desire, and a sense of duty. The key is the inner attitude — performing sacred acts because they are right, not for personal gain. This selfless approach transforms ritual into genuine spiritual practice.",
+      "slug": "verse-11"
+    },
+    {
+      "verseNumber": 12,
+      "speaker": "Krishna",
+      "devanagari": "अभिसन्धाय तु फलं दम्भार्थमपि चैव यत्।\nइज्यते भरतश्रेष्ठ तं यज्ञं विद्धि राजसम्॥",
+      "transliteration": "Abhisandhaya tu phalam dambha-artham-api chaiva yat\nIjyate Bharata-shreshtha tam yajnam viddhi rajasam",
+      "wordByWord": [
+        {
+          "word": "अभिसन्धाय",
+          "transliteration": "abhisandhaya",
+          "meaning": "aiming at"
+        },
+        {
+          "word": "फलम्",
+          "transliteration": "phalam",
+          "meaning": "fruit/result"
+        },
+        {
+          "word": "दम्भार्थम्",
+          "transliteration": "dambha-artham",
+          "meaning": "for the sake of show"
+        },
+        {
+          "word": "अपि",
+          "transliteration": "api",
+          "meaning": "also"
+        },
+        {
+          "word": "इज्यते",
+          "transliteration": "ijyate",
+          "meaning": "is performed"
+        },
+        {
+          "word": "भरतश्रेष्ठ",
+          "transliteration": "Bharata-shreshtha",
+          "meaning": "O best of Bharatas"
+        },
+        {
+          "word": "तम्",
+          "transliteration": "tam",
+          "meaning": "that"
+        },
+        {
+          "word": "यज्ञम्",
+          "transliteration": "yajnam",
+          "meaning": "sacrifice"
+        },
+        {
+          "word": "विद्धि",
+          "transliteration": "viddhi",
+          "meaning": "know"
+        },
+        {
+          "word": "राजसम्",
+          "transliteration": "rajasam",
+          "meaning": "rajasic"
+        }
+      ],
+      "hindiTranslation": "हे भरतश्रेष्ठ! जो यज्ञ फल की दृष्टि से अथवा दम्भ (दिखावे) के लिए किया जाता है, उसे राजसिक जानो।",
+      "englishTranslation": "But that sacrifice which is performed with expectation of reward or for the sake of show — know that to be rajasic, O best of Bharatas.",
+      "commentary": "When sacrifice is motivated by personal gain or public display, it becomes rajasic. The external form may appear identical to sattvic sacrifice, but the inner motivation corrupts it. This teaching emphasizes that spiritual quality depends on intention, not just outward action.",
+      "slug": "verse-12"
+    },
+    {
+      "verseNumber": 13,
+      "speaker": "Krishna",
+      "devanagari": "विधिहीनमसृष्टान्नं मन्त्रहीनमदक्षिणम्।\nश्रद्धाविरहितं यज्ञं तामसं परिचक्षते॥",
+      "transliteration": "Vidhi-hinam-asrishta-annam mantra-hinam-adakshinam\nShraddha-virahitam yajnam tamasam parichakshate",
+      "wordByWord": [
+        {
+          "word": "विधिहीनम्",
+          "transliteration": "vidhi-hinam",
+          "meaning": "without proper rules"
+        },
+        {
+          "word": "असृष्टान्नम्",
+          "transliteration": "asrishta-annam",
+          "meaning": "without distribution of food"
+        },
+        {
+          "word": "मन्त्रहीनम्",
+          "transliteration": "mantra-hinam",
+          "meaning": "without proper mantras"
+        },
+        {
+          "word": "अदक्षिणम्",
+          "transliteration": "adakshinam",
+          "meaning": "without proper remuneration"
+        },
+        {
+          "word": "श्रद्धाविरहितम्",
+          "transliteration": "shraddha-virahitam",
+          "meaning": "devoid of faith"
+        },
+        {
+          "word": "यज्ञम्",
+          "transliteration": "yajnam",
+          "meaning": "sacrifice"
+        },
+        {
+          "word": "तामसम्",
+          "transliteration": "tamasam",
+          "meaning": "tamasic"
+        },
+        {
+          "word": "परिचक्षते",
+          "transliteration": "parichakshate",
+          "meaning": "is called"
+        }
+      ],
+      "hindiTranslation": "जो यज्ञ विधि-रहित, अन्न-वितरण से हीन, मन्त्रहीन, दक्षिणारहित और श्रद्धाविहीन होता है — उसे तामसिक कहते हैं।",
+      "englishTranslation": "That sacrifice which is performed without proper rules, without distribution of food, without mantras, without proper remuneration, and devoid of faith — is called tamasic.",
+      "commentary": "Tamasic sacrifice lacks every essential element: proper procedure, sharing of offerings, sacred chanting, compensation for priests, and most importantly, faith. Without these components, the ritual is an empty shell. This verse highlights that mindless ritual without devotion has no spiritual value.",
+      "slug": "verse-13"
+    },
+    {
+      "verseNumber": 14,
+      "speaker": "Krishna",
+      "devanagari": "देवद्विजगुरुप्राज्ञपूजनं शौचमार्जवम्।\nब्रह्मचर्यमहिंसा च शारीरं तप उच्यते॥",
+      "transliteration": "Deva-dvija-guru-prajna-pujanam shaucham-arjavam\nBrahma-charyam-ahimsa cha shariram tapa uchyate",
+      "wordByWord": [
+        {
+          "word": "देव",
+          "transliteration": "deva",
+          "meaning": "gods"
+        },
+        {
+          "word": "द्विज",
+          "transliteration": "dvija",
+          "meaning": "the twice-born/brahmanas"
+        },
+        {
+          "word": "गुरु",
+          "transliteration": "guru",
+          "meaning": "teachers"
+        },
+        {
+          "word": "प्राज्ञ",
+          "transliteration": "prajna",
+          "meaning": "the wise"
+        },
+        {
+          "word": "पूजनम्",
+          "transliteration": "pujanam",
+          "meaning": "worship"
+        },
+        {
+          "word": "शौचम्",
+          "transliteration": "shaucham",
+          "meaning": "cleanliness"
+        },
+        {
+          "word": "आर्जवम्",
+          "transliteration": "arjavam",
+          "meaning": "straightforwardness"
+        },
+        {
+          "word": "ब्रह्मचर्यम्",
+          "transliteration": "brahma-charyam",
+          "meaning": "celibacy/continence"
+        },
+        {
+          "word": "अहिंसा",
+          "transliteration": "ahimsa",
+          "meaning": "non-violence"
+        },
+        {
+          "word": "शारीरम् तपः",
+          "transliteration": "shariram tapah",
+          "meaning": "austerity of the body"
+        }
+      ],
+      "hindiTranslation": "देवताओं, द्विजों, गुरुओं और ज्ञानियों का पूजन, शौच, सरलता, ब्रह्मचर्य और अहिंसा — इसे शारीरिक तप कहते हैं।",
+      "englishTranslation": "Worship of the gods, the twice-born, teachers, and the wise; cleanliness, straightforwardness, celibacy, and non-violence — this is called the austerity of the body.",
+      "commentary": "Physical austerity includes both devotional practices and ethical conduct. Worship, purity, simplicity, self-control, and non-violence together constitute bodily discipline. These are not punishments but practices that refine the physical instrument for higher spiritual purposes.",
+      "slug": "verse-14"
+    },
+    {
+      "verseNumber": 15,
+      "speaker": "Krishna",
+      "devanagari": "अनुद्वेगकरं वाक्यं सत्यं प्रियहितं च यत्।\nस्वाध्यायाभ्यसनं चैव वाङ्मयं तप उच्यते॥",
+      "transliteration": "Anudvega-karam vakyam satyam priya-hitam cha yat\nSvadhyaya-abhyasanam chaiva vang-mayam tapa uchyate",
+      "wordByWord": [
+        {
+          "word": "अनुद्वेगकरम्",
+          "transliteration": "anudvega-karam",
+          "meaning": "not causing distress"
+        },
+        {
+          "word": "वाक्यम्",
+          "transliteration": "vakyam",
+          "meaning": "speech"
+        },
+        {
+          "word": "सत्यम्",
+          "transliteration": "satyam",
+          "meaning": "truthful"
+        },
+        {
+          "word": "प्रियहितम्",
+          "transliteration": "priya-hitam",
+          "meaning": "pleasant and beneficial"
+        },
+        {
+          "word": "स्वाध्यायाभ्यसनम्",
+          "transliteration": "svadhyaya-abhyasanam",
+          "meaning": "practice of scriptural study"
+        },
+        {
+          "word": "वाङ्मयम् तपः",
+          "transliteration": "vang-mayam tapah",
+          "meaning": "austerity of speech"
+        }
+      ],
+      "hindiTranslation": "जो वचन उद्वेग (कष्ट) न करने वाला, सत्य, प्रिय और हितकारी हो, तथा स्वाध्याय का अभ्यास — यह वाणी का तप कहलाता है।",
+      "englishTranslation": "Speech that causes no distress, that is truthful, pleasant, and beneficial, along with the regular practice of scriptural study — this is called the austerity of speech.",
+      "commentary": "Verbal austerity requires that speech be truthful yet kind, beneficial yet not hurtful. This fourfold qualification — non-disturbing, true, pleasant, and helpful — is a profound guide for communication. Regular study of sacred texts further disciplines and elevates one's words.",
+      "slug": "verse-15"
+    },
+    {
+      "verseNumber": 16,
+      "speaker": "Krishna",
+      "devanagari": "मनःप्रसादः सौम्यत्वं मौनमात्मविनिग्रहः।\nभावसंशुद्धिरित्येतत्तपो मानसमुच्यते॥",
+      "transliteration": "Manah-prasadah saumyatvam maunam-atma-vinigrahah\nBhava-samshuddhir-ity-etat tapo manasam-uchyate",
+      "wordByWord": [
+        {
+          "word": "मनःप्रसादः",
+          "transliteration": "manah-prasadah",
+          "meaning": "serenity of mind"
+        },
+        {
+          "word": "सौम्यत्वम्",
+          "transliteration": "saumyatvam",
+          "meaning": "gentleness"
+        },
+        {
+          "word": "मौनम्",
+          "transliteration": "maunam",
+          "meaning": "silence"
+        },
+        {
+          "word": "आत्मविनिग्रहः",
+          "transliteration": "atma-vinigrahah",
+          "meaning": "self-control"
+        },
+        {
+          "word": "भावसंशुद्धिः",
+          "transliteration": "bhava-samshuddhih",
+          "meaning": "purity of intent"
+        },
+        {
+          "word": "इति एतत्",
+          "transliteration": "iti etat",
+          "meaning": "this is"
+        },
+        {
+          "word": "तपः मानसम्",
+          "transliteration": "tapah manasam",
+          "meaning": "austerity of the mind"
+        }
+      ],
+      "hindiTranslation": "मन की प्रसन्नता, सौम्यता, मौन, आत्मसंयम और भावों की शुद्धि — यह मानसिक तप कहलाता है।",
+      "englishTranslation": "Serenity of mind, gentleness, silence, self-control, and purity of intent — this is called the austerity of the mind.",
+      "commentary": "Mental austerity is the deepest form of tapas, addressing the root level where thoughts arise. A serene, gentle, and controlled mind with pure intentions creates the foundation for all spiritual progress. Unlike physical austerity, mental discipline is invisible yet most transformative.",
+      "slug": "verse-16"
+    },
+    {
+      "verseNumber": 17,
+      "speaker": "Krishna",
+      "devanagari": "श्रद्धया परया तप्तं तपस्तत्त्रिविधं नरैः।\nअफलाकाङ्क्षिभिर्युक्तैः सात्त्विकं परिचक्षते॥",
+      "transliteration": "Shraddhaya paraya taptam tapas-tat-trividham naraih\nAphala-akankshi-bhir-yuktaih sattvikam parichakshate",
+      "wordByWord": [
+        {
+          "word": "श्रद्धया",
+          "transliteration": "shraddhaya",
+          "meaning": "with faith"
+        },
+        {
+          "word": "परया",
+          "transliteration": "paraya",
+          "meaning": "supreme"
+        },
+        {
+          "word": "तप्तम्",
+          "transliteration": "taptam",
+          "meaning": "practiced"
+        },
+        {
+          "word": "तपः",
+          "transliteration": "tapah",
+          "meaning": "austerity"
+        },
+        {
+          "word": "त्रिविधम्",
+          "transliteration": "trividham",
+          "meaning": "threefold"
+        },
+        {
+          "word": "नरैः",
+          "transliteration": "naraih",
+          "meaning": "by persons"
+        },
+        {
+          "word": "अफलाकाङ्क्षिभिः",
+          "transliteration": "aphala-akankshi-bhih",
+          "meaning": "not desiring fruit"
+        },
+        {
+          "word": "युक्तैः",
+          "transliteration": "yuktaih",
+          "meaning": "disciplined"
+        },
+        {
+          "word": "सात्त्विकम्",
+          "transliteration": "sattvikam",
+          "meaning": "sattvic"
+        },
+        {
+          "word": "परिचक्षते",
+          "transliteration": "parichakshate",
+          "meaning": "is called"
+        }
+      ],
+      "hindiTranslation": "यह तीनों प्रकार का तप (शारीरिक, वाचिक, मानसिक) जब परम श्रद्धा से, फल की इच्छा न रखने वाले योगी पुरुषों द्वारा किया जाता है — तब वह सात्त्विक कहलाता है।",
+      "englishTranslation": "This threefold austerity, practiced with supreme faith by disciplined persons who desire no reward, is called sattvic.",
+      "commentary": "The three types of tapas — physical, verbal, and mental — become sattvic when practiced with deep faith and without desire for results. Faith and selflessness transform routine discipline into genuine spiritual austerity. This synthesis verse unifies the preceding three into a complete practice.",
+      "slug": "verse-17"
+    },
+    {
+      "verseNumber": 18,
+      "speaker": "Krishna",
+      "devanagari": "सत्कारमानपूजार्थं तपो दम्भेन चैव यत्।\nक्रियते तदिह प्रोक्तं राजसं चलमध्रुवम्॥",
+      "transliteration": "Satkara-mana-puja-artham tapo dambhena chaiva yat\nKriyate tad-iha proktam rajasam chalam-adhruvam",
+      "wordByWord": [
+        {
+          "word": "सत्कारमानपूजार्थम्",
+          "transliteration": "satkara-mana-puja-artham",
+          "meaning": "for respect, honor and worship"
+        },
+        {
+          "word": "तपः",
+          "transliteration": "tapah",
+          "meaning": "austerity"
+        },
+        {
+          "word": "दम्भेन",
+          "transliteration": "dambhena",
+          "meaning": "with hypocrisy"
+        },
+        {
+          "word": "क्रियते",
+          "transliteration": "kriyate",
+          "meaning": "is performed"
+        },
+        {
+          "word": "तत्",
+          "transliteration": "tat",
+          "meaning": "that"
+        },
+        {
+          "word": "इह",
+          "transliteration": "iha",
+          "meaning": "here"
+        },
+        {
+          "word": "प्रोक्तम्",
+          "transliteration": "proktam",
+          "meaning": "is said to be"
+        },
+        {
+          "word": "राजसम्",
+          "transliteration": "rajasam",
+          "meaning": "rajasic"
+        },
+        {
+          "word": "चलम्",
+          "transliteration": "chalam",
+          "meaning": "unstable"
+        },
+        {
+          "word": "अध्रुवम्",
+          "transliteration": "adhruvam",
+          "meaning": "temporary"
+        }
+      ],
+      "hindiTranslation": "जो तप सत्कार, मान और पूजा के लिए तथा दम्भ से किया जाता है, वह अस्थिर और अनिश्चित फल देने वाला राजसिक तप कहलाता है।",
+      "englishTranslation": "Austerity performed with hypocrisy, for the sake of gaining respect, honor, and worship, is said to be rajasic — it is unstable and impermanent.",
+      "commentary": "When austerity becomes a means to earn social prestige, it loses its spiritual power. The results of such practice are unstable because they depend on external validation rather than inner transformation. True tapas must be motivated by self-purification, not public recognition.",
+      "slug": "verse-18"
+    },
+    {
+      "verseNumber": 19,
+      "speaker": "Krishna",
+      "devanagari": "मूढग्राहेणात्मनो यत्पीडया क्रियते तपः।\nपरस्योत्सादनार्थं वा तत्तामसमुदाहृतम्॥",
+      "transliteration": "Mudha-grahena-atmano yat-pidaya kriyate tapah\nParasya-utsadana-artham va tat-tamasam-udahritam",
+      "wordByWord": [
+        {
+          "word": "मूढग्राहेण",
+          "transliteration": "mudha-grahena",
+          "meaning": "with foolish obstinacy"
+        },
+        {
+          "word": "आत्मनः",
+          "transliteration": "atmanah",
+          "meaning": "of one's own"
+        },
+        {
+          "word": "पीडया",
+          "transliteration": "pidaya",
+          "meaning": "by torture"
+        },
+        {
+          "word": "क्रियते",
+          "transliteration": "kriyate",
+          "meaning": "is performed"
+        },
+        {
+          "word": "तपः",
+          "transliteration": "tapah",
+          "meaning": "austerity"
+        },
+        {
+          "word": "परस्य",
+          "transliteration": "parasya",
+          "meaning": "of another"
+        },
+        {
+          "word": "उत्सादनार्थम्",
+          "transliteration": "utsadana-artham",
+          "meaning": "for the purpose of destroying"
+        },
+        {
+          "word": "तत्",
+          "transliteration": "tat",
+          "meaning": "that"
+        },
+        {
+          "word": "तामसम्",
+          "transliteration": "tamasam",
+          "meaning": "tamasic"
+        },
+        {
+          "word": "उदाहृतम्",
+          "transliteration": "udahritam",
+          "meaning": "is called"
+        }
+      ],
+      "hindiTranslation": "मूढ़तापूर्वक हठ से अपने आप को पीड़ा देकर जो तप किया जाता है, अथवा दूसरे का नाश करने के लिए — वह तामसिक कहा गया है।",
+      "englishTranslation": "Austerity performed with foolish obstinacy, by means of self-torture, or for the purpose of destroying another — that is declared to be tamasic.",
+      "commentary": "The worst form of austerity involves self-harm through ignorance or intent to harm others. Self-mortification without wisdom is not spiritual discipline but foolish stubbornness. Austerity used as a weapon against others perverts its sacred purpose completely.",
+      "slug": "verse-19"
+    },
+    {
+      "verseNumber": 20,
+      "speaker": "Krishna",
+      "devanagari": "दातव्यमिति यद्दानं दीयतेऽनुपकारिणे।\nदेशे काले च पात्रे च तद्दानं सात्त्विकं स्मृतम्॥",
+      "transliteration": "Datavyam-iti yad-danam diyate'nupakarine\nDeshe kale cha patre cha tad-danam sattvikam smritam",
+      "wordByWord": [
+        {
+          "word": "दातव्यम्",
+          "transliteration": "datavyam",
+          "meaning": "to be given as duty"
+        },
+        {
+          "word": "इति",
+          "transliteration": "iti",
+          "meaning": "thus"
+        },
+        {
+          "word": "यत्",
+          "transliteration": "yat",
+          "meaning": "which"
+        },
+        {
+          "word": "दानम्",
+          "transliteration": "danam",
+          "meaning": "charity"
+        },
+        {
+          "word": "दीयते",
+          "transliteration": "diyate",
+          "meaning": "is given"
+        },
+        {
+          "word": "अनुपकारिणे",
+          "transliteration": "anupakarine",
+          "meaning": "to one who cannot reciprocate"
+        },
+        {
+          "word": "देशे",
+          "transliteration": "deshe",
+          "meaning": "at the right place"
+        },
+        {
+          "word": "काले",
+          "transliteration": "kale",
+          "meaning": "at the right time"
+        },
+        {
+          "word": "पात्रे",
+          "transliteration": "patre",
+          "meaning": "to a worthy person"
+        },
+        {
+          "word": "सात्त्विकम्",
+          "transliteration": "sattvikam",
+          "meaning": "sattvic"
+        }
+      ],
+      "hindiTranslation": "'दान देना कर्तव्य है' — ऐसे भाव से जो दान उचित देश, काल और पात्र को, बदले में कुछ न कर सकने वाले को दिया जाता है — वह सात्त्विक दान है।",
+      "englishTranslation": "That charity which is given as a matter of duty, at the right place and time, to a worthy person who cannot reciprocate — that is considered sattvic.",
+      "commentary": "Sattvic charity is selfless giving guided by duty, wisdom, and compassion. The emphasis on giving to those who cannot repay ensures pure motivation without expectation of return. Right place, right time, and right recipient together make charity truly beneficial.",
+      "slug": "verse-20"
+    },
+    {
+      "verseNumber": 21,
+      "speaker": "Krishna",
+      "devanagari": "यत्तु प्रत्युपकारार्थं फलमुद्दिश्य वा पुनः।\nदीयते च परिक्लिष्टं तद्दानं राजसं स्मृतम्॥",
+      "transliteration": "Yat-tu praty-upakara-artham phalam-uddishya va punah\nDiyate cha pariklishtam tad-danam rajasam smritam",
+      "wordByWord": [
+        {
+          "word": "यत् तु",
+          "transliteration": "yat tu",
+          "meaning": "but that which"
+        },
+        {
+          "word": "प्रत्युपकारार्थम्",
+          "transliteration": "praty-upakara-artham",
+          "meaning": "for getting something in return"
+        },
+        {
+          "word": "फलम्",
+          "transliteration": "phalam",
+          "meaning": "result"
+        },
+        {
+          "word": "उद्दिश्य",
+          "transliteration": "uddishya",
+          "meaning": "aiming at"
+        },
+        {
+          "word": "दीयते",
+          "transliteration": "diyate",
+          "meaning": "is given"
+        },
+        {
+          "word": "परिक्लिष्टम्",
+          "transliteration": "pariklishtam",
+          "meaning": "reluctantly"
+        },
+        {
+          "word": "तत् दानम्",
+          "transliteration": "tat danam",
+          "meaning": "that charity"
+        },
+        {
+          "word": "राजसम्",
+          "transliteration": "rajasam",
+          "meaning": "rajasic"
+        },
+        {
+          "word": "स्मृतम्",
+          "transliteration": "smritam",
+          "meaning": "is considered"
+        }
+      ],
+      "hindiTranslation": "जो दान प्रत्युपकार के लिए, फल की दृष्टि से, अथवा क्लेशपूर्वक (अनिच्छा से) दिया जाता है — वह राजसिक दान कहा गया है।",
+      "englishTranslation": "But that charity which is given with the expectation of getting something in return, or with a desire for reward, or reluctantly — that is considered rajasic.",
+      "commentary": "Rajasic giving is transactional at its core — motivated by expectation of return favors, future benefits, or given grudgingly. The reluctance indicates that the giver's heart is not truly in the act. Such charity may benefit the recipient but does not purify the giver's consciousness.",
+      "slug": "verse-21"
+    },
+    {
+      "verseNumber": 22,
+      "speaker": "Krishna",
+      "devanagari": "अदेशकाले यद्दानमपात्रेभ्यश्च दीयते।\nअसत्कृतमवज्ञातं तत्तामसमुदाहृतम्॥",
+      "transliteration": "Adesha-kale yad-danam-apatrebhyash-cha diyate\nAsat-kritam-avajnatam tat-tamasam-udahritam",
+      "wordByWord": [
+        {
+          "word": "अदेशकाले",
+          "transliteration": "adesha-kale",
+          "meaning": "at wrong place and time"
+        },
+        {
+          "word": "यत् दानम्",
+          "transliteration": "yat danam",
+          "meaning": "that charity which"
+        },
+        {
+          "word": "अपात्रेभ्यः",
+          "transliteration": "apatrebhyah",
+          "meaning": "to unworthy persons"
+        },
+        {
+          "word": "दीयते",
+          "transliteration": "diyate",
+          "meaning": "is given"
+        },
+        {
+          "word": "असत्कृतम्",
+          "transliteration": "asat-kritam",
+          "meaning": "without respect"
+        },
+        {
+          "word": "अवज्ञातम्",
+          "transliteration": "avajnatam",
+          "meaning": "with contempt"
+        },
+        {
+          "word": "तत्",
+          "transliteration": "tat",
+          "meaning": "that"
+        },
+        {
+          "word": "तामसम्",
+          "transliteration": "tamasam",
+          "meaning": "tamasic"
+        },
+        {
+          "word": "उदाहृतम्",
+          "transliteration": "udahritam",
+          "meaning": "is called"
+        }
+      ],
+      "hindiTranslation": "जो दान अनुचित देश-काल में, अपात्र को, बिना सत्कार के और अपमानपूर्वक दिया जाता है — वह तामसिक कहा गया है।",
+      "englishTranslation": "That charity which is given at the wrong place and time, to unworthy persons, without respect, or with contempt — that is declared to be tamasic.",
+      "commentary": "Tamasic charity fails on every count — wrong timing, wrong recipient, and wrong attitude. Giving with contempt or disrespect degrades both giver and receiver. Even the act of giving can become harmful when it lacks discernment and basic human dignity.",
+      "slug": "verse-22"
+    },
+    {
+      "verseNumber": 23,
+      "speaker": "Krishna",
+      "devanagari": "ॐ तत्सदिति निर्देशो ब्रह्मणस्त्रिविधः स्मृतः।\nब्राह्मणास्तेन वेदाश्च यज्ञाश्च विहिताः पुरा॥",
+      "transliteration": "Om Tat Sad-iti nirdesho Brahmanah trividhah smritah\nBrahmanah tena vedash-cha yajnash-cha vihitah pura",
+      "wordByWord": [
+        {
+          "word": "ॐ",
+          "transliteration": "Om",
+          "meaning": "Om"
+        },
+        {
+          "word": "तत्",
+          "transliteration": "Tat",
+          "meaning": "That"
+        },
+        {
+          "word": "सत्",
+          "transliteration": "Sat",
+          "meaning": "Truth/Reality"
+        },
+        {
+          "word": "इति",
+          "transliteration": "iti",
+          "meaning": "thus"
+        },
+        {
+          "word": "निर्देशः",
+          "transliteration": "nirdeshah",
+          "meaning": "designation"
+        },
+        {
+          "word": "ब्रह्मणः",
+          "transliteration": "Brahmanah",
+          "meaning": "of Brahman"
+        },
+        {
+          "word": "त्रिविधः",
+          "transliteration": "trividhah",
+          "meaning": "threefold"
+        },
+        {
+          "word": "स्मृतः",
+          "transliteration": "smritah",
+          "meaning": "is remembered"
+        },
+        {
+          "word": "ब्राह्मणाः",
+          "transliteration": "Brahmanah",
+          "meaning": "Brahmanas"
+        },
+        {
+          "word": "वेदाः",
+          "transliteration": "vedah",
+          "meaning": "Vedas"
+        },
+        {
+          "word": "यज्ञाः",
+          "transliteration": "yajnah",
+          "meaning": "sacrifices"
+        },
+        {
+          "word": "विहिताः",
+          "transliteration": "vihitah",
+          "meaning": "ordained"
+        },
+        {
+          "word": "पुरा",
+          "transliteration": "pura",
+          "meaning": "in ancient times"
+        }
+      ],
+      "hindiTranslation": "'ॐ तत् सत्' — यह ब्रह्म का त्रिविध निर्देश (नाम) कहा गया है। इसी से प्राचीन काल में ब्राह्मण, वेद और यज्ञ रचे गए।",
+      "englishTranslation": "'Om Tat Sat' — this has been declared as the threefold designation of Brahman. By this, the Brahmanas, the Vedas, and the sacrifices were ordained in ancient times.",
+      "commentary": "This verse introduces the sacred formula Om Tat Sat as the triple designation of the Supreme Reality. Om represents the primordial sound of creation, Tat points to the transcendent Absolute, and Sat denotes ultimate existence and truth. Together they sanctify all spiritual acts.",
+      "slug": "verse-23"
+    },
+    {
+      "verseNumber": 24,
+      "speaker": "Krishna",
+      "devanagari": "तस्मादोमित्युदाहृत्य यज्ञदानतपःक्रियाः।\nप्रवर्तन्ते विधानोक्ताः सततं ब्रह्मवादिनाम्॥",
+      "transliteration": "Tasmad-om-ity-udahritya yajna-dana-tapah-kriyah\nPravartante vidhana-uktah satatam Brahma-vadinam",
+      "wordByWord": [
+        {
+          "word": "तस्मात्",
+          "transliteration": "tasmat",
+          "meaning": "therefore"
+        },
+        {
+          "word": "ॐ इति",
+          "transliteration": "Om iti",
+          "meaning": "uttering Om"
+        },
+        {
+          "word": "उदाहृत्य",
+          "transliteration": "udahritya",
+          "meaning": "beginning with"
+        },
+        {
+          "word": "यज्ञदानतपःक्रियाः",
+          "transliteration": "yajna-dana-tapah-kriyah",
+          "meaning": "acts of sacrifice, charity and austerity"
+        },
+        {
+          "word": "प्रवर्तन्ते",
+          "transliteration": "pravartante",
+          "meaning": "are begun"
+        },
+        {
+          "word": "विधानोक्ताः",
+          "transliteration": "vidhana-uktah",
+          "meaning": "as prescribed by rules"
+        },
+        {
+          "word": "सततम्",
+          "transliteration": "satatam",
+          "meaning": "always"
+        },
+        {
+          "word": "ब्रह्मवादिनाम्",
+          "transliteration": "Brahma-vadinam",
+          "meaning": "of the knowers of Brahman"
+        }
+      ],
+      "hindiTranslation": "इसलिए 'ॐ' उच्चारण करके ब्रह्मवादियों की शास्त्रोक्त यज्ञ, दान और तप की क्रियाएँ सदा आरम्भ होती हैं।",
+      "englishTranslation": "Therefore, acts of sacrifice, charity, and austerity prescribed by the scriptures are always begun by the knowers of Brahman with the utterance of Om.",
+      "commentary": "Om serves as the sacred invocation that connects every spiritual act to the Supreme. By beginning with Om, even ordinary actions become consecrated offerings to Brahman. This practice has been followed by realized souls since time immemorial as the foundation of all sacred activity.",
+      "slug": "verse-24"
+    },
+    {
+      "verseNumber": 25,
+      "speaker": "Krishna",
+      "devanagari": "तदित्यनभिसन्धाय फलं यज्ञतपःक्रियाः।\nदानक्रियाश्च विविधाः क्रियन्ते मोक्षकाङ्क्षिभिः॥",
+      "transliteration": "Tad-ity-anabhisandhaya phalam yajna-tapah-kriyah\nDana-kriyash-cha vividhah kriyante moksha-kankshi-bhih",
+      "wordByWord": [
+        {
+          "word": "तत्",
+          "transliteration": "Tat",
+          "meaning": "That"
+        },
+        {
+          "word": "इति",
+          "transliteration": "iti",
+          "meaning": "thus (uttering)"
+        },
+        {
+          "word": "अनभिसन्धाय",
+          "transliteration": "anabhisandhaya",
+          "meaning": "without aiming at"
+        },
+        {
+          "word": "फलम्",
+          "transliteration": "phalam",
+          "meaning": "fruit/result"
+        },
+        {
+          "word": "यज्ञतपःक्रियाः",
+          "transliteration": "yajna-tapah-kriyah",
+          "meaning": "acts of sacrifice and austerity"
+        },
+        {
+          "word": "दानक्रियाः",
+          "transliteration": "dana-kriyah",
+          "meaning": "acts of charity"
+        },
+        {
+          "word": "विविधाः",
+          "transliteration": "vividhah",
+          "meaning": "various"
+        },
+        {
+          "word": "क्रियन्ते",
+          "transliteration": "kriyante",
+          "meaning": "are performed"
+        },
+        {
+          "word": "मोक्षकाङ्क्षिभिः",
+          "transliteration": "moksha-kankshi-bhih",
+          "meaning": "by seekers of liberation"
+        }
+      ],
+      "hindiTranslation": "'तत्' कहकर, फल की इच्छा न रखते हुए, मोक्ष चाहने वाले विविध प्रकार के यज्ञ, तप और दान की क्रियाएँ करते हैं।",
+      "englishTranslation": "Uttering 'Tat' without aiming at any reward, various acts of sacrifice, austerity, and charity are performed by the seekers of liberation.",
+      "commentary": "Tat (That) reminds the seeker that all actions belong to the Supreme and are offered to That transcendent reality. By uttering Tat, one renounces personal ownership of the fruits of action. This practice is the hallmark of those genuinely seeking liberation rather than worldly rewards.",
+      "slug": "verse-25"
+    },
+    {
+      "verseNumber": 26,
+      "speaker": "Krishna",
+      "devanagari": "सद्भावे साधुभावे च सदित्येतत्प्रयुज्यते।\nप्रशस्ते कर्मणि तथा सच्छब्दः पार्थ युज्यते॥",
+      "transliteration": "Sad-bhave sadhu-bhave cha sad-ity-etat prayujyate\nPrashaste karmani tatha sach-chhabdah Partha yujyate",
+      "wordByWord": [
+        {
+          "word": "सद्भावे",
+          "transliteration": "sad-bhave",
+          "meaning": "in the sense of reality"
+        },
+        {
+          "word": "साधुभावे",
+          "transliteration": "sadhu-bhave",
+          "meaning": "in the sense of goodness"
+        },
+        {
+          "word": "सत्",
+          "transliteration": "Sat",
+          "meaning": "Sat (Truth)"
+        },
+        {
+          "word": "इति एतत्",
+          "transliteration": "iti etat",
+          "meaning": "this"
+        },
+        {
+          "word": "प्रयुज्यते",
+          "transliteration": "prayujyate",
+          "meaning": "is used"
+        },
+        {
+          "word": "प्रशस्ते",
+          "transliteration": "prashaste",
+          "meaning": "praiseworthy"
+        },
+        {
+          "word": "कर्मणि",
+          "transliteration": "karmani",
+          "meaning": "in actions"
+        },
+        {
+          "word": "सच्छब्दः",
+          "transliteration": "sach-chhabdah",
+          "meaning": "the word Sat"
+        },
+        {
+          "word": "पार्थ",
+          "transliteration": "Partha",
+          "meaning": "O Partha"
+        },
+        {
+          "word": "युज्यते",
+          "transliteration": "yujyate",
+          "meaning": "is applied"
+        }
+      ],
+      "hindiTranslation": "हे पार्थ! 'सत्' शब्द सद्भाव (सत्य) और साधुभाव (श्रेष्ठता) के अर्थ में प्रयोग होता है। इसी प्रकार प्रशस्त कर्मों में भी 'सत्' शब्द का प्रयोग किया जाता है।",
+      "englishTranslation": "O Partha, the word 'Sat' is used in the sense of reality and goodness. Likewise, the word 'Sat' is applied to praiseworthy actions.",
+      "commentary": "Sat encompasses both absolute truth (reality) and moral goodness. When applied to actions, it denotes that which is genuine, praiseworthy, and aligned with divine order. This dual meaning reminds us that true goodness must be grounded in ultimate reality.",
+      "slug": "verse-26"
+    },
+    {
+      "verseNumber": 27,
+      "speaker": "Krishna",
+      "devanagari": "यज्ञे तपसि दाने च स्थितिः सदिति चोच्यते।\nकर्म चैव तदर्थीयं सदित्येवाभिधीयते॥",
+      "transliteration": "Yajne tapasi dane cha sthitih sad-iti cha-uchyate\nKarma chaiva tad-arthiyam sad-ity-eva-abhidhiyate",
+      "wordByWord": [
+        {
+          "word": "यज्ञे",
+          "transliteration": "yajne",
+          "meaning": "in sacrifice"
+        },
+        {
+          "word": "तपसि",
+          "transliteration": "tapasi",
+          "meaning": "in austerity"
+        },
+        {
+          "word": "दाने",
+          "transliteration": "dane",
+          "meaning": "in charity"
+        },
+        {
+          "word": "स्थितिः",
+          "transliteration": "sthitih",
+          "meaning": "steadfastness"
+        },
+        {
+          "word": "सत्",
+          "transliteration": "Sat",
+          "meaning": "Sat (truth)"
+        },
+        {
+          "word": "इति",
+          "transliteration": "iti",
+          "meaning": "thus"
+        },
+        {
+          "word": "उच्यते",
+          "transliteration": "uchyate",
+          "meaning": "is called"
+        },
+        {
+          "word": "कर्म",
+          "transliteration": "karma",
+          "meaning": "action"
+        },
+        {
+          "word": "तदर्थीयम्",
+          "transliteration": "tad-arthiyam",
+          "meaning": "for that purpose"
+        },
+        {
+          "word": "अभिधीयते",
+          "transliteration": "abhidhiyate",
+          "meaning": "is designated"
+        }
+      ],
+      "hindiTranslation": "यज्ञ, तप और दान में स्थिरता को भी 'सत्' कहा जाता है। उस परमात्मा के लिए किया जाने वाला कर्म भी 'सत्' कहलाता है।",
+      "englishTranslation": "Steadfastness in sacrifice, austerity, and charity is also called 'Sat.' Action performed for the sake of the Supreme is likewise designated as 'Sat.'",
+      "commentary": "Sat applies not only to the acts themselves but to the firmness and dedication with which they are performed. When sacrifice, austerity, and charity are done with unwavering commitment to the Divine, they truly embody Sat. This verse completes the teaching on how Om Tat Sat sanctifies all spiritual endeavor.",
+      "slug": "verse-27"
+    },
+    {
+      "verseNumber": 28,
+      "speaker": "Krishna",
+      "devanagari": "अश्रद्धया हुतं दत्तं तपस्तप्तं कृतं च यत्।\nअसदित्युच्यते पार्थ न च तत्प्रेत्य नो इह॥",
+      "transliteration": "Ashraddhaya hutam dattam tapas-taptam kritam cha yat\nAsad-ity-uchyate Partha na cha tat-pretya no iha",
+      "wordByWord": [
+        {
+          "word": "अश्रद्धया",
+          "transliteration": "ashraddhaya",
+          "meaning": "without faith"
+        },
+        {
+          "word": "हुतम्",
+          "transliteration": "hutam",
+          "meaning": "offered in sacrifice"
+        },
+        {
+          "word": "दत्तम्",
+          "transliteration": "dattam",
+          "meaning": "given in charity"
+        },
+        {
+          "word": "तपः तप्तम्",
+          "transliteration": "tapah taptam",
+          "meaning": "austerity performed"
+        },
+        {
+          "word": "कृतम्",
+          "transliteration": "kritam",
+          "meaning": "done"
+        },
+        {
+          "word": "असत्",
+          "transliteration": "asat",
+          "meaning": "unreal/untruth"
+        },
+        {
+          "word": "इति उच्यते",
+          "transliteration": "iti uchyate",
+          "meaning": "is called"
+        },
+        {
+          "word": "पार्थ",
+          "transliteration": "Partha",
+          "meaning": "O Partha"
+        },
+        {
+          "word": "न तत्",
+          "transliteration": "na tat",
+          "meaning": "not that"
+        },
+        {
+          "word": "प्रेत्य",
+          "transliteration": "pretya",
+          "meaning": "after death"
+        },
+        {
+          "word": "नो इह",
+          "transliteration": "no iha",
+          "meaning": "nor here"
+        }
+      ],
+      "hindiTranslation": "हे पार्थ! बिना श्रद्धा के जो हवन, दान, तप या कोई भी कर्म किया जाता है, वह 'असत्' कहलाता है — न इस लोक में, न परलोक में उसका कोई फल है।",
+      "englishTranslation": "O Partha, whatever is offered in sacrifice, given in charity, or performed as austerity without faith — it is called 'Asat' (unreal). It bears no fruit, neither here nor hereafter.",
+      "commentary": "The chapter concludes with a powerful declaration: faith is the essential ingredient that gives meaning to all spiritual acts. Without shraddha, even the grandest rituals and sacrifices are hollow and fruitless. This final verse circles back to Arjuna's opening question, confirming that genuine faith is indispensable for both worldly and spiritual success.",
+      "slug": "verse-28"
+    }
+  ]
+}

@@ -1,0 +1,1645 @@
+{
+  "chapterNumber": 14,
+  "titleSanskrit": "गुणत्रयविभागयोगः",
+  "titleHindi": "गुणत्रय विभाग योग",
+  "titleEnglish": "Gunatraya Vibhaga Yoga - The Yoga of the Division of the Three Gunas",
+  "slug": "chapter-14",
+  "description": "Bhagavad Gita Chapter 14, Gunatraya Vibhaga Yoga, presents Lord Krishna's detailed analysis of the three Gunas (qualities) of material nature — Sattva (goodness), Rajas (passion), and Tamas (ignorance). Krishna explains how these three qualities, born of Prakriti, bind the imperishable soul to the body. Sattva binds through attachment to happiness and knowledge, Rajas through attachment to action and desire, and Tamas through negligence, laziness, and sleep. He describes the signs of each Guna's predominance and the destinations one reaches after death based on which Guna prevails. The chapter culminates with Arjuna's question about the characteristics of one who has transcended the Gunas, and Krishna's profound answer describing the Gunatita — one who remains equanimous in all conditions and serves God with unwavering devotion, thereby becoming worthy of Brahman.",
+  "verseCount": 27,
+  "verses": [
+    {
+      "verseNumber": 1,
+      "speaker": "Krishna",
+      "devanagari": "श्रीभगवानुवाच —\nपरं भूयः प्रवक्ष्यामि ज्ञानानां ज्ञानमुत्तमम्।\nयज्ज्ञात्वा मुनयः सर्वे परां सिद्धिमितो गताः॥१॥",
+      "transliteration": "Shri Bhagavan Uvacha —\nParam Bhuyah Pravakshyami Jnananam Jnanam-Uttamam.\nYaj-Jnatva Munayah Sarve Param Siddhim-Ito Gatah.",
+      "wordByWord": [
+        {
+          "word": "परम्",
+          "transliteration": "param",
+          "meaning": "the supreme"
+        },
+        {
+          "word": "भूयः",
+          "transliteration": "bhuyah",
+          "meaning": "again"
+        },
+        {
+          "word": "प्रवक्ष्यामि",
+          "transliteration": "pravakshyami",
+          "meaning": "I shall declare"
+        },
+        {
+          "word": "ज्ञानानाम्",
+          "transliteration": "jnananam",
+          "meaning": "of all knowledge"
+        },
+        {
+          "word": "ज्ञानम् उत्तमम्",
+          "transliteration": "jnanam uttamam",
+          "meaning": "the supreme knowledge"
+        },
+        {
+          "word": "यत् ज्ञात्वा",
+          "transliteration": "yat jnatva",
+          "meaning": "knowing which"
+        },
+        {
+          "word": "मुनयः",
+          "transliteration": "munayah",
+          "meaning": "the sages"
+        },
+        {
+          "word": "सर्वे",
+          "transliteration": "sarve",
+          "meaning": "all"
+        },
+        {
+          "word": "पराम् सिद्धिम्",
+          "transliteration": "param siddhim",
+          "meaning": "supreme perfection"
+        },
+        {
+          "word": "गताः",
+          "transliteration": "gatah",
+          "meaning": "have attained"
+        }
+      ],
+      "hindiTranslation": "श्रीभगवान ने कहा — मैं फिर से ज्ञानों में उत्तम परम ज्ञान कहूँगा, जिसे जानकर सब मुनि संसार से मुक्त होकर परम सिद्धि को प्राप्त हुए हैं।",
+      "englishTranslation": "The Blessed Lord said — I shall again declare the supreme knowledge, the best of all knowledge, knowing which all the sages have attained the highest perfection.",
+      "commentary": "Krishna opens the chapter by praising the knowledge He is about to impart as the highest of all. By mentioning that all sages attained supreme perfection through this knowledge, He motivates Arjuna to listen with full attention. This knowledge of the three Gunas is essential for understanding how material nature binds the soul.",
+      "slug": "verse-1"
+    },
+    {
+      "verseNumber": 2,
+      "speaker": "Krishna",
+      "devanagari": "इदं ज्ञानमुपाश्रित्य मम साधर्म्यमागताः।\nसर्गेऽपि नोपजायन्ते प्रलये न व्यथन्ति च॥२॥",
+      "transliteration": "Idam Jnanam-Upashritya Mama Sadharmyam-Agatah.\nSarge'pi No-Pajayante Pralaye Na Vyathanti Cha.",
+      "wordByWord": [
+        {
+          "word": "इदम्",
+          "transliteration": "idam",
+          "meaning": "this"
+        },
+        {
+          "word": "ज्ञानम्",
+          "transliteration": "jnanam",
+          "meaning": "knowledge"
+        },
+        {
+          "word": "उपाश्रित्य",
+          "transliteration": "upashritya",
+          "meaning": "having taken refuge in"
+        },
+        {
+          "word": "मम",
+          "transliteration": "mama",
+          "meaning": "My"
+        },
+        {
+          "word": "साधर्म्यम्",
+          "transliteration": "sadharmyam",
+          "meaning": "same nature"
+        },
+        {
+          "word": "आगताः",
+          "transliteration": "agatah",
+          "meaning": "have attained"
+        },
+        {
+          "word": "सर्गे",
+          "transliteration": "sarge",
+          "meaning": "in creation"
+        },
+        {
+          "word": "न उपजायन्ते",
+          "transliteration": "na upajayante",
+          "meaning": "are not born"
+        },
+        {
+          "word": "प्रलये",
+          "transliteration": "pralaye",
+          "meaning": "in dissolution"
+        },
+        {
+          "word": "न व्यथन्ति",
+          "transliteration": "na vyathanti",
+          "meaning": "are not disturbed"
+        }
+      ],
+      "hindiTranslation": "इस ज्ञान का आश्रय लेकर जो मेरे स्वरूप को प्राप्त हो गए हैं, वे सृष्टि के समय फिर जन्म नहीं लेते और प्रलय के समय व्यथित नहीं होते।",
+      "englishTranslation": "Having taken refuge in this knowledge and attained My nature, they are not born again at the time of creation, nor are they disturbed at the time of dissolution.",
+      "commentary": "Those who realize this knowledge become one with the divine nature of Krishna. They transcend the cosmic cycles of creation and dissolution entirely. This is the ultimate fruit of knowledge — complete freedom from the bondage of samsara, never to return to the cycle of birth and death.",
+      "slug": "verse-2"
+    },
+    {
+      "verseNumber": 3,
+      "speaker": "Krishna",
+      "devanagari": "मम योनिर्महद्ब्रह्म तस्मिन्गर्भं दधाम्यहम्।\nसम्भवः सर्वभूतानां ततो भवति भारत॥३॥",
+      "transliteration": "Mama Yonir-Mahad-Brahma Tasmin Garbham Dadhamy-Aham.\nSambhavah Sarva-Bhutanam Tato Bhavati Bharata.",
+      "wordByWord": [
+        {
+          "word": "मम",
+          "transliteration": "mama",
+          "meaning": "My"
+        },
+        {
+          "word": "योनिः",
+          "transliteration": "yonih",
+          "meaning": "womb"
+        },
+        {
+          "word": "महद् ब्रह्म",
+          "transliteration": "mahad brahma",
+          "meaning": "the great Prakriti"
+        },
+        {
+          "word": "तस्मिन्",
+          "transliteration": "tasmin",
+          "meaning": "in that"
+        },
+        {
+          "word": "गर्भम्",
+          "transliteration": "garbham",
+          "meaning": "the seed"
+        },
+        {
+          "word": "दधामि",
+          "transliteration": "dadhami",
+          "meaning": "I place"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I"
+        },
+        {
+          "word": "सम्भवः",
+          "transliteration": "sambhavah",
+          "meaning": "the birth"
+        },
+        {
+          "word": "सर्वभूतानाम्",
+          "transliteration": "sarva-bhutanam",
+          "meaning": "of all beings"
+        },
+        {
+          "word": "ततः",
+          "transliteration": "tatah",
+          "meaning": "from that"
+        },
+        {
+          "word": "भवति",
+          "transliteration": "bhavati",
+          "meaning": "takes place"
+        }
+      ],
+      "hindiTranslation": "हे भारत! महद् ब्रह्म (प्रकृति) मेरी योनि (गर्भाधान का स्थान) है। उसमें मैं गर्भ स्थापित करता हूँ। उससे समस्त भूतों की उत्पत्ति होती है।",
+      "englishTranslation": "The great Prakriti is My womb; in that I place the seed. From that, O Bharata, is the birth of all beings.",
+      "commentary": "Krishna describes the cosmic process of creation using the metaphor of conception. Prakriti (the great Brahma or material nature) serves as the womb, and Krishna implants the seed of consciousness into it. From this union of spirit and matter, all living beings come into existence. This explains how the one Supreme Being becomes the father of all creation.",
+      "slug": "verse-3"
+    },
+    {
+      "verseNumber": 4,
+      "speaker": "Krishna",
+      "devanagari": "सर्वयोनिषु कौन्तेय मूर्तयः सम्भवन्ति याः।\nतासां ब्रह्म महद्योनिरहं बीजप्रदः पिता॥४॥",
+      "transliteration": "Sarva-Yonishu Kaunteya Murtayah Sambhavanti Yah.\nTasam Brahma Mahad-Yonir-Aham Bija-Pradah Pita.",
+      "wordByWord": [
+        {
+          "word": "सर्वयोनिषु",
+          "transliteration": "sarva-yonishu",
+          "meaning": "in all wombs/species"
+        },
+        {
+          "word": "कौन्तेय",
+          "transliteration": "kaunteya",
+          "meaning": "O son of Kunti"
+        },
+        {
+          "word": "मूर्तयः",
+          "transliteration": "murtayah",
+          "meaning": "forms"
+        },
+        {
+          "word": "सम्भवन्ति",
+          "transliteration": "sambhavanti",
+          "meaning": "are produced"
+        },
+        {
+          "word": "याः",
+          "transliteration": "yah",
+          "meaning": "which"
+        },
+        {
+          "word": "तासाम्",
+          "transliteration": "tasam",
+          "meaning": "of them"
+        },
+        {
+          "word": "ब्रह्म",
+          "transliteration": "brahma",
+          "meaning": "Prakriti"
+        },
+        {
+          "word": "महद्योनिः",
+          "transliteration": "mahad-yonih",
+          "meaning": "the great womb"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I"
+        },
+        {
+          "word": "बीजप्रदः",
+          "transliteration": "bija-pradah",
+          "meaning": "the seed-giver"
+        },
+        {
+          "word": "पिता",
+          "transliteration": "pita",
+          "meaning": "the father"
+        }
+      ],
+      "hindiTranslation": "हे कौन्तेय! सब योनियों में जितनी मूर्तियाँ (शरीर) उत्पन्न होती हैं, उन सबकी महद् ब्रह्म (प्रकृति) योनि (माता) है और मैं बीज देने वाला पिता हूँ।",
+      "englishTranslation": "O son of Kunti, whatever forms are produced in all the wombs, the great Prakriti is their womb and I am the seed-giving father.",
+      "commentary": "Krishna clarifies His role in creation — He is the universal father who provides the conscious principle (the seed), while Prakriti is the universal mother who provides the material body. Every species, from the smallest insect to the highest celestial being, owes its existence to this cosmic parentage. This establishes Krishna's intimate connection with all living beings.",
+      "slug": "verse-4"
+    },
+    {
+      "verseNumber": 5,
+      "speaker": "Krishna",
+      "devanagari": "सत्त्वं रजस्तम इति गुणाः प्रकृतिसम्भवाः।\nनिबध्नन्ति महाबाहो देहे देहिनमव्ययम्॥५॥",
+      "transliteration": "Sattvam Rajas-Tama Iti Gunah Prakriti-Sambhavah.\nNibadhnanti Maha-Baho Dehe Dehinam-Avyayam.",
+      "wordByWord": [
+        {
+          "word": "सत्त्वम्",
+          "transliteration": "sattvam",
+          "meaning": "goodness"
+        },
+        {
+          "word": "रजः",
+          "transliteration": "rajah",
+          "meaning": "passion"
+        },
+        {
+          "word": "तमः",
+          "transliteration": "tamah",
+          "meaning": "ignorance"
+        },
+        {
+          "word": "इति",
+          "transliteration": "iti",
+          "meaning": "thus"
+        },
+        {
+          "word": "गुणाः",
+          "transliteration": "gunah",
+          "meaning": "the qualities"
+        },
+        {
+          "word": "प्रकृतिसम्भवाः",
+          "transliteration": "prakriti-sambhavah",
+          "meaning": "born of Prakriti"
+        },
+        {
+          "word": "निबध्नन्ति",
+          "transliteration": "nibadhnanti",
+          "meaning": "bind"
+        },
+        {
+          "word": "महाबाहो",
+          "transliteration": "maha-baho",
+          "meaning": "O mighty-armed"
+        },
+        {
+          "word": "देहे",
+          "transliteration": "dehe",
+          "meaning": "in the body"
+        },
+        {
+          "word": "देहिनम्",
+          "transliteration": "dehinam",
+          "meaning": "the embodied soul"
+        },
+        {
+          "word": "अव्ययम्",
+          "transliteration": "avyayam",
+          "meaning": "the imperishable"
+        }
+      ],
+      "hindiTranslation": "हे महाबाहो! सत्त्व, रजस और तमस — ये तीन गुण प्रकृति से उत्पन्न हैं। ये अविनाशी देही (आत्मा) को शरीर में बाँधते हैं।",
+      "englishTranslation": "Sattva, Rajas, and Tamas — these three qualities born of Prakriti bind the imperishable soul in the body, O mighty-armed Arjuna.",
+      "commentary": "This is the key verse of the chapter, introducing the three Gunas. Though the soul is imperishable and beyond material nature, it becomes bound when it identifies with the body and its qualities. The three Gunas are not inherent in the soul but belong to Prakriti. Understanding this distinction is the first step toward transcending them.",
+      "slug": "verse-5"
+    },
+    {
+      "verseNumber": 6,
+      "speaker": "Krishna",
+      "devanagari": "तत्र सत्त्वं निर्मलत्वात्प्रकाशकमनामयम्।\nसुखसङ्गेन बध्नाति ज्ञानसङ्गेन चानघ॥६॥",
+      "transliteration": "Tatra Sattvam Nirmalattvat Prakashakam-Anamayam.\nSukha-Sangena Badhnati Jnana-Sangena Cha-Anagha.",
+      "wordByWord": [
+        {
+          "word": "तत्र",
+          "transliteration": "tatra",
+          "meaning": "among these"
+        },
+        {
+          "word": "सत्त्वम्",
+          "transliteration": "sattvam",
+          "meaning": "Sattva (goodness)"
+        },
+        {
+          "word": "निर्मलत्वात्",
+          "transliteration": "nirmalattvat",
+          "meaning": "being pure"
+        },
+        {
+          "word": "प्रकाशकम्",
+          "transliteration": "prakashakam",
+          "meaning": "illuminating"
+        },
+        {
+          "word": "अनामयम्",
+          "transliteration": "anamayam",
+          "meaning": "free from disease"
+        },
+        {
+          "word": "सुखसङ्गेन",
+          "transliteration": "sukha-sangena",
+          "meaning": "by attachment to happiness"
+        },
+        {
+          "word": "बध्नाति",
+          "transliteration": "badhnati",
+          "meaning": "binds"
+        },
+        {
+          "word": "ज्ञानसङ्गेन",
+          "transliteration": "jnana-sangena",
+          "meaning": "by attachment to knowledge"
+        },
+        {
+          "word": "अनघ",
+          "transliteration": "anagha",
+          "meaning": "O sinless one"
+        }
+      ],
+      "hindiTranslation": "हे अनघ! उनमें सत्त्वगुण निर्मल होने से प्रकाशक और निर्विकार है। यह सुख की आसक्ति और ज्ञान की आसक्ति से बाँधता है।",
+      "englishTranslation": "Among these, Sattva, being pure, is illuminating and free from affliction, O sinless one. It binds through attachment to happiness and attachment to knowledge.",
+      "commentary": "Even Sattva, the purest of the three Gunas, is a form of bondage. While it produces clarity, knowledge, and happiness, attachment to these positive states still keeps the soul bound to material existence. A spiritual aspirant must ultimately transcend even Sattva to reach the Absolute, which is beyond all Gunas.",
+      "slug": "verse-6"
+    },
+    {
+      "verseNumber": 7,
+      "speaker": "Krishna",
+      "devanagari": "रजो रागात्मकं विद्धि तृष्णासङ्गसमुद्भवम्।\nतन्निबध्नाति कौन्तेय कर्मसङ्गेन देहिनम्॥७॥",
+      "transliteration": "Rajo Raga-Atmakam Viddhi Trishna-Sanga-Samudbhavam.\nTan-Nibadhnati Kaunteya Karma-Sangena Dehinam.",
+      "wordByWord": [
+        {
+          "word": "रजः",
+          "transliteration": "rajah",
+          "meaning": "Rajas (passion)"
+        },
+        {
+          "word": "रागात्मकम्",
+          "transliteration": "raga-atmakam",
+          "meaning": "of the nature of passion"
+        },
+        {
+          "word": "विद्धि",
+          "transliteration": "viddhi",
+          "meaning": "know"
+        },
+        {
+          "word": "तृष्णा",
+          "transliteration": "trishna",
+          "meaning": "craving"
+        },
+        {
+          "word": "सङ्ग",
+          "transliteration": "sanga",
+          "meaning": "attachment"
+        },
+        {
+          "word": "समुद्भवम्",
+          "transliteration": "samudbhavam",
+          "meaning": "arising from"
+        },
+        {
+          "word": "तत्",
+          "transliteration": "tat",
+          "meaning": "that"
+        },
+        {
+          "word": "निबध्नाति",
+          "transliteration": "nibadhnati",
+          "meaning": "binds"
+        },
+        {
+          "word": "कौन्तेय",
+          "transliteration": "kaunteya",
+          "meaning": "O son of Kunti"
+        },
+        {
+          "word": "कर्मसङ्गेन",
+          "transliteration": "karma-sangena",
+          "meaning": "by attachment to action"
+        },
+        {
+          "word": "देहिनम्",
+          "transliteration": "dehinam",
+          "meaning": "the embodied soul"
+        }
+      ],
+      "hindiTranslation": "हे कौन्तेय! रजोगुण को राग-स्वरूप जानो जो तृष्णा और आसक्ति से उत्पन्न होता है। यह देही को कर्मों की आसक्ति से बाँधता है।",
+      "englishTranslation": "Know Rajas to be of the nature of passion, arising from craving and attachment. It binds the embodied soul, O son of Kunti, through attachment to action.",
+      "commentary": "Rajas is characterized by intense desire, restlessness, and the drive to achieve and possess. It creates an insatiable thirst for more — more wealth, more power, more pleasure. It binds the soul by making it believe that happiness lies in external accomplishments, keeping it perpetually engaged in feverish activity.",
+      "slug": "verse-7"
+    },
+    {
+      "verseNumber": 8,
+      "speaker": "Krishna",
+      "devanagari": "तमस्त्वज्ञानजं विद्धि मोहनं सर्वदेहिनाम्।\nप्रमादालस्यनिद्राभिस्तन्निबध्नाति भारत॥८॥",
+      "transliteration": "Tamas-Tv-Ajnana-Jam Viddhi Mohanam Sarva-Dehinam.\nPramada-Alasya-Nidrabhis-Tan-Nibadhnati Bharata.",
+      "wordByWord": [
+        {
+          "word": "तमः",
+          "transliteration": "tamah",
+          "meaning": "Tamas (ignorance)"
+        },
+        {
+          "word": "तु",
+          "transliteration": "tu",
+          "meaning": "but"
+        },
+        {
+          "word": "अज्ञानजम्",
+          "transliteration": "ajnana-jam",
+          "meaning": "born of ignorance"
+        },
+        {
+          "word": "विद्धि",
+          "transliteration": "viddhi",
+          "meaning": "know"
+        },
+        {
+          "word": "मोहनम्",
+          "transliteration": "mohanam",
+          "meaning": "deluding"
+        },
+        {
+          "word": "सर्वदेहिनाम्",
+          "transliteration": "sarva-dehinam",
+          "meaning": "of all embodied beings"
+        },
+        {
+          "word": "प्रमाद",
+          "transliteration": "pramada",
+          "meaning": "negligence"
+        },
+        {
+          "word": "आलस्य",
+          "transliteration": "alasya",
+          "meaning": "laziness"
+        },
+        {
+          "word": "निद्राभिः",
+          "transliteration": "nidrabhih",
+          "meaning": "by sleep"
+        },
+        {
+          "word": "तत्",
+          "transliteration": "tat",
+          "meaning": "that"
+        },
+        {
+          "word": "निबध्नाति",
+          "transliteration": "nibadhnati",
+          "meaning": "binds"
+        }
+      ],
+      "hindiTranslation": "हे भारत! तमोगुण को अज्ञान से उत्पन्न जानो जो सब देहधारियों को मोहित करता है। यह प्रमाद, आलस्य और निद्रा द्वारा बाँधता है।",
+      "englishTranslation": "But know Tamas to be born of ignorance, deluding all embodied beings. It binds through negligence, laziness, and sleep, O Bharata.",
+      "commentary": "Tamas is the lowest of the three Gunas, born from ignorance and causing delusion. It manifests as carelessness, indolence, and excessive sleep. Under its influence, a person cannot discriminate between right and wrong, and remains trapped in inertia. Spiritual seekers must be especially vigilant against tamasic tendencies that dull awareness.",
+      "slug": "verse-8"
+    },
+    {
+      "verseNumber": 9,
+      "speaker": "Krishna",
+      "devanagari": "सत्त्वं सुखे सञ्जयति रजः कर्मणि भारत।\nज्ञानमावृत्य तु तमः प्रमादे सञ्जयत्युत॥९॥",
+      "transliteration": "Sattvam Sukhe Sanjayati Rajah Karmani Bharata.\nJnanam-Avritya Tu Tamah Pramade Sanjayaty-Uta.",
+      "wordByWord": [
+        {
+          "word": "सत्त्वम्",
+          "transliteration": "sattvam",
+          "meaning": "Sattva"
+        },
+        {
+          "word": "सुखे",
+          "transliteration": "sukhe",
+          "meaning": "to happiness"
+        },
+        {
+          "word": "सञ्जयति",
+          "transliteration": "sanjayati",
+          "meaning": "attaches"
+        },
+        {
+          "word": "रजः",
+          "transliteration": "rajah",
+          "meaning": "Rajas"
+        },
+        {
+          "word": "कर्मणि",
+          "transliteration": "karmani",
+          "meaning": "to action"
+        },
+        {
+          "word": "ज्ञानम्",
+          "transliteration": "jnanam",
+          "meaning": "knowledge"
+        },
+        {
+          "word": "आवृत्य",
+          "transliteration": "avritya",
+          "meaning": "covering"
+        },
+        {
+          "word": "तमः",
+          "transliteration": "tamah",
+          "meaning": "Tamas"
+        },
+        {
+          "word": "प्रमादे",
+          "transliteration": "pramade",
+          "meaning": "to negligence"
+        },
+        {
+          "word": "सञ्जयति",
+          "transliteration": "sanjayati",
+          "meaning": "attaches"
+        }
+      ],
+      "hindiTranslation": "हे भारत! सत्त्वगुण सुख में आसक्त करता है, रजोगुण कर्म में आसक्त करता है, और तमोगुण ज्ञान को ढककर प्रमाद में लगाता है।",
+      "englishTranslation": "Sattva attaches one to happiness, Rajas to action, O Bharata, while Tamas, veiling knowledge, attaches one to negligence.",
+      "commentary": "This verse concisely summarizes the binding mechanism of each Guna. Sattva creates a golden chain of happiness and knowledge, Rajas creates a chain of compulsive activity, and Tamas throws a veil of ignorance leading to carelessness. Each Guna has its own way of keeping the soul entangled in worldly existence.",
+      "slug": "verse-9"
+    },
+    {
+      "verseNumber": 10,
+      "speaker": "Krishna",
+      "devanagari": "रजस्तमश्चाभिभूय सत्त्वं भवति भारत।\nरजः सत्त्वं तमश्चैव तमः सत्त्वं रजस्तथा॥१०॥",
+      "transliteration": "Rajas-Tamash-Cha-Abhibhuya Sattvam Bhavati Bharata.\nRajah Sattvam Tamash-Chaiva Tamah Sattvam Rajas-Tatha.",
+      "wordByWord": [
+        {
+          "word": "रजः",
+          "transliteration": "rajah",
+          "meaning": "Rajas"
+        },
+        {
+          "word": "तमः",
+          "transliteration": "tamah",
+          "meaning": "Tamas"
+        },
+        {
+          "word": "अभिभूय",
+          "transliteration": "abhibhuya",
+          "meaning": "overpowering"
+        },
+        {
+          "word": "सत्त्वम्",
+          "transliteration": "sattvam",
+          "meaning": "Sattva"
+        },
+        {
+          "word": "भवति",
+          "transliteration": "bhavati",
+          "meaning": "prevails"
+        },
+        {
+          "word": "भारत",
+          "transliteration": "bharata",
+          "meaning": "O Bharata"
+        },
+        {
+          "word": "रजः सत्त्वम् तमः",
+          "transliteration": "rajah sattvam tamah",
+          "meaning": "Rajas overpowers Sattva and Tamas"
+        },
+        {
+          "word": "तमः सत्त्वम् रजः",
+          "transliteration": "tamah sattvam rajah",
+          "meaning": "Tamas overpowers Sattva and Rajas"
+        }
+      ],
+      "hindiTranslation": "हे भारत! रजस और तमस को दबाकर सत्त्व प्रबल होता है; सत्त्व और तमस को दबाकर रजस; तथा सत्त्व और रजस को दबाकर तमस प्रबल होता है।",
+      "englishTranslation": "Sattva prevails by overpowering Rajas and Tamas, O Bharata. Rajas prevails by overpowering Sattva and Tamas, and Tamas by overpowering Sattva and Rajas.",
+      "commentary": "The three Gunas are in constant dynamic interplay, each rising to dominance by suppressing the other two. This explains the fluctuating nature of human moods, motivations, and behaviors. At any given moment, one Guna dominates while the others recede, creating the ever-changing patterns of our inner life.",
+      "slug": "verse-10"
+    },
+    {
+      "verseNumber": 11,
+      "speaker": "Krishna",
+      "devanagari": "सर्वद्वारेषु देहेऽस्मिन्प्रकाश उपजायते।\nज्ञानं यदा तदा विद्याद्विवृद्धं सत्त्वमित्युत॥११॥",
+      "transliteration": "Sarva-Dvareshu Dehe'smin Prakasha Upajayate.\nJnanam Yada Tada Vidyad-Vivriddham Sattvam-Ity-Uta.",
+      "wordByWord": [
+        {
+          "word": "सर्वद्वारेषु",
+          "transliteration": "sarva-dvareshu",
+          "meaning": "in all the gates (senses)"
+        },
+        {
+          "word": "देहे अस्मिन्",
+          "transliteration": "dehe asmin",
+          "meaning": "in this body"
+        },
+        {
+          "word": "प्रकाशः",
+          "transliteration": "prakashah",
+          "meaning": "light/illumination"
+        },
+        {
+          "word": "उपजायते",
+          "transliteration": "upajayate",
+          "meaning": "arises"
+        },
+        {
+          "word": "ज्ञानम्",
+          "transliteration": "jnanam",
+          "meaning": "knowledge"
+        },
+        {
+          "word": "यदा",
+          "transliteration": "yada",
+          "meaning": "when"
+        },
+        {
+          "word": "तदा",
+          "transliteration": "tada",
+          "meaning": "then"
+        },
+        {
+          "word": "विद्यात्",
+          "transliteration": "vidyat",
+          "meaning": "one should know"
+        },
+        {
+          "word": "विवृद्धम्",
+          "transliteration": "vivriddham",
+          "meaning": "has increased"
+        },
+        {
+          "word": "सत्त्वम्",
+          "transliteration": "sattvam",
+          "meaning": "Sattva"
+        }
+      ],
+      "hindiTranslation": "जब इस शरीर के सब द्वारों (इन्द्रियों) में प्रकाश और ज्ञान उत्पन्न होता है, तब जानना चाहिए कि सत्त्वगुण बढ़ा हुआ है।",
+      "englishTranslation": "When the light of knowledge shines through all the gates (senses) of the body, then one should know that Sattva has increased.",
+      "commentary": "Krishna provides practical signs for recognizing each Guna's predominance. When Sattva is dominant, there is clarity in perception, alertness of mind, and a luminous quality in all sense experiences. The 'gates' refer to the nine openings of the body through which we interact with the world — when these function with clarity and wisdom, Sattva prevails.",
+      "slug": "verse-11"
+    },
+    {
+      "verseNumber": 12,
+      "speaker": "Krishna",
+      "devanagari": "लोभः प्रवृत्तिरारम्भः कर्मणामशमः स्पृहा।\nरजस्येतानि जायन्ते विवृद्धे भरतर्षभ॥१२॥",
+      "transliteration": "Lobhah Pravrittir-Arambhah Karmanam-Ashamah Spriha.\nRajasy-Etani Jayante Vivriddhe Bharatarshabha.",
+      "wordByWord": [
+        {
+          "word": "लोभः",
+          "transliteration": "lobhah",
+          "meaning": "greed"
+        },
+        {
+          "word": "प्रवृत्तिः",
+          "transliteration": "pravrittih",
+          "meaning": "activity"
+        },
+        {
+          "word": "आरम्भः",
+          "transliteration": "arambhah",
+          "meaning": "undertaking"
+        },
+        {
+          "word": "कर्मणाम्",
+          "transliteration": "karmanam",
+          "meaning": "of actions"
+        },
+        {
+          "word": "अशमः",
+          "transliteration": "ashamah",
+          "meaning": "restlessness"
+        },
+        {
+          "word": "स्पृहा",
+          "transliteration": "spriha",
+          "meaning": "desire/longing"
+        },
+        {
+          "word": "रजसि",
+          "transliteration": "rajasi",
+          "meaning": "when Rajas"
+        },
+        {
+          "word": "एतानि",
+          "transliteration": "etani",
+          "meaning": "these"
+        },
+        {
+          "word": "जायन्ते",
+          "transliteration": "jayante",
+          "meaning": "arise"
+        },
+        {
+          "word": "विवृद्धे",
+          "transliteration": "vivriddhe",
+          "meaning": "has increased"
+        }
+      ],
+      "hindiTranslation": "हे भरतश्रेष्ठ! जब रजोगुण बढ़ता है तब लोभ, प्रवृत्ति, कर्मों का आरम्भ, अशान्ति और स्पृहा — ये सब उत्पन्न होते हैं।",
+      "englishTranslation": "Greed, activity, the undertaking of new actions, restlessness, and longing — these arise when Rajas has increased, O best of the Bharatas.",
+      "commentary": "The signs of Rajasic predominance include greed for acquisition, compulsive activity, constantly starting new projects, inability to find inner peace, and intense longing for objects and experiences. A person dominated by Rajas is always busy but never satisfied, perpetually chasing the next goal without finding lasting fulfillment.",
+      "slug": "verse-12"
+    },
+    {
+      "verseNumber": 13,
+      "speaker": "Krishna",
+      "devanagari": "अप्रकाशोऽप्रवृत्तिश्च प्रमादो मोह एव च।\nतमस्येतानि जायन्ते विवृद्धे कुरुनन्दन॥१३॥",
+      "transliteration": "Aprakasho'pravrittish-Cha Pramado Moha Eva Cha.\nTamasy-Etani Jayante Vivriddhe Kuru-Nandana.",
+      "wordByWord": [
+        {
+          "word": "अप्रकाशः",
+          "transliteration": "aprakashah",
+          "meaning": "darkness/dullness"
+        },
+        {
+          "word": "अप्रवृत्तिः",
+          "transliteration": "apravrittih",
+          "meaning": "inactivity"
+        },
+        {
+          "word": "प्रमादः",
+          "transliteration": "pramadah",
+          "meaning": "negligence"
+        },
+        {
+          "word": "मोहः",
+          "transliteration": "mohah",
+          "meaning": "delusion"
+        },
+        {
+          "word": "एव च",
+          "transliteration": "eva cha",
+          "meaning": "and also"
+        },
+        {
+          "word": "तमसि",
+          "transliteration": "tamasi",
+          "meaning": "when Tamas"
+        },
+        {
+          "word": "एतानि",
+          "transliteration": "etani",
+          "meaning": "these"
+        },
+        {
+          "word": "जायन्ते",
+          "transliteration": "jayante",
+          "meaning": "arise"
+        },
+        {
+          "word": "विवृद्धे",
+          "transliteration": "vivriddhe",
+          "meaning": "has increased"
+        },
+        {
+          "word": "कुरुनन्दन",
+          "transliteration": "kuru-nandana",
+          "meaning": "O joy of the Kurus"
+        }
+      ],
+      "hindiTranslation": "हे कुरुनन्दन! जब तमोगुण बढ़ता है तब अप्रकाश (अन्धकार), अप्रवृत्ति (निष्क्रियता), प्रमाद और मोह — ये सब उत्पन्न होते हैं।",
+      "englishTranslation": "Darkness, inactivity, negligence, and delusion — these arise when Tamas has increased, O joy of the Kurus.",
+      "commentary": "Tamasic predominance is marked by mental darkness, inability to act or make decisions, carelessness in one's duties, and a pervasive confusion about what is right. Under Tamas, one loses the motivation to improve oneself and sinks into a state of inertia and ignorance. Recognizing these symptoms is the first step to overcoming them.",
+      "slug": "verse-13"
+    },
+    {
+      "verseNumber": 14,
+      "speaker": "Krishna",
+      "devanagari": "यदा सत्त्वे प्रवृद्धे तु प्रलयं याति देहभृत्।\nतदोत्तमविदां लोकानमलान्प्रतिपद्यते॥१४॥",
+      "transliteration": "Yada Sattve Pravriddhe Tu Pralayam Yati Deha-Bhrit.\nTado-Uttama-Vidam Lokan-Amalan Pratipadyate.",
+      "wordByWord": [
+        {
+          "word": "यदा",
+          "transliteration": "yada",
+          "meaning": "when"
+        },
+        {
+          "word": "सत्त्वे",
+          "transliteration": "sattve",
+          "meaning": "in Sattva"
+        },
+        {
+          "word": "प्रवृद्धे",
+          "transliteration": "pravriddhe",
+          "meaning": "predominating"
+        },
+        {
+          "word": "प्रलयम्",
+          "transliteration": "pralayam",
+          "meaning": "death/dissolution"
+        },
+        {
+          "word": "याति",
+          "transliteration": "yati",
+          "meaning": "meets"
+        },
+        {
+          "word": "देहभृत्",
+          "transliteration": "deha-bhrit",
+          "meaning": "the embodied being"
+        },
+        {
+          "word": "उत्तमविदाम्",
+          "transliteration": "uttama-vidam",
+          "meaning": "of the knowers of the highest"
+        },
+        {
+          "word": "लोकान्",
+          "transliteration": "lokan",
+          "meaning": "worlds"
+        },
+        {
+          "word": "अमलान्",
+          "transliteration": "amalan",
+          "meaning": "pure/spotless"
+        },
+        {
+          "word": "प्रतिपद्यते",
+          "transliteration": "pratipadyate",
+          "meaning": "attains"
+        }
+      ],
+      "hindiTranslation": "जब सत्त्वगुण की प्रधानता में देहधारी मृत्यु को प्राप्त होता है, तब वह उत्तम ज्ञानियों के निर्मल लोकों को प्राप्त करता है।",
+      "englishTranslation": "If the embodied being meets death when Sattva is predominant, then it attains the pure worlds of those who know the highest.",
+      "commentary": "The Guna predominant at the time of death determines one's next destination. Dying in a Sattvic state leads to the higher, purer realms where great sages and knowers of Brahman reside. This underscores the importance of cultivating Sattva throughout life, so that one's final moments are characterized by clarity and peace.",
+      "slug": "verse-14"
+    },
+    {
+      "verseNumber": 15,
+      "speaker": "Krishna",
+      "devanagari": "रजसि प्रलयं गत्वा कर्मसङ्गिषु जायते।\nतथा प्रलीनस्तमसि मूढयोनिषु जायते॥१५॥",
+      "transliteration": "Rajasi Pralayam Gatva Karma-Sangishu Jayate.\nTatha Pralinas-Tamasi Mudha-Yonishu Jayate.",
+      "wordByWord": [
+        {
+          "word": "रजसि",
+          "transliteration": "rajasi",
+          "meaning": "in Rajas"
+        },
+        {
+          "word": "प्रलयम्",
+          "transliteration": "pralayam",
+          "meaning": "death"
+        },
+        {
+          "word": "गत्वा",
+          "transliteration": "gatva",
+          "meaning": "having met"
+        },
+        {
+          "word": "कर्मसङ्गिषु",
+          "transliteration": "karma-sangishu",
+          "meaning": "among those attached to action"
+        },
+        {
+          "word": "जायते",
+          "transliteration": "jayate",
+          "meaning": "is born"
+        },
+        {
+          "word": "प्रलीनः",
+          "transliteration": "pralinah",
+          "meaning": "dying"
+        },
+        {
+          "word": "तमसि",
+          "transliteration": "tamasi",
+          "meaning": "in Tamas"
+        },
+        {
+          "word": "मूढयोनिषु",
+          "transliteration": "mudha-yonishu",
+          "meaning": "in the wombs of the deluded"
+        }
+      ],
+      "hindiTranslation": "रजोगुण में मरने पर कर्मासक्त लोगों में जन्म लेता है। तमोगुण में मरने पर मूढ़ योनियों (अज्ञानी जातियों) में जन्म लेता है।",
+      "englishTranslation": "Dying in Rajas, one is born among those attached to action. Dying in Tamas, one is born in the wombs of the deluded.",
+      "commentary": "A Rajasic death — full of desires, attachments, and unfinished ambitions — leads to rebirth in families driven by worldly action. A Tamasic death — in a state of ignorance, delusion, or unconsciousness — leads to birth in lower species or among deeply ignorant beings. This teaching motivates one to purify the mind through spiritual practice.",
+      "slug": "verse-15"
+    },
+    {
+      "verseNumber": 16,
+      "speaker": "Krishna",
+      "devanagari": "कर्मणः सुकृतस्याहुः सात्त्विकं निर्मलं फलम्।\nरजसस्तु फलं दुःखमज्ञानं तमसः फलम्॥१६॥",
+      "transliteration": "Karmanah Sukritasya-Ahuh Sattvikam Nirmalam Phalam.\nRajasas-Tu Phalam Duhkham-Ajnanam Tamasah Phalam.",
+      "wordByWord": [
+        {
+          "word": "कर्मणः",
+          "transliteration": "karmanah",
+          "meaning": "of action"
+        },
+        {
+          "word": "सुकृतस्य",
+          "transliteration": "sukritasya",
+          "meaning": "well-performed (Sattvic)"
+        },
+        {
+          "word": "आहुः",
+          "transliteration": "ahuh",
+          "meaning": "they say"
+        },
+        {
+          "word": "सात्त्विकम्",
+          "transliteration": "sattvikam",
+          "meaning": "Sattvic"
+        },
+        {
+          "word": "निर्मलम्",
+          "transliteration": "nirmalam",
+          "meaning": "pure"
+        },
+        {
+          "word": "फलम्",
+          "transliteration": "phalam",
+          "meaning": "fruit/result"
+        },
+        {
+          "word": "रजसः",
+          "transliteration": "rajasah",
+          "meaning": "of Rajas"
+        },
+        {
+          "word": "दुःखम्",
+          "transliteration": "duhkham",
+          "meaning": "sorrow"
+        },
+        {
+          "word": "अज्ञानम्",
+          "transliteration": "ajnanam",
+          "meaning": "ignorance"
+        },
+        {
+          "word": "तमसः",
+          "transliteration": "tamasah",
+          "meaning": "of Tamas"
+        },
+        {
+          "word": "फलम्",
+          "transliteration": "phalam",
+          "meaning": "fruit/result"
+        }
+      ],
+      "hindiTranslation": "सात्त्विक कर्म का फल निर्मल और शुभ कहा गया है। राजसिक कर्म का फल दुःख है और तामसिक कर्म का फल अज्ञान है।",
+      "englishTranslation": "The fruit of good action performed in Sattva is said to be pure and holy. The fruit of Rajas is sorrow, and the fruit of Tamas is ignorance.",
+      "commentary": "Each type of action produces results consistent with its quality. Sattvic actions yield purity and inner peace; Rajasic actions, despite their initial promise, ultimately bring suffering because desire-driven action can never produce lasting satisfaction; and Tamasic actions lead to deeper ignorance and delusion.",
+      "slug": "verse-16"
+    },
+    {
+      "verseNumber": 17,
+      "speaker": "Krishna",
+      "devanagari": "सत्त्वात्सञ्जायते ज्ञानं रजसो लोभ एव च।\nप्रमादमोहौ तमसो भवतोऽज्ञानमेव च॥१७॥",
+      "transliteration": "Sattvat Sanjayate Jnanam Rajaso Lobha Eva Cha.\nPramada-Mohau Tamaso Bhavato'jnanam-Eva Cha.",
+      "wordByWord": [
+        {
+          "word": "सत्त्वात्",
+          "transliteration": "sattvat",
+          "meaning": "from Sattva"
+        },
+        {
+          "word": "सञ्जायते",
+          "transliteration": "sanjayate",
+          "meaning": "arises"
+        },
+        {
+          "word": "ज्ञानम्",
+          "transliteration": "jnanam",
+          "meaning": "knowledge"
+        },
+        {
+          "word": "रजसः",
+          "transliteration": "rajasah",
+          "meaning": "from Rajas"
+        },
+        {
+          "word": "लोभः",
+          "transliteration": "lobhah",
+          "meaning": "greed"
+        },
+        {
+          "word": "प्रमादमोहौ",
+          "transliteration": "pramada-mohau",
+          "meaning": "negligence and delusion"
+        },
+        {
+          "word": "तमसः",
+          "transliteration": "tamasah",
+          "meaning": "from Tamas"
+        },
+        {
+          "word": "अज्ञानम्",
+          "transliteration": "ajnanam",
+          "meaning": "ignorance"
+        }
+      ],
+      "hindiTranslation": "सत्त्व से ज्ञान उत्पन्न होता है, रजस से लोभ, और तमस से प्रमाद, मोह तथा अज्ञान उत्पन्न होते हैं।",
+      "englishTranslation": "From Sattva arises knowledge; from Rajas, greed; and from Tamas arise negligence, delusion, and ignorance.",
+      "commentary": "This verse summarizes the psychological products of each Guna. Sattva produces genuine knowledge and wisdom. Rajas generates greed and insatiable desire. Tamas creates negligence, confusion, and deep ignorance. By observing which tendencies are predominant in one's mind, one can identify which Guna currently dominates.",
+      "slug": "verse-17"
+    },
+    {
+      "verseNumber": 18,
+      "speaker": "Krishna",
+      "devanagari": "ऊर्ध्वं गच्छन्ति सत्त्वस्था मध्ये तिष्ठन्ति राजसाः।\nजघन्यगुणवृत्तिस्था अधो गच्छन्ति तामसाः॥१८॥",
+      "transliteration": "Urdhvam Gachchhanti Sattva-Stha Madhye Tishthanti Rajasah.\nJaghanya-Guna-Vritti-Stha Adho Gachchhanti Tamasah.",
+      "wordByWord": [
+        {
+          "word": "ऊर्ध्वम्",
+          "transliteration": "urdhvam",
+          "meaning": "upward"
+        },
+        {
+          "word": "गच्छन्ति",
+          "transliteration": "gachchhanti",
+          "meaning": "go"
+        },
+        {
+          "word": "सत्त्वस्थाः",
+          "transliteration": "sattva-sthah",
+          "meaning": "those established in Sattva"
+        },
+        {
+          "word": "मध्ये",
+          "transliteration": "madhye",
+          "meaning": "in the middle"
+        },
+        {
+          "word": "तिष्ठन्ति",
+          "transliteration": "tishthanti",
+          "meaning": "remain"
+        },
+        {
+          "word": "राजसाः",
+          "transliteration": "rajasah",
+          "meaning": "the Rajasic"
+        },
+        {
+          "word": "जघन्यगुणवृत्तिस्थाः",
+          "transliteration": "jaghanya-guna-vritti-sthah",
+          "meaning": "established in the lowest Guna"
+        },
+        {
+          "word": "अधः",
+          "transliteration": "adhah",
+          "meaning": "downward"
+        },
+        {
+          "word": "गच्छन्ति",
+          "transliteration": "gachchhanti",
+          "meaning": "go"
+        },
+        {
+          "word": "तामसाः",
+          "transliteration": "tamasah",
+          "meaning": "the Tamasic"
+        }
+      ],
+      "hindiTranslation": "सत्त्व में स्थित लोग ऊर्ध्वगति (ऊपर) जाते हैं, राजसी लोग मध्य में रहते हैं, और निकृष्ट गुण तमस की वृत्ति में स्थित तामसी लोग अधोगति को जाते हैं।",
+      "englishTranslation": "Those established in Sattva go upward; the Rajasic remain in the middle; and the Tamasic, abiding in the function of the lowest Guna, go downward.",
+      "commentary": "This verse maps the three Gunas to three directions of evolution. Sattvic beings ascend to higher planes of existence. Rajasic beings continue in the human realm of mixed experiences. Tamasic beings descend to lower, more ignorant forms of existence. This teaching motivates conscious effort to cultivate Sattva and transcend all Gunas.",
+      "slug": "verse-18"
+    },
+    {
+      "verseNumber": 19,
+      "speaker": "Krishna",
+      "devanagari": "नान्यं गुणेभ्यः कर्तारं यदा द्रष्टानुपश्यति।\nगुणेभ्यश्च परं वेत्ति मद्भावं सोऽधिगच्छति॥१९॥",
+      "transliteration": "Na-Anyam Gunebhyah Kartaram Yada Drashta-Anupashyati.\nGunebhyash-Cha Param Vetti Mad-Bhavam So'dhigachchhati.",
+      "wordByWord": [
+        {
+          "word": "न अन्यम्",
+          "transliteration": "na anyam",
+          "meaning": "no other"
+        },
+        {
+          "word": "गुणेभ्यः",
+          "transliteration": "gunebhyah",
+          "meaning": "than the Gunas"
+        },
+        {
+          "word": "कर्तारम्",
+          "transliteration": "kartaram",
+          "meaning": "doer"
+        },
+        {
+          "word": "यदा",
+          "transliteration": "yada",
+          "meaning": "when"
+        },
+        {
+          "word": "द्रष्टा",
+          "transliteration": "drashta",
+          "meaning": "the seer"
+        },
+        {
+          "word": "अनुपश्यति",
+          "transliteration": "anupashyati",
+          "meaning": "perceives"
+        },
+        {
+          "word": "गुणेभ्यः",
+          "transliteration": "gunebhyah",
+          "meaning": "than the Gunas"
+        },
+        {
+          "word": "परम्",
+          "transliteration": "param",
+          "meaning": "higher"
+        },
+        {
+          "word": "वेत्ति",
+          "transliteration": "vetti",
+          "meaning": "knows"
+        },
+        {
+          "word": "मद्भावम्",
+          "transliteration": "mad-bhavam",
+          "meaning": "My nature"
+        },
+        {
+          "word": "अधिगच्छति",
+          "transliteration": "adhigachchhati",
+          "meaning": "attains"
+        }
+      ],
+      "hindiTranslation": "जब द्रष्टा (साधक) गुणों के अतिरिक्त कोई कर्ता नहीं देखता और गुणों से परे तत्त्व को जान लेता है, तब वह मेरे स्वरूप को प्राप्त होता है।",
+      "englishTranslation": "When the seer perceives no doer other than the Gunas and knows that which is higher than the Gunas, he attains My nature.",
+      "commentary": "This is the pivotal verse for liberation. When one realizes that all actions are performed by the Gunas of Prakriti and that the Self is a mere witness beyond all qualities, one attains the divine nature of Krishna. This realization requires both intellectual discrimination and direct experiential insight that the true Self has never been a doer.",
+      "slug": "verse-19"
+    },
+    {
+      "verseNumber": 20,
+      "speaker": "Krishna",
+      "devanagari": "गुणानेतानतीत्य त्रीन्देही देहसमुद्भवान्।\nजन्ममृत्युजरादुःखैर्विमुक्तोऽमृतमश्नुते॥२०॥",
+      "transliteration": "Gunan-Etan-Atitya Trin Dehi Deha-Samudbhavan.\nJanma-Mrityu-Jara-Duhkhair-Vimukto'mritam-Ashnute.",
+      "wordByWord": [
+        {
+          "word": "गुणान्",
+          "transliteration": "gunan",
+          "meaning": "the qualities"
+        },
+        {
+          "word": "एतान्",
+          "transliteration": "etan",
+          "meaning": "these"
+        },
+        {
+          "word": "अतीत्य",
+          "transliteration": "atitya",
+          "meaning": "having transcended"
+        },
+        {
+          "word": "त्रीन्",
+          "transliteration": "trin",
+          "meaning": "three"
+        },
+        {
+          "word": "देही",
+          "transliteration": "dehi",
+          "meaning": "the embodied soul"
+        },
+        {
+          "word": "देहसमुद्भवान्",
+          "transliteration": "deha-samudbhavan",
+          "meaning": "arising from the body"
+        },
+        {
+          "word": "जन्म",
+          "transliteration": "janma",
+          "meaning": "birth"
+        },
+        {
+          "word": "मृत्यु",
+          "transliteration": "mrityu",
+          "meaning": "death"
+        },
+        {
+          "word": "जरा",
+          "transliteration": "jara",
+          "meaning": "old age"
+        },
+        {
+          "word": "दुःखैः",
+          "transliteration": "duhkhaih",
+          "meaning": "from sufferings"
+        },
+        {
+          "word": "विमुक्तः",
+          "transliteration": "vimuktah",
+          "meaning": "freed"
+        },
+        {
+          "word": "अमृतम्",
+          "transliteration": "amritam",
+          "meaning": "immortality"
+        },
+        {
+          "word": "अश्नुते",
+          "transliteration": "ashnute",
+          "meaning": "attains"
+        }
+      ],
+      "hindiTranslation": "शरीर से उत्पन्न इन तीनों गुणों को लाँघकर देही (आत्मा) जन्म, मृत्यु, जरा और दुःख से मुक्त होकर अमृत को प्राप्त करता है।",
+      "englishTranslation": "The embodied soul, having transcended these three Gunas that arise from the body, is freed from birth, death, old age, and sorrow, and attains immortality.",
+      "commentary": "This verse states the ultimate goal — transcending all three Gunas to attain immortality. Even Sattva must be transcended, for as long as any Guna binds, the soul remains in the cycle of birth and death. True liberation means going beyond all material qualities and resting in the pure, unconditioned state of the Self.",
+      "slug": "verse-20"
+    },
+    {
+      "verseNumber": 21,
+      "speaker": "Arjuna",
+      "devanagari": "अर्जुन उवाच —\nकैर्लिङ्गैस्त्रीन्गुणानेतानतीतो भवति प्रभो।\nकिमाचारः कथं चैतांस्त्रीन्गुणानतिवर्तते॥२१॥",
+      "transliteration": "Arjuna Uvacha —\nKair-Lingais-Trin-Gunan-Etan-Atito Bhavati Prabho.\nKim-Acharah Katham Cha-Etams-Trin-Gunan-Ativartate.",
+      "wordByWord": [
+        {
+          "word": "कैः",
+          "transliteration": "kaih",
+          "meaning": "by what"
+        },
+        {
+          "word": "लिङ्गैः",
+          "transliteration": "lingaih",
+          "meaning": "signs/marks"
+        },
+        {
+          "word": "त्रीन्",
+          "transliteration": "trin",
+          "meaning": "three"
+        },
+        {
+          "word": "गुणान्",
+          "transliteration": "gunan",
+          "meaning": "Gunas"
+        },
+        {
+          "word": "अतीतः",
+          "transliteration": "atitah",
+          "meaning": "one who has transcended"
+        },
+        {
+          "word": "भवति",
+          "transliteration": "bhavati",
+          "meaning": "becomes"
+        },
+        {
+          "word": "प्रभो",
+          "transliteration": "prabho",
+          "meaning": "O Lord"
+        },
+        {
+          "word": "किम् आचारः",
+          "transliteration": "kim acharah",
+          "meaning": "what is his conduct"
+        },
+        {
+          "word": "कथम्",
+          "transliteration": "katham",
+          "meaning": "how"
+        },
+        {
+          "word": "अतिवर्तते",
+          "transliteration": "ativartate",
+          "meaning": "transcends"
+        }
+      ],
+      "hindiTranslation": "अर्जुन ने कहा — हे प्रभो! जो इन तीनों गुणों से अतीत हो गया है, उसके क्या लक्षण हैं? उसका आचरण कैसा है? और वह इन तीनों गुणों को कैसे लाँघता है?",
+      "englishTranslation": "Arjuna said — By what signs is one who has transcended these three Gunas known, O Lord? What is his conduct? And how does he go beyond these three Gunas?",
+      "commentary": "Arjuna asks three practical questions: What are the characteristics of a Gunatita (one beyond the Gunas)? How does such a person behave in daily life? And what is the method for transcending the Gunas? These questions reflect the aspirant's genuine desire to understand and attain this state.",
+      "slug": "verse-21"
+    },
+    {
+      "verseNumber": 22,
+      "speaker": "Krishna",
+      "devanagari": "श्रीभगवानुवाच —\nप्रकाशं च प्रवृत्तिं च मोहमेव च पाण्डव।\nन द्वेष्टि सम्प्रवृत्तानि न निवृत्तानि काङ्क्षति॥२२॥",
+      "transliteration": "Shri Bhagavan Uvacha —\nPrakasham Cha Pravrittim Cha Moham-Eva Cha Pandava.\nNa Dveshti Sampravrittani Na Nivrittani Kankshati.",
+      "wordByWord": [
+        {
+          "word": "प्रकाशम्",
+          "transliteration": "prakasham",
+          "meaning": "illumination (Sattva)"
+        },
+        {
+          "word": "प्रवृत्तिम्",
+          "transliteration": "pravrittim",
+          "meaning": "activity (Rajas)"
+        },
+        {
+          "word": "मोहम्",
+          "transliteration": "moham",
+          "meaning": "delusion (Tamas)"
+        },
+        {
+          "word": "पाण्डव",
+          "transliteration": "pandava",
+          "meaning": "O son of Pandu"
+        },
+        {
+          "word": "न द्वेष्टि",
+          "transliteration": "na dveshti",
+          "meaning": "does not hate"
+        },
+        {
+          "word": "सम्प्रवृत्तानि",
+          "transliteration": "sampravrittani",
+          "meaning": "when present"
+        },
+        {
+          "word": "न काङ्क्षति",
+          "transliteration": "na kankshati",
+          "meaning": "does not desire"
+        },
+        {
+          "word": "निवृत्तानि",
+          "transliteration": "nivrittani",
+          "meaning": "when absent"
+        }
+      ],
+      "hindiTranslation": "श्रीभगवान ने कहा — हे पाण्डव! जो प्रकाश (सत्त्व), प्रवृत्ति (रजस) और मोह (तमस) — इनके उपस्थित होने पर द्वेष नहीं करता और दूर होने पर कामना नहीं करता,",
+      "englishTranslation": "The Blessed Lord said — He who does not hate illumination, activity, or delusion when they arise, O Pandava, nor longs for them when they cease,",
+      "commentary": "Krishna begins describing the Gunatita by addressing the first question about signs. Such a person neither resists nor clings to any of the three Gunas. When Sattvic clarity arises, he does not become proud; when Rajasic activity drives him, he does not become agitated; when Tamasic dullness appears, he does not despair. This equanimity is the hallmark of transcendence.",
+      "slug": "verse-22"
+    },
+    {
+      "verseNumber": 23,
+      "speaker": "Krishna",
+      "devanagari": "उदासीनवदासीनो गुणैर्यो न विचाल्यते।\nगुणा वर्तन्त इत्येवं योऽवतिष्ठति नेङ्गते॥२३॥",
+      "transliteration": "Udasina-Vad-Asino Gunair-Yo Na Vichalyate.\nGuna Vartanta Ity-Evam Yo'vatishthati Ne'ngate.",
+      "wordByWord": [
+        {
+          "word": "उदासीनवत्",
+          "transliteration": "udasinavat",
+          "meaning": "like one indifferent"
+        },
+        {
+          "word": "आसीनः",
+          "transliteration": "asinah",
+          "meaning": "seated/remaining"
+        },
+        {
+          "word": "गुणैः",
+          "transliteration": "gunaih",
+          "meaning": "by the Gunas"
+        },
+        {
+          "word": "न विचाल्यते",
+          "transliteration": "na vichalyate",
+          "meaning": "is not disturbed"
+        },
+        {
+          "word": "गुणाः",
+          "transliteration": "gunah",
+          "meaning": "the Gunas"
+        },
+        {
+          "word": "वर्तन्ते",
+          "transliteration": "vartante",
+          "meaning": "are operating"
+        },
+        {
+          "word": "इति",
+          "transliteration": "iti",
+          "meaning": "thus"
+        },
+        {
+          "word": "अवतिष्ठति",
+          "transliteration": "avatishthati",
+          "meaning": "remains firm"
+        },
+        {
+          "word": "न इङ्गते",
+          "transliteration": "na ingate",
+          "meaning": "does not waver"
+        }
+      ],
+      "hindiTranslation": "जो उदासीन के समान स्थित है, गुणों द्वारा विचलित नहीं होता, 'गुण ही गुणों में बरत रहे हैं' — ऐसा जानकर स्थिर रहता है और डगमगाता नहीं,",
+      "englishTranslation": "He who sits like one unconcerned, undisturbed by the Gunas, who remains firm knowing that the Gunas alone are operating — he does not waver.",
+      "commentary": "The Gunatita maintains the awareness that all mental and physical activities are merely the play of the Gunas in Prakriti. He sits as a witness, like a neutral observer, understanding that it is the Gunas interacting with the Gunas. This knowledge keeps him stable and unshaken through all the vicissitudes of life.",
+      "slug": "verse-23"
+    },
+    {
+      "verseNumber": 24,
+      "speaker": "Krishna",
+      "devanagari": "समदुःखसुखः स्वस्थः समलोष्टाश्मकाञ्चनः।\nतुल्यप्रियाप्रियो धीरस्तुल्यनिन्दात्मसंस्तुतिः॥२४॥",
+      "transliteration": "Sama-Duhkha-Sukhah Svasthah Sama-Loshta-Ashma-Kanchanah.\nTulya-Priya-Apriyo Dhiras-Tulya-Ninda-Atma-Samstutih.",
+      "wordByWord": [
+        {
+          "word": "समदुःखसुखः",
+          "transliteration": "sama-duhkha-sukhah",
+          "meaning": "equal in pain and pleasure"
+        },
+        {
+          "word": "स्वस्थः",
+          "transliteration": "svasthah",
+          "meaning": "self-abiding"
+        },
+        {
+          "word": "समलोष्टाश्मकाञ्चनः",
+          "transliteration": "sama-loshta-ashma-kanchanah",
+          "meaning": "equal toward a clod, stone, and gold"
+        },
+        {
+          "word": "तुल्यप्रियाप्रियः",
+          "transliteration": "tulya-priya-apriyah",
+          "meaning": "equal in pleasant and unpleasant"
+        },
+        {
+          "word": "धीरः",
+          "transliteration": "dhirah",
+          "meaning": "wise/steady"
+        },
+        {
+          "word": "तुल्यनिन्दात्मसंस्तुतिः",
+          "transliteration": "tulya-ninda-atma-samstutih",
+          "meaning": "equal in blame and praise of self"
+        }
+      ],
+      "hindiTranslation": "जो सुख-दुःख में सम है, आत्मस्थ है, मिट्टी, पत्थर और सोने को समान देखता है, प्रिय-अप्रिय में समभाव है, धीर है, और निन्दा-स्तुति में समान है,",
+      "englishTranslation": "He who is equal in pain and pleasure, self-abiding, to whom a clod, a stone, and gold are equal, who is the same toward the pleasant and unpleasant, wise, and equal in blame and praise of himself,",
+      "commentary": "This verse paints a vivid portrait of the liberated person. Such a person has found contentment within (Svastha — established in the Self) and is therefore unaffected by external dualities. The comparison of a clod of earth, stone, and gold illustrates complete dispassion toward material possessions, while equanimity in praise and blame shows freedom from the ego's need for validation.",
+      "slug": "verse-24"
+    },
+    {
+      "verseNumber": 25,
+      "speaker": "Krishna",
+      "devanagari": "मानापमानयोस्तुल्यस्तुल्यो मित्रारिपक्षयोः।\nसर्वारम्भपरित्यागी गुणातीतः स उच्यते॥२५॥",
+      "transliteration": "Mana-Apamanayos-Tulyas-Tulyo Mitra-Ari-Pakshayoh.\nSarva-Arambha-Parityagi Gunatitah Sa Uchyate.",
+      "wordByWord": [
+        {
+          "word": "मानापमानयोः",
+          "transliteration": "mana-apamanayoh",
+          "meaning": "in honor and dishonor"
+        },
+        {
+          "word": "तुल्यः",
+          "transliteration": "tulyah",
+          "meaning": "equal"
+        },
+        {
+          "word": "मित्रारिपक्षयोः",
+          "transliteration": "mitra-ari-pakshayoh",
+          "meaning": "toward friend and foe"
+        },
+        {
+          "word": "सर्वारम्भपरित्यागी",
+          "transliteration": "sarva-arambha-parityagi",
+          "meaning": "renouncer of all undertakings"
+        },
+        {
+          "word": "गुणातीतः",
+          "transliteration": "gunatitah",
+          "meaning": "one who has transcended the Gunas"
+        },
+        {
+          "word": "सः उच्यते",
+          "transliteration": "sah uchyate",
+          "meaning": "he is called"
+        }
+      ],
+      "hindiTranslation": "मान और अपमान में समान, मित्र और शत्रु पक्ष में समान, सब आरम्भों (सकाम कर्मों) का त्यागी — वह गुणातीत कहा जाता है।",
+      "englishTranslation": "He who is equal in honor and dishonor, equal toward friend and foe, who has renounced all self-motivated undertakings — he is said to have transcended the Gunas.",
+      "commentary": "The description of the Gunatita concludes with equanimity toward honor and dishonor, friends and enemies, and the renunciation of all ego-driven initiatives. This does not mean inactivity but the abandonment of selfish motivation. Such a person acts from a state of inner freedom, not driven by personal gain or the desire for recognition.",
+      "slug": "verse-25"
+    },
+    {
+      "verseNumber": 26,
+      "speaker": "Krishna",
+      "devanagari": "मां च योऽव्यभिचारेण भक्तियोगेन सेवते।\nस गुणान्समतीत्यैतान्ब्रह्मभूयाय कल्पते॥२६॥",
+      "transliteration": "Mam Cha Yo'vyabhicharena Bhakti-Yogena Sevate.\nSa Gunan-Samatitya-Itan Brahma-Bhuyaya Kalpate.",
+      "wordByWord": [
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        },
+        {
+          "word": "यः",
+          "transliteration": "yah",
+          "meaning": "who"
+        },
+        {
+          "word": "अव्यभिचारेण",
+          "transliteration": "avyabhicharena",
+          "meaning": "with unwavering"
+        },
+        {
+          "word": "भक्तियोगेन",
+          "transliteration": "bhakti-yogena",
+          "meaning": "through the yoga of devotion"
+        },
+        {
+          "word": "सेवते",
+          "transliteration": "sevate",
+          "meaning": "serves"
+        },
+        {
+          "word": "सः",
+          "transliteration": "sah",
+          "meaning": "he"
+        },
+        {
+          "word": "गुणान्",
+          "transliteration": "gunan",
+          "meaning": "the Gunas"
+        },
+        {
+          "word": "समतीत्य",
+          "transliteration": "samatitya",
+          "meaning": "having completely transcended"
+        },
+        {
+          "word": "ब्रह्मभूयाय",
+          "transliteration": "brahma-bhuyaya",
+          "meaning": "for becoming Brahman"
+        },
+        {
+          "word": "कल्पते",
+          "transliteration": "kalpate",
+          "meaning": "becomes fit"
+        }
+      ],
+      "hindiTranslation": "और जो अव्यभिचारिणी भक्तियोग से मेरी सेवा करता है, वह इन गुणों को पूर्णतः लाँघकर ब्रह्मभाव के योग्य हो जाता है।",
+      "englishTranslation": "And he who serves Me with unwavering devotion through Bhakti Yoga, having completely transcended these Gunas, becomes fit for becoming one with Brahman.",
+      "commentary": "Krishna answers Arjuna's third question about the method of transcendence. The answer is unequivocal — unwavering devotion (Bhakti Yoga). Through exclusive and steadfast devotion to God, one naturally transcends all three Gunas and becomes qualified for Brahman-realization. Bhakti is presented as the supreme means of liberation, accessible to all regardless of temperament or ability.",
+      "slug": "verse-26"
+    },
+    {
+      "verseNumber": 27,
+      "speaker": "Krishna",
+      "devanagari": "ब्रह्मणो हि प्रतिष्ठाहममृतस्याव्ययस्य च।\nशाश्वतस्य च धर्मस्य सुखस्यैकान्तिकस्य च॥२७॥",
+      "transliteration": "Brahmano Hi Pratishtha-Aham-Amritasya-Avyayasya Cha.\nShashvatasya Cha Dharmasya Sukhasyai-Kantikasya Cha.",
+      "wordByWord": [
+        {
+          "word": "ब्रह्मणः",
+          "transliteration": "brahmanah",
+          "meaning": "of Brahman"
+        },
+        {
+          "word": "हि",
+          "transliteration": "hi",
+          "meaning": "indeed"
+        },
+        {
+          "word": "प्रतिष्ठा",
+          "transliteration": "pratishtha",
+          "meaning": "the foundation"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I"
+        },
+        {
+          "word": "अमृतस्य",
+          "transliteration": "amritasya",
+          "meaning": "of the immortal"
+        },
+        {
+          "word": "अव्ययस्य",
+          "transliteration": "avyayasya",
+          "meaning": "of the imperishable"
+        },
+        {
+          "word": "शाश्वतस्य",
+          "transliteration": "shashvatasya",
+          "meaning": "of the eternal"
+        },
+        {
+          "word": "धर्मस्य",
+          "transliteration": "dharmasya",
+          "meaning": "of dharma (righteousness)"
+        },
+        {
+          "word": "सुखस्य",
+          "transliteration": "sukhasya",
+          "meaning": "of bliss"
+        },
+        {
+          "word": "एकान्तिकस्य",
+          "transliteration": "ekantikasya",
+          "meaning": "absolute/unconditional"
+        }
+      ],
+      "hindiTranslation": "क्योंकि उस अमृत, अव्यय ब्रह्म का, शाश्वत धर्म का, और एकान्तिक (परम) सुख का आश्रय मैं हूँ।",
+      "englishTranslation": "For I am the foundation of Brahman — the immortal and imperishable, of the eternal dharma, and of absolute bliss.",
+      "commentary": "The chapter concludes with Krishna's magnificent declaration that He is the very foundation of Brahman, immortality, eternal dharma, and unconditional bliss. This establishes the personal God (Krishna) as the ground of the impersonal Absolute (Brahman). Devotion to Krishna therefore naturally leads to Brahman-realization, as the personal and impersonal are not separate but two aspects of the same ultimate reality.",
+      "slug": "verse-27"
+    }
+  ]
+}

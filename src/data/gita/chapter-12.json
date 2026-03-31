@@ -1,0 +1,1126 @@
+{
+  "chapterNumber": 12,
+  "titleSanskrit": "भक्तियोगः",
+  "titleHindi": "भक्तियोग",
+  "titleEnglish": "Bhakti Yoga — The Yoga of Devotion",
+  "slug": "chapter-12",
+  "description": "Bhagavad Gita Chapter 12, Bhakti Yoga, is the most beloved and frequently recited chapter of the Gita. It begins with Arjuna asking whether devotees who worship the personal form of God or those who worship the formless Absolute are better yogis. Krishna clearly declares that those who fix their minds on Him with supreme faith and worship His personal form are the best. He then provides a compassionate step-by-step path for seekers of all capacities: fix your mind on Me, or practice abhyasa yoga, or dedicate all actions to Me, or simply renounce the fruits of all actions. Krishna then describes the qualities of His ideal devotee — free from hatred, friendly and compassionate, without ego, equal in pleasure and pain, forgiving, content, self-controlled, and firm in resolve. The chapter culminates in a beautiful description of the devotee most dear to God — one who is alike to friend and foe, who neither disturbs the world nor is disturbed by it.",
+  "verseCount": 20,
+  "verses": [
+    {
+      "verseNumber": 1,
+      "speaker": "Arjuna",
+      "devanagari": "एवं सततयुक्ता ये भक्तास्त्वां पर्युपासते।\nये चाप्यक्षरमव्यक्तं तेषां के योगवित्तमाः॥",
+      "transliteration": "Evam Satata-Yukta Ye Bhaktas-Tvam Paryupasate.\nYe Cha-Apy-Aksharam-Avyaktam Tesham Ke Yoga-Vittamah.",
+      "wordByWord": [
+        {
+          "word": "एवम्",
+          "transliteration": "evam",
+          "meaning": "thus"
+        },
+        {
+          "word": "सततयुक्ताः",
+          "transliteration": "satata-yuktah",
+          "meaning": "always steadfast"
+        },
+        {
+          "word": "भक्ताः",
+          "transliteration": "bhaktah",
+          "meaning": "devotees"
+        },
+        {
+          "word": "त्वाम्",
+          "transliteration": "tvam",
+          "meaning": "You"
+        },
+        {
+          "word": "पर्युपासते",
+          "transliteration": "paryupasate",
+          "meaning": "worship"
+        },
+        {
+          "word": "अक्षरम्",
+          "transliteration": "aksharam",
+          "meaning": "the imperishable"
+        },
+        {
+          "word": "अव्यक्तम्",
+          "transliteration": "avyaktam",
+          "meaning": "the unmanifest"
+        },
+        {
+          "word": "तेषाम्",
+          "transliteration": "tesham",
+          "meaning": "of them"
+        },
+        {
+          "word": "के",
+          "transliteration": "ke",
+          "meaning": "who"
+        },
+        {
+          "word": "योगवित्तमाः",
+          "transliteration": "yoga-vittamah",
+          "meaning": "the best knowers of yoga"
+        }
+      ],
+      "hindiTranslation": "अर्जुन बोले — जो भक्त सदा आपमें स्थिर रहकर आपके सगुण-साकार रूप की उपासना करते हैं और जो अविनाशी निराकार (अव्यक्त) की उपासना करते हैं — उनमें कौन योग को अधिक जानने वाले हैं?",
+      "englishTranslation": "Arjuna said: Those devotees who are ever steadfast and worship You in Your personal form, and those who worship the Imperishable Unmanifest — of these, who are the better knowers of yoga?",
+      "commentary": "Arjuna poses the central question of this chapter — is saguna (personal form) worship or nirguna (formless) worship superior? This question has been debated throughout Indian philosophy, and Krishna's answer settles it clearly in favor of personal devotion while honoring both paths.",
+      "slug": "verse-1"
+    },
+    {
+      "verseNumber": 2,
+      "speaker": "Krishna",
+      "devanagari": "मय्यावेश्य मनो ये मां नित्ययुक्ता उपासते।\nश्रद्धया परयोपेतास्ते मे युक्ततमा मताः॥",
+      "transliteration": "Mayy-Aveshya Mano Ye Mam Nitya-Yukta Upasate.\nShraddhaya Parayo-Upetas-Te Me Yuktatama Matah.",
+      "wordByWord": [
+        {
+          "word": "मयि",
+          "transliteration": "mayi",
+          "meaning": "on Me"
+        },
+        {
+          "word": "आवेश्य",
+          "transliteration": "aveshya",
+          "meaning": "fixing"
+        },
+        {
+          "word": "मनः",
+          "transliteration": "manah",
+          "meaning": "the mind"
+        },
+        {
+          "word": "नित्ययुक्ताः",
+          "transliteration": "nitya-yuktah",
+          "meaning": "always engaged"
+        },
+        {
+          "word": "उपासते",
+          "transliteration": "upasate",
+          "meaning": "worship"
+        },
+        {
+          "word": "श्रद्धया",
+          "transliteration": "shraddhaya",
+          "meaning": "with faith"
+        },
+        {
+          "word": "परया",
+          "transliteration": "paraya",
+          "meaning": "supreme"
+        },
+        {
+          "word": "उपेताः",
+          "transliteration": "upetah",
+          "meaning": "endowed with"
+        },
+        {
+          "word": "युक्ततमाः",
+          "transliteration": "yuktatamah",
+          "meaning": "the most perfect in yoga"
+        },
+        {
+          "word": "मताः",
+          "transliteration": "matah",
+          "meaning": "considered"
+        }
+      ],
+      "hindiTranslation": "श्रीभगवान बोले — जो मुझमें मन लगाकर, सदा मुझमें युक्त रहते हुए, परम श्रद्धा से सम्पन्न होकर मेरी उपासना करते हैं — वे मुझे सबसे श्रेष्ठ योगी मान्य हैं।",
+      "englishTranslation": "The Supreme Lord said: Those who fix their minds on Me and worship Me, ever steadfast and endowed with supreme faith — they are considered by Me to be the most perfect in yoga.",
+      "commentary": "Krishna gives a clear, direct answer — devotees who worship His personal form with constant dedication and supreme faith are the best yogis. The word 'yuktatamah' (most united/perfect) is the superlative form, leaving no ambiguity. This verse is the definitive statement on the supremacy of personal devotion (bhakti).",
+      "slug": "verse-2"
+    },
+    {
+      "verseNumber": 3,
+      "speaker": "Krishna",
+      "devanagari": "ये त्वक्षरमनिर्देश्यमव्यक्तं पर्युपासते।\nसर्वत्रगमचिन्त्यं च कूटस्थमचलं ध्रुवम्॥",
+      "transliteration": "Ye Tv-Aksharam-Anirdeshyam-Avyaktam Paryupasate.\nSarvatra-Gam-Achintyam Cha Kutastham-Achalam Dhruvam.",
+      "wordByWord": [
+        {
+          "word": "अक्षरम्",
+          "transliteration": "aksharam",
+          "meaning": "the imperishable"
+        },
+        {
+          "word": "अनिर्देश्यम्",
+          "transliteration": "anirdeshyam",
+          "meaning": "the indefinable"
+        },
+        {
+          "word": "अव्यक्तम्",
+          "transliteration": "avyaktam",
+          "meaning": "the unmanifest"
+        },
+        {
+          "word": "सर्वत्रगम्",
+          "transliteration": "sarvatra-gam",
+          "meaning": "all-pervading"
+        },
+        {
+          "word": "अचिन्त्यम्",
+          "transliteration": "achintyam",
+          "meaning": "inconceivable"
+        },
+        {
+          "word": "कूटस्थम्",
+          "transliteration": "kutastham",
+          "meaning": "unchanging"
+        },
+        {
+          "word": "अचलम्",
+          "transliteration": "achalam",
+          "meaning": "immovable"
+        },
+        {
+          "word": "ध्रुवम्",
+          "transliteration": "dhruvam",
+          "meaning": "fixed/eternal"
+        }
+      ],
+      "hindiTranslation": "परन्तु जो अविनाशी, अनिर्वचनीय, अव्यक्त, सर्वव्यापी, अचिन्त्य, कूटस्थ (अपरिवर्तनशील), अचल और नित्य (ध्रुव) तत्त्व की उपासना करते हैं —",
+      "englishTranslation": "But those who worship the Imperishable, the Indefinable, the Unmanifest, the All-pervading, the Inconceivable, the Unchanging, the Immovable, the Eternal —",
+      "commentary": "Krishna describes the formless Absolute with seven attributes — imperishable, indefinable, unmanifest, all-pervading, inconceivable, unchanging, and immovable. These qualities make it extremely difficult for embodied beings to meditate upon. The verse continues into the next, forming a single sentence.",
+      "slug": "verse-3"
+    },
+    {
+      "verseNumber": 4,
+      "speaker": "Krishna",
+      "devanagari": "सन्नियम्येन्द्रियग्रामं सर्वत्र समबुद्धयः।\nते प्राप्नुवन्ति मामेव सर्वभूतहिते रताः॥",
+      "transliteration": "Sanniyamye-Indriya-Gramam Sarvatra Sama-Buddhayah.\nTe Prapnuvanti Mam-Eva Sarva-Bhuta-Hite Ratah.",
+      "wordByWord": [
+        {
+          "word": "सन्नियम्य",
+          "transliteration": "sanniyamya",
+          "meaning": "having controlled"
+        },
+        {
+          "word": "इन्द्रियग्रामम्",
+          "transliteration": "indriya-gramam",
+          "meaning": "the group of senses"
+        },
+        {
+          "word": "सर्वत्र",
+          "transliteration": "sarvatra",
+          "meaning": "everywhere"
+        },
+        {
+          "word": "समबुद्धयः",
+          "transliteration": "sama-buddhayah",
+          "meaning": "of equal intellect"
+        },
+        {
+          "word": "प्राप्नुवन्ति",
+          "transliteration": "prapnuvanti",
+          "meaning": "they attain"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        },
+        {
+          "word": "सर्वभूतहिते",
+          "transliteration": "sarva-bhuta-hite",
+          "meaning": "in the welfare of all beings"
+        },
+        {
+          "word": "रताः",
+          "transliteration": "ratah",
+          "meaning": "engaged"
+        }
+      ],
+      "hindiTranslation": "— इन्द्रियों के समूह को वश में करके, सर्वत्र समबुद्धि रखते हुए, सब प्राणियों के हित में लगे हुए — वे भी मुझे ही प्राप्त करते हैं।",
+      "englishTranslation": "— controlling all the senses, with equal vision everywhere, engaged in the welfare of all beings — they also attain Me alone.",
+      "commentary": "Krishna acknowledges that worshippers of the formless Absolute also reach Him, provided they control their senses, maintain equanimity, and serve all beings. However, the path is much harder, as explained in the next verse. Both paths lead to God, but the personal path is more natural for embodied beings.",
+      "slug": "verse-4"
+    },
+    {
+      "verseNumber": 5,
+      "speaker": "Krishna",
+      "devanagari": "क्लेशोऽधिकतरस्तेषामव्यक्तासक्तचेतसाम्।\nअव्यक्ता हि गतिर्दुःखं देहवद्भिरवाप्यते॥",
+      "transliteration": "Klesho'dhikataras-Tesham-Avyakta-Asakta-Chetasam.\nAvyakta Hi Gatir-Duhkham Deha-Vadbhir-Avapyate.",
+      "wordByWord": [
+        {
+          "word": "क्लेशः",
+          "transliteration": "kleshah",
+          "meaning": "difficulty/trouble"
+        },
+        {
+          "word": "अधिकतरः",
+          "transliteration": "adhikatarah",
+          "meaning": "greater"
+        },
+        {
+          "word": "तेषाम्",
+          "transliteration": "tesham",
+          "meaning": "for them"
+        },
+        {
+          "word": "अव्यक्तासक्तचेतसाम्",
+          "transliteration": "avyakta-asakta-chetasam",
+          "meaning": "whose minds are attached to the unmanifest"
+        },
+        {
+          "word": "अव्यक्ता",
+          "transliteration": "avyakta",
+          "meaning": "unmanifest"
+        },
+        {
+          "word": "गतिः",
+          "transliteration": "gatih",
+          "meaning": "goal/path"
+        },
+        {
+          "word": "दुःखम्",
+          "transliteration": "duhkham",
+          "meaning": "with difficulty"
+        },
+        {
+          "word": "देहवद्भिः",
+          "transliteration": "deha-vadbhih",
+          "meaning": "by the embodied"
+        },
+        {
+          "word": "अवाप्यते",
+          "transliteration": "avapyate",
+          "meaning": "is attained"
+        }
+      ],
+      "hindiTranslation": "अव्यक्त (निराकार) में आसक्त चित्त वालों को क्लेश (कठिनाई) अधिक होती है; क्योंकि अव्यक्त मार्ग पर चलना देहधारियों के लिए अत्यन्त कठिन है।",
+      "englishTranslation": "Greater is the difficulty for those whose minds are attached to the Unmanifest, for the path of the Unmanifest is very hard for embodied beings to attain.",
+      "commentary": "This is the key verse explaining why personal devotion is recommended. While the formless path is valid, it is extremely difficult (klesha adhikatara) for beings who have bodies. The embodied nature craves form, relationship, and tangible connection. Fighting this natural tendency adds unnecessary suffering to the spiritual journey.",
+      "slug": "verse-5"
+    },
+    {
+      "verseNumber": 6,
+      "speaker": "Krishna",
+      "devanagari": "ये तु सर्वाणि कर्माणि मयि सन्न्यस्य मत्पराः।\nअनन्येनैव योगेन मां ध्यायन्त उपासते॥",
+      "transliteration": "Ye Tu Sarvani Karmani Mayi Sannyasya Mat-Parah.\nAnanyena-Eva Yogena Mam Dhyayanta Upasate.",
+      "wordByWord": [
+        {
+          "word": "सर्वाणि",
+          "transliteration": "sarvani",
+          "meaning": "all"
+        },
+        {
+          "word": "कर्माणि",
+          "transliteration": "karmani",
+          "meaning": "actions"
+        },
+        {
+          "word": "मयि",
+          "transliteration": "mayi",
+          "meaning": "unto Me"
+        },
+        {
+          "word": "सन्न्यस्य",
+          "transliteration": "sannyasya",
+          "meaning": "renouncing/dedicating"
+        },
+        {
+          "word": "मत्पराः",
+          "transliteration": "mat-parah",
+          "meaning": "regarding Me as the Supreme"
+        },
+        {
+          "word": "अनन्येन",
+          "transliteration": "ananyena",
+          "meaning": "exclusive"
+        },
+        {
+          "word": "योगेन",
+          "transliteration": "yogena",
+          "meaning": "by yoga"
+        },
+        {
+          "word": "ध्यायन्तः",
+          "transliteration": "dhyayantah",
+          "meaning": "meditating"
+        },
+        {
+          "word": "उपासते",
+          "transliteration": "upasate",
+          "meaning": "worship"
+        }
+      ],
+      "hindiTranslation": "परन्तु जो सब कर्मों को मुझमें अर्पित करके, मुझे ही परम लक्ष्य मानते हुए, अनन्य योग से मेरा ध्यान करते हुए मेरी उपासना करते हैं —",
+      "englishTranslation": "But those who dedicate all their actions to Me, regarding Me as the Supreme goal, and worship Me by meditating on Me with exclusive devotion —",
+      "commentary": "Krishna now describes His preferred path — complete dedication of all actions to God, holding God as the supreme goal, and exclusive (ananya) devotion. This verse continues into the next with Krishna's promise to such devotees.",
+      "slug": "verse-6"
+    },
+    {
+      "verseNumber": 7,
+      "speaker": "Krishna",
+      "devanagari": "तेषामहं समुद्धर्ता मृत्युसंसारसागरात्।\nभवामि नचिरात्पार्थ मय्यावेशितचेतसाम्॥",
+      "transliteration": "Tesham-Aham Samuddharta Mrityu-Samsara-Sagarat.\nBhavami Na-Chirat Partha Mayy-Aveshita-Chetasam.",
+      "wordByWord": [
+        {
+          "word": "तेषाम्",
+          "transliteration": "tesham",
+          "meaning": "of them"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I"
+        },
+        {
+          "word": "समुद्धर्ता",
+          "transliteration": "samuddharta",
+          "meaning": "the deliverer"
+        },
+        {
+          "word": "मृत्युसंसारसागरात्",
+          "transliteration": "mrityu-samsara-sagarat",
+          "meaning": "from the ocean of birth and death"
+        },
+        {
+          "word": "नचिरात्",
+          "transliteration": "na-chirat",
+          "meaning": "soon/without delay"
+        },
+        {
+          "word": "पार्थ",
+          "transliteration": "partha",
+          "meaning": "O Partha"
+        },
+        {
+          "word": "आवेशितचेतसाम्",
+          "transliteration": "aveshita-chetasam",
+          "meaning": "whose minds are absorbed in Me"
+        }
+      ],
+      "hindiTranslation": "— हे पार्थ! मुझमें चित्त लगाने वाले उन भक्तों का मैं शीघ्र ही मृत्यु-संसार-सागर से उद्धार करने वाला होता हूँ।",
+      "englishTranslation": "— for them whose minds are absorbed in Me, O Partha, I become the swift deliverer from the ocean of birth and death.",
+      "commentary": "This is one of the most comforting promises in the Gita. God Himself becomes the deliverer (samuddharta) of His devotees from the ocean of samsara. The word 'na-chirat' (without delay/soon) emphasizes divine urgency — God does not make His devotees wait. This personal guarantee distinguishes bhakti from all other paths.",
+      "slug": "verse-7"
+    },
+    {
+      "verseNumber": 8,
+      "speaker": "Krishna",
+      "devanagari": "मय्येव मन आधत्स्व मयि बुद्धिं निवेशय।\nनिवसिष्यसि मय्येव अत ऊर्ध्वं न संशयः॥",
+      "transliteration": "Mayy-Eva Mana Adhatsva Mayi Buddhim Niveshaya.\nNivasisyasi Mayy-Eva Ata Urdhvam Na Samshayah.",
+      "wordByWord": [
+        {
+          "word": "मयि",
+          "transliteration": "mayi",
+          "meaning": "on Me"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "alone"
+        },
+        {
+          "word": "मनः",
+          "transliteration": "manah",
+          "meaning": "mind"
+        },
+        {
+          "word": "आधत्स्व",
+          "transliteration": "adhatsva",
+          "meaning": "fix"
+        },
+        {
+          "word": "बुद्धिम्",
+          "transliteration": "buddhim",
+          "meaning": "intellect"
+        },
+        {
+          "word": "निवेशय",
+          "transliteration": "niveshaya",
+          "meaning": "place/establish"
+        },
+        {
+          "word": "निवसिष्यसि",
+          "transliteration": "nivasisyasi",
+          "meaning": "you shall dwell"
+        },
+        {
+          "word": "ऊर्ध्वम्",
+          "transliteration": "urdhvam",
+          "meaning": "hereafter"
+        },
+        {
+          "word": "संशयः",
+          "transliteration": "samshayah",
+          "meaning": "doubt"
+        }
+      ],
+      "hindiTranslation": "मुझमें ही मन को लगाओ, मुझमें ही बुद्धि को स्थापित करो — इसके बाद तुम मुझमें ही निवास करोगे, इसमें कोई संशय नहीं।",
+      "englishTranslation": "Fix your mind on Me alone, place your intellect in Me. You shall dwell in Me hereafter — of this there is no doubt.",
+      "commentary": "The first and highest instruction — dedicate both mind and intellect to God. The mind represents emotion and the intellect represents discrimination. When both are united in God, the result is guaranteed residence in the Divine. The phrase 'na samshayah' (no doubt) provides absolute assurance.",
+      "slug": "verse-8"
+    },
+    {
+      "verseNumber": 9,
+      "speaker": "Krishna",
+      "devanagari": "अथ चित्तं समाधातुं न शक्नोषि मयि स्थिरम्।\nअभ्यासयोगेन ततो मामिच्छाप्तुं धनञ्जय॥",
+      "transliteration": "Atha Chittam Samadhatum Na Shaknoshi Mayi Sthiram.\nAbhyasa-Yogena Tato Mam-Ichchha-Aptum Dhananjaya.",
+      "wordByWord": [
+        {
+          "word": "अथ",
+          "transliteration": "atha",
+          "meaning": "if/however"
+        },
+        {
+          "word": "चित्तम्",
+          "transliteration": "chittam",
+          "meaning": "the mind"
+        },
+        {
+          "word": "समाधातुम्",
+          "transliteration": "samadhatum",
+          "meaning": "to fix steadily"
+        },
+        {
+          "word": "न शक्नोषि",
+          "transliteration": "na shaknoshi",
+          "meaning": "you are not able"
+        },
+        {
+          "word": "स्थिरम्",
+          "transliteration": "sthiram",
+          "meaning": "steadily"
+        },
+        {
+          "word": "अभ्यासयोगेन",
+          "transliteration": "abhyasa-yogena",
+          "meaning": "by the yoga of practice"
+        },
+        {
+          "word": "ततः",
+          "transliteration": "tatah",
+          "meaning": "then"
+        },
+        {
+          "word": "इच्छ",
+          "transliteration": "ichchha",
+          "meaning": "desire"
+        },
+        {
+          "word": "आप्तुम्",
+          "transliteration": "aptum",
+          "meaning": "to attain"
+        },
+        {
+          "word": "धनञ्जय",
+          "transliteration": "dhananjaya",
+          "meaning": "O Dhananjaya"
+        }
+      ],
+      "hindiTranslation": "यदि तुम अपने चित्त को मुझमें स्थिर रूप से लगाने में समर्थ नहीं हो, तो हे धनञ्जय! अभ्यासयोग के द्वारा मुझे प्राप्त करने की इच्छा करो।",
+      "englishTranslation": "If you are unable to fix your mind steadily on Me, then seek to reach Me by the yoga of constant practice, O Dhananjaya.",
+      "commentary": "Krishna compassionately provides an alternative for those who cannot immediately fix their minds on God. The yoga of practice (abhyasa yoga) — repeated, persistent effort — gradually trains the mind toward divine focus. This recognizes that spiritual progress is often gradual, not instantaneous.",
+      "slug": "verse-9"
+    },
+    {
+      "verseNumber": 10,
+      "speaker": "Krishna",
+      "devanagari": "अभ्यासेऽप्यसमर्थोऽसि मत्कर्मपरमो भव।\nमदर्थमपि कर्माणि कुर्वन्सिद्धिमवाप्स्यसि॥",
+      "transliteration": "Abhyase'py-Asamartho'si Mat-Karma-Paramo Bhava.\nMad-Artham-Api Karmani Kurvan-Siddhim-Avapsyasi.",
+      "wordByWord": [
+        {
+          "word": "अभ्यासे",
+          "transliteration": "abhyase",
+          "meaning": "in practice"
+        },
+        {
+          "word": "असमर्थः",
+          "transliteration": "asamarthah",
+          "meaning": "unable"
+        },
+        {
+          "word": "मत्कर्मपरमः",
+          "transliteration": "mat-karma-paramah",
+          "meaning": "devoted to working for Me"
+        },
+        {
+          "word": "भव",
+          "transliteration": "bhava",
+          "meaning": "become"
+        },
+        {
+          "word": "मदर्थम्",
+          "transliteration": "mad-artham",
+          "meaning": "for My sake"
+        },
+        {
+          "word": "कर्माणि",
+          "transliteration": "karmani",
+          "meaning": "actions"
+        },
+        {
+          "word": "कुर्वन्",
+          "transliteration": "kurvan",
+          "meaning": "performing"
+        },
+        {
+          "word": "सिद्धिम्",
+          "transliteration": "siddhim",
+          "meaning": "perfection"
+        },
+        {
+          "word": "अवाप्स्यसि",
+          "transliteration": "avapsyasi",
+          "meaning": "you shall attain"
+        }
+      ],
+      "hindiTranslation": "यदि अभ्यास करने में भी तुम असमर्थ हो, तो मेरे लिए कर्म करने में तत्पर हो जाओ। मेरे लिए कर्म करते हुए भी तुम सिद्धि (पूर्णता) को प्राप्त करोगे।",
+      "englishTranslation": "If you are unable even to practice, then be devoted to performing actions for My sake. Even by performing actions for My sake, you shall attain perfection.",
+      "commentary": "For those who cannot even practice meditation regularly, Krishna offers yet another step — simply perform all actions for God's sake. This is karma yoga in its most accessible form. The beauty of this teaching is its practicality — even ordinary daily actions become spiritual practice when dedicated to God.",
+      "slug": "verse-10"
+    },
+    {
+      "verseNumber": 11,
+      "speaker": "Krishna",
+      "devanagari": "अथैतदप्यशक्तोऽसि कर्तुं मद्योगमाश्रितः।\nसर्वकर्मफलत्यागं ततः कुरु यतात्मवान्॥",
+      "transliteration": "Atha-Itad-Apy-Ashakto'si Kartum Mad-Yogam-Ashritah.\nSarva-Karma-Phala-Tyagam Tatah Kuru Yata-Atmavan.",
+      "wordByWord": [
+        {
+          "word": "अथ",
+          "transliteration": "atha",
+          "meaning": "if/however"
+        },
+        {
+          "word": "एतत्",
+          "transliteration": "etat",
+          "meaning": "this"
+        },
+        {
+          "word": "अशक्तः",
+          "transliteration": "ashaktah",
+          "meaning": "unable"
+        },
+        {
+          "word": "कर्तुम्",
+          "transliteration": "kartum",
+          "meaning": "to do"
+        },
+        {
+          "word": "मद्योगम्",
+          "transliteration": "mad-yogam",
+          "meaning": "My yoga"
+        },
+        {
+          "word": "आश्रितः",
+          "transliteration": "ashritah",
+          "meaning": "taking refuge in"
+        },
+        {
+          "word": "सर्वकर्मफलत्यागम्",
+          "transliteration": "sarva-karma-phala-tyagam",
+          "meaning": "renunciation of fruits of all actions"
+        },
+        {
+          "word": "यतात्मवान्",
+          "transliteration": "yata-atmavan",
+          "meaning": "self-controlled"
+        }
+      ],
+      "hindiTranslation": "यदि यह भी करने में तुम असमर्थ हो, तो मेरे योग का आश्रय लेकर, आत्मसंयमी होकर, सब कर्मों के फल का त्याग करो।",
+      "englishTranslation": "If you are unable to do even this, then take refuge in My yoga and renounce the fruits of all actions, being self-controlled.",
+      "commentary": "The final step in the descending ladder of spiritual practice — simply give up attachment to the results of actions. This is the most accessible practice, available to everyone regardless of spiritual capacity. Krishna's compassion is evident in providing a path for every level of seeker.",
+      "slug": "verse-11"
+    },
+    {
+      "verseNumber": 12,
+      "speaker": "Krishna",
+      "devanagari": "श्रेयो हि ज्ञानमभ्यासाज्ज्ञानाद्ध्यानं विशिष्यते।\nध्यानात्कर्मफलत्यागस्त्यागाच्छान्तिरनन्तरम्॥",
+      "transliteration": "Shreyo Hi Jnanam-Abhyasaj-Jnanad-Dhyanam Vishishyate.\nDhyanat-Karma-Phala-Tyagas-Tyagach-Chhantir-Anantaram.",
+      "wordByWord": [
+        {
+          "word": "श्रेयः",
+          "transliteration": "shreyah",
+          "meaning": "better"
+        },
+        {
+          "word": "ज्ञानम्",
+          "transliteration": "jnanam",
+          "meaning": "knowledge"
+        },
+        {
+          "word": "अभ्यासात्",
+          "transliteration": "abhyasat",
+          "meaning": "than mechanical practice"
+        },
+        {
+          "word": "ज्ञानात्",
+          "transliteration": "jnanat",
+          "meaning": "than knowledge"
+        },
+        {
+          "word": "ध्यानम्",
+          "transliteration": "dhyanam",
+          "meaning": "meditation"
+        },
+        {
+          "word": "विशिष्यते",
+          "transliteration": "vishishyate",
+          "meaning": "is superior"
+        },
+        {
+          "word": "कर्मफलत्यागः",
+          "transliteration": "karma-phala-tyagah",
+          "meaning": "renunciation of the fruits of action"
+        },
+        {
+          "word": "त्यागात्",
+          "transliteration": "tyagat",
+          "meaning": "from renunciation"
+        },
+        {
+          "word": "शान्तिः",
+          "transliteration": "shantih",
+          "meaning": "peace"
+        },
+        {
+          "word": "अनन्तरम्",
+          "transliteration": "anantaram",
+          "meaning": "immediately"
+        }
+      ],
+      "hindiTranslation": "(यांत्रिक) अभ्यास से ज्ञान श्रेष्ठ है, ज्ञान से ध्यान श्रेष्ठ है, ध्यान से कर्मफल का त्याग श्रेष्ठ है — त्याग से तत्काल शान्ति प्राप्त होती है।",
+      "englishTranslation": "Better than mechanical practice is knowledge; better than knowledge is meditation; better than meditation is renunciation of the fruits of action — from such renunciation, peace immediately follows.",
+      "commentary": "Krishna establishes a hierarchy of spiritual practices: knowledge surpasses blind practice, meditation surpasses mere knowledge, and renunciation of results surpasses even meditation. The ultimate fruit — 'shanti' (peace) — comes immediately from renunciation. This verse connects the ladder of practices from verses 8-11 with clear valuation.",
+      "slug": "verse-12"
+    },
+    {
+      "verseNumber": 13,
+      "speaker": "Krishna",
+      "devanagari": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च।\nनिर्ममो निरहङ्कारः समदुःखसुखः क्षमी॥",
+      "transliteration": "Adveshta Sarva-Bhutanam Maitrah Karuna Eva Cha.\nNirmamo Nir-Ahankaarah Sama-Duhkha-Sukhah Kshami.",
+      "wordByWord": [
+        {
+          "word": "अद्वेष्टा",
+          "transliteration": "adveshta",
+          "meaning": "free from hatred"
+        },
+        {
+          "word": "सर्वभूतानाम्",
+          "transliteration": "sarva-bhutanam",
+          "meaning": "toward all beings"
+        },
+        {
+          "word": "मैत्रः",
+          "transliteration": "maitrah",
+          "meaning": "friendly"
+        },
+        {
+          "word": "करुणः",
+          "transliteration": "karunah",
+          "meaning": "compassionate"
+        },
+        {
+          "word": "निर्ममः",
+          "transliteration": "nirmamah",
+          "meaning": "without sense of mine"
+        },
+        {
+          "word": "निरहङ्कारः",
+          "transliteration": "nir-ahankarah",
+          "meaning": "without ego"
+        },
+        {
+          "word": "समदुःखसुखः",
+          "transliteration": "sama-duhkha-sukhah",
+          "meaning": "equal in pain and pleasure"
+        },
+        {
+          "word": "क्षमी",
+          "transliteration": "kshami",
+          "meaning": "forgiving"
+        }
+      ],
+      "hindiTranslation": "जो सब प्राणियों से द्वेषरहित, मित्रभाव रखने वाला, दयालु, ममतारहित, अहंकारशून्य, सुख-दुःख में समभाव रखने वाला और क्षमाशील है —",
+      "englishTranslation": "He who is free from hatred toward all beings, friendly and compassionate, without possessiveness and ego, equal in pleasure and pain, forgiving —",
+      "commentary": "Krishna begins describing the qualities of the ideal devotee. The first qualities are relational — non-hatred, friendliness, compassion. Then personal — freedom from possessiveness and ego. Then experiential — equanimity in pleasure and pain. And finally moral — forgiveness. These qualities form the foundation of a devotional life.",
+      "slug": "verse-13"
+    },
+    {
+      "verseNumber": 14,
+      "speaker": "Krishna",
+      "devanagari": "सन्तुष्टः सततं योगी यतात्मा दृढनिश्चयः।\nमय्यर्पितमनोबुद्धिर्यो मद्भक्तः स मे प्रियः॥",
+      "transliteration": "Santushtah Satatam Yogi Yata-Atma Dridha-Nishchayah.\nMayy-Arpita-Mano-Buddhir-Yo Mad-Bhaktah Sa Me Priyah.",
+      "wordByWord": [
+        {
+          "word": "सन्तुष्टः",
+          "transliteration": "santushtah",
+          "meaning": "contented"
+        },
+        {
+          "word": "सततम्",
+          "transliteration": "satatam",
+          "meaning": "always"
+        },
+        {
+          "word": "योगी",
+          "transliteration": "yogi",
+          "meaning": "yogi"
+        },
+        {
+          "word": "यतात्मा",
+          "transliteration": "yata-atma",
+          "meaning": "self-controlled"
+        },
+        {
+          "word": "दृढनिश्चयः",
+          "transliteration": "dridha-nishchayah",
+          "meaning": "of firm resolve"
+        },
+        {
+          "word": "अर्पितमनोबुद्धिः",
+          "transliteration": "arpita-mano-buddhih",
+          "meaning": "mind and intellect offered to Me"
+        },
+        {
+          "word": "मद्भक्तः",
+          "transliteration": "mad-bhaktah",
+          "meaning": "My devotee"
+        },
+        {
+          "word": "प्रियः",
+          "transliteration": "priyah",
+          "meaning": "dear"
+        }
+      ],
+      "hindiTranslation": "— सदा सन्तुष्ट, योगयुक्त, आत्मसंयमी, दृढ़ निश्चय वाला, मुझमें मन और बुद्धि अर्पित किए हुए — वह मेरा भक्त मुझे प्रिय है।",
+      "englishTranslation": "— always content, self-controlled, of firm resolve, with mind and intellect dedicated to Me — such a devotee of Mine is dear to Me.",
+      "commentary": "Contentment, self-control, and firm determination characterize the ideal devotee. The culminating quality — 'mayy-arpita-mano-buddhih' (mind and intellect offered to Me) — ties back to verse 8's instruction. The beautiful phrase 'sa me priyah' (he is dear to Me) expresses God's personal affection, which repeats in the following verses.",
+      "slug": "verse-14"
+    },
+    {
+      "verseNumber": 15,
+      "speaker": "Krishna",
+      "devanagari": "यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः।\nहर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः॥",
+      "transliteration": "Yasman-No-Udvijate Loko Lokan-No-Udvijate Cha Yah.\nHarsha-Amarsha-Bhayo-Dvegair-Mukto Yah Sa Cha Me Priyah.",
+      "wordByWord": [
+        {
+          "word": "यस्मात्",
+          "transliteration": "yasmat",
+          "meaning": "by whom"
+        },
+        {
+          "word": "न उद्विजते",
+          "transliteration": "na udvijate",
+          "meaning": "is not disturbed"
+        },
+        {
+          "word": "लोकः",
+          "transliteration": "lokah",
+          "meaning": "the world"
+        },
+        {
+          "word": "लोकात्",
+          "transliteration": "lokat",
+          "meaning": "by the world"
+        },
+        {
+          "word": "हर्ष",
+          "transliteration": "harsha",
+          "meaning": "joy"
+        },
+        {
+          "word": "अमर्ष",
+          "transliteration": "amarsha",
+          "meaning": "anger"
+        },
+        {
+          "word": "भय",
+          "transliteration": "bhaya",
+          "meaning": "fear"
+        },
+        {
+          "word": "उद्वेगैः",
+          "transliteration": "udvegaih",
+          "meaning": "anxiety"
+        },
+        {
+          "word": "मुक्तः",
+          "transliteration": "muktah",
+          "meaning": "free"
+        }
+      ],
+      "hindiTranslation": "जिससे लोग उद्विग्न (परेशान) नहीं होते और जो स्वयं लोगों से उद्विग्न नहीं होता, जो हर्ष, क्रोध, भय और उद्वेग (चिन्ता) से मुक्त है — वह भी मुझे प्रिय है।",
+      "englishTranslation": "He by whom the world is not disturbed and who is not disturbed by the world, who is free from joy, anger, fear, and anxiety — he too is dear to Me.",
+      "commentary": "This verse describes harmonious living — neither disturbing others nor being disturbed by them. The devotee maintains inner equilibrium free from emotional extremes. The mutual non-disturbance between the devotee and the world reflects true spiritual maturity — living in the world without friction.",
+      "slug": "verse-15"
+    },
+    {
+      "verseNumber": 16,
+      "speaker": "Krishna",
+      "devanagari": "अनपेक्षः शुचिर्दक्ष उदासीनो गतव्यथः।\nसर्वारम्भपरित्यागी यो मद्भक्तः स मे प्रियः॥",
+      "transliteration": "Anapekshah Shuchir-Daksha Udasino Gata-Vyathah.\nSarva-Arambha-Parityagi Yo Mad-Bhaktah Sa Me Priyah.",
+      "wordByWord": [
+        {
+          "word": "अनपेक्षः",
+          "transliteration": "anapekshah",
+          "meaning": "without expectations"
+        },
+        {
+          "word": "शुचिः",
+          "transliteration": "shuchih",
+          "meaning": "pure"
+        },
+        {
+          "word": "दक्षः",
+          "transliteration": "dakshah",
+          "meaning": "skillful/capable"
+        },
+        {
+          "word": "उदासीनः",
+          "transliteration": "udasinah",
+          "meaning": "impartial"
+        },
+        {
+          "word": "गतव्यथः",
+          "transliteration": "gata-vyathah",
+          "meaning": "free from distress"
+        },
+        {
+          "word": "सर्वारम्भपरित्यागी",
+          "transliteration": "sarva-arambha-parityagi",
+          "meaning": "renouncing all self-centered undertakings"
+        },
+        {
+          "word": "मद्भक्तः",
+          "transliteration": "mad-bhaktah",
+          "meaning": "My devotee"
+        },
+        {
+          "word": "प्रियः",
+          "transliteration": "priyah",
+          "meaning": "dear"
+        }
+      ],
+      "hindiTranslation": "जो अपेक्षारहित, शुद्ध (पवित्र), दक्ष (कुशल), तटस्थ (निष्पक्ष), व्यथारहित और सब स्वार्थपूर्ण आरम्भों का त्यागी है — वह मेरा भक्त मुझे प्रिय है।",
+      "englishTranslation": "He who is free from expectations, pure, skillful, impartial, free from distress, and who renounces all selfish undertakings — such a devotee of Mine is dear to Me.",
+      "commentary": "Six more qualities of the ideal devotee: freedom from expectation, inner purity, competence, impartiality, freedom from anxiety, and renunciation of selfish initiatives. Notably, 'daksha' (skillful) shows that devotion does not mean incompetence — a devotee should be capable and efficient in worldly matters while remaining spiritually grounded.",
+      "slug": "verse-16"
+    },
+    {
+      "verseNumber": 17,
+      "speaker": "Krishna",
+      "devanagari": "यो न हृष्यति न द्वेष्टि न शोचति न काङ्क्षति।\nशुभाशुभपरित्यागी भक्तिमान्यः स मे प्रियः॥",
+      "transliteration": "Yo Na Hrishyati Na Dveshti Na Shochati Na Kankshati.\nShubha-Ashubha-Parityagi Bhaktiman-Yah Sa Me Priyah.",
+      "wordByWord": [
+        {
+          "word": "न हृष्यति",
+          "transliteration": "na hrishyati",
+          "meaning": "does not rejoice excessively"
+        },
+        {
+          "word": "न द्वेष्टि",
+          "transliteration": "na dveshti",
+          "meaning": "does not hate"
+        },
+        {
+          "word": "न शोचति",
+          "transliteration": "na shochati",
+          "meaning": "does not grieve"
+        },
+        {
+          "word": "न काङ्क्षति",
+          "transliteration": "na kankshati",
+          "meaning": "does not desire"
+        },
+        {
+          "word": "शुभाशुभपरित्यागी",
+          "transliteration": "shubha-ashubha-parityagi",
+          "meaning": "renouncing both good and bad"
+        },
+        {
+          "word": "भक्तिमान्",
+          "transliteration": "bhaktiman",
+          "meaning": "full of devotion"
+        },
+        {
+          "word": "प्रियः",
+          "transliteration": "priyah",
+          "meaning": "dear"
+        }
+      ],
+      "hindiTranslation": "जो न अत्यधिक हर्षित होता है, न द्वेष करता है, न शोक करता है, न कामना करता है, जो शुभ और अशुभ दोनों का त्यागी है — वह भक्तिमान मुझे प्रिय है।",
+      "englishTranslation": "He who neither rejoices excessively nor hates, neither grieves nor desires, who renounces both good and bad — that devotee full of devotion is dear to Me.",
+      "commentary": "The ideal devotee transcends the dualities of excessive joy and hatred, grief and desire, and even the concepts of auspicious and inauspicious. This is not emotional numbness but a state of equanimity rooted in devotion. The mind rests in God rather than being tossed by life's circumstances.",
+      "slug": "verse-17"
+    },
+    {
+      "verseNumber": 18,
+      "speaker": "Krishna",
+      "devanagari": "समः शत्रौ च मित्रे च तथा मानापमानयोः।\nशीतोष्णसुखदुःखेषु समः सङ्गविवर्जितः॥",
+      "transliteration": "Samah Shatrau Cha Mitre Cha Tatha Mana-Apamanayoh.\nShito-Ushna-Sukha-Duhkheshu Samah Sanga-Vivarjitah.",
+      "wordByWord": [
+        {
+          "word": "समः",
+          "transliteration": "samah",
+          "meaning": "equal"
+        },
+        {
+          "word": "शत्रौ",
+          "transliteration": "shatrau",
+          "meaning": "toward enemies"
+        },
+        {
+          "word": "मित्रे",
+          "transliteration": "mitre",
+          "meaning": "toward friends"
+        },
+        {
+          "word": "मानापमानयोः",
+          "transliteration": "mana-apamanayoh",
+          "meaning": "in honor and dishonor"
+        },
+        {
+          "word": "शीतोष्ण",
+          "transliteration": "shito-ushna",
+          "meaning": "cold and heat"
+        },
+        {
+          "word": "सुखदुःखेषु",
+          "transliteration": "sukha-duhkheshu",
+          "meaning": "in pleasure and pain"
+        },
+        {
+          "word": "सङ्गविवर्जितः",
+          "transliteration": "sanga-vivarjitah",
+          "meaning": "free from attachment"
+        }
+      ],
+      "hindiTranslation": "जो शत्रु और मित्र में, मान और अपमान में, शीत-उष्ण-सुख-दुःख में समभाव रखता है और आसक्ति से रहित है —",
+      "englishTranslation": "He who is equal toward enemies and friends, in honor and dishonor, in cold and heat, in pleasure and pain, and who is free from attachment —",
+      "commentary": "Equanimity across all dualities — social (friend/enemy), psychological (honor/dishonor), physical (heat/cold), and experiential (pleasure/pain) — characterizes the liberated devotee. The root of this equanimity is 'sanga-vivarjitah' (freedom from attachment). This verse continues into the next.",
+      "slug": "verse-18"
+    },
+    {
+      "verseNumber": 19,
+      "speaker": "Krishna",
+      "devanagari": "तुल्यनिन्दास्तुतिर्मौनी सन्तुष्टो येनकेनचित्।\nअनिकेतः स्थिरमतिर्भक्तिमान्मे प्रियो नरः॥",
+      "transliteration": "Tulya-Ninda-Stutir-Mauni Santushto Yena-Kenachit.\nAniketah Sthira-Matir-Bhaktiman-Me Priyo Narah.",
+      "wordByWord": [
+        {
+          "word": "तुल्य",
+          "transliteration": "tulya",
+          "meaning": "equal"
+        },
+        {
+          "word": "निन्दा",
+          "transliteration": "ninda",
+          "meaning": "blame"
+        },
+        {
+          "word": "स्तुतिः",
+          "transliteration": "stutih",
+          "meaning": "praise"
+        },
+        {
+          "word": "मौनी",
+          "transliteration": "mauni",
+          "meaning": "silent/contemplative"
+        },
+        {
+          "word": "सन्तुष्टः",
+          "transliteration": "santushtah",
+          "meaning": "content"
+        },
+        {
+          "word": "येनकेनचित्",
+          "transliteration": "yena-kenachit",
+          "meaning": "with whatever comes"
+        },
+        {
+          "word": "अनिकेतः",
+          "transliteration": "aniketah",
+          "meaning": "without fixed abode"
+        },
+        {
+          "word": "स्थिरमतिः",
+          "transliteration": "sthira-matih",
+          "meaning": "of steady mind"
+        },
+        {
+          "word": "भक्तिमान्",
+          "transliteration": "bhaktiman",
+          "meaning": "full of devotion"
+        },
+        {
+          "word": "प्रियः",
+          "transliteration": "priyah",
+          "meaning": "dear"
+        },
+        {
+          "word": "नरः",
+          "transliteration": "narah",
+          "meaning": "person"
+        }
+      ],
+      "hindiTranslation": "— निन्दा और स्तुति में समान, मौनी (विचारशील), जो कुछ भी मिले उसमें सन्तुष्ट, गृहासक्ति से रहित, स्थिर बुद्धि वाला — ऐसा भक्तिमान पुरुष मुझे प्रिय है।",
+      "englishTranslation": "— equal in blame and praise, contemplative, content with whatever comes, without attachment to home, steady-minded, and full of devotion — such a person is dear to Me.",
+      "commentary": "The description culminates with qualities of inner freedom — equal response to criticism and praise, contemplative silence, contentment with whatever life brings, non-attachment even to one's home, and mental stability. The word 'aniketah' (homeless/unattached to dwelling) means not literal homelessness but inner freedom from dependence on external security.",
+      "slug": "verse-19"
+    },
+    {
+      "verseNumber": 20,
+      "speaker": "Krishna",
+      "devanagari": "ये तु धर्म्यामृतमिदं यथोक्तं पर्युपासते।\nश्रद्दधाना मत्परमा भक्तास्तेऽतीव मे प्रियाः॥",
+      "transliteration": "Ye Tu Dharmya-Amritam-Idam Yatho-Uktam Paryupasate.\nShraddadhana Mat-Parama Bhaktas-Te'tiva Me Priyah.",
+      "wordByWord": [
+        {
+          "word": "ये",
+          "transliteration": "ye",
+          "meaning": "those who"
+        },
+        {
+          "word": "धर्म्यामृतम्",
+          "transliteration": "dharmya-amritam",
+          "meaning": "this nectar of dharma"
+        },
+        {
+          "word": "इदम्",
+          "transliteration": "idam",
+          "meaning": "this"
+        },
+        {
+          "word": "यथोक्तम्",
+          "transliteration": "yatho-uktam",
+          "meaning": "as declared"
+        },
+        {
+          "word": "पर्युपासते",
+          "transliteration": "paryupasate",
+          "meaning": "follow/worship completely"
+        },
+        {
+          "word": "श्रद्दधानाः",
+          "transliteration": "shraddadhanah",
+          "meaning": "endowed with faith"
+        },
+        {
+          "word": "मत्परमाः",
+          "transliteration": "mat-paramah",
+          "meaning": "regarding Me as the supreme goal"
+        },
+        {
+          "word": "भक्ताः",
+          "transliteration": "bhaktah",
+          "meaning": "devotees"
+        },
+        {
+          "word": "अतीव",
+          "transliteration": "ativa",
+          "meaning": "exceedingly"
+        },
+        {
+          "word": "प्रियाः",
+          "transliteration": "priyah",
+          "meaning": "dear"
+        }
+      ],
+      "hindiTranslation": "जो श्रद्धापूर्वक, मुझे परम लक्ष्य मानकर, इस धर्ममय अमृत (शिक्षा) का — जैसा कहा गया है वैसा — सेवन (पालन) करते हैं, वे भक्त मुझे अत्यन्त प्रिय हैं।",
+      "englishTranslation": "Those who follow this immortal path of dharma as declared, endowed with faith, regarding Me as the Supreme goal — such devotees are exceedingly dear to Me.",
+      "commentary": "The chapter's concluding verse elevates the entire teaching to 'dharmyamritam' — the immortal nectar of dharma. Those who practice these teachings with faith and devotion, holding God as the supreme goal, are declared 'ativa priyah' — exceedingly dear to God. The superlative 'ativa' (exceedingly) goes beyond the 'priyah' (dear) of earlier verses, giving this final declaration special emphasis and making it the pinnacle of the chapter's teachings on devotion.",
+      "slug": "verse-20"
+    }
+  ]
+}

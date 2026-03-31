@@ -115,6 +115,36 @@ export interface FAQItem {
 }
 
 // ── Ecosystem ──
+// ── Bhagavad Gita ──
+export interface GitaWordMeaning {
+  word: string;
+  transliteration: string;
+  meaning: string;
+}
+
+export interface GitaVerse {
+  verseNumber: number;
+  slug: string;
+  speaker: string;
+  devanagari: string;
+  transliteration: string;
+  wordByWord: GitaWordMeaning[];
+  hindiTranslation: string;
+  englishTranslation: string;
+  commentary: string;
+}
+
+export interface GitaChapter {
+  chapterNumber: number;
+  titleSanskrit: string;
+  titleHindi: string;
+  titleEnglish: string;
+  slug: string;
+  description: string;
+  verseCount: number;
+  verses: GitaVerse[];
+}
+
 export interface EcosystemSite {
   name: string;
   url: string;

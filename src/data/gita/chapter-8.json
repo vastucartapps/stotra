@@ -1,0 +1,1952 @@
+{
+  "chapterNumber": 8,
+  "titleSanskrit": "अक्षरब्रह्मयोगः",
+  "titleHindi": "अक्षर ब्रह्म योग",
+  "titleEnglish": "Akshara Brahma Yoga - The Yoga of the Imperishable Brahman",
+  "slug": "chapter-8",
+  "description": "Bhagavad Gita Chapter 8, Akshara Brahma Yoga, reveals the science of departing from the body and attaining the Supreme. Arjuna opens with seven questions about Brahman, Adhyatma, Karma, Adhibhuta, Adhidaiva, Adhiyajna, and how to know God at death. Krishna answers each precisely, then delivers the central teaching: whatever one remembers at the moment of death determines the next destination. Therefore, one should constantly remember God while performing duties. He describes the yogic method of fixing the mind between the eyebrows, chanting Om, and meditating on the Supreme at the time of departure. Krishna reveals the cosmic cycles of Brahma's day and night spanning thousands of yugas, the path of light and the path of darkness, and declares that His supreme abode, once attained, offers no return to the cycle of birth and death. The chapter establishes that unwavering devotion and constant remembrance of God is the surest path to liberation.",
+  "verseCount": 28,
+  "verses": [
+    {
+      "verseNumber": 1,
+      "slug": "verse-1",
+      "speaker": "Arjuna",
+      "devanagari": "अर्जुन उवाच —\nकिं तद्ब्रह्म किमध्यात्मं किं कर्म पुरुषोत्तम।\nअधिभूतं च किं प्रोक्तमधिदैवं किमुच्यते॥",
+      "transliteration": "Arjuna Uvacha —\nKim tad brahma kim-adhyatmam kim karma purushottama\nAdhibhutam cha kim proktam-adhidaivam kim-uchyate",
+      "wordByWord": [
+        {
+          "word": "किम्",
+          "transliteration": "kim",
+          "meaning": "what"
+        },
+        {
+          "word": "तत्",
+          "transliteration": "tat",
+          "meaning": "that"
+        },
+        {
+          "word": "ब्रह्म",
+          "transliteration": "brahma",
+          "meaning": "Brahman"
+        },
+        {
+          "word": "किम्",
+          "transliteration": "kim",
+          "meaning": "what"
+        },
+        {
+          "word": "अध्यात्मम्",
+          "transliteration": "adhyatmam",
+          "meaning": "the Self"
+        },
+        {
+          "word": "किम्",
+          "transliteration": "kim",
+          "meaning": "what"
+        },
+        {
+          "word": "कर्म",
+          "transliteration": "karma",
+          "meaning": "action"
+        },
+        {
+          "word": "पुरुषोत्तम",
+          "transliteration": "purushottama",
+          "meaning": "O Supreme Person"
+        },
+        {
+          "word": "अधिभूतम्",
+          "transliteration": "adhibhutam",
+          "meaning": "Adhibhuta"
+        },
+        {
+          "word": "प्रोक्तम्",
+          "transliteration": "proktam",
+          "meaning": "is said to be"
+        },
+        {
+          "word": "अधिदैवम्",
+          "transliteration": "adhidaivam",
+          "meaning": "Adhidaiva"
+        },
+        {
+          "word": "उच्यते",
+          "transliteration": "uchyate",
+          "meaning": "is called"
+        }
+      ],
+      "hindiTranslation": "अर्जुन ने कहा — हे पुरुषोत्तम! वह ब्रह्म क्या है? अध्यात्म क्या है? कर्म क्या है? अधिभूत क्या कहा गया है और अधिदैव किसे कहते हैं?",
+      "englishTranslation": "Arjuna said: What is Brahman? What is Adhyatma? What is Karma, O Supreme Person? What is said to be Adhibhuta, and what is called Adhidaiva?",
+      "commentary": "Arjuna poses his questions in direct response to the terms Krishna used in the last two verses of Chapter 7. His eagerness to understand these fundamental concepts shows spiritual maturity. These seven questions structure the entire chapter and reveal the comprehensive nature of Gita's teaching."
+    },
+    {
+      "verseNumber": 2,
+      "slug": "verse-2",
+      "speaker": "Arjuna",
+      "devanagari": "अधियज्ञः कथं कोऽत्र देहेऽस्मिन्मधुसूदन।\nप्रयाणकाले च कथं ज्ञेयोऽसि नियतात्मभिः॥",
+      "transliteration": "Adhiyajnah katham ko'tra dehe'smin madhusudana\nPrayana-kale cha katham jneyo'si niyata-atmabhih",
+      "wordByWord": [
+        {
+          "word": "अधियज्ञः",
+          "transliteration": "adhiyajnah",
+          "meaning": "Adhiyajna"
+        },
+        {
+          "word": "कथम्",
+          "transliteration": "katham",
+          "meaning": "how"
+        },
+        {
+          "word": "कः",
+          "transliteration": "kah",
+          "meaning": "who"
+        },
+        {
+          "word": "अत्र",
+          "transliteration": "atra",
+          "meaning": "here"
+        },
+        {
+          "word": "देहे",
+          "transliteration": "dehe",
+          "meaning": "in the body"
+        },
+        {
+          "word": "अस्मिन्",
+          "transliteration": "asmin",
+          "meaning": "this"
+        },
+        {
+          "word": "मधुसूदन",
+          "transliteration": "madhusudana",
+          "meaning": "O Madhusudana"
+        },
+        {
+          "word": "प्रयाणकाले",
+          "transliteration": "prayana-kale",
+          "meaning": "at the time of death"
+        },
+        {
+          "word": "कथम्",
+          "transliteration": "katham",
+          "meaning": "how"
+        },
+        {
+          "word": "ज्ञेयः",
+          "transliteration": "jneyah",
+          "meaning": "to be known"
+        },
+        {
+          "word": "असि",
+          "transliteration": "asi",
+          "meaning": "You are"
+        },
+        {
+          "word": "नियतात्मभिः",
+          "transliteration": "niyata-atmabhih",
+          "meaning": "by the self-controlled"
+        }
+      ],
+      "hindiTranslation": "हे मधुसूदन! अधियज्ञ कौन है और वह इस देह में कैसे है? और नियतात्मा (संयमी) पुरुषों द्वारा प्रयाणकाल (मृत्यु के समय) में आप कैसे जाने जा सकते हैं?",
+      "englishTranslation": "Who is Adhiyajna, and how does He dwell in this body, O Madhusudana? And how are You to be known at the time of death by the self-controlled?",
+      "commentary": "Arjuna completes his seven questions with the most practical one — how to know God at the critical moment of death. This question about the final moment reveals Arjuna's deep concern about the afterlife and sets up Krishna's most important practical teaching in this chapter."
+    },
+    {
+      "verseNumber": 3,
+      "slug": "verse-3",
+      "speaker": "Krishna",
+      "devanagari": "श्रीभगवानुवाच —\nअक्षरं ब्रह्म परमं स्वभावोऽध्यात्ममुच्यते।\nभूतभावोद्भवकरो विसर्गः कर्मसंज्ञितः॥",
+      "transliteration": "Shri Bhagavan Uvacha —\nAksharam brahma paramam svabhavo'dhyatmam-uchyate\nBhuta-bhavo-udbhava-karo visargah karma-samjnitah",
+      "wordByWord": [
+        {
+          "word": "अक्षरम्",
+          "transliteration": "aksharam",
+          "meaning": "the imperishable"
+        },
+        {
+          "word": "ब्रह्म",
+          "transliteration": "brahma",
+          "meaning": "Brahman"
+        },
+        {
+          "word": "परमम्",
+          "transliteration": "paramam",
+          "meaning": "supreme"
+        },
+        {
+          "word": "स्वभावः",
+          "transliteration": "svabhavah",
+          "meaning": "one's own nature"
+        },
+        {
+          "word": "अध्यात्मम्",
+          "transliteration": "adhyatmam",
+          "meaning": "Adhyatma"
+        },
+        {
+          "word": "उच्यते",
+          "transliteration": "uchyate",
+          "meaning": "is called"
+        },
+        {
+          "word": "भूतभावोद्भवकरः",
+          "transliteration": "bhuta-bhava-udbhava-karah",
+          "meaning": "that which causes the origin of beings"
+        },
+        {
+          "word": "विसर्गः",
+          "transliteration": "visargah",
+          "meaning": "creative act/offering"
+        },
+        {
+          "word": "कर्मसंज्ञितः",
+          "transliteration": "karma-samjnitah",
+          "meaning": "is called karma"
+        }
+      ],
+      "hindiTranslation": "श्रीभगवान ने कहा — परम अक्षर (अविनाशी) ब्रह्म है, अपना स्वरूप (जीवात्मा) अध्यात्म कहलाता है, और प्राणियों के भाव (अस्तित्व) की उत्पत्ति करने वाला विसर्ग (सृजन कर्म) 'कर्म' संज्ञा वाला है।",
+      "englishTranslation": "The Supreme Lord said: The imperishable is the supreme Brahman. One's own nature is called Adhyatma. The creative force that causes the manifestation of beings is called Karma.",
+      "commentary": "Krishna answers Arjuna's first three questions with remarkable precision. Brahman is the imperishable Absolute; Adhyatma is the individual soul's essential nature; and Karma is the creative impulse that brings beings into existence. These definitions form the metaphysical framework for understanding the entire cosmic process."
+    },
+    {
+      "verseNumber": 4,
+      "slug": "verse-4",
+      "speaker": "Krishna",
+      "devanagari": "अधिभूतं क्षरो भावः पुरुषश्चाधिदैवतम्।\nअधियज्ञोऽहमेवात्र देहे देहभृतां वर॥",
+      "transliteration": "Adhibhutam ksharo bhavah purushash-cha-adhidaivatam\nAdhiyajno'ham-eva-atra dehe deha-bhritam vara",
+      "wordByWord": [
+        {
+          "word": "अधिभूतम्",
+          "transliteration": "adhibhutam",
+          "meaning": "Adhibhuta"
+        },
+        {
+          "word": "क्षरः",
+          "transliteration": "ksharah",
+          "meaning": "perishable"
+        },
+        {
+          "word": "भावः",
+          "transliteration": "bhavah",
+          "meaning": "nature/existence"
+        },
+        {
+          "word": "पुरुषः",
+          "transliteration": "purushah",
+          "meaning": "the cosmic being"
+        },
+        {
+          "word": "अधिदैवतम्",
+          "transliteration": "adhidaivatam",
+          "meaning": "Adhidaiva"
+        },
+        {
+          "word": "अधियज्ञः",
+          "transliteration": "adhiyajnah",
+          "meaning": "Adhiyajna"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "alone"
+        },
+        {
+          "word": "अत्र",
+          "transliteration": "atra",
+          "meaning": "here"
+        },
+        {
+          "word": "देहे",
+          "transliteration": "dehe",
+          "meaning": "in the body"
+        },
+        {
+          "word": "देहभृताम्",
+          "transliteration": "deha-bhritam",
+          "meaning": "of embodied beings"
+        },
+        {
+          "word": "वर",
+          "transliteration": "vara",
+          "meaning": "O best"
+        }
+      ],
+      "hindiTranslation": "अधिभूत क्षर (नाशवान) भाव है, अधिदैव पुरुष (हिरण्यगर्भ) है, और हे देहधारियों में श्रेष्ठ! इस देह में अधियज्ञ मैं ही हूँ।",
+      "englishTranslation": "Adhibhuta is the perishable material nature; Adhidaiva is the cosmic being (Purusha); and Adhiyajna is Myself alone, here in this body, O best of the embodied.",
+      "commentary": "Krishna completes His answers to all seven questions. Adhibhuta encompasses all perishable matter; Adhidaiva is the universal cosmic spirit; and most remarkably, Adhiyajna — the Lord of sacrifice — is Krishna Himself dwelling within every body. This last answer is especially significant, as it establishes God's intimate presence within each being."
+    },
+    {
+      "verseNumber": 5,
+      "slug": "verse-5",
+      "speaker": "Krishna",
+      "devanagari": "अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम्।\nयः प्रयाति स मद्भावं याति नास्त्यत्र संशयः॥",
+      "transliteration": "Anta-kale cha mam-eva smaran muktva kalevaram\nYah prayati sa mad-bhavam yati na-asty-atra samshayah",
+      "wordByWord": [
+        {
+          "word": "अन्तकाले",
+          "transliteration": "anta-kale",
+          "meaning": "at the end of life"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "certainly"
+        },
+        {
+          "word": "स्मरन्",
+          "transliteration": "smaran",
+          "meaning": "remembering"
+        },
+        {
+          "word": "मुक्त्वा",
+          "transliteration": "muktva",
+          "meaning": "leaving"
+        },
+        {
+          "word": "कलेवरम्",
+          "transliteration": "kalevaram",
+          "meaning": "the body"
+        },
+        {
+          "word": "यः",
+          "transliteration": "yah",
+          "meaning": "who"
+        },
+        {
+          "word": "प्रयाति",
+          "transliteration": "prayati",
+          "meaning": "departs"
+        },
+        {
+          "word": "मद्भावम्",
+          "transliteration": "mad-bhavam",
+          "meaning": "My nature/state"
+        },
+        {
+          "word": "याति",
+          "transliteration": "yati",
+          "meaning": "attains"
+        },
+        {
+          "word": "न अस्ति",
+          "transliteration": "na asti",
+          "meaning": "there is no"
+        },
+        {
+          "word": "संशयः",
+          "transliteration": "samshayah",
+          "meaning": "doubt"
+        }
+      ],
+      "hindiTranslation": "अन्तकाल में मेरा ही स्मरण करते हुए शरीर त्यागकर जो प्रयाण करता है, वह मेरे भाव (स्वरूप) को प्राप्त होता है; इसमें कोई संशय नहीं है।",
+      "englishTranslation": "Whoever, at the end of life, remembering Me alone, leaves the body and departs — he attains My nature. Of this there is no doubt.",
+      "commentary": "This is the pivotal verse of Chapter 8. The state of consciousness at the moment of death determines one's next destination. Remembering Krishna at that crucial juncture guarantees attainment of His divine nature. This teaching motivates the practice of constant divine remembrance throughout life, so it becomes natural at the final moment."
+    },
+    {
+      "verseNumber": 6,
+      "slug": "verse-6",
+      "speaker": "Krishna",
+      "devanagari": "यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम्।\nतं तमेवैति कौन्तेय सदा तद्भावभावितः॥",
+      "transliteration": "Yam yam va-api smaran bhavam tyajaty-ante kalevaram\nTam tam-evaiti kaunteya sada tad-bhava-bhavitah",
+      "wordByWord": [
+        {
+          "word": "यं यम्",
+          "transliteration": "yam yam",
+          "meaning": "whatever"
+        },
+        {
+          "word": "वा अपि",
+          "transliteration": "va api",
+          "meaning": "also"
+        },
+        {
+          "word": "स्मरन्",
+          "transliteration": "smaran",
+          "meaning": "remembering"
+        },
+        {
+          "word": "भावम्",
+          "transliteration": "bhavam",
+          "meaning": "state of being"
+        },
+        {
+          "word": "त्यजति",
+          "transliteration": "tyajati",
+          "meaning": "gives up"
+        },
+        {
+          "word": "अन्ते",
+          "transliteration": "ante",
+          "meaning": "at the end"
+        },
+        {
+          "word": "कलेवरम्",
+          "transliteration": "kalevaram",
+          "meaning": "the body"
+        },
+        {
+          "word": "तं तम्",
+          "transliteration": "tam tam",
+          "meaning": "that very"
+        },
+        {
+          "word": "एवैति",
+          "transliteration": "evaiti",
+          "meaning": "attains"
+        },
+        {
+          "word": "कौन्तेय",
+          "transliteration": "kaunteya",
+          "meaning": "O son of Kunti"
+        },
+        {
+          "word": "सदा",
+          "transliteration": "sada",
+          "meaning": "always"
+        },
+        {
+          "word": "तद्भावभावितः",
+          "transliteration": "tad-bhava-bhavitah",
+          "meaning": "absorbed in that thought"
+        }
+      ],
+      "hindiTranslation": "हे कौन्तेय! मनुष्य अन्त समय में जिस-जिस भाव का स्मरण करते हुए शरीर त्यागता है, सदा उसी भाव से भावित होने के कारण उस-उसी भाव को प्राप्त होता है।",
+      "englishTranslation": "Whatever state of being one remembers when giving up the body at the end, that very state one attains, O son of Kunti, being always absorbed in that thought.",
+      "commentary": "This universal principle extends beyond devotion to Krishna specifically. The predominant thought at death is shaped by the habits of an entire lifetime. One who has constantly dwelt on material things will carry those impressions forward, while one absorbed in the Divine will naturally reach the Divine. This is the law of consciousness determining destiny."
+    },
+    {
+      "verseNumber": 7,
+      "slug": "verse-7",
+      "speaker": "Krishna",
+      "devanagari": "तस्मात्सर्वेषु कालेषु मामनुस्मर युध्य च।\nमय्यर्पितमनोबुद्धिर्मामेवैष्यस्यसंशयम्॥",
+      "transliteration": "Tasmat sarveshu kaleshu mam-anusmara yudhya cha\nMayy-arpita-mano-buddhir mam-evaishyasy-asamshayam",
+      "wordByWord": [
+        {
+          "word": "तस्मात्",
+          "transliteration": "tasmat",
+          "meaning": "therefore"
+        },
+        {
+          "word": "सर्वेषु",
+          "transliteration": "sarveshu",
+          "meaning": "at all"
+        },
+        {
+          "word": "कालेषु",
+          "transliteration": "kaleshu",
+          "meaning": "times"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        },
+        {
+          "word": "अनुस्मर",
+          "transliteration": "anusmara",
+          "meaning": "remember"
+        },
+        {
+          "word": "युध्य",
+          "transliteration": "yudhya",
+          "meaning": "fight"
+        },
+        {
+          "word": "च",
+          "transliteration": "cha",
+          "meaning": "and"
+        },
+        {
+          "word": "मयि",
+          "transliteration": "mayi",
+          "meaning": "in Me"
+        },
+        {
+          "word": "अर्पितमनोबुद्धिः",
+          "transliteration": "arpita-mano-buddhih",
+          "meaning": "mind and intellect offered"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "certainly"
+        },
+        {
+          "word": "एष्यसि",
+          "transliteration": "eshyasi",
+          "meaning": "you will attain"
+        },
+        {
+          "word": "असंशयम्",
+          "transliteration": "asamshayam",
+          "meaning": "without doubt"
+        }
+      ],
+      "hindiTranslation": "इसलिए सब समय मेरा स्मरण कर और युद्ध भी कर। मुझमें अर्पित मन-बुद्धि वाला तू निःसंदेह मुझे ही प्राप्त होगा।",
+      "englishTranslation": "Therefore, at all times remember Me and fight. With your mind and intellect surrendered to Me, you shall certainly come to Me alone, without doubt.",
+      "commentary": "This verse perfectly balances the spiritual and worldly dimensions. Krishna does not ask Arjuna to renounce action but to perform his duty (fight) while maintaining constant remembrance of God. This is the essence of Karma Yoga — dedicating the mind to God while fully engaging with life's responsibilities."
+    },
+    {
+      "verseNumber": 8,
+      "slug": "verse-8",
+      "speaker": "Krishna",
+      "devanagari": "अभ्यासयोगयुक्तेन चेतसा नान्यगामिना।\nपरमं पुरुषं दिव्यं याति पार्थानुचिन्तयन्॥",
+      "transliteration": "Abhyasa-yoga-yuktena chetasa na-anya-gamina\nParamam purusham divyam yati partha-anuchintayan",
+      "wordByWord": [
+        {
+          "word": "अभ्यासयोगयुक्तेन",
+          "transliteration": "abhyasa-yoga-yuktena",
+          "meaning": "engaged in yoga of practice"
+        },
+        {
+          "word": "चेतसा",
+          "transliteration": "chetasa",
+          "meaning": "with the mind"
+        },
+        {
+          "word": "न अन्यगामिना",
+          "transliteration": "na anya-gamina",
+          "meaning": "not wandering elsewhere"
+        },
+        {
+          "word": "परमम्",
+          "transliteration": "paramam",
+          "meaning": "supreme"
+        },
+        {
+          "word": "पुरुषम्",
+          "transliteration": "purusham",
+          "meaning": "Person/Being"
+        },
+        {
+          "word": "दिव्यम्",
+          "transliteration": "divyam",
+          "meaning": "divine"
+        },
+        {
+          "word": "याति",
+          "transliteration": "yati",
+          "meaning": "attains"
+        },
+        {
+          "word": "पार्थ",
+          "transliteration": "partha",
+          "meaning": "O Partha"
+        },
+        {
+          "word": "अनुचिन्तयन्",
+          "transliteration": "anuchintayan",
+          "meaning": "constantly meditating"
+        }
+      ],
+      "hindiTranslation": "हे पार्थ! अभ्यासयोग से युक्त, अन्यत्र न जाने वाले चित्त से निरन्तर चिन्तन करता हुआ मनुष्य परम दिव्य पुरुष को प्राप्त होता है।",
+      "englishTranslation": "With the mind disciplined by the practice of yoga, not wandering to anything else, one who meditates constantly on the Supreme Divine Person attains Him, O Partha.",
+      "commentary": "Abhyasa Yoga — the yoga of consistent practice — is the key to achieving single-pointed meditation. A mind trained through regular discipline does not wander at the critical moment of death. The word 'anuchintayan' (constantly meditating) emphasizes that this is not a one-time effort but a lifelong cultivation of awareness."
+    },
+    {
+      "verseNumber": 9,
+      "slug": "verse-9",
+      "speaker": "Krishna",
+      "devanagari": "कविं पुराणमनुशासितारम्\nअणोरणीयांसमनुस्मरेद्यः।\nसर्वस्य धातारमचिन्त्यरूपम्\nआदित्यवर्णं तमसः परस्तात्॥",
+      "transliteration": "Kavim puranam-anushasitaram\nAnor-aniyamsam-anusmared-yah\nSarvasya dhataram-achintya-rupam\nAditya-varnam tamasah parastat",
+      "wordByWord": [
+        {
+          "word": "कविम्",
+          "transliteration": "kavim",
+          "meaning": "the omniscient"
+        },
+        {
+          "word": "पुराणम्",
+          "transliteration": "puranam",
+          "meaning": "the ancient"
+        },
+        {
+          "word": "अनुशासितारम्",
+          "transliteration": "anushasitaram",
+          "meaning": "the ruler"
+        },
+        {
+          "word": "अणोः अणीयांसम्",
+          "transliteration": "anoh aniyamsam",
+          "meaning": "subtler than the subtle"
+        },
+        {
+          "word": "अनुस्मरेत्",
+          "transliteration": "anusmaret",
+          "meaning": "meditates upon"
+        },
+        {
+          "word": "यः",
+          "transliteration": "yah",
+          "meaning": "who"
+        },
+        {
+          "word": "सर्वस्य",
+          "transliteration": "sarvasya",
+          "meaning": "of everything"
+        },
+        {
+          "word": "धातारम्",
+          "transliteration": "dhataram",
+          "meaning": "sustainer"
+        },
+        {
+          "word": "अचिन्त्यरूपम्",
+          "transliteration": "achintya-rupam",
+          "meaning": "of inconceivable form"
+        },
+        {
+          "word": "आदित्यवर्णम्",
+          "transliteration": "aditya-varnam",
+          "meaning": "luminous like the sun"
+        },
+        {
+          "word": "तमसः",
+          "transliteration": "tamasah",
+          "meaning": "beyond darkness"
+        },
+        {
+          "word": "परस्तात्",
+          "transliteration": "parastat",
+          "meaning": "beyond"
+        }
+      ],
+      "hindiTranslation": "जो पुरुष सर्वज्ञ, अनादि, सबके नियामक, सूक्ष्म से भी सूक्ष्म, सबके धाता, अचिन्त्य स्वरूप, सूर्य के समान प्रकाशमान और अन्धकार से परे — ऐसे परमात्मा का अनुस्मरण करता है...",
+      "englishTranslation": "He who meditates on the Omniscient, the Ancient, the Ruler, subtler than the subtlest, the Sustainer of all, of inconceivable form, luminous like the sun, and beyond darkness...",
+      "commentary": "This verse paints a magnificent portrait of the Supreme Being through a series of divine attributes. God is simultaneously the all-knowing seer, the most ancient reality, the cosmic ruler, subtler than any atom, the sustainer of everything, beyond mental conception, radiant as the sun, and transcending all ignorance. Meditating on these qualities elevates the mind."
+    },
+    {
+      "verseNumber": 10,
+      "slug": "verse-10",
+      "speaker": "Krishna",
+      "devanagari": "प्रयाणकाले मनसाचलेन\nभक्त्या युक्तो योगबलेन चैव।\nभ्रुवोर्मध्ये प्राणमावेश्य सम्यक्\nस तं परं पुरुषमुपैति दिव्यम्॥",
+      "transliteration": "Prayana-kale manasa-achalena\nBhaktya yukto yoga-balena chaiva\nBhruvor-madhye pranam-aveshya samyak\nSa tam param purusham-upaiti divyam",
+      "wordByWord": [
+        {
+          "word": "प्रयाणकाले",
+          "transliteration": "prayana-kale",
+          "meaning": "at the time of death"
+        },
+        {
+          "word": "मनसा",
+          "transliteration": "manasa",
+          "meaning": "with the mind"
+        },
+        {
+          "word": "अचलेन",
+          "transliteration": "achalena",
+          "meaning": "unwavering"
+        },
+        {
+          "word": "भक्त्या",
+          "transliteration": "bhaktya",
+          "meaning": "with devotion"
+        },
+        {
+          "word": "युक्तः",
+          "transliteration": "yuktah",
+          "meaning": "engaged"
+        },
+        {
+          "word": "योगबलेन",
+          "transliteration": "yoga-balena",
+          "meaning": "by the power of yoga"
+        },
+        {
+          "word": "भ्रुवोः मध्ये",
+          "transliteration": "bhruvoh madhye",
+          "meaning": "between the eyebrows"
+        },
+        {
+          "word": "प्राणम्",
+          "transliteration": "pranam",
+          "meaning": "life force"
+        },
+        {
+          "word": "आवेश्य",
+          "transliteration": "aveshya",
+          "meaning": "placing"
+        },
+        {
+          "word": "सम्यक्",
+          "transliteration": "samyak",
+          "meaning": "properly"
+        },
+        {
+          "word": "परम्",
+          "transliteration": "param",
+          "meaning": "supreme"
+        },
+        {
+          "word": "पुरुषम्",
+          "transliteration": "purusham",
+          "meaning": "Person"
+        },
+        {
+          "word": "उपैति",
+          "transliteration": "upaiti",
+          "meaning": "attains"
+        }
+      ],
+      "hindiTranslation": "...वह प्रयाणकाल में अचल मन से, भक्तियुक्त होकर, योगबल से भ्रूमध्य (दोनों भौंहों के बीच) में प्राण को स्थापित करके उस परम दिव्य पुरुष को प्राप्त होता है।",
+      "englishTranslation": "...at the time of death, with an unwavering mind, endowed with devotion and the power of yoga, fixing the life-force between the eyebrows — he attains that Supreme Divine Person.",
+      "commentary": "Verses 9 and 10 form a connected teaching on the yogic technique for conscious departure from the body. The combination of devotion, yogic power, and mental steadiness enables the practitioner to direct the prana to the ajna chakra (between the eyebrows) and depart consciously toward the Supreme. This is the highest art of dying."
+    },
+    {
+      "verseNumber": 11,
+      "slug": "verse-11",
+      "speaker": "Krishna",
+      "devanagari": "यदक्षरं वेदविदो वदन्ति\nविशन्ति यद्यतयो वीतरागाः।\nयदिच्छन्तो ब्रह्मचर्यं चरन्ति\nतत्ते पदं सङ्ग्रहेण प्रवक्ष्ये॥",
+      "transliteration": "Yad-aksharam veda-vido vadanti\nVishanti yad-yatayo vita-ragah\nYad-ichchhanto brahmacharyam charanti\nTat-te padam sangraheṇa pravakshye",
+      "wordByWord": [
+        {
+          "word": "यत्",
+          "transliteration": "yat",
+          "meaning": "that which"
+        },
+        {
+          "word": "अक्षरम्",
+          "transliteration": "aksharam",
+          "meaning": "imperishable"
+        },
+        {
+          "word": "वेदविदः",
+          "transliteration": "veda-vidah",
+          "meaning": "knowers of the Vedas"
+        },
+        {
+          "word": "वदन्ति",
+          "transliteration": "vadanti",
+          "meaning": "declare"
+        },
+        {
+          "word": "विशन्ति",
+          "transliteration": "vishanti",
+          "meaning": "enter"
+        },
+        {
+          "word": "यतयः",
+          "transliteration": "yatayah",
+          "meaning": "ascetics"
+        },
+        {
+          "word": "वीतरागाः",
+          "transliteration": "vita-ragah",
+          "meaning": "free from passion"
+        },
+        {
+          "word": "ब्रह्मचर्यम्",
+          "transliteration": "brahmacharyam",
+          "meaning": "celibacy/continence"
+        },
+        {
+          "word": "चरन्ति",
+          "transliteration": "charanti",
+          "meaning": "practice"
+        },
+        {
+          "word": "पदम्",
+          "transliteration": "padam",
+          "meaning": "goal/state"
+        },
+        {
+          "word": "सङ्ग्रहेण",
+          "transliteration": "sangraheṇa",
+          "meaning": "in brief"
+        },
+        {
+          "word": "प्रवक्ष्ये",
+          "transliteration": "pravakshye",
+          "meaning": "I shall explain"
+        }
+      ],
+      "hindiTranslation": "वेद के ज्ञाता जिसे अक्षर कहते हैं, वीतराग (रागरहित) संन्यासी जिसमें प्रवेश करते हैं, और जिसकी इच्छा से ब्रह्मचर्य का पालन करते हैं — वह पद मैं तुझे संक्षेप में बताता हूँ।",
+      "englishTranslation": "That which the knowers of the Vedas call the Imperishable, which the self-controlled and passion-free ascetics enter, and desiring which they practice brahmacharya — that goal I shall briefly describe to you.",
+      "commentary": "Krishna introduces the highest spiritual goal — the Akshara (Imperishable) state that all Vedic knowledge points toward. The great sages practice austerity and celibacy to attain it. By promising to explain it briefly, Krishna makes this exalted knowledge accessible even to those on the battlefield of life."
+    },
+    {
+      "verseNumber": 12,
+      "slug": "verse-12",
+      "speaker": "Krishna",
+      "devanagari": "सर्वद्वाराणि संयम्य मनो हृदि निरुध्य च।\nमूर्ध्न्याधायात्मनः प्राणमास्थितो योगधारणाम्॥",
+      "transliteration": "Sarva-dvarani samyamya mano hridi nirudhya cha\nMurdhny-adhaya-atmanah pranam-asthito yoga-dharanam",
+      "wordByWord": [
+        {
+          "word": "सर्वद्वाराणि",
+          "transliteration": "sarva-dvarani",
+          "meaning": "all the gates (senses)"
+        },
+        {
+          "word": "संयम्य",
+          "transliteration": "samyamya",
+          "meaning": "controlling"
+        },
+        {
+          "word": "मनः",
+          "transliteration": "manah",
+          "meaning": "mind"
+        },
+        {
+          "word": "हृदि",
+          "transliteration": "hridi",
+          "meaning": "in the heart"
+        },
+        {
+          "word": "निरुध्य",
+          "transliteration": "nirudhya",
+          "meaning": "confining"
+        },
+        {
+          "word": "मूर्ध्नि",
+          "transliteration": "murdhni",
+          "meaning": "on the crown of the head"
+        },
+        {
+          "word": "आधाय",
+          "transliteration": "adhaya",
+          "meaning": "placing"
+        },
+        {
+          "word": "आत्मनः",
+          "transliteration": "atmanah",
+          "meaning": "one's own"
+        },
+        {
+          "word": "प्राणम्",
+          "transliteration": "pranam",
+          "meaning": "life breath"
+        },
+        {
+          "word": "आस्थितः",
+          "transliteration": "asthitah",
+          "meaning": "established in"
+        },
+        {
+          "word": "योगधारणाम्",
+          "transliteration": "yoga-dharanam",
+          "meaning": "yogic concentration"
+        }
+      ],
+      "hindiTranslation": "सम्पूर्ण इन्द्रियों के द्वारों को रोककर, मन को हृदय में स्थिर करके, अपने प्राण को मस्तक में स्थापित करके, योगधारणा में स्थित होकर...",
+      "englishTranslation": "Closing all the gates of the senses, confining the mind in the heart, fixing the life-breath in the head, established in yogic concentration...",
+      "commentary": "This verse describes the practical yogic technique for conscious departure. The senses are withdrawn (pratyahara), the mind is collected in the heart center, and the prana is raised to the crown of the head. This systematic process of internalization prepares the yogi for the final departure described in the next verse."
+    },
+    {
+      "verseNumber": 13,
+      "slug": "verse-13",
+      "speaker": "Krishna",
+      "devanagari": "ओमित्येकाक्षरं ब्रह्म व्याहरन्मामनुस्मरन्।\nयः प्रयाति त्यजन्देहं स याति परमां गतिम्॥",
+      "transliteration": "Om-ity-ekaksharam brahma vyaharan mam-anusmaran\nYah prayati tyajan deham sa yati paramam gatim",
+      "wordByWord": [
+        {
+          "word": "ॐ",
+          "transliteration": "Om",
+          "meaning": "the sacred syllable Om"
+        },
+        {
+          "word": "इति",
+          "transliteration": "iti",
+          "meaning": "thus"
+        },
+        {
+          "word": "एकाक्षरम्",
+          "transliteration": "eka-aksharam",
+          "meaning": "one syllable"
+        },
+        {
+          "word": "ब्रह्म",
+          "transliteration": "brahma",
+          "meaning": "Brahman"
+        },
+        {
+          "word": "व्याहरन्",
+          "transliteration": "vyaharan",
+          "meaning": "uttering"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        },
+        {
+          "word": "अनुस्मरन्",
+          "transliteration": "anusmaran",
+          "meaning": "remembering"
+        },
+        {
+          "word": "यः",
+          "transliteration": "yah",
+          "meaning": "who"
+        },
+        {
+          "word": "प्रयाति",
+          "transliteration": "prayati",
+          "meaning": "departs"
+        },
+        {
+          "word": "त्यजन्",
+          "transliteration": "tyajan",
+          "meaning": "leaving"
+        },
+        {
+          "word": "देहम्",
+          "transliteration": "deham",
+          "meaning": "the body"
+        },
+        {
+          "word": "परमाम्",
+          "transliteration": "paramam",
+          "meaning": "supreme"
+        },
+        {
+          "word": "गतिम्",
+          "transliteration": "gatim",
+          "meaning": "destination"
+        }
+      ],
+      "hindiTranslation": "...एक अक्षर ब्रह्म 'ॐ' का उच्चारण करता हुआ और मेरा स्मरण करता हुआ जो देह त्यागकर जाता है, वह परम गति को प्राप्त होता है।",
+      "englishTranslation": "...uttering the single-syllable Om, which is Brahman, and remembering Me — whoever departs thus, leaving the body, attains the supreme goal.",
+      "commentary": "Om is identified as the sonic representation of Brahman — the ultimate reality compressed into one sacred syllable. Combining the chanting of Om with remembrance of Krishna at the moment of death guarantees the supreme destination. This teaching connects Vedic mantra practice with devotional surrender in a single powerful technique."
+    },
+    {
+      "verseNumber": 14,
+      "slug": "verse-14",
+      "speaker": "Krishna",
+      "devanagari": "अनन्यचेताः सततं यो मां स्मरति नित्यशः।\nतस्याहं सुलभः पार्थ नित्ययुक्तस्य योगिनः॥",
+      "transliteration": "Ananya-chetah satatam yo mam smarati nityashah\nTasya-aham sulabhah partha nitya-yuktasya yoginah",
+      "wordByWord": [
+        {
+          "word": "अनन्यचेताः",
+          "transliteration": "ananya-chetah",
+          "meaning": "with undivided mind"
+        },
+        {
+          "word": "सततम्",
+          "transliteration": "satatam",
+          "meaning": "constantly"
+        },
+        {
+          "word": "यः",
+          "transliteration": "yah",
+          "meaning": "who"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        },
+        {
+          "word": "स्मरति",
+          "transliteration": "smarati",
+          "meaning": "remembers"
+        },
+        {
+          "word": "नित्यशः",
+          "transliteration": "nityashah",
+          "meaning": "always"
+        },
+        {
+          "word": "तस्य",
+          "transliteration": "tasya",
+          "meaning": "for him"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I am"
+        },
+        {
+          "word": "सुलभः",
+          "transliteration": "sulabhah",
+          "meaning": "easily attainable"
+        },
+        {
+          "word": "पार्थ",
+          "transliteration": "partha",
+          "meaning": "O Partha"
+        },
+        {
+          "word": "नित्ययुक्तस्य",
+          "transliteration": "nitya-yuktasya",
+          "meaning": "ever united"
+        },
+        {
+          "word": "योगिनः",
+          "transliteration": "yoginah",
+          "meaning": "of the yogi"
+        }
+      ],
+      "hindiTranslation": "हे पार्थ! जो अनन्य चित्त से सदा-सर्वदा मेरा स्मरण करता है, उस नित्ययुक्त योगी के लिए मैं सुलभ (सहज प्राप्य) हूँ।",
+      "englishTranslation": "For one who remembers Me constantly with an undivided mind, always united with Me, I am easy to attain, O Partha, for that ever-devoted yogi.",
+      "commentary": "This is one of the most reassuring verses in the Gita. The Supreme Lord, who might seem infinitely distant and unattainable, declares Himself easily accessible to the sincere devotee. The only condition is ananya-chetas — an undivided mind, one that does not wander to other objects of refuge. Constant remembrance is both the practice and the reward."
+    },
+    {
+      "verseNumber": 15,
+      "slug": "verse-15",
+      "speaker": "Krishna",
+      "devanagari": "मामुपेत्य पुनर्जन्म दुःखालयमशाश्वतम्।\nनाप्नुवन्ति महात्मानः संसिद्धिं परमां गताः॥",
+      "transliteration": "Mam-upetya punar-janma duhkha-alayam-ashashvatam\nNa-apnuvanti maha-atmanah samsiddhim paramam gatah",
+      "wordByWord": [
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        },
+        {
+          "word": "उपेत्य",
+          "transliteration": "upetya",
+          "meaning": "having attained"
+        },
+        {
+          "word": "पुनर्जन्म",
+          "transliteration": "punar-janma",
+          "meaning": "rebirth"
+        },
+        {
+          "word": "दुःखालयम्",
+          "transliteration": "duhkha-alayam",
+          "meaning": "abode of suffering"
+        },
+        {
+          "word": "अशाश्वतम्",
+          "transliteration": "ashashvatam",
+          "meaning": "impermanent"
+        },
+        {
+          "word": "न आप्नुवन्ति",
+          "transliteration": "na apnuvanti",
+          "meaning": "do not attain"
+        },
+        {
+          "word": "महात्मानः",
+          "transliteration": "maha-atmanah",
+          "meaning": "great souls"
+        },
+        {
+          "word": "संसिद्धिम्",
+          "transliteration": "samsiddhim",
+          "meaning": "highest perfection"
+        },
+        {
+          "word": "परमाम्",
+          "transliteration": "paramam",
+          "meaning": "supreme"
+        },
+        {
+          "word": "गताः",
+          "transliteration": "gatah",
+          "meaning": "having reached"
+        }
+      ],
+      "hindiTranslation": "मुझे प्राप्त करके परम सिद्धि को पहुँचे हुए महात्मा इस दुःखों के घर और अनित्य पुनर्जन्म को नहीं प्राप्त होते।",
+      "englishTranslation": "Having attained Me, the great souls do not take rebirth in this impermanent world, which is an abode of suffering, for they have reached the highest perfection.",
+      "commentary": "Krishna describes the material world as duhkhalayam (abode of suffering) and ashashvatam (impermanent). Those who attain the Supreme are permanently liberated from this cycle. The word 'mahatmanah' (great souls) emphasizes that this achievement is the mark of true spiritual greatness — freedom from the endless round of birth and death."
+    },
+    {
+      "verseNumber": 16,
+      "slug": "verse-16",
+      "speaker": "Krishna",
+      "devanagari": "आब्रह्मभुवनाल्लोकाः पुनरावर्तिनोऽर्जुन।\nमामुपेत्य तु कौन्तेय पुनर्जन्म न विद्यते॥",
+      "transliteration": "A-brahma-bhuvanal-lokah punar-avartino'rjuna\nMam-upetya tu kaunteya punar-janma na vidyate",
+      "wordByWord": [
+        {
+          "word": "आब्रह्मभुवनात्",
+          "transliteration": "a-brahma-bhuvanat",
+          "meaning": "up to Brahma's world"
+        },
+        {
+          "word": "लोकाः",
+          "transliteration": "lokah",
+          "meaning": "worlds"
+        },
+        {
+          "word": "पुनरावर्तिनः",
+          "transliteration": "punar-avartinah",
+          "meaning": "subject to return"
+        },
+        {
+          "word": "अर्जुन",
+          "transliteration": "arjuna",
+          "meaning": "O Arjuna"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        },
+        {
+          "word": "उपेत्य",
+          "transliteration": "upetya",
+          "meaning": "having attained"
+        },
+        {
+          "word": "तु",
+          "transliteration": "tu",
+          "meaning": "but"
+        },
+        {
+          "word": "कौन्तेय",
+          "transliteration": "kaunteya",
+          "meaning": "O son of Kunti"
+        },
+        {
+          "word": "पुनर्जन्म",
+          "transliteration": "punar-janma",
+          "meaning": "rebirth"
+        },
+        {
+          "word": "न विद्यते",
+          "transliteration": "na vidyate",
+          "meaning": "does not exist"
+        }
+      ],
+      "hindiTranslation": "हे अर्जुन! ब्रह्मलोक तक सब लोक पुनरावर्ती (लौटने वाले) हैं, परन्तु हे कौन्तेय! मुझे प्राप्त करके पुनर्जन्म नहीं होता।",
+      "englishTranslation": "All worlds, up to the realm of Brahma, are subject to return, O Arjuna. But having attained Me, O son of Kunti, there is no rebirth.",
+      "commentary": "Even the highest heavenly realms, including Brahmaloka, are temporary — souls must eventually return to the cycle of birth and death. Only attainment of the Supreme Lord brings permanent liberation. This verse motivates seekers to aim for the highest goal rather than settling for temporary celestial pleasures."
+    },
+    {
+      "verseNumber": 17,
+      "slug": "verse-17",
+      "speaker": "Krishna",
+      "devanagari": "सहस्रयुगपर्यन्तमहर्यद्ब्रह्मणो विदुः।\nरात्रिं युगसहस्रान्तां तेऽहोरात्रविदो जनाः॥",
+      "transliteration": "Sahasra-yuga-paryantam ahar-yad brahmano viduh\nRatrim yuga-sahasrantam te'ho-ratra-vido janah",
+      "wordByWord": [
+        {
+          "word": "सहस्रयुगपर्यन्तम्",
+          "transliteration": "sahasra-yuga-paryantam",
+          "meaning": "lasting a thousand yugas"
+        },
+        {
+          "word": "अहः",
+          "transliteration": "ahah",
+          "meaning": "day"
+        },
+        {
+          "word": "यत्",
+          "transliteration": "yat",
+          "meaning": "which"
+        },
+        {
+          "word": "ब्रह्मणः",
+          "transliteration": "brahmanah",
+          "meaning": "of Brahma"
+        },
+        {
+          "word": "विदुः",
+          "transliteration": "viduh",
+          "meaning": "know"
+        },
+        {
+          "word": "रात्रिम्",
+          "transliteration": "ratrim",
+          "meaning": "night"
+        },
+        {
+          "word": "युगसहस्रान्ताम्",
+          "transliteration": "yuga-sahasrantam",
+          "meaning": "ending after a thousand yugas"
+        },
+        {
+          "word": "अहोरात्रविदः",
+          "transliteration": "aho-ratra-vidah",
+          "meaning": "knowers of day and night"
+        },
+        {
+          "word": "जनाः",
+          "transliteration": "janah",
+          "meaning": "people"
+        }
+      ],
+      "hindiTranslation": "ब्रह्मा का एक दिन सहस्र युगों तक और एक रात्रि सहस्र युगों तक — जो लोग यह जानते हैं, वे दिन-रात्रि के तत्त्व को जानने वाले हैं।",
+      "englishTranslation": "Those who know that Brahma's day lasts a thousand yugas and his night lasts a thousand yugas — they are the knowers of day and night.",
+      "commentary": "Krishna reveals the cosmic time scale to put human existence in perspective. One day of Brahma (the creator) spans 4.32 billion years, and his night is equally long. Understanding these vast cycles helps the seeker appreciate the temporary nature of all created realms and the imperative of seeking the eternal."
+    },
+    {
+      "verseNumber": 18,
+      "slug": "verse-18",
+      "speaker": "Krishna",
+      "devanagari": "अव्यक्ताद्व्यक्तयः सर्वाः प्रभवन्त्यहरागमे।\nरात्र्यागमे प्रलीयन्ते तत्रैवाव्यक्तसंज्ञके॥",
+      "transliteration": "Avyaktad-vyaktayah sarvah prabhavanty-ahar-agame\nRatry-agame praliyante tatraiva-avyakta-samjnake",
+      "wordByWord": [
+        {
+          "word": "अव्यक्तात्",
+          "transliteration": "avyaktat",
+          "meaning": "from the unmanifest"
+        },
+        {
+          "word": "व्यक्तयः",
+          "transliteration": "vyaktayah",
+          "meaning": "manifest beings"
+        },
+        {
+          "word": "सर्वाः",
+          "transliteration": "sarvah",
+          "meaning": "all"
+        },
+        {
+          "word": "प्रभवन्ति",
+          "transliteration": "prabhavanti",
+          "meaning": "come forth"
+        },
+        {
+          "word": "अहरागमे",
+          "transliteration": "ahar-agame",
+          "meaning": "at the coming of day"
+        },
+        {
+          "word": "रात्र्यागमे",
+          "transliteration": "ratry-agame",
+          "meaning": "at the fall of night"
+        },
+        {
+          "word": "प्रलीयन्ते",
+          "transliteration": "praliyante",
+          "meaning": "dissolve"
+        },
+        {
+          "word": "तत्र",
+          "transliteration": "tatra",
+          "meaning": "there"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "certainly"
+        },
+        {
+          "word": "अव्यक्तसंज्ञके",
+          "transliteration": "avyakta-samjnake",
+          "meaning": "known as the unmanifest"
+        }
+      ],
+      "hindiTranslation": "ब्रह्मा के दिन के आगमन पर अव्यक्त से सब व्यक्त (प्रकट) प्राणी उत्पन्न होते हैं और रात्रि के आने पर उसी अव्यक्त में लीन हो जाते हैं।",
+      "englishTranslation": "At the coming of Brahma's day, all manifest beings come forth from the unmanifest; at the fall of night, they dissolve into that same unmanifest.",
+      "commentary": "The cosmic rhythm of creation and dissolution repeats endlessly. All manifest beings emerge from the unmanifest potential at the dawn of Brahma's day and merge back at nightfall. This vast cosmic cycle emphasizes the impermanence of all created existence and the need to seek what lies beyond these cycles."
+    },
+    {
+      "verseNumber": 19,
+      "slug": "verse-19",
+      "speaker": "Krishna",
+      "devanagari": "भूतग्रामः स एवायं भूत्वा भूत्वा प्रलीयते।\nरात्र्यागमेऽवशः पार्थ प्रभवत्यहरागमे॥",
+      "transliteration": "Bhuta-gramah sa eva-ayam bhutva bhutva praliyate\nRatry-agame'vashah partha prabhavaty-ahar-agame",
+      "wordByWord": [
+        {
+          "word": "भूतग्रामः",
+          "transliteration": "bhuta-gramah",
+          "meaning": "the multitude of beings"
+        },
+        {
+          "word": "सः एव",
+          "transliteration": "sah eva",
+          "meaning": "that same"
+        },
+        {
+          "word": "अयम्",
+          "transliteration": "ayam",
+          "meaning": "this"
+        },
+        {
+          "word": "भूत्वा भूत्वा",
+          "transliteration": "bhutva bhutva",
+          "meaning": "coming into being again and again"
+        },
+        {
+          "word": "प्रलीयते",
+          "transliteration": "praliyate",
+          "meaning": "dissolves"
+        },
+        {
+          "word": "रात्र्यागमे",
+          "transliteration": "ratry-agame",
+          "meaning": "at nightfall"
+        },
+        {
+          "word": "अवशः",
+          "transliteration": "avashah",
+          "meaning": "helplessly"
+        },
+        {
+          "word": "पार्थ",
+          "transliteration": "partha",
+          "meaning": "O Partha"
+        },
+        {
+          "word": "प्रभवति",
+          "transliteration": "prabhavati",
+          "meaning": "comes into being"
+        },
+        {
+          "word": "अहरागमे",
+          "transliteration": "ahar-agame",
+          "meaning": "at daybreak"
+        }
+      ],
+      "hindiTranslation": "हे पार्थ! वही प्राणी-समुदाय बार-बार उत्पन्न होकर रात्रि के आने पर परवश (विवश) होकर प्रलय को प्राप्त होता है और दिन के आने पर पुनः प्रकट होता है।",
+      "englishTranslation": "This same multitude of beings, coming into existence again and again, is dissolved helplessly at the fall of night and comes forth again at the arrival of day, O Partha.",
+      "commentary": "The word 'avashah' (helplessly) is crucial — beings are caught in this cosmic cycle without any control. They are born and dissolved mechanically, like waves rising and falling in the ocean. This stark picture of helplessness motivates the seeker to pursue liberation from this automatic cycle through devotion to the Supreme."
+    },
+    {
+      "verseNumber": 20,
+      "slug": "verse-20",
+      "speaker": "Krishna",
+      "devanagari": "परस्तस्मात्तु भावोऽन्योऽव्यक्तोऽव्यक्तात्सनातनः।\nयः स सर्वेषु भूतेषु नश्यत्सु न विनश्यति॥",
+      "transliteration": "Paras-tasmat-tu bhavo'nyo'vyakto'vyaktat-sanatanah\nYah sa sarveshu bhuteshu nashyatsu na vinashyati",
+      "wordByWord": [
+        {
+          "word": "परः",
+          "transliteration": "parah",
+          "meaning": "superior/beyond"
+        },
+        {
+          "word": "तस्मात्",
+          "transliteration": "tasmat",
+          "meaning": "to that"
+        },
+        {
+          "word": "तु",
+          "transliteration": "tu",
+          "meaning": "but"
+        },
+        {
+          "word": "भावः",
+          "transliteration": "bhavah",
+          "meaning": "existence"
+        },
+        {
+          "word": "अन्यः",
+          "transliteration": "anyah",
+          "meaning": "another"
+        },
+        {
+          "word": "अव्यक्तः",
+          "transliteration": "avyaktah",
+          "meaning": "unmanifest"
+        },
+        {
+          "word": "अव्यक्तात्",
+          "transliteration": "avyaktat",
+          "meaning": "from the unmanifest"
+        },
+        {
+          "word": "सनातनः",
+          "transliteration": "sanatanah",
+          "meaning": "eternal"
+        },
+        {
+          "word": "सर्वेषु",
+          "transliteration": "sarveshu",
+          "meaning": "in all"
+        },
+        {
+          "word": "भूतेषु",
+          "transliteration": "bhuteshu",
+          "meaning": "beings"
+        },
+        {
+          "word": "नश्यत्सु",
+          "transliteration": "nashyatsu",
+          "meaning": "being destroyed"
+        },
+        {
+          "word": "न विनश्यति",
+          "transliteration": "na vinashyati",
+          "meaning": "is not destroyed"
+        }
+      ],
+      "hindiTranslation": "परन्तु उस अव्यक्त से भी परे एक और सनातन अव्यक्त भाव है, जो सम्पूर्ण प्राणियों के नष्ट होने पर भी नष्ट नहीं होता।",
+      "englishTranslation": "But beyond that unmanifest, there is another eternal unmanifest existence which does not perish even when all beings are destroyed.",
+      "commentary": "Beyond the material unmanifest (prakriti) that undergoes cyclic creation and dissolution, there exists a higher, eternal unmanifest reality — the Supreme Abode of God. This transcendent reality is untouched by cosmic cycles and remains forever. This is the ultimate destination that seekers should aspire to reach."
+    },
+    {
+      "verseNumber": 21,
+      "slug": "verse-21",
+      "speaker": "Krishna",
+      "devanagari": "अव्यक्तोऽक्षर इत्युक्तस्तमाहुः परमां गतिम्।\nयं प्राप्य न निवर्तन्ते तद्धाम परमं मम॥",
+      "transliteration": "Avyakto'kshara ity-uktas-tam-ahuh paramam gatim\nYam prapya na nivartante tad-dhama paramam mama",
+      "wordByWord": [
+        {
+          "word": "अव्यक्तः",
+          "transliteration": "avyaktah",
+          "meaning": "the unmanifest"
+        },
+        {
+          "word": "अक्षरः",
+          "transliteration": "aksharah",
+          "meaning": "the imperishable"
+        },
+        {
+          "word": "इति",
+          "transliteration": "iti",
+          "meaning": "thus"
+        },
+        {
+          "word": "उक्तः",
+          "transliteration": "uktah",
+          "meaning": "is said/called"
+        },
+        {
+          "word": "तम्",
+          "transliteration": "tam",
+          "meaning": "that"
+        },
+        {
+          "word": "आहुः",
+          "transliteration": "ahuh",
+          "meaning": "they call"
+        },
+        {
+          "word": "परमाम्",
+          "transliteration": "paramam",
+          "meaning": "supreme"
+        },
+        {
+          "word": "गतिम्",
+          "transliteration": "gatim",
+          "meaning": "destination"
+        },
+        {
+          "word": "प्राप्य",
+          "transliteration": "prapya",
+          "meaning": "having attained"
+        },
+        {
+          "word": "न निवर्तन्ते",
+          "transliteration": "na nivartante",
+          "meaning": "do not return"
+        },
+        {
+          "word": "धाम",
+          "transliteration": "dhama",
+          "meaning": "abode"
+        },
+        {
+          "word": "मम",
+          "transliteration": "mama",
+          "meaning": "My"
+        }
+      ],
+      "hindiTranslation": "वह अव्यक्त 'अक्षर' कहलाता है; उसे ही परम गति कहते हैं। जिसे प्राप्त करके लौटना नहीं पड़ता — वह मेरा परम धाम है।",
+      "englishTranslation": "That unmanifest is called the Imperishable (Akshara); they call it the supreme destination. Having attained it, one never returns — that is My supreme abode.",
+      "commentary": "Krishna explicitly identifies the eternal unmanifest reality as His own supreme abode (paramam dhama). This is the ultimate goal of spiritual life — a state from which there is no return to the suffering of material existence. The chapter's title, Akshara Brahma Yoga, derives from this central concept of the imperishable Absolute."
+    },
+    {
+      "verseNumber": 22,
+      "slug": "verse-22",
+      "speaker": "Krishna",
+      "devanagari": "पुरुषः स परः पार्थ भक्त्या लभ्यस्त्वनन्यया।\nयस्यान्तःस्थानि भूतानि येन सर्वमिदं ततम्॥",
+      "transliteration": "Purushah sa parah partha bhaktya labhyas-tv-ananyaya\nYasya-antah-sthani bhutani yena sarvam-idam tatam",
+      "wordByWord": [
+        {
+          "word": "पुरुषः",
+          "transliteration": "purushah",
+          "meaning": "the Supreme Person"
+        },
+        {
+          "word": "सः",
+          "transliteration": "sah",
+          "meaning": "He"
+        },
+        {
+          "word": "परः",
+          "transliteration": "parah",
+          "meaning": "the Supreme"
+        },
+        {
+          "word": "पार्थ",
+          "transliteration": "partha",
+          "meaning": "O Partha"
+        },
+        {
+          "word": "भक्त्या",
+          "transliteration": "bhaktya",
+          "meaning": "by devotion"
+        },
+        {
+          "word": "लभ्यः",
+          "transliteration": "labhyah",
+          "meaning": "attainable"
+        },
+        {
+          "word": "अनन्यया",
+          "transliteration": "ananyaya",
+          "meaning": "undivided/exclusive"
+        },
+        {
+          "word": "यस्य",
+          "transliteration": "yasya",
+          "meaning": "in whom"
+        },
+        {
+          "word": "अन्तःस्थानि",
+          "transliteration": "antah-sthani",
+          "meaning": "dwelling within"
+        },
+        {
+          "word": "भूतानि",
+          "transliteration": "bhutani",
+          "meaning": "all beings"
+        },
+        {
+          "word": "येन",
+          "transliteration": "yena",
+          "meaning": "by whom"
+        },
+        {
+          "word": "सर्वम्",
+          "transliteration": "sarvam",
+          "meaning": "everything"
+        },
+        {
+          "word": "ततम्",
+          "transliteration": "tatam",
+          "meaning": "pervaded"
+        }
+      ],
+      "hindiTranslation": "हे पार्थ! जिसमें सब प्राणी स्थित हैं और जिसने इस सम्पूर्ण जगत को व्याप्त किया है — वह परम पुरुष अनन्य भक्ति से ही प्राप्त होने योग्य है।",
+      "englishTranslation": "That Supreme Person, O Partha, in whom all beings reside and by whom all this is pervaded — He is attainable only through undivided devotion.",
+      "commentary": "This verse establishes ananya bhakti (exclusive, single-pointed devotion) as the sole means to attain the Supreme. The Lord who contains all beings within Himself and pervades the entire cosmos is not reached through mere rituals or intellectual effort, but through wholehearted, undivided love and surrender."
+    },
+    {
+      "verseNumber": 23,
+      "slug": "verse-23",
+      "speaker": "Krishna",
+      "devanagari": "यत्र काले त्वनावृत्तिमावृत्तिं चैव योगिनः।\nप्रयाता यान्ति तं कालं वक्ष्यामि भरतर्षभ॥",
+      "transliteration": "Yatra kale tv-anavrittim-avrittim chaiva yoginah\nPrayata yanti tam kalam vakshyami bharatarshabha",
+      "wordByWord": [
+        {
+          "word": "यत्र",
+          "transliteration": "yatra",
+          "meaning": "at which"
+        },
+        {
+          "word": "काले",
+          "transliteration": "kale",
+          "meaning": "time"
+        },
+        {
+          "word": "अनावृत्तिम्",
+          "transliteration": "anavrittim",
+          "meaning": "no return"
+        },
+        {
+          "word": "आवृत्तिम्",
+          "transliteration": "avrittim",
+          "meaning": "return"
+        },
+        {
+          "word": "योगिनः",
+          "transliteration": "yoginah",
+          "meaning": "yogis"
+        },
+        {
+          "word": "प्रयाताः",
+          "transliteration": "prayatah",
+          "meaning": "departed"
+        },
+        {
+          "word": "यान्ति",
+          "transliteration": "yanti",
+          "meaning": "go"
+        },
+        {
+          "word": "तम्",
+          "transliteration": "tam",
+          "meaning": "that"
+        },
+        {
+          "word": "कालम्",
+          "transliteration": "kalam",
+          "meaning": "time"
+        },
+        {
+          "word": "वक्ष्यामि",
+          "transliteration": "vakshyami",
+          "meaning": "I shall describe"
+        },
+        {
+          "word": "भरतर्षभ",
+          "transliteration": "bharatarshabha",
+          "meaning": "O best of Bharatas"
+        }
+      ],
+      "hindiTranslation": "हे भरतश्रेष्ठ! जिस काल (समय) में प्रयाण करने पर योगी पुनः नहीं लौटते और जिस काल में लौट आते हैं — वह काल मैं बताता हूँ।",
+      "englishTranslation": "I shall now describe to you, O best of Bharatas, the times at which yogis depart and return or do not return.",
+      "commentary": "Krishna introduces the teaching on the two paths of departure — the path of light (archiradi marga) and the path of darkness (dhumadi marga). These cosmic paths, described in the Upanishads, determine whether the departing soul returns to the material world or achieves permanent liberation."
+    },
+    {
+      "verseNumber": 24,
+      "slug": "verse-24",
+      "speaker": "Krishna",
+      "devanagari": "अग्निर्ज्योतिरहः शुक्लः षण्मासा उत्तरायणम्।\nतत्र प्रयाता गच्छन्ति ब्रह्म ब्रह्मविदो जनाः॥",
+      "transliteration": "Agnir-jyotir-ahah shuklah shanmasa uttarayanam\nTatra prayata gachchhanti brahma brahma-vido janah",
+      "wordByWord": [
+        {
+          "word": "अग्निः",
+          "transliteration": "agnih",
+          "meaning": "fire"
+        },
+        {
+          "word": "ज्योतिः",
+          "transliteration": "jyotih",
+          "meaning": "light"
+        },
+        {
+          "word": "अहः",
+          "transliteration": "ahah",
+          "meaning": "day"
+        },
+        {
+          "word": "शुक्लः",
+          "transliteration": "shuklah",
+          "meaning": "bright fortnight"
+        },
+        {
+          "word": "षण्मासाः",
+          "transliteration": "shanmasah",
+          "meaning": "six months"
+        },
+        {
+          "word": "उत्तरायणम्",
+          "transliteration": "uttarayanam",
+          "meaning": "northern solstice"
+        },
+        {
+          "word": "तत्र",
+          "transliteration": "tatra",
+          "meaning": "there"
+        },
+        {
+          "word": "प्रयाताः",
+          "transliteration": "prayatah",
+          "meaning": "departing"
+        },
+        {
+          "word": "गच्छन्ति",
+          "transliteration": "gachchhanti",
+          "meaning": "go"
+        },
+        {
+          "word": "ब्रह्म",
+          "transliteration": "brahma",
+          "meaning": "Brahman"
+        },
+        {
+          "word": "ब्रह्मविदः",
+          "transliteration": "brahma-vidah",
+          "meaning": "knowers of Brahman"
+        }
+      ],
+      "hindiTranslation": "अग्नि, ज्योति, दिन, शुक्लपक्ष और उत्तरायण के छह मास — इस मार्ग से प्रयाण करने वाले ब्रह्मवेत्ता जन ब्रह्म को प्राप्त होते हैं।",
+      "englishTranslation": "Fire, light, day, the bright fortnight, the six months of the northern solstice — departing by this path, the knowers of Brahman attain Brahman.",
+      "commentary": "The Shukla Marga (path of light) is described through symbolic elements representing luminosity and ascent. Those who depart during these auspicious conditions — associated with light, the waxing moon, and the sun's northward course — attain Brahman and do not return to the cycle of birth and death."
+    },
+    {
+      "verseNumber": 25,
+      "slug": "verse-25",
+      "speaker": "Krishna",
+      "devanagari": "धूमो रात्रिस्तथा कृष्णः षण्मासा दक्षिणायनम्।\nतत्र चान्द्रमसं ज्योतिर्योगी प्राप्य निवर्तते॥",
+      "transliteration": "Dhumo ratris-tatha krishnah shanmasa dakshinayanam\nTatra chandramasam jyotir-yogi prapya nivartate",
+      "wordByWord": [
+        {
+          "word": "धूमः",
+          "transliteration": "dhumah",
+          "meaning": "smoke"
+        },
+        {
+          "word": "रात्रिः",
+          "transliteration": "ratrih",
+          "meaning": "night"
+        },
+        {
+          "word": "कृष्णः",
+          "transliteration": "krishnah",
+          "meaning": "dark fortnight"
+        },
+        {
+          "word": "षण्मासाः",
+          "transliteration": "shanmasah",
+          "meaning": "six months"
+        },
+        {
+          "word": "दक्षिणायनम्",
+          "transliteration": "dakshinayanam",
+          "meaning": "southern solstice"
+        },
+        {
+          "word": "चान्द्रमसम्",
+          "transliteration": "chandramasam",
+          "meaning": "of the moon"
+        },
+        {
+          "word": "ज्योतिः",
+          "transliteration": "jyotih",
+          "meaning": "light"
+        },
+        {
+          "word": "योगी",
+          "transliteration": "yogi",
+          "meaning": "the yogi"
+        },
+        {
+          "word": "प्राप्य",
+          "transliteration": "prapya",
+          "meaning": "having reached"
+        },
+        {
+          "word": "निवर्तते",
+          "transliteration": "nivartate",
+          "meaning": "returns"
+        }
+      ],
+      "hindiTranslation": "धूम, रात्रि, कृष्णपक्ष और दक्षिणायन के छह मास — इस मार्ग से योगी चन्द्रलोक के प्रकाश को प्राप्त करके (स्वर्गीय सुख भोगकर) लौट आता है।",
+      "englishTranslation": "Smoke, night, the dark fortnight, the six months of the southern solstice — by this path, the yogi attains the lunar light and returns.",
+      "commentary": "The Krishna Marga (path of darkness) is characterized by symbols of dimness and descent. Those departing under these conditions reach the lunar realm and enjoy heavenly pleasures temporarily, but eventually their merit is exhausted and they return to earthly life. This path does not lead to permanent liberation."
+    },
+    {
+      "verseNumber": 26,
+      "slug": "verse-26",
+      "speaker": "Krishna",
+      "devanagari": "शुक्लकृष्णे गती ह्येते जगतः शाश्वते मते।\nएकया यात्यनावृत्तिमन्ययावर्तते पुनः॥",
+      "transliteration": "Shukla-krishne gati hy-ete jagatah shashvate mate\nEkaya yaty-anavrittim-anyaya-avartate punah",
+      "wordByWord": [
+        {
+          "word": "शुक्लकृष्णे",
+          "transliteration": "shukla-krishne",
+          "meaning": "light and dark"
+        },
+        {
+          "word": "गती",
+          "transliteration": "gati",
+          "meaning": "paths"
+        },
+        {
+          "word": "एते",
+          "transliteration": "ete",
+          "meaning": "these"
+        },
+        {
+          "word": "जगतः",
+          "transliteration": "jagatah",
+          "meaning": "of the world"
+        },
+        {
+          "word": "शाश्वते",
+          "transliteration": "shashvate",
+          "meaning": "eternal"
+        },
+        {
+          "word": "मते",
+          "transliteration": "mate",
+          "meaning": "considered"
+        },
+        {
+          "word": "एकया",
+          "transliteration": "ekaya",
+          "meaning": "by one"
+        },
+        {
+          "word": "याति",
+          "transliteration": "yati",
+          "meaning": "goes"
+        },
+        {
+          "word": "अनावृत्तिम्",
+          "transliteration": "anavrittim",
+          "meaning": "to no return"
+        },
+        {
+          "word": "अन्यया",
+          "transliteration": "anyaya",
+          "meaning": "by the other"
+        },
+        {
+          "word": "आवर्तते",
+          "transliteration": "avartate",
+          "meaning": "returns"
+        },
+        {
+          "word": "पुनः",
+          "transliteration": "punah",
+          "meaning": "again"
+        }
+      ],
+      "hindiTranslation": "जगत में ये दो — शुक्ल और कृष्ण — शाश्वत गतियाँ मानी गई हैं। एक से मनुष्य अनावृत्ति (न लौटने वाली गति) को जाता है और दूसरे से पुनः लौट आता है।",
+      "englishTranslation": "These two paths — the light and the dark — are considered to be the eternal paths of the world. By one, one goes to no return; by the other, one returns again.",
+      "commentary": "Krishna summarizes the two cosmic paths that have existed since the beginning of creation. The path of light leads to permanent liberation while the path of darkness leads back to rebirth. This binary framework simplifies the complex Upanishadic teaching and motivates the seeker to aim for the luminous path."
+    },
+    {
+      "verseNumber": 27,
+      "slug": "verse-27",
+      "speaker": "Krishna",
+      "devanagari": "नैते सृती पार्थ जानन्योगी मुह्यति कश्चन।\nतस्मात्सर्वेषु कालेषु योगयुक्तो भवार्जुन॥",
+      "transliteration": "Naite sriti partha janan-yogi muhyati kashchana\nTasmat sarveshu kaleshu yoga-yukto bhava-arjuna",
+      "wordByWord": [
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "एते",
+          "transliteration": "ete",
+          "meaning": "these"
+        },
+        {
+          "word": "सृती",
+          "transliteration": "sriti",
+          "meaning": "two paths"
+        },
+        {
+          "word": "पार्थ",
+          "transliteration": "partha",
+          "meaning": "O Partha"
+        },
+        {
+          "word": "जानन्",
+          "transliteration": "janan",
+          "meaning": "knowing"
+        },
+        {
+          "word": "योगी",
+          "transliteration": "yogi",
+          "meaning": "the yogi"
+        },
+        {
+          "word": "मुह्यति",
+          "transliteration": "muhyati",
+          "meaning": "is deluded"
+        },
+        {
+          "word": "कश्चन",
+          "transliteration": "kashchana",
+          "meaning": "anyone"
+        },
+        {
+          "word": "तस्मात्",
+          "transliteration": "tasmat",
+          "meaning": "therefore"
+        },
+        {
+          "word": "सर्वेषु कालेषु",
+          "transliteration": "sarveshu kaleshu",
+          "meaning": "at all times"
+        },
+        {
+          "word": "योगयुक्तः",
+          "transliteration": "yoga-yuktah",
+          "meaning": "united in yoga"
+        },
+        {
+          "word": "भव",
+          "transliteration": "bhava",
+          "meaning": "be"
+        },
+        {
+          "word": "अर्जुन",
+          "transliteration": "arjuna",
+          "meaning": "O Arjuna"
+        }
+      ],
+      "hindiTranslation": "हे पार्थ! इन दो मार्गों को जानकर कोई भी योगी मोहित नहीं होता। इसलिए हे अर्जुन! सब समय योगयुक्त हो।",
+      "englishTranslation": "No yogi who knows these two paths is ever deluded, O Partha. Therefore, at all times, be steadfast in yoga, O Arjuna.",
+      "commentary": "Knowledge of these two paths removes fear and confusion about death and the afterlife. The practical takeaway is simple: remain established in yoga at all times. A yogi who maintains constant union with the Divine need not worry about the timing or circumstances of death — the path of light opens naturally for the devoted soul."
+    },
+    {
+      "verseNumber": 28,
+      "slug": "verse-28",
+      "speaker": "Krishna",
+      "devanagari": "वेदेषु यज्ञेषु तपःसु चैव\nदानेषु यत्पुण्यफलं प्रदिष्टम्।\nअत्येति तत्सर्वमिदं विदित्वा\nयोगी परं स्थानमुपैति चाद्यम्॥",
+      "transliteration": "Vedeshu yajneshu tapahsu chaiva\nDaneshu yat-punya-phalam pradishtam\nAtyeti tat-sarvam-idam viditva\nYogi param sthanam-upaiti cha-adyam",
+      "wordByWord": [
+        {
+          "word": "वेदेषु",
+          "transliteration": "vedeshu",
+          "meaning": "in the Vedas"
+        },
+        {
+          "word": "यज्ञेषु",
+          "transliteration": "yajneshu",
+          "meaning": "in sacrifices"
+        },
+        {
+          "word": "तपःसु",
+          "transliteration": "tapahsu",
+          "meaning": "in austerities"
+        },
+        {
+          "word": "दानेषु",
+          "transliteration": "daneshu",
+          "meaning": "in charities"
+        },
+        {
+          "word": "यत्",
+          "transliteration": "yat",
+          "meaning": "whatever"
+        },
+        {
+          "word": "पुण्यफलम्",
+          "transliteration": "punya-phalam",
+          "meaning": "meritorious fruit"
+        },
+        {
+          "word": "प्रदिष्टम्",
+          "transliteration": "pradishtam",
+          "meaning": "is declared"
+        },
+        {
+          "word": "अत्येति",
+          "transliteration": "atyeti",
+          "meaning": "transcends"
+        },
+        {
+          "word": "तत् सर्वम्",
+          "transliteration": "tat sarvam",
+          "meaning": "all that"
+        },
+        {
+          "word": "विदित्वा",
+          "transliteration": "viditva",
+          "meaning": "having known"
+        },
+        {
+          "word": "योगी",
+          "transliteration": "yogi",
+          "meaning": "the yogi"
+        },
+        {
+          "word": "परम्",
+          "transliteration": "param",
+          "meaning": "supreme"
+        },
+        {
+          "word": "स्थानम्",
+          "transliteration": "sthanam",
+          "meaning": "abode"
+        },
+        {
+          "word": "आद्यम्",
+          "transliteration": "adyam",
+          "meaning": "primeval/original"
+        }
+      ],
+      "hindiTranslation": "वेदों के अध्ययन, यज्ञों, तपों और दानों से जो पुण्यफल बताया गया है — यह सब जानने वाला योगी उन सबसे ऊपर उठ जाता है और परम आदि (मूल) स्थान को प्राप्त होता है।",
+      "englishTranslation": "The yogi who knows all this transcends the meritorious fruits declared for the study of the Vedas, sacrifices, austerities, and charities, and attains the supreme, primeval abode.",
+      "commentary": "The final verse of Chapter 8 declares that the knowledge and practice taught in this chapter surpasses all conventional religious merit. A yogi armed with this understanding transcends the limited rewards of Vedic study, rituals, penance, and charity, and reaches the original, eternal abode of God. This is the ultimate promise of Akshara Brahma Yoga."
+    }
+  ]
+}

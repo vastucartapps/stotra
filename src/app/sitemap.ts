@@ -1,5 +1,6 @@
 import type { MetadataRoute } from "next";
 import { getAllStotras } from "@/lib/stotras";
+import { getAllGitaChapters } from "@/lib/gita";
 import { DEITIES } from "@/data/deities";
 import { DAYS } from "@/data/days";
 import { FESTIVALS } from "@/data/festivals";
@@ -61,6 +62,26 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.75,
   }));
 
+  // Gita chapter and verse pages
+  const gitaChapters = getAllGitaChapters();
+  const gitaPages: MetadataRoute.Sitemap = [];
+  for (const ch of gitaChapters) {
+    gitaPages.push({
+      url: `${BASE_URL}/gita/${ch.slug}`,
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.85,
+    });
+    for (const v of ch.verses) {
+      gitaPages.push({
+        url: `${BASE_URL}/gita/${ch.slug}/${v.slug}`,
+        lastModified: new Date(),
+        changeFrequency: "monthly",
+        priority: 0.8,
+      });
+    }
+  }
+
   return [
     ...staticPages,
     ...stotraPages,
@@ -68,5 +89,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...dayPages,
     ...festivalPages,
     ...purposePages,
+    ...gitaPages,
   ];
 }

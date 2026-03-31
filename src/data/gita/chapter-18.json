@@ -1,0 +1,4762 @@
+{
+  "chapterNumber": 18,
+  "titleSanskrit": "मोक्षसन्न्यासयोगः",
+  "titleHindi": "मोक्ष और संन्यास का योग",
+  "titleEnglish": "Moksha Sannyasa Yoga - The Yoga of Liberation through Renunciation",
+  "slug": "chapter-18",
+  "description": "Bhagavad Gita Chapter 18, Moksha Sannyasa Yoga, is the grand finale of the Gita with 78 verses that synthesize all preceding teachings. Arjuna asks about the difference between sannyasa (renunciation) and tyaga (relinquishment), and Krishna explains that true renunciation means giving up the fruits of action, not action itself. The chapter systematically classifies knowledge, action, the doer, intellect, resolve, and happiness according to the three gunas. Krishna describes svadharma — performing one's own duty — as superior to another's duty, and reveals that all beings are driven to action by their innate nature. The chapter builds to the supreme teaching in verse 66: abandon all dharmas and surrender exclusively to God, who promises liberation from all sins. Arjuna declares his delusion destroyed and his resolve to follow Krishna's command. Sanjaya concludes with the immortal declaration that wherever Krishna and Arjuna are together, there victory, prosperity, and righteousness are certain.",
+  "verseCount": 78,
+  "verses": [
+    {
+      "verseNumber": 1,
+      "speaker": "Arjuna",
+      "devanagari": "सन्न्यासस्य महाबाहो तत्त्वमिच्छामि वेदितुम्।\nत्यागस्य च हृषीकेश पृथक्केशिनिषूदन॥",
+      "transliteration": "Sannyasasya Maha-baho tattvam-ichchhami veditum\nTyagasya cha Hrishikesha prithak-Keshi-nishudana",
+      "wordByWord": [
+        {
+          "word": "सन्न्यासस्य",
+          "transliteration": "sannyasasya",
+          "meaning": "of renunciation"
+        },
+        {
+          "word": "महाबाहो",
+          "transliteration": "Maha-baho",
+          "meaning": "O mighty-armed"
+        },
+        {
+          "word": "तत्त्वम्",
+          "transliteration": "tattvam",
+          "meaning": "the truth"
+        },
+        {
+          "word": "इच्छामि",
+          "transliteration": "ichchhami",
+          "meaning": "I wish"
+        },
+        {
+          "word": "वेदितुम्",
+          "transliteration": "veditum",
+          "meaning": "to know"
+        },
+        {
+          "word": "त्यागस्य",
+          "transliteration": "tyagasya",
+          "meaning": "of relinquishment"
+        },
+        {
+          "word": "हृषीकेश",
+          "transliteration": "Hrishikesha",
+          "meaning": "O master of the senses"
+        },
+        {
+          "word": "पृथक्",
+          "transliteration": "prithak",
+          "meaning": "separately"
+        },
+        {
+          "word": "केशिनिषूदन",
+          "transliteration": "Keshi-nishudana",
+          "meaning": "O slayer of Keshi demon"
+        }
+      ],
+      "hindiTranslation": "अर्जुन बोले — हे महाबाहो! हे हृषीकेश! हे केशिनिषूदन! मैं सन्न्यास और त्याग के तत्त्व को पृथक्-पृथक् जानना चाहता हूँ।",
+      "englishTranslation": "Arjuna said: O mighty-armed one, O Hrishikesha, O slayer of the Keshi demon, I wish to know the truth about renunciation (sannyasa) and relinquishment (tyaga) separately.",
+      "commentary": "The final chapter opens with Arjuna seeking clarity on two seemingly similar concepts — sannyasa and tyaga. His use of three names for Krishna reflects deep respect and the gravity of this concluding inquiry. This question sets up Krishna's comprehensive final teaching.",
+      "slug": "verse-1"
+    },
+    {
+      "verseNumber": 2,
+      "speaker": "Krishna",
+      "devanagari": "काम्यानां कर्मणां न्यासं सन्न्यासं कवयो विदुः।\nसर्वकर्मफलत्यागं प्राहुस्त्यागं विचक्षणाः॥",
+      "transliteration": "Kamyanam karmanam nyasam sannyasam kavayo viduh\nSarva-karma-phala-tyagam prahus-tyagam vichakshanah",
+      "wordByWord": [
+        {
+          "word": "काम्यानाम्",
+          "transliteration": "kamyanam",
+          "meaning": "of desire-prompted"
+        },
+        {
+          "word": "कर्मणाम्",
+          "transliteration": "karmanam",
+          "meaning": "of actions"
+        },
+        {
+          "word": "न्यासम्",
+          "transliteration": "nyasam",
+          "meaning": "giving up"
+        },
+        {
+          "word": "सन्न्यासम्",
+          "transliteration": "sannyasam",
+          "meaning": "renunciation"
+        },
+        {
+          "word": "कवयः",
+          "transliteration": "kavayah",
+          "meaning": "the wise"
+        },
+        {
+          "word": "विदुः",
+          "transliteration": "viduh",
+          "meaning": "know"
+        },
+        {
+          "word": "सर्वकर्मफलत्यागम्",
+          "transliteration": "sarva-karma-phala-tyagam",
+          "meaning": "giving up fruits of all actions"
+        },
+        {
+          "word": "प्राहुः",
+          "transliteration": "prahuh",
+          "meaning": "declare"
+        },
+        {
+          "word": "त्यागम्",
+          "transliteration": "tyagam",
+          "meaning": "relinquishment"
+        },
+        {
+          "word": "विचक्षणाः",
+          "transliteration": "vichakshanah",
+          "meaning": "the discerning"
+        }
+      ],
+      "hindiTranslation": "श्रीभगवान् बोले — काम्य कर्मों (इच्छापूरक कर्मों) के त्याग को विद्वान् लोग सन्न्यास कहते हैं, और सब कर्मों के फल के त्याग को बुद्धिमान लोग त्याग कहते हैं।",
+      "englishTranslation": "The Supreme Lord said: The wise understand sannyasa as giving up desire-prompted actions. The discerning declare tyaga as the relinquishment of the fruits of all actions.",
+      "commentary": "Krishna distinguishes two approaches: sannyasa is renouncing actions motivated by personal desires, while tyaga is performing all duties but renouncing attachment to their results. This nuanced distinction reveals that true spirituality lies not in inaction but in selfless action.",
+      "slug": "verse-2"
+    },
+    {
+      "verseNumber": 3,
+      "speaker": "Krishna",
+      "devanagari": "त्याज्यं दोषवदित्येके कर्म प्राहुर्मनीषिणः।\nयज्ञदानतपःकर्म न त्याज्यमिति चापरे॥",
+      "transliteration": "Tyajyam doshavad-ity-eke karma prahur-manishinah\nYajna-dana-tapah-karma na tyajyam-iti cha-apare",
+      "wordByWord": [
+        {
+          "word": "त्याज्यम्",
+          "transliteration": "tyajyam",
+          "meaning": "should be abandoned"
+        },
+        {
+          "word": "दोषवत्",
+          "transliteration": "doshavat",
+          "meaning": "as faulty"
+        },
+        {
+          "word": "इति",
+          "transliteration": "iti",
+          "meaning": "thus"
+        },
+        {
+          "word": "एके",
+          "transliteration": "eke",
+          "meaning": "some"
+        },
+        {
+          "word": "कर्म",
+          "transliteration": "karma",
+          "meaning": "action"
+        },
+        {
+          "word": "प्राहुः",
+          "transliteration": "prahuh",
+          "meaning": "declare"
+        },
+        {
+          "word": "मनीषिणः",
+          "transliteration": "manishinah",
+          "meaning": "the thoughtful"
+        },
+        {
+          "word": "यज्ञदानतपःकर्म",
+          "transliteration": "yajna-dana-tapah-karma",
+          "meaning": "sacrifice, charity and austerity"
+        },
+        {
+          "word": "न त्याज्यम्",
+          "transliteration": "na tyajyam",
+          "meaning": "should not be abandoned"
+        },
+        {
+          "word": "अपरे",
+          "transliteration": "apare",
+          "meaning": "others"
+        }
+      ],
+      "hindiTranslation": "कुछ विद्वान कहते हैं कि सब कर्म दोषयुक्त होने से त्याज्य हैं, और कुछ कहते हैं कि यज्ञ, दान और तप — ये कर्म नहीं त्यागने चाहिए।",
+      "englishTranslation": "Some thinkers declare that all action should be abandoned as faulty, while others say that acts of sacrifice, charity, and austerity should never be given up.",
+      "commentary": "Krishna presents two philosophical positions debated among scholars. One view advocates complete renunciation of all action since every action has some imperfection. The other maintains that sacred acts like sacrifice, charity, and austerity must always be performed. Krishna will resolve this debate in the following verses.",
+      "slug": "verse-3"
+    },
+    {
+      "verseNumber": 4,
+      "speaker": "Krishna",
+      "devanagari": "निश्चयं शृणु मे तत्र त्यागे भरतसत्तम।\nत्यागो हि पुरुषव्याघ्र त्रिविधः सम्प्रकीर्तितः॥",
+      "transliteration": "Nishchayam shrinu me tatra tyage Bharata-sattama\nTyago hi Purusha-vyaghra trividhah samprakirtitah",
+      "wordByWord": [
+        {
+          "word": "निश्चयम्",
+          "transliteration": "nishchayam",
+          "meaning": "the conclusion"
+        },
+        {
+          "word": "शृणु",
+          "transliteration": "shrinu",
+          "meaning": "hear"
+        },
+        {
+          "word": "मे",
+          "transliteration": "me",
+          "meaning": "from Me"
+        },
+        {
+          "word": "तत्र",
+          "transliteration": "tatra",
+          "meaning": "in that matter"
+        },
+        {
+          "word": "त्यागे",
+          "transliteration": "tyage",
+          "meaning": "regarding renunciation"
+        },
+        {
+          "word": "भरतसत्तम",
+          "transliteration": "Bharata-sattama",
+          "meaning": "O best of Bharatas"
+        },
+        {
+          "word": "त्यागः",
+          "transliteration": "tyagah",
+          "meaning": "renunciation"
+        },
+        {
+          "word": "पुरुषव्याघ्र",
+          "transliteration": "Purusha-vyaghra",
+          "meaning": "O tiger among men"
+        },
+        {
+          "word": "त्रिविधः",
+          "transliteration": "trividhah",
+          "meaning": "of three kinds"
+        },
+        {
+          "word": "सम्प्रकीर्तितः",
+          "transliteration": "samprakirtitah",
+          "meaning": "is declared"
+        }
+      ],
+      "hindiTranslation": "हे भरतसत्तम! हे पुरुषव्याघ्र! त्याग के विषय में मेरा निश्चय सुनो — त्याग भी तीन प्रकार का कहा गया है।",
+      "englishTranslation": "Hear from Me the conclusion on this matter of relinquishment, O best of Bharatas. O tiger among men, relinquishment is declared to be of three kinds.",
+      "commentary": "Krishna promises His definitive verdict on the debate. The affectionate titles 'best of Bharatas' and 'tiger among men' indicate the importance of what follows. As with all phenomena in the Gita's framework, tyaga too is classified by the three gunas.",
+      "slug": "verse-4"
+    },
+    {
+      "verseNumber": 5,
+      "speaker": "Krishna",
+      "devanagari": "यज्ञदानतपःकर्म न त्याज्यं कार्यमेव तत्।\nयज्ञो दानं तपश्चैव पावनानि मनीषिणाम्॥",
+      "transliteration": "Yajna-dana-tapah-karma na tyajyam karyam-eva tat\nYajno danam tapash-chaiva pavanani manishinam",
+      "wordByWord": [
+        {
+          "word": "यज्ञदानतपःकर्म",
+          "transliteration": "yajna-dana-tapah-karma",
+          "meaning": "acts of sacrifice, charity and austerity"
+        },
+        {
+          "word": "न त्याज्यम्",
+          "transliteration": "na tyajyam",
+          "meaning": "should not be abandoned"
+        },
+        {
+          "word": "कार्यम्",
+          "transliteration": "karyam",
+          "meaning": "must be performed"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "indeed"
+        },
+        {
+          "word": "तत्",
+          "transliteration": "tat",
+          "meaning": "that"
+        },
+        {
+          "word": "यज्ञः",
+          "transliteration": "yajnah",
+          "meaning": "sacrifice"
+        },
+        {
+          "word": "दानम्",
+          "transliteration": "danam",
+          "meaning": "charity"
+        },
+        {
+          "word": "तपः",
+          "transliteration": "tapah",
+          "meaning": "austerity"
+        },
+        {
+          "word": "पावनानि",
+          "transliteration": "pavanani",
+          "meaning": "purifying"
+        },
+        {
+          "word": "मनीषिणाम्",
+          "transliteration": "manishinam",
+          "meaning": "for the wise"
+        }
+      ],
+      "hindiTranslation": "यज्ञ, दान और तप रूपी कर्म त्यागने योग्य नहीं हैं — वे अवश्य करने चाहिए। यज्ञ, दान और तप बुद्धिमानों को भी पवित्र करने वाले हैं।",
+      "englishTranslation": "Acts of sacrifice, charity, and austerity should not be abandoned; they must indeed be performed. Sacrifice, charity, and austerity are purifying even for the wise.",
+      "commentary": "Krishna settles the debate decisively: sacred duties must never be abandoned. Even the most enlightened souls benefit from sacrifice, charity, and austerity as these acts continue to purify the heart. This is Krishna's definitive position on the practice of dharmic action.",
+      "slug": "verse-5"
+    },
+    {
+      "verseNumber": 6,
+      "speaker": "Krishna",
+      "devanagari": "एतान्यपि तु कर्माणि सङ्गं त्यक्त्वा फलानि च।\nकर्तव्यानीति मे पार्थ निश्चितं मतमुत्तमम्॥",
+      "transliteration": "Etany-api tu karmani sangam tyaktva phalani cha\nKartavyani-iti me Partha nishchitam matam-uttamam",
+      "wordByWord": [
+        {
+          "word": "एतानि",
+          "transliteration": "etani",
+          "meaning": "these"
+        },
+        {
+          "word": "अपि",
+          "transliteration": "api",
+          "meaning": "even"
+        },
+        {
+          "word": "कर्माणि",
+          "transliteration": "karmani",
+          "meaning": "actions"
+        },
+        {
+          "word": "सङ्गम्",
+          "transliteration": "sangam",
+          "meaning": "attachment"
+        },
+        {
+          "word": "त्यक्त्वा",
+          "transliteration": "tyaktva",
+          "meaning": "abandoning"
+        },
+        {
+          "word": "फलानि",
+          "transliteration": "phalani",
+          "meaning": "fruits"
+        },
+        {
+          "word": "कर्तव्यानि",
+          "transliteration": "kartavyani",
+          "meaning": "must be performed"
+        },
+        {
+          "word": "मे",
+          "transliteration": "me",
+          "meaning": "My"
+        },
+        {
+          "word": "निश्चितम्",
+          "transliteration": "nishchitam",
+          "meaning": "definite"
+        },
+        {
+          "word": "मतम् उत्तमम्",
+          "transliteration": "matam uttamam",
+          "meaning": "highest opinion"
+        }
+      ],
+      "hindiTranslation": "हे पार्थ! इन कर्मों को भी आसक्ति और फलों का त्याग करके करना चाहिए — यह मेरा निश्चित उत्तम मत है।",
+      "englishTranslation": "But even these actions should be performed giving up attachment and the desire for fruits — this is My definite and highest opinion, O Partha.",
+      "commentary": "This verse contains Krishna's 'supreme verdict' on the central question of the Gita: act, but without attachment to results. The emphasis on 'definite and highest' makes this the ultimate teaching on karma yoga. Duty must be fulfilled, but the ego's claim on outcomes must be surrendered.",
+      "slug": "verse-6"
+    },
+    {
+      "verseNumber": 7,
+      "speaker": "Krishna",
+      "devanagari": "नियतस्य तु सन्न्यासः कर्मणो नोपपद्यते।\nमोहात्तस्य परित्यागस्तामसः परिकीर्तितः॥",
+      "transliteration": "Niyatasya tu sannyasah karmano no-papadyate\nMohat-tasya parityagas-tamasah parikirtitah",
+      "wordByWord": [
+        {
+          "word": "नियतस्य",
+          "transliteration": "niyatasya",
+          "meaning": "of prescribed"
+        },
+        {
+          "word": "सन्न्यासः",
+          "transliteration": "sannyasah",
+          "meaning": "renunciation"
+        },
+        {
+          "word": "कर्मणः",
+          "transliteration": "karmanah",
+          "meaning": "of duty"
+        },
+        {
+          "word": "न उपपद्यते",
+          "transliteration": "na upapadyate",
+          "meaning": "is not proper"
+        },
+        {
+          "word": "मोहात्",
+          "transliteration": "mohat",
+          "meaning": "out of delusion"
+        },
+        {
+          "word": "तस्य",
+          "transliteration": "tasya",
+          "meaning": "of it"
+        },
+        {
+          "word": "परित्यागः",
+          "transliteration": "parityagah",
+          "meaning": "abandonment"
+        },
+        {
+          "word": "तामसः",
+          "transliteration": "tamasah",
+          "meaning": "tamasic"
+        },
+        {
+          "word": "परिकीर्तितः",
+          "transliteration": "parikirtitah",
+          "meaning": "is declared"
+        }
+      ],
+      "hindiTranslation": "नियत (कर्तव्य) कर्म का सन्न्यास उचित नहीं है। मोहवश उसका परित्याग तामसिक कहा गया है।",
+      "englishTranslation": "Renunciation of prescribed duty is not proper. Abandoning it out of delusion is declared to be tamasic.",
+      "commentary": "Running away from duty is not spiritual renunciation but tamasic escape. When someone abandons their responsibilities due to confusion or laziness, it reflects ignorance, not enlightenment. True tyaga means fulfilling duties while being detached from results.",
+      "slug": "verse-7"
+    },
+    {
+      "verseNumber": 8,
+      "speaker": "Krishna",
+      "devanagari": "दुःखमित्येव यत्कर्म कायक्लेशभयात्त्यजेत्।\nस कृत्वा राजसं त्यागं नैव त्यागफलं लभेत्॥",
+      "transliteration": "Duhkham-ity-eva yat-karma kaya-klesha-bhayat-tyajet\nSa kritva rajasam tyagam naiva tyaga-phalam labhet",
+      "wordByWord": [
+        {
+          "word": "दुःखम्",
+          "transliteration": "duhkham",
+          "meaning": "painful"
+        },
+        {
+          "word": "इति",
+          "transliteration": "iti",
+          "meaning": "thus"
+        },
+        {
+          "word": "यत् कर्म",
+          "transliteration": "yat karma",
+          "meaning": "whatever action"
+        },
+        {
+          "word": "कायक्लेशभयात्",
+          "transliteration": "kaya-klesha-bhayat",
+          "meaning": "from fear of bodily trouble"
+        },
+        {
+          "word": "त्यजेत्",
+          "transliteration": "tyajet",
+          "meaning": "abandons"
+        },
+        {
+          "word": "सः",
+          "transliteration": "sah",
+          "meaning": "he"
+        },
+        {
+          "word": "कृत्वा",
+          "transliteration": "kritva",
+          "meaning": "having done"
+        },
+        {
+          "word": "राजसम् त्यागम्",
+          "transliteration": "rajasam tyagam",
+          "meaning": "rajasic renunciation"
+        },
+        {
+          "word": "न एव",
+          "transliteration": "na eva",
+          "meaning": "never"
+        },
+        {
+          "word": "त्यागफलम्",
+          "transliteration": "tyaga-phalam",
+          "meaning": "the fruit of renunciation"
+        },
+        {
+          "word": "लभेत्",
+          "transliteration": "labhet",
+          "meaning": "obtains"
+        }
+      ],
+      "hindiTranslation": "'यह कष्टदायक है' — ऐसा कहकर जो शारीरिक कष्ट के भय से कर्म त्यागता है, वह राजसिक त्याग करके त्याग का फल कभी नहीं पाता।",
+      "englishTranslation": "One who abandons duty because it is troublesome or from fear of physical discomfort performs rajasic renunciation and never obtains the fruit of true relinquishment.",
+      "commentary": "Avoiding duty because it is difficult or uncomfortable is rajasic renunciation driven by self-interest. Such abandonment provides no spiritual benefit because the motivation is comfort-seeking, not spiritual growth. Genuine tyaga requires facing difficulties while maintaining inner detachment.",
+      "slug": "verse-8"
+    },
+    {
+      "verseNumber": 9,
+      "speaker": "Krishna",
+      "devanagari": "कार्यमित्येव यत्कर्म नियतं क्रियतेऽर्जुन।\nसङ्गं त्यक्त्वा फलं चैव स त्यागः सात्त्विको मतः॥",
+      "transliteration": "Karyam-ity-eva yat-karma niyatam kriyate'rjuna\nSangam tyaktva phalam chaiva sa tyagah sattviko matah",
+      "wordByWord": [
+        {
+          "word": "कार्यम्",
+          "transliteration": "karyam",
+          "meaning": "as duty"
+        },
+        {
+          "word": "इति",
+          "transliteration": "iti",
+          "meaning": "thus"
+        },
+        {
+          "word": "यत् कर्म",
+          "transliteration": "yat karma",
+          "meaning": "whatever action"
+        },
+        {
+          "word": "नियतम्",
+          "transliteration": "niyatam",
+          "meaning": "prescribed"
+        },
+        {
+          "word": "क्रियते",
+          "transliteration": "kriyate",
+          "meaning": "is performed"
+        },
+        {
+          "word": "अर्जुन",
+          "transliteration": "Arjuna",
+          "meaning": "O Arjuna"
+        },
+        {
+          "word": "सङ्गम्",
+          "transliteration": "sangam",
+          "meaning": "attachment"
+        },
+        {
+          "word": "त्यक्त्वा",
+          "transliteration": "tyaktva",
+          "meaning": "giving up"
+        },
+        {
+          "word": "फलम्",
+          "transliteration": "phalam",
+          "meaning": "fruit"
+        },
+        {
+          "word": "सः त्यागः",
+          "transliteration": "sah tyagah",
+          "meaning": "that renunciation"
+        },
+        {
+          "word": "सात्त्विकः",
+          "transliteration": "sattvikah",
+          "meaning": "sattvic"
+        }
+      ],
+      "hindiTranslation": "हे अर्जुन! 'यह कर्तव्य है' — ऐसे भाव से जो नियत कर्म आसक्ति और फल का त्याग करके किया जाता है, वह सात्त्विक त्याग माना गया है।",
+      "englishTranslation": "O Arjuna, when prescribed duty is performed simply because it ought to be done, giving up attachment and the fruits — that renunciation is considered sattvic.",
+      "commentary": "This is the gold standard of action: doing what must be done because it is right, without clinging to outcomes. Sattvic tyaga combines dutiful action with inner freedom. This verse encapsulates the entire teaching of Karma Yoga in a single principle.",
+      "slug": "verse-9"
+    },
+    {
+      "verseNumber": 10,
+      "speaker": "Krishna",
+      "devanagari": "न द्वेष्ट्यकुशलं कर्म कुशले नानुषज्जते।\nत्यागी सत्त्वसमाविष्टो मेधावी छिन्नसंशयः॥",
+      "transliteration": "Na dveshty-akushalam karma kushale na-anushajjate\nTyagi sattva-samavishto medhavi chhinna-samshayah",
+      "wordByWord": [
+        {
+          "word": "न द्वेष्टि",
+          "transliteration": "na dveshti",
+          "meaning": "does not hate"
+        },
+        {
+          "word": "अकुशलम्",
+          "transliteration": "akushalam",
+          "meaning": "disagreeable"
+        },
+        {
+          "word": "कर्म",
+          "transliteration": "karma",
+          "meaning": "action"
+        },
+        {
+          "word": "कुशले",
+          "transliteration": "kushale",
+          "meaning": "in agreeable"
+        },
+        {
+          "word": "न अनुषज्जते",
+          "transliteration": "na anushajjate",
+          "meaning": "does not cling"
+        },
+        {
+          "word": "त्यागी",
+          "transliteration": "tyagi",
+          "meaning": "the renouncer"
+        },
+        {
+          "word": "सत्त्वसमाविष्टः",
+          "transliteration": "sattva-samavishtah",
+          "meaning": "imbued with sattva"
+        },
+        {
+          "word": "मेधावी",
+          "transliteration": "medhavi",
+          "meaning": "intelligent"
+        },
+        {
+          "word": "छिन्नसंशयः",
+          "transliteration": "chhinna-samshayah",
+          "meaning": "free from doubt"
+        }
+      ],
+      "hindiTranslation": "जो सत्त्वगुण से युक्त, बुद्धिमान, संशयरहित त्यागी है — वह अप्रिय कर्म से द्वेष नहीं करता और प्रिय कर्म में आसक्त नहीं होता।",
+      "englishTranslation": "The wise renouncer, imbued with sattva and free from doubt, neither hates disagreeable action nor is attached to agreeable action.",
+      "commentary": "A true tyagi maintains equanimity toward all types of work. Neither avoiding unpleasant duties nor clinging to pleasant ones, such a person acts with balanced wisdom. This describes the ideal state of a karma yogi — engaged yet detached, active yet serene.",
+      "slug": "verse-10"
+    },
+    {
+      "verseNumber": 11,
+      "speaker": "Krishna",
+      "devanagari": "न हि देहभृता शक्यं त्यक्तुं कर्माण्यशेषतः।\nयस्तु कर्मफलत्यागी स त्यागीत्यभिधीयते॥",
+      "transliteration": "Na hi deha-bhrita shakyam tyaktum karmany-asheshatah\nYas-tu karma-phala-tyagi sa tyagi-ty-abhidhiyate",
+      "wordByWord": [
+        {
+          "word": "न हि",
+          "transliteration": "na hi",
+          "meaning": "indeed not"
+        },
+        {
+          "word": "देहभृता",
+          "transliteration": "deha-bhrita",
+          "meaning": "by an embodied being"
+        },
+        {
+          "word": "शक्यम्",
+          "transliteration": "shakyam",
+          "meaning": "possible"
+        },
+        {
+          "word": "त्यक्तुम्",
+          "transliteration": "tyaktum",
+          "meaning": "to give up"
+        },
+        {
+          "word": "कर्माणि",
+          "transliteration": "karmani",
+          "meaning": "actions"
+        },
+        {
+          "word": "अशेषतः",
+          "transliteration": "asheshatah",
+          "meaning": "entirely"
+        },
+        {
+          "word": "यः तु",
+          "transliteration": "yah tu",
+          "meaning": "but one who"
+        },
+        {
+          "word": "कर्मफलत्यागी",
+          "transliteration": "karma-phala-tyagi",
+          "meaning": "renouncer of fruits of action"
+        },
+        {
+          "word": "सः त्यागी",
+          "transliteration": "sah tyagi",
+          "meaning": "that person is a renouncer"
+        }
+      ],
+      "hindiTranslation": "देहधारी के लिए कर्मों को पूर्णतः त्यागना सम्भव नहीं है। जो कर्मफल का त्यागी है — वही वास्तव में त्यागी कहलाता है।",
+      "englishTranslation": "It is indeed impossible for an embodied being to give up all actions entirely. But one who relinquishes the fruits of action — that person is truly called a renouncer.",
+      "commentary": "As long as one has a body, complete inaction is impossible — even breathing is action. Therefore, true renunciation cannot mean giving up all activity. The real tyagi renounces not action itself but attachment to its results. This pragmatic teaching makes spiritual liberation accessible to everyone.",
+      "slug": "verse-11"
+    },
+    {
+      "verseNumber": 12,
+      "speaker": "Krishna",
+      "devanagari": "अनिष्टमिष्टं मिश्रं च त्रिविधं कर्मणः फलम्।\nभवत्यत्यागिनां प्रेत्य न तु सन्न्यासिनां क्वचित्॥",
+      "transliteration": "Anishtam-ishtam mishram cha trividham karmanah phalam\nBhavaty-atyaginam pretya na tu sannyasinam kvachit",
+      "wordByWord": [
+        {
+          "word": "अनिष्टम्",
+          "transliteration": "anishtam",
+          "meaning": "undesirable"
+        },
+        {
+          "word": "इष्टम्",
+          "transliteration": "ishtam",
+          "meaning": "desirable"
+        },
+        {
+          "word": "मिश्रम्",
+          "transliteration": "mishram",
+          "meaning": "mixed"
+        },
+        {
+          "word": "त्रिविधम्",
+          "transliteration": "trividham",
+          "meaning": "threefold"
+        },
+        {
+          "word": "कर्मणः फलम्",
+          "transliteration": "karmanah phalam",
+          "meaning": "fruit of action"
+        },
+        {
+          "word": "भवति",
+          "transliteration": "bhavati",
+          "meaning": "accrues"
+        },
+        {
+          "word": "अत्यागिनाम्",
+          "transliteration": "atyaginam",
+          "meaning": "for non-renouncers"
+        },
+        {
+          "word": "प्रेत्य",
+          "transliteration": "pretya",
+          "meaning": "after death"
+        },
+        {
+          "word": "न तु",
+          "transliteration": "na tu",
+          "meaning": "but not"
+        },
+        {
+          "word": "सन्न्यासिनाम्",
+          "transliteration": "sannyasinam",
+          "meaning": "for renouncers"
+        },
+        {
+          "word": "क्वचित्",
+          "transliteration": "kvachit",
+          "meaning": "ever"
+        }
+      ],
+      "hindiTranslation": "जो त्याग नहीं करते, उन्हें मृत्यु के बाद तीन प्रकार के कर्मफल — अनिष्ट, इष्ट और मिश्र — प्राप्त होते हैं। किन्तु सन्न्यासियों को कभी नहीं।",
+      "englishTranslation": "The threefold fruits of action — undesirable, desirable, and mixed — accrue after death for those who do not renounce, but never for true renouncers.",
+      "commentary": "Those attached to results carry the karmic consequences — pleasant, unpleasant, or mixed — into future lives. True renouncers, having surrendered all claim to outcomes, are freed from karmic bondage. This verse provides a powerful incentive for practicing detachment from the fruits of action.",
+      "slug": "verse-12"
+    },
+    {
+      "verseNumber": 13,
+      "speaker": "Krishna",
+      "devanagari": "पञ्चैतानि महाबाहो कारणानि निबोध मे।\nसाङ्ख्ये कृतान्ते प्रोक्तानि सिद्धये सर्वकर्मणाम्॥",
+      "transliteration": "Pancha-etani Maha-baho karanani nibodha me\nSankhye krita-ante proktani siddhaye sarva-karmanam",
+      "wordByWord": [
+        {
+          "word": "पञ्च",
+          "transliteration": "pancha",
+          "meaning": "five"
+        },
+        {
+          "word": "एतानि",
+          "transliteration": "etani",
+          "meaning": "these"
+        },
+        {
+          "word": "महाबाहो",
+          "transliteration": "Maha-baho",
+          "meaning": "O mighty-armed"
+        },
+        {
+          "word": "कारणानि",
+          "transliteration": "karanani",
+          "meaning": "causes"
+        },
+        {
+          "word": "निबोध",
+          "transliteration": "nibodha",
+          "meaning": "learn"
+        },
+        {
+          "word": "मे",
+          "transliteration": "me",
+          "meaning": "from Me"
+        },
+        {
+          "word": "साङ्ख्ये",
+          "transliteration": "Sankhye",
+          "meaning": "in Sankhya philosophy"
+        },
+        {
+          "word": "कृतान्ते",
+          "transliteration": "krita-ante",
+          "meaning": "for the conclusion"
+        },
+        {
+          "word": "प्रोक्तानि",
+          "transliteration": "proktani",
+          "meaning": "declared"
+        },
+        {
+          "word": "सिद्धये",
+          "transliteration": "siddhaye",
+          "meaning": "for accomplishment"
+        },
+        {
+          "word": "सर्वकर्मणाम्",
+          "transliteration": "sarva-karmanam",
+          "meaning": "of all actions"
+        }
+      ],
+      "hindiTranslation": "हे महाबाहो! सब कर्मों की सिद्धि के लिए सांख्य-शास्त्र में कहे गये ये पाँच कारण मुझसे जानो।",
+      "englishTranslation": "O mighty-armed, learn from Me the five factors declared in Sankhya philosophy for the accomplishment of all actions.",
+      "commentary": "Krishna now introduces the Sankhya analysis of action, identifying five factors that contribute to every act. Understanding these factors helps dissolve the ego's false claim of being the sole doer. This analytical framework supports the practice of detachment by revealing the impersonal nature of action.",
+      "slug": "verse-13"
+    },
+    {
+      "verseNumber": 14,
+      "speaker": "Krishna",
+      "devanagari": "अधिष्ठानं तथा कर्ता करणं च पृथग्विधम्।\nविविधाश्च पृथक्चेष्टा दैवं चैवात्र पञ्चमम्॥",
+      "transliteration": "Adhishthanam tatha karta karanam cha prithag-vidham\nVividhash-cha prithak-cheshta daivam chaiva-atra panchamam",
+      "wordByWord": [
+        {
+          "word": "अधिष्ठानम्",
+          "transliteration": "adhishthanam",
+          "meaning": "the body (seat of action)"
+        },
+        {
+          "word": "कर्ता",
+          "transliteration": "karta",
+          "meaning": "the doer"
+        },
+        {
+          "word": "करणम्",
+          "transliteration": "karanam",
+          "meaning": "the instruments (senses)"
+        },
+        {
+          "word": "पृथग्विधम्",
+          "transliteration": "prithag-vidham",
+          "meaning": "of various kinds"
+        },
+        {
+          "word": "विविधाः",
+          "transliteration": "vividhah",
+          "meaning": "various"
+        },
+        {
+          "word": "पृथक् चेष्टाः",
+          "transliteration": "prithak cheshtah",
+          "meaning": "separate efforts"
+        },
+        {
+          "word": "दैवम्",
+          "transliteration": "daivam",
+          "meaning": "divine providence/fate"
+        },
+        {
+          "word": "पञ्चमम्",
+          "transliteration": "panchamam",
+          "meaning": "the fifth"
+        }
+      ],
+      "hindiTranslation": "शरीर (अधिष्ठान), कर्ता, विभिन्न प्रकार के इन्द्रिय-करण, नाना प्रकार की चेष्टाएँ (प्राणवायु), और पाँचवाँ दैव (भाग्य/ईश्वर की प्रेरणा) — ये पाँच कारण हैं।",
+      "englishTranslation": "The body (seat of action), the doer, the various instruments, the diverse functions, and the fifth — divine providence — these are the five factors of action.",
+      "commentary": "Every action requires five elements working together: the physical body, the agent, the senses and organs, the vital energies that drive movement, and the unseen hand of providence. Recognizing that the individual ego is just one of five factors dissolves the illusion of sole doership.",
+      "slug": "verse-14"
+    },
+    {
+      "verseNumber": 15,
+      "speaker": "Krishna",
+      "devanagari": "शरीरवाङ्मनोभिर्यत्कर्म प्रारभते नरः।\nन्याय्यं वा विपरीतं वा पञ्चैते तस्य हेतवः॥",
+      "transliteration": "Sharira-vang-manobhir-yat karma prarabhate narah\nNyayyam va viparitam va pancha-ete tasya hetavah",
+      "wordByWord": [
+        {
+          "word": "शरीरवाङ्मनोभिः",
+          "transliteration": "sharira-vak-manobhih",
+          "meaning": "by body, speech and mind"
+        },
+        {
+          "word": "यत्",
+          "transliteration": "yat",
+          "meaning": "whatever"
+        },
+        {
+          "word": "कर्म",
+          "transliteration": "karma",
+          "meaning": "action"
+        },
+        {
+          "word": "प्रारभते",
+          "transliteration": "prarabhate",
+          "meaning": "begins"
+        },
+        {
+          "word": "नरः",
+          "transliteration": "narah",
+          "meaning": "a person"
+        },
+        {
+          "word": "न्याय्यम्",
+          "transliteration": "nyayyam",
+          "meaning": "right"
+        },
+        {
+          "word": "विपरीतम्",
+          "transliteration": "viparitam",
+          "meaning": "wrong"
+        },
+        {
+          "word": "पञ्च एते",
+          "transliteration": "pancha ete",
+          "meaning": "these five"
+        },
+        {
+          "word": "तस्य हेतवः",
+          "transliteration": "tasya hetavah",
+          "meaning": "are its causes"
+        }
+      ],
+      "hindiTranslation": "मनुष्य शरीर, वाणी और मन से जो भी कर्म करता है — चाहे उचित हो या अनुचित — इन पाँचों कारणों से होता है।",
+      "englishTranslation": "Whatever action a person performs by body, speech, or mind — whether right or wrong — these five are its causes.",
+      "commentary": "This verse extends the five-factor analysis to all actions without exception — physical, verbal, and mental, whether righteous or sinful. No action occurs through the individual ego alone. Understanding this truth leads to humility and freedom from the burden of doership.",
+      "slug": "verse-15"
+    },
+    {
+      "verseNumber": 16,
+      "speaker": "Krishna",
+      "devanagari": "तत्रैवं सति कर्तारमात्मानं केवलं तु यः।\nपश्यत्यकृतबुद्धित्वान्न स पश्यति दुर्मतिः॥",
+      "transliteration": "Tatra-evam sati kartaram-atmanam kevalam tu yah\nPashyaty-akrita-buddhitvan-na sa pashyati durmatih",
+      "wordByWord": [
+        {
+          "word": "तत्र",
+          "transliteration": "tatra",
+          "meaning": "there"
+        },
+        {
+          "word": "एवम् सति",
+          "transliteration": "evam sati",
+          "meaning": "this being so"
+        },
+        {
+          "word": "कर्तारम्",
+          "transliteration": "kartaram",
+          "meaning": "as the doer"
+        },
+        {
+          "word": "आत्मानम्",
+          "transliteration": "atmanam",
+          "meaning": "oneself"
+        },
+        {
+          "word": "केवलम्",
+          "transliteration": "kevalam",
+          "meaning": "alone"
+        },
+        {
+          "word": "यः पश्यति",
+          "transliteration": "yah pashyati",
+          "meaning": "who sees"
+        },
+        {
+          "word": "अकृतबुद्धित्वात्",
+          "transliteration": "akrita-buddhitvat",
+          "meaning": "due to unrefined intellect"
+        },
+        {
+          "word": "न सः पश्यति",
+          "transliteration": "na sah pashyati",
+          "meaning": "he does not see"
+        },
+        {
+          "word": "दुर्मतिः",
+          "transliteration": "durmatih",
+          "meaning": "of impure mind"
+        }
+      ],
+      "hindiTranslation": "ऐसा होने पर भी जो अपरिपक्व बुद्धि के कारण केवल अपने आप को कर्ता देखता है — वह दुर्बुद्धि वास्तव में नहीं देखता।",
+      "englishTranslation": "This being so, one who due to unrefined intellect sees oneself as the sole doer — that person of impure mind does not truly see.",
+      "commentary": "Despite the five-factor reality, the ego claims sole authorship of all actions. This false identification with doership is the root of spiritual blindness. Krishna calls such a person 'of impure mind' because their understanding is distorted by the illusion of individual agency.",
+      "slug": "verse-16"
+    },
+    {
+      "verseNumber": 17,
+      "speaker": "Krishna",
+      "devanagari": "यस्य नाहङ्कृतो भावो बुद्धिर्यस्य न लिप्यते।\nहत्वापि स इमाँल्लोकान्न हन्ति न निबध्यते॥",
+      "transliteration": "Yasya na-ahankrito bhavo buddhir-yasya na lipyate\nHatva-api sa imal-lokan na hanti na nibadhyate",
+      "wordByWord": [
+        {
+          "word": "यस्य",
+          "transliteration": "yasya",
+          "meaning": "whose"
+        },
+        {
+          "word": "न अहङ्कृतः",
+          "transliteration": "na ahankritah",
+          "meaning": "not egoistic"
+        },
+        {
+          "word": "भावः",
+          "transliteration": "bhavah",
+          "meaning": "nature"
+        },
+        {
+          "word": "बुद्धिः",
+          "transliteration": "buddhih",
+          "meaning": "intellect"
+        },
+        {
+          "word": "न लिप्यते",
+          "transliteration": "na lipyate",
+          "meaning": "is not tainted"
+        },
+        {
+          "word": "हत्वा अपि",
+          "transliteration": "hatva api",
+          "meaning": "even having killed"
+        },
+        {
+          "word": "सः",
+          "transliteration": "sah",
+          "meaning": "he"
+        },
+        {
+          "word": "इमान् लोकान्",
+          "transliteration": "iman lokan",
+          "meaning": "these people"
+        },
+        {
+          "word": "न हन्ति",
+          "transliteration": "na hanti",
+          "meaning": "does not kill"
+        },
+        {
+          "word": "न निबध्यते",
+          "transliteration": "na nibadhyate",
+          "meaning": "is not bound"
+        }
+      ],
+      "hindiTranslation": "जिसका भाव अहंकारयुक्त नहीं है, जिसकी बुद्धि लिप्त नहीं होती — वह इन सब लोकों को मारकर भी न मारता है और न बँधता है।",
+      "englishTranslation": "One whose nature is free from ego and whose intellect is not tainted — even though slaying these people, that person neither kills nor is bound.",
+      "commentary": "This verse directly addresses Arjuna's warrior dilemma. When action springs from an ego-free state with untainted intellect, even the act of killing in battle creates no karmic bondage. The verse does not glorify violence but reveals that consciousness, not external action, determines spiritual consequence.",
+      "slug": "verse-17"
+    },
+    {
+      "verseNumber": 18,
+      "speaker": "Krishna",
+      "devanagari": "ज्ञानं ज्ञेयं परिज्ञाता त्रिविधा कर्मचोदना।\nकरणं कर्म कर्तेति त्रिविधः कर्मसङ्ग्रहः॥",
+      "transliteration": "Jnanam jneyam parijnata trividha karma-chodana\nKaranam karma karte-ti trividhah karma-sangrahah",
+      "wordByWord": [
+        {
+          "word": "ज्ञानम्",
+          "transliteration": "jnanam",
+          "meaning": "knowledge"
+        },
+        {
+          "word": "ज्ञेयम्",
+          "transliteration": "jneyam",
+          "meaning": "the object of knowledge"
+        },
+        {
+          "word": "परिज्ञाता",
+          "transliteration": "parijnata",
+          "meaning": "the knower"
+        },
+        {
+          "word": "त्रिविधा",
+          "transliteration": "trividha",
+          "meaning": "threefold"
+        },
+        {
+          "word": "कर्मचोदना",
+          "transliteration": "karma-chodana",
+          "meaning": "motivation for action"
+        },
+        {
+          "word": "करणम्",
+          "transliteration": "karanam",
+          "meaning": "the instrument"
+        },
+        {
+          "word": "कर्म",
+          "transliteration": "karma",
+          "meaning": "the action"
+        },
+        {
+          "word": "कर्ता",
+          "transliteration": "karta",
+          "meaning": "the doer"
+        },
+        {
+          "word": "कर्मसङ्ग्रहः",
+          "transliteration": "karma-sangrahah",
+          "meaning": "the constituents of action"
+        }
+      ],
+      "hindiTranslation": "ज्ञान, ज्ञेय (जानने योग्य) और परिज्ञाता (जानने वाला) — ये तीन कर्म की प्रेरणा हैं। करण (इन्द्रिय), कर्म और कर्ता — ये तीन कर्म के संग्रह (अंग) हैं।",
+      "englishTranslation": "Knowledge, the object of knowledge, and the knower — these three constitute the motivation for action. The instrument, the action, and the doer — these three are the constituents of action.",
+      "commentary": "Krishna presents two complementary triads that encompass the full mechanics of action. The cognitive triad (knowledge, known, knower) motivates action, while the operative triad (instrument, action, doer) executes it. Understanding these impersonal factors further dissolves the ego's claim to sole doership.",
+      "slug": "verse-18"
+    },
+    {
+      "verseNumber": 19,
+      "speaker": "Krishna",
+      "devanagari": "ज्ञानं कर्म च कर्ता च त्रिधैव गुणभेदतः।\nप्रोच्यते गुणसङ्ख्याने यथावच्छृणु तान्यपि॥",
+      "transliteration": "Jnanam karma cha karta cha tridhaiva guna-bhedatah\nProchyate guna-sankhyane yathavach-chhrinu tany-api",
+      "wordByWord": [
+        {
+          "word": "ज्ञानम्",
+          "transliteration": "jnanam",
+          "meaning": "knowledge"
+        },
+        {
+          "word": "कर्म",
+          "transliteration": "karma",
+          "meaning": "action"
+        },
+        {
+          "word": "कर्ता",
+          "transliteration": "karta",
+          "meaning": "doer"
+        },
+        {
+          "word": "त्रिधा",
+          "transliteration": "tridha",
+          "meaning": "of three kinds"
+        },
+        {
+          "word": "गुणभेदतः",
+          "transliteration": "guna-bhedatah",
+          "meaning": "by distinction of gunas"
+        },
+        {
+          "word": "प्रोच्यते",
+          "transliteration": "prochyate",
+          "meaning": "is described"
+        },
+        {
+          "word": "गुणसङ्ख्याने",
+          "transliteration": "guna-sankhyane",
+          "meaning": "in Sankhya classification"
+        },
+        {
+          "word": "यथावत्",
+          "transliteration": "yathavat",
+          "meaning": "as they are"
+        },
+        {
+          "word": "शृणु",
+          "transliteration": "shrinu",
+          "meaning": "hear"
+        },
+        {
+          "word": "तानि अपि",
+          "transliteration": "tani api",
+          "meaning": "those also"
+        }
+      ],
+      "hindiTranslation": "गुणों के भेद से ज्ञान, कर्म और कर्ता — प्रत्येक तीन प्रकार का कहा गया है। गुणसांख्य (सांख्य शास्त्र) के अनुसार उन्हें भी यथावत् सुनो।",
+      "englishTranslation": "Knowledge, action, and the doer are each of three kinds according to the distinction of the gunas. Hear about them as they truly are, according to the Sankhya classification.",
+      "commentary": "Krishna introduces a systematic classification of knowledge, action, and the doer by the three gunas. This section will span several verses, providing a comprehensive framework for self-assessment. Understanding which guna dominates one's knowledge, actions, and personality helps chart the course of spiritual evolution.",
+      "slug": "verse-19"
+    },
+    {
+      "verseNumber": 20,
+      "speaker": "Krishna",
+      "devanagari": "सर्वभूतेषु येनैकं भावमव्ययमीक्षते।\nअविभक्तं विभक्तेषु तज्ज्ञानं विद्धि सात्त्विकम्॥",
+      "transliteration": "Sarva-bhuteshu yena-ikam bhavam-avyayam-ikshate\nAvibhaktam vibhakteshu taj-jnanam viddhi sattvikam",
+      "wordByWord": [
+        {
+          "word": "सर्वभूतेषु",
+          "transliteration": "sarva-bhuteshu",
+          "meaning": "in all beings"
+        },
+        {
+          "word": "येन",
+          "transliteration": "yena",
+          "meaning": "by which"
+        },
+        {
+          "word": "एकम्",
+          "transliteration": "ekam",
+          "meaning": "one"
+        },
+        {
+          "word": "भावम्",
+          "transliteration": "bhavam",
+          "meaning": "nature/existence"
+        },
+        {
+          "word": "अव्ययम्",
+          "transliteration": "avyayam",
+          "meaning": "imperishable"
+        },
+        {
+          "word": "ईक्षते",
+          "transliteration": "ikshate",
+          "meaning": "one sees"
+        },
+        {
+          "word": "अविभक्तम्",
+          "transliteration": "avibhaktam",
+          "meaning": "undivided"
+        },
+        {
+          "word": "विभक्तेषु",
+          "transliteration": "vibhakteshu",
+          "meaning": "in the divided"
+        },
+        {
+          "word": "तत् ज्ञानम्",
+          "transliteration": "tat jnanam",
+          "meaning": "that knowledge"
+        },
+        {
+          "word": "सात्त्विकम्",
+          "transliteration": "sattvikam",
+          "meaning": "sattvic"
+        }
+      ],
+      "hindiTranslation": "जिस ज्ञान से मनुष्य सब भूतों में एक अविनाशी भाव को देखता है — विभक्त (अलग-अलग) प्राणियों में अविभक्त (एक) — उस ज्ञान को सात्त्विक जानो।",
+      "englishTranslation": "That knowledge by which one sees the one imperishable reality in all beings — undivided among the divided — know that knowledge to be sattvic.",
+      "commentary": "Sattvic knowledge is the perception of unity underlying diversity. Seeing the same imperishable divine essence in all beings, despite their external differences, is the highest form of understanding. This vision of oneness is the hallmark of true wisdom and the basis of universal compassion.",
+      "slug": "verse-20"
+    },
+    {
+      "verseNumber": 21,
+      "speaker": "Krishna",
+      "devanagari": "पृथक्त्वेन तु यज्ज्ञानं नानाभावान्पृथग्विधान्।\nवेत्ति सर्वेषु भूतेषु तज्ज्ञानं विद्धि राजसम्॥",
+      "transliteration": "Prithaktvena tu yaj-jnanam nana-bhavan prithag-vidhan\nVetti sarveshu bhuteshu taj-jnanam viddhi rajasam",
+      "wordByWord": [
+        {
+          "word": "पृथक्त्वेन",
+          "transliteration": "prithaktvena",
+          "meaning": "as separate"
+        },
+        {
+          "word": "यत् ज्ञानम्",
+          "transliteration": "yat jnanam",
+          "meaning": "that knowledge which"
+        },
+        {
+          "word": "नानाभावान्",
+          "transliteration": "nana-bhavan",
+          "meaning": "manifold entities"
+        },
+        {
+          "word": "पृथग्विधान्",
+          "transliteration": "prithag-vidhan",
+          "meaning": "of different types"
+        },
+        {
+          "word": "वेत्ति",
+          "transliteration": "vetti",
+          "meaning": "knows"
+        },
+        {
+          "word": "सर्वेषु भूतेषु",
+          "transliteration": "sarveshu bhuteshu",
+          "meaning": "in all beings"
+        },
+        {
+          "word": "राजसम्",
+          "transliteration": "rajasam",
+          "meaning": "rajasic"
+        }
+      ],
+      "hindiTranslation": "जो ज्ञान सब भूतों में अलग-अलग नाना प्रकार के भावों को पृथक् रूप से जानता है — उस ज्ञान को राजसिक जानो।",
+      "englishTranslation": "That knowledge which sees in all beings various distinct entities of different types, as separate from one another — know that knowledge to be rajasic.",
+      "commentary": "Rajasic knowledge perceives only diversity without unity. Seeing each being as fundamentally separate and different reflects a fragmented worldview. While this knowledge recognizes multiplicity, it misses the underlying oneness that connects all of existence.",
+      "slug": "verse-21"
+    },
+    {
+      "verseNumber": 22,
+      "speaker": "Krishna",
+      "devanagari": "यत्तु कृत्स्नवदेकस्मिन्कार्ये सक्तमहैतुकम्।\nअतत्त्वार्थवदल्पं च तत्तामसमुदाहृतम्॥",
+      "transliteration": "Yat-tu kritsnavad-ekasmin karye saktam-ahaitukam\nA-tattva-arthavad-alpam cha tat-tamasam-udahritam",
+      "wordByWord": [
+        {
+          "word": "यत् तु",
+          "transliteration": "yat tu",
+          "meaning": "but that which"
+        },
+        {
+          "word": "कृत्स्नवत्",
+          "transliteration": "kritsnavat",
+          "meaning": "as if it were everything"
+        },
+        {
+          "word": "एकस्मिन्",
+          "transliteration": "ekasmin",
+          "meaning": "in one"
+        },
+        {
+          "word": "कार्ये",
+          "transliteration": "karye",
+          "meaning": "work/effect"
+        },
+        {
+          "word": "सक्तम्",
+          "transliteration": "saktam",
+          "meaning": "attached"
+        },
+        {
+          "word": "अहैतुकम्",
+          "transliteration": "ahaitukam",
+          "meaning": "without reason"
+        },
+        {
+          "word": "अतत्त्वार्थवत्",
+          "transliteration": "a-tattva-arthavat",
+          "meaning": "without basis in truth"
+        },
+        {
+          "word": "अल्पम्",
+          "transliteration": "alpam",
+          "meaning": "trivial"
+        },
+        {
+          "word": "तामसम्",
+          "transliteration": "tamasam",
+          "meaning": "tamasic"
+        }
+      ],
+      "hindiTranslation": "जो ज्ञान एक कार्य में ऐसे आसक्त है मानो वही सब कुछ है, बिना युक्ति के, तत्त्वरहित और तुच्छ है — वह तामसिक कहा गया है।",
+      "englishTranslation": "That knowledge which clings to one single effect as if it were everything, without reason, without basis in truth, and trivial — that is declared to be tamasic.",
+      "commentary": "Tamasic knowledge is characterized by narrow obsession with a single aspect mistaken for the whole truth. It lacks rational foundation and grasps at trivial matters with irrational intensity. This distorted perception prevents any genuine understanding of reality.",
+      "slug": "verse-22"
+    },
+    {
+      "verseNumber": 23,
+      "speaker": "Krishna",
+      "devanagari": "नियतं सङ्गरहितमरागद्वेषतः कृतम्।\nअफलप्रेप्सुना कर्म यत्तत्सात्त्विकमुच्यते॥",
+      "transliteration": "Niyatam sanga-rahitam-araga-dveshatah kritam\nAphala-prepsuna karma yat-tat-sattvikam-uchyate",
+      "wordByWord": [
+        {
+          "word": "नियतम्",
+          "transliteration": "niyatam",
+          "meaning": "prescribed"
+        },
+        {
+          "word": "सङ्गरहितम्",
+          "transliteration": "sanga-rahitam",
+          "meaning": "without attachment"
+        },
+        {
+          "word": "अरागद्वेषतः",
+          "transliteration": "araga-dveshatah",
+          "meaning": "without love or hatred"
+        },
+        {
+          "word": "कृतम्",
+          "transliteration": "kritam",
+          "meaning": "performed"
+        },
+        {
+          "word": "अफलप्रेप्सुना",
+          "transliteration": "aphala-prepsuna",
+          "meaning": "by one not desiring fruit"
+        },
+        {
+          "word": "कर्म",
+          "transliteration": "karma",
+          "meaning": "action"
+        },
+        {
+          "word": "यत्",
+          "transliteration": "yat",
+          "meaning": "which"
+        },
+        {
+          "word": "तत्",
+          "transliteration": "tat",
+          "meaning": "that"
+        },
+        {
+          "word": "सात्त्विकम्",
+          "transliteration": "sattvikam",
+          "meaning": "sattvic"
+        }
+      ],
+      "hindiTranslation": "जो कर्म नियत (कर्तव्य) है, आसक्तिरहित, राग-द्वेष से रहित, फल की इच्छा न रखने वाले द्वारा किया गया — वह सात्त्विक कहलाता है।",
+      "englishTranslation": "That action which is prescribed duty, performed without attachment, without love or hatred, by one who does not desire its fruit — that is called sattvic.",
+      "commentary": "Sattvic action combines four key qualities: it is one's genuine duty, done without attachment, free from emotional bias of love or hatred, and performed without craving for results. This verse provides a practical checklist for evaluating the quality of one's actions.",
+      "slug": "verse-23"
+    },
+    {
+      "verseNumber": 24,
+      "speaker": "Krishna",
+      "devanagari": "यत्तु कामेप्सुना कर्म साहङ्कारेण वा पुनः।\nक्रियते बहुलायासं तद्राजसमुदाहृतम्॥",
+      "transliteration": "Yat-tu kamepsuna karma sa-ahankareena va punah\nKriyate bahula-ayasam tad-rajasam-udahritam",
+      "wordByWord": [
+        {
+          "word": "यत् तु",
+          "transliteration": "yat tu",
+          "meaning": "but that which"
+        },
+        {
+          "word": "कामेप्सुना",
+          "transliteration": "kamepsuna",
+          "meaning": "by one desiring results"
+        },
+        {
+          "word": "कर्म",
+          "transliteration": "karma",
+          "meaning": "action"
+        },
+        {
+          "word": "साहङ्कारेण",
+          "transliteration": "sa-ahankareena",
+          "meaning": "with ego"
+        },
+        {
+          "word": "क्रियते",
+          "transliteration": "kriyate",
+          "meaning": "is performed"
+        },
+        {
+          "word": "बहुलायासम्",
+          "transliteration": "bahula-ayasam",
+          "meaning": "with great effort/strain"
+        },
+        {
+          "word": "तत्",
+          "transliteration": "tat",
+          "meaning": "that"
+        },
+        {
+          "word": "राजसम्",
+          "transliteration": "rajasam",
+          "meaning": "rajasic"
+        }
+      ],
+      "hindiTranslation": "जो कर्म फल की कामना से, अहंकार से, अथवा बहुत परिश्रम से किया जाता है — वह राजसिक कहा गया है।",
+      "englishTranslation": "But that action which is performed with great effort by one who desires results, driven by ego — that is declared to be rajasic.",
+      "commentary": "Rajasic action is characterized by self-centered motivation, ego-driven execution, and excessive straining. The desire for personal reward corrupts the action, while the ego takes credit for results. The excessive effort indicates struggling against natural flow rather than acting in harmony with dharma.",
+      "slug": "verse-24"
+    },
+    {
+      "verseNumber": 25,
+      "speaker": "Krishna",
+      "devanagari": "अनुबन्धं क्षयं हिंसामनपेक्ष्य च पौरुषम्।\nमोहादारभ्यते कर्म यत्तत्तामसमुच्यते॥",
+      "transliteration": "Anubandham kshayam himsam-anapekshya cha paurusham\nMohad-arabhyate karma yat-tat-tamasam-uchyate",
+      "wordByWord": [
+        {
+          "word": "अनुबन्धम्",
+          "transliteration": "anubandham",
+          "meaning": "consequences"
+        },
+        {
+          "word": "क्षयम्",
+          "transliteration": "kshayam",
+          "meaning": "loss"
+        },
+        {
+          "word": "हिंसाम्",
+          "transliteration": "himsam",
+          "meaning": "harm to others"
+        },
+        {
+          "word": "अनपेक्ष्य",
+          "transliteration": "anapekshya",
+          "meaning": "without considering"
+        },
+        {
+          "word": "पौरुषम्",
+          "transliteration": "paurusham",
+          "meaning": "one's own capacity"
+        },
+        {
+          "word": "मोहात्",
+          "transliteration": "mohat",
+          "meaning": "from delusion"
+        },
+        {
+          "word": "आरभ्यते",
+          "transliteration": "arabhyate",
+          "meaning": "is begun"
+        },
+        {
+          "word": "कर्म",
+          "transliteration": "karma",
+          "meaning": "action"
+        },
+        {
+          "word": "तामसम्",
+          "transliteration": "tamasam",
+          "meaning": "tamasic"
+        }
+      ],
+      "hindiTranslation": "जो कर्म परिणाम, हानि, दूसरों को हिंसा और अपनी सामर्थ्य का विचार किए बिना, मोहवश आरम्भ किया जाता है — वह तामसिक कहलाता है।",
+      "englishTranslation": "That action which is undertaken out of delusion, without considering consequences, loss, harm to others, or one's own capacity — that is called tamasic.",
+      "commentary": "Tamasic action is fundamentally reckless — undertaken without any consideration of its impact. The disregard for consequences, potential loss, harm to others, and even one's own ability marks this as the most destructive form of action. Delusion drives such heedless behavior.",
+      "slug": "verse-25"
+    },
+    {
+      "verseNumber": 26,
+      "speaker": "Krishna",
+      "devanagari": "मुक्तसङ्गोऽनहंवादी धृत्युत्साहसमन्वितः।\nसिद्ध्यसिद्ध्योर्निर्विकारः कर्ता सात्त्विक उच्यते॥",
+      "transliteration": "Mukta-sango'naham-vadi dhrity-utsaha-samanvitah\nSiddhya-asiddhyor-nirvikarah karta sattvika uchyate",
+      "wordByWord": [
+        {
+          "word": "मुक्तसङ्गः",
+          "transliteration": "mukta-sangah",
+          "meaning": "free from attachment"
+        },
+        {
+          "word": "अनहंवादी",
+          "transliteration": "anaham-vadi",
+          "meaning": "without egotism"
+        },
+        {
+          "word": "धृत्युत्साहसमन्वितः",
+          "transliteration": "dhriti-utsaha-samanvitah",
+          "meaning": "endowed with resolve and enthusiasm"
+        },
+        {
+          "word": "सिद्ध्यसिद्ध्योः",
+          "transliteration": "siddhya-asiddhyoh",
+          "meaning": "in success and failure"
+        },
+        {
+          "word": "निर्विकारः",
+          "transliteration": "nirvikarah",
+          "meaning": "unaffected"
+        },
+        {
+          "word": "कर्ता",
+          "transliteration": "karta",
+          "meaning": "doer"
+        },
+        {
+          "word": "सात्त्विकः",
+          "transliteration": "sattvikah",
+          "meaning": "sattvic"
+        }
+      ],
+      "hindiTranslation": "जो कर्ता आसक्ति से मुक्त, अहंकाररहित, धैर्य और उत्साह से युक्त, सिद्धि और असिद्धि में निर्विकार है — वह सात्त्विक कहलाता है।",
+      "englishTranslation": "The doer who is free from attachment, without egotism, endowed with resolve and enthusiasm, and unaffected by success or failure — is called sattvic.",
+      "commentary": "The sattvic doer combines detachment with active engagement — free from ego yet full of determination and enthusiasm. Most remarkably, such a person remains equanimous in both success and failure. This portrait of the ideal actor shows that inner freedom and outer effectiveness go hand in hand.",
+      "slug": "verse-26"
+    },
+    {
+      "verseNumber": 27,
+      "speaker": "Krishna",
+      "devanagari": "रागी कर्मफलप्रेप्सुर्लुब्धो हिंसात्मकोऽशुचिः।\nहर्षशोकान्वितः कर्ता राजसः परिकीर्तितः॥",
+      "transliteration": "Ragi karma-phala-prepsur-lubdho himsa-atmako'shuchih\nHarsha-shoka-anvitah karta rajasah parikirtitah",
+      "wordByWord": [
+        {
+          "word": "रागी",
+          "transliteration": "ragi",
+          "meaning": "passionate"
+        },
+        {
+          "word": "कर्मफलप्रेप्सुः",
+          "transliteration": "karma-phala-prepsuh",
+          "meaning": "desiring fruits of action"
+        },
+        {
+          "word": "लुब्धः",
+          "transliteration": "lubdhah",
+          "meaning": "greedy"
+        },
+        {
+          "word": "हिंसात्मकः",
+          "transliteration": "himsa-atmakah",
+          "meaning": "of harmful nature"
+        },
+        {
+          "word": "अशुचिः",
+          "transliteration": "ashuchih",
+          "meaning": "impure"
+        },
+        {
+          "word": "हर्षशोकान्वितः",
+          "transliteration": "harsha-shoka-anvitah",
+          "meaning": "subject to joy and sorrow"
+        },
+        {
+          "word": "कर्ता",
+          "transliteration": "karta",
+          "meaning": "doer"
+        },
+        {
+          "word": "राजसः",
+          "transliteration": "rajasah",
+          "meaning": "rajasic"
+        }
+      ],
+      "hindiTranslation": "जो कर्ता आसक्त, कर्मफल की इच्छा रखने वाला, लोभी, हिंसक स्वभाव वाला, अशुद्ध, हर्ष-शोक से युक्त है — वह राजसिक कहा गया है।",
+      "englishTranslation": "The doer who is passionate, who desires the fruits of action, who is greedy, harmful in nature, impure, and subject to joy and sorrow — is called rajasic.",
+      "commentary": "The rajasic doer is characterized by emotional volatility and self-centered motivation. Swinging between elation at success and depression at failure, such a person never finds lasting peace. Greed and willingness to harm others for personal gain further mark this type of actor.",
+      "slug": "verse-27"
+    },
+    {
+      "verseNumber": 28,
+      "speaker": "Krishna",
+      "devanagari": "अयुक्तः प्राकृतः स्तब्धः शठो नैष्कृतिकोऽलसः।\nविषादी दीर्घसूत्री च कर्ता तामस उच्यते॥",
+      "transliteration": "Ayuktah prakritah stabdhah shatho naishkritiko'lasah\nVishadi dirgha-sutri cha karta tamasa uchyate",
+      "wordByWord": [
+        {
+          "word": "अयुक्तः",
+          "transliteration": "ayuktah",
+          "meaning": "undisciplined"
+        },
+        {
+          "word": "प्राकृतः",
+          "transliteration": "prakritah",
+          "meaning": "vulgar"
+        },
+        {
+          "word": "स्तब्धः",
+          "transliteration": "stabdhah",
+          "meaning": "obstinate"
+        },
+        {
+          "word": "शठः",
+          "transliteration": "shathah",
+          "meaning": "deceitful"
+        },
+        {
+          "word": "नैष्कृतिकः",
+          "transliteration": "naishkritikah",
+          "meaning": "malicious"
+        },
+        {
+          "word": "अलसः",
+          "transliteration": "alasah",
+          "meaning": "lazy"
+        },
+        {
+          "word": "विषादी",
+          "transliteration": "vishadi",
+          "meaning": "despondent"
+        },
+        {
+          "word": "दीर्घसूत्री",
+          "transliteration": "dirgha-sutri",
+          "meaning": "procrastinating"
+        },
+        {
+          "word": "कर्ता",
+          "transliteration": "karta",
+          "meaning": "doer"
+        },
+        {
+          "word": "तामसः",
+          "transliteration": "tamasah",
+          "meaning": "tamasic"
+        }
+      ],
+      "hindiTranslation": "जो कर्ता अयुक्त (अनुशासनहीन), असभ्य, हठी, धूर्त, दुष्ट, आलसी, विषादी और दीर्घसूत्री (काम टालने वाला) है — वह तामसिक कहलाता है।",
+      "englishTranslation": "The doer who is undisciplined, vulgar, obstinate, deceitful, malicious, lazy, despondent, and procrastinating — is called tamasic.",
+      "commentary": "The tamasic doer combines the worst qualities: lack of discipline, dishonesty, malice, and chronic laziness. Procrastination and despondency ensure that even when tasks are attempted, they are done poorly and late. This profile serves as a mirror for self-examination and motivation to rise above tamas.",
+      "slug": "verse-28"
+    },
+    {
+      "verseNumber": 29,
+      "speaker": "Krishna",
+      "devanagari": "बुद्धेर्भेदं धृतेश्चैव गुणतस्त्रिविधं शृणु।\nप्रोच्यमानमशेषेण पृथक्त्वेन धनञ्जय॥",
+      "transliteration": "Buddher-bhedam dhritesh-chaiva gunatas-trividham shrinu\nProchyamanam-asheshena prithaktvena Dhananjaya",
+      "wordByWord": [
+        {
+          "word": "बुद्धेः",
+          "transliteration": "buddheh",
+          "meaning": "of intellect"
+        },
+        {
+          "word": "भेदम्",
+          "transliteration": "bhedam",
+          "meaning": "distinction"
+        },
+        {
+          "word": "धृतेः",
+          "transliteration": "dhriteh",
+          "meaning": "of resolve"
+        },
+        {
+          "word": "गुणतः",
+          "transliteration": "gunatah",
+          "meaning": "according to gunas"
+        },
+        {
+          "word": "त्रिविधम्",
+          "transliteration": "trividham",
+          "meaning": "threefold"
+        },
+        {
+          "word": "शृणु",
+          "transliteration": "shrinu",
+          "meaning": "hear"
+        },
+        {
+          "word": "प्रोच्यमानम्",
+          "transliteration": "prochyamanam",
+          "meaning": "being described"
+        },
+        {
+          "word": "अशेषेण",
+          "transliteration": "asheshena",
+          "meaning": "completely"
+        },
+        {
+          "word": "पृथक्त्वेन",
+          "transliteration": "prithaktvena",
+          "meaning": "separately"
+        },
+        {
+          "word": "धनञ्जय",
+          "transliteration": "Dhananjaya",
+          "meaning": "O Dhananjaya"
+        }
+      ],
+      "hindiTranslation": "हे धनञ्जय! अब गुणों के अनुसार बुद्धि और धृति (धैर्य) का भी त्रिविध भेद मुझसे सम्पूर्ण रूप से पृथक्-पृथक् सुनो।",
+      "englishTranslation": "Now hear from Me, O Dhananjaya, the threefold distinction of intellect and also of resolve, described fully and separately according to the gunas.",
+      "commentary": "Krishna extends the three-guna classification to intellect and resolve — two key inner faculties that shape all decision-making. By understanding which guna governs one's thinking and willpower, a seeker can work on upgrading these faculties toward sattva.",
+      "slug": "verse-29"
+    },
+    {
+      "verseNumber": 30,
+      "speaker": "Krishna",
+      "devanagari": "प्रवृत्तिं च निवृत्तिं च कार्याकार्ये भयाभये।\nबन्धं मोक्षं च या वेत्ति बुद्धिः सा पार्थ सात्त्विकी॥",
+      "transliteration": "Pravrittim cha nivrittim cha karya-akarye bhaya-abhaye\nBandham moksham cha ya vetti buddhih sa Partha sattviki",
+      "wordByWord": [
+        {
+          "word": "प्रवृत्तिम्",
+          "transliteration": "pravrittim",
+          "meaning": "what to engage in"
+        },
+        {
+          "word": "निवृत्तिम्",
+          "transliteration": "nivrittim",
+          "meaning": "what to refrain from"
+        },
+        {
+          "word": "कार्याकार्ये",
+          "transliteration": "karya-akarye",
+          "meaning": "duty and non-duty"
+        },
+        {
+          "word": "भयाभये",
+          "transliteration": "bhaya-abhaye",
+          "meaning": "what to fear and not fear"
+        },
+        {
+          "word": "बन्धम्",
+          "transliteration": "bandham",
+          "meaning": "bondage"
+        },
+        {
+          "word": "मोक्षम्",
+          "transliteration": "moksham",
+          "meaning": "liberation"
+        },
+        {
+          "word": "या वेत्ति",
+          "transliteration": "ya vetti",
+          "meaning": "which knows"
+        },
+        {
+          "word": "बुद्धिः",
+          "transliteration": "buddhih",
+          "meaning": "intellect"
+        },
+        {
+          "word": "सा",
+          "transliteration": "sa",
+          "meaning": "that"
+        },
+        {
+          "word": "सात्त्विकी",
+          "transliteration": "sattviki",
+          "meaning": "sattvic"
+        }
+      ],
+      "hindiTranslation": "हे पार्थ! जो बुद्धि प्रवृत्ति और निवृत्ति, कर्तव्य और अकर्तव्य, भय और अभय, बन्धन और मोक्ष को जानती है — वह सात्त्विकी है।",
+      "englishTranslation": "O Partha, the intellect which knows what to engage in and what to refrain from, what is duty and what is not, what to fear and what not to fear, what binds and what liberates — that is sattvic.",
+      "commentary": "Sattvic intellect possesses clear discernment across all dimensions of life: action vs. inaction, duty vs. non-duty, real danger vs. imaginary fear, and bondage vs. liberation. This comprehensive wisdom enables right choices at every junction. Such an intellect is the greatest asset on the spiritual path.",
+      "slug": "verse-30"
+    },
+    {
+      "verseNumber": 31,
+      "speaker": "Krishna",
+      "devanagari": "यया धर्ममधर्मं च कार्यं चाकार्यमेव च।\nअयथावत्प्रजानाति बुद्धिः सा पार्थ राजसी॥",
+      "transliteration": "Yaya dharmam-adharmam cha karyam cha-akaryam-eva cha\nAyathavat-prajanati buddhih sa Partha rajasi",
+      "wordByWord": [
+        {
+          "word": "यया",
+          "transliteration": "yaya",
+          "meaning": "by which"
+        },
+        {
+          "word": "धर्मम्",
+          "transliteration": "dharmam",
+          "meaning": "righteousness"
+        },
+        {
+          "word": "अधर्मम्",
+          "transliteration": "adharmam",
+          "meaning": "unrighteousness"
+        },
+        {
+          "word": "कार्यम्",
+          "transliteration": "karyam",
+          "meaning": "what should be done"
+        },
+        {
+          "word": "अकार्यम्",
+          "transliteration": "akaryam",
+          "meaning": "what should not be done"
+        },
+        {
+          "word": "अयथावत्",
+          "transliteration": "ayathavat",
+          "meaning": "incorrectly"
+        },
+        {
+          "word": "प्रजानाति",
+          "transliteration": "prajanati",
+          "meaning": "understands"
+        },
+        {
+          "word": "बुद्धिः",
+          "transliteration": "buddhih",
+          "meaning": "intellect"
+        },
+        {
+          "word": "राजसी",
+          "transliteration": "rajasi",
+          "meaning": "rajasic"
+        }
+      ],
+      "hindiTranslation": "हे पार्थ! जो बुद्धि धर्म-अधर्म और कर्तव्य-अकर्तव्य को ठीक से नहीं जानती — वह राजसी है।",
+      "englishTranslation": "O Partha, the intellect which incorrectly understands dharma and adharma, and what should and should not be done — that is rajasic.",
+      "commentary": "Rajasic intellect possesses some discriminative ability but is distorted by passion and self-interest. It confuses right with wrong and duty with non-duty. This partially clouded understanding leads to misguided decisions and actions that create suffering.",
+      "slug": "verse-31"
+    },
+    {
+      "verseNumber": 32,
+      "speaker": "Krishna",
+      "devanagari": "अधर्मं धर्ममिति या मन्यते तमसावृता।\nसर्वार्थान्विपरीतांश्च बुद्धिः सा पार्थ तामसी॥",
+      "transliteration": "Adharmam dharmam-iti ya manyate tamasa-avrita\nSarva-arthan viparitamsh-cha buddhih sa Partha tamasi",
+      "wordByWord": [
+        {
+          "word": "अधर्मम्",
+          "transliteration": "adharmam",
+          "meaning": "unrighteousness"
+        },
+        {
+          "word": "धर्मम्",
+          "transliteration": "dharmam",
+          "meaning": "as righteousness"
+        },
+        {
+          "word": "इति",
+          "transliteration": "iti",
+          "meaning": "thus"
+        },
+        {
+          "word": "या मन्यते",
+          "transliteration": "ya manyate",
+          "meaning": "which considers"
+        },
+        {
+          "word": "तमसा आवृता",
+          "transliteration": "tamasa avrita",
+          "meaning": "covered by darkness"
+        },
+        {
+          "word": "सर्वार्थान्",
+          "transliteration": "sarva-arthan",
+          "meaning": "all things"
+        },
+        {
+          "word": "विपरीतान्",
+          "transliteration": "viparitan",
+          "meaning": "in a perverted way"
+        },
+        {
+          "word": "बुद्धिः",
+          "transliteration": "buddhih",
+          "meaning": "intellect"
+        },
+        {
+          "word": "तामसी",
+          "transliteration": "tamasi",
+          "meaning": "tamasic"
+        }
+      ],
+      "hindiTranslation": "हे पार्थ! जो बुद्धि तमोगुण से आवृत होकर अधर्म को धर्म मानती है और सब बातों को उलटा समझती है — वह तामसी है।",
+      "englishTranslation": "O Partha, the intellect which, enveloped in darkness, considers adharma to be dharma and sees all things in a perverted way — that is tamasic.",
+      "commentary": "Tamasic intellect is completely inverted — it sees wrong as right and right as wrong. Enveloped in the darkness of ignorance, it perceives everything in reverse. This is the most dangerous state because the person sincerely believes their distorted view is correct.",
+      "slug": "verse-32"
+    },
+    {
+      "verseNumber": 33,
+      "speaker": "Krishna",
+      "devanagari": "धृत्या यया धारयते मनःप्राणेन्द्रियक्रियाः।\nयोगेनाव्यभिचारिण्या धृतिः सा पार्थ सात्त्विकी॥",
+      "transliteration": "Dhritya yaya dharayate manah-prana-indriya-kriyah\nYogena-avyabhicharinya dhritih sa Partha sattviki",
+      "wordByWord": [
+        {
+          "word": "धृत्या",
+          "transliteration": "dhritya",
+          "meaning": "by resolve"
+        },
+        {
+          "word": "यया",
+          "transliteration": "yaya",
+          "meaning": "by which"
+        },
+        {
+          "word": "धारयते",
+          "transliteration": "dharayate",
+          "meaning": "one sustains"
+        },
+        {
+          "word": "मनःप्राणेन्द्रियक्रियाः",
+          "transliteration": "manah-prana-indriya-kriyah",
+          "meaning": "activities of mind, life-force and senses"
+        },
+        {
+          "word": "योगेन",
+          "transliteration": "yogena",
+          "meaning": "through yoga"
+        },
+        {
+          "word": "अव्यभिचारिण्या",
+          "transliteration": "avyabhicharinya",
+          "meaning": "unwavering"
+        },
+        {
+          "word": "धृतिः",
+          "transliteration": "dhritih",
+          "meaning": "resolve"
+        },
+        {
+          "word": "सात्त्विकी",
+          "transliteration": "sattviki",
+          "meaning": "sattvic"
+        }
+      ],
+      "hindiTranslation": "हे पार्थ! जिस अव्यभिचारिणी (अटल) धृति से योग द्वारा मन, प्राण और इन्द्रियों की क्रियाओं को धारण किया जाता है — वह धृति सात्त्विकी है।",
+      "englishTranslation": "O Partha, the unwavering resolve by which one sustains the activities of the mind, life-force, and senses through the practice of yoga — that resolve is sattvic.",
+      "commentary": "Sattvic resolve is steady and unwavering, maintaining control over mind, body, and senses through consistent yogic practice. This kind of determination does not waver with changing circumstances or temporary difficulties. It is the backbone of sustained spiritual practice.",
+      "slug": "verse-33"
+    },
+    {
+      "verseNumber": 34,
+      "speaker": "Krishna",
+      "devanagari": "यया तु धर्मकामार्थान्धृत्या धारयतेऽर्जुन।\nप्रसङ्गेन फलाकाङ्क्षी धृतिः सा पार्थ राजसी॥",
+      "transliteration": "Yaya tu dharma-kama-arthan dhritya dharayate'rjuna\nPrasangena phala-akankshi dhritih sa Partha rajasi",
+      "wordByWord": [
+        {
+          "word": "यया",
+          "transliteration": "yaya",
+          "meaning": "by which"
+        },
+        {
+          "word": "धर्मकामार्थान्",
+          "transliteration": "dharma-kama-arthan",
+          "meaning": "dharma, desire and wealth"
+        },
+        {
+          "word": "धृत्या",
+          "transliteration": "dhritya",
+          "meaning": "by resolve"
+        },
+        {
+          "word": "धारयते",
+          "transliteration": "dharayate",
+          "meaning": "one holds"
+        },
+        {
+          "word": "प्रसङ्गेन",
+          "transliteration": "prasangena",
+          "meaning": "with attachment"
+        },
+        {
+          "word": "फलाकाङ्क्षी",
+          "transliteration": "phala-akankshi",
+          "meaning": "desiring results"
+        },
+        {
+          "word": "धृतिः",
+          "transliteration": "dhritih",
+          "meaning": "resolve"
+        },
+        {
+          "word": "राजसी",
+          "transliteration": "rajasi",
+          "meaning": "rajasic"
+        }
+      ],
+      "hindiTranslation": "हे पार्थ! जिस धृति से मनुष्य आसक्तिपूर्वक धर्म, काम और अर्थ को धारण करता है, फल की इच्छा रखता है — वह राजसी धृति है।",
+      "englishTranslation": "O Partha, the resolve by which one clings to dharma, pleasure, and wealth with attachment and desire for results — that resolve is rajasic.",
+      "commentary": "Rajasic resolve pursues the three worldly goals — righteousness, pleasure, and wealth — but with attachment and expectation of reward. While these pursuits are not wrong in themselves, the clinging and craving that accompany them keep the soul bound. This resolve fluctuates based on expected outcomes.",
+      "slug": "verse-34"
+    },
+    {
+      "verseNumber": 35,
+      "speaker": "Krishna",
+      "devanagari": "यया स्वप्नं भयं शोकं विषादं मदमेव च।\nन विमुञ्चति दुर्मेधा धृतिः सा पार्थ तामसी॥",
+      "transliteration": "Yaya svapnam bhayam shokam vishadam madam-eva cha\nNa vimunchati durmedha dhritih sa Partha tamasi",
+      "wordByWord": [
+        {
+          "word": "यया",
+          "transliteration": "yaya",
+          "meaning": "by which"
+        },
+        {
+          "word": "स्वप्नम्",
+          "transliteration": "svapnam",
+          "meaning": "sleep/dreaming"
+        },
+        {
+          "word": "भयम्",
+          "transliteration": "bhayam",
+          "meaning": "fear"
+        },
+        {
+          "word": "शोकम्",
+          "transliteration": "shokam",
+          "meaning": "grief"
+        },
+        {
+          "word": "विषादम्",
+          "transliteration": "vishadam",
+          "meaning": "depression"
+        },
+        {
+          "word": "मदम्",
+          "transliteration": "madam",
+          "meaning": "intoxication"
+        },
+        {
+          "word": "न विमुञ्चति",
+          "transliteration": "na vimunchati",
+          "meaning": "does not give up"
+        },
+        {
+          "word": "दुर्मेधा",
+          "transliteration": "durmedha",
+          "meaning": "of dull mind"
+        },
+        {
+          "word": "धृतिः",
+          "transliteration": "dhritih",
+          "meaning": "resolve"
+        },
+        {
+          "word": "तामसी",
+          "transliteration": "tamasi",
+          "meaning": "tamasic"
+        }
+      ],
+      "hindiTranslation": "हे पार्थ! जिस धृति से दुर्बुद्धि मनुष्य नींद, भय, शोक, विषाद और मद को नहीं छोड़ता — वह तामसी धृति है।",
+      "englishTranslation": "O Partha, the resolve by which a dull-minded person does not give up excessive sleep, fear, grief, depression, and intoxication — that resolve is tamasic.",
+      "commentary": "Tamasic resolve is stubbornly clinging to self-destructive patterns — oversleeping, constant fear, grief, depression, and addictive behaviors. Ironically, this is determination applied in the wrong direction, making negative habits even harder to break. It represents the misuse of willpower.",
+      "slug": "verse-35"
+    },
+    {
+      "verseNumber": 36,
+      "speaker": "Krishna",
+      "devanagari": "सुखं त्विदानीं त्रिविधं शृणु मे भरतर्षभ।\nअभ्यासाद्रमते यत्र दुःखान्तं च निगच्छति॥",
+      "transliteration": "Sukham tv-idanim trividham shrinu me Bharata-rishabha\nAbhyasad-ramate yatra duhkha-antam cha nigachchhati",
+      "wordByWord": [
+        {
+          "word": "सुखम्",
+          "transliteration": "sukham",
+          "meaning": "happiness"
+        },
+        {
+          "word": "इदानीम्",
+          "transliteration": "idanim",
+          "meaning": "now"
+        },
+        {
+          "word": "त्रिविधम्",
+          "transliteration": "trividham",
+          "meaning": "threefold"
+        },
+        {
+          "word": "शृणु",
+          "transliteration": "shrinu",
+          "meaning": "hear"
+        },
+        {
+          "word": "भरतर्षभ",
+          "transliteration": "Bharata-rishabha",
+          "meaning": "O best of Bharatas"
+        },
+        {
+          "word": "अभ्यासात्",
+          "transliteration": "abhyasat",
+          "meaning": "through practice"
+        },
+        {
+          "word": "रमते",
+          "transliteration": "ramate",
+          "meaning": "delights"
+        },
+        {
+          "word": "यत्र",
+          "transliteration": "yatra",
+          "meaning": "where"
+        },
+        {
+          "word": "दुःखान्तम्",
+          "transliteration": "duhkha-antam",
+          "meaning": "end of suffering"
+        },
+        {
+          "word": "निगच्छति",
+          "transliteration": "nigachchhati",
+          "meaning": "reaches"
+        }
+      ],
+      "hindiTranslation": "हे भरतर्षभ! अब तीन प्रकार के सुख को मुझसे सुनो — जिसमें अभ्यास से आनन्द मिलता है और दुःख का अन्त होता है।",
+      "englishTranslation": "Now hear from Me, O best of Bharatas, about the threefold happiness. That happiness in which one delights through practice and in which suffering comes to an end —",
+      "commentary": "Krishna now classifies happiness itself by the three gunas. The introduction highlights a key principle: genuine happiness requires practice and patience but ultimately leads to the cessation of all suffering. This counters the illusion that instant gratification equals true happiness.",
+      "slug": "verse-36"
+    },
+    {
+      "verseNumber": 37,
+      "speaker": "Krishna",
+      "devanagari": "यत्तदग्रे विषमिव परिणामेऽमृतोपमम्।\nतत्सुखं सात्त्विकं प्रोक्तमात्मबुद्धिप्रसादजम्॥",
+      "transliteration": "Yat-tad-agre visham-iva pariname'mrita-upamam\nTat-sukham sattvikam proktam-atma-buddhi-prasada-jam",
+      "wordByWord": [
+        {
+          "word": "यत्",
+          "transliteration": "yat",
+          "meaning": "which"
+        },
+        {
+          "word": "अग्रे",
+          "transliteration": "agre",
+          "meaning": "in the beginning"
+        },
+        {
+          "word": "विषम् इव",
+          "transliteration": "visham iva",
+          "meaning": "like poison"
+        },
+        {
+          "word": "परिणामे",
+          "transliteration": "pariname",
+          "meaning": "in the end"
+        },
+        {
+          "word": "अमृतोपमम्",
+          "transliteration": "amrita-upamam",
+          "meaning": "like nectar"
+        },
+        {
+          "word": "तत् सुखम्",
+          "transliteration": "tat sukham",
+          "meaning": "that happiness"
+        },
+        {
+          "word": "सात्त्विकम्",
+          "transliteration": "sattvikam",
+          "meaning": "sattvic"
+        },
+        {
+          "word": "आत्मबुद्धिप्रसादजम्",
+          "transliteration": "atma-buddhi-prasada-jam",
+          "meaning": "born of self-knowledge and clarity"
+        }
+      ],
+      "hindiTranslation": "जो सुख आरम्भ में विष के समान किन्तु परिणाम में अमृत के समान होता है, जो आत्म-बुद्धि की प्रसन्नता से उत्पन्न होता है — वह सात्त्विक सुख कहा गया है।",
+      "englishTranslation": "That happiness which is like poison in the beginning but like nectar in the end, born of the clarity of self-knowledge — that is declared to be sattvic.",
+      "commentary": "One of the most profound verses on happiness. Spiritual practice, discipline, and self-knowledge may feel difficult initially — like poison to the ego. But their fruits are eternal bliss — like nectar. This verse teaches patience: the highest joy requires initial effort and self-discipline.",
+      "slug": "verse-37"
+    },
+    {
+      "verseNumber": 38,
+      "speaker": "Krishna",
+      "devanagari": "विषयेन्द्रियसंयोगाद्यत्तदग्रेऽमृतोपमम्।\nपरिणामे विषमिव तत्सुखं राजसं स्मृतम्॥",
+      "transliteration": "Vishaya-indriya-samyogad-yat-tad-agre'mrita-upamam\nPariname visham-iva tat-sukham rajasam smritam",
+      "wordByWord": [
+        {
+          "word": "विषयेन्द्रियसंयोगात्",
+          "transliteration": "vishaya-indriya-samyogat",
+          "meaning": "from contact of senses with objects"
+        },
+        {
+          "word": "यत्",
+          "transliteration": "yat",
+          "meaning": "which"
+        },
+        {
+          "word": "अग्रे",
+          "transliteration": "agre",
+          "meaning": "in the beginning"
+        },
+        {
+          "word": "अमृतोपमम्",
+          "transliteration": "amrita-upamam",
+          "meaning": "like nectar"
+        },
+        {
+          "word": "परिणामे",
+          "transliteration": "pariname",
+          "meaning": "in the end"
+        },
+        {
+          "word": "विषम् इव",
+          "transliteration": "visham iva",
+          "meaning": "like poison"
+        },
+        {
+          "word": "तत् सुखम्",
+          "transliteration": "tat sukham",
+          "meaning": "that happiness"
+        },
+        {
+          "word": "राजसम्",
+          "transliteration": "rajasam",
+          "meaning": "rajasic"
+        }
+      ],
+      "hindiTranslation": "जो सुख इन्द्रिय और विषय के संयोग से उत्पन्न होता है — आरम्भ में अमृत के समान, किन्तु परिणाम में विष के समान — वह राजसिक सुख है।",
+      "englishTranslation": "That happiness which arises from the contact of the senses with their objects, which is like nectar in the beginning but like poison in the end — that is considered rajasic.",
+      "commentary": "Rajasic happiness is the exact opposite of sattvic — immediately pleasurable but ultimately painful. Sensory pleasures feel wonderful initially but lead to addiction, dissatisfaction, and suffering. This verse captures the deceptive nature of worldly pleasures that trap people in endless cycles of craving.",
+      "slug": "verse-38"
+    },
+    {
+      "verseNumber": 39,
+      "speaker": "Krishna",
+      "devanagari": "यदग्रे चानुबन्धे च सुखं मोहनमात्मनः।\nनिद्रालस्यप्रमादोत्थं तत्तामसमुदाहृतम्॥",
+      "transliteration": "Yad-agre cha-anubandhe cha sukham mohanam-atmanah\nNidra-alasya-pramada-uttham tat-tamasam-udahritam",
+      "wordByWord": [
+        {
+          "word": "यत्",
+          "transliteration": "yat",
+          "meaning": "which"
+        },
+        {
+          "word": "अग्रे",
+          "transliteration": "agre",
+          "meaning": "in the beginning"
+        },
+        {
+          "word": "अनुबन्धे",
+          "transliteration": "anubandhe",
+          "meaning": "in the end"
+        },
+        {
+          "word": "सुखम्",
+          "transliteration": "sukham",
+          "meaning": "happiness"
+        },
+        {
+          "word": "मोहनम्",
+          "transliteration": "mohanam",
+          "meaning": "deluding"
+        },
+        {
+          "word": "आत्मनः",
+          "transliteration": "atmanah",
+          "meaning": "of the self"
+        },
+        {
+          "word": "निद्रा",
+          "transliteration": "nidra",
+          "meaning": "sleep"
+        },
+        {
+          "word": "आलस्य",
+          "transliteration": "alasya",
+          "meaning": "laziness"
+        },
+        {
+          "word": "प्रमादोत्थम्",
+          "transliteration": "pramada-uttham",
+          "meaning": "born of negligence"
+        },
+        {
+          "word": "तामसम्",
+          "transliteration": "tamasam",
+          "meaning": "tamasic"
+        }
+      ],
+      "hindiTranslation": "जो सुख आरम्भ में और बाद में भी आत्मा को मोहित करने वाला है, जो निद्रा, आलस्य और प्रमाद से उत्पन्न होता है — वह तामसिक कहा गया है।",
+      "englishTranslation": "That happiness which deludes the self both in the beginning and in the end, arising from sleep, laziness, and negligence — that is declared to be tamasic.",
+      "commentary": "Tamasic happiness is delusory from start to finish — it is never real joy but merely the dull comfort of ignorance, excessive sleep, and carelessness. Unlike rajasic pleasure which at least starts pleasantly, tamasic comfort never truly satisfies because it is rooted in unconsciousness and avoidance of reality.",
+      "slug": "verse-39"
+    },
+    {
+      "verseNumber": 40,
+      "speaker": "Krishna",
+      "devanagari": "न तदस्ति पृथिव्यां वा दिवि देवेषु वा पुनः।\nसत्त्वं प्रकृतिजैर्मुक्तं यदेभिः स्यात्त्रिभिर्गुणैः॥",
+      "transliteration": "Na tad-asti prithivyam va divi deveshu va punah\nSattvam prakriti-jair-muktam yad-ebhih syat-tribhir-gunaih",
+      "wordByWord": [
+        {
+          "word": "न तत् अस्ति",
+          "transliteration": "na tat asti",
+          "meaning": "there is no such thing"
+        },
+        {
+          "word": "पृथिव्याम्",
+          "transliteration": "prithivyam",
+          "meaning": "on earth"
+        },
+        {
+          "word": "दिवि",
+          "transliteration": "divi",
+          "meaning": "in heaven"
+        },
+        {
+          "word": "देवेषु",
+          "transliteration": "deveshu",
+          "meaning": "among the gods"
+        },
+        {
+          "word": "सत्त्वम्",
+          "transliteration": "sattvam",
+          "meaning": "being/entity"
+        },
+        {
+          "word": "प्रकृतिजैः",
+          "transliteration": "prakriti-jaih",
+          "meaning": "born of prakriti (nature)"
+        },
+        {
+          "word": "मुक्तम्",
+          "transliteration": "muktam",
+          "meaning": "free"
+        },
+        {
+          "word": "त्रिभिः गुणैः",
+          "transliteration": "tribhih gunaih",
+          "meaning": "from the three gunas"
+        }
+      ],
+      "hindiTranslation": "पृथ्वी पर या स्वर्ग में देवताओं में — ऐसा कोई भी प्राणी नहीं है जो प्रकृति से उत्पन्न इन तीनों गुणों से मुक्त हो।",
+      "englishTranslation": "There is no being on earth or in heaven among the gods that is free from these three gunas born of material nature.",
+      "commentary": "This universal statement emphasizes that all embodied beings — from the lowliest creature to the most exalted god — are under the influence of the three gunas. No one in material existence is exempt. This understanding fosters humility and motivates the aspiration to transcend the gunas through spiritual realization.",
+      "slug": "verse-40"
+    },
+    {
+      "verseNumber": 41,
+      "speaker": "Krishna",
+      "devanagari": "ब्राह्मणक्षत्रियविशां शूद्राणां च परन्तप।\nकर्माणि प्रविभक्तानि स्वभावप्रभवैर्गुणैः॥",
+      "transliteration": "Brahmana-kshatriya-visham shudranam cha Parantapa\nKarmani pravibhaktani svabhava-prabhavair-gunaih",
+      "wordByWord": [
+        {
+          "word": "ब्राह्मण",
+          "transliteration": "Brahmana",
+          "meaning": "Brahmanas"
+        },
+        {
+          "word": "क्षत्रिय",
+          "transliteration": "Kshatriya",
+          "meaning": "Kshatriyas"
+        },
+        {
+          "word": "विशाम्",
+          "transliteration": "visham",
+          "meaning": "Vaishyas"
+        },
+        {
+          "word": "शूद्राणाम्",
+          "transliteration": "Shudranam",
+          "meaning": "Shudras"
+        },
+        {
+          "word": "परन्तप",
+          "transliteration": "Parantapa",
+          "meaning": "O scorcher of foes"
+        },
+        {
+          "word": "कर्माणि",
+          "transliteration": "karmani",
+          "meaning": "duties"
+        },
+        {
+          "word": "प्रविभक्तानि",
+          "transliteration": "pravibhaktani",
+          "meaning": "are divided"
+        },
+        {
+          "word": "स्वभावप्रभवैः",
+          "transliteration": "svabhava-prabhavaih",
+          "meaning": "born of their own nature"
+        },
+        {
+          "word": "गुणैः",
+          "transliteration": "gunaih",
+          "meaning": "by the gunas"
+        }
+      ],
+      "hindiTranslation": "हे परन्तप! ब्राह्मण, क्षत्रिय, वैश्य और शूद्रों के कर्म उनके स्वभाव से उत्पन्न गुणों के अनुसार विभाजित किए गए हैं।",
+      "englishTranslation": "O Parantapa, the duties of Brahmanas, Kshatriyas, Vaishyas, and Shudras are distributed according to the qualities born of their own natures.",
+      "commentary": "This verse describes the Varna system as based on innate qualities (gunas) and natural tendencies (svabhava), not birth. The emphasis on 'born of their own nature' indicates that one's natural disposition determines one's most suitable role in society. This is a functional classification, not a rigid hereditary hierarchy.",
+      "slug": "verse-41"
+    },
+    {
+      "verseNumber": 42,
+      "speaker": "Krishna",
+      "devanagari": "शमो दमस्तपः शौचं क्षान्तिरार्जवमेव च।\nज्ञानं विज्ञानमास्तिक्यं ब्रह्मकर्म स्वभावजम्॥",
+      "transliteration": "Shamo damas-tapah shaucham kshantir-arjavam-eva cha\nJnanam vijnanam-astikyam Brahma-karma svabhava-jam",
+      "wordByWord": [
+        {
+          "word": "शमः",
+          "transliteration": "shamah",
+          "meaning": "tranquility"
+        },
+        {
+          "word": "दमः",
+          "transliteration": "damah",
+          "meaning": "self-control"
+        },
+        {
+          "word": "तपः",
+          "transliteration": "tapah",
+          "meaning": "austerity"
+        },
+        {
+          "word": "शौचम्",
+          "transliteration": "shaucham",
+          "meaning": "purity"
+        },
+        {
+          "word": "क्षान्तिः",
+          "transliteration": "kshantih",
+          "meaning": "patience"
+        },
+        {
+          "word": "आर्जवम्",
+          "transliteration": "arjavam",
+          "meaning": "honesty"
+        },
+        {
+          "word": "ज्ञानम्",
+          "transliteration": "jnanam",
+          "meaning": "knowledge"
+        },
+        {
+          "word": "विज्ञानम्",
+          "transliteration": "vijnanam",
+          "meaning": "wisdom"
+        },
+        {
+          "word": "आस्तिक्यम्",
+          "transliteration": "astikyam",
+          "meaning": "faith in God"
+        },
+        {
+          "word": "ब्रह्मकर्म",
+          "transliteration": "Brahma-karma",
+          "meaning": "duty of a Brahmana"
+        },
+        {
+          "word": "स्वभावजम्",
+          "transliteration": "svabhava-jam",
+          "meaning": "born of nature"
+        }
+      ],
+      "hindiTranslation": "शम (मन की शान्ति), दम (इन्द्रिय संयम), तप, शौच, क्षमा, सरलता, ज्ञान, विज्ञान और आस्तिकता — ये ब्राह्मण के स्वभावजन्य कर्म हैं।",
+      "englishTranslation": "Tranquility, self-control, austerity, purity, patience, honesty, knowledge, wisdom, and faith in God — these are the natural duties of a Brahmana.",
+      "commentary": "The Brahmana's natural duty centers on intellectual and spiritual qualities: inner peace, discipline, study, and devotion to truth. These qualities make them natural teachers and spiritual guides. The emphasis on svabhava (nature) means these qualities define a Brahmana, not birth in a particular family.",
+      "slug": "verse-42"
+    },
+    {
+      "verseNumber": 43,
+      "speaker": "Krishna",
+      "devanagari": "शौर्यं तेजो धृतिर्दाक्ष्यं युद्धे चाप्यपलायनम्।\nदानमीश्वरभावश्च क्षात्रं कर्म स्वभावजम्॥",
+      "transliteration": "Shauryam tejo dhritir-dakshyam yuddhe cha-apy-apalayanam\nDanam-ishvara-bhavash-cha kshatram karma svabhava-jam",
+      "wordByWord": [
+        {
+          "word": "शौर्यम्",
+          "transliteration": "shauryam",
+          "meaning": "heroism"
+        },
+        {
+          "word": "तेजः",
+          "transliteration": "tejah",
+          "meaning": "vigor"
+        },
+        {
+          "word": "धृतिः",
+          "transliteration": "dhritih",
+          "meaning": "firmness"
+        },
+        {
+          "word": "दाक्ष्यम्",
+          "transliteration": "dakshyam",
+          "meaning": "skill"
+        },
+        {
+          "word": "युद्धे",
+          "transliteration": "yuddhe",
+          "meaning": "in battle"
+        },
+        {
+          "word": "अपलायनम्",
+          "transliteration": "apalayanam",
+          "meaning": "not fleeing"
+        },
+        {
+          "word": "दानम्",
+          "transliteration": "danam",
+          "meaning": "generosity"
+        },
+        {
+          "word": "ईश्वरभावः",
+          "transliteration": "ishvara-bhavah",
+          "meaning": "leadership quality"
+        },
+        {
+          "word": "क्षात्रम् कर्म",
+          "transliteration": "kshatram karma",
+          "meaning": "duty of a Kshatriya"
+        },
+        {
+          "word": "स्वभावजम्",
+          "transliteration": "svabhava-jam",
+          "meaning": "born of nature"
+        }
+      ],
+      "hindiTranslation": "शौर्य, तेज, धैर्य, कुशलता, युद्ध में पीठ न दिखाना, दान और ईश्वरभाव (नेतृत्व) — ये क्षत्रिय के स्वभावजन्य कर्म हैं।",
+      "englishTranslation": "Heroism, vigor, firmness, skill, not fleeing from battle, generosity, and leadership — these are the natural duties of a Kshatriya.",
+      "commentary": "The Kshatriya's nature is defined by courage, strength, and the capacity to protect and lead. Not fleeing from battle is particularly relevant to Arjuna's situation. These qualities describe someone naturally suited for governance, defense, and the responsible exercise of power.",
+      "slug": "verse-43"
+    },
+    {
+      "verseNumber": 44,
+      "speaker": "Krishna",
+      "devanagari": "कृषिगौरक्ष्यवाणिज्यं वैश्यकर्म स्वभावजम्।\nपरिचर्यात्मकं कर्म शूद्रस्यापि स्वभावजम्॥",
+      "transliteration": "Krishi-gau-rakshya-vanijyam Vaishya-karma svabhava-jam\nParicharya-atmakam karma Shudrasya-api svabhava-jam",
+      "wordByWord": [
+        {
+          "word": "कृषि",
+          "transliteration": "krishi",
+          "meaning": "farming"
+        },
+        {
+          "word": "गौरक्ष्य",
+          "transliteration": "gau-rakshya",
+          "meaning": "cow-protection"
+        },
+        {
+          "word": "वाणिज्यम्",
+          "transliteration": "vanijyam",
+          "meaning": "trade"
+        },
+        {
+          "word": "वैश्यकर्म",
+          "transliteration": "Vaishya-karma",
+          "meaning": "duty of Vaishya"
+        },
+        {
+          "word": "स्वभावजम्",
+          "transliteration": "svabhava-jam",
+          "meaning": "born of nature"
+        },
+        {
+          "word": "परिचर्यात्मकम्",
+          "transliteration": "paricharya-atmakam",
+          "meaning": "of the nature of service"
+        },
+        {
+          "word": "कर्म",
+          "transliteration": "karma",
+          "meaning": "duty"
+        },
+        {
+          "word": "शूद्रस्य",
+          "transliteration": "Shudrasya",
+          "meaning": "of the Shudra"
+        }
+      ],
+      "hindiTranslation": "कृषि, गोरक्षा और वाणिज्य — ये वैश्य के स्वभावजन्य कर्म हैं। सेवारूप कर्म शूद्र का स्वभावजन्य कर्म है।",
+      "englishTranslation": "Farming, cattle-rearing, and trade are the natural duties of a Vaishya. Service is the natural duty of a Shudra.",
+      "commentary": "Each varna has duties aligned with its natural aptitudes. Vaishyas excel in economic productivity — agriculture, animal husbandry, and commerce. Shudras serve the community through supportive work. All duties are equally sacred when performed with devotion, as Krishna will explain in the next verses.",
+      "slug": "verse-44"
+    },
+    {
+      "verseNumber": 45,
+      "speaker": "Krishna",
+      "devanagari": "स्वे स्वे कर्मण्यभिरतः संसिद्धिं लभते नरः।\nस्वकर्मनिरतः सिद्धिं यथा विन्दति तच्छृणु॥",
+      "transliteration": "Sve sve karmany-abhiratah samsiddhim labhate narah\nSva-karma-niratah siddhim yatha vindati tach-chhrinu",
+      "wordByWord": [
+        {
+          "word": "स्वे स्वे",
+          "transliteration": "sve sve",
+          "meaning": "each in their own"
+        },
+        {
+          "word": "कर्मणि",
+          "transliteration": "karmani",
+          "meaning": "duty"
+        },
+        {
+          "word": "अभिरतः",
+          "transliteration": "abhiratah",
+          "meaning": "devoted to"
+        },
+        {
+          "word": "संसिद्धिम्",
+          "transliteration": "samsiddhim",
+          "meaning": "perfection"
+        },
+        {
+          "word": "लभते",
+          "transliteration": "labhate",
+          "meaning": "attains"
+        },
+        {
+          "word": "नरः",
+          "transliteration": "narah",
+          "meaning": "a person"
+        },
+        {
+          "word": "स्वकर्मनिरतः",
+          "transliteration": "sva-karma-niratah",
+          "meaning": "devoted to own duty"
+        },
+        {
+          "word": "सिद्धिम्",
+          "transliteration": "siddhim",
+          "meaning": "perfection"
+        },
+        {
+          "word": "यथा",
+          "transliteration": "yatha",
+          "meaning": "how"
+        },
+        {
+          "word": "विन्दति",
+          "transliteration": "vindati",
+          "meaning": "finds"
+        },
+        {
+          "word": "तत् शृणु",
+          "transliteration": "tat shrinu",
+          "meaning": "hear that"
+        }
+      ],
+      "hindiTranslation": "अपने-अपने कर्म में लगा हुआ मनुष्य सिद्धि प्राप्त करता है। अपने कर्म में निरत मनुष्य कैसे सिद्धि पाता है, वह सुनो।",
+      "englishTranslation": "Each person devoted to their own duty attains perfection. Hear how one who is dedicated to their own work finds perfection.",
+      "commentary": "The path to spiritual perfection does not require abandoning one's natural role but fulfilling it with devotion. Whatever one's duty — teaching, protecting, producing, or serving — performing it wholeheartedly leads to the same ultimate goal. This democratizes spiritual attainment.",
+      "slug": "verse-45"
+    },
+    {
+      "verseNumber": 46,
+      "speaker": "Krishna",
+      "devanagari": "यतः प्रवृत्तिर्भूतानां येन सर्वमिदं ततम्।\nस्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानवः॥",
+      "transliteration": "Yatah pravrittir-bhutanam yena sarvam-idam tatam\nSva-karmana tam-abhyarchya siddhim vindati manavah",
+      "wordByWord": [
+        {
+          "word": "यतः",
+          "transliteration": "yatah",
+          "meaning": "from whom"
+        },
+        {
+          "word": "प्रवृत्तिः",
+          "transliteration": "pravrittih",
+          "meaning": "activity/origin"
+        },
+        {
+          "word": "भूतानाम्",
+          "transliteration": "bhutanam",
+          "meaning": "of all beings"
+        },
+        {
+          "word": "येन",
+          "transliteration": "yena",
+          "meaning": "by whom"
+        },
+        {
+          "word": "सर्वम् इदम्",
+          "transliteration": "sarvam idam",
+          "meaning": "all this"
+        },
+        {
+          "word": "ततम्",
+          "transliteration": "tatam",
+          "meaning": "is pervaded"
+        },
+        {
+          "word": "स्वकर्मणा",
+          "transliteration": "sva-karmana",
+          "meaning": "by one's own duty"
+        },
+        {
+          "word": "तम् अभ्यर्च्य",
+          "transliteration": "tam abhyarchya",
+          "meaning": "worshipping Him"
+        },
+        {
+          "word": "सिद्धिम्",
+          "transliteration": "siddhim",
+          "meaning": "perfection"
+        },
+        {
+          "word": "विन्दति",
+          "transliteration": "vindati",
+          "meaning": "attains"
+        },
+        {
+          "word": "मानवः",
+          "transliteration": "manavah",
+          "meaning": "a person"
+        }
+      ],
+      "hindiTranslation": "जिससे सब भूतों की प्रवृत्ति है, जिसने यह सम्पूर्ण जगत व्याप्त किया है — उस परमेश्वर की अपने कर्म द्वारा पूजा करके मनुष्य सिद्धि प्राप्त करता है।",
+      "englishTranslation": "By worshipping through one's own duty Him from whom all beings originate and by whom all this is pervaded, a person attains perfection.",
+      "commentary": "This transformative verse reveals that work itself becomes worship when offered to God. The Supreme who creates and pervades everything can be worshipped through the sincere performance of one's duty. This converts every occupation into a spiritual practice, making the sacred and the secular one.",
+      "slug": "verse-46"
+    },
+    {
+      "verseNumber": 47,
+      "speaker": "Krishna",
+      "devanagari": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्।\nस्वभावनियतं कर्म कुर्वन्नाप्नोति किल्बिषम्॥",
+      "transliteration": "Shreyan sva-dharmo vigunah para-dharmat sv-anushthitat\nSvabhava-niyatam karma kurvan-na-apnoti kilbisham",
+      "wordByWord": [
+        {
+          "word": "श्रेयान्",
+          "transliteration": "shreyan",
+          "meaning": "better"
+        },
+        {
+          "word": "स्वधर्मः",
+          "transliteration": "sva-dharmah",
+          "meaning": "one's own duty"
+        },
+        {
+          "word": "विगुणः",
+          "transliteration": "vigunah",
+          "meaning": "imperfectly performed"
+        },
+        {
+          "word": "परधर्मात्",
+          "transliteration": "para-dharmat",
+          "meaning": "than another's duty"
+        },
+        {
+          "word": "स्वनुष्ठितात्",
+          "transliteration": "sv-anushthitat",
+          "meaning": "well performed"
+        },
+        {
+          "word": "स्वभावनियतम्",
+          "transliteration": "svabhava-niyatam",
+          "meaning": "ordained by one's nature"
+        },
+        {
+          "word": "कर्म",
+          "transliteration": "karma",
+          "meaning": "duty"
+        },
+        {
+          "word": "कुर्वन्",
+          "transliteration": "kurvan",
+          "meaning": "performing"
+        },
+        {
+          "word": "न आप्नोति",
+          "transliteration": "na apnoti",
+          "meaning": "does not incur"
+        },
+        {
+          "word": "किल्बिषम्",
+          "transliteration": "kilbisham",
+          "meaning": "sin"
+        }
+      ],
+      "hindiTranslation": "अपना गुणरहित (अपूर्ण) धर्म भी दूसरे के सुन्दर धर्म से श्रेष्ठ है। स्वभाव से नियत कर्म करते हुए मनुष्य पाप नहीं प्राप्त करता।",
+      "englishTranslation": "Better is one's own duty, even if imperfectly performed, than the duty of another well performed. One who performs the duty ordained by their own nature incurs no sin.",
+      "commentary": "This key teaching, echoing verse 3.35, emphasizes that authentic self-expression through one's natural duty is superior to imitating another's path, however well. Performing svadharma, even imperfectly, keeps one aligned with their true nature and free from sin. This principle validates individual uniqueness in the spiritual journey.",
+      "slug": "verse-47"
+    },
+    {
+      "verseNumber": 48,
+      "speaker": "Krishna",
+      "devanagari": "सहजं कर्म कौन्तेय सदोषमपि न त्यजेत्।\nसर्वारम्भा हि दोषेण धूमेनाग्निरिवावृताः॥",
+      "transliteration": "Sahajam karma Kaunteya sa-dosham-api na tyajet\nSarva-arambha hi doshena dhumena-agnir-iva-avritah",
+      "wordByWord": [
+        {
+          "word": "सहजम्",
+          "transliteration": "sahajam",
+          "meaning": "inborn"
+        },
+        {
+          "word": "कर्म",
+          "transliteration": "karma",
+          "meaning": "duty"
+        },
+        {
+          "word": "कौन्तेय",
+          "transliteration": "Kaunteya",
+          "meaning": "O son of Kunti"
+        },
+        {
+          "word": "सदोषम्",
+          "transliteration": "sa-dosham",
+          "meaning": "with faults"
+        },
+        {
+          "word": "अपि",
+          "transliteration": "api",
+          "meaning": "even"
+        },
+        {
+          "word": "न त्यजेत्",
+          "transliteration": "na tyajet",
+          "meaning": "should not abandon"
+        },
+        {
+          "word": "सर्वारम्भाः",
+          "transliteration": "sarva-arambhah",
+          "meaning": "all undertakings"
+        },
+        {
+          "word": "दोषेण",
+          "transliteration": "doshena",
+          "meaning": "with fault"
+        },
+        {
+          "word": "धूमेन",
+          "transliteration": "dhumena",
+          "meaning": "with smoke"
+        },
+        {
+          "word": "अग्निः",
+          "transliteration": "agnih",
+          "meaning": "fire"
+        },
+        {
+          "word": "आवृताः",
+          "transliteration": "avritah",
+          "meaning": "are covered"
+        }
+      ],
+      "hindiTranslation": "हे कौन्तेय! सदोष होने पर भी सहज (स्वभावसिद्ध) कर्म नहीं त्यागना चाहिए। क्योंकि जैसे अग्नि धुएँ से ढकी रहती है, वैसे ही सब कर्म किसी-न-किसी दोष से युक्त होते हैं।",
+      "englishTranslation": "O Kaunteya, one should not abandon one's inborn duty even though it has faults. For all undertakings are covered with faults, as fire is covered with smoke.",
+      "commentary": "The fire-smoke metaphor brilliantly captures the impossibility of perfectly pure action in the material world. Just as fire always produces some smoke, every action inevitably has some imperfection. Therefore, abandoning duty because of its defects would mean abandoning all action, which is both impossible and undesirable.",
+      "slug": "verse-48"
+    },
+    {
+      "verseNumber": 49,
+      "speaker": "Krishna",
+      "devanagari": "असक्तबुद्धिः सर्वत्र जितात्मा विगतस्पृहः।\nनैष्कर्म्यसिद्धिं परमां सन्न्यासेनाधिगच्छति॥",
+      "transliteration": "Asakta-buddhih sarvatra jita-atma vigata-sprihah\nNaishkarmya-siddhim paramam sannyasena-adhigachchhati",
+      "wordByWord": [
+        {
+          "word": "असक्तबुद्धिः",
+          "transliteration": "asakta-buddhih",
+          "meaning": "with unattached intellect"
+        },
+        {
+          "word": "सर्वत्र",
+          "transliteration": "sarvatra",
+          "meaning": "everywhere"
+        },
+        {
+          "word": "जितात्मा",
+          "transliteration": "jita-atma",
+          "meaning": "self-conquered"
+        },
+        {
+          "word": "विगतस्पृहः",
+          "transliteration": "vigata-sprihah",
+          "meaning": "free from desires"
+        },
+        {
+          "word": "नैष्कर्म्यसिद्धिम्",
+          "transliteration": "naishkarmya-siddhim",
+          "meaning": "perfection of actionlessness"
+        },
+        {
+          "word": "परमाम्",
+          "transliteration": "paramam",
+          "meaning": "supreme"
+        },
+        {
+          "word": "सन्न्यासेन",
+          "transliteration": "sannyasena",
+          "meaning": "by renunciation"
+        },
+        {
+          "word": "अधिगच्छति",
+          "transliteration": "adhigachchhati",
+          "meaning": "attains"
+        }
+      ],
+      "hindiTranslation": "जिसकी बुद्धि सर्वत्र अनासक्त है, जो जितात्मा (मन को जीतने वाला) और निःस्पृह है — वह सन्न्यास (फलत्याग) द्वारा परम नैष्कर्म्य सिद्धि प्राप्त करता है।",
+      "englishTranslation": "One whose intellect is unattached everywhere, who has conquered the self and is free from desires, attains the supreme perfection of freedom from action through renunciation.",
+      "commentary": "The highest state — freedom from karmic bondage while still acting — is achieved by complete detachment, self-mastery, and desirelessness. This 'naishkarmya siddhi' means not the absence of action but freedom from action's binding power. The liberated person acts without creating any new karma.",
+      "slug": "verse-49"
+    },
+    {
+      "verseNumber": 50,
+      "speaker": "Krishna",
+      "devanagari": "सिद्धिं प्राप्तो यथा ब्रह्म तथाप्नोति निबोध मे।\nसमासेनैव कौन्तेय निष्ठा ज्ञानस्य या परा॥",
+      "transliteration": "Siddhim prapto yatha Brahma tatha-apnoti nibodha me\nSamasena-eva Kaunteya nishtha jnanasya ya para",
+      "wordByWord": [
+        {
+          "word": "सिद्धिम्",
+          "transliteration": "siddhim",
+          "meaning": "perfection"
+        },
+        {
+          "word": "प्राप्तः",
+          "transliteration": "praptah",
+          "meaning": "having attained"
+        },
+        {
+          "word": "यथा",
+          "transliteration": "yatha",
+          "meaning": "how"
+        },
+        {
+          "word": "ब्रह्म",
+          "transliteration": "Brahma",
+          "meaning": "Brahman"
+        },
+        {
+          "word": "तथा",
+          "transliteration": "tatha",
+          "meaning": "so"
+        },
+        {
+          "word": "आप्नोति",
+          "transliteration": "apnoti",
+          "meaning": "attains"
+        },
+        {
+          "word": "निबोध",
+          "transliteration": "nibodha",
+          "meaning": "learn"
+        },
+        {
+          "word": "मे",
+          "transliteration": "me",
+          "meaning": "from Me"
+        },
+        {
+          "word": "समासेन",
+          "transliteration": "samasena",
+          "meaning": "in brief"
+        },
+        {
+          "word": "कौन्तेय",
+          "transliteration": "Kaunteya",
+          "meaning": "O son of Kunti"
+        },
+        {
+          "word": "निष्ठा",
+          "transliteration": "nishtha",
+          "meaning": "the culmination"
+        },
+        {
+          "word": "ज्ञानस्य",
+          "transliteration": "jnanasya",
+          "meaning": "of knowledge"
+        },
+        {
+          "word": "या परा",
+          "transliteration": "ya para",
+          "meaning": "which is supreme"
+        }
+      ],
+      "hindiTranslation": "हे कौन्तेय! सिद्धि प्राप्त करके मनुष्य जिस प्रकार ब्रह्म को प्राप्त होता है — जो ज्ञान की परम निष्ठा है — उसे मुझसे संक्षेप में जानो।",
+      "englishTranslation": "Learn from Me in brief, O Kaunteya, how one who has attained perfection also attains Brahman — the supreme culmination of knowledge.",
+      "commentary": "Krishna prepares to describe the final steps to God-realization. Having covered the practical aspects of karma yoga, He now transitions to the direct path to Brahman. The phrase 'in brief' indicates this is a concentrated summary of the highest spiritual teaching.",
+      "slug": "verse-50"
+    },
+    {
+      "verseNumber": 51,
+      "speaker": "Krishna",
+      "devanagari": "बुद्ध्या विशुद्धया युक्तो धृत्यात्मानं नियम्य च।\nशब्दादीन्विषयांस्त्यक्त्वा रागद्वेषौ व्युदस्य च॥",
+      "transliteration": "Buddhya vishuddhaya yukto dhritya-atmanam niyamya cha\nShabdadin vishayams-tyaktva raga-dveshau vyudasya cha",
+      "wordByWord": [
+        {
+          "word": "बुद्ध्या",
+          "transliteration": "buddhya",
+          "meaning": "with intellect"
+        },
+        {
+          "word": "विशुद्धया",
+          "transliteration": "vishuddhaya",
+          "meaning": "purified"
+        },
+        {
+          "word": "युक्तः",
+          "transliteration": "yuktah",
+          "meaning": "endowed"
+        },
+        {
+          "word": "धृत्या",
+          "transliteration": "dhritya",
+          "meaning": "with resolve"
+        },
+        {
+          "word": "आत्मानम्",
+          "transliteration": "atmanam",
+          "meaning": "the self"
+        },
+        {
+          "word": "नियम्य",
+          "transliteration": "niyamya",
+          "meaning": "controlling"
+        },
+        {
+          "word": "शब्दादीन्",
+          "transliteration": "shabdadin",
+          "meaning": "sound and other"
+        },
+        {
+          "word": "विषयान्",
+          "transliteration": "vishayan",
+          "meaning": "sense objects"
+        },
+        {
+          "word": "त्यक्त्वा",
+          "transliteration": "tyaktva",
+          "meaning": "giving up"
+        },
+        {
+          "word": "रागद्वेषौ",
+          "transliteration": "raga-dveshau",
+          "meaning": "attachment and aversion"
+        },
+        {
+          "word": "व्युदस्य",
+          "transliteration": "vyudasya",
+          "meaning": "casting aside"
+        }
+      ],
+      "hindiTranslation": "विशुद्ध बुद्धि से युक्त, धैर्य से आत्मा को संयमित करके, शब्दादि विषयों को त्यागकर, राग और द्वेष को दूर करके —",
+      "englishTranslation": "Endowed with purified intellect, controlling the self with firm resolve, giving up sense objects like sound, and casting aside attachment and aversion —",
+      "commentary": "This begins a multi-verse description of the path to Brahman-realization. The first requirements are a purified intellect, resolute self-control, withdrawal from sensory attachments, and freedom from the dualities of like and dislike. These create the internal conditions necessary for the highest realization.",
+      "slug": "verse-51"
+    },
+    {
+      "verseNumber": 52,
+      "speaker": "Krishna",
+      "devanagari": "विविक्तसेवी लघ्वाशी यतवाक्कायमानसः।\nध्यानयोगपरो नित्यं वैराग्यं समुपाश्रितः॥",
+      "transliteration": "Vivikta-sevi laghv-ashi yata-vak-kaya-manasah\nDhyana-yoga-paro nityam vairagyam samupashritah",
+      "wordByWord": [
+        {
+          "word": "विविक्तसेवी",
+          "transliteration": "vivikta-sevi",
+          "meaning": "dwelling in solitude"
+        },
+        {
+          "word": "लघ्वाशी",
+          "transliteration": "laghv-ashi",
+          "meaning": "eating lightly"
+        },
+        {
+          "word": "यतवाक्कायमानसः",
+          "transliteration": "yata-vak-kaya-manasah",
+          "meaning": "with controlled speech, body and mind"
+        },
+        {
+          "word": "ध्यानयोगपरः",
+          "transliteration": "dhyana-yoga-parah",
+          "meaning": "devoted to meditation"
+        },
+        {
+          "word": "नित्यम्",
+          "transliteration": "nityam",
+          "meaning": "always"
+        },
+        {
+          "word": "वैराग्यम्",
+          "transliteration": "vairagyam",
+          "meaning": "dispassion"
+        },
+        {
+          "word": "समुपाश्रितः",
+          "transliteration": "samupashritah",
+          "meaning": "taking shelter of"
+        }
+      ],
+      "hindiTranslation": "— एकान्तसेवी, अल्पाहारी, वाणी-शरीर-मन को वश में करने वाला, सदा ध्यानयोग में लगा हुआ, वैराग्य का आश्रय लेने वाला —",
+      "englishTranslation": "— dwelling in solitude, eating lightly, with speech, body, and mind controlled, ever devoted to the yoga of meditation, and taking refuge in dispassion —",
+      "commentary": "The aspirant's lifestyle supports their spiritual practice: solitude for uninterrupted contemplation, moderate eating for physical and mental clarity, control over all channels of expression, and unwavering dedication to meditation. Dispassion (vairagya) serves as the foundation for all these disciplines.",
+      "slug": "verse-52"
+    },
+    {
+      "verseNumber": 53,
+      "speaker": "Krishna",
+      "devanagari": "अहङ्कारं बलं दर्पं कामं क्रोधं परिग्रहम्।\nविमुच्य निर्ममः शान्तो ब्रह्मभूयाय कल्पते॥",
+      "transliteration": "Ahankaram balam darpam kamam krodham parigraham\nVimuchya nirmamah shanto Brahma-bhuyaya kalpate",
+      "wordByWord": [
+        {
+          "word": "अहङ्कारम्",
+          "transliteration": "ahankaram",
+          "meaning": "egotism"
+        },
+        {
+          "word": "बलम्",
+          "transliteration": "balam",
+          "meaning": "false strength"
+        },
+        {
+          "word": "दर्पम्",
+          "transliteration": "darpam",
+          "meaning": "arrogance"
+        },
+        {
+          "word": "कामम्",
+          "transliteration": "kamam",
+          "meaning": "desire"
+        },
+        {
+          "word": "क्रोधम्",
+          "transliteration": "krodham",
+          "meaning": "anger"
+        },
+        {
+          "word": "परिग्रहम्",
+          "transliteration": "parigraham",
+          "meaning": "possessiveness"
+        },
+        {
+          "word": "विमुच्य",
+          "transliteration": "vimuchya",
+          "meaning": "giving up"
+        },
+        {
+          "word": "निर्ममः",
+          "transliteration": "nirmamah",
+          "meaning": "without sense of mine"
+        },
+        {
+          "word": "शान्तः",
+          "transliteration": "shantah",
+          "meaning": "peaceful"
+        },
+        {
+          "word": "ब्रह्मभूयाय",
+          "transliteration": "Brahma-bhuyaya",
+          "meaning": "for becoming Brahman"
+        },
+        {
+          "word": "कल्पते",
+          "transliteration": "kalpate",
+          "meaning": "is fit"
+        }
+      ],
+      "hindiTranslation": "अहंकार, बल, दर्प, काम, क्रोध और परिग्रह (संग्रह वृत्ति) को छोड़कर, ममता-रहित और शान्त हुआ मनुष्य ब्रह्म-प्राप्ति के योग्य होता है।",
+      "englishTranslation": "Giving up egotism, false strength, arrogance, desire, anger, and possessiveness — free from the sense of 'mine' and peaceful — one becomes fit for realizing Brahman.",
+      "commentary": "This verse completes the description of the path to Brahman begun in verse 51. Six obstacles must be abandoned: ego, force, pride, lust, anger, and greed. When these fall away, the natural state of peace and selflessness emerges, making one ready for the ultimate realization.",
+      "slug": "verse-53"
+    },
+    {
+      "verseNumber": 54,
+      "speaker": "Krishna",
+      "devanagari": "ब्रह्मभूतः प्रसन्नात्मा न शोचति न काङ्क्षति।\nसमः सर्वेषु भूतेषु मद्भक्तिं लभते पराम्॥",
+      "transliteration": "Brahma-bhutah prasanna-atma na shochati na kankshati\nSamah sarveshu bhuteshu mad-bhaktim labhate param",
+      "wordByWord": [
+        {
+          "word": "ब्रह्मभूतः",
+          "transliteration": "Brahma-bhutah",
+          "meaning": "one with Brahman"
+        },
+        {
+          "word": "प्रसन्नात्मा",
+          "transliteration": "prasanna-atma",
+          "meaning": "of joyful self"
+        },
+        {
+          "word": "न शोचति",
+          "transliteration": "na shochati",
+          "meaning": "does not grieve"
+        },
+        {
+          "word": "न काङ्क्षति",
+          "transliteration": "na kankshati",
+          "meaning": "does not desire"
+        },
+        {
+          "word": "समः",
+          "transliteration": "samah",
+          "meaning": "equal"
+        },
+        {
+          "word": "सर्वेषु भूतेषु",
+          "transliteration": "sarveshu bhuteshu",
+          "meaning": "toward all beings"
+        },
+        {
+          "word": "मद्भक्तिम्",
+          "transliteration": "mad-bhaktim",
+          "meaning": "supreme devotion to Me"
+        },
+        {
+          "word": "लभते",
+          "transliteration": "labhate",
+          "meaning": "attains"
+        },
+        {
+          "word": "पराम्",
+          "transliteration": "param",
+          "meaning": "supreme"
+        }
+      ],
+      "hindiTranslation": "ब्रह्मभूत (ब्रह्म-स्वरूप) हुआ, प्रसन्न आत्मा वाला, न शोक करता है, न कामना — सब भूतों में समदर्शी होकर वह मेरी परा भक्ति को प्राप्त होता है।",
+      "englishTranslation": "Becoming one with Brahman, with a joyful self, one neither grieves nor desires. Equal toward all beings, such a person attains supreme devotion to Me.",
+      "commentary": "This pivotal verse bridges Jnana Yoga and Bhakti Yoga. Brahman-realization leads not to dry intellectualism but to supreme devotion. The liberated person, free from grief and desire, sees all beings with equal vision. This unity of knowledge and devotion represents the Gita's highest synthesis.",
+      "slug": "verse-54"
+    },
+    {
+      "verseNumber": 55,
+      "speaker": "Krishna",
+      "devanagari": "भक्त्या मामभिजानाति यावान्यश्चास्मि तत्त्वतः।\nततो मां तत्त्वतो ज्ञात्वा विशते तदनन्तरम्॥",
+      "transliteration": "Bhaktya mam-abhijanati yavan-yash-cha-asmi tattvatah\nTato mam tattvato jnatva vishate tad-anantaram",
+      "wordByWord": [
+        {
+          "word": "भक्त्या",
+          "transliteration": "bhaktya",
+          "meaning": "through devotion"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        },
+        {
+          "word": "अभिजानाति",
+          "transliteration": "abhijanati",
+          "meaning": "one truly knows"
+        },
+        {
+          "word": "यावान्",
+          "transliteration": "yavan",
+          "meaning": "how great"
+        },
+        {
+          "word": "यः च अस्मि",
+          "transliteration": "yah cha asmi",
+          "meaning": "and who I am"
+        },
+        {
+          "word": "तत्त्वतः",
+          "transliteration": "tattvatah",
+          "meaning": "in truth"
+        },
+        {
+          "word": "ततः",
+          "transliteration": "tatah",
+          "meaning": "then"
+        },
+        {
+          "word": "ज्ञात्वा",
+          "transliteration": "jnatva",
+          "meaning": "knowing"
+        },
+        {
+          "word": "विशते",
+          "transliteration": "vishate",
+          "meaning": "enters"
+        },
+        {
+          "word": "तदनन्तरम्",
+          "transliteration": "tad-anantaram",
+          "meaning": "thereafter"
+        }
+      ],
+      "hindiTranslation": "भक्ति द्वारा वह मुझे तत्त्व से जानता है — मैं कितना हूँ और कौन हूँ। फिर मुझे तत्त्व से जानकर वह तत्काल मुझमें प्रवेश करता है।",
+      "englishTranslation": "Through devotion one truly knows Me — how great I am and who I am in reality. Then, having known Me in truth, one enters into Me immediately.",
+      "commentary": "Devotion is declared as the ultimate means of knowing God completely. Intellectual understanding alone cannot reveal the full reality of the Divine — only loving devotion can. After this complete knowing through bhakti, the soul enters into God's being, achieving the supreme destination.",
+      "slug": "verse-55"
+    },
+    {
+      "verseNumber": 56,
+      "speaker": "Krishna",
+      "devanagari": "सर्वकर्माण्यपि सदा कुर्वाणो मद्व्यपाश्रयः।\nमत्प्रसादादवाप्नोति शाश्वतं पदमव्ययम्॥",
+      "transliteration": "Sarva-karmany-api sada kurvano mad-vyapashrayah\nMat-prasadad-avapnoti shashvatam padam-avyayam",
+      "wordByWord": [
+        {
+          "word": "सर्वकर्माणि",
+          "transliteration": "sarva-karmani",
+          "meaning": "all actions"
+        },
+        {
+          "word": "अपि",
+          "transliteration": "api",
+          "meaning": "even"
+        },
+        {
+          "word": "सदा",
+          "transliteration": "sada",
+          "meaning": "always"
+        },
+        {
+          "word": "कुर्वाणः",
+          "transliteration": "kurvanah",
+          "meaning": "performing"
+        },
+        {
+          "word": "मद्व्यपाश्रयः",
+          "transliteration": "mad-vyapashrayah",
+          "meaning": "taking refuge in Me"
+        },
+        {
+          "word": "मत्प्रसादात्",
+          "transliteration": "mat-prasadat",
+          "meaning": "by My grace"
+        },
+        {
+          "word": "अवाप्नोति",
+          "transliteration": "avapnoti",
+          "meaning": "attains"
+        },
+        {
+          "word": "शाश्वतम्",
+          "transliteration": "shashvatam",
+          "meaning": "eternal"
+        },
+        {
+          "word": "पदम्",
+          "transliteration": "padam",
+          "meaning": "abode"
+        },
+        {
+          "word": "अव्ययम्",
+          "transliteration": "avyayam",
+          "meaning": "imperishable"
+        }
+      ],
+      "hindiTranslation": "सदा सब कर्म करते हुए भी जो मेरा आश्रय लेता है, वह मेरी कृपा से शाश्वत अव्यय पद को प्राप्त होता है।",
+      "englishTranslation": "Even while always performing all actions, one who takes refuge in Me attains the eternal, imperishable abode by My grace.",
+      "commentary": "This verse assures that active engagement in the world is not an obstacle to liberation. One who performs all duties while remaining surrendered to God attains the eternal abode through divine grace. The key phrase 'mat-prasadat' (by My grace) reveals that ultimate liberation comes through God's grace, not merely personal effort.",
+      "slug": "verse-56"
+    },
+    {
+      "verseNumber": 57,
+      "speaker": "Krishna",
+      "devanagari": "चेतसा सर्वकर्माणि मयि सन्न्यस्य मत्परः।\nबुद्धियोगमुपाश्रित्य मच्चित्तः सततं भव॥",
+      "transliteration": "Chetasa sarva-karmani mayi sannyasya mat-parah\nBuddhi-yogam-upashritya mach-chittah satatam bhava",
+      "wordByWord": [
+        {
+          "word": "चेतसा",
+          "transliteration": "chetasa",
+          "meaning": "with consciousness"
+        },
+        {
+          "word": "सर्वकर्माणि",
+          "transliteration": "sarva-karmani",
+          "meaning": "all actions"
+        },
+        {
+          "word": "मयि",
+          "transliteration": "mayi",
+          "meaning": "in Me"
+        },
+        {
+          "word": "सन्न्यस्य",
+          "transliteration": "sannyasya",
+          "meaning": "surrendering"
+        },
+        {
+          "word": "मत्परः",
+          "transliteration": "mat-parah",
+          "meaning": "devoted to Me"
+        },
+        {
+          "word": "बुद्धियोगम्",
+          "transliteration": "buddhi-yogam",
+          "meaning": "yoga of intellect"
+        },
+        {
+          "word": "उपाश्रित्य",
+          "transliteration": "upashritya",
+          "meaning": "taking refuge in"
+        },
+        {
+          "word": "मच्चित्तः",
+          "transliteration": "mach-chittah",
+          "meaning": "with mind fixed on Me"
+        },
+        {
+          "word": "सततम्",
+          "transliteration": "satatam",
+          "meaning": "always"
+        },
+        {
+          "word": "भव",
+          "transliteration": "bhava",
+          "meaning": "be"
+        }
+      ],
+      "hindiTranslation": "चित्त से सब कर्मों को मुझमें समर्पित करके, मत्परायण होकर, बुद्धियोग का आश्रय लेकर, सदा मुझमें चित्त लगाने वाला हो।",
+      "englishTranslation": "Mentally surrendering all actions to Me, devoted to Me, taking refuge in the yoga of intellect — always keep your mind fixed on Me.",
+      "commentary": "Krishna gives the practical instruction for daily spiritual life: mentally offer every action to God, maintain unwavering devotion, exercise discriminative wisdom, and keep the mind constantly focused on the Divine. This is the integrated practice of Karma, Bhakti, and Jnana Yoga in every moment.",
+      "slug": "verse-57"
+    },
+    {
+      "verseNumber": 58,
+      "speaker": "Krishna",
+      "devanagari": "मच्चित्तः सर्वदुर्गाणि मत्प्रसादात्तरिष्यसि।\nअथ चेत्त्वमहङ्कारान्न श्रोष्यसि विनङ्क्ष्यसि॥",
+      "transliteration": "Mach-chittah sarva-durgani mat-prasadat-tarishyasi\nAtha chet-tvam-ahankaran-na shroshyasi vinankshyasi",
+      "wordByWord": [
+        {
+          "word": "मच्चित्तः",
+          "transliteration": "mach-chittah",
+          "meaning": "with mind on Me"
+        },
+        {
+          "word": "सर्वदुर्गाणि",
+          "transliteration": "sarva-durgani",
+          "meaning": "all difficulties"
+        },
+        {
+          "word": "मत्प्रसादात्",
+          "transliteration": "mat-prasadat",
+          "meaning": "by My grace"
+        },
+        {
+          "word": "तरिष्यसि",
+          "transliteration": "tarishyasi",
+          "meaning": "you shall overcome"
+        },
+        {
+          "word": "अथ चेत्",
+          "transliteration": "atha chet",
+          "meaning": "but if"
+        },
+        {
+          "word": "त्वम्",
+          "transliteration": "tvam",
+          "meaning": "you"
+        },
+        {
+          "word": "अहङ्कारात्",
+          "transliteration": "ahankarat",
+          "meaning": "due to ego"
+        },
+        {
+          "word": "न श्रोष्यसि",
+          "transliteration": "na shroshyasi",
+          "meaning": "will not listen"
+        },
+        {
+          "word": "विनङ्क्ष्यसि",
+          "transliteration": "vinankshyasi",
+          "meaning": "you shall perish"
+        }
+      ],
+      "hindiTranslation": "मुझमें चित्त लगाकर तू मेरी कृपा से सब कठिनाइयों को पार कर जाएगा। किन्तु यदि अहंकार से मेरी बात नहीं सुनेगा, तो नष्ट हो जाएगा।",
+      "englishTranslation": "With your mind fixed on Me, you shall overcome all difficulties by My grace. But if, out of ego, you do not listen, you shall perish.",
+      "commentary": "Krishna presents the stark choice: surrender and be carried across all obstacles by divine grace, or cling to ego and face destruction. The contrast between God's protective grace and the ego's destructive power could not be more clearly stated. This is both a promise and a warning.",
+      "slug": "verse-58"
+    },
+    {
+      "verseNumber": 59,
+      "speaker": "Krishna",
+      "devanagari": "यदहङ्कारमाश्रित्य न योत्स्य इति मन्यसे।\nमिथ्यैष व्यवसायस्ते प्रकृतिस्त्वां नियोक्ष्यति॥",
+      "transliteration": "Yad-ahankaram-ashritya na yotsya iti manyase\nMithya-esha vyavasayas-te prakritis-tvam niyokshyati",
+      "wordByWord": [
+        {
+          "word": "यत्",
+          "transliteration": "yat",
+          "meaning": "if"
+        },
+        {
+          "word": "अहङ्कारम्",
+          "transliteration": "ahankaram",
+          "meaning": "ego"
+        },
+        {
+          "word": "आश्रित्य",
+          "transliteration": "ashritya",
+          "meaning": "taking refuge in"
+        },
+        {
+          "word": "न योत्स्ये",
+          "transliteration": "na yotsye",
+          "meaning": "I will not fight"
+        },
+        {
+          "word": "इति",
+          "transliteration": "iti",
+          "meaning": "thus"
+        },
+        {
+          "word": "मन्यसे",
+          "transliteration": "manyase",
+          "meaning": "you think"
+        },
+        {
+          "word": "मिथ्या",
+          "transliteration": "mithya",
+          "meaning": "vain/false"
+        },
+        {
+          "word": "एषः",
+          "transliteration": "eshah",
+          "meaning": "this"
+        },
+        {
+          "word": "व्यवसायः",
+          "transliteration": "vyavasayah",
+          "meaning": "resolve"
+        },
+        {
+          "word": "प्रकृतिः",
+          "transliteration": "prakritih",
+          "meaning": "your own nature"
+        },
+        {
+          "word": "त्वाम्",
+          "transliteration": "tvam",
+          "meaning": "you"
+        },
+        {
+          "word": "नियोक्ष्यति",
+          "transliteration": "niyokshyati",
+          "meaning": "will compel"
+        }
+      ],
+      "hindiTranslation": "यदि अहंकार का आश्रय लेकर तू सोचता है कि 'मैं नहीं लड़ूँगा' — तो यह तेरा निश्चय व्यर्थ है; तेरा स्वभाव तुझे बाध्य करेगा।",
+      "englishTranslation": "If, taking refuge in ego, you think 'I will not fight' — this resolve of yours is vain. Your own nature will compel you.",
+      "commentary": "Krishna addresses Arjuna's potential resistance directly. The decision to not fight would itself be driven by ego, not wisdom. One's inherent nature (Kshatriya nature for Arjuna) cannot be denied through willful suppression — it will inevitably assert itself. True freedom lies in conscious alignment with one's nature, not in its denial.",
+      "slug": "verse-59"
+    },
+    {
+      "verseNumber": 60,
+      "speaker": "Krishna",
+      "devanagari": "स्वभावजेन कौन्तेय निबद्धः स्वेन कर्मणा।\nकर्तुं नेच्छसि यन्मोहात्करिष्यस्यवशोऽपि तत्॥",
+      "transliteration": "Svabhava-jena Kaunteya nibaddhah svena karmana\nKartum ne-chchhasi yan-mohat-karishyasy-avasho'pi tat",
+      "wordByWord": [
+        {
+          "word": "स्वभावजेन",
+          "transliteration": "svabhava-jena",
+          "meaning": "born of your own nature"
+        },
+        {
+          "word": "कौन्तेय",
+          "transliteration": "Kaunteya",
+          "meaning": "O son of Kunti"
+        },
+        {
+          "word": "निबद्धः",
+          "transliteration": "nibaddhah",
+          "meaning": "bound"
+        },
+        {
+          "word": "स्वेन कर्मणा",
+          "transliteration": "svena karmana",
+          "meaning": "by your own karma"
+        },
+        {
+          "word": "कर्तुम्",
+          "transliteration": "kartum",
+          "meaning": "to do"
+        },
+        {
+          "word": "न इच्छसि",
+          "transliteration": "na ichchhasi",
+          "meaning": "you do not wish"
+        },
+        {
+          "word": "यत् मोहात्",
+          "transliteration": "yat mohat",
+          "meaning": "what out of delusion"
+        },
+        {
+          "word": "करिष्यसि",
+          "transliteration": "karishyasi",
+          "meaning": "you will do"
+        },
+        {
+          "word": "अवशः",
+          "transliteration": "avashah",
+          "meaning": "helplessly"
+        },
+        {
+          "word": "अपि",
+          "transliteration": "api",
+          "meaning": "even"
+        }
+      ],
+      "hindiTranslation": "हे कौन्तेय! अपने स्वभावजन्य कर्म से बँधा हुआ, जो तू मोहवश नहीं करना चाहता — वह भी तू विवश होकर करेगा।",
+      "englishTranslation": "O Kaunteya, bound by your own karma born of your nature, what you do not wish to do out of delusion, you will do even helplessly.",
+      "commentary": "This verse reveals a profound truth about human nature: we cannot permanently suppress our innate tendencies. Arjuna's warrior nature, shaped by past karma and inherent disposition, will inevitably express itself. Better to act consciously and willingly in alignment with dharma than to be forced by nature against one's will.",
+      "slug": "verse-60"
+    },
+    {
+      "verseNumber": 61,
+      "speaker": "Krishna",
+      "devanagari": "ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति।\nभ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया॥",
+      "transliteration": "Ishvarah sarva-bhutanam hrid-deshe'rjuna tishthati\nBhramayan sarva-bhutani yantra-arudhani mayaya",
+      "wordByWord": [
+        {
+          "word": "ईश्वरः",
+          "transliteration": "Ishvarah",
+          "meaning": "the Supreme Lord"
+        },
+        {
+          "word": "सर्वभूतानाम्",
+          "transliteration": "sarva-bhutanam",
+          "meaning": "of all beings"
+        },
+        {
+          "word": "हृद्देशे",
+          "transliteration": "hrid-deshe",
+          "meaning": "in the region of the heart"
+        },
+        {
+          "word": "अर्जुन",
+          "transliteration": "Arjuna",
+          "meaning": "O Arjuna"
+        },
+        {
+          "word": "तिष्ठति",
+          "transliteration": "tishthati",
+          "meaning": "dwells"
+        },
+        {
+          "word": "भ्रामयन्",
+          "transliteration": "bhramayan",
+          "meaning": "causing to revolve"
+        },
+        {
+          "word": "सर्वभूतानि",
+          "transliteration": "sarva-bhutani",
+          "meaning": "all beings"
+        },
+        {
+          "word": "यन्त्रारूढानि",
+          "transliteration": "yantra-arudhani",
+          "meaning": "mounted on a machine"
+        },
+        {
+          "word": "मायया",
+          "transliteration": "mayaya",
+          "meaning": "by Maya (illusion)"
+        }
+      ],
+      "hindiTranslation": "हे अर्जुन! ईश्वर सब भूतों के हृदय में विराजमान है और माया द्वारा सब भूतों को यन्त्र पर आरूढ़ करके घुमा रहा है।",
+      "englishTranslation": "O Arjuna, the Supreme Lord dwells in the hearts of all beings, causing them to revolve as if mounted on a machine, through the power of Maya.",
+      "commentary": "This vivid image reveals that God resides in every heart and is the ultimate mover behind all beings. The 'machine' metaphor suggests the body-mind complex driven by prakriti under God's supervision. This is not fatalism but the recognition that divine intelligence guides the cosmic dance of all existence.",
+      "slug": "verse-61"
+    },
+    {
+      "verseNumber": 62,
+      "speaker": "Krishna",
+      "devanagari": "तमेव शरणं गच्छ सर्वभावेन भारत।\nतत्प्रसादात्परां शान्तिं स्थानं प्राप्स्यसि शाश्वतम्॥",
+      "transliteration": "Tam-eva sharanam gachchha sarva-bhavena Bharata\nTat-prasadat param shantim sthanam prapsyasi shashvatam",
+      "wordByWord": [
+        {
+          "word": "तम् एव",
+          "transliteration": "tam eva",
+          "meaning": "unto Him alone"
+        },
+        {
+          "word": "शरणम्",
+          "transliteration": "sharanam",
+          "meaning": "refuge"
+        },
+        {
+          "word": "गच्छ",
+          "transliteration": "gachchha",
+          "meaning": "go/surrender"
+        },
+        {
+          "word": "सर्वभावेन",
+          "transliteration": "sarva-bhavena",
+          "meaning": "with your whole being"
+        },
+        {
+          "word": "भारत",
+          "transliteration": "Bharata",
+          "meaning": "O Bharata"
+        },
+        {
+          "word": "तत्प्रसादात्",
+          "transliteration": "tat-prasadat",
+          "meaning": "by His grace"
+        },
+        {
+          "word": "पराम् शान्तिम्",
+          "transliteration": "param shantim",
+          "meaning": "supreme peace"
+        },
+        {
+          "word": "स्थानम्",
+          "transliteration": "sthanam",
+          "meaning": "abode"
+        },
+        {
+          "word": "प्राप्स्यसि",
+          "transliteration": "prapsyasi",
+          "meaning": "you shall attain"
+        },
+        {
+          "word": "शाश्वतम्",
+          "transliteration": "shashvatam",
+          "meaning": "eternal"
+        }
+      ],
+      "hindiTranslation": "हे भारत! सर्वभाव से उसी की शरण में जा। उसकी कृपा से तू परम शान्ति और शाश्वत स्थान प्राप्त करेगा।",
+      "englishTranslation": "O Bharata, take refuge in Him alone with your whole being. By His grace, you shall attain supreme peace and the eternal abode.",
+      "commentary": "This verse prepares the ground for the supreme teaching that follows. Whole-hearted surrender to the indwelling Lord is the direct path to supreme peace and the eternal abode. The emphasis on 'sarva-bhavena' (with your entire being) demands total, unconditional surrender — not partial or conditional devotion.",
+      "slug": "verse-62"
+    },
+    {
+      "verseNumber": 63,
+      "speaker": "Krishna",
+      "devanagari": "इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया।\nविमृश्यैतदशेषेण यथेच्छसि तथा कुरु॥",
+      "transliteration": "Iti te jnanam-akhyatam guhyad-guhyataram maya\nVimrishya-etad-asheshena yathe-chchhasi tatha kuru",
+      "wordByWord": [
+        {
+          "word": "इति",
+          "transliteration": "iti",
+          "meaning": "thus"
+        },
+        {
+          "word": "ते",
+          "transliteration": "te",
+          "meaning": "to you"
+        },
+        {
+          "word": "ज्ञानम्",
+          "transliteration": "jnanam",
+          "meaning": "knowledge"
+        },
+        {
+          "word": "आख्यातम्",
+          "transliteration": "akhyatam",
+          "meaning": "has been declared"
+        },
+        {
+          "word": "गुह्यात् गुह्यतरम्",
+          "transliteration": "guhyat guhyataram",
+          "meaning": "more secret than the secret"
+        },
+        {
+          "word": "मया",
+          "transliteration": "maya",
+          "meaning": "by Me"
+        },
+        {
+          "word": "विमृश्य",
+          "transliteration": "vimrishya",
+          "meaning": "reflecting upon"
+        },
+        {
+          "word": "एतत्",
+          "transliteration": "etat",
+          "meaning": "this"
+        },
+        {
+          "word": "अशेषेण",
+          "transliteration": "asheshena",
+          "meaning": "completely"
+        },
+        {
+          "word": "यथा इच्छसि",
+          "transliteration": "yatha ichchhasi",
+          "meaning": "as you wish"
+        },
+        {
+          "word": "तथा कुरु",
+          "transliteration": "tatha kuru",
+          "meaning": "so do"
+        }
+      ],
+      "hindiTranslation": "इस प्रकार मैंने तुझे गुह्य से भी गुह्यतर ज्ञान कहा। इसे सम्पूर्ण रूप से विचार करके जैसा चाहे वैसा कर।",
+      "englishTranslation": "Thus I have imparted to you knowledge that is more secret than all secrets. Reflect upon it fully, and then do as you wish.",
+      "commentary": "Remarkably, Krishna respects Arjuna's free will after sharing the most profound wisdom. God does not coerce — He educates, reveals truth, and then allows the individual to choose freely. This respect for human agency is one of the Gita's most beautiful principles: even divine guidance preserves freedom of choice.",
+      "slug": "verse-63"
+    },
+    {
+      "verseNumber": 64,
+      "speaker": "Krishna",
+      "devanagari": "सर्वगुह्यतमं भूयः शृणु मे परमं वचः।\nइष्टोऽसि मे दृढमिति ततो वक्ष्यामि ते हितम्॥",
+      "transliteration": "Sarva-guhyatamam bhuyah shrinu me paramam vachah\nIshto'si me dridham-iti tato vakshyami te hitam",
+      "wordByWord": [
+        {
+          "word": "सर्वगुह्यतमम्",
+          "transliteration": "sarva-guhyatamam",
+          "meaning": "the most secret of all"
+        },
+        {
+          "word": "भूयः",
+          "transliteration": "bhuyah",
+          "meaning": "again"
+        },
+        {
+          "word": "शृणु",
+          "transliteration": "shrinu",
+          "meaning": "hear"
+        },
+        {
+          "word": "मे",
+          "transliteration": "me",
+          "meaning": "My"
+        },
+        {
+          "word": "परमम् वचः",
+          "transliteration": "paramam vachah",
+          "meaning": "supreme word"
+        },
+        {
+          "word": "इष्टः असि",
+          "transliteration": "ishtah asi",
+          "meaning": "you are dear"
+        },
+        {
+          "word": "मे",
+          "transliteration": "me",
+          "meaning": "to Me"
+        },
+        {
+          "word": "दृढम्",
+          "transliteration": "dridham",
+          "meaning": "firmly"
+        },
+        {
+          "word": "ततः",
+          "transliteration": "tatah",
+          "meaning": "therefore"
+        },
+        {
+          "word": "वक्ष्यामि",
+          "transliteration": "vakshyami",
+          "meaning": "I shall speak"
+        },
+        {
+          "word": "ते हितम्",
+          "transliteration": "te hitam",
+          "meaning": "for your benefit"
+        }
+      ],
+      "hindiTranslation": "सबसे गुह्य-से-गुह्यतम बात फिर से सुन — मेरा परम वचन। तू मुझे अत्यन्त प्रिय है, इसलिए मैं तेरे हित की बात कहूँगा।",
+      "englishTranslation": "Hear again My supreme word, the most secret of all. You are firmly dear to Me, therefore I shall speak for your benefit.",
+      "commentary": "Before delivering the Gita's ultimate verse, Krishna declares His deep personal love for Arjuna. The phrase 'you are firmly dear to Me' reveals that the relationship between God and devotee is one of profound mutual affection. Out of this love, Krishna is about to reveal the supreme secret.",
+      "slug": "verse-64"
+    },
+    {
+      "verseNumber": 65,
+      "speaker": "Krishna",
+      "devanagari": "मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु।\nमामेवैष्यसि सत्यं ते प्रतिजाने प्रियोऽसि मे॥",
+      "transliteration": "Man-mana bhava mad-bhakto mad-yaji mam namaskuru\nMam-evaishyasi satyam te pratijane priyo'si me",
+      "wordByWord": [
+        {
+          "word": "मन्मनाः",
+          "transliteration": "man-manah",
+          "meaning": "with mind on Me"
+        },
+        {
+          "word": "भव",
+          "transliteration": "bhava",
+          "meaning": "become"
+        },
+        {
+          "word": "मद्भक्तः",
+          "transliteration": "mad-bhaktah",
+          "meaning": "My devotee"
+        },
+        {
+          "word": "मद्याजी",
+          "transliteration": "mad-yaji",
+          "meaning": "My worshipper"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "to Me"
+        },
+        {
+          "word": "नमस्कुरु",
+          "transliteration": "namaskuru",
+          "meaning": "offer obeisance"
+        },
+        {
+          "word": "माम् एव",
+          "transliteration": "mam eva",
+          "meaning": "to Me alone"
+        },
+        {
+          "word": "एष्यसि",
+          "transliteration": "eshyasi",
+          "meaning": "you shall come"
+        },
+        {
+          "word": "सत्यम्",
+          "transliteration": "satyam",
+          "meaning": "truly"
+        },
+        {
+          "word": "प्रतिजाने",
+          "transliteration": "pratijane",
+          "meaning": "I promise"
+        },
+        {
+          "word": "प्रियः असि मे",
+          "transliteration": "priyah asi me",
+          "meaning": "you are dear to Me"
+        }
+      ],
+      "hindiTranslation": "मुझमें मन लगा, मेरा भक्त हो, मेरा यजन कर, मुझे नमस्कार कर — तू मुझे ही प्राप्त होगा। मैं सत्य प्रतिज्ञा करता हूँ — तू मुझे प्रिय है।",
+      "englishTranslation": "Fix your mind on Me, be My devotee, worship Me, and bow to Me. You shall come to Me alone — I truly promise you this, for you are dear to Me.",
+      "commentary": "This verse is the penultimate revelation, containing God's personal promise. Four instructions — think of God, be devoted, worship, and bow — cover mind, heart, ritual, and body. Krishna's solemn oath guarantees the devotee's arrival at the Supreme. This is the most personal and tender promise in all of scripture.",
+      "slug": "verse-65"
+    },
+    {
+      "verseNumber": 66,
+      "speaker": "Krishna",
+      "devanagari": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज।\nअहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः॥",
+      "transliteration": "Sarva-dharman parityajya mam-ekam sharanam vraja\nAham tva sarva-papebhyo mokshayishyami ma shuchah",
+      "wordByWord": [
+        {
+          "word": "सर्वधर्मान्",
+          "transliteration": "sarva-dharman",
+          "meaning": "all dharmas/duties"
+        },
+        {
+          "word": "परित्यज्य",
+          "transliteration": "parityajya",
+          "meaning": "abandoning"
+        },
+        {
+          "word": "माम् एकम्",
+          "transliteration": "mam ekam",
+          "meaning": "unto Me alone"
+        },
+        {
+          "word": "शरणम्",
+          "transliteration": "sharanam",
+          "meaning": "surrender/refuge"
+        },
+        {
+          "word": "व्रज",
+          "transliteration": "vraja",
+          "meaning": "go/take"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I"
+        },
+        {
+          "word": "त्वा",
+          "transliteration": "tva",
+          "meaning": "you"
+        },
+        {
+          "word": "सर्वपापेभ्यः",
+          "transliteration": "sarva-papebhyah",
+          "meaning": "from all sins"
+        },
+        {
+          "word": "मोक्षयिष्यामि",
+          "transliteration": "mokshayishyami",
+          "meaning": "shall liberate"
+        },
+        {
+          "word": "मा शुचः",
+          "transliteration": "ma shuchah",
+          "meaning": "do not grieve"
+        }
+      ],
+      "hindiTranslation": "सब धर्मों को त्यागकर केवल मेरी शरण में आ। मैं तुझे सम्पूर्ण पापों से मुक्त करूँगा — शोक मत कर।",
+      "englishTranslation": "Abandon all varieties of dharma and surrender unto Me alone. I shall liberate you from all sins — do not grieve.",
+      "commentary": "This is the Charama Shloka — the supreme verse of the entire Bhagavad Gita and one of the most celebrated verses in all of Hindu scripture. Krishna asks for complete, unconditional surrender, transcending even the attachment to religious duties. In return, God personally guarantees liberation from all karmic bondage. The final words 'ma shuchah' (do not grieve) echo the very beginning of Krishna's teaching, bringing the Gita full circle from Arjuna's despair to God's ultimate reassurance.",
+      "slug": "verse-66"
+    },
+    {
+      "verseNumber": 67,
+      "speaker": "Krishna",
+      "devanagari": "इदं ते नातपस्काय नाभक्ताय कदाचन।\nन चाशुश्रूषवे वाच्यं न च मां योऽभ्यसूयति॥",
+      "transliteration": "Idam te na-atapaskaya na-abhaktaya kadachana\nNa cha-ashushruushave vachyam na cha mam yo'bhyasuyati",
+      "wordByWord": [
+        {
+          "word": "इदम्",
+          "transliteration": "idam",
+          "meaning": "this"
+        },
+        {
+          "word": "ते",
+          "transliteration": "te",
+          "meaning": "by you"
+        },
+        {
+          "word": "न अतपस्काय",
+          "transliteration": "na atapaskaya",
+          "meaning": "not to one without austerity"
+        },
+        {
+          "word": "न अभक्ताय",
+          "transliteration": "na abhaktaya",
+          "meaning": "not to one without devotion"
+        },
+        {
+          "word": "कदाचन",
+          "transliteration": "kadachana",
+          "meaning": "ever"
+        },
+        {
+          "word": "न अशुश्रूषवे",
+          "transliteration": "na ashushruushave",
+          "meaning": "not to one who doesn't serve"
+        },
+        {
+          "word": "वाच्यम्",
+          "transliteration": "vachyam",
+          "meaning": "should be spoken"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "nor"
+        },
+        {
+          "word": "मां यः अभ्यसूयति",
+          "transliteration": "mam yah abhyasuyati",
+          "meaning": "one who is envious of Me"
+        }
+      ],
+      "hindiTranslation": "यह ज्ञान तुझे कभी भी तपस्यारहित को, भक्तिहीन को, सेवा न करने वाले को, और मुझसे द्वेष रखने वाले को नहीं कहना चाहिए।",
+      "englishTranslation": "This knowledge should never be spoken to one who lacks austerity, to one who is not devoted, to one who does not serve, or to one who is envious of Me.",
+      "commentary": "Krishna specifies four disqualifications for receiving this supreme teaching: lack of discipline, lack of devotion, unwillingness to serve, and envy toward God. Sacred knowledge must be shared responsibly with those who have the readiness to receive it. This is not elitism but practical wisdom about the prerequisites for spiritual benefit.",
+      "slug": "verse-67"
+    },
+    {
+      "verseNumber": 68,
+      "speaker": "Krishna",
+      "devanagari": "य इमं परमं गुह्यं मद्भक्तेष्वभिधास्यति।\nभक्तिं मयि परां कृत्वा मामेवैष्यत्यसंशयः॥",
+      "transliteration": "Ya imam paramam guhyam mad-bhakteshv-abhidhasyati\nBhaktim mayi param kritva mam-evaishyaty-asamshayah",
+      "wordByWord": [
+        {
+          "word": "यः",
+          "transliteration": "yah",
+          "meaning": "who"
+        },
+        {
+          "word": "इमम्",
+          "transliteration": "imam",
+          "meaning": "this"
+        },
+        {
+          "word": "परमम् गुह्यम्",
+          "transliteration": "paramam guhyam",
+          "meaning": "supreme secret"
+        },
+        {
+          "word": "मद्भक्तेषु",
+          "transliteration": "mad-bhakteshu",
+          "meaning": "among My devotees"
+        },
+        {
+          "word": "अभिधास्यति",
+          "transliteration": "abhidhasyati",
+          "meaning": "will teach"
+        },
+        {
+          "word": "भक्तिम्",
+          "transliteration": "bhaktim",
+          "meaning": "devotion"
+        },
+        {
+          "word": "मयि",
+          "transliteration": "mayi",
+          "meaning": "unto Me"
+        },
+        {
+          "word": "पराम्",
+          "transliteration": "param",
+          "meaning": "supreme"
+        },
+        {
+          "word": "कृत्वा",
+          "transliteration": "kritva",
+          "meaning": "having done"
+        },
+        {
+          "word": "माम् एव",
+          "transliteration": "mam eva",
+          "meaning": "to Me alone"
+        },
+        {
+          "word": "एष्यति",
+          "transliteration": "eshyati",
+          "meaning": "shall come"
+        },
+        {
+          "word": "असंशयः",
+          "transliteration": "asamshayah",
+          "meaning": "without doubt"
+        }
+      ],
+      "hindiTranslation": "जो इस परम गोपनीय ज्ञान को मेरे भक्तों में कहेगा, वह मुझमें परम भक्ति करके निःसन्देह मुझे ही प्राप्त होगा।",
+      "englishTranslation": "One who teaches this supreme secret to My devotees, performing supreme devotion to Me, shall without doubt come to Me alone.",
+      "commentary": "Sharing sacred knowledge with sincere seekers is itself one of the highest acts of devotion. Krishna guarantees that those who spread the Gita's teachings among devotees will surely attain Him. Teaching spiritual truth is thus both a service to others and a path to personal liberation.",
+      "slug": "verse-68"
+    },
+    {
+      "verseNumber": 69,
+      "speaker": "Krishna",
+      "devanagari": "न च तस्मान्मनुष्येषु कश्चिन्मे प्रियकृत्तमः।\nभविता न च मे तस्मादन्यः प्रियतरो भुवि॥",
+      "transliteration": "Na cha tasman-manushyeshu kashchin-me priya-krittamah\nBhavita na cha me tasmad-anyah priyataro bhuvi",
+      "wordByWord": [
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "तस्मात्",
+          "transliteration": "tasmat",
+          "meaning": "than him"
+        },
+        {
+          "word": "मनुष्येषु",
+          "transliteration": "manushyeshu",
+          "meaning": "among men"
+        },
+        {
+          "word": "कश्चित्",
+          "transliteration": "kashchit",
+          "meaning": "anyone"
+        },
+        {
+          "word": "मे",
+          "transliteration": "me",
+          "meaning": "to Me"
+        },
+        {
+          "word": "प्रियकृत्तमः",
+          "transliteration": "priya-krittamah",
+          "meaning": "more dear in service"
+        },
+        {
+          "word": "भविता",
+          "transliteration": "bhavita",
+          "meaning": "shall be"
+        },
+        {
+          "word": "अन्यः",
+          "transliteration": "anyah",
+          "meaning": "another"
+        },
+        {
+          "word": "प्रियतरः",
+          "transliteration": "priyatarah",
+          "meaning": "more dear"
+        },
+        {
+          "word": "भुवि",
+          "transliteration": "bhuvi",
+          "meaning": "on earth"
+        }
+      ],
+      "hindiTranslation": "मनुष्यों में उससे बढ़कर मेरा प्रिय कार्य करने वाला कोई नहीं है, और पृथ्वी पर उससे अधिक मुझे प्रिय दूसरा कोई नहीं होगा।",
+      "englishTranslation": "There is no one among human beings who does dearer service to Me than that person, nor shall there ever be anyone on earth more dear to Me.",
+      "commentary": "Krishna declares that the teacher of the Gita is the dearest person to God — more beloved than anyone past or future. This extraordinary statement elevates the sharing of divine knowledge to the highest form of service. It demonstrates that helping others realize the truth is God's favorite act of devotion.",
+      "slug": "verse-69"
+    },
+    {
+      "verseNumber": 70,
+      "speaker": "Krishna",
+      "devanagari": "अध्येष्यते च य इमं धर्म्यं संवादमावयोः।\nज्ञानयज्ञेन तेनाहमिष्टः स्यामिति मे मतिः॥",
+      "transliteration": "Adhyeshyate cha ya imam dharmyam samvadam-avayoh\nJnana-yajnena tena-aham-ishtah syam-iti me matih",
+      "wordByWord": [
+        {
+          "word": "अध्येष्यते",
+          "transliteration": "adhyeshyate",
+          "meaning": "will study"
+        },
+        {
+          "word": "यः",
+          "transliteration": "yah",
+          "meaning": "who"
+        },
+        {
+          "word": "इमम्",
+          "transliteration": "imam",
+          "meaning": "this"
+        },
+        {
+          "word": "धर्म्यम्",
+          "transliteration": "dharmyam",
+          "meaning": "sacred"
+        },
+        {
+          "word": "संवादम्",
+          "transliteration": "samvadam",
+          "meaning": "dialogue"
+        },
+        {
+          "word": "आवयोः",
+          "transliteration": "avayoh",
+          "meaning": "of ours"
+        },
+        {
+          "word": "ज्ञानयज्ञेन",
+          "transliteration": "jnana-yajnena",
+          "meaning": "by the sacrifice of knowledge"
+        },
+        {
+          "word": "तेन",
+          "transliteration": "tena",
+          "meaning": "by him"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I"
+        },
+        {
+          "word": "इष्टः",
+          "transliteration": "ishtah",
+          "meaning": "worshipped"
+        },
+        {
+          "word": "स्याम्",
+          "transliteration": "syam",
+          "meaning": "would be"
+        },
+        {
+          "word": "मे मतिः",
+          "transliteration": "me matih",
+          "meaning": "is My opinion"
+        }
+      ],
+      "hindiTranslation": "जो इस हमारे धर्मयुक्त संवाद का अध्ययन करेगा, उसके द्वारा ज्ञानयज्ञ से मैं पूजित होऊँगा — ऐसा मेरा मत है।",
+      "englishTranslation": "And one who studies this sacred dialogue of ours — by that person I am worshipped through the sacrifice of knowledge. Such is My conviction.",
+      "commentary": "Even the study of the Gita constitutes a 'jnana yajna' — a sacrifice through knowledge. Krishna considers the devoted reader as His worshipper. This verse sanctifies the study of the Gita as a form of worship, making it accessible to all regardless of their external circumstances or formal rituals.",
+      "slug": "verse-70"
+    },
+    {
+      "verseNumber": 71,
+      "speaker": "Krishna",
+      "devanagari": "श्रद्धावाननसूयश्च शृणुयादपि यो नरः।\nसोऽपि मुक्तः शुभाँल्लोकान्प्राप्नुयात्पुण्यकर्मणाम्॥",
+      "transliteration": "Shraddhavan-anasuyash-cha shrinuyad-api yo narah\nSo'pi muktah shubhal-lokan prapnuyat punya-karmanam",
+      "wordByWord": [
+        {
+          "word": "श्रद्धावान्",
+          "transliteration": "shraddhavan",
+          "meaning": "with faith"
+        },
+        {
+          "word": "अनसूयः",
+          "transliteration": "anasuyah",
+          "meaning": "free from envy"
+        },
+        {
+          "word": "शृणुयात्",
+          "transliteration": "shrinuyat",
+          "meaning": "listens"
+        },
+        {
+          "word": "अपि",
+          "transliteration": "api",
+          "meaning": "even"
+        },
+        {
+          "word": "यः नरः",
+          "transliteration": "yah narah",
+          "meaning": "the person who"
+        },
+        {
+          "word": "सः अपि",
+          "transliteration": "sah api",
+          "meaning": "that person also"
+        },
+        {
+          "word": "मुक्तः",
+          "transliteration": "muktah",
+          "meaning": "liberated"
+        },
+        {
+          "word": "शुभान् लोकान्",
+          "transliteration": "shubhan lokan",
+          "meaning": "auspicious worlds"
+        },
+        {
+          "word": "प्राप्नुयात्",
+          "transliteration": "prapnuyat",
+          "meaning": "would attain"
+        },
+        {
+          "word": "पुण्यकर्मणाम्",
+          "transliteration": "punya-karmanam",
+          "meaning": "of the meritorious"
+        }
+      ],
+      "hindiTranslation": "जो मनुष्य श्रद्धा से और ईर्ष्या-रहित होकर इसे सुनता भी है — वह भी पापों से मुक्त होकर पुण्यकर्मियों के शुभ लोकों को प्राप्त होता है।",
+      "englishTranslation": "Even one who merely listens to this with faith and without envy is liberated and attains the auspicious worlds of the meritorious.",
+      "commentary": "Krishna extends the Gita's blessings even to listeners who may not fully study or teach it. Two conditions suffice: faith and freedom from envy. Even passive reception of divine wisdom, when accompanied by the right attitude, grants liberation and merit. This makes the Gita's grace universally accessible.",
+      "slug": "verse-71"
+    },
+    {
+      "verseNumber": 72,
+      "speaker": "Krishna",
+      "devanagari": "कच्चिदेतच्छ्रुतं पार्थ त्वयैकाग्रेण चेतसा।\nकच्चिदज्ञानसम्मोहः प्रनष्टस्ते धनञ्जय॥",
+      "transliteration": "Kachchid-etach-chrutam Partha tvaya-ekagrena chetasa\nKachchid-ajnana-sammohah pranashtas-te Dhananjaya",
+      "wordByWord": [
+        {
+          "word": "कच्चित्",
+          "transliteration": "kachchit",
+          "meaning": "whether"
+        },
+        {
+          "word": "एतत्",
+          "transliteration": "etat",
+          "meaning": "this"
+        },
+        {
+          "word": "श्रुतम्",
+          "transliteration": "shrutam",
+          "meaning": "has been heard"
+        },
+        {
+          "word": "पार्थ",
+          "transliteration": "Partha",
+          "meaning": "O Partha"
+        },
+        {
+          "word": "त्वया",
+          "transliteration": "tvaya",
+          "meaning": "by you"
+        },
+        {
+          "word": "एकाग्रेण चेतसा",
+          "transliteration": "ekagrena chetasa",
+          "meaning": "with focused mind"
+        },
+        {
+          "word": "कच्चित्",
+          "transliteration": "kachchit",
+          "meaning": "whether"
+        },
+        {
+          "word": "अज्ञानसम्मोहः",
+          "transliteration": "ajnana-sammohah",
+          "meaning": "delusion born of ignorance"
+        },
+        {
+          "word": "प्रनष्टः",
+          "transliteration": "pranashtah",
+          "meaning": "destroyed"
+        },
+        {
+          "word": "ते",
+          "transliteration": "te",
+          "meaning": "your"
+        },
+        {
+          "word": "धनञ्जय",
+          "transliteration": "Dhananjaya",
+          "meaning": "O Dhananjaya"
+        }
+      ],
+      "hindiTranslation": "हे पार्थ! क्या तूने इसे एकाग्र चित्त से सुना? हे धनञ्जय! क्या तेरा अज्ञानजनित मोह नष्ट हो गया?",
+      "englishTranslation": "O Partha, have you heard this with a focused mind? O Dhananjaya, has your delusion born of ignorance been destroyed?",
+      "commentary": "Krishna's final question is tender and concerned — not a test but a loving inquiry. He wants to confirm that the entire teaching has reached Arjuna's heart. This is the last time Krishna speaks in the Gita, and His question about destroyed delusion circles back to the very beginning when Arjuna was overcome by confusion on the battlefield.",
+      "slug": "verse-72"
+    },
+    {
+      "verseNumber": 73,
+      "speaker": "Arjuna",
+      "devanagari": "नष्टो मोहः स्मृतिर्लब्धा त्वत्प्रसादान्मयाच्युत।\nस्थितोऽस्मि गतसन्देहः करिष्ये वचनं तव॥",
+      "transliteration": "Nashto mohah smritir-labdha tvat-prasadan-maya-Achyuta\nSthito'smi gata-sandehah karishye vachanam tava",
+      "wordByWord": [
+        {
+          "word": "नष्टः",
+          "transliteration": "nashtah",
+          "meaning": "destroyed"
+        },
+        {
+          "word": "मोहः",
+          "transliteration": "mohah",
+          "meaning": "delusion"
+        },
+        {
+          "word": "स्मृतिः",
+          "transliteration": "smritih",
+          "meaning": "memory/awareness"
+        },
+        {
+          "word": "लब्धा",
+          "transliteration": "labdha",
+          "meaning": "gained"
+        },
+        {
+          "word": "त्वत्प्रसादात्",
+          "transliteration": "tvat-prasadat",
+          "meaning": "by Your grace"
+        },
+        {
+          "word": "मया",
+          "transliteration": "maya",
+          "meaning": "by me"
+        },
+        {
+          "word": "अच्युत",
+          "transliteration": "Achyuta",
+          "meaning": "O Infallible One"
+        },
+        {
+          "word": "स्थितः अस्मि",
+          "transliteration": "sthitah asmi",
+          "meaning": "I stand firm"
+        },
+        {
+          "word": "गतसन्देहः",
+          "transliteration": "gata-sandehah",
+          "meaning": "free from doubt"
+        },
+        {
+          "word": "करिष्ये",
+          "transliteration": "karishye",
+          "meaning": "I shall execute"
+        },
+        {
+          "word": "वचनम् तव",
+          "transliteration": "vachanam tava",
+          "meaning": "Your word/command"
+        }
+      ],
+      "hindiTranslation": "अर्जुन बोले — हे अच्युत! आपकी कृपा से मेरा मोह नष्ट हो गया, स्मृति (ज्ञान) प्राप्त हुई। मैं सन्देहरहित होकर स्थिर हूँ — आपका वचन करूँगा।",
+      "englishTranslation": "Arjuna said: O Achyuta, my delusion is destroyed and I have regained my awareness by Your grace. I stand firm, free from doubt. I shall execute Your command.",
+      "commentary": "Arjuna's response is one of the most powerful moments in the Gita. His declaration 'my delusion is destroyed' perfectly answers Krishna's concern. The transformation is complete — from the despairing, confused warrior of Chapter 1 to the resolute, enlightened man of action. His final words 'I shall do Your bidding' represent the ideal of surrender combined with duty.",
+      "slug": "verse-73"
+    },
+    {
+      "verseNumber": 74,
+      "speaker": "Sanjaya",
+      "devanagari": "इत्यहं वासुदेवस्य पार्थस्य च महात्मनः।\nसंवादमिममश्रौषमद्भुतं रोमहर्षणम्॥",
+      "transliteration": "Ity-aham Vasudevasya Parthasya cha Mahatmanah\nSamvadam-imam-ashrausham-adbhutam roma-harshanam",
+      "wordByWord": [
+        {
+          "word": "इति",
+          "transliteration": "iti",
+          "meaning": "thus"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I"
+        },
+        {
+          "word": "वासुदेवस्य",
+          "transliteration": "Vasudevasya",
+          "meaning": "of Vasudeva (Krishna)"
+        },
+        {
+          "word": "पार्थस्य",
+          "transliteration": "Parthasya",
+          "meaning": "of Partha (Arjuna)"
+        },
+        {
+          "word": "महात्मनः",
+          "transliteration": "Mahatmanah",
+          "meaning": "of the great soul"
+        },
+        {
+          "word": "संवादम्",
+          "transliteration": "samvadam",
+          "meaning": "dialogue"
+        },
+        {
+          "word": "इमम्",
+          "transliteration": "imam",
+          "meaning": "this"
+        },
+        {
+          "word": "अश्रौषम्",
+          "transliteration": "ashrausham",
+          "meaning": "I heard"
+        },
+        {
+          "word": "अद्भुतम्",
+          "transliteration": "adbhutam",
+          "meaning": "wonderful"
+        },
+        {
+          "word": "रोमहर्षणम्",
+          "transliteration": "roma-harshanam",
+          "meaning": "hair-raising (thrilling)"
+        }
+      ],
+      "hindiTranslation": "संजय बोले — इस प्रकार मैंने वासुदेव (कृष्ण) और महात्मा पार्थ (अर्जुन) के इस अद्भुत और रोमांचकारी संवाद को सुना।",
+      "englishTranslation": "Sanjaya said: Thus I have heard this wonderful and thrilling dialogue between Vasudeva (Krishna) and the great-souled Partha (Arjuna).",
+      "commentary": "The narrative returns to Sanjaya, the narrator who has been relating this conversation to the blind King Dhritarashtra. His description of the dialogue as 'wonderful and hair-raising' conveys the awe of one who has been privileged to witness the supreme revelation firsthand.",
+      "slug": "verse-74"
+    },
+    {
+      "verseNumber": 75,
+      "speaker": "Sanjaya",
+      "devanagari": "व्यासप्रसादाच्छ्रुतवानेतद्गुह्यमहं परम्।\nयोगं योगेश्वरात्कृष्णात्साक्षात्कथयतः स्वयम्॥",
+      "transliteration": "Vyasa-prasadach-chrutavan-etad-guhyam-aham param\nYogam Yogeshvarat-Krishnat-sakshat-kathayatah svayam",
+      "wordByWord": [
+        {
+          "word": "व्यासप्रसादात्",
+          "transliteration": "Vyasa-prasadat",
+          "meaning": "by the grace of Vyasa"
+        },
+        {
+          "word": "श्रुतवान्",
+          "transliteration": "shrutavan",
+          "meaning": "I have heard"
+        },
+        {
+          "word": "एतत्",
+          "transliteration": "etat",
+          "meaning": "this"
+        },
+        {
+          "word": "गुह्यम्",
+          "transliteration": "guhyam",
+          "meaning": "secret"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I"
+        },
+        {
+          "word": "परम्",
+          "transliteration": "param",
+          "meaning": "supreme"
+        },
+        {
+          "word": "योगम्",
+          "transliteration": "yogam",
+          "meaning": "yoga"
+        },
+        {
+          "word": "योगेश्वरात्",
+          "transliteration": "Yogeshvarat",
+          "meaning": "from the Lord of Yoga"
+        },
+        {
+          "word": "कृष्णात्",
+          "transliteration": "Krishnat",
+          "meaning": "from Krishna"
+        },
+        {
+          "word": "साक्षात्",
+          "transliteration": "sakshat",
+          "meaning": "directly"
+        },
+        {
+          "word": "कथयतः",
+          "transliteration": "kathayatah",
+          "meaning": "speaking"
+        },
+        {
+          "word": "स्वयम्",
+          "transliteration": "svayam",
+          "meaning": "Himself"
+        }
+      ],
+      "hindiTranslation": "व्यास जी की कृपा से मैंने इस परम गोपनीय योग को योगेश्वर कृष्ण से स्वयं साक्षात् कहते हुए सुना।",
+      "englishTranslation": "By the grace of Vyasa, I have heard this supreme and most secret yoga directly from Krishna, the Lord of Yoga, speaking it Himself.",
+      "commentary": "Sanjaya acknowledges two sources of his extraordinary privilege: the sage Vyasa's grace which gave him divine vision, and Krishna's own words. The chain of transmission — from Krishna through Sanjaya to Dhritarashtra to Vyasa's written record — preserves this sacred teaching for all humanity.",
+      "slug": "verse-75"
+    },
+    {
+      "verseNumber": 76,
+      "speaker": "Sanjaya",
+      "devanagari": "राजन्संस्मृत्य संस्मृत्य संवादमिममद्भुतम्।\nकेशवार्जुनयोः पुण्यं हृष्यामि च मुहुर्मुहुः॥",
+      "transliteration": "Rajan-samsmritya samsmritya samvadam-imam-adbhutam\nKeshava-Arjunayoh punyam hrishyami cha muhur-muhuh",
+      "wordByWord": [
+        {
+          "word": "राजन्",
+          "transliteration": "Rajan",
+          "meaning": "O King"
+        },
+        {
+          "word": "संस्मृत्य संस्मृत्य",
+          "transliteration": "samsmritya samsmritya",
+          "meaning": "remembering again and again"
+        },
+        {
+          "word": "संवादम्",
+          "transliteration": "samvadam",
+          "meaning": "dialogue"
+        },
+        {
+          "word": "इमम्",
+          "transliteration": "imam",
+          "meaning": "this"
+        },
+        {
+          "word": "अद्भुतम्",
+          "transliteration": "adbhutam",
+          "meaning": "wonderful"
+        },
+        {
+          "word": "केशवार्जुनयोः",
+          "transliteration": "Keshava-Arjunayoh",
+          "meaning": "between Keshava and Arjuna"
+        },
+        {
+          "word": "पुण्यम्",
+          "transliteration": "punyam",
+          "meaning": "sacred"
+        },
+        {
+          "word": "हृष्यामि",
+          "transliteration": "hrishyami",
+          "meaning": "I rejoice"
+        },
+        {
+          "word": "मुहुर्मुहुः",
+          "transliteration": "muhur-muhuh",
+          "meaning": "again and again"
+        }
+      ],
+      "hindiTranslation": "हे राजन्! केशव (कृष्ण) और अर्जुन के इस अद्भुत पवित्र संवाद को बार-बार स्मरण करके मैं बार-बार हर्षित होता हूँ।",
+      "englishTranslation": "O King, remembering again and again this wonderful and sacred dialogue between Keshava and Arjuna, I rejoice repeatedly.",
+      "commentary": "Sanjaya's repeated rejoicing demonstrates the inexhaustible nature of divine wisdom. Each recollection of the Gita brings fresh delight and deeper understanding. This models the devotional practice of contemplating sacred teachings — the joy never diminishes but only grows with each remembrance.",
+      "slug": "verse-76"
+    },
+    {
+      "verseNumber": 77,
+      "speaker": "Sanjaya",
+      "devanagari": "तच्च संस्मृत्य संस्मृत्य रूपमत्यद्भुतं हरेः।\nविस्मयो मे महान्राजन्हृष्यामि च पुनः पुनः॥",
+      "transliteration": "Tach-cha samsmritya samsmritya rupam-aty-adbhutam Hareh\nVismayo me mahan Rajan hrishyami cha punah punah",
+      "wordByWord": [
+        {
+          "word": "तत्",
+          "transliteration": "tat",
+          "meaning": "that"
+        },
+        {
+          "word": "संस्मृत्य संस्मृत्य",
+          "transliteration": "samsmritya samsmritya",
+          "meaning": "remembering again and again"
+        },
+        {
+          "word": "रूपम्",
+          "transliteration": "rupam",
+          "meaning": "form"
+        },
+        {
+          "word": "अत्यद्भुतम्",
+          "transliteration": "aty-adbhutam",
+          "meaning": "most wonderful"
+        },
+        {
+          "word": "हरेः",
+          "transliteration": "Hareh",
+          "meaning": "of Hari (Krishna)"
+        },
+        {
+          "word": "विस्मयः",
+          "transliteration": "vismayah",
+          "meaning": "wonder"
+        },
+        {
+          "word": "मे",
+          "transliteration": "me",
+          "meaning": "my"
+        },
+        {
+          "word": "महान्",
+          "transliteration": "mahan",
+          "meaning": "great"
+        },
+        {
+          "word": "राजन्",
+          "transliteration": "Rajan",
+          "meaning": "O King"
+        },
+        {
+          "word": "हृष्यामि",
+          "transliteration": "hrishyami",
+          "meaning": "I rejoice"
+        },
+        {
+          "word": "पुनः पुनः",
+          "transliteration": "punah punah",
+          "meaning": "again and again"
+        }
+      ],
+      "hindiTranslation": "हे राजन्! हरि (कृष्ण) के उस अत्यन्त अद्भुत रूप (विश्वरूप) को बार-बार स्मरण करके मुझे महान् विस्मय होता है और मैं बार-बार हर्षित होता हूँ।",
+      "englishTranslation": "And remembering again and again that most wonderful cosmic form of Hari, great is my wonder, O King, and I rejoice again and again.",
+      "commentary": "Sanjaya recalls Krishna's cosmic form (Vishwarupa) from Chapter 11 with ever-fresh amazement. The vision of God's universal form left an indelible impression on his consciousness. This verse shows how encounters with divine reality create inexhaustible wells of wonder and joy in the heart.",
+      "slug": "verse-77"
+    },
+    {
+      "verseNumber": 78,
+      "speaker": "Sanjaya",
+      "devanagari": "यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः।\nतत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम॥",
+      "transliteration": "Yatra Yogeshvarah Krishno yatra Partho dhanur-dharah\nTatra shrir-vijayo bhutir-dhruva nitir-matir-mama",
+      "wordByWord": [
+        {
+          "word": "यत्र",
+          "transliteration": "yatra",
+          "meaning": "where"
+        },
+        {
+          "word": "योगेश्वरः",
+          "transliteration": "Yogeshvarah",
+          "meaning": "the Lord of Yoga"
+        },
+        {
+          "word": "कृष्णः",
+          "transliteration": "Krishnah",
+          "meaning": "Krishna"
+        },
+        {
+          "word": "यत्र",
+          "transliteration": "yatra",
+          "meaning": "where"
+        },
+        {
+          "word": "पार्थः",
+          "transliteration": "Parthah",
+          "meaning": "Partha (Arjuna)"
+        },
+        {
+          "word": "धनुर्धरः",
+          "transliteration": "dhanur-dharah",
+          "meaning": "the wielder of the bow"
+        },
+        {
+          "word": "तत्र",
+          "transliteration": "tatra",
+          "meaning": "there"
+        },
+        {
+          "word": "श्रीः",
+          "transliteration": "shrih",
+          "meaning": "prosperity"
+        },
+        {
+          "word": "विजयः",
+          "transliteration": "vijayah",
+          "meaning": "victory"
+        },
+        {
+          "word": "भूतिः",
+          "transliteration": "bhutih",
+          "meaning": "glory"
+        },
+        {
+          "word": "ध्रुवा",
+          "transliteration": "dhruva",
+          "meaning": "certain/firm"
+        },
+        {
+          "word": "नीतिः",
+          "transliteration": "nitih",
+          "meaning": "righteousness"
+        },
+        {
+          "word": "मतिः मम",
+          "transliteration": "matih mama",
+          "meaning": "is my opinion"
+        }
+      ],
+      "hindiTranslation": "जहाँ योगेश्वर कृष्ण हैं और जहाँ धनुर्धर अर्जुन हैं — वहाँ श्री (सम्पत्ति), विजय, विभूति (ऐश्वर्य) और अटल नीति है — ऐसा मेरा मत है।",
+      "englishTranslation": "Wherever there is Krishna, the Lord of Yoga, and wherever there is Arjuna, the wielder of the bow — there will certainly be prosperity, victory, glory, and firm righteousness. Such is my conviction.",
+      "commentary": "The Bhagavad Gita concludes with this immortal declaration. The union of divine wisdom (Krishna) and righteous human effort (Arjuna) guarantees victory on all fronts — material prosperity, military success, spiritual glory, and moral righteousness. This final verse affirms that when God and the devoted soul work together, nothing is impossible. It is both a historical prophecy about the Mahabharata war and an eternal truth about the partnership between divine grace and human devotion.",
+      "slug": "verse-78"
+    }
+  ]
+}

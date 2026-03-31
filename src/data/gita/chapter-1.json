@@ -1,0 +1,2955 @@
+{
+  "chapterNumber": 1,
+  "titleSanskrit": "अर्जुनविषादयोगः",
+  "titleHindi": "अर्जुन विषाद योग",
+  "titleEnglish": "Arjuna Vishada Yoga - The Yoga of Arjuna's Despondency",
+  "slug": "chapter-1",
+  "description": "Bhagavad Gita Chapter 1, Arjuna Vishada Yoga, sets the stage for the entire Gita dialogue on the battlefield of Kurukshetra. King Dhritarashtra asks Sanjaya about the events on the sacred field where the Kauravas and Pandavas have assembled for war. Sanjaya describes Duryodhana approaching Dronacharya and listing the mighty warriors on both sides. As conches blow and the battle is about to begin, Arjuna asks Krishna to drive his chariot between the two armies. Seeing his grandfathers, teachers, uncles, brothers, sons, and friends arrayed for battle, Arjuna is overcome with deep compassion and sorrow. His limbs tremble, his mouth dries up, and the Gandiva bow slips from his hands. He argues that killing his own kinsmen for a kingdom would be a great sin, leading to the destruction of family dharma and social order. Overwhelmed by grief and moral confusion, Arjuna casts aside his bow and arrows and sinks into the seat of his chariot, setting the stage for Krishna's immortal teachings.",
+  "verseCount": 47,
+  "verses": [
+    {
+      "verseNumber": 1,
+      "slug": "verse-1",
+      "speaker": "Dhritarashtra",
+      "devanagari": "धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः।\nमामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय॥१॥",
+      "transliteration": "Dharmakshetre Kurukshetre Samaveta Yuyutsavah.\nMamakah Pandavash-Chaiva Kim-Akurvata Sanjaya.||1||",
+      "wordByWord": [
+        {
+          "word": "धर्मक्षेत्रे",
+          "transliteration": "dharma-kshetre",
+          "meaning": "in the field of dharma"
+        },
+        {
+          "word": "कुरुक्षेत्रे",
+          "transliteration": "kuru-kshetre",
+          "meaning": "in the field of the Kurus"
+        },
+        {
+          "word": "समवेताः",
+          "transliteration": "samavetah",
+          "meaning": "assembled"
+        },
+        {
+          "word": "युयुत्सवः",
+          "transliteration": "yuyutsavah",
+          "meaning": "desiring to fight"
+        },
+        {
+          "word": "मामकाः",
+          "transliteration": "mamakah",
+          "meaning": "my (sons)"
+        },
+        {
+          "word": "पाण्डवाः",
+          "transliteration": "pandavah",
+          "meaning": "the sons of Pandu"
+        },
+        {
+          "word": "च",
+          "transliteration": "cha",
+          "meaning": "and"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "indeed"
+        },
+        {
+          "word": "किम्",
+          "transliteration": "kim",
+          "meaning": "what"
+        },
+        {
+          "word": "अकुर्वत",
+          "transliteration": "akurvata",
+          "meaning": "did they do"
+        },
+        {
+          "word": "सञ्जय",
+          "transliteration": "sanjaya",
+          "meaning": "O Sanjaya"
+        }
+      ],
+      "hindiTranslation": "धृतराष्ट्र ने कहा — हे संजय! धर्मभूमि कुरुक्षेत्र में एकत्रित, युद्ध की इच्छा वाले मेरे और पाण्डु के पुत्रों ने क्या किया?",
+      "englishTranslation": "Dhritarashtra said: O Sanjaya, assembled on the holy field of Kurukshetra, eager to fight, what did my sons and the sons of Pandu do?",
+      "commentary": "This opening verse sets the entire tone of the Gita. Dhritarashtra's use of 'mamakah' (my sons) versus 'Pandavah' (sons of Pandu) reveals his deep attachment and partiality. The word 'Dharmakshetra' is significant — the field of righteousness will ultimately favor dharma over adharma."
+    },
+    {
+      "verseNumber": 2,
+      "slug": "verse-2",
+      "speaker": "Sanjaya",
+      "devanagari": "दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा।\nआचार्यमुपसङ्गम्य राजा वचनमब्रवीत्॥२॥",
+      "transliteration": "Drishtva Tu Pandavanikam Vyudham Duryodhanas-Tada.\nAcharyam-Upasangamya Raja Vachanam-Abravit.||2||",
+      "wordByWord": [
+        {
+          "word": "दृष्ट्वा",
+          "transliteration": "drishtva",
+          "meaning": "having seen"
+        },
+        {
+          "word": "तु",
+          "transliteration": "tu",
+          "meaning": "but/then"
+        },
+        {
+          "word": "पाण्डवानीकम्",
+          "transliteration": "pandava-anikam",
+          "meaning": "the army of the Pandavas"
+        },
+        {
+          "word": "व्यूढम्",
+          "transliteration": "vyudham",
+          "meaning": "arrayed in military formation"
+        },
+        {
+          "word": "दुर्योधनः",
+          "transliteration": "duryodhanah",
+          "meaning": "Duryodhana"
+        },
+        {
+          "word": "तदा",
+          "transliteration": "tada",
+          "meaning": "then"
+        },
+        {
+          "word": "आचार्यम्",
+          "transliteration": "acharyam",
+          "meaning": "the teacher (Drona)"
+        },
+        {
+          "word": "उपसङ्गम्य",
+          "transliteration": "upasangamya",
+          "meaning": "approaching"
+        },
+        {
+          "word": "राजा",
+          "transliteration": "raja",
+          "meaning": "the king"
+        },
+        {
+          "word": "वचनम्",
+          "transliteration": "vachanam",
+          "meaning": "words"
+        },
+        {
+          "word": "अब्रवीत्",
+          "transliteration": "abravit",
+          "meaning": "spoke"
+        }
+      ],
+      "hindiTranslation": "संजय ने कहा — पाण्डवों की सेना को व्यूहाकार में खड़ी देखकर राजा दुर्योधन ने तब आचार्य द्रोणाचार्य के पास जाकर यह वचन कहे।",
+      "englishTranslation": "Sanjaya said: Having seen the army of the Pandavas drawn up in battle formation, King Duryodhana then approached his teacher Drona and spoke these words.",
+      "commentary": "Duryodhana's anxiety is revealed through his immediate approach to Drona. Rather than consulting Bhishma, the commander-in-chief, he goes to Drona — subtly reminding him that Drupada's son Dhrishtadyumna, Drona's sworn enemy, leads the opposing army. This is a calculated political move disguised as respect."
+    },
+    {
+      "verseNumber": 3,
+      "slug": "verse-3",
+      "speaker": "Duryodhana",
+      "devanagari": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम्।\nव्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता॥३॥",
+      "transliteration": "Pashyai-Tam Pandu-Putranam-Acharya Mahatim Chamum.\nVyudham Drupada-Putrena Tava Shishyena Dhimata.||3||",
+      "wordByWord": [
+        {
+          "word": "पश्य",
+          "transliteration": "pashya",
+          "meaning": "behold"
+        },
+        {
+          "word": "एताम्",
+          "transliteration": "etam",
+          "meaning": "this"
+        },
+        {
+          "word": "पाण्डुपुत्राणाम्",
+          "transliteration": "pandu-putranam",
+          "meaning": "of the sons of Pandu"
+        },
+        {
+          "word": "आचार्य",
+          "transliteration": "acharya",
+          "meaning": "O teacher"
+        },
+        {
+          "word": "महतीम्",
+          "transliteration": "mahatim",
+          "meaning": "great"
+        },
+        {
+          "word": "चमूम्",
+          "transliteration": "chamum",
+          "meaning": "army"
+        },
+        {
+          "word": "व्यूढाम्",
+          "transliteration": "vyudham",
+          "meaning": "arranged in formation"
+        },
+        {
+          "word": "द्रुपदपुत्रेण",
+          "transliteration": "drupada-putrena",
+          "meaning": "by the son of Drupada"
+        },
+        {
+          "word": "तव",
+          "transliteration": "tava",
+          "meaning": "your"
+        },
+        {
+          "word": "शिष्येण",
+          "transliteration": "shishyena",
+          "meaning": "by the disciple"
+        },
+        {
+          "word": "धीमता",
+          "transliteration": "dhimata",
+          "meaning": "intelligent"
+        }
+      ],
+      "hindiTranslation": "दुर्योधन ने कहा — हे आचार्य! पाण्डु-पुत्रों की इस विशाल सेना को देखिए, जिसे आपके बुद्धिमान शिष्य द्रुपद-पुत्र धृष्टद्युम्न ने व्यूह-रचना में खड़ा किया है।",
+      "englishTranslation": "Duryodhana said: O teacher, behold this mighty army of the sons of Pandu, arrayed in battle formation by your intelligent disciple, the son of Drupada.",
+      "commentary": "Duryodhana cunningly reminds Drona that the opposing army is led by Dhrishtadyumna — Drona's own student and the son of Drupada, who was born specifically to kill Drona. By calling him 'your disciple,' Duryodhana provokes Drona's fighting spirit through a mix of flattery and implied reproach."
+    },
+    {
+      "verseNumber": 4,
+      "slug": "verse-4",
+      "speaker": "Duryodhana",
+      "devanagari": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि।\nयुयुधानो विराटश्च द्रुपदश्च महारथः॥४॥",
+      "transliteration": "Atra Shura Maheshvasa Bhimarjuna-Sama Yudhi.\nYuyudhano Viratas-Cha Drupadas-Cha Maharathah.||4||",
+      "wordByWord": [
+        {
+          "word": "अत्र",
+          "transliteration": "atra",
+          "meaning": "here"
+        },
+        {
+          "word": "शूराः",
+          "transliteration": "shurah",
+          "meaning": "heroes"
+        },
+        {
+          "word": "महेष्वासाः",
+          "transliteration": "maheshvasah",
+          "meaning": "mighty bowmen"
+        },
+        {
+          "word": "भीमार्जुनसमाः",
+          "transliteration": "bhimarjuna-samah",
+          "meaning": "equal to Bhima and Arjuna"
+        },
+        {
+          "word": "युधि",
+          "transliteration": "yudhi",
+          "meaning": "in battle"
+        },
+        {
+          "word": "युयुधानः",
+          "transliteration": "yuyudhanah",
+          "meaning": "Yuyudhana (Satyaki)"
+        },
+        {
+          "word": "विराटः",
+          "transliteration": "viratah",
+          "meaning": "Virata"
+        },
+        {
+          "word": "द्रुपदः",
+          "transliteration": "drupadah",
+          "meaning": "Drupada"
+        },
+        {
+          "word": "महारथः",
+          "transliteration": "maharathah",
+          "meaning": "great chariot warrior"
+        }
+      ],
+      "hindiTranslation": "इस सेना में भीम और अर्जुन के समान युद्ध करने वाले अनेक शूरवीर और महान धनुर्धर हैं — युयुधान (सात्यकि), विराट और महारथी द्रुपद।",
+      "englishTranslation": "Here in this army are many heroic bowmen equal in battle to Bhima and Arjuna — Yuyudhana (Satyaki), Virata, and the great warrior Drupada.",
+      "commentary": "Duryodhana begins enumerating the Pandava warriors to stir Drona's concern. By comparing them to Bhima and Arjuna, he emphasizes the threat they pose. This cataloguing of warriors reveals Duryodhana's own anxiety masked as strategic assessment."
+    },
+    {
+      "verseNumber": 5,
+      "slug": "verse-5",
+      "speaker": "Duryodhana",
+      "devanagari": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान्।\nपुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गवः॥५॥",
+      "transliteration": "Dhrishtaketush-Chekitanah Kashirajas-Cha Viryavan.\nPurujit-Kuntibhojas-Cha Shaibyas-Cha Nara-Pungavah.||5||",
+      "wordByWord": [
+        {
+          "word": "धृष्टकेतुः",
+          "transliteration": "dhrishtaketuh",
+          "meaning": "Dhrishtaketu"
+        },
+        {
+          "word": "चेकितानः",
+          "transliteration": "chekitanah",
+          "meaning": "Chekitana"
+        },
+        {
+          "word": "काशिराजः",
+          "transliteration": "kashirajah",
+          "meaning": "the King of Kashi"
+        },
+        {
+          "word": "वीर्यवान्",
+          "transliteration": "viryavan",
+          "meaning": "valiant"
+        },
+        {
+          "word": "पुरुजित्",
+          "transliteration": "purujit",
+          "meaning": "Purujit"
+        },
+        {
+          "word": "कुन्तिभोजः",
+          "transliteration": "kuntibhojah",
+          "meaning": "Kuntibhoja"
+        },
+        {
+          "word": "शैब्यः",
+          "transliteration": "shaibyah",
+          "meaning": "Shaibya"
+        },
+        {
+          "word": "नरपुङ्गवः",
+          "transliteration": "nara-pungavah",
+          "meaning": "best among men"
+        }
+      ],
+      "hindiTranslation": "धृष्टकेतु, चेकितान, पराक्रमी काशिराज, पुरुजित, कुन्तिभोज और नरश्रेष्ठ शैब्य भी उनकी सेना में हैं।",
+      "englishTranslation": "Dhrishtaketu, Chekitana, the valiant King of Kashi, Purujit, Kuntibhoja, and Shaibya — the best among men — are also present.",
+      "commentary": "Duryodhana continues listing Pandava allies, each a powerful king in his own right. This enumeration serves to impress upon Drona the formidable nature of the opposition, while simultaneously revealing Duryodhana's own inner nervousness."
+    },
+    {
+      "verseNumber": 6,
+      "slug": "verse-6",
+      "speaker": "Duryodhana",
+      "devanagari": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान्।\nसौभद्रो द्रौपदेयाश्च सर्व एव महारथाः॥६॥",
+      "transliteration": "Yudhamanyu-Sh-Cha Vikranta Uttamaujas-Cha Viryavan.\nSaubhadro Draupadeyash-Cha Sarva Eva Maharathah.||6||",
+      "wordByWord": [
+        {
+          "word": "युधामन्युः",
+          "transliteration": "yudhamanyuh",
+          "meaning": "Yudhamanyu"
+        },
+        {
+          "word": "विक्रान्तः",
+          "transliteration": "vikrantah",
+          "meaning": "mighty"
+        },
+        {
+          "word": "उत्तमौजाः",
+          "transliteration": "uttamaujah",
+          "meaning": "Uttamaujas"
+        },
+        {
+          "word": "वीर्यवान्",
+          "transliteration": "viryavan",
+          "meaning": "valiant"
+        },
+        {
+          "word": "सौभद्रः",
+          "transliteration": "saubhadrah",
+          "meaning": "son of Subhadra (Abhimanyu)"
+        },
+        {
+          "word": "द्रौपदेयाः",
+          "transliteration": "draupadeyah",
+          "meaning": "sons of Draupadi"
+        },
+        {
+          "word": "सर्वे",
+          "transliteration": "sarve",
+          "meaning": "all"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "indeed"
+        },
+        {
+          "word": "महारथाः",
+          "transliteration": "maharathah",
+          "meaning": "great chariot warriors"
+        }
+      ],
+      "hindiTranslation": "पराक्रमी युधामन्यु, वीर उत्तमौजा, सुभद्रा-पुत्र अभिमन्यु और द्रौपदी के पाँचों पुत्र — ये सभी महारथी हैं।",
+      "englishTranslation": "The mighty Yudhamanyu, the valiant Uttamaujas, the son of Subhadra (Abhimanyu), and the sons of Draupadi — all of them are great chariot warriors.",
+      "commentary": "Duryodhana mentions Abhimanyu and the sons of Draupadi — young warriors of the next generation. The mention of so many maharathis (great warriors capable of fighting ten thousand soldiers simultaneously) shows the depth of the Pandava army's strength."
+    },
+    {
+      "verseNumber": 7,
+      "slug": "verse-7",
+      "speaker": "Duryodhana",
+      "devanagari": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम।\nनायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते॥७॥",
+      "transliteration": "Asmakam Tu Vishishta Ye Tan-Nibodha Dvijottama.\nNayaka Mama Sainyasya Samjnartham Tan-Bravimi Te.||7||",
+      "wordByWord": [
+        {
+          "word": "अस्माकम्",
+          "transliteration": "asmakam",
+          "meaning": "our"
+        },
+        {
+          "word": "तु",
+          "transliteration": "tu",
+          "meaning": "but"
+        },
+        {
+          "word": "विशिष्टाः",
+          "transliteration": "vishishtah",
+          "meaning": "distinguished"
+        },
+        {
+          "word": "ये",
+          "transliteration": "ye",
+          "meaning": "who"
+        },
+        {
+          "word": "तान्",
+          "transliteration": "tan",
+          "meaning": "them"
+        },
+        {
+          "word": "निबोध",
+          "transliteration": "nibodha",
+          "meaning": "know/learn"
+        },
+        {
+          "word": "द्विजोत्तम",
+          "transliteration": "dvijottama",
+          "meaning": "O best of Brahmanas"
+        },
+        {
+          "word": "नायकाः",
+          "transliteration": "nayakah",
+          "meaning": "leaders"
+        },
+        {
+          "word": "मम",
+          "transliteration": "mama",
+          "meaning": "my"
+        },
+        {
+          "word": "सैन्यस्य",
+          "transliteration": "sainyasya",
+          "meaning": "of the army"
+        },
+        {
+          "word": "संज्ञार्थम्",
+          "transliteration": "samjnartham",
+          "meaning": "for information"
+        }
+      ],
+      "hindiTranslation": "हे द्विजश्रेष्ठ! अब हमारी ओर के भी जो विशिष्ट योद्धा हैं, उन्हें भी जानिए। आपकी जानकारी के लिए मैं अपनी सेना के नायकों के नाम बताता हूँ।",
+      "englishTranslation": "But know also, O best of Brahmanas, the distinguished warriors on our side. For your information, I name the leaders of my army.",
+      "commentary": "After enumerating the Pandava warriors, Duryodhana now turns to his own side. Addressing Drona as 'Dvijottama' (best of the twice-born) is both respectful and strategic — it reminds Drona of his Brahmin duty to fight for his patron."
+    },
+    {
+      "verseNumber": 8,
+      "slug": "verse-8",
+      "speaker": "Duryodhana",
+      "devanagari": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः।\nअश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च॥८॥",
+      "transliteration": "Bhavan-Bhishmas-Cha Karnas-Cha Kripas-Cha Samitinjayah.\nAshvatthama Vikarnas-Cha Saumadattis-Tathaiva Cha.||8||",
+      "wordByWord": [
+        {
+          "word": "भवान्",
+          "transliteration": "bhavan",
+          "meaning": "yourself (Drona)"
+        },
+        {
+          "word": "भीष्मः",
+          "transliteration": "bhishmah",
+          "meaning": "Bhishma"
+        },
+        {
+          "word": "कर्णः",
+          "transliteration": "karnah",
+          "meaning": "Karna"
+        },
+        {
+          "word": "कृपः",
+          "transliteration": "kripah",
+          "meaning": "Kripa"
+        },
+        {
+          "word": "समितिञ्जयः",
+          "transliteration": "samitinjayah",
+          "meaning": "always victorious in battle"
+        },
+        {
+          "word": "अश्वत्थामा",
+          "transliteration": "ashvatthama",
+          "meaning": "Ashvatthama"
+        },
+        {
+          "word": "विकर्णः",
+          "transliteration": "vikarnah",
+          "meaning": "Vikarna"
+        },
+        {
+          "word": "सौमदत्तिः",
+          "transliteration": "saumadattih",
+          "meaning": "son of Somadatta (Bhurishrava)"
+        }
+      ],
+      "hindiTranslation": "आप स्वयं (द्रोणाचार्य), भीष्म, कर्ण, युद्ध में सदा विजयी कृपाचार्य, अश्वत्थामा, विकर्ण और सोमदत्त-पुत्र भूरिश्रवा — ये सब हमारी ओर हैं।",
+      "englishTranslation": "Yourself (Drona), Bhishma, Karna, the ever-victorious Kripa, Ashvatthama, Vikarna, and Bhurishrava, the son of Somadatta — all are on our side.",
+      "commentary": "Duryodhana places Drona first in his list, a diplomatic move. Notably, he names Karna alongside Bhishma — two warriors who had deep mutual rivalry. This list of legendary warriors is meant to reassure both Drona and himself of their army's invincibility."
+    },
+    {
+      "verseNumber": 9,
+      "slug": "verse-9",
+      "speaker": "Duryodhana",
+      "devanagari": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः।\nनानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः॥९॥",
+      "transliteration": "Anye Cha Bahavah Shura Mad-Arthe Tyakta-Jivitah.\nNana-Shastra-Praharanah Sarve Yuddha-Visharadah.||9||",
+      "wordByWord": [
+        {
+          "word": "अन्ये",
+          "transliteration": "anye",
+          "meaning": "others"
+        },
+        {
+          "word": "बहवः",
+          "transliteration": "bahavah",
+          "meaning": "many"
+        },
+        {
+          "word": "शूराः",
+          "transliteration": "shurah",
+          "meaning": "heroes"
+        },
+        {
+          "word": "मदर्थे",
+          "transliteration": "mad-arthe",
+          "meaning": "for my sake"
+        },
+        {
+          "word": "त्यक्तजीविताः",
+          "transliteration": "tyakta-jivitah",
+          "meaning": "ready to give up their lives"
+        },
+        {
+          "word": "नानाशस्त्रप्रहरणाः",
+          "transliteration": "nana-shastra-praharanah",
+          "meaning": "armed with various weapons"
+        },
+        {
+          "word": "सर्वे",
+          "transliteration": "sarve",
+          "meaning": "all"
+        },
+        {
+          "word": "युद्धविशारदाः",
+          "transliteration": "yuddha-visharadah",
+          "meaning": "skilled in warfare"
+        }
+      ],
+      "hindiTranslation": "और भी बहुत से शूरवीर हैं जो मेरे लिए अपने प्राणों को त्यागने के लिए तैयार हैं। वे सब विभिन्न शस्त्रों से सुसज्जित और युद्धकला में निपुण हैं।",
+      "englishTranslation": "And many other heroes are ready to lay down their lives for my sake. They are all armed with various weapons and are skilled in the art of warfare.",
+      "commentary": "Duryodhana's claim that warriors are ready to die 'for my sake' reveals his ego and possessiveness. He sees the war as his personal cause rather than a matter of dharma. This self-centered view contrasts sharply with the Pandavas' fight for righteous justice."
+    },
+    {
+      "verseNumber": 10,
+      "slug": "verse-10",
+      "speaker": "Duryodhana",
+      "devanagari": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम्।\nपर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम्॥१०॥",
+      "transliteration": "Aparyaptam Tad-Asmakam Balam Bhishma-Abhirakshitam.\nParyaptam Tv-Idam-Etesham Balam Bhima-Abhirakshitam.||10||",
+      "wordByWord": [
+        {
+          "word": "अपर्याप्तम्",
+          "transliteration": "aparyaptam",
+          "meaning": "unlimited/insufficient"
+        },
+        {
+          "word": "तत्",
+          "transliteration": "tat",
+          "meaning": "that"
+        },
+        {
+          "word": "अस्माकम्",
+          "transliteration": "asmakam",
+          "meaning": "our"
+        },
+        {
+          "word": "बलम्",
+          "transliteration": "balam",
+          "meaning": "strength/army"
+        },
+        {
+          "word": "भीष्माभिरक्षितम्",
+          "transliteration": "bhishma-abhirakshitam",
+          "meaning": "protected by Bhishma"
+        },
+        {
+          "word": "पर्याप्तम्",
+          "transliteration": "paryaptam",
+          "meaning": "limited/sufficient"
+        },
+        {
+          "word": "इदम्",
+          "transliteration": "idam",
+          "meaning": "this"
+        },
+        {
+          "word": "एतेषाम्",
+          "transliteration": "etesham",
+          "meaning": "of these (Pandavas)"
+        },
+        {
+          "word": "भीमाभिरक्षितम्",
+          "transliteration": "bhima-abhirakshitam",
+          "meaning": "protected by Bhima"
+        }
+      ],
+      "hindiTranslation": "भीष्म द्वारा रक्षित हमारी सेना अपार है, जबकि भीम द्वारा रक्षित इनकी सेना सीमित है।",
+      "englishTranslation": "Our army, protected by Bhishma, is unlimited in strength, while their army, protected by Bhima, is limited.",
+      "commentary": "This verse has a famous double meaning. 'Aparyaptam' can mean both 'unlimited' and 'insufficient.' Some commentators interpret Duryodhana as inadvertently expressing his hidden fear — that his army under Bhishma is actually insufficient against the Pandava forces led by Bhima."
+    },
+    {
+      "verseNumber": 11,
+      "slug": "verse-11",
+      "speaker": "Duryodhana",
+      "devanagari": "अयनेषु च सर्वेषु यथाभागमवस्थिताः।\nभीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि॥११॥",
+      "transliteration": "Ayaneshu Cha Sarveshu Yatha-Bhagam-Avasthitah.\nBhishmam-Eva-Abhirakshanthu Bhavantah Sarva Eva Hi.||11||",
+      "wordByWord": [
+        {
+          "word": "अयनेषु",
+          "transliteration": "ayaneshu",
+          "meaning": "at the strategic points"
+        },
+        {
+          "word": "सर्वेषु",
+          "transliteration": "sarveshu",
+          "meaning": "all"
+        },
+        {
+          "word": "यथाभागम्",
+          "transliteration": "yatha-bhagam",
+          "meaning": "as per assigned positions"
+        },
+        {
+          "word": "अवस्थिताः",
+          "transliteration": "avasthitah",
+          "meaning": "stationed"
+        },
+        {
+          "word": "भीष्मम्",
+          "transliteration": "bhishmam",
+          "meaning": "Bhishma"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "certainly"
+        },
+        {
+          "word": "अभिरक्षन्तु",
+          "transliteration": "abhirakshanthu",
+          "meaning": "protect"
+        },
+        {
+          "word": "भवन्तः",
+          "transliteration": "bhavantah",
+          "meaning": "all of you"
+        },
+        {
+          "word": "सर्वे",
+          "transliteration": "sarve",
+          "meaning": "all"
+        },
+        {
+          "word": "हि",
+          "transliteration": "hi",
+          "meaning": "indeed"
+        }
+      ],
+      "hindiTranslation": "इसलिए आप सब अपने-अपने स्थानों पर स्थित रहते हुए, सभी मोर्चों से निश्चित रूप से पितामह भीष्म की ही रक्षा करें।",
+      "englishTranslation": "Therefore, all of you, stationed at your respective positions in the formation, must protect Bhishma from all sides.",
+      "commentary": "Duryodhana's instruction reveals his strategic concern — Bhishma is the linchpin of the Kaurava army. If Bhishma falls, the entire army's morale would collapse. This also subtly hints at Duryodhana's distrust, as Bhishma had mixed loyalties due to his affection for the Pandavas."
+    },
+    {
+      "verseNumber": 12,
+      "slug": "verse-12",
+      "speaker": "Sanjaya",
+      "devanagari": "तस्य सञ्जनयन्हर्षं कुरुवृद्धः पितामहः।\nसिंहनादं विनद्योच्चैः शङ्खं दध्मौ प्रतापवान्॥१२॥",
+      "transliteration": "Tasya Sanjanayan Harsham Kuru-Vriddhah Pitamahah.\nSimha-Nadam Vinadyo-Chchaih Shankham Dadhmau Pratapavan.||12||",
+      "wordByWord": [
+        {
+          "word": "तस्य",
+          "transliteration": "tasya",
+          "meaning": "his (Duryodhana's)"
+        },
+        {
+          "word": "सञ्जनयन्",
+          "transliteration": "sanjanayan",
+          "meaning": "generating"
+        },
+        {
+          "word": "हर्षम्",
+          "transliteration": "harsham",
+          "meaning": "joy"
+        },
+        {
+          "word": "कुरुवृद्धः",
+          "transliteration": "kuru-vriddhah",
+          "meaning": "the oldest of the Kurus"
+        },
+        {
+          "word": "पितामहः",
+          "transliteration": "pitamahah",
+          "meaning": "grandfather (Bhishma)"
+        },
+        {
+          "word": "सिंहनादम्",
+          "transliteration": "simha-nadam",
+          "meaning": "a lion's roar"
+        },
+        {
+          "word": "विनद्य",
+          "transliteration": "vinadya",
+          "meaning": "sounding"
+        },
+        {
+          "word": "उच्चैः",
+          "transliteration": "uchchaih",
+          "meaning": "loudly"
+        },
+        {
+          "word": "शङ्खम्",
+          "transliteration": "shankham",
+          "meaning": "conch shell"
+        },
+        {
+          "word": "दध्मौ",
+          "transliteration": "dadhmau",
+          "meaning": "blew"
+        },
+        {
+          "word": "प्रतापवान्",
+          "transliteration": "pratapavan",
+          "meaning": "the valiant one"
+        }
+      ],
+      "hindiTranslation": "तब कुरु-वंश के वृद्ध, प्रतापी पितामह भीष्म ने दुर्योधन के हृदय में हर्ष उत्पन्न करते हुए उच्च स्वर से सिंहनाद किया और शङ्ख बजाया।",
+      "englishTranslation": "Then the valiant grandfather Bhishma, the oldest of the Kuru dynasty, roared loudly like a lion and blew his conch, filling Duryodhana's heart with joy.",
+      "commentary": "Bhishma responds not with words but with action — a thunderous lion's roar and the blast of his conch. This was meant to bolster Duryodhana's confidence. The patriarch understands the young king's anxiety and reassures him with this warrior's greeting."
+    },
+    {
+      "verseNumber": 13,
+      "slug": "verse-13",
+      "speaker": "Sanjaya",
+      "devanagari": "ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः।\nसहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत्॥१३॥",
+      "transliteration": "Tatah Shankhash-Cha Bheryas-Cha Panavana-Ka-Gomukhah.\nSahasai-Va-Abhyahanyanta Sa Shabdas-Tumulo'bhavat.||13||",
+      "wordByWord": [
+        {
+          "word": "ततः",
+          "transliteration": "tatah",
+          "meaning": "then"
+        },
+        {
+          "word": "शङ्खाः",
+          "transliteration": "shankhah",
+          "meaning": "conch shells"
+        },
+        {
+          "word": "भेर्यः",
+          "transliteration": "bheryah",
+          "meaning": "kettledrums"
+        },
+        {
+          "word": "पणवानकगोमुखाः",
+          "transliteration": "panava-anaka-gomukhah",
+          "meaning": "tabors, drums and cow-horns"
+        },
+        {
+          "word": "सहसा",
+          "transliteration": "sahasa",
+          "meaning": "suddenly"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "indeed"
+        },
+        {
+          "word": "अभ्यहन्यन्त",
+          "transliteration": "abhyahanyanta",
+          "meaning": "were sounded"
+        },
+        {
+          "word": "स शब्दः",
+          "transliteration": "sa shabdah",
+          "meaning": "that sound"
+        },
+        {
+          "word": "तुमुलः",
+          "transliteration": "tumulah",
+          "meaning": "tumultuous"
+        },
+        {
+          "word": "अभवत्",
+          "transliteration": "abhavat",
+          "meaning": "became"
+        }
+      ],
+      "hindiTranslation": "उसके बाद शङ्ख, नगाड़े, ढोल, मृदंग और गोमुख आदि वाद्य एक साथ बज उठे। वह ध्वनि अत्यन्त भयंकर थी।",
+      "englishTranslation": "Then conches, kettledrums, tabors, drums, and cow-horns all sounded together at once. The combined noise was tumultuous.",
+      "commentary": "The sudden burst of war instruments on the Kaurava side marks the escalation of tension. The tumultuous sound symbolizes the chaos of war that is about to engulf both armies. This contrasts with the more disciplined and divine conch-blowing by the Pandava side that follows."
+    },
+    {
+      "verseNumber": 14,
+      "slug": "verse-14",
+      "speaker": "Sanjaya",
+      "devanagari": "ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ।\nमाधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः॥१४॥",
+      "transliteration": "Tatah Shvetair-Hayair-Yukte Mahati Syandane Sthitau.\nMadhavah Pandavash-Chaiva Divyau Shankhau Pradadhmatuh.||14||",
+      "wordByWord": [
+        {
+          "word": "ततः",
+          "transliteration": "tatah",
+          "meaning": "then"
+        },
+        {
+          "word": "श्वेतैः",
+          "transliteration": "shvetaih",
+          "meaning": "white"
+        },
+        {
+          "word": "हयैः",
+          "transliteration": "hayaih",
+          "meaning": "horses"
+        },
+        {
+          "word": "युक्ते",
+          "transliteration": "yukte",
+          "meaning": "yoked to"
+        },
+        {
+          "word": "महति",
+          "transliteration": "mahati",
+          "meaning": "great"
+        },
+        {
+          "word": "स्यन्दने",
+          "transliteration": "syandane",
+          "meaning": "chariot"
+        },
+        {
+          "word": "स्थितौ",
+          "transliteration": "sthitau",
+          "meaning": "seated"
+        },
+        {
+          "word": "माधवः",
+          "transliteration": "madhavah",
+          "meaning": "Krishna"
+        },
+        {
+          "word": "पाण्डवः",
+          "transliteration": "pandavah",
+          "meaning": "Arjuna"
+        },
+        {
+          "word": "दिव्यौ",
+          "transliteration": "divyau",
+          "meaning": "divine"
+        },
+        {
+          "word": "शङ्खौ",
+          "transliteration": "shankhau",
+          "meaning": "conch shells"
+        },
+        {
+          "word": "प्रदध्मतुः",
+          "transliteration": "pradadhmatuh",
+          "meaning": "blew"
+        }
+      ],
+      "hindiTranslation": "तत्पश्चात् श्वेत अश्वों से युक्त विशाल रथ में बैठे श्रीकृष्ण (माधव) और अर्जुन (पाण्डव) ने भी अपने-अपने दिव्य शङ्ख बजाए।",
+      "englishTranslation": "Then, seated in a great chariot yoked with white horses, Madhava (Krishna) and Pandava (Arjuna) blew their divine conch shells.",
+      "commentary": "The Pandava response is majestic — Krishna and Arjuna seated on a divine chariot drawn by white horses. The whiteness symbolizes purity and dharma. Their divine conches represent the call of righteousness that will ultimately prevail over the forces of adharma."
+    },
+    {
+      "verseNumber": 15,
+      "slug": "verse-15",
+      "speaker": "Sanjaya",
+      "devanagari": "पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः।\nपौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः॥१५॥",
+      "transliteration": "Panchajanyam Hrishikesho Devadattam Dhananjayah.\nPaundram Dadhmau Maha-Shankham Bhima-Karma Vrikodarah.||15||",
+      "wordByWord": [
+        {
+          "word": "पाञ्चजन्यम्",
+          "transliteration": "panchajanyam",
+          "meaning": "the conch named Panchajanya"
+        },
+        {
+          "word": "हृषीकेशः",
+          "transliteration": "hrishikeshah",
+          "meaning": "Krishna (master of senses)"
+        },
+        {
+          "word": "देवदत्तम्",
+          "transliteration": "devadattam",
+          "meaning": "the conch named Devadatta"
+        },
+        {
+          "word": "धनञ्जयः",
+          "transliteration": "dhananjayah",
+          "meaning": "Arjuna (winner of wealth)"
+        },
+        {
+          "word": "पौण्ड्रम्",
+          "transliteration": "paundram",
+          "meaning": "the conch named Paundra"
+        },
+        {
+          "word": "दध्मौ",
+          "transliteration": "dadhmau",
+          "meaning": "blew"
+        },
+        {
+          "word": "महाशङ्खम्",
+          "transliteration": "maha-shankham",
+          "meaning": "great conch"
+        },
+        {
+          "word": "भीमकर्मा",
+          "transliteration": "bhima-karma",
+          "meaning": "doer of terrible deeds"
+        },
+        {
+          "word": "वृकोदरः",
+          "transliteration": "vrikodarah",
+          "meaning": "Bhima (wolf-bellied)"
+        }
+      ],
+      "hindiTranslation": "हृषीकेश श्रीकृष्ण ने पाञ्चजन्य, अर्जुन ने देवदत्त, और भयंकर कर्म करने वाले भीम ने पौण्ड्र नामक महाशङ्ख बजाया।",
+      "englishTranslation": "Hrishikesha (Krishna) blew the Panchajanya conch, Dhananjaya (Arjuna) blew the Devadatta, and Bhima of terrible deeds blew the great conch Paundra.",
+      "commentary": "Each conch has a name and significance. Panchajanya was obtained by Krishna from the demon Panchajana. Devadatta was a divine gift to Arjuna. The naming of these conches elevates the Pandava warriors from mere mortals to figures of cosmic destiny."
+    },
+    {
+      "verseNumber": 16,
+      "slug": "verse-16",
+      "speaker": "Sanjaya",
+      "devanagari": "अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः।\nनकुलः सहदेवश्च सुघोषमणिपुष्पकौ॥१६॥",
+      "transliteration": "Ananta-Vijayam Raja Kunti-Putro Yudhishthirah.\nNakulah Sahadevas-Cha Sughosha-Manipushpakau.||16||",
+      "wordByWord": [
+        {
+          "word": "अनन्तविजयम्",
+          "transliteration": "ananta-vijayam",
+          "meaning": "the conch named Anantavijaya"
+        },
+        {
+          "word": "राजा",
+          "transliteration": "raja",
+          "meaning": "king"
+        },
+        {
+          "word": "कुन्तीपुत्रः",
+          "transliteration": "kunti-putrah",
+          "meaning": "son of Kunti"
+        },
+        {
+          "word": "युधिष्ठिरः",
+          "transliteration": "yudhishthirah",
+          "meaning": "Yudhishthira"
+        },
+        {
+          "word": "नकुलः",
+          "transliteration": "nakulah",
+          "meaning": "Nakula"
+        },
+        {
+          "word": "सहदेवः",
+          "transliteration": "sahadevah",
+          "meaning": "Sahadeva"
+        },
+        {
+          "word": "सुघोषमणिपुष्पकौ",
+          "transliteration": "sughosha-manipushpakau",
+          "meaning": "conches Sughosha and Manipushpaka"
+        }
+      ],
+      "hindiTranslation": "कुन्तीपुत्र राजा युधिष्ठिर ने अनन्तविजय, नकुल ने सुघोष और सहदेव ने मणिपुष्पक नामक शङ्ख बजाए।",
+      "englishTranslation": "King Yudhishthira, the son of Kunti, blew the Anantavijaya conch; Nakula and Sahadeva blew the Sughosha and Manipushpaka conches.",
+      "commentary": "The names of the conches are symbolic. Anantavijaya means 'endless victory' — fitting for Yudhishthira, the embodiment of dharma. Sughosha means 'sweet-sounding' and Manipushpaka means 'jewel-flowered,' reflecting the gentle yet powerful nature of the twin brothers."
+    },
+    {
+      "verseNumber": 17,
+      "slug": "verse-17",
+      "speaker": "Sanjaya",
+      "devanagari": "काश्यश्च परमेष्वासः शिखण्डी च महारथः।\nधृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः॥१७॥",
+      "transliteration": "Kashyas-Cha Parameshvasah Shikhandi Cha Maharathah.\nDhrishtadyumno Viratas-Cha Satyakis-Cha-Aparajitah.||17||",
+      "wordByWord": [
+        {
+          "word": "काश्यः",
+          "transliteration": "kashyah",
+          "meaning": "the King of Kashi"
+        },
+        {
+          "word": "परमेष्वासः",
+          "transliteration": "parameshvasah",
+          "meaning": "supreme archer"
+        },
+        {
+          "word": "शिखण्डी",
+          "transliteration": "shikhandi",
+          "meaning": "Shikhandi"
+        },
+        {
+          "word": "महारथः",
+          "transliteration": "maharathah",
+          "meaning": "great chariot warrior"
+        },
+        {
+          "word": "धृष्टद्युम्नः",
+          "transliteration": "dhrishtadyumnah",
+          "meaning": "Dhrishtadyumna"
+        },
+        {
+          "word": "विराटः",
+          "transliteration": "viratah",
+          "meaning": "Virata"
+        },
+        {
+          "word": "सात्यकिः",
+          "transliteration": "satyakih",
+          "meaning": "Satyaki"
+        },
+        {
+          "word": "अपराजितः",
+          "transliteration": "aparajitah",
+          "meaning": "unconquered"
+        }
+      ],
+      "hindiTranslation": "श्रेष्ठ धनुर्धर काशिराज, महारथी शिखण्डी, धृष्टद्युम्न, विराट और अजेय सात्यकि ने भी अपने शङ्ख बजाए।",
+      "englishTranslation": "The King of Kashi — a supreme archer, the great warrior Shikhandi, Dhrishtadyumna, Virata, and the unconquered Satyaki also blew their conches.",
+      "commentary": "Each of these warriors played a decisive role in the war. Shikhandi was the instrument of Bhishma's fall, Dhrishtadyumna killed Drona, and Satyaki remained undefeated throughout. Their conch-blowing signals the united strength of the Pandava alliance."
+    },
+    {
+      "verseNumber": 18,
+      "slug": "verse-18",
+      "speaker": "Sanjaya",
+      "devanagari": "द्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते।\nसौभद्रश्च महाबाहुः शङ्खान्दध्मुः पृथक्पृथक्॥१८॥",
+      "transliteration": "Drupado Draupadeyash-Cha Sarvashah Prithivipate.\nSaubhadras-Cha Maha-Bahuh Shankhan-Dadhmuh Prithak-Prithak.||18||",
+      "wordByWord": [
+        {
+          "word": "द्रुपदः",
+          "transliteration": "drupadah",
+          "meaning": "Drupada"
+        },
+        {
+          "word": "द्रौपदेयाः",
+          "transliteration": "draupadeyah",
+          "meaning": "the sons of Draupadi"
+        },
+        {
+          "word": "सर्वशः",
+          "transliteration": "sarvashah",
+          "meaning": "from all sides"
+        },
+        {
+          "word": "पृथिवीपते",
+          "transliteration": "prithivipate",
+          "meaning": "O lord of the earth"
+        },
+        {
+          "word": "सौभद्रः",
+          "transliteration": "saubhadrah",
+          "meaning": "son of Subhadra (Abhimanyu)"
+        },
+        {
+          "word": "महाबाहुः",
+          "transliteration": "maha-bahuh",
+          "meaning": "mighty-armed"
+        },
+        {
+          "word": "शङ्खान्",
+          "transliteration": "shankhan",
+          "meaning": "conches"
+        },
+        {
+          "word": "दध्मुः",
+          "transliteration": "dadhmuh",
+          "meaning": "blew"
+        },
+        {
+          "word": "पृथक्पृथक्",
+          "transliteration": "prithak-prithak",
+          "meaning": "separately, one by one"
+        }
+      ],
+      "hindiTranslation": "हे पृथिवीपते! द्रुपद, द्रौपदी के पाँचों पुत्र और महाबाहु सुभद्रा-पुत्र अभिमन्यु ने भी अलग-अलग अपने शङ्ख बजाए।",
+      "englishTranslation": "O Lord of the earth, Drupada, the sons of Draupadi, and the mighty-armed Abhimanyu, son of Subhadra, all blew their respective conches separately.",
+      "commentary": "Sanjaya addresses Dhritarashtra as 'Prithivipate' (lord of the earth) — a title that reminds the blind king of his responsibility. The individual blowing of conches by each warrior demonstrates the Pandava army's organized discipline, contrasting with the chaotic combined noise from the Kaurava side."
+    },
+    {
+      "verseNumber": 19,
+      "slug": "verse-19",
+      "speaker": "Sanjaya",
+      "devanagari": "स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत्।\nनभश्च पृथिवीं चैव तुमुलो व्यनुनादयन्॥१९॥",
+      "transliteration": "Sa Ghosho Dhartarashtranam Hridayani Vyadarayat.\nNabhas-Cha Prithivim Chaiva Tumulo Vyanunadayan.||19||",
+      "wordByWord": [
+        {
+          "word": "सः",
+          "transliteration": "sah",
+          "meaning": "that"
+        },
+        {
+          "word": "घोषः",
+          "transliteration": "ghoshah",
+          "meaning": "sound"
+        },
+        {
+          "word": "धार्तराष्ट्राणाम्",
+          "transliteration": "dhartarashtranam",
+          "meaning": "of Dhritarashtra's sons"
+        },
+        {
+          "word": "हृदयानि",
+          "transliteration": "hridayani",
+          "meaning": "hearts"
+        },
+        {
+          "word": "व्यदारयत्",
+          "transliteration": "vyadarayat",
+          "meaning": "shattered/pierced"
+        },
+        {
+          "word": "नभः",
+          "transliteration": "nabhah",
+          "meaning": "the sky"
+        },
+        {
+          "word": "पृथिवीम्",
+          "transliteration": "prithivim",
+          "meaning": "the earth"
+        },
+        {
+          "word": "तुमुलः",
+          "transliteration": "tumulah",
+          "meaning": "tumultuous"
+        },
+        {
+          "word": "व्यनुनादयन्",
+          "transliteration": "vyanunadayan",
+          "meaning": "resounding"
+        }
+      ],
+      "hindiTranslation": "उस भयंकर ध्वनि ने आकाश और पृथ्वी को गुंजाते हुए धृतराष्ट्र के पुत्रों के हृदयों को विदीर्ण कर दिया।",
+      "englishTranslation": "That tumultuous sound, reverberating through the sky and the earth, pierced the hearts of Dhritarashtra's sons.",
+      "commentary": "The collective sound of the Pandava conches had a devastating psychological effect on the Kauravas. This is symbolic — the call of dharma (righteousness) strikes fear in the hearts of those who stand on the side of adharma. The cosmic scale of the sound foreshadows the cosmic significance of the war."
+    },
+    {
+      "verseNumber": 20,
+      "slug": "verse-20",
+      "speaker": "Sanjaya",
+      "devanagari": "अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान्कपिध्वजः।\nप्रवृत्ते शस्त्रसम्पाते धनुरुद्यम्य पाण्डवः॥२०॥",
+      "transliteration": "Atha Vyavasthitan Drishtva Dhartarashtran Kapi-Dhvajah.\nPravritte Shastra-Sampate Dhanur-Udyamya Pandavah.||20||",
+      "wordByWord": [
+        {
+          "word": "अथ",
+          "transliteration": "atha",
+          "meaning": "then"
+        },
+        {
+          "word": "व्यवस्थितान्",
+          "transliteration": "vyavasthitan",
+          "meaning": "arrayed"
+        },
+        {
+          "word": "दृष्ट्वा",
+          "transliteration": "drishtva",
+          "meaning": "seeing"
+        },
+        {
+          "word": "धार्तराष्ट्रान्",
+          "transliteration": "dhartarashtran",
+          "meaning": "the sons of Dhritarashtra"
+        },
+        {
+          "word": "कपिध्वजः",
+          "transliteration": "kapi-dhvajah",
+          "meaning": "one with Hanuman on his flag (Arjuna)"
+        },
+        {
+          "word": "प्रवृत्ते",
+          "transliteration": "pravritte",
+          "meaning": "about to begin"
+        },
+        {
+          "word": "शस्त्रसम्पाते",
+          "transliteration": "shastra-sampate",
+          "meaning": "the clash of weapons"
+        },
+        {
+          "word": "धनुः",
+          "transliteration": "dhanuh",
+          "meaning": "bow"
+        },
+        {
+          "word": "उद्यम्य",
+          "transliteration": "udyamya",
+          "meaning": "raising"
+        },
+        {
+          "word": "पाण्डवः",
+          "transliteration": "pandavah",
+          "meaning": "the son of Pandu (Arjuna)"
+        }
+      ],
+      "hindiTranslation": "तत्पश्चात् जब शस्त्रों का प्रहार होने वाला था, तब हनुमान-ध्वज वाले अर्जुन ने धृतराष्ट्र के पुत्रों को व्यवस्थित देखकर अपना धनुष उठाया।",
+      "englishTranslation": "Then, seeing the sons of Dhritarashtra arrayed for battle, as the clash of weapons was about to begin, Arjuna — whose flag bore the emblem of Hanuman — raised his bow.",
+      "commentary": "The epithet 'Kapi-dhvajah' (Hanuman on his flag) is deeply significant. Hanuman represents devotion, strength, and selfless service — qualities that connect the Ramayana to the Mahabharata. Arjuna initially appears ready to fight, making his subsequent breakdown all the more dramatic."
+    },
+    {
+      "verseNumber": 21,
+      "slug": "verse-21",
+      "speaker": "Arjuna",
+      "devanagari": "हृषीकेशं तदा वाक्यमिदमाह महीपते।\nसेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत॥२१॥",
+      "transliteration": "Hrishikesham Tada Vakyam-Idam-Aha Mahipate.\nSenayor-Ubhayor-Madhye Ratham Sthapaya Me'chyuta.||21||",
+      "wordByWord": [
+        {
+          "word": "हृषीकेशम्",
+          "transliteration": "hrishikesham",
+          "meaning": "to Krishna (lord of the senses)"
+        },
+        {
+          "word": "तदा",
+          "transliteration": "tada",
+          "meaning": "then"
+        },
+        {
+          "word": "वाक्यम्",
+          "transliteration": "vakyam",
+          "meaning": "words"
+        },
+        {
+          "word": "इदम्",
+          "transliteration": "idam",
+          "meaning": "these"
+        },
+        {
+          "word": "आह",
+          "transliteration": "aha",
+          "meaning": "spoke"
+        },
+        {
+          "word": "महीपते",
+          "transliteration": "mahipate",
+          "meaning": "O lord of the earth"
+        },
+        {
+          "word": "सेनयोः",
+          "transliteration": "senayoh",
+          "meaning": "of the two armies"
+        },
+        {
+          "word": "उभयोः",
+          "transliteration": "ubhayoh",
+          "meaning": "both"
+        },
+        {
+          "word": "मध्ये",
+          "transliteration": "madhye",
+          "meaning": "in the middle"
+        },
+        {
+          "word": "रथम्",
+          "transliteration": "ratham",
+          "meaning": "chariot"
+        },
+        {
+          "word": "स्थापय",
+          "transliteration": "sthapaya",
+          "meaning": "place"
+        },
+        {
+          "word": "अच्युत",
+          "transliteration": "achyuta",
+          "meaning": "O infallible one"
+        }
+      ],
+      "hindiTranslation": "अर्जुन ने कहा — हे अच्युत! मेरे रथ को दोनों सेनाओं के बीच में खड़ा कीजिए।",
+      "englishTranslation": "Arjuna said: O infallible one (Achyuta), place my chariot between the two armies.",
+      "commentary": "Arjuna addresses Krishna as 'Achyuta' — the infallible one who never falls from His position. This request to stand between both armies seems like a warrior's assessment of the enemy, but it becomes the catalyst for his emotional and spiritual crisis."
+    },
+    {
+      "verseNumber": 22,
+      "slug": "verse-22",
+      "speaker": "Arjuna",
+      "devanagari": "यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान्।\nकैर्मया सह योद्धव्यमस्मिन्रणसमुद्यमे॥२२॥",
+      "transliteration": "Yavad-Etan-Niriksha'ham Yoddhu-Kaman-Avasthitan.\nKair-Maya Saha Yoddhavyam-Asmin Rana-Samudyame.||22||",
+      "wordByWord": [
+        {
+          "word": "यावत्",
+          "transliteration": "yavat",
+          "meaning": "so that"
+        },
+        {
+          "word": "एतान्",
+          "transliteration": "etan",
+          "meaning": "these"
+        },
+        {
+          "word": "निरीक्षे",
+          "transliteration": "nirikshe",
+          "meaning": "I may observe"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I"
+        },
+        {
+          "word": "योद्धुकामान्",
+          "transliteration": "yoddhu-kaman",
+          "meaning": "desiring to fight"
+        },
+        {
+          "word": "अवस्थितान्",
+          "transliteration": "avasthitan",
+          "meaning": "assembled"
+        },
+        {
+          "word": "कैः",
+          "transliteration": "kaih",
+          "meaning": "with whom"
+        },
+        {
+          "word": "मया",
+          "transliteration": "maya",
+          "meaning": "by me"
+        },
+        {
+          "word": "योद्धव्यम्",
+          "transliteration": "yoddhavyam",
+          "meaning": "to be fought"
+        },
+        {
+          "word": "अस्मिन्",
+          "transliteration": "asmin",
+          "meaning": "in this"
+        },
+        {
+          "word": "रणसमुद्यमे",
+          "transliteration": "rana-samudyame",
+          "meaning": "great battle effort"
+        }
+      ],
+      "hindiTranslation": "ताकि मैं इन युद्ध की इच्छा रखने वाले योद्धाओं को देख सकूँ कि इस युद्ध में मुझे किन-किन से लड़ना है।",
+      "englishTranslation": "So that I may observe those who stand here eager to fight, and know with whom I must contend in this great battle.",
+      "commentary": "Arjuna's request seems military in nature — a commander wanting to assess the opposition. Yet destiny has arranged that this strategic observation will transform into an existential crisis when he recognizes his own relatives among the enemy ranks."
+    },
+    {
+      "verseNumber": 23,
+      "slug": "verse-23",
+      "speaker": "Arjuna",
+      "devanagari": "योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः।\nधार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः॥२३॥",
+      "transliteration": "Yotsyamanan-Avekshe'ham Ya Ete'tra Samagatah.\nDhartarashtrasya Durbuddher-Yuddhe Priya-Chikirsavah.||23||",
+      "wordByWord": [
+        {
+          "word": "योत्स्यमानान्",
+          "transliteration": "yotsyamanan",
+          "meaning": "those who will fight"
+        },
+        {
+          "word": "अवेक्षे",
+          "transliteration": "avekshe",
+          "meaning": "let me see"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I"
+        },
+        {
+          "word": "ये",
+          "transliteration": "ye",
+          "meaning": "who"
+        },
+        {
+          "word": "एते",
+          "transliteration": "ete",
+          "meaning": "these"
+        },
+        {
+          "word": "अत्र",
+          "transliteration": "atra",
+          "meaning": "here"
+        },
+        {
+          "word": "समागताः",
+          "transliteration": "samagatah",
+          "meaning": "have assembled"
+        },
+        {
+          "word": "धार्तराष्ट्रस्य",
+          "transliteration": "dhartarashtrasya",
+          "meaning": "of Dhritarashtra's son"
+        },
+        {
+          "word": "दुर्बुद्धेः",
+          "transliteration": "durbuddheh",
+          "meaning": "evil-minded"
+        },
+        {
+          "word": "युद्धे",
+          "transliteration": "yuddhe",
+          "meaning": "in battle"
+        },
+        {
+          "word": "प्रियचिकीर्षवः",
+          "transliteration": "priya-chikirsavah",
+          "meaning": "wishing to please"
+        }
+      ],
+      "hindiTranslation": "मैं देखना चाहता हूँ कि दुर्बुद्धि दुर्योधन का युद्ध में प्रिय करने की इच्छा से यहाँ कौन-कौन योद्धा एकत्र हुए हैं।",
+      "englishTranslation": "Let me see those who have come here to fight, wishing to please the evil-minded son of Dhritarashtra in battle.",
+      "commentary": "Arjuna calls Duryodhana 'durbuddhi' (evil-minded), showing his moral clarity about who is wrong. Ironically, despite knowing Duryodhana's wickedness, Arjuna will soon be paralyzed by compassion for the very warriors who support this evil cause."
+    },
+    {
+      "verseNumber": 24,
+      "slug": "verse-24",
+      "speaker": "Sanjaya",
+      "devanagari": "एवमुक्तो हृषीकेशो गुडाकेशेन भारत।\nसेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम्॥२४॥",
+      "transliteration": "Evam-Ukto Hrishikesho Gudakeshena Bharata.\nSenayor-Ubhayor-Madhye Sthapayitva Rathottamam.||24||",
+      "wordByWord": [
+        {
+          "word": "एवम्",
+          "transliteration": "evam",
+          "meaning": "thus"
+        },
+        {
+          "word": "उक्तः",
+          "transliteration": "uktah",
+          "meaning": "addressed"
+        },
+        {
+          "word": "हृषीकेशः",
+          "transliteration": "hrishikeshah",
+          "meaning": "Krishna"
+        },
+        {
+          "word": "गुडाकेशेन",
+          "transliteration": "gudakeshena",
+          "meaning": "by Arjuna (conqueror of sleep)"
+        },
+        {
+          "word": "भारत",
+          "transliteration": "bharata",
+          "meaning": "O descendant of Bharata"
+        },
+        {
+          "word": "सेनयोः",
+          "transliteration": "senayoh",
+          "meaning": "of the armies"
+        },
+        {
+          "word": "उभयोः",
+          "transliteration": "ubhayoh",
+          "meaning": "both"
+        },
+        {
+          "word": "मध्ये",
+          "transliteration": "madhye",
+          "meaning": "in the middle"
+        },
+        {
+          "word": "स्थापयित्वा",
+          "transliteration": "sthapayitva",
+          "meaning": "having placed"
+        },
+        {
+          "word": "रथोत्तमम्",
+          "transliteration": "rathottamam",
+          "meaning": "the finest chariot"
+        }
+      ],
+      "hindiTranslation": "संजय ने कहा — हे भारत! अर्जुन (गुडाकेश) के ऐसा कहने पर श्रीकृष्ण (हृषीकेश) ने उत्तम रथ को दोनों सेनाओं के बीच में खड़ा कर दिया।",
+      "englishTranslation": "Sanjaya said: O Bharata (Dhritarashtra), thus addressed by Gudakesha (Arjuna), Hrishikesha (Krishna) placed the finest chariot between the two armies.",
+      "commentary": "Krishna, the Supreme Lord, willingly becomes Arjuna's charioteer and obeys his command. The epithets are meaningful — Hrishikesha (lord of the senses) drives the chariot for Gudakesha (conqueror of sleep/ignorance). This symbolizes how the divine guides the sincere seeker."
+    },
+    {
+      "verseNumber": 25,
+      "slug": "verse-25",
+      "speaker": "Sanjaya",
+      "devanagari": "भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम्।\nउवाच पार्थ पश्यैतान्समवेतान्कुरूनिति॥२५॥",
+      "transliteration": "Bhishma-Drona-Pramukhatah Sarvesham Cha Mahikshitam.\nUvacha Partha Pashyai-Tan Samavetan Kurun-Iti.||25||",
+      "wordByWord": [
+        {
+          "word": "भीष्मद्रोणप्रमुखतः",
+          "transliteration": "bhishma-drona-pramukhatah",
+          "meaning": "in front of Bhishma and Drona"
+        },
+        {
+          "word": "सर्वेषाम्",
+          "transliteration": "sarvesham",
+          "meaning": "of all"
+        },
+        {
+          "word": "महीक्षिताम्",
+          "transliteration": "mahikshitam",
+          "meaning": "rulers of the world"
+        },
+        {
+          "word": "उवाच",
+          "transliteration": "uvacha",
+          "meaning": "said"
+        },
+        {
+          "word": "पार्थ",
+          "transliteration": "partha",
+          "meaning": "O son of Pritha (Arjuna)"
+        },
+        {
+          "word": "पश्य",
+          "transliteration": "pashya",
+          "meaning": "behold"
+        },
+        {
+          "word": "एतान्",
+          "transliteration": "etan",
+          "meaning": "these"
+        },
+        {
+          "word": "समवेतान्",
+          "transliteration": "samavetan",
+          "meaning": "assembled"
+        },
+        {
+          "word": "कुरून्",
+          "transliteration": "kurun",
+          "meaning": "the Kurus"
+        },
+        {
+          "word": "इति",
+          "transliteration": "iti",
+          "meaning": "thus"
+        }
+      ],
+      "hindiTranslation": "भीष्म, द्रोण और समस्त राजाओं के सामने रथ को खड़ा करके श्रीकृष्ण ने कहा — हे पार्थ! इन एकत्रित कुरुवंशियों को देखो।",
+      "englishTranslation": "In the presence of Bhishma, Drona, and all the rulers of the world, Krishna said: O Partha, behold these assembled Kurus.",
+      "commentary": "Krishna deliberately places the chariot where Arjuna can see Bhishma and Drona most clearly — the two elders Arjuna reveres the most. Krishna's simple words 'behold these Kurus' carry deep irony, as what Arjuna sees will shatter his resolve to fight."
+    },
+    {
+      "verseNumber": 26,
+      "slug": "verse-26",
+      "speaker": "Sanjaya",
+      "devanagari": "तत्रापश्यत्स्थितान्पार्थः पितॄनथ पितामहान्।\nआचार्यान्मातुलान्भ्रातॄन्पुत्रान्पौत्रान्सखींस्तथा॥२६॥",
+      "transliteration": "Tatra-Apashyat Sthitan Parthah Pitrin-Atha Pitamahan.\nAcharyan Matulan Bhratrin Putran Pautran Sakhin-Statha.||26||",
+      "wordByWord": [
+        {
+          "word": "तत्र",
+          "transliteration": "tatra",
+          "meaning": "there"
+        },
+        {
+          "word": "अपश्यत्",
+          "transliteration": "apashyat",
+          "meaning": "saw"
+        },
+        {
+          "word": "स्थितान्",
+          "transliteration": "sthitan",
+          "meaning": "standing"
+        },
+        {
+          "word": "पार्थः",
+          "transliteration": "parthah",
+          "meaning": "Arjuna"
+        },
+        {
+          "word": "पितॄन्",
+          "transliteration": "pitrin",
+          "meaning": "fathers (elders)"
+        },
+        {
+          "word": "पितामहान्",
+          "transliteration": "pitamahan",
+          "meaning": "grandfathers"
+        },
+        {
+          "word": "आचार्यान्",
+          "transliteration": "acharyan",
+          "meaning": "teachers"
+        },
+        {
+          "word": "मातुलान्",
+          "transliteration": "matulan",
+          "meaning": "maternal uncles"
+        },
+        {
+          "word": "भ्रातॄन्",
+          "transliteration": "bhratrin",
+          "meaning": "brothers"
+        },
+        {
+          "word": "पुत्रान्",
+          "transliteration": "putran",
+          "meaning": "sons"
+        },
+        {
+          "word": "पौत्रान्",
+          "transliteration": "pautran",
+          "meaning": "grandsons"
+        },
+        {
+          "word": "सखीन्",
+          "transliteration": "sakhin",
+          "meaning": "friends"
+        }
+      ],
+      "hindiTranslation": "वहाँ अर्जुन ने दोनों सेनाओं में खड़े पितृतुल्य बड़ों, पितामहों, आचार्यों, मामाओं, भाइयों, पुत्रों, पौत्रों और मित्रों को देखा।",
+      "englishTranslation": "There Arjuna saw, standing in both armies, fathers, grandfathers, teachers, maternal uncles, brothers, sons, grandsons, and friends.",
+      "commentary": "This is the pivotal moment — Arjuna sees not enemies but family. Every relationship a person holds dear is represented here. The comprehensive list emphasizes that this war will tear apart the very fabric of family and society, which becomes the source of Arjuna's anguish."
+    },
+    {
+      "verseNumber": 27,
+      "slug": "verse-27",
+      "speaker": "Sanjaya",
+      "devanagari": "श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि।\nतान्समीक्ष्य स कौन्तेयः सर्वान्बन्धूनवस्थितान्॥२७॥",
+      "transliteration": "Shvashuran Suhridash-Chaiva Senayor-Ubhayor-Api.\nTan Samikshya Sa Kaunteyah Sarvan Bandhun-Avasthitan.||27||",
+      "wordByWord": [
+        {
+          "word": "श्वशुरान्",
+          "transliteration": "shvashuran",
+          "meaning": "fathers-in-law"
+        },
+        {
+          "word": "सुहृदः",
+          "transliteration": "suhridah",
+          "meaning": "well-wishers"
+        },
+        {
+          "word": "सेनयोः",
+          "transliteration": "senayoh",
+          "meaning": "in the armies"
+        },
+        {
+          "word": "उभयोः",
+          "transliteration": "ubhayoh",
+          "meaning": "both"
+        },
+        {
+          "word": "अपि",
+          "transliteration": "api",
+          "meaning": "also"
+        },
+        {
+          "word": "तान्",
+          "transliteration": "tan",
+          "meaning": "them"
+        },
+        {
+          "word": "समीक्ष्य",
+          "transliteration": "samikshya",
+          "meaning": "seeing"
+        },
+        {
+          "word": "सः",
+          "transliteration": "sah",
+          "meaning": "he"
+        },
+        {
+          "word": "कौन्तेयः",
+          "transliteration": "kaunteyah",
+          "meaning": "son of Kunti (Arjuna)"
+        },
+        {
+          "word": "सर्वान्",
+          "transliteration": "sarvan",
+          "meaning": "all"
+        },
+        {
+          "word": "बन्धून्",
+          "transliteration": "bandhun",
+          "meaning": "relatives"
+        },
+        {
+          "word": "अवस्थितान्",
+          "transliteration": "avasthitan",
+          "meaning": "present"
+        }
+      ],
+      "hindiTranslation": "दोनों सेनाओं में उपस्थित श्वसुरों और सुहृदों (हितैषियों) को भी देखकर, कुन्तीपुत्र अर्जुन ने उन सब बन्धुओं को वहाँ खड़ा देखा।",
+      "englishTranslation": "He also saw fathers-in-law and well-wishers in both armies. Seeing all these relatives present there, the son of Kunti (Arjuna) was deeply moved.",
+      "commentary": "Verses 26-27 form a continuous description. The word 'ubhayoh' (both) is crucial — relatives are on both sides. This makes the war a family tragedy regardless of who wins. Arjuna's compassion arises from seeing the universality of kinship across enemy lines."
+    },
+    {
+      "verseNumber": 28,
+      "slug": "verse-28",
+      "speaker": "Arjuna",
+      "devanagari": "कृपया परयाविष्टो विषीदन्निदमब्रवीत्।\nदृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम्॥२८॥",
+      "transliteration": "Kripaya Paraya-Avishto Vishidann-Idam-Abravit.\nDrishtve-Mam Svajanam Krishna Yuyutsum Samupasthitam.||28||",
+      "wordByWord": [
+        {
+          "word": "कृपया",
+          "transliteration": "kripaya",
+          "meaning": "with compassion"
+        },
+        {
+          "word": "परया",
+          "transliteration": "paraya",
+          "meaning": "deep/supreme"
+        },
+        {
+          "word": "आविष्टः",
+          "transliteration": "avishtah",
+          "meaning": "overwhelmed"
+        },
+        {
+          "word": "विषीदन्",
+          "transliteration": "vishidan",
+          "meaning": "lamenting"
+        },
+        {
+          "word": "इदम्",
+          "transliteration": "idam",
+          "meaning": "this"
+        },
+        {
+          "word": "अब्रवीत्",
+          "transliteration": "abravit",
+          "meaning": "spoke"
+        },
+        {
+          "word": "दृष्ट्वा",
+          "transliteration": "drishtva",
+          "meaning": "seeing"
+        },
+        {
+          "word": "इमम्",
+          "transliteration": "imam",
+          "meaning": "these"
+        },
+        {
+          "word": "स्वजनम्",
+          "transliteration": "svajanam",
+          "meaning": "own kinsmen"
+        },
+        {
+          "word": "कृष्ण",
+          "transliteration": "krishna",
+          "meaning": "O Krishna"
+        },
+        {
+          "word": "युयुत्सुम्",
+          "transliteration": "yuyutsum",
+          "meaning": "eager to fight"
+        },
+        {
+          "word": "समुपस्थितम्",
+          "transliteration": "samupasthitam",
+          "meaning": "present before me"
+        }
+      ],
+      "hindiTranslation": "अर्जुन ने कहा — हे कृष्ण! युद्ध के लिए उपस्थित इन अपने स्वजनों को देखकर मेरे अंग शिथिल हुए जा रहे हैं, गहन करुणा से मैं व्याकुल हूँ।",
+      "englishTranslation": "Arjuna said: O Krishna, seeing my own kinsmen gathered here eager to fight, I am overcome with deep compassion and feel distressed.",
+      "commentary": "This marks the beginning of Arjuna's despondency. The word 'kripa' (compassion) is significant — Arjuna's crisis is born not from cowardice but from a deeply compassionate heart. However, Krishna will later explain that this is 'misplaced' compassion rooted in attachment rather than true wisdom."
+    },
+    {
+      "verseNumber": 29,
+      "slug": "verse-29",
+      "speaker": "Arjuna",
+      "devanagari": "सीदन्ति मम गात्राणि मुखं च परिशुष्यति।\nवेपथुश्च शरीरे मे रोमहर्षश्च जायते॥२९॥",
+      "transliteration": "Sidanti Mama Gatrani Mukham Cha Parishushyati.\nVepathush-Cha Sharire Me Roma-Harshash-Cha Jayate.||29||",
+      "wordByWord": [
+        {
+          "word": "सीदन्ति",
+          "transliteration": "sidanti",
+          "meaning": "are weakening"
+        },
+        {
+          "word": "मम",
+          "transliteration": "mama",
+          "meaning": "my"
+        },
+        {
+          "word": "गात्राणि",
+          "transliteration": "gatrani",
+          "meaning": "limbs"
+        },
+        {
+          "word": "मुखम्",
+          "transliteration": "mukham",
+          "meaning": "mouth"
+        },
+        {
+          "word": "परिशुष्यति",
+          "transliteration": "parishushyati",
+          "meaning": "is drying up"
+        },
+        {
+          "word": "वेपथुः",
+          "transliteration": "vepathuh",
+          "meaning": "trembling"
+        },
+        {
+          "word": "शरीरे",
+          "transliteration": "sharire",
+          "meaning": "in the body"
+        },
+        {
+          "word": "रोमहर्षः",
+          "transliteration": "roma-harshah",
+          "meaning": "hair standing on end"
+        },
+        {
+          "word": "जायते",
+          "transliteration": "jayate",
+          "meaning": "arises"
+        }
+      ],
+      "hindiTranslation": "मेरे अंग शिथिल हो रहे हैं, मुख सूख रहा है, शरीर में कम्पन हो रहा है और रोंगटे खड़े हो रहे हैं।",
+      "englishTranslation": "My limbs are giving way, my mouth is drying up, my body is trembling, and my hair is standing on end.",
+      "commentary": "Arjuna describes classic symptoms of acute anxiety and emotional shock. These physical symptoms — weakness, dry mouth, trembling, and horripilation — are the body's natural response to extreme psychological distress. The greatest warrior of his time is rendered helpless by his own emotions."
+    },
+    {
+      "verseNumber": 30,
+      "slug": "verse-30",
+      "speaker": "Arjuna",
+      "devanagari": "गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते।\nन च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः॥३०॥",
+      "transliteration": "Gandivam Sransate Hastat-Tvak-Chaiva Paridahyate.\nNa Cha Shaknomy-Avasthatum Bhramati-Iva Cha Me Manah.||30||",
+      "wordByWord": [
+        {
+          "word": "गाण्डीवम्",
+          "transliteration": "gandivam",
+          "meaning": "the Gandiva bow"
+        },
+        {
+          "word": "स्रंसते",
+          "transliteration": "sransate",
+          "meaning": "is slipping"
+        },
+        {
+          "word": "हस्तात्",
+          "transliteration": "hastat",
+          "meaning": "from the hand"
+        },
+        {
+          "word": "त्वक्",
+          "transliteration": "tvak",
+          "meaning": "skin"
+        },
+        {
+          "word": "परिदह्यते",
+          "transliteration": "paridahyate",
+          "meaning": "is burning"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "शक्नोमि",
+          "transliteration": "shaknomi",
+          "meaning": "I am able"
+        },
+        {
+          "word": "अवस्थातुम्",
+          "transliteration": "avasthatum",
+          "meaning": "to stand"
+        },
+        {
+          "word": "भ्रमति",
+          "transliteration": "bhramati",
+          "meaning": "is spinning"
+        },
+        {
+          "word": "मनः",
+          "transliteration": "manah",
+          "meaning": "mind"
+        }
+      ],
+      "hindiTranslation": "गाण्डीव धनुष हाथ से गिर रहा है, त्वचा जल रही है, मैं खड़ा रहने में असमर्थ हूँ और मेरा मन भ्रमित हो रहा है।",
+      "englishTranslation": "The Gandiva bow is slipping from my hand, my skin is burning, I am unable to stand, and my mind seems to be whirling.",
+      "commentary": "The Gandiva bow, a divine weapon that had never failed Arjuna, is now slipping from his grasp. This is deeply symbolic — when the mind loses clarity, even the most powerful instruments become useless. The burning skin and spinning mind indicate the total collapse of his warrior composure."
+    },
+    {
+      "verseNumber": 31,
+      "slug": "verse-31",
+      "speaker": "Arjuna",
+      "devanagari": "निमित्तानि च पश्यामि विपरीतानि केशव।\nन च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे॥३१॥",
+      "transliteration": "Nimittani Cha Pashyami Viparitani Keshava.\nNa Cha Shreyo'nupashyami Hatva Svajanam-Ahave.||31||",
+      "wordByWord": [
+        {
+          "word": "निमित्तानि",
+          "transliteration": "nimittani",
+          "meaning": "omens/signs"
+        },
+        {
+          "word": "पश्यामि",
+          "transliteration": "pashyami",
+          "meaning": "I see"
+        },
+        {
+          "word": "विपरीतानि",
+          "transliteration": "viparitani",
+          "meaning": "adverse/inauspicious"
+        },
+        {
+          "word": "केशव",
+          "transliteration": "keshava",
+          "meaning": "O Krishna"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "श्रेयः",
+          "transliteration": "shreyah",
+          "meaning": "good"
+        },
+        {
+          "word": "अनुपश्यामि",
+          "transliteration": "anupashyami",
+          "meaning": "I foresee"
+        },
+        {
+          "word": "हत्वा",
+          "transliteration": "hatva",
+          "meaning": "by killing"
+        },
+        {
+          "word": "स्वजनम्",
+          "transliteration": "svajanam",
+          "meaning": "own kinsmen"
+        },
+        {
+          "word": "आहवे",
+          "transliteration": "ahave",
+          "meaning": "in battle"
+        }
+      ],
+      "hindiTranslation": "हे केशव! मुझे विपरीत (अशुभ) लक्षण दिखाई दे रहे हैं और युद्ध में अपने स्वजनों को मारकर मुझे कोई कल्याण नहीं दिखता।",
+      "englishTranslation": "O Keshava, I see adverse omens, and I cannot foresee any good from killing my own kinsmen in battle.",
+      "commentary": "Arjuna now invokes inauspicious omens to justify his reluctance. While his compassion is genuine, Krishna will later reveal that Arjuna's reasoning is clouded by attachment. True welfare lies in fulfilling one's dharmic duty, not in avoiding difficult actions out of emotional confusion."
+    },
+    {
+      "verseNumber": 32,
+      "slug": "verse-32",
+      "speaker": "Arjuna",
+      "devanagari": "न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च।\nकिं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा॥३२॥",
+      "transliteration": "Na Kankshye Vijayam Krishna Na Cha Rajyam Sukhani Cha.\nKim No Rajyena Govinda Kim Bhogair-Jivitena Va.||32||",
+      "wordByWord": [
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "काङ्क्षे",
+          "transliteration": "kankshye",
+          "meaning": "I desire"
+        },
+        {
+          "word": "विजयम्",
+          "transliteration": "vijayam",
+          "meaning": "victory"
+        },
+        {
+          "word": "कृष्ण",
+          "transliteration": "krishna",
+          "meaning": "O Krishna"
+        },
+        {
+          "word": "राज्यम्",
+          "transliteration": "rajyam",
+          "meaning": "kingdom"
+        },
+        {
+          "word": "सुखानि",
+          "transliteration": "sukhani",
+          "meaning": "pleasures"
+        },
+        {
+          "word": "किम्",
+          "transliteration": "kim",
+          "meaning": "what use"
+        },
+        {
+          "word": "नः",
+          "transliteration": "nah",
+          "meaning": "for us"
+        },
+        {
+          "word": "राज्येन",
+          "transliteration": "rajyena",
+          "meaning": "with kingdom"
+        },
+        {
+          "word": "गोविन्द",
+          "transliteration": "govinda",
+          "meaning": "O Govinda (Krishna)"
+        },
+        {
+          "word": "भोगैः",
+          "transliteration": "bhogaih",
+          "meaning": "with enjoyments"
+        },
+        {
+          "word": "जीवितेन",
+          "transliteration": "jivitena",
+          "meaning": "with life"
+        }
+      ],
+      "hindiTranslation": "हे कृष्ण! मैं न विजय चाहता हूँ, न राज्य और न सुख। हे गोविन्द! हमें राज्य से क्या लाभ? भोगों से या जीवन से भी क्या?",
+      "englishTranslation": "O Krishna, I do not desire victory, nor a kingdom, nor pleasures. O Govinda, of what use is a kingdom to us? What is the use of enjoyments or even life itself?",
+      "commentary": "Arjuna renounces the very goals of the war — victory, kingdom, and pleasure. This extreme renunciation born from despair looks noble but is actually a form of escapism. Krishna will teach that true renunciation is not abandoning action but abandoning attachment to results while performing one's duty."
+    },
+    {
+      "verseNumber": 33,
+      "slug": "verse-33",
+      "speaker": "Arjuna",
+      "devanagari": "येषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च।\nत इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च॥३३॥",
+      "transliteration": "Yesham-Arthe Kankshitam No Rajyam Bhogah Sukhani Cha.\nTa Ime'vasthita Yuddhe Pranams-Tyaktva Dhanani Cha.||33||",
+      "wordByWord": [
+        {
+          "word": "येषाम्",
+          "transliteration": "yesham",
+          "meaning": "for whose"
+        },
+        {
+          "word": "अर्थे",
+          "transliteration": "arthe",
+          "meaning": "sake"
+        },
+        {
+          "word": "काङ्क्षितम्",
+          "transliteration": "kankshitam",
+          "meaning": "is desired"
+        },
+        {
+          "word": "नः",
+          "transliteration": "nah",
+          "meaning": "by us"
+        },
+        {
+          "word": "राज्यम्",
+          "transliteration": "rajyam",
+          "meaning": "kingdom"
+        },
+        {
+          "word": "भोगाः",
+          "transliteration": "bhogah",
+          "meaning": "enjoyments"
+        },
+        {
+          "word": "सुखानि",
+          "transliteration": "sukhani",
+          "meaning": "pleasures"
+        },
+        {
+          "word": "ते",
+          "transliteration": "te",
+          "meaning": "they"
+        },
+        {
+          "word": "इमे",
+          "transliteration": "ime",
+          "meaning": "these"
+        },
+        {
+          "word": "अवस्थिताः",
+          "transliteration": "avasthitah",
+          "meaning": "standing"
+        },
+        {
+          "word": "युद्धे",
+          "transliteration": "yuddhe",
+          "meaning": "in battle"
+        },
+        {
+          "word": "प्राणान्",
+          "transliteration": "pranan",
+          "meaning": "lives"
+        },
+        {
+          "word": "त्यक्त्वा",
+          "transliteration": "tyaktva",
+          "meaning": "giving up"
+        },
+        {
+          "word": "धनानि",
+          "transliteration": "dhanani",
+          "meaning": "wealth"
+        }
+      ],
+      "hindiTranslation": "जिनके लिए हम राज्य, भोग और सुख चाहते हैं, वे ही ये सब लोग अपने प्राण और धन को त्यागकर युद्ध में खड़े हैं।",
+      "englishTranslation": "Those for whose sake we desire kingdom, enjoyments, and pleasures — they are standing here in battle, ready to give up their lives and wealth.",
+      "commentary": "Arjuna presents a powerful logical argument: the very people for whom one desires wealth and happiness are the ones who will perish in the war. What good is a kingdom enjoyed without the loved ones for whom it was sought? This is the tragedy of all wars — victory brings loss."
+    },
+    {
+      "verseNumber": 34,
+      "slug": "verse-34",
+      "speaker": "Arjuna",
+      "devanagari": "आचार्याः पितरः पुत्रास्तथैव च पितामहाः।\nमातुलाः श्वशुराः पौत्राः श्यालाः सम्बन्धिनस्तथा॥३४॥",
+      "transliteration": "Acharyah Pitarah Putras-Tathaiva Cha Pitamahah.\nMatulah Shvashurah Pautrah Shyalah Sambandhinas-Tatha.||34||",
+      "wordByWord": [
+        {
+          "word": "आचार्याः",
+          "transliteration": "acharyah",
+          "meaning": "teachers"
+        },
+        {
+          "word": "पितरः",
+          "transliteration": "pitarah",
+          "meaning": "fathers/elders"
+        },
+        {
+          "word": "पुत्राः",
+          "transliteration": "putrah",
+          "meaning": "sons"
+        },
+        {
+          "word": "पितामहाः",
+          "transliteration": "pitamahah",
+          "meaning": "grandfathers"
+        },
+        {
+          "word": "मातुलाः",
+          "transliteration": "matulah",
+          "meaning": "maternal uncles"
+        },
+        {
+          "word": "श्वशुराः",
+          "transliteration": "shvashurah",
+          "meaning": "fathers-in-law"
+        },
+        {
+          "word": "पौत्राः",
+          "transliteration": "pautrah",
+          "meaning": "grandsons"
+        },
+        {
+          "word": "श्यालाः",
+          "transliteration": "shyalah",
+          "meaning": "brothers-in-law"
+        },
+        {
+          "word": "सम्बन्धिनः",
+          "transliteration": "sambandhinah",
+          "meaning": "relatives by marriage"
+        }
+      ],
+      "hindiTranslation": "गुरुजन, पिता, पुत्र, पितामह, मामा, श्वसुर, पौत्र, साले और अन्य सम्बन्धी — ये सब यहाँ हैं।",
+      "englishTranslation": "Teachers, fathers, sons, grandfathers, maternal uncles, fathers-in-law, grandsons, brothers-in-law, and other relatives — they are all here.",
+      "commentary": "Arjuna meticulously lists every category of family relationship to emphasize that this is not merely a war between kings but a devastating family conflict. Each relationship category represents a sacred bond in Indian culture that will be destroyed by the violence of war."
+    },
+    {
+      "verseNumber": 35,
+      "slug": "verse-35",
+      "speaker": "Arjuna",
+      "devanagari": "एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन।\nअपि त्रैलोक्यराज्यस्य हेतोः किं नु महीकृते॥३५॥",
+      "transliteration": "Etan Na Hantum-Ichchhami Ghnato'pi Madhusudana.\nApi Trailokya-Rajyasya Hetoh Kim Nu Mahikrite.||35||",
+      "wordByWord": [
+        {
+          "word": "एतान्",
+          "transliteration": "etan",
+          "meaning": "these"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "हन्तुम्",
+          "transliteration": "hantum",
+          "meaning": "to kill"
+        },
+        {
+          "word": "इच्छामि",
+          "transliteration": "ichchhami",
+          "meaning": "I wish"
+        },
+        {
+          "word": "घ्नतः",
+          "transliteration": "ghnatah",
+          "meaning": "even if they kill me"
+        },
+        {
+          "word": "अपि",
+          "transliteration": "api",
+          "meaning": "even"
+        },
+        {
+          "word": "मधुसूदन",
+          "transliteration": "madhusudana",
+          "meaning": "O slayer of Madhu (Krishna)"
+        },
+        {
+          "word": "त्रैलोक्यराज्यस्य",
+          "transliteration": "trailokya-rajyasya",
+          "meaning": "of the sovereignty of three worlds"
+        },
+        {
+          "word": "हेतोः",
+          "transliteration": "hetoh",
+          "meaning": "for the sake of"
+        },
+        {
+          "word": "किम् नु",
+          "transliteration": "kim nu",
+          "meaning": "what to speak of"
+        },
+        {
+          "word": "महीकृते",
+          "transliteration": "mahi-krite",
+          "meaning": "for the sake of the earth"
+        }
+      ],
+      "hindiTranslation": "हे मधुसूदन! ये सब मुझे मार भी डालें तो भी मैं इन्हें मारना नहीं चाहता। तीनों लोकों के राज्य के लिए भी नहीं, फिर इस पृथ्वी के लिए तो कहना ही क्या?",
+      "englishTranslation": "O Madhusudana, I do not wish to kill them even if they kill me — not even for the sovereignty of all three worlds, let alone for this earth.",
+      "commentary": "Arjuna declares his willingness to die rather than fight. He offers the ultimate sacrifice — not just of victory but of life itself. While this seems supremely noble, Krishna will show that abandoning one's dharmic duty out of attachment is not true sacrifice but rather spiritual confusion."
+    },
+    {
+      "verseNumber": 36,
+      "slug": "verse-36",
+      "speaker": "Arjuna",
+      "devanagari": "निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन।\nपापमेवाश्रयेदस्मान्हत्वैतानाततायिनः॥३६॥",
+      "transliteration": "Nihatya Dhartarashtran Nah Ka Pritih Syaj-Janardana.\nPapam-Eva-Ashrayed-Asman Hatva-Etan-Atatayinah.||36||",
+      "wordByWord": [
+        {
+          "word": "निहत्य",
+          "transliteration": "nihatya",
+          "meaning": "by killing"
+        },
+        {
+          "word": "धार्तराष्ट्रान्",
+          "transliteration": "dhartarashtran",
+          "meaning": "the sons of Dhritarashtra"
+        },
+        {
+          "word": "नः",
+          "transliteration": "nah",
+          "meaning": "our"
+        },
+        {
+          "word": "का",
+          "transliteration": "ka",
+          "meaning": "what"
+        },
+        {
+          "word": "प्रीतिः",
+          "transliteration": "pritih",
+          "meaning": "pleasure"
+        },
+        {
+          "word": "स्यात्",
+          "transliteration": "syat",
+          "meaning": "would be"
+        },
+        {
+          "word": "जनार्दन",
+          "transliteration": "janardana",
+          "meaning": "O Krishna"
+        },
+        {
+          "word": "पापम्",
+          "transliteration": "papam",
+          "meaning": "sin"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "certainly"
+        },
+        {
+          "word": "आश्रयेत्",
+          "transliteration": "ashrayet",
+          "meaning": "would take hold"
+        },
+        {
+          "word": "अस्मान्",
+          "transliteration": "asman",
+          "meaning": "of us"
+        },
+        {
+          "word": "हत्वा",
+          "transliteration": "hatva",
+          "meaning": "having killed"
+        },
+        {
+          "word": "आततायिनः",
+          "transliteration": "atatayinah",
+          "meaning": "aggressors"
+        }
+      ],
+      "hindiTranslation": "हे जनार्दन! धृतराष्ट्र के पुत्रों को मारकर हमें क्या प्रसन्नता होगी? इन आततायियों को मारने से तो हमें पाप ही लगेगा।",
+      "englishTranslation": "O Janardana, what pleasure would we derive from killing the sons of Dhritarashtra? Sin alone would accrue to us by slaying these aggressors.",
+      "commentary": "Interestingly, Arjuna acknowledges the Kauravas are 'atatayinah' (aggressors) — yet still refuses to fight them. According to dharma-shastra, killing an aggressor (one who commits arson, poisoning, armed attack, theft, land-grabbing, or abduction) incurs no sin. Arjuna's emotional state overrides his scriptural knowledge."
+    },
+    {
+      "verseNumber": 37,
+      "slug": "verse-37",
+      "speaker": "Arjuna",
+      "devanagari": "तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान्।\nस्वजनं हि कथं हत्वा सुखिनः स्याम माधव॥३७॥",
+      "transliteration": "Tasman-Narha Vayam Hantum Dhartarashtran Sva-Bandhavan.\nSvajanam Hi Katham Hatva Sukhinah Syama Madhava.||37||",
+      "wordByWord": [
+        {
+          "word": "तस्मात्",
+          "transliteration": "tasmat",
+          "meaning": "therefore"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "अर्हाः",
+          "transliteration": "arhah",
+          "meaning": "justified"
+        },
+        {
+          "word": "वयम्",
+          "transliteration": "vayam",
+          "meaning": "we"
+        },
+        {
+          "word": "हन्तुम्",
+          "transliteration": "hantum",
+          "meaning": "to kill"
+        },
+        {
+          "word": "धार्तराष्ट्रान्",
+          "transliteration": "dhartarashtran",
+          "meaning": "sons of Dhritarashtra"
+        },
+        {
+          "word": "स्वबान्धवान्",
+          "transliteration": "sva-bandhavan",
+          "meaning": "our own relatives"
+        },
+        {
+          "word": "स्वजनम्",
+          "transliteration": "svajanam",
+          "meaning": "own people"
+        },
+        {
+          "word": "हत्वा",
+          "transliteration": "hatva",
+          "meaning": "having killed"
+        },
+        {
+          "word": "सुखिनः",
+          "transliteration": "sukhinah",
+          "meaning": "happy"
+        },
+        {
+          "word": "स्याम",
+          "transliteration": "syama",
+          "meaning": "can we be"
+        },
+        {
+          "word": "माधव",
+          "transliteration": "madhava",
+          "meaning": "O Krishna"
+        }
+      ],
+      "hindiTranslation": "इसलिए हमें अपने बन्धु धार्तराष्ट्रों को मारना उचित नहीं है। हे माधव! अपने स्वजनों को मारकर हम कैसे सुखी हो सकते हैं?",
+      "englishTranslation": "Therefore, it is not right for us to kill the sons of Dhritarashtra, our own relatives. O Madhava, how can we be happy by killing our own kinsmen?",
+      "commentary": "Arjuna's argument seems logical on the surface — happiness cannot come from killing family. Yet this reasoning confuses temporary emotional suffering with lasting dharmic consequences. Krishna will later explain that greater harm comes from abandoning one's righteous duty than from the pain of fulfilling it."
+    },
+    {
+      "verseNumber": 38,
+      "slug": "verse-38",
+      "speaker": "Arjuna",
+      "devanagari": "यद्यप्येते न पश्यन्ति लोभोपहतचेतसः।\nकुलक्षयकृतं दोषं मित्रद्रोहे च पातकम्॥३८॥",
+      "transliteration": "Yady-Apy-Ete Na Pashyanti Lobho-Pahata-Chetasah.\nKula-Kshaya-Kritam Dosham Mitra-Drohe Cha Patakam.||38||",
+      "wordByWord": [
+        {
+          "word": "यद्यपि",
+          "transliteration": "yady-api",
+          "meaning": "even though"
+        },
+        {
+          "word": "एते",
+          "transliteration": "ete",
+          "meaning": "these"
+        },
+        {
+          "word": "न पश्यन्ति",
+          "transliteration": "na pashyanti",
+          "meaning": "do not see"
+        },
+        {
+          "word": "लोभोपहतचेतसः",
+          "transliteration": "lobha-upahata-chetasah",
+          "meaning": "with minds overcome by greed"
+        },
+        {
+          "word": "कुलक्षयकृतम्",
+          "transliteration": "kula-kshaya-kritam",
+          "meaning": "caused by destroying the family"
+        },
+        {
+          "word": "दोषम्",
+          "transliteration": "dosham",
+          "meaning": "fault/sin"
+        },
+        {
+          "word": "मित्रद्रोहे",
+          "transliteration": "mitra-drohe",
+          "meaning": "in treachery to friends"
+        },
+        {
+          "word": "पातकम्",
+          "transliteration": "patakam",
+          "meaning": "sin"
+        }
+      ],
+      "hindiTranslation": "यद्यपि लोभ से भ्रष्ट बुद्धि वाले ये लोग कुल के नाश से उत्पन्न दोष और मित्रद्रोह में पाप नहीं देखते,",
+      "englishTranslation": "Even though these people, whose minds are overcome by greed, see no wrong in destroying the family or sin in betraying friends,",
+      "commentary": "Arjuna recognizes that the Kauravas are blinded by greed, yet he takes the moral high ground by refusing to descend to their level. This verse begins a philosophical argument spanning several verses about the consequences of family destruction — showing Arjuna's intellect trying to rationalize his emotional paralysis."
+    },
+    {
+      "verseNumber": 39,
+      "slug": "verse-39",
+      "speaker": "Arjuna",
+      "devanagari": "कथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम्।\nकुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन॥३९॥",
+      "transliteration": "Katham Na Jneyam-Asmabhih Papad-Asman Nivartitum.\nKula-Kshaya-Kritam Dosham Prapashyadbhir-Janardana.||39||",
+      "wordByWord": [
+        {
+          "word": "कथम्",
+          "transliteration": "katham",
+          "meaning": "why"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "ज्ञेयम्",
+          "transliteration": "jneyam",
+          "meaning": "should be known/understood"
+        },
+        {
+          "word": "अस्माभिः",
+          "transliteration": "asmabhih",
+          "meaning": "by us"
+        },
+        {
+          "word": "पापात्",
+          "transliteration": "papat",
+          "meaning": "from this sin"
+        },
+        {
+          "word": "अस्मात्",
+          "transliteration": "asmat",
+          "meaning": "from this"
+        },
+        {
+          "word": "निवर्तितुम्",
+          "transliteration": "nivartitum",
+          "meaning": "to turn back"
+        },
+        {
+          "word": "कुलक्षयकृतम्",
+          "transliteration": "kula-kshaya-kritam",
+          "meaning": "caused by family destruction"
+        },
+        {
+          "word": "दोषम्",
+          "transliteration": "dosham",
+          "meaning": "evil"
+        },
+        {
+          "word": "प्रपश्यद्भिः",
+          "transliteration": "prapashyadbhih",
+          "meaning": "those who can see"
+        },
+        {
+          "word": "जनार्दन",
+          "transliteration": "janardana",
+          "meaning": "O Krishna"
+        }
+      ],
+      "hindiTranslation": "हे जनार्दन! परन्तु कुल-नाश के दोष को जानने वाले हमें इस पाप से हटने का विवेक क्यों नहीं होना चाहिए?",
+      "englishTranslation": "O Janardana, why should we, who can clearly see the evil in destroying the family, not have the wisdom to turn away from this sin?",
+      "commentary": "Arjuna claims moral superiority — if the Kauravas are blind to sin, those who can see it (like the Pandavas) bear even greater responsibility to avoid it. This argument sounds wise but confuses passive avoidance of sin with active performance of duty, a distinction Krishna will clarify."
+    },
+    {
+      "verseNumber": 40,
+      "slug": "verse-40",
+      "speaker": "Arjuna",
+      "devanagari": "कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः।\nधर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत॥४०॥",
+      "transliteration": "Kula-Kshaye Pranashyanti Kula-Dharmah Sanatanah.\nDharme Nashte Kulam Kritsnam-Adharmo'bhibhavaty-Uta.||40||",
+      "wordByWord": [
+        {
+          "word": "कुलक्षये",
+          "transliteration": "kula-kshaye",
+          "meaning": "in the destruction of the family"
+        },
+        {
+          "word": "प्रणश्यन्ति",
+          "transliteration": "pranashyanti",
+          "meaning": "are destroyed"
+        },
+        {
+          "word": "कुलधर्माः",
+          "transliteration": "kula-dharmah",
+          "meaning": "family traditions/dharma"
+        },
+        {
+          "word": "सनातनाः",
+          "transliteration": "sanatanah",
+          "meaning": "eternal/ancient"
+        },
+        {
+          "word": "धर्मे",
+          "transliteration": "dharme",
+          "meaning": "when dharma"
+        },
+        {
+          "word": "नष्टे",
+          "transliteration": "nashte",
+          "meaning": "is destroyed"
+        },
+        {
+          "word": "कुलम्",
+          "transliteration": "kulam",
+          "meaning": "the family"
+        },
+        {
+          "word": "कृत्स्नम्",
+          "transliteration": "kritsnam",
+          "meaning": "entire"
+        },
+        {
+          "word": "अधर्मः",
+          "transliteration": "adharmah",
+          "meaning": "irreligion"
+        },
+        {
+          "word": "अभिभवति",
+          "transliteration": "abhibhavati",
+          "meaning": "overcomes"
+        }
+      ],
+      "hindiTranslation": "कुल के नाश होने पर सनातन कुलधर्म नष्ट हो जाते हैं। धर्म के नष्ट होने पर सम्पूर्ण कुल को अधर्म दबा लेता है।",
+      "englishTranslation": "When the family is destroyed, the ancient family traditions perish. When dharma is lost, adharma (irreligion) overwhelms the entire family.",
+      "commentary": "Arjuna articulates a legitimate social concern — the destruction of elders leads to the loss of cultural and spiritual traditions passed down through generations. Without these guardians of tradition, moral decay follows. This sociological argument shows the depth of Arjuna's thinking beyond personal grief."
+    },
+    {
+      "verseNumber": 41,
+      "slug": "verse-41",
+      "speaker": "Arjuna",
+      "devanagari": "अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः।\nस्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्करः॥४१॥",
+      "transliteration": "Adharma-Abhibhavat Krishna Pradushyanti Kula-Striyah.\nStrishu Dushtasu Varshneya Jayate Varna-Sankarah.||41||",
+      "wordByWord": [
+        {
+          "word": "अधर्माभिभवात्",
+          "transliteration": "adharma-abhibhavat",
+          "meaning": "from prevalence of irreligion"
+        },
+        {
+          "word": "कृष्ण",
+          "transliteration": "krishna",
+          "meaning": "O Krishna"
+        },
+        {
+          "word": "प्रदुष्यन्ति",
+          "transliteration": "pradushyanti",
+          "meaning": "become corrupted"
+        },
+        {
+          "word": "कुलस्त्रियः",
+          "transliteration": "kula-striyah",
+          "meaning": "women of the family"
+        },
+        {
+          "word": "स्त्रीषु",
+          "transliteration": "strishu",
+          "meaning": "when women"
+        },
+        {
+          "word": "दुष्टासु",
+          "transliteration": "dushtasu",
+          "meaning": "are corrupted"
+        },
+        {
+          "word": "वार्ष्णेय",
+          "transliteration": "varshneya",
+          "meaning": "O descendant of Vrishni"
+        },
+        {
+          "word": "वर्णसङ्करः",
+          "transliteration": "varna-sankarah",
+          "meaning": "unwanted progeny/social disorder"
+        }
+      ],
+      "hindiTranslation": "हे कृष्ण! अधर्म के बढ़ने से कुल की स्त्रियाँ दूषित हो जाती हैं। हे वार्ष्णेय! स्त्रियों के दूषित होने पर वर्णसंकर (सामाजिक अव्यवस्था) उत्पन्न होता है।",
+      "englishTranslation": "O Krishna, with the prevalence of adharma, the women of the family become corrupted. O Varshneya, when women are corrupted, social disorder (varna-sankara) arises.",
+      "commentary": "Arjuna speaks from the perspective of his era's social framework. The deeper point is about the breakdown of social order when moral structures collapse — a universal truth applicable to any society. When the guardians of values are destroyed in war, the entire social fabric unravels."
+    },
+    {
+      "verseNumber": 42,
+      "slug": "verse-42",
+      "speaker": "Arjuna",
+      "devanagari": "सङ्करो नरकायैव कुलघ्नानां कुलस्य च।\nपतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः॥४२॥",
+      "transliteration": "Sankaro Narakayaiva Kula-Ghnanam Kulasya Cha.\nPatanti Pitaro Hy-Esham Lupta-Pindodaka-Kriyah.||42||",
+      "wordByWord": [
+        {
+          "word": "सङ्करः",
+          "transliteration": "sankarah",
+          "meaning": "social disorder"
+        },
+        {
+          "word": "नरकाय",
+          "transliteration": "narakaya",
+          "meaning": "for hell"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "certainly"
+        },
+        {
+          "word": "कुलघ्नानाम्",
+          "transliteration": "kula-ghnanam",
+          "meaning": "of the destroyers of the family"
+        },
+        {
+          "word": "कुलस्य",
+          "transliteration": "kulasya",
+          "meaning": "of the family"
+        },
+        {
+          "word": "पतन्ति",
+          "transliteration": "patanti",
+          "meaning": "fall down"
+        },
+        {
+          "word": "पितरः",
+          "transliteration": "pitarah",
+          "meaning": "ancestors/forefathers"
+        },
+        {
+          "word": "एषाम्",
+          "transliteration": "esham",
+          "meaning": "their"
+        },
+        {
+          "word": "लुप्तपिण्डोदकक्रियाः",
+          "transliteration": "lupta-pindodaka-kriyah",
+          "meaning": "deprived of offerings of food and water"
+        }
+      ],
+      "hindiTranslation": "यह वर्णसंकर कुल-घातियों और कुल दोनों को नरक में ले जाता है। इनके पितर भी पिण्ड और जल की क्रिया बन्द होने से गिर जाते हैं।",
+      "englishTranslation": "Such social disorder leads to hell for both the destroyers of the family and the family itself. The ancestors fall, deprived of the offerings of food and water.",
+      "commentary": "Arjuna invokes the ancient Vedic belief in ancestral rites (shraddha). When families are destroyed, the ritual offerings to ancestors cease, causing their spiritual downfall. This concern for both the living and the departed shows the comprehensive nature of Arjuna's moral anguish."
+    },
+    {
+      "verseNumber": 43,
+      "slug": "verse-43",
+      "speaker": "Arjuna",
+      "devanagari": "दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः।\nउत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः॥४३॥",
+      "transliteration": "Doshair-Etaih Kula-Ghnanam Varna-Sankara-Karakaih.\nUtsadyante Jati-Dharmah Kula-Dharmash-Cha Shashvatah.||43||",
+      "wordByWord": [
+        {
+          "word": "दोषैः",
+          "transliteration": "doshaih",
+          "meaning": "by these faults"
+        },
+        {
+          "word": "एतैः",
+          "transliteration": "etaih",
+          "meaning": "these"
+        },
+        {
+          "word": "कुलघ्नानाम्",
+          "transliteration": "kula-ghnanam",
+          "meaning": "of the family destroyers"
+        },
+        {
+          "word": "वर्णसङ्करकारकैः",
+          "transliteration": "varna-sankara-karakaih",
+          "meaning": "which cause social disorder"
+        },
+        {
+          "word": "उत्साद्यन्ते",
+          "transliteration": "utsadyante",
+          "meaning": "are destroyed"
+        },
+        {
+          "word": "जातिधर्माः",
+          "transliteration": "jati-dharmah",
+          "meaning": "community traditions"
+        },
+        {
+          "word": "कुलधर्माः",
+          "transliteration": "kula-dharmah",
+          "meaning": "family traditions"
+        },
+        {
+          "word": "शाश्वताः",
+          "transliteration": "shashvatah",
+          "meaning": "eternal"
+        }
+      ],
+      "hindiTranslation": "इन वर्णसंकर उत्पन्न करने वाले दोषों से कुल-घातियों के सनातन जाति-धर्म और कुल-धर्म नष्ट हो जाते हैं।",
+      "englishTranslation": "By the misdeeds of those who destroy the family and create social disorder, the eternal community traditions and family dharma are ruined.",
+      "commentary": "Arjuna's concern extends beyond individuals to the entire social structure. The destruction of 'shashvata' (eternal) traditions means the loss of accumulated spiritual wisdom passed through generations. This argument, while valid in context, represents attachment to social order over cosmic order — a distinction Krishna will address."
+    },
+    {
+      "verseNumber": 44,
+      "slug": "verse-44",
+      "speaker": "Arjuna",
+      "devanagari": "उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन।\nनरकेऽनियतं वासो भवतीत्यनुशुश्रुम॥४४॥",
+      "transliteration": "Utsanna-Kula-Dharmanam Manushyanam Janardana.\nNarake'niyatam Vaso Bhavati-Ity-Anushushruma.||44||",
+      "wordByWord": [
+        {
+          "word": "उत्सन्नकुलधर्माणाम्",
+          "transliteration": "utsanna-kula-dharmanam",
+          "meaning": "of those whose family traditions are destroyed"
+        },
+        {
+          "word": "मनुष्याणाम्",
+          "transliteration": "manushyanam",
+          "meaning": "of such people"
+        },
+        {
+          "word": "जनार्दन",
+          "transliteration": "janardana",
+          "meaning": "O Krishna"
+        },
+        {
+          "word": "नरके",
+          "transliteration": "narake",
+          "meaning": "in hell"
+        },
+        {
+          "word": "अनियतम्",
+          "transliteration": "aniyatam",
+          "meaning": "for an indefinite time"
+        },
+        {
+          "word": "वासः",
+          "transliteration": "vasah",
+          "meaning": "dwelling"
+        },
+        {
+          "word": "भवति",
+          "transliteration": "bhavati",
+          "meaning": "happens"
+        },
+        {
+          "word": "इति",
+          "transliteration": "iti",
+          "meaning": "thus"
+        },
+        {
+          "word": "अनुशुश्रुम",
+          "transliteration": "anushushruma",
+          "meaning": "we have heard from authorities"
+        }
+      ],
+      "hindiTranslation": "हे जनार्दन! हमने सुना है कि जिन मनुष्यों के कुल-धर्म नष्ट हो जाते हैं, उन्हें अनिश्चित काल तक नरक में वास करना पड़ता है।",
+      "englishTranslation": "O Janardana, we have heard from the learned that those whose family traditions are destroyed are destined to dwell in hell for an indefinite period.",
+      "commentary": "Arjuna cites scriptural authority ('anushushruma' — we have heard from the wise) to strengthen his argument. He invokes the fear of hell as the ultimate consequence. Ironically, it is precisely this kind of scriptural half-knowledge that Krishna will correct with complete spiritual wisdom."
+    },
+    {
+      "verseNumber": 45,
+      "slug": "verse-45",
+      "speaker": "Arjuna",
+      "devanagari": "अहो बत महत्पापं कर्तुं व्यवसिता वयम्।\nयद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः॥४५॥",
+      "transliteration": "Aho Bata Mahat-Papam Kartum Vyavasita Vayam.\nYad-Rajya-Sukha-Lobhena Hantum Svajanam-Udyatah.||45||",
+      "wordByWord": [
+        {
+          "word": "अहो",
+          "transliteration": "aho",
+          "meaning": "alas"
+        },
+        {
+          "word": "बत",
+          "transliteration": "bata",
+          "meaning": "how strange"
+        },
+        {
+          "word": "महत्",
+          "transliteration": "mahat",
+          "meaning": "great"
+        },
+        {
+          "word": "पापम्",
+          "transliteration": "papam",
+          "meaning": "sin"
+        },
+        {
+          "word": "कर्तुम्",
+          "transliteration": "kartum",
+          "meaning": "to commit"
+        },
+        {
+          "word": "व्यवसिताः",
+          "transliteration": "vyavasitah",
+          "meaning": "resolved"
+        },
+        {
+          "word": "वयम्",
+          "transliteration": "vayam",
+          "meaning": "we"
+        },
+        {
+          "word": "राज्यसुखलोभेन",
+          "transliteration": "rajya-sukha-lobhena",
+          "meaning": "by greed for kingdom and pleasure"
+        },
+        {
+          "word": "हन्तुम्",
+          "transliteration": "hantum",
+          "meaning": "to kill"
+        },
+        {
+          "word": "स्वजनम्",
+          "transliteration": "svajanam",
+          "meaning": "own kinsmen"
+        },
+        {
+          "word": "उद्यताः",
+          "transliteration": "udyatah",
+          "meaning": "prepared"
+        }
+      ],
+      "hindiTranslation": "हाय! कितने खेद की बात है कि हम लोग बड़ा भारी पाप करने को तैयार हो गए हैं — राज्य और सुख के लोभ से अपने स्वजनों को मारने पर उतारू हैं।",
+      "englishTranslation": "Alas! How strange it is that we are resolved to commit a great sin, driven by the greed for kingdom and pleasure, prepared to kill our own kinsmen.",
+      "commentary": "The exclamation 'Aho bata' expresses Arjuna's deep anguish and self-reproach. He now includes himself in the blame — 'we' have resolved to commit sin. This self-awareness, while showing moral sensitivity, has paralyzed him into inaction, which itself becomes a failure of duty."
+    },
+    {
+      "verseNumber": 46,
+      "slug": "verse-46",
+      "speaker": "Arjuna",
+      "devanagari": "यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः।\nधार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत्॥४६॥",
+      "transliteration": "Yadi Mam-Apratikaram-Ashastram Shastra-Panayah.\nDhartarashtra Rane Hanyus-Tan-Me Kshemataram Bhavet.||46||",
+      "wordByWord": [
+        {
+          "word": "यदि",
+          "transliteration": "yadi",
+          "meaning": "if"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "me"
+        },
+        {
+          "word": "अप्रतीकारम्",
+          "transliteration": "apratikaram",
+          "meaning": "unresisting"
+        },
+        {
+          "word": "अशस्त्रम्",
+          "transliteration": "ashastram",
+          "meaning": "unarmed"
+        },
+        {
+          "word": "शस्त्रपाणयः",
+          "transliteration": "shastra-panayah",
+          "meaning": "with weapons in hand"
+        },
+        {
+          "word": "धार्तराष्ट्राः",
+          "transliteration": "dhartarashtrah",
+          "meaning": "sons of Dhritarashtra"
+        },
+        {
+          "word": "रणे",
+          "transliteration": "rane",
+          "meaning": "in battle"
+        },
+        {
+          "word": "हन्युः",
+          "transliteration": "hanyuh",
+          "meaning": "were to kill"
+        },
+        {
+          "word": "तत्",
+          "transliteration": "tat",
+          "meaning": "that"
+        },
+        {
+          "word": "मे",
+          "transliteration": "me",
+          "meaning": "for me"
+        },
+        {
+          "word": "क्षेमतरम्",
+          "transliteration": "kshemataram",
+          "meaning": "better/more peaceful"
+        },
+        {
+          "word": "भवेत्",
+          "transliteration": "bhavet",
+          "meaning": "would be"
+        }
+      ],
+      "hindiTranslation": "यदि शस्त्र हाथ में लिए हुए धृतराष्ट्र के पुत्र युद्ध में मुझ निहत्थे और प्रतिकार न करने वाले को मार दें, तो वह मेरे लिए अधिक कल्याणकारी होगा।",
+      "englishTranslation": "If the sons of Dhritarashtra, weapons in hand, were to kill me in battle — unarmed and unresisting — that would be better for me.",
+      "commentary": "This is the climax of Arjuna's despair. He would rather die unarmed than fight. For a Kshatriya, this is the ultimate renunciation — choosing death over the warrior's duty. This extreme position reveals how completely Arjuna's emotional crisis has overwhelmed his sense of dharma."
+    },
+    {
+      "verseNumber": 47,
+      "slug": "verse-47",
+      "speaker": "Sanjaya",
+      "devanagari": "एवमुक्त्वार्जुनः सङ्ख्ये रथोपस्थ उपाविशत्।\nविसृज्य सशरं चापं शोकसंविग्नमानसः॥४७॥",
+      "transliteration": "Evam-Uktva-Arjunah Sankhye Rathopastha Upavishat.\nVisrijya Sa-Sharam Chapam Shoka-Samvigna-Manasah.||47||",
+      "wordByWord": [
+        {
+          "word": "एवम्",
+          "transliteration": "evam",
+          "meaning": "thus"
+        },
+        {
+          "word": "उक्त्वा",
+          "transliteration": "uktva",
+          "meaning": "having said"
+        },
+        {
+          "word": "अर्जुनः",
+          "transliteration": "arjunah",
+          "meaning": "Arjuna"
+        },
+        {
+          "word": "सङ्ख्ये",
+          "transliteration": "sankhye",
+          "meaning": "on the battlefield"
+        },
+        {
+          "word": "रथोपस्थे",
+          "transliteration": "rathopasthe",
+          "meaning": "on the seat of the chariot"
+        },
+        {
+          "word": "उपाविशत्",
+          "transliteration": "upavishat",
+          "meaning": "sat down"
+        },
+        {
+          "word": "विसृज्य",
+          "transliteration": "visrijya",
+          "meaning": "casting aside"
+        },
+        {
+          "word": "सशरम्",
+          "transliteration": "sa-sharam",
+          "meaning": "along with arrows"
+        },
+        {
+          "word": "चापम्",
+          "transliteration": "chapam",
+          "meaning": "bow"
+        },
+        {
+          "word": "शोकसंविग्नमानसः",
+          "transliteration": "shoka-samvigna-manasah",
+          "meaning": "with a mind agitated by grief"
+        }
+      ],
+      "hindiTranslation": "संजय ने कहा — ऐसा कहकर अर्जुन रणभूमि में शोक से व्याकुल मन वाले होकर बाण सहित धनुष को छोड़कर रथ के पिछले भाग में बैठ गए।",
+      "englishTranslation": "Sanjaya said: Having spoken thus on the battlefield, Arjuna cast aside his bow and arrows and sank into the seat of his chariot, his mind overwhelmed with grief.",
+      "commentary": "The chapter ends with this powerful image — the greatest archer of his era sitting down in defeat before the battle has even begun, his weapons abandoned. This moment of complete psychological collapse is the necessary darkness before the dawn of Krishna's teachings. Without this depth of despair, Arjuna would not have been ready to receive the highest wisdom."
+    }
+  ]
+}

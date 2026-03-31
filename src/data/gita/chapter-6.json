@@ -1,0 +1,3390 @@
+{
+  "chapterNumber": 6,
+  "titleSanskrit": "ध्यानयोगः",
+  "titleHindi": "ध्यान योग",
+  "titleEnglish": "Dhyana Yoga - The Yoga of Meditation",
+  "slug": "chapter-6",
+  "description": "Bhagavad Gita Chapter 6, Dhyana Yoga, is the definitive guide to meditation in Hindu scripture. Krishna begins by declaring that a true sannyasi and yogi is one who performs duty without attachment to results, not one who merely renounces fire rituals or action. He teaches the famous maxim 'Uddhared Atmanatmanam' — one must elevate oneself by one's own self, for the self alone is one's friend or enemy. Detailed instructions on meditation posture, place, diet, and mental focus are given. The mind is compared to a steady lamp in a windless place. When Arjuna confesses that the mind is as difficult to control as the wind, Krishna reassures him that through practice (abhyasa) and detachment (vairagya), the mind can be mastered. The chapter concludes with Krishna's assurance that no spiritual effort is ever wasted, and declares the devoted yogi as the highest of all seekers.",
+  "verseCount": 47,
+  "verses": [
+    {
+      "verseNumber": 1,
+      "speaker": "Krishna",
+      "devanagari": "अनाश्रितः कर्मफलं कार्यं कर्म करोति यः।\nस सन्न्यासी च योगी च न निरग्निर्न चाक्रियः॥",
+      "transliteration": "Anashritah Karma-Phalam Karyam Karma Karoti Yah.\nSa Sannyasi Cha Yogi Cha Na Nir-Agnir-Na Cha-Akriyah.",
+      "wordByWord": [
+        {
+          "word": "अनाश्रितः",
+          "transliteration": "anashritah",
+          "meaning": "not depending on"
+        },
+        {
+          "word": "कर्मफलम्",
+          "transliteration": "karma-phalam",
+          "meaning": "fruit of action"
+        },
+        {
+          "word": "कार्यम्",
+          "transliteration": "karyam",
+          "meaning": "obligatory/duty"
+        },
+        {
+          "word": "कर्म",
+          "transliteration": "karma",
+          "meaning": "action"
+        },
+        {
+          "word": "करोति",
+          "transliteration": "karoti",
+          "meaning": "performs"
+        },
+        {
+          "word": "यः",
+          "transliteration": "yah",
+          "meaning": "who"
+        },
+        {
+          "word": "सः",
+          "transliteration": "sah",
+          "meaning": "he"
+        },
+        {
+          "word": "सन्न्यासी",
+          "transliteration": "sannyasi",
+          "meaning": "renunciate"
+        },
+        {
+          "word": "च",
+          "transliteration": "cha",
+          "meaning": "and"
+        },
+        {
+          "word": "योगी",
+          "transliteration": "yogi",
+          "meaning": "yogi"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "निरग्निः",
+          "transliteration": "nir-agnih",
+          "meaning": "without fire (rituals)"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "अक्रियः",
+          "transliteration": "akriyah",
+          "meaning": "without action"
+        }
+      ],
+      "hindiTranslation": "श्रीभगवान बोले — जो कर्मफल का आश्रय न लेकर कर्तव्य कर्म करता है, वही संन्यासी और योगी है; न वह जो अग्नि (यज्ञ) त्यागता है, न वह जो कर्म त्यागता है।",
+      "englishTranslation": "The Supreme Lord said: One who performs their obligatory duty without depending on the fruits of action is a true sannyasi and yogi — not one who merely renounces fire rituals, nor one who merely renounces action.",
+      "commentary": "Krishna opens this chapter by redefining both sannyasa and yoga. The true renunciate is not one who abandons rituals or sits idle, but one who performs duty without attachment to results. This revolutionary definition unites the paths of renunciation and action, showing that inner detachment while performing one's duty is the highest spiritual practice.",
+      "slug": "verse-1"
+    },
+    {
+      "verseNumber": 2,
+      "speaker": "Krishna",
+      "devanagari": "यं सन्न्यासमिति प्राहुर्योगं तं विद्धि पाण्डव।\nन ह्यसन्न्यस्तसङ्कल्पो योगी भवति कश्चन॥",
+      "transliteration": "Yam Sannyasam-Iti Prahur-Yogam Tam Viddhi Pandava.\nNa Hy-Asannyasta-Sankalpo Yogi Bhavati Kashchana.",
+      "wordByWord": [
+        {
+          "word": "यम्",
+          "transliteration": "yam",
+          "meaning": "what"
+        },
+        {
+          "word": "सन्न्यासम्",
+          "transliteration": "sannyasam",
+          "meaning": "renunciation"
+        },
+        {
+          "word": "इति",
+          "transliteration": "iti",
+          "meaning": "thus"
+        },
+        {
+          "word": "प्राहुः",
+          "transliteration": "prahuh",
+          "meaning": "they call"
+        },
+        {
+          "word": "योगम्",
+          "transliteration": "yogam",
+          "meaning": "yoga"
+        },
+        {
+          "word": "तम्",
+          "transliteration": "tam",
+          "meaning": "that"
+        },
+        {
+          "word": "विद्धि",
+          "transliteration": "viddhi",
+          "meaning": "know"
+        },
+        {
+          "word": "पाण्डव",
+          "transliteration": "pandava",
+          "meaning": "O son of Pandu"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "हि",
+          "transliteration": "hi",
+          "meaning": "certainly"
+        },
+        {
+          "word": "असन्न्यस्तसङ्कल्पः",
+          "transliteration": "asannyasta-sankalpah",
+          "meaning": "without renouncing selfish desire"
+        },
+        {
+          "word": "योगी",
+          "transliteration": "yogi",
+          "meaning": "yogi"
+        },
+        {
+          "word": "भवति",
+          "transliteration": "bhavati",
+          "meaning": "becomes"
+        },
+        {
+          "word": "कश्चन",
+          "transliteration": "kashchana",
+          "meaning": "anyone"
+        }
+      ],
+      "hindiTranslation": "हे पाण्डव! जिसे संन्यास कहते हैं, उसे ही योग जानो। बिना संकल्पों (स्वार्थी इच्छाओं) का त्याग किए कोई भी योगी नहीं बन सकता।",
+      "englishTranslation": "Know that what they call renunciation (sannyasa) is the same as yoga, O Pandava. No one becomes a yogi without renouncing selfish resolve (sankalpa).",
+      "commentary": "Krishna establishes the essential identity between sannyasa and yoga — both require the renunciation of selfish desire (sankalpa). Without giving up personal agendas and self-centered motivations, no one can truly practice yoga. This verse underscores that the internal attitude of desirelessness is the common foundation of all spiritual paths.",
+      "slug": "verse-2"
+    },
+    {
+      "verseNumber": 3,
+      "speaker": "Krishna",
+      "devanagari": "आरुरुक्षोर्मुनेर्योगं कर्म कारणमुच्यते।\nयोगारूढस्य तस्यैव शमः कारणमुच्यते॥",
+      "transliteration": "Arurukshor-Muner-Yogam Karma Karanam-Uchyate.\nYoga-Arudhasya Tasya-Iva Shamah Karanam-Uchyate.",
+      "wordByWord": [
+        {
+          "word": "आरुरुक्षोः",
+          "transliteration": "arurukshoh",
+          "meaning": "for one desiring to climb/attain"
+        },
+        {
+          "word": "मुनेः",
+          "transliteration": "muneh",
+          "meaning": "for the sage"
+        },
+        {
+          "word": "योगम्",
+          "transliteration": "yogam",
+          "meaning": "yoga"
+        },
+        {
+          "word": "कर्म",
+          "transliteration": "karma",
+          "meaning": "action"
+        },
+        {
+          "word": "कारणम्",
+          "transliteration": "karanam",
+          "meaning": "means/cause"
+        },
+        {
+          "word": "उच्यते",
+          "transliteration": "uchyate",
+          "meaning": "is said"
+        },
+        {
+          "word": "योगारूढस्य",
+          "transliteration": "yoga-arudhasya",
+          "meaning": "for one who has attained yoga"
+        },
+        {
+          "word": "तस्य",
+          "transliteration": "tasya",
+          "meaning": "for him"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "certainly"
+        },
+        {
+          "word": "शमः",
+          "transliteration": "shamah",
+          "meaning": "tranquility/cessation"
+        },
+        {
+          "word": "कारणम्",
+          "transliteration": "karanam",
+          "meaning": "means/cause"
+        },
+        {
+          "word": "उच्यते",
+          "transliteration": "uchyate",
+          "meaning": "is said"
+        }
+      ],
+      "hindiTranslation": "योग में आरोहण (चढ़ने) की इच्छा रखने वाले मुनि के लिए कर्म कारण (साधन) कहा जाता है; योगारूढ (योग में स्थित) के लिए शम (शान्ति/कर्म-उपरति) कारण कहा जाता है।",
+      "englishTranslation": "For the sage aspiring to attain yoga, action is said to be the means. For one who has attained yoga, tranquility (cessation of action) is said to be the means.",
+      "commentary": "Krishna describes two stages of the spiritual journey. For the beginner seeking to attain yoga, selfless action is the primary tool for purification and preparation. For the advanced practitioner who has already established themselves in yoga, inner tranquility and cessation of restless activity becomes the means for deeper realization. This teaches that the spiritual path naturally evolves from active engagement to meditative stillness.",
+      "slug": "verse-3"
+    },
+    {
+      "verseNumber": 4,
+      "speaker": "Krishna",
+      "devanagari": "यदा हि नेन्द्रियार्थेषु न कर्मस्वनुषज्जते।\nसर्वसङ्कल्पसन्न्यासी योगारूढस्तदोच्यते॥",
+      "transliteration": "Yada Hi Na-Indriya-Artheshu Na Karmasv-Anushajjate.\nSarva-Sankalpa-Sannyasi Yoga-Arudhas-Tado-Uchyate.",
+      "wordByWord": [
+        {
+          "word": "यदा",
+          "transliteration": "yada",
+          "meaning": "when"
+        },
+        {
+          "word": "हि",
+          "transliteration": "hi",
+          "meaning": "certainly"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "इन्द्रियार्थेषु",
+          "transliteration": "indriya-artheshu",
+          "meaning": "in sense objects"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "कर्मसु",
+          "transliteration": "karmasu",
+          "meaning": "in actions"
+        },
+        {
+          "word": "अनुषज्जते",
+          "transliteration": "anushajjate",
+          "meaning": "is attached"
+        },
+        {
+          "word": "सर्वसङ्कल्पसन्न्यासी",
+          "transliteration": "sarva-sankalpa-sannyasi",
+          "meaning": "renouncer of all selfish resolve"
+        },
+        {
+          "word": "योगारूढः",
+          "transliteration": "yoga-arudhah",
+          "meaning": "established in yoga"
+        },
+        {
+          "word": "तदा",
+          "transliteration": "tada",
+          "meaning": "then"
+        },
+        {
+          "word": "उच्यते",
+          "transliteration": "uchyate",
+          "meaning": "is said"
+        }
+      ],
+      "hindiTranslation": "जब मनुष्य न इन्द्रियों के विषयों में और न कर्मों में आसक्त होता है, सब संकल्पों का त्याग कर देता है — तब वह योगारूढ कहलाता है।",
+      "englishTranslation": "When one is not attached to sense objects or to actions, having renounced all selfish resolve — then that person is said to be established in yoga.",
+      "commentary": "Krishna defines the state of being yoga-arudha (established in yoga). It is characterized by complete non-attachment to both sensory pleasures and actions, combined with the renunciation of all selfish intentions. This state is not about physical inactivity but about the complete absence of ego-driven motivation. It is the mark of spiritual maturity.",
+      "slug": "verse-4"
+    },
+    {
+      "verseNumber": 5,
+      "speaker": "Krishna",
+      "devanagari": "उद्धरेदात्मनात्मानं नात्मानमवसादयेत्।\nआत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः॥",
+      "transliteration": "Uddhared-Atmana-Atmanam Na-Atmanam-Avasadayet.\nAtma-Iva Hy-Atmano Bandhur-Atma-Iva Ripur-Atmanah.",
+      "wordByWord": [
+        {
+          "word": "उद्धरेत्",
+          "transliteration": "uddharet",
+          "meaning": "should uplift"
+        },
+        {
+          "word": "आत्मना",
+          "transliteration": "atmana",
+          "meaning": "by the self"
+        },
+        {
+          "word": "आत्मानम्",
+          "transliteration": "atmanam",
+          "meaning": "the self"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "आत्मानम्",
+          "transliteration": "atmanam",
+          "meaning": "the self"
+        },
+        {
+          "word": "अवसादयेत्",
+          "transliteration": "avasadayet",
+          "meaning": "should degrade/let down"
+        },
+        {
+          "word": "आत्मा",
+          "transliteration": "atma",
+          "meaning": "the self"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "alone/indeed"
+        },
+        {
+          "word": "हि",
+          "transliteration": "hi",
+          "meaning": "certainly"
+        },
+        {
+          "word": "आत्मनः",
+          "transliteration": "atmanah",
+          "meaning": "of the self"
+        },
+        {
+          "word": "बन्धुः",
+          "transliteration": "bandhuh",
+          "meaning": "friend"
+        },
+        {
+          "word": "आत्मा",
+          "transliteration": "atma",
+          "meaning": "the self"
+        },
+        {
+          "word": "रिपुः",
+          "transliteration": "ripuh",
+          "meaning": "enemy"
+        }
+      ],
+      "hindiTranslation": "मनुष्य को अपने आप को स्वयं ऊपर उठाना चाहिए, अपने आप को गिरने नहीं देना चाहिए। क्योंकि आत्मा ही आत्मा का बन्धु है और आत्मा ही आत्मा का शत्रु है।",
+      "englishTranslation": "One should uplift oneself by one's own self and not degrade oneself. For the self alone is the friend of the self, and the self alone is the enemy of the self.",
+      "commentary": "This is one of the most empowering verses in the Gita. Krishna places the responsibility and the power of spiritual evolution squarely on the individual. No external savior is needed — the self has the capacity to be its own greatest friend or its own worst enemy. This teaching emphasizes personal responsibility, self-effort, and the innate potential within every being for self-transformation.",
+      "slug": "verse-5"
+    },
+    {
+      "verseNumber": 6,
+      "speaker": "Krishna",
+      "devanagari": "बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जितः।\nअनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत्॥",
+      "transliteration": "Bandhur-Atma-Atmanas-Tasya Yena-Atma-Iva-Atmana Jitah.\nAnatmanas-Tu Shatrutve Varteta-Atma-Iva Shatruvat.",
+      "wordByWord": [
+        {
+          "word": "बन्धुः",
+          "transliteration": "bandhuh",
+          "meaning": "friend"
+        },
+        {
+          "word": "आत्मा",
+          "transliteration": "atma",
+          "meaning": "the self"
+        },
+        {
+          "word": "आत्मनः",
+          "transliteration": "atmanah",
+          "meaning": "of the self"
+        },
+        {
+          "word": "तस्य",
+          "transliteration": "tasya",
+          "meaning": "of that person"
+        },
+        {
+          "word": "येन",
+          "transliteration": "yena",
+          "meaning": "by whom"
+        },
+        {
+          "word": "आत्मा",
+          "transliteration": "atma",
+          "meaning": "the self"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "certainly"
+        },
+        {
+          "word": "आत्मना",
+          "transliteration": "atmana",
+          "meaning": "by the self"
+        },
+        {
+          "word": "जितः",
+          "transliteration": "jitah",
+          "meaning": "conquered"
+        },
+        {
+          "word": "अनात्मनः",
+          "transliteration": "anatmanah",
+          "meaning": "of one who has not conquered the self"
+        },
+        {
+          "word": "तु",
+          "transliteration": "tu",
+          "meaning": "but"
+        },
+        {
+          "word": "शत्रुत्वे",
+          "transliteration": "shatrutve",
+          "meaning": "in enmity"
+        },
+        {
+          "word": "वर्तेत",
+          "transliteration": "varteta",
+          "meaning": "acts/remains"
+        },
+        {
+          "word": "शत्रुवत्",
+          "transliteration": "shatruvat",
+          "meaning": "like an enemy"
+        }
+      ],
+      "hindiTranslation": "जिसने अपने आत्मा (मन) को आत्मा (विवेक) द्वारा जीत लिया है, उसके लिए आत्मा बन्धु है। पर जिसने अपने आप को नहीं जीता, उसके लिए आत्मा शत्रु की भाँति व्यवहार करता है।",
+      "englishTranslation": "For one who has conquered the self by the self, the self is a friend. But for one who has not conquered the self, the self acts as an enemy.",
+      "commentary": "Expanding on the previous verse, Krishna explains when the self becomes a friend and when an enemy. The conquered (disciplined) self is one's greatest ally, supporting spiritual growth and inner peace. The unconquered (undisciplined) self becomes one's worst adversary, leading to self-destructive behavior. This simple yet profound teaching reveals that our relationship with our own mind determines our destiny.",
+      "slug": "verse-6"
+    },
+    {
+      "verseNumber": 7,
+      "speaker": "Krishna",
+      "devanagari": "जितात्मनः प्रशान्तस्य परमात्मा समाहितः।\nशीतोष्णसुखदुःखेषु तथा मानापमानयोः॥",
+      "transliteration": "Jita-Atmanah Prashantasya Parama-Atma Samahitah.\nShito-Ushna-Sukha-Duhkheshu Tatha Mana-Apamanayoh.",
+      "wordByWord": [
+        {
+          "word": "जितात्मनः",
+          "transliteration": "jita-atmanah",
+          "meaning": "of one who has conquered the self"
+        },
+        {
+          "word": "प्रशान्तस्य",
+          "transliteration": "prashantasya",
+          "meaning": "of one who is tranquil"
+        },
+        {
+          "word": "परमात्मा",
+          "transliteration": "parama-atma",
+          "meaning": "the Supreme Self"
+        },
+        {
+          "word": "समाहितः",
+          "transliteration": "samahitah",
+          "meaning": "is concentrated/steady"
+        },
+        {
+          "word": "शीतोष्ण",
+          "transliteration": "shita-ushna",
+          "meaning": "cold and heat"
+        },
+        {
+          "word": "सुखदुःखेषु",
+          "transliteration": "sukha-duhkheshu",
+          "meaning": "in pleasure and pain"
+        },
+        {
+          "word": "तथा",
+          "transliteration": "tatha",
+          "meaning": "also"
+        },
+        {
+          "word": "मानापमानयोः",
+          "transliteration": "mana-apamanayoh",
+          "meaning": "in honor and dishonor"
+        }
+      ],
+      "hindiTranslation": "जिसने अपने आप को जीत लिया है और जो प्रशान्त है, उसका परमात्मा (अन्तरात्मा) सुस्थित है — सर्दी-गर्मी, सुख-दुःख तथा मान-अपमान में।",
+      "englishTranslation": "For one who has conquered the self and is tranquil, the Supreme Self is steady — in cold and heat, pleasure and pain, honor and dishonor.",
+      "commentary": "Krishna describes the state of the self-conquered person: their awareness of the Supreme Self remains undisturbed by the three pairs of opposites — physical (cold-heat), emotional (pleasure-pain), and social (honor-dishonor). This equanimity is not indifference but a profound stability rooted in the realization that the true Self is beyond all changing conditions.",
+      "slug": "verse-7"
+    },
+    {
+      "verseNumber": 8,
+      "speaker": "Krishna",
+      "devanagari": "ज्ञानविज्ञानतृप्तात्मा कूटस्थो विजितेन्द्रियः।\nयुक्त इत्युच्यते योगी समलोष्टाश्मकाञ्चनः॥",
+      "transliteration": "Jnana-Vijnana-Tripta-Atma Kutastho Vijite-Indriyah.\nYukta Ity-Uchyate Yogi Sama-Loshta-Ashma-Kanchanah.",
+      "wordByWord": [
+        {
+          "word": "ज्ञानविज्ञानतृप्तात्मा",
+          "transliteration": "jnana-vijnana-tripta-atma",
+          "meaning": "satisfied by knowledge and realization"
+        },
+        {
+          "word": "कूटस्थः",
+          "transliteration": "kutasthah",
+          "meaning": "unchanging/immovable"
+        },
+        {
+          "word": "विजितेन्द्रियः",
+          "transliteration": "vijita-indriyah",
+          "meaning": "with conquered senses"
+        },
+        {
+          "word": "युक्तः",
+          "transliteration": "yuktah",
+          "meaning": "united/connected"
+        },
+        {
+          "word": "इति",
+          "transliteration": "iti",
+          "meaning": "thus"
+        },
+        {
+          "word": "उच्यते",
+          "transliteration": "uchyate",
+          "meaning": "is said"
+        },
+        {
+          "word": "योगी",
+          "transliteration": "yogi",
+          "meaning": "yogi"
+        },
+        {
+          "word": "समलोष्टाश्मकाञ्चनः",
+          "transliteration": "sama-loshta-ashma-kanchanah",
+          "meaning": "equal towards a clod, stone, and gold"
+        }
+      ],
+      "hindiTranslation": "ज्ञान और विज्ञान (अनुभवजन्य ज्ञान) से तृप्त, अविचल, जितेन्द्रिय — ऐसा योगी 'युक्त' कहलाता है; जो मिट्टी के ढेले, पत्थर और सोने को समान देखता है।",
+      "englishTranslation": "Satisfied by knowledge and realized wisdom, unchanging, with senses conquered — such a yogi is said to be united. One who looks equally upon a clod of earth, a stone, and gold.",
+      "commentary": "Krishna describes the fully realized yogi who is satisfied within by both theoretical knowledge (jnana) and direct experience (vijnana). Such a person is kutastha — immovable like an anvil that remains unchanged despite being struck. The remarkable equanimity of seeing equal value in a clod of earth, a stone, and gold demonstrates complete freedom from material attachment.",
+      "slug": "verse-8"
+    },
+    {
+      "verseNumber": 9,
+      "speaker": "Krishna",
+      "devanagari": "सुहृन्मित्रार्युदासीनमध्यस्थद्वेष्यबन्धुषु।\nसाधुष्वपि च पापेषु समबुद्धिर्विशिष्यते॥",
+      "transliteration": "Suhrin-Mitra-Ary-Udasina-Madhyastha-Dveshya-Bandhushu.\nSadhushv-Api Cha Papeshu Sama-Buddhir-Vishishyate.",
+      "wordByWord": [
+        {
+          "word": "सुहृत्",
+          "transliteration": "suhrit",
+          "meaning": "well-wisher"
+        },
+        {
+          "word": "मित्र",
+          "transliteration": "mitra",
+          "meaning": "friend"
+        },
+        {
+          "word": "अरि",
+          "transliteration": "ari",
+          "meaning": "enemy"
+        },
+        {
+          "word": "उदासीन",
+          "transliteration": "udasina",
+          "meaning": "indifferent"
+        },
+        {
+          "word": "मध्यस्थ",
+          "transliteration": "madhyastha",
+          "meaning": "neutral"
+        },
+        {
+          "word": "द्वेष्य",
+          "transliteration": "dveshya",
+          "meaning": "hateful/envious"
+        },
+        {
+          "word": "बन्धुषु",
+          "transliteration": "bandhushu",
+          "meaning": "among relatives"
+        },
+        {
+          "word": "साधुषु",
+          "transliteration": "sadhushu",
+          "meaning": "among the righteous"
+        },
+        {
+          "word": "अपि",
+          "transliteration": "api",
+          "meaning": "also"
+        },
+        {
+          "word": "च",
+          "transliteration": "cha",
+          "meaning": "and"
+        },
+        {
+          "word": "पापेषु",
+          "transliteration": "papeshu",
+          "meaning": "among the sinful"
+        },
+        {
+          "word": "समबुद्धिः",
+          "transliteration": "sama-buddhih",
+          "meaning": "of equal intellect/vision"
+        },
+        {
+          "word": "विशिष्यते",
+          "transliteration": "vishishyate",
+          "meaning": "excels/is distinguished"
+        }
+      ],
+      "hindiTranslation": "सुहृद, मित्र, शत्रु, उदासीन, मध्यस्थ, द्वेषी और बन्धुओं में, तथा साधु और पापियों में — समान बुद्धि रखने वाला विशिष्ट (श्रेष्ठ) है।",
+      "englishTranslation": "One who maintains equal vision towards well-wishers, friends, enemies, the indifferent, the neutral, the hateful, relatives, the righteous, and the sinful — that person excels.",
+      "commentary": "Krishna lists seven categories of human relationships and declares that maintaining equal vision across all of them is the mark of spiritual excellence. This does not mean treating everyone identically in behavior, but seeing the same divine Self in all beings regardless of their relationship to oneself. This sama-buddhi (equal vision) is the practical expression of the highest spiritual realization.",
+      "slug": "verse-9"
+    },
+    {
+      "verseNumber": 10,
+      "speaker": "Krishna",
+      "devanagari": "योगी युञ्जीत सततमात्मानं रहसि स्थितः।\nएकाकी यतचित्तात्मा निराशीरपरिग्रहः॥",
+      "transliteration": "Yogi Yunjita Satatam-Atmanam Rahasi Sthitah.\nEkaki Yata-Chitta-Atma Nirashir-Aparigrahah.",
+      "wordByWord": [
+        {
+          "word": "योगी",
+          "transliteration": "yogi",
+          "meaning": "the yogi"
+        },
+        {
+          "word": "युञ्जीत",
+          "transliteration": "yunjita",
+          "meaning": "should concentrate"
+        },
+        {
+          "word": "सततम्",
+          "transliteration": "satatam",
+          "meaning": "constantly"
+        },
+        {
+          "word": "आत्मानम्",
+          "transliteration": "atmanam",
+          "meaning": "the self/mind"
+        },
+        {
+          "word": "रहसि",
+          "transliteration": "rahasi",
+          "meaning": "in a secluded place"
+        },
+        {
+          "word": "स्थितः",
+          "transliteration": "sthitah",
+          "meaning": "situated"
+        },
+        {
+          "word": "एकाकी",
+          "transliteration": "ekaki",
+          "meaning": "alone"
+        },
+        {
+          "word": "यतचित्तात्मा",
+          "transliteration": "yata-chitta-atma",
+          "meaning": "with controlled mind and body"
+        },
+        {
+          "word": "निराशीः",
+          "transliteration": "nirashih",
+          "meaning": "without desires"
+        },
+        {
+          "word": "अपरिग्रहः",
+          "transliteration": "aparigrahah",
+          "meaning": "without possessiveness"
+        }
+      ],
+      "hindiTranslation": "योगी एकान्त में स्थित होकर, अकेला, मन और शरीर को वश में करके, आशारहित और परिग्रहरहित होकर सतत अपने आत्मा (मन) को एकाग्र करे।",
+      "englishTranslation": "The yogi should constantly concentrate the mind, staying in a secluded place, alone, with mind and body controlled, free from desires and possessiveness.",
+      "commentary": "Krishna now begins the practical instructions for meditation. Five conditions are prescribed: solitude (rahasi), being alone (ekaki), self-control (yata-chitta-atma), desirelessness (nirashih), and non-possessiveness (aparigrahah). These external and internal conditions create the ideal environment for the mind to turn inward and rest in the Self.",
+      "slug": "verse-10"
+    },
+    {
+      "verseNumber": 11,
+      "speaker": "Krishna",
+      "devanagari": "शुचौ देशे प्रतिष्ठाप्य स्थिरमासनमात्मनः।\nनात्युच्छ्रितं नातिनीचं चैलाजिनकुशोत्तरम्॥",
+      "transliteration": "Shuchau Deshe Pratishthapya Sthiram-Asanam-Atmanah.\nNa-Aty-Uchchhritam Na-Ati-Nicham Chaila-Ajina-Kusho-Uttaram.",
+      "wordByWord": [
+        {
+          "word": "शुचौ",
+          "transliteration": "shuchau",
+          "meaning": "in a clean/pure"
+        },
+        {
+          "word": "देशे",
+          "transliteration": "deshe",
+          "meaning": "place"
+        },
+        {
+          "word": "प्रतिष्ठाप्य",
+          "transliteration": "pratishthapya",
+          "meaning": "establishing"
+        },
+        {
+          "word": "स्थिरम्",
+          "transliteration": "sthiram",
+          "meaning": "firm/stable"
+        },
+        {
+          "word": "आसनम्",
+          "transliteration": "asanam",
+          "meaning": "seat"
+        },
+        {
+          "word": "आत्मनः",
+          "transliteration": "atmanah",
+          "meaning": "one's own"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "अत्युच्छ्रितम्",
+          "transliteration": "aty-uchchhritam",
+          "meaning": "too high"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "अतिनीचम्",
+          "transliteration": "ati-nicham",
+          "meaning": "too low"
+        },
+        {
+          "word": "चैलाजिनकुशोत्तरम्",
+          "transliteration": "chaila-ajina-kusha-uttaram",
+          "meaning": "cloth, deerskin, and kusha grass layered"
+        }
+      ],
+      "hindiTranslation": "शुद्ध (पवित्र) स्थान पर अपना स्थिर आसन जमाकर — जो न बहुत ऊँचा हो न बहुत नीचा, जिस पर कुशा, मृगचर्म और वस्त्र बिछा हो —",
+      "englishTranslation": "In a clean place, having established a firm seat for oneself — neither too high nor too low — covered with kusha grass, a deerskin, and a cloth —",
+      "commentary": "Krishna gives specific instructions for the meditation seat. The place should be pure and clean. The seat should be stable, neither too elevated (which causes instability) nor too low (which allows insects and dampness). The traditional layering of kusha grass, deerskin, and cloth creates an insulated, comfortable seat. These practical details show Krishna's concern for making meditation accessible.",
+      "slug": "verse-11"
+    },
+    {
+      "verseNumber": 12,
+      "speaker": "Krishna",
+      "devanagari": "तत्रैकाग्रं मनः कृत्वा यतचित्तेन्द्रियक्रियः।\nउपविश्यासने युञ्ज्याद्योगमात्मविशुद्धये॥",
+      "transliteration": "Tatra-Ikagram Manah Kritva Yata-Chitta-Indriya-Kriyah.\nUpavishya-Asane Yunjyad-Yogam-Atma-Vishuddhaye.",
+      "wordByWord": [
+        {
+          "word": "तत्र",
+          "transliteration": "tatra",
+          "meaning": "there"
+        },
+        {
+          "word": "एकाग्रम्",
+          "transliteration": "ekagram",
+          "meaning": "one-pointed"
+        },
+        {
+          "word": "मनः",
+          "transliteration": "manah",
+          "meaning": "mind"
+        },
+        {
+          "word": "कृत्वा",
+          "transliteration": "kritva",
+          "meaning": "making"
+        },
+        {
+          "word": "यतचित्तेन्द्रियक्रियः",
+          "transliteration": "yata-chitta-indriya-kriyah",
+          "meaning": "with controlled mind, senses, and activities"
+        },
+        {
+          "word": "उपविश्य",
+          "transliteration": "upavishya",
+          "meaning": "sitting"
+        },
+        {
+          "word": "आसने",
+          "transliteration": "asane",
+          "meaning": "on the seat"
+        },
+        {
+          "word": "युञ्ज्यात्",
+          "transliteration": "yunjyat",
+          "meaning": "should practice"
+        },
+        {
+          "word": "योगम्",
+          "transliteration": "yogam",
+          "meaning": "yoga"
+        },
+        {
+          "word": "आत्मविशुद्धये",
+          "transliteration": "atma-vishuddhaye",
+          "meaning": "for self-purification"
+        }
+      ],
+      "hindiTranslation": "वहाँ आसन पर बैठकर, मन को एकाग्र करके, चित्त और इन्द्रियों की क्रियाओं को संयमित करके, आत्मशुद्धि के लिए योग का अभ्यास करे।",
+      "englishTranslation": "Seated there on the seat, making the mind one-pointed, with the activities of the mind and senses controlled, one should practice yoga for self-purification.",
+      "commentary": "The purpose of meditation is clearly stated: atma-vishuddhaye — for the purification of the self. The practice involves sitting on the prepared seat, making the mind one-pointed (ekagra), and controlling the activities of the mind and senses. This systematic approach — proper seat, focused mind, controlled senses — forms the foundation of all meditation practices in yoga.",
+      "slug": "verse-12"
+    },
+    {
+      "verseNumber": 13,
+      "speaker": "Krishna",
+      "devanagari": "समं कायशिरोग्रीवं धारयन्नचलं स्थिरः।\nसम्प्रेक्ष्य नासिकाग्रं स्वं दिशश्चानवलोकयन्॥",
+      "transliteration": "Samam Kaya-Shiro-Grivam Dharayann-Achalam Sthirah.\nSamprekshya Nasika-Agram Svam Dishah-Cha-An-Avalokayan.",
+      "wordByWord": [
+        {
+          "word": "समम्",
+          "transliteration": "samam",
+          "meaning": "erect/straight"
+        },
+        {
+          "word": "कायशिरोग्रीवम्",
+          "transliteration": "kaya-shiro-grivam",
+          "meaning": "body, head, and neck"
+        },
+        {
+          "word": "धारयन्",
+          "transliteration": "dharayan",
+          "meaning": "holding"
+        },
+        {
+          "word": "अचलम्",
+          "transliteration": "achalam",
+          "meaning": "still/unmoving"
+        },
+        {
+          "word": "स्थिरः",
+          "transliteration": "sthirah",
+          "meaning": "firm"
+        },
+        {
+          "word": "सम्प्रेक्ष्य",
+          "transliteration": "samprekshya",
+          "meaning": "looking at"
+        },
+        {
+          "word": "नासिकाग्रम्",
+          "transliteration": "nasika-agram",
+          "meaning": "tip of the nose"
+        },
+        {
+          "word": "स्वम्",
+          "transliteration": "svam",
+          "meaning": "one's own"
+        },
+        {
+          "word": "दिशः",
+          "transliteration": "dishah",
+          "meaning": "directions"
+        },
+        {
+          "word": "च",
+          "transliteration": "cha",
+          "meaning": "and"
+        },
+        {
+          "word": "अनवलोकयन्",
+          "transliteration": "an-avalokayan",
+          "meaning": "not looking around"
+        }
+      ],
+      "hindiTranslation": "शरीर, सिर और गर्दन को सीधा, स्थिर और अचल रखकर, अपनी नासिका के अग्रभाग पर दृष्टि रखते हुए, इधर-उधर न देखते हुए —",
+      "englishTranslation": "Holding the body, head, and neck erect, still and firm, gazing at the tip of one's own nose, without looking around —",
+      "commentary": "Krishna provides specific physical instructions for meditation posture: the spine, head, and neck should be aligned and held still. The gaze is directed toward the tip of the nose (nasikagra), which helps concentrate the mind. Not looking around prevents distraction. This erect, still posture facilitates the flow of prana and creates the physical foundation for deep meditation.",
+      "slug": "verse-13"
+    },
+    {
+      "verseNumber": 14,
+      "speaker": "Krishna",
+      "devanagari": "प्रशान्तात्मा विगतभीर्ब्रह्मचारिव्रते स्थितः।\nमनः संयम्य मच्चित्तो युक्त आसीत मत्परः॥",
+      "transliteration": "Prashanta-Atma Vigata-Bhir-Brahmachari-Vrate Sthitah.\nManah Samyamya Mach-Chitto Yukta Asita Mat-Parah.",
+      "wordByWord": [
+        {
+          "word": "प्रशान्तात्मा",
+          "transliteration": "prashanta-atma",
+          "meaning": "with peaceful mind"
+        },
+        {
+          "word": "विगतभीः",
+          "transliteration": "vigata-bhih",
+          "meaning": "free from fear"
+        },
+        {
+          "word": "ब्रह्मचारिव्रते",
+          "transliteration": "brahmachari-vrate",
+          "meaning": "in the vow of celibacy"
+        },
+        {
+          "word": "स्थितः",
+          "transliteration": "sthitah",
+          "meaning": "established"
+        },
+        {
+          "word": "मनः",
+          "transliteration": "manah",
+          "meaning": "mind"
+        },
+        {
+          "word": "संयम्य",
+          "transliteration": "samyamya",
+          "meaning": "controlling"
+        },
+        {
+          "word": "मच्चित्तः",
+          "transliteration": "mat-chittah",
+          "meaning": "with mind fixed on Me"
+        },
+        {
+          "word": "युक्तः",
+          "transliteration": "yuktah",
+          "meaning": "engaged in yoga"
+        },
+        {
+          "word": "आसीत",
+          "transliteration": "asita",
+          "meaning": "should sit"
+        },
+        {
+          "word": "मत्परः",
+          "transliteration": "mat-parah",
+          "meaning": "having Me as the supreme goal"
+        }
+      ],
+      "hindiTranslation": "प्रशान्त आत्मा वाला, भयरहित, ब्रह्मचर्य व्रत में स्थित, मन को संयमित करके, मुझमें चित्त लगाकर, मुझे ही परम लक्ष्य मानकर योगयुक्त होकर बैठे।",
+      "englishTranslation": "With mind at peace, free from fear, established in the vow of celibacy, controlling the mind, with thoughts fixed on Me — one should sit engaged in yoga, devoted to Me as the supreme goal.",
+      "commentary": "Krishna adds the inner conditions to the outer posture: peaceful mind, fearlessness, celibacy (brahmacharya), mental control, and most importantly, devotion to God as the ultimate focus. The instruction 'mat-chittah' and 'mat-parah' (mind on Me, devoted to Me) introduces a personal, devotional element into the practice of meditation. Yoga is not just technique but a loving connection with the Divine.",
+      "slug": "verse-14"
+    },
+    {
+      "verseNumber": 15,
+      "speaker": "Krishna",
+      "devanagari": "युञ्जन्नेवं सदात्मानं योगी नियतमानसः।\nशान्तिं निर्वाणपरमां मत्संस्थामधिगच्छति॥",
+      "transliteration": "Yunjann-Evam Sada-Atmanam Yogi Niyata-Manasah.\nShantim Nirvana-Paramam Mat-Samstham-Adhigachchhati.",
+      "wordByWord": [
+        {
+          "word": "युञ्जन्",
+          "transliteration": "yunjan",
+          "meaning": "practicing"
+        },
+        {
+          "word": "एवम्",
+          "transliteration": "evam",
+          "meaning": "thus"
+        },
+        {
+          "word": "सदा",
+          "transliteration": "sada",
+          "meaning": "always"
+        },
+        {
+          "word": "आत्मानम्",
+          "transliteration": "atmanam",
+          "meaning": "the self/mind"
+        },
+        {
+          "word": "योगी",
+          "transliteration": "yogi",
+          "meaning": "the yogi"
+        },
+        {
+          "word": "नियतमानसः",
+          "transliteration": "niyata-manasah",
+          "meaning": "with disciplined mind"
+        },
+        {
+          "word": "शान्तिम्",
+          "transliteration": "shantim",
+          "meaning": "peace"
+        },
+        {
+          "word": "निर्वाणपरमाम्",
+          "transliteration": "nirvana-paramam",
+          "meaning": "the supreme nirvana"
+        },
+        {
+          "word": "मत्संस्थाम्",
+          "transliteration": "mat-samstham",
+          "meaning": "abiding in Me"
+        },
+        {
+          "word": "अधिगच्छति",
+          "transliteration": "adhigachchhati",
+          "meaning": "attains"
+        }
+      ],
+      "hindiTranslation": "इस प्रकार सदा अपने मन को एकाग्र करता हुआ, नियतमानस (अनुशासित मन वाला) योगी मुझमें स्थित निर्वाण-परम शान्ति को प्राप्त होता है।",
+      "englishTranslation": "Thus constantly concentrating the mind, the yogi with a disciplined mind attains the supreme peace of nirvana, abiding in Me.",
+      "commentary": "Krishna reveals the fruit of consistent meditation practice: the supreme peace that is nirvana itself, and which abides in God (mat-samstham). This peace is not temporary relief but the ultimate liberation. The emphasis on 'sada' (always) and 'niyata-manasah' (disciplined mind) underscores that meditation requires regular, sustained practice for its full benefit to unfold.",
+      "slug": "verse-15"
+    },
+    {
+      "verseNumber": 16,
+      "speaker": "Krishna",
+      "devanagari": "नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नतः।\nन चातिस्वप्नशीलस्य जाग्रतो नैव चार्जुन॥",
+      "transliteration": "Na-Aty-Ashnatas-Tu Yogo'sti Na Chaika-Antam-Anashnatah.\nNa Cha-Ati-Svapna-Shilasya Jagrato Naiva Cha-Arjuna.",
+      "wordByWord": [
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "अत्यश्नतः",
+          "transliteration": "aty-ashnatah",
+          "meaning": "of one who eats too much"
+        },
+        {
+          "word": "तु",
+          "transliteration": "tu",
+          "meaning": "but"
+        },
+        {
+          "word": "योगः",
+          "transliteration": "yogah",
+          "meaning": "yoga"
+        },
+        {
+          "word": "अस्ति",
+          "transliteration": "asti",
+          "meaning": "is"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "एकान्तम्",
+          "transliteration": "ekantam",
+          "meaning": "absolutely"
+        },
+        {
+          "word": "अनश्नतः",
+          "transliteration": "anashnatah",
+          "meaning": "of one who does not eat"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "अतिस्वप्नशीलस्य",
+          "transliteration": "ati-svapna-shilasya",
+          "meaning": "of one who sleeps too much"
+        },
+        {
+          "word": "जाग्रतः",
+          "transliteration": "jagratah",
+          "meaning": "of one who stays awake too much"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "certainly"
+        },
+        {
+          "word": "अर्जुन",
+          "transliteration": "arjuna",
+          "meaning": "O Arjuna"
+        }
+      ],
+      "hindiTranslation": "हे अर्जुन! न अधिक खाने वाले का योग सिद्ध होता है, न बिलकुल न खाने वाले का; न अधिक सोने वाले का और न सदा जागने वाले का।",
+      "englishTranslation": "Yoga is not for one who eats too much, nor for one who does not eat at all, O Arjuna. It is not for one who sleeps too much, nor for one who stays awake too much.",
+      "commentary": "Krishna teaches the principle of moderation that is essential for successful yoga practice. Extremes of any kind — whether overeating or fasting, oversleeping or sleep deprivation — are obstacles to meditation. This practical wisdom shows that yoga is not about extreme asceticism but about finding the balanced middle path that supports both physical health and spiritual practice.",
+      "slug": "verse-16"
+    },
+    {
+      "verseNumber": 17,
+      "speaker": "Krishna",
+      "devanagari": "युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु।\nयुक्तस्वप्नावबोधस्य योगो भवति दुःखहा॥",
+      "transliteration": "Yukta-Ahara-Viharasya Yukta-Cheshtasya Karmasu.\nYukta-Svapna-Avabodhasya Yogo Bhavati Duhkha-Ha.",
+      "wordByWord": [
+        {
+          "word": "युक्ताहारविहारस्य",
+          "transliteration": "yukta-ahara-viharasya",
+          "meaning": "of one whose eating and recreation are balanced"
+        },
+        {
+          "word": "युक्तचेष्टस्य",
+          "transliteration": "yukta-cheshtasya",
+          "meaning": "of one whose efforts in action are balanced"
+        },
+        {
+          "word": "कर्मसु",
+          "transliteration": "karmasu",
+          "meaning": "in actions"
+        },
+        {
+          "word": "युक्तस्वप्नावबोधस्य",
+          "transliteration": "yukta-svapna-avabodhasya",
+          "meaning": "of one whose sleep and waking are balanced"
+        },
+        {
+          "word": "योगः",
+          "transliteration": "yogah",
+          "meaning": "yoga"
+        },
+        {
+          "word": "भवति",
+          "transliteration": "bhavati",
+          "meaning": "becomes"
+        },
+        {
+          "word": "दुःखहा",
+          "transliteration": "duhkha-ha",
+          "meaning": "destroyer of suffering"
+        }
+      ],
+      "hindiTranslation": "जो आहार-विहार में संतुलित है, कर्मों में संतुलित प्रयास करता है, सोने और जागने में संतुलित है — उसका योग दुःखनाशक होता है।",
+      "englishTranslation": "For one who is balanced in eating and recreation, balanced in effort in actions, and balanced in sleep and waking — yoga becomes the destroyer of suffering.",
+      "commentary": "This celebrated verse prescribes the balanced lifestyle essential for yoga. The threefold balance covers diet and leisure (yukta-ahara-vihara), work effort (yukta-cheshta), and rest patterns (yukta-svapna-avabodha). When life is lived in this harmonious balance, yoga naturally destroys all suffering. This teaching has universal relevance, showing that spiritual life flourishes through moderation, not extremes.",
+      "slug": "verse-17"
+    },
+    {
+      "verseNumber": 18,
+      "speaker": "Krishna",
+      "devanagari": "यदा विनियतं चित्तमात्मन्येवावतिष्ठते।\nनिःस्पृहः सर्वकामेभ्यो युक्त इत्युच्यते तदा॥",
+      "transliteration": "Yada Viniyatam Chittam-Atmany-Eva-Avatishthate.\nNih-Sprihah Sarva-Kamebhyo Yukta Ity-Uchyate Tada.",
+      "wordByWord": [
+        {
+          "word": "यदा",
+          "transliteration": "yada",
+          "meaning": "when"
+        },
+        {
+          "word": "विनियतम्",
+          "transliteration": "viniyatam",
+          "meaning": "fully disciplined"
+        },
+        {
+          "word": "चित्तम्",
+          "transliteration": "chittam",
+          "meaning": "mind/consciousness"
+        },
+        {
+          "word": "आत्मनि",
+          "transliteration": "atmani",
+          "meaning": "in the Self"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "alone"
+        },
+        {
+          "word": "अवतिष्ठते",
+          "transliteration": "avatishthate",
+          "meaning": "rests"
+        },
+        {
+          "word": "निःस्पृहः",
+          "transliteration": "nih-sprihah",
+          "meaning": "free from longing"
+        },
+        {
+          "word": "सर्वकामेभ्यः",
+          "transliteration": "sarva-kamebhyah",
+          "meaning": "from all desires"
+        },
+        {
+          "word": "युक्तः",
+          "transliteration": "yuktah",
+          "meaning": "united/connected"
+        },
+        {
+          "word": "इति",
+          "transliteration": "iti",
+          "meaning": "thus"
+        },
+        {
+          "word": "उच्यते",
+          "transliteration": "uchyate",
+          "meaning": "is said"
+        },
+        {
+          "word": "तदा",
+          "transliteration": "tada",
+          "meaning": "then"
+        }
+      ],
+      "hindiTranslation": "जब पूर्णतया नियमित चित्त आत्मा में ही स्थित हो जाता है, और सब कामनाओं से निःस्पृह हो जाता है — तब वह 'युक्त' (योग में स्थित) कहलाता है।",
+      "englishTranslation": "When the fully disciplined mind rests in the Self alone, free from longing for all desires — then one is said to be united (yukta) in yoga.",
+      "commentary": "Krishna defines the state of yoga precisely: the mind rests exclusively in the Self, without being pulled by any desire. This is not suppression of desires but a natural state where the mind has found such complete fulfillment in the Self that external desires simply lose their appeal. This verse describes the goal of all meditation practice.",
+      "slug": "verse-18"
+    },
+    {
+      "verseNumber": 19,
+      "speaker": "Krishna",
+      "devanagari": "यथा दीपो निवातस्थो नेङ्गते सोपमा स्मृता।\nयोगिनो यतचित्तस्य युञ्जतो योगमात्मनः॥",
+      "transliteration": "Yatha Dipo Nivata-Stho Ne-Ingate So-Upama Smrita.\nYogino Yata-Chittasya Yunjato Yogam-Atmanah.",
+      "wordByWord": [
+        {
+          "word": "यथा",
+          "transliteration": "yatha",
+          "meaning": "just as"
+        },
+        {
+          "word": "दीपः",
+          "transliteration": "dipah",
+          "meaning": "a lamp"
+        },
+        {
+          "word": "निवातस्थः",
+          "transliteration": "nivata-sthah",
+          "meaning": "in a windless place"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "इङ्गते",
+          "transliteration": "ingate",
+          "meaning": "flickers"
+        },
+        {
+          "word": "सा",
+          "transliteration": "sa",
+          "meaning": "that"
+        },
+        {
+          "word": "उपमा",
+          "transliteration": "upama",
+          "meaning": "comparison/simile"
+        },
+        {
+          "word": "स्मृता",
+          "transliteration": "smrita",
+          "meaning": "is remembered/is given"
+        },
+        {
+          "word": "योगिनः",
+          "transliteration": "yoginah",
+          "meaning": "of the yogi"
+        },
+        {
+          "word": "यतचित्तस्य",
+          "transliteration": "yata-chittasya",
+          "meaning": "whose mind is controlled"
+        },
+        {
+          "word": "युञ्जतः",
+          "transliteration": "yunjatah",
+          "meaning": "practicing"
+        },
+        {
+          "word": "योगम्",
+          "transliteration": "yogam",
+          "meaning": "yoga"
+        },
+        {
+          "word": "आत्मनः",
+          "transliteration": "atmanah",
+          "meaning": "of the self"
+        }
+      ],
+      "hindiTranslation": "जैसे वायुरहित स्थान में दीपक की लौ नहीं हिलती — ऐसी ही उपमा दी गई है उस योगी की जिसका चित्त वश में है और जो आत्मा का योग कर रहा है।",
+      "englishTranslation": "As a lamp in a windless place does not flicker — such is the simile given for the yogi of controlled mind, practicing yoga of the Self.",
+      "commentary": "This is one of the most beautiful and memorable similes in the Gita. The steady flame of a lamp in a place without wind perfectly illustrates the still, unwavering mind of a yogi in deep meditation. Just as the undisturbed flame gives perfect, clear light, the concentrated mind of a meditator reveals the Self in its full clarity. This image has inspired meditators for millennia.",
+      "slug": "verse-19"
+    },
+    {
+      "verseNumber": 20,
+      "speaker": "Krishna",
+      "devanagari": "यत्रोपरमते चित्तं निरुद्धं योगसेवया।\nयत्र चैवात्मनात्मानं पश्यन्नात्मनि तुष्यति॥",
+      "transliteration": "Yatra-Uparamate Chittam Niruddham Yoga-Sevaya.\nYatra Chaiva-Atmana-Atmanam Pashyann-Atmani Tushyati.",
+      "wordByWord": [
+        {
+          "word": "यत्र",
+          "transliteration": "yatra",
+          "meaning": "where"
+        },
+        {
+          "word": "उपरमते",
+          "transliteration": "uparamate",
+          "meaning": "ceases/becomes quiet"
+        },
+        {
+          "word": "चित्तम्",
+          "transliteration": "chittam",
+          "meaning": "the mind"
+        },
+        {
+          "word": "निरुद्धम्",
+          "transliteration": "niruddham",
+          "meaning": "restrained"
+        },
+        {
+          "word": "योगसेवया",
+          "transliteration": "yoga-sevaya",
+          "meaning": "by the practice of yoga"
+        },
+        {
+          "word": "यत्र",
+          "transliteration": "yatra",
+          "meaning": "where"
+        },
+        {
+          "word": "आत्मना",
+          "transliteration": "atmana",
+          "meaning": "by the self"
+        },
+        {
+          "word": "आत्मानम्",
+          "transliteration": "atmanam",
+          "meaning": "the Self"
+        },
+        {
+          "word": "पश्यन्",
+          "transliteration": "pashyan",
+          "meaning": "seeing"
+        },
+        {
+          "word": "आत्मनि",
+          "transliteration": "atmani",
+          "meaning": "in the Self"
+        },
+        {
+          "word": "तुष्यति",
+          "transliteration": "tushyati",
+          "meaning": "is satisfied"
+        }
+      ],
+      "hindiTranslation": "जहाँ योग के अभ्यास से निरुद्ध (रोका गया) चित्त उपराम (शान्त) हो जाता है, और जहाँ स्वयं आत्मा द्वारा आत्मा को देखकर आत्मा में सन्तुष्ट होता है —",
+      "englishTranslation": "Where the mind, restrained by the practice of yoga, becomes quiet; where, seeing the Self by the self, one is satisfied in the Self —",
+      "commentary": "Krishna begins describing the state of samadhi (verses 20-23). The mind becomes completely still through yoga practice and ceases all its usual fluctuations. In this stillness, the purified mind becomes the mirror in which the Self sees itself. The resulting satisfaction is complete and self-sufficient — it needs nothing external. This is the beginning of the highest meditative experience.",
+      "slug": "verse-20"
+    },
+    {
+      "verseNumber": 21,
+      "speaker": "Krishna",
+      "devanagari": "सुखमात्यन्तिकं यत्तद्बुद्धिग्राह्यमतीन्द्रियम्।\nवेत्ति यत्र न चैवायं स्थितश्चलति तत्त्वतः॥",
+      "transliteration": "Sukham-Atyantikam Yat-Tad Buddhi-Grahyam-Atindriyam.\nVetti Yatra Na Chaiva-Ayam Sthitash-Chalati Tattvatah.",
+      "wordByWord": [
+        {
+          "word": "सुखम्",
+          "transliteration": "sukham",
+          "meaning": "happiness"
+        },
+        {
+          "word": "आत्यन्तिकम्",
+          "transliteration": "atyantikam",
+          "meaning": "absolute/infinite"
+        },
+        {
+          "word": "यत्",
+          "transliteration": "yat",
+          "meaning": "which"
+        },
+        {
+          "word": "तत्",
+          "transliteration": "tat",
+          "meaning": "that"
+        },
+        {
+          "word": "बुद्धिग्राह्यम्",
+          "transliteration": "buddhi-grahyam",
+          "meaning": "grasped by the intellect"
+        },
+        {
+          "word": "अतीन्द्रियम्",
+          "transliteration": "atindriyam",
+          "meaning": "beyond the senses"
+        },
+        {
+          "word": "वेत्ति",
+          "transliteration": "vetti",
+          "meaning": "knows/experiences"
+        },
+        {
+          "word": "यत्र",
+          "transliteration": "yatra",
+          "meaning": "where"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "च",
+          "transliteration": "cha",
+          "meaning": "and"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "certainly"
+        },
+        {
+          "word": "अयम्",
+          "transliteration": "ayam",
+          "meaning": "this person"
+        },
+        {
+          "word": "स्थितः",
+          "transliteration": "sthitah",
+          "meaning": "established"
+        },
+        {
+          "word": "चलति",
+          "transliteration": "chalati",
+          "meaning": "moves/deviates"
+        },
+        {
+          "word": "तत्त्वतः",
+          "transliteration": "tattvatah",
+          "meaning": "from the truth"
+        }
+      ],
+      "hindiTranslation": "जिसमें अत्यन्तिक (असीम) सुख जो बुद्धि से ग्रहण होने योग्य और इन्द्रियों से परे है, उसे अनुभव करता है — और जहाँ स्थित होकर तत्त्व से विचलित नहीं होता —",
+      "englishTranslation": "In which one experiences infinite happiness that is grasped by the intellect and beyond the senses — and where, once established, one never deviates from the truth —",
+      "commentary": "Continuing the description of samadhi, Krishna describes the infinite bliss (atyantikam sukham) that is experienced in deep meditation. This happiness is suprasensory (atindriyam) — it cannot be perceived by the physical senses but only by the refined intellect. Once established in this experience, the yogi never deviates from truth. This is a happiness infinitely greater than any sensory pleasure.",
+      "slug": "verse-21"
+    },
+    {
+      "verseNumber": 22,
+      "speaker": "Krishna",
+      "devanagari": "यं लब्ध्वा चापरं लाभं मन्यते नाधिकं ततः।\nयस्मिन्स्थितो न दुःखेन गुरुणापि विचाल्यते॥",
+      "transliteration": "Yam Labdhva Cha-Aparam Labham Manyate Na-Adhikam Tatah.\nYasmin-Sthito Na Duhkhena Guruna-Api Vichalyate.",
+      "wordByWord": [
+        {
+          "word": "यम्",
+          "transliteration": "yam",
+          "meaning": "which"
+        },
+        {
+          "word": "लब्ध्वा",
+          "transliteration": "labdhva",
+          "meaning": "having gained"
+        },
+        {
+          "word": "च",
+          "transliteration": "cha",
+          "meaning": "and"
+        },
+        {
+          "word": "अपरम्",
+          "transliteration": "aparam",
+          "meaning": "other"
+        },
+        {
+          "word": "लाभम्",
+          "transliteration": "labham",
+          "meaning": "gain"
+        },
+        {
+          "word": "मन्यते",
+          "transliteration": "manyate",
+          "meaning": "considers"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "अधिकम्",
+          "transliteration": "adhikam",
+          "meaning": "greater"
+        },
+        {
+          "word": "ततः",
+          "transliteration": "tatah",
+          "meaning": "than that"
+        },
+        {
+          "word": "यस्मिन्",
+          "transliteration": "yasmin",
+          "meaning": "in which"
+        },
+        {
+          "word": "स्थितः",
+          "transliteration": "sthitah",
+          "meaning": "established"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "दुःखेन",
+          "transliteration": "duhkhena",
+          "meaning": "by sorrow"
+        },
+        {
+          "word": "गुरुणा",
+          "transliteration": "guruna",
+          "meaning": "heavy/great"
+        },
+        {
+          "word": "अपि",
+          "transliteration": "api",
+          "meaning": "even"
+        },
+        {
+          "word": "विचाल्यते",
+          "transliteration": "vichalyate",
+          "meaning": "is shaken"
+        }
+      ],
+      "hindiTranslation": "जिसे प्राप्त करके उससे अधिक कोई अन्य लाभ नहीं मानता; और जिसमें स्थित होकर भारी दुःख से भी विचलित नहीं होता —",
+      "englishTranslation": "Having gained which, one considers no other gain to be greater; and established in which, one is not shaken even by the heaviest sorrow —",
+      "commentary": "The state of yoga is described as the supreme gain — nothing in all of existence is considered more valuable. Moreover, once established in this state, even the heaviest grief cannot shake the yogi. This unshakable stability in the face of life's greatest challenges demonstrates the transformative power of yoga. It is not mere philosophical understanding but an experiential state of invulnerability.",
+      "slug": "verse-22"
+    },
+    {
+      "verseNumber": 23,
+      "speaker": "Krishna",
+      "devanagari": "तं विद्याद्दुःखसंयोगवियोगं योगसंज्ञितम्।\nस निश्चयेन योक्तव्यो योगोऽनिर्विण्णचेतसा॥",
+      "transliteration": "Tam Vidyad-Duhkha-Samyoga-Viyogam Yoga-Samjnitam.\nSa Nishchayena Yoktavyo Yogo'nirvin-Na-Chetasa.",
+      "wordByWord": [
+        {
+          "word": "तम्",
+          "transliteration": "tam",
+          "meaning": "that"
+        },
+        {
+          "word": "विद्यात्",
+          "transliteration": "vidyat",
+          "meaning": "should know"
+        },
+        {
+          "word": "दुःखसंयोगवियोगम्",
+          "transliteration": "duhkha-samyoga-viyogam",
+          "meaning": "disconnection from connection with sorrow"
+        },
+        {
+          "word": "योगसंज्ञितम्",
+          "transliteration": "yoga-samjnitam",
+          "meaning": "known as yoga"
+        },
+        {
+          "word": "सः",
+          "transliteration": "sah",
+          "meaning": "that"
+        },
+        {
+          "word": "निश्चयेन",
+          "transliteration": "nishchayena",
+          "meaning": "with determination"
+        },
+        {
+          "word": "योक्तव्यः",
+          "transliteration": "yoktavyah",
+          "meaning": "should be practiced"
+        },
+        {
+          "word": "योगः",
+          "transliteration": "yogah",
+          "meaning": "yoga"
+        },
+        {
+          "word": "अनिर्विण्णचेतसा",
+          "transliteration": "anirvinna-chetasa",
+          "meaning": "with undaunted mind"
+        }
+      ],
+      "hindiTranslation": "जो दुःख के संयोग (सम्पर्क) से विच्छेद है, उसे योग के नाम से जानो। वह योग निश्चय (दृढ़ संकल्प) से और बिना उकताए (अनिर्विण्ण) चित्त से करना चाहिए।",
+      "englishTranslation": "Know that state of disconnection from the union with sorrow as what is called yoga. That yoga should be practiced with determination and an undaunted mind.",
+      "commentary": "Krishna provides a beautiful definition of yoga: it is the state of disconnection from sorrow (duhkha-samyoga-viyoga). Then He prescribes two essential attitudes for practice: firm determination (nishchaya) and an undaunted spirit (anirvinna-chetasa) that does not become discouraged by difficulties. Yoga requires both resolve and patience — one must persist cheerfully through all obstacles.",
+      "slug": "verse-23"
+    },
+    {
+      "verseNumber": 24,
+      "speaker": "Krishna",
+      "devanagari": "सङ्कल्पप्रभवान्कामांस्त्यक्त्वा सर्वानशेषतः।\nमनसैवेन्द्रियग्रामं विनियम्य समन्ततः॥",
+      "transliteration": "Sankalpa-Prabhavan Kamams-Tyaktva Sarvan-Asheshatah.\nManasa-Eva-Indriya-Gramam Viniyamya Samantatah.",
+      "wordByWord": [
+        {
+          "word": "सङ्कल्पप्रभवान्",
+          "transliteration": "sankalpa-prabhavan",
+          "meaning": "born of mental resolve/imagination"
+        },
+        {
+          "word": "कामान्",
+          "transliteration": "kaman",
+          "meaning": "desires"
+        },
+        {
+          "word": "त्यक्त्वा",
+          "transliteration": "tyaktva",
+          "meaning": "having abandoned"
+        },
+        {
+          "word": "सर्वान्",
+          "transliteration": "sarvan",
+          "meaning": "all"
+        },
+        {
+          "word": "अशेषतः",
+          "transliteration": "asheshatah",
+          "meaning": "completely"
+        },
+        {
+          "word": "मनसा",
+          "transliteration": "manasa",
+          "meaning": "by the mind"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "alone"
+        },
+        {
+          "word": "इन्द्रियग्रामम्",
+          "transliteration": "indriya-gramam",
+          "meaning": "the group of senses"
+        },
+        {
+          "word": "विनियम्य",
+          "transliteration": "viniyamya",
+          "meaning": "restraining/regulating"
+        },
+        {
+          "word": "समन्ततः",
+          "transliteration": "samantatah",
+          "meaning": "from all sides/completely"
+        }
+      ],
+      "hindiTranslation": "संकल्प (मन की कल्पना) से उत्पन्न सभी कामनाओं को पूर्णतया त्यागकर, मन द्वारा ही इन्द्रियों के समूह को सब ओर से संयमित करके —",
+      "englishTranslation": "Completely abandoning all desires born of mental resolve, and fully restraining the group of senses from all sides by the mind alone —",
+      "commentary": "Krishna identifies the root of desire: sankalpa, or mental imagination and resolve. All desires begin as thoughts in the mind, and they must be abandoned at that source. The senses are then restrained not by force but by the disciplined mind itself (manasa eva). This verse teaches the correct order of practice: first dissolve mental desires, then naturally the senses come under control.",
+      "slug": "verse-24"
+    },
+    {
+      "verseNumber": 25,
+      "speaker": "Krishna",
+      "devanagari": "शनैः शनैरुपरमेद्बुद्ध्या धृतिगृहीतया।\nआत्मसंस्थं मनः कृत्वा न किञ्चिदपि चिन्तयेत्॥",
+      "transliteration": "Shanaih Shanair-Uparamed-Buddhya Dhriti-Grihitaya.\nAtma-Samstham Manah Kritva Na Kinchid-Api Chintayet.",
+      "wordByWord": [
+        {
+          "word": "शनैः शनैः",
+          "transliteration": "shanaih shanaih",
+          "meaning": "gradually, step by step"
+        },
+        {
+          "word": "उपरमेत्",
+          "transliteration": "uparamet",
+          "meaning": "should withdraw/become still"
+        },
+        {
+          "word": "बुद्ध्या",
+          "transliteration": "buddhya",
+          "meaning": "by the intellect"
+        },
+        {
+          "word": "धृतिगृहीतया",
+          "transliteration": "dhriti-grihitaya",
+          "meaning": "held by firmness/conviction"
+        },
+        {
+          "word": "आत्मसंस्थम्",
+          "transliteration": "atma-samstham",
+          "meaning": "established in the Self"
+        },
+        {
+          "word": "मनः",
+          "transliteration": "manah",
+          "meaning": "mind"
+        },
+        {
+          "word": "कृत्वा",
+          "transliteration": "kritva",
+          "meaning": "making"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "किञ्चित्",
+          "transliteration": "kinchit",
+          "meaning": "anything"
+        },
+        {
+          "word": "अपि",
+          "transliteration": "api",
+          "meaning": "even"
+        },
+        {
+          "word": "चिन्तयेत्",
+          "transliteration": "chintayet",
+          "meaning": "should think"
+        }
+      ],
+      "hindiTranslation": "धीरे-धीरे, धृति (धैर्य) से युक्त बुद्धि द्वारा उपराम (शान्त) हो। मन को आत्मा में स्थापित करके किसी भी वस्तु का चिन्तन न करे।",
+      "englishTranslation": "Gradually, step by step, one should become still with the intellect held firm by conviction. Establishing the mind in the Self, one should not think of anything at all.",
+      "commentary": "This practical instruction for meditation emphasizes gradualness (shanaih shanaih). The mind cannot be forced into stillness — it must be gently led with the support of a firm, patient intellect. The ultimate state is one where the mind rests in the Self and all thought-waves cease. This instruction 'na kinchid api chintayet' (think of nothing at all) describes the highest state of meditation where even the subtlest thoughts dissolve.",
+      "slug": "verse-25"
+    },
+    {
+      "verseNumber": 26,
+      "speaker": "Krishna",
+      "devanagari": "यतो यतो निश्चरति मनश्चञ्चलमस्थिरम्।\nततस्ततो नियम्यैतदात्मन्येव वशं नयेत्॥",
+      "transliteration": "Yato Yato Nishcharati Manash-Chanchalam-Asthiram.\nTatas-Tato Niyamya-Etad-Atmany-Eva Vasham Nayet.",
+      "wordByWord": [
+        {
+          "word": "यतः यतः",
+          "transliteration": "yatah yatah",
+          "meaning": "wherever and wherever"
+        },
+        {
+          "word": "निश्चरति",
+          "transliteration": "nishcharati",
+          "meaning": "wanders/goes out"
+        },
+        {
+          "word": "मनः",
+          "transliteration": "manah",
+          "meaning": "mind"
+        },
+        {
+          "word": "चञ्चलम्",
+          "transliteration": "chanchalam",
+          "meaning": "restless"
+        },
+        {
+          "word": "अस्थिरम्",
+          "transliteration": "asthiram",
+          "meaning": "unsteady"
+        },
+        {
+          "word": "ततः ततः",
+          "transliteration": "tatah tatah",
+          "meaning": "from there and there"
+        },
+        {
+          "word": "नियम्य",
+          "transliteration": "niyamya",
+          "meaning": "regulating/restraining"
+        },
+        {
+          "word": "एतत्",
+          "transliteration": "etat",
+          "meaning": "this"
+        },
+        {
+          "word": "आत्मनि",
+          "transliteration": "atmani",
+          "meaning": "in the Self"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "alone"
+        },
+        {
+          "word": "वशम्",
+          "transliteration": "vasham",
+          "meaning": "under control"
+        },
+        {
+          "word": "नयेत्",
+          "transliteration": "nayet",
+          "meaning": "should bring"
+        }
+      ],
+      "hindiTranslation": "चञ्चल और अस्थिर मन जहाँ-जहाँ भटकता है, वहाँ-वहाँ से उसे रोककर आत्मा में ही वश में लाए।",
+      "englishTranslation": "Wherever the restless and unsteady mind wanders, from there one should restrain it and bring it back under the control of the Self alone.",
+      "commentary": "This is one of the most practical meditation instructions in all of scripture. Krishna acknowledges that the mind is naturally restless and unsteady — this is not a failure but a reality to work with. The practice is simple yet powerful: each time the mind wanders, gently bring it back to the Self. This patient, persistent redirection is the actual practice of meditation. There is no shortcut.",
+      "slug": "verse-26"
+    },
+    {
+      "verseNumber": 27,
+      "speaker": "Krishna",
+      "devanagari": "प्रशान्तमनसं ह्येनं योगिनं सुखमुत्तमम्।\nउपैति शान्तरजसं ब्रह्मभूतमकल्मषम्॥",
+      "transliteration": "Prashanta-Manasam Hy-Enam Yoginam Sukham-Uttamam.\nUpaiti Shanta-Rajasam Brahma-Bhutam-Akalmasham.",
+      "wordByWord": [
+        {
+          "word": "प्रशान्तमनसम्",
+          "transliteration": "prashanta-manasam",
+          "meaning": "whose mind is peaceful"
+        },
+        {
+          "word": "हि",
+          "transliteration": "hi",
+          "meaning": "certainly"
+        },
+        {
+          "word": "एनम्",
+          "transliteration": "enam",
+          "meaning": "this"
+        },
+        {
+          "word": "योगिनम्",
+          "transliteration": "yoginam",
+          "meaning": "yogi"
+        },
+        {
+          "word": "सुखम्",
+          "transliteration": "sukham",
+          "meaning": "happiness"
+        },
+        {
+          "word": "उत्तमम्",
+          "transliteration": "uttamam",
+          "meaning": "supreme"
+        },
+        {
+          "word": "उपैति",
+          "transliteration": "upaiti",
+          "meaning": "comes to/approaches"
+        },
+        {
+          "word": "शान्तरजसम्",
+          "transliteration": "shanta-rajasam",
+          "meaning": "whose rajas (passion) is calmed"
+        },
+        {
+          "word": "ब्रह्मभूतम्",
+          "transliteration": "brahma-bhutam",
+          "meaning": "who has become Brahman"
+        },
+        {
+          "word": "अकल्मषम्",
+          "transliteration": "akalmasham",
+          "meaning": "sinless/pure"
+        }
+      ],
+      "hindiTranslation": "जिसका मन प्रशान्त है, रजोगुण शान्त हो गया है, जो निष्पाप (अकल्मष) और ब्रह्मभूत हो गया है — उस योगी को उत्तम सुख स्वयं आ मिलता है।",
+      "englishTranslation": "Supreme happiness comes to the yogi whose mind is peaceful, whose passion is calmed, who has become one with Brahman, and who is free from sin.",
+      "commentary": "Krishna describes the natural result of successful meditation: supreme happiness spontaneously approaches the yogi. Note the passive construction — happiness 'comes to' the yogi rather than being pursued. When the mind is at peace, passion is stilled, one has become Brahman, and all impurities are removed, the highest bliss is the natural consequence. This is the reward of persistent meditation practice.",
+      "slug": "verse-27"
+    },
+    {
+      "verseNumber": 28,
+      "speaker": "Krishna",
+      "devanagari": "युञ्जन्नेवं सदात्मानं योगी विगतकल्मषः।\nसुखेन ब्रह्मसंस्पर्शमत्यन्तं सुखमश्नुते॥",
+      "transliteration": "Yunjann-Evam Sada-Atmanam Yogi Vigata-Kalmashah.\nSukhena Brahma-Samsparsham-Atyantam Sukham-Ashnute.",
+      "wordByWord": [
+        {
+          "word": "युञ्जन्",
+          "transliteration": "yunjan",
+          "meaning": "engaging/practicing"
+        },
+        {
+          "word": "एवम्",
+          "transliteration": "evam",
+          "meaning": "thus"
+        },
+        {
+          "word": "सदा",
+          "transliteration": "sada",
+          "meaning": "always"
+        },
+        {
+          "word": "आत्मानम्",
+          "transliteration": "atmanam",
+          "meaning": "the self"
+        },
+        {
+          "word": "योगी",
+          "transliteration": "yogi",
+          "meaning": "the yogi"
+        },
+        {
+          "word": "विगतकल्मषः",
+          "transliteration": "vigata-kalmashah",
+          "meaning": "free from impurities"
+        },
+        {
+          "word": "सुखेन",
+          "transliteration": "sukhena",
+          "meaning": "easily/with happiness"
+        },
+        {
+          "word": "ब्रह्मसंस्पर्शम्",
+          "transliteration": "brahma-samsparsham",
+          "meaning": "contact with Brahman"
+        },
+        {
+          "word": "अत्यन्तम्",
+          "transliteration": "atyantam",
+          "meaning": "infinite/supreme"
+        },
+        {
+          "word": "सुखम्",
+          "transliteration": "sukham",
+          "meaning": "happiness"
+        },
+        {
+          "word": "अश्नुते",
+          "transliteration": "ashnute",
+          "meaning": "enjoys/experiences"
+        }
+      ],
+      "hindiTranslation": "इस प्रकार सदा आत्मा को योग में लगाता हुआ, पापरहित योगी सहज ही ब्रह्म-संस्पर्श (ब्रह्म से सम्पर्क) का अत्यन्त सुख अनुभव करता है।",
+      "englishTranslation": "Thus constantly engaging the self in yoga, the yogi freed from impurities easily enjoys the infinite happiness of contact with Brahman.",
+      "commentary": "The purified yogi who constantly practices meditation experiences the supreme bliss of Brahman-contact (brahma-samsparsha) with ease (sukhena). The word 'sukhena' is significant — for the purified practitioner, the experience of divine bliss comes naturally and effortlessly. This is the fruit of sustained practice and inner purification.",
+      "slug": "verse-28"
+    },
+    {
+      "verseNumber": 29,
+      "speaker": "Krishna",
+      "devanagari": "सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि।\nईक्षते योगयुक्तात्मा सर्वत्र समदर्शनः॥",
+      "transliteration": "Sarva-Bhuta-Stham-Atmanam Sarva-Bhutani Cha-Atmani.\nIkshate Yoga-Yukta-Atma Sarvatra Sama-Darshanah.",
+      "wordByWord": [
+        {
+          "word": "सर्वभूतस्थम्",
+          "transliteration": "sarva-bhuta-stham",
+          "meaning": "dwelling in all beings"
+        },
+        {
+          "word": "आत्मानम्",
+          "transliteration": "atmanam",
+          "meaning": "the Self"
+        },
+        {
+          "word": "सर्वभूतानि",
+          "transliteration": "sarva-bhutani",
+          "meaning": "all beings"
+        },
+        {
+          "word": "च",
+          "transliteration": "cha",
+          "meaning": "and"
+        },
+        {
+          "word": "आत्मनि",
+          "transliteration": "atmani",
+          "meaning": "in the Self"
+        },
+        {
+          "word": "ईक्षते",
+          "transliteration": "ikshate",
+          "meaning": "sees"
+        },
+        {
+          "word": "योगयुक्तात्मा",
+          "transliteration": "yoga-yukta-atma",
+          "meaning": "one united with yoga"
+        },
+        {
+          "word": "सर्वत्र",
+          "transliteration": "sarvatra",
+          "meaning": "everywhere"
+        },
+        {
+          "word": "समदर्शनः",
+          "transliteration": "sama-darshanah",
+          "meaning": "of equal vision"
+        }
+      ],
+      "hindiTranslation": "योगयुक्त आत्मा वाला सब प्राणियों में आत्मा को और आत्मा में सब प्राणियों को देखता है — वह सर्वत्र समदर्शी होता है।",
+      "englishTranslation": "One whose self is united in yoga sees the Self dwelling in all beings and all beings in the Self — seeing equally everywhere.",
+      "commentary": "This verse describes the vision of the perfected yogi: seeing the one Self in all beings and all beings in the one Self. This is not a philosophical concept but a direct experiential vision that arises from deep meditation. The yogi sees the same divine essence in every creature, object, and situation. This sama-darshana (equal vision) is the natural fruit of yoga and the foundation of universal compassion.",
+      "slug": "verse-29"
+    },
+    {
+      "verseNumber": 30,
+      "speaker": "Krishna",
+      "devanagari": "यो मां पश्यति सर्वत्र सर्वं च मयि पश्यति।\nतस्याहं न प्रणश्यामि स च मे न प्रणश्यति॥",
+      "transliteration": "Yo Mam Pashyati Sarvatra Sarvam Cha Mayi Pashyati.\nTasya-Aham Na Pranashyami Sa Cha Me Na Pranashyati.",
+      "wordByWord": [
+        {
+          "word": "यः",
+          "transliteration": "yah",
+          "meaning": "who"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        },
+        {
+          "word": "पश्यति",
+          "transliteration": "pashyati",
+          "meaning": "sees"
+        },
+        {
+          "word": "सर्वत्र",
+          "transliteration": "sarvatra",
+          "meaning": "everywhere"
+        },
+        {
+          "word": "सर्वम्",
+          "transliteration": "sarvam",
+          "meaning": "everything"
+        },
+        {
+          "word": "च",
+          "transliteration": "cha",
+          "meaning": "and"
+        },
+        {
+          "word": "मयि",
+          "transliteration": "mayi",
+          "meaning": "in Me"
+        },
+        {
+          "word": "पश्यति",
+          "transliteration": "pashyati",
+          "meaning": "sees"
+        },
+        {
+          "word": "तस्य",
+          "transliteration": "tasya",
+          "meaning": "for him"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "प्रणश्यामि",
+          "transliteration": "pranashyami",
+          "meaning": "am lost"
+        },
+        {
+          "word": "सः",
+          "transliteration": "sah",
+          "meaning": "he"
+        },
+        {
+          "word": "च",
+          "transliteration": "cha",
+          "meaning": "and"
+        },
+        {
+          "word": "मे",
+          "transliteration": "me",
+          "meaning": "to Me"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "प्रणश्यति",
+          "transliteration": "pranashyati",
+          "meaning": "is lost"
+        }
+      ],
+      "hindiTranslation": "जो मुझे सर्वत्र देखता है और सब कुछ मुझमें देखता है — उसके लिए मैं कभी अदृश्य नहीं होता और वह मेरे लिए कभी अदृश्य नहीं होता।",
+      "englishTranslation": "One who sees Me everywhere and sees everything in Me — I am never lost to such a person, nor is that person ever lost to Me.",
+      "commentary": "This deeply personal and devotional verse reveals the intimate relationship between God and the devotee who has realized universal vision. When one sees Krishna everywhere and everything in Krishna, an unbreakable bond is established. God promises never to be absent from such a devotee's awareness, and the devotee never falls from God's grace. This mutual 'never-losing' is the highest expression of divine love.",
+      "slug": "verse-30"
+    },
+    {
+      "verseNumber": 31,
+      "speaker": "Krishna",
+      "devanagari": "सर्वभूतस्थितं यो मां भजत्येकत्वमास्थितः।\nसर्वथा वर्तमानोऽपि स योगी मयि वर्तते॥",
+      "transliteration": "Sarva-Bhuta-Sthitam Yo Mam Bhajaty-Ekatvam-Asthitah.\nSarvatha Vartamano'pi Sa Yogi Mayi Vartate.",
+      "wordByWord": [
+        {
+          "word": "सर्वभूतस्थितम्",
+          "transliteration": "sarva-bhuta-sthitam",
+          "meaning": "dwelling in all beings"
+        },
+        {
+          "word": "यः",
+          "transliteration": "yah",
+          "meaning": "who"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        },
+        {
+          "word": "भजति",
+          "transliteration": "bhajati",
+          "meaning": "worships"
+        },
+        {
+          "word": "एकत्वम्",
+          "transliteration": "ekatvam",
+          "meaning": "in oneness/unity"
+        },
+        {
+          "word": "आस्थितः",
+          "transliteration": "asthitah",
+          "meaning": "established"
+        },
+        {
+          "word": "सर्वथा",
+          "transliteration": "sarvatha",
+          "meaning": "in every way"
+        },
+        {
+          "word": "वर्तमानः",
+          "transliteration": "vartamanah",
+          "meaning": "living/acting"
+        },
+        {
+          "word": "अपि",
+          "transliteration": "api",
+          "meaning": "even"
+        },
+        {
+          "word": "सः",
+          "transliteration": "sah",
+          "meaning": "that"
+        },
+        {
+          "word": "योगी",
+          "transliteration": "yogi",
+          "meaning": "yogi"
+        },
+        {
+          "word": "मयि",
+          "transliteration": "mayi",
+          "meaning": "in Me"
+        },
+        {
+          "word": "वर्तते",
+          "transliteration": "vartate",
+          "meaning": "abides"
+        }
+      ],
+      "hindiTranslation": "जो एकत्व में स्थित होकर सब प्राणियों में स्थित मुझे भजता है — वह योगी सब प्रकार से व्यवहार करता हुआ भी मुझमें ही वर्तमान (स्थित) है।",
+      "englishTranslation": "One who, established in unity, worships Me as dwelling in all beings — that yogi, however they may live and act, abides in Me.",
+      "commentary": "Krishna reveals a remarkable truth: the yogi who worships God as present in all beings, established in the consciousness of oneness, always abides in God regardless of external circumstances or activities. This means spiritual realization does not require withdrawal from the world — one can engage in any activity and still remain in God-consciousness. This is the ultimate freedom of the realized soul.",
+      "slug": "verse-31"
+    },
+    {
+      "verseNumber": 32,
+      "speaker": "Krishna",
+      "devanagari": "आत्मौपम्येन सर्वत्र समं पश्यति योऽर्जुन।\nसुखं वा यदि वा दुःखं स योगी परमो मतः॥",
+      "transliteration": "Atma-Aupamyena Sarvatra Samam Pashyati Yo'rjuna.\nSukham Va Yadi Va Duhkham Sa Yogi Paramo Matah.",
+      "wordByWord": [
+        {
+          "word": "आत्मौपम्येन",
+          "transliteration": "atma-aupamyena",
+          "meaning": "by comparison with the self"
+        },
+        {
+          "word": "सर्वत्र",
+          "transliteration": "sarvatra",
+          "meaning": "everywhere"
+        },
+        {
+          "word": "समम्",
+          "transliteration": "samam",
+          "meaning": "equally"
+        },
+        {
+          "word": "पश्यति",
+          "transliteration": "pashyati",
+          "meaning": "sees"
+        },
+        {
+          "word": "यः",
+          "transliteration": "yah",
+          "meaning": "who"
+        },
+        {
+          "word": "अर्जुन",
+          "transliteration": "arjuna",
+          "meaning": "O Arjuna"
+        },
+        {
+          "word": "सुखम्",
+          "transliteration": "sukham",
+          "meaning": "happiness"
+        },
+        {
+          "word": "वा",
+          "transliteration": "va",
+          "meaning": "or"
+        },
+        {
+          "word": "यदि",
+          "transliteration": "yadi",
+          "meaning": "if"
+        },
+        {
+          "word": "वा",
+          "transliteration": "va",
+          "meaning": "or"
+        },
+        {
+          "word": "दुःखम्",
+          "transliteration": "duhkham",
+          "meaning": "sorrow"
+        },
+        {
+          "word": "सः",
+          "transliteration": "sah",
+          "meaning": "that"
+        },
+        {
+          "word": "योगी",
+          "transliteration": "yogi",
+          "meaning": "yogi"
+        },
+        {
+          "word": "परमः",
+          "transliteration": "paramah",
+          "meaning": "supreme/highest"
+        },
+        {
+          "word": "मतः",
+          "transliteration": "matah",
+          "meaning": "is considered"
+        }
+      ],
+      "hindiTranslation": "हे अर्जुन! जो अपनी तुलना से (आत्मौपम्य) सर्वत्र समान रूप से देखता है — चाहे सुख हो या दुःख — वह योगी परम (सर्वश्रेष्ठ) माना गया है।",
+      "englishTranslation": "O Arjuna, one who sees equally everywhere — whether happiness or sorrow — by comparing others with oneself, is considered the supreme yogi.",
+      "commentary": "Krishna describes the supreme yogi as one who practices 'atmaupamya' — seeing others through the lens of one's own experience. Just as I desire happiness and fear pain, so do all beings. This empathetic identification with all creatures, feeling their joy and sorrow as one's own, is the highest yoga. It is essentially the golden rule elevated to a cosmic vision of unity.",
+      "slug": "verse-32"
+    },
+    {
+      "verseNumber": 33,
+      "speaker": "Arjuna",
+      "devanagari": "योऽयं योगस्त्वया प्रोक्तः साम्येन मधुसूदन।\nएतस्याहं न पश्यामि चञ्चलत्वात्स्थितिं स्थिराम्॥",
+      "transliteration": "Yo'yam Yogas-Tvaya Proktah Samyena Madhusudana.\nEtasya-Aham Na Pashyami Chanchalatavat Sthitim Sthiram.",
+      "wordByWord": [
+        {
+          "word": "यः",
+          "transliteration": "yah",
+          "meaning": "which"
+        },
+        {
+          "word": "अयम्",
+          "transliteration": "ayam",
+          "meaning": "this"
+        },
+        {
+          "word": "योगः",
+          "transliteration": "yogah",
+          "meaning": "yoga"
+        },
+        {
+          "word": "त्वया",
+          "transliteration": "tvaya",
+          "meaning": "by You"
+        },
+        {
+          "word": "प्रोक्तः",
+          "transliteration": "proktah",
+          "meaning": "described"
+        },
+        {
+          "word": "साम्येन",
+          "transliteration": "samyena",
+          "meaning": "by equanimity"
+        },
+        {
+          "word": "मधुसूदन",
+          "transliteration": "madhusudana",
+          "meaning": "O slayer of Madhu (Krishna)"
+        },
+        {
+          "word": "एतस्य",
+          "transliteration": "etasya",
+          "meaning": "of this"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "पश्यामि",
+          "transliteration": "pashyami",
+          "meaning": "see"
+        },
+        {
+          "word": "चञ्चलत्वात्",
+          "transliteration": "chanchalatavat",
+          "meaning": "due to restlessness"
+        },
+        {
+          "word": "स्थितिम्",
+          "transliteration": "sthitim",
+          "meaning": "foundation/steady state"
+        },
+        {
+          "word": "स्थिराम्",
+          "transliteration": "sthiram",
+          "meaning": "firm/stable"
+        }
+      ],
+      "hindiTranslation": "अर्जुन बोले — हे मधुसूदन! जो यह समत्व-आधारित योग आपने बताया है — मन की चंचलता के कारण मैं इसकी स्थिर स्थिति नहीं देख पाता।",
+      "englishTranslation": "Arjuna said: O Madhusudana, this yoga of equanimity that You have described — I do not see how it can have a firm foundation, due to the restlessness of the mind.",
+      "commentary": "Arjuna raises the most human and relatable of all spiritual questions: how can the mind, which is inherently restless, ever achieve the perfect equanimity Krishna has described? This honest confession resonates with every spiritual seeker who has struggled with mental discipline. Arjuna's sincerity in admitting his difficulty makes him an ideal student and invites Krishna's compassionate guidance.",
+      "slug": "verse-33"
+    },
+    {
+      "verseNumber": 34,
+      "speaker": "Arjuna",
+      "devanagari": "चञ्चलं हि मनः कृष्ण प्रमाथि बलवद्दृढम्।\nतस्याहं निग्रहं मन्ये वायोरिव सुदुष्करम्॥",
+      "transliteration": "Chanchalam Hi Manah Krishna Pramathi Balavad Dridham.\nTasya-Aham Nigraham Manye Vayor-Iva Su-Dushkaram.",
+      "wordByWord": [
+        {
+          "word": "चञ्चलम्",
+          "transliteration": "chanchalam",
+          "meaning": "restless"
+        },
+        {
+          "word": "हि",
+          "transliteration": "hi",
+          "meaning": "indeed"
+        },
+        {
+          "word": "मनः",
+          "transliteration": "manah",
+          "meaning": "the mind"
+        },
+        {
+          "word": "कृष्ण",
+          "transliteration": "krishna",
+          "meaning": "O Krishna"
+        },
+        {
+          "word": "प्रमाथि",
+          "transliteration": "pramathi",
+          "meaning": "turbulent/agitating"
+        },
+        {
+          "word": "बलवत्",
+          "transliteration": "balavat",
+          "meaning": "strong"
+        },
+        {
+          "word": "दृढम्",
+          "transliteration": "dridham",
+          "meaning": "obstinate"
+        },
+        {
+          "word": "तस्य",
+          "transliteration": "tasya",
+          "meaning": "of it"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I"
+        },
+        {
+          "word": "निग्रहम्",
+          "transliteration": "nigraham",
+          "meaning": "control"
+        },
+        {
+          "word": "मन्ये",
+          "transliteration": "manye",
+          "meaning": "consider"
+        },
+        {
+          "word": "वायोः",
+          "transliteration": "vayoh",
+          "meaning": "of the wind"
+        },
+        {
+          "word": "इव",
+          "transliteration": "iva",
+          "meaning": "like"
+        },
+        {
+          "word": "सुदुष्करम्",
+          "transliteration": "su-dushkaram",
+          "meaning": "very difficult"
+        }
+      ],
+      "hindiTranslation": "हे कृष्ण! मन तो चञ्चल, प्रमथनकारी (उद्वेलित करने वाला), बलवान और दृढ़ है। मैं इसके निग्रह (नियन्त्रण) को वायु के निग्रह के समान अत्यन्त कठिन मानता हूँ।",
+      "englishTranslation": "The mind is indeed restless, O Krishna — turbulent, strong, and obstinate. I consider controlling it as difficult as controlling the wind.",
+      "commentary": "Arjuna gives a vivid and universally relatable description of the mind's nature: chanchala (restless), pramathi (turbulent, violently agitating), balavat (powerful), and dridha (obstinate). His comparison of mind-control to wind-control perfectly captures the seeming impossibility of the task. This verse validates every meditator's experience and sets up Krishna's reassuring response about the practical path to mastery.",
+      "slug": "verse-34"
+    },
+    {
+      "verseNumber": 35,
+      "speaker": "Krishna",
+      "devanagari": "असंशयं महाबाहो मनो दुर्निग्रहं चलम्।\nअभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते॥",
+      "transliteration": "Asamshayam Maha-Baho Mano Dur-Nigraham Chalam.\nAbhyasena Tu Kaunteya Vairagyena Cha Grihyate.",
+      "wordByWord": [
+        {
+          "word": "असंशयम्",
+          "transliteration": "asamshayam",
+          "meaning": "undoubtedly"
+        },
+        {
+          "word": "महाबाहो",
+          "transliteration": "maha-baho",
+          "meaning": "O mighty-armed"
+        },
+        {
+          "word": "मनः",
+          "transliteration": "manah",
+          "meaning": "the mind"
+        },
+        {
+          "word": "दुर्निग्रहम्",
+          "transliteration": "dur-nigraham",
+          "meaning": "difficult to control"
+        },
+        {
+          "word": "चलम्",
+          "transliteration": "chalam",
+          "meaning": "restless"
+        },
+        {
+          "word": "अभ्यासेन",
+          "transliteration": "abhyasena",
+          "meaning": "by practice"
+        },
+        {
+          "word": "तु",
+          "transliteration": "tu",
+          "meaning": "but"
+        },
+        {
+          "word": "कौन्तेय",
+          "transliteration": "kaunteya",
+          "meaning": "O son of Kunti"
+        },
+        {
+          "word": "वैराग्येण",
+          "transliteration": "vairagyena",
+          "meaning": "by detachment"
+        },
+        {
+          "word": "च",
+          "transliteration": "cha",
+          "meaning": "and"
+        },
+        {
+          "word": "गृह्यते",
+          "transliteration": "grihyate",
+          "meaning": "is controlled/grasped"
+        }
+      ],
+      "hindiTranslation": "श्रीभगवान बोले — हे महाबाहो! निःसंदेह मन चञ्चल और दुर्निग्रह (कठिनाई से वश में होने वाला) है। परन्तु हे कौन्तेय! अभ्यास और वैराग्य से यह वश में किया जा सकता है।",
+      "englishTranslation": "The Supreme Lord said: Undoubtedly, O mighty-armed, the mind is restless and difficult to control. But, O Kaunteya, it can be mastered through practice (abhyasa) and detachment (vairagya).",
+      "commentary": "Krishna does not deny Arjuna's observation — He fully agrees that the mind is difficult to control. But then He gives the definitive solution: abhyasa (repeated practice) and vairagya (detachment/dispassion). These twin disciplines are the universal prescription for mastering the mind, echoed by Patanjali's Yoga Sutras. Persistent, patient practice combined with growing detachment from worldly allurements gradually tames even the wildest mind.",
+      "slug": "verse-35"
+    },
+    {
+      "verseNumber": 36,
+      "speaker": "Krishna",
+      "devanagari": "असंयतात्मना योगो दुष्प्राप इति मे मतिः।\nवश्यात्मना तु यतता शक्योऽवाप्तुमुपायतः॥",
+      "transliteration": "Asamyata-Atmana Yogo Dushprapa Iti Me Matih.\nVashya-Atmana Tu Yatata Shakyo'vaptum-Upayatah.",
+      "wordByWord": [
+        {
+          "word": "असंयतात्मना",
+          "transliteration": "asamyata-atmana",
+          "meaning": "by one of uncontrolled self"
+        },
+        {
+          "word": "योगः",
+          "transliteration": "yogah",
+          "meaning": "yoga"
+        },
+        {
+          "word": "दुष्प्रापः",
+          "transliteration": "dushprapah",
+          "meaning": "difficult to attain"
+        },
+        {
+          "word": "इति",
+          "transliteration": "iti",
+          "meaning": "thus"
+        },
+        {
+          "word": "मे",
+          "transliteration": "me",
+          "meaning": "My"
+        },
+        {
+          "word": "मतिः",
+          "transliteration": "matih",
+          "meaning": "opinion"
+        },
+        {
+          "word": "वश्यात्मना",
+          "transliteration": "vashya-atmana",
+          "meaning": "by one of controlled self"
+        },
+        {
+          "word": "तु",
+          "transliteration": "tu",
+          "meaning": "but"
+        },
+        {
+          "word": "यतता",
+          "transliteration": "yatata",
+          "meaning": "by one who strives"
+        },
+        {
+          "word": "शक्यः",
+          "transliteration": "shakyah",
+          "meaning": "possible"
+        },
+        {
+          "word": "अवाप्तुम्",
+          "transliteration": "avaptum",
+          "meaning": "to attain"
+        },
+        {
+          "word": "उपायतः",
+          "transliteration": "upayatah",
+          "meaning": "by proper means"
+        }
+      ],
+      "hindiTranslation": "मेरे मत में, असंयत (अनियन्त्रित) आत्मा वाले के लिए योग दुष्प्राप्य (कठिन) है। परन्तु वश में किए हुए आत्मा (मन) वाले प्रयत्नशील व्यक्ति द्वारा उचित उपाय से प्राप्त हो सकता है।",
+      "englishTranslation": "In My opinion, yoga is difficult to attain for one whose self is uncontrolled. But for one whose self is controlled and who strives, it is possible to attain through proper means.",
+      "commentary": "Krishna is realistic — yoga is indeed difficult for the undisciplined, but achievable for the disciplined person who makes proper effort using the right methods. The key word is 'upayatah' (by proper means), indicating that correct technique matters alongside effort. This balanced view neither dismisses the difficulty nor creates despair — it encourages intelligent, sustained effort.",
+      "slug": "verse-36"
+    },
+    {
+      "verseNumber": 37,
+      "speaker": "Arjuna",
+      "devanagari": "अयतिः श्रद्धयोपेतो योगाच्चलितमानसः।\nअप्राप्य योगसंसिद्धिं कां गतिं कृष्ण गच्छति॥",
+      "transliteration": "Ayatih Shraddhayo-Peto Yogach-Chalita-Manasah.\nAprapya Yoga-Samsiddhim Kam Gatim Krishna Gachchhati.",
+      "wordByWord": [
+        {
+          "word": "अयतिः",
+          "transliteration": "ayatih",
+          "meaning": "one who fails to strive/is negligent"
+        },
+        {
+          "word": "श्रद्धया",
+          "transliteration": "shraddhaya",
+          "meaning": "with faith"
+        },
+        {
+          "word": "उपेतः",
+          "transliteration": "upetah",
+          "meaning": "endowed"
+        },
+        {
+          "word": "योगात्",
+          "transliteration": "yogat",
+          "meaning": "from yoga"
+        },
+        {
+          "word": "चलितमानसः",
+          "transliteration": "chalita-manasah",
+          "meaning": "whose mind has deviated"
+        },
+        {
+          "word": "अप्राप्य",
+          "transliteration": "aprapya",
+          "meaning": "not having attained"
+        },
+        {
+          "word": "योगसंसिद्धिम्",
+          "transliteration": "yoga-samsiddhim",
+          "meaning": "perfection in yoga"
+        },
+        {
+          "word": "काम्",
+          "transliteration": "kam",
+          "meaning": "what"
+        },
+        {
+          "word": "गतिम्",
+          "transliteration": "gatim",
+          "meaning": "destination/fate"
+        },
+        {
+          "word": "कृष्ण",
+          "transliteration": "krishna",
+          "meaning": "O Krishna"
+        },
+        {
+          "word": "गच्छति",
+          "transliteration": "gachchhati",
+          "meaning": "goes"
+        }
+      ],
+      "hindiTranslation": "अर्जुन बोले — हे कृष्ण! जो श्रद्धा रखता है पर प्रयत्न में शिथिल हो जाता है, जिसका मन योग से विचलित हो जाता है, और जो योगसिद्धि प्राप्त नहीं कर पाता — वह किस गति को प्राप्त होता है?",
+      "englishTranslation": "Arjuna said: O Krishna, what is the fate of one who has faith but lacks effort, whose mind deviates from yoga, and who fails to attain perfection in yoga?",
+      "commentary": "Arjuna raises the fear that haunts every spiritual aspirant: what if I start the path but fail to reach the goal? What becomes of the sincere seeker who has faith but falls short of perfection? This deeply practical question reflects Arjuna's concern that incomplete spiritual effort might leave one with neither worldly success nor spiritual liberation.",
+      "slug": "verse-37"
+    },
+    {
+      "verseNumber": 38,
+      "speaker": "Arjuna",
+      "devanagari": "कच्चिन्नोभयविभ्रष्टश्छिन्नाभ्रमिव नश्यति।\nअप्रतिष्ठो महाबाहो विमूढो ब्रह्मणः पथि॥",
+      "transliteration": "Kachchin-Na-Ubhaya-Vibhrashtash-Chhinna-Abhram-Iva Nashyati.\nApratishto Maha-Baho Vimudho Brahmanah Pathi.",
+      "wordByWord": [
+        {
+          "word": "कच्चित्",
+          "transliteration": "kachchit",
+          "meaning": "is it not"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "उभयविभ्रष्टः",
+          "transliteration": "ubhaya-vibhrashtah",
+          "meaning": "fallen from both"
+        },
+        {
+          "word": "छिन्नाभ्रम्",
+          "transliteration": "chhinna-abhram",
+          "meaning": "a torn cloud"
+        },
+        {
+          "word": "इव",
+          "transliteration": "iva",
+          "meaning": "like"
+        },
+        {
+          "word": "नश्यति",
+          "transliteration": "nashyati",
+          "meaning": "perishes"
+        },
+        {
+          "word": "अप्रतिष्ठः",
+          "transliteration": "apratishtah",
+          "meaning": "without foundation"
+        },
+        {
+          "word": "महाबाहो",
+          "transliteration": "maha-baho",
+          "meaning": "O mighty-armed"
+        },
+        {
+          "word": "विमूढः",
+          "transliteration": "vimudhah",
+          "meaning": "bewildered"
+        },
+        {
+          "word": "ब्रह्मणः",
+          "transliteration": "brahmanah",
+          "meaning": "of Brahman"
+        },
+        {
+          "word": "पथि",
+          "transliteration": "pathi",
+          "meaning": "on the path"
+        }
+      ],
+      "hindiTranslation": "हे महाबाहो! क्या ब्रह्म के मार्ग पर भ्रमित, दोनों ओर से भ्रष्ट — वह छिन्न मेघ (टूटे बादल) की तरह निराधार होकर नष्ट नहीं हो जाता?",
+      "englishTranslation": "O mighty-armed, does such a person, fallen from both paths, bewildered on the path to Brahman, not perish like a torn cloud — without any foundation?",
+      "commentary": "Arjuna's beautiful and poignant metaphor of a 'torn cloud' perfectly captures the fear of spiritual failure. A cloud torn from its group dissipates without producing rain — it neither remained with its group nor reached the earth. Similarly, Arjuna fears that the failed yogi might lose both worldly pleasures (having renounced them) and spiritual liberation (having failed to achieve it), left with nothing.",
+      "slug": "verse-38"
+    },
+    {
+      "verseNumber": 39,
+      "speaker": "Arjuna",
+      "devanagari": "एतन्मे संशयं कृष्ण छेत्तुमर्हस्यशेषतः।\nत्वदन्यः संशयस्यास्य छेत्ता न ह्युपपद्यते॥",
+      "transliteration": "Etan-Me Samshayam Krishna Chhettum-Arhasy-Asheshatah.\nTvad-Anyah Samshayasya-Asya Chhetta Na Hy-Upapadyate.",
+      "wordByWord": [
+        {
+          "word": "एतत्",
+          "transliteration": "etat",
+          "meaning": "this"
+        },
+        {
+          "word": "मे",
+          "transliteration": "me",
+          "meaning": "my"
+        },
+        {
+          "word": "संशयम्",
+          "transliteration": "samshayam",
+          "meaning": "doubt"
+        },
+        {
+          "word": "कृष्ण",
+          "transliteration": "krishna",
+          "meaning": "O Krishna"
+        },
+        {
+          "word": "छेत्तुम्",
+          "transliteration": "chhettum",
+          "meaning": "to cut/dispel"
+        },
+        {
+          "word": "अर्हसि",
+          "transliteration": "arhasi",
+          "meaning": "You deserve/should"
+        },
+        {
+          "word": "अशेषतः",
+          "transliteration": "asheshatah",
+          "meaning": "completely"
+        },
+        {
+          "word": "त्वदन्यः",
+          "transliteration": "tvad-anyah",
+          "meaning": "other than You"
+        },
+        {
+          "word": "संशयस्य",
+          "transliteration": "samshayasya",
+          "meaning": "of the doubt"
+        },
+        {
+          "word": "अस्य",
+          "transliteration": "asya",
+          "meaning": "of this"
+        },
+        {
+          "word": "छेत्ता",
+          "transliteration": "chhetta",
+          "meaning": "remover/dispeller"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "हि",
+          "transliteration": "hi",
+          "meaning": "indeed"
+        },
+        {
+          "word": "उपपद्यते",
+          "transliteration": "upapadyate",
+          "meaning": "is possible/is found"
+        }
+      ],
+      "hindiTranslation": "हे कृष्ण! आपको इस मेरे संशय को पूर्णतया छेदन (दूर) करना उचित है। आपके अतिरिक्त इस संशय को दूर करने वाला कोई नहीं मिल सकता।",
+      "englishTranslation": "O Krishna, You should completely dispel this doubt of mine. No one other than You is capable of removing this doubt.",
+      "commentary": "Arjuna expresses complete faith in Krishna as the sole authority who can resolve his spiritual doubt. This combination of sincere doubt and total faith in the teacher is the ideal attitude for a spiritual seeker. Arjuna's humility in acknowledging that only Krishna can answer this question demonstrates the proper guru-disciple relationship that allows the deepest teachings to flow.",
+      "slug": "verse-39"
+    },
+    {
+      "verseNumber": 40,
+      "speaker": "Krishna",
+      "devanagari": "पार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते।\nन हि कल्याणकृत्कश्चिद्दुर्गतिं तात गच्छति॥",
+      "transliteration": "Partha Naiveha Na-Amutra Vinashas-Tasya Vidyate.\nNa Hi Kalyana-Krit-Kashchid-Durgatim Tata Gachchhati.",
+      "wordByWord": [
+        {
+          "word": "पार्थ",
+          "transliteration": "partha",
+          "meaning": "O son of Pritha"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "certainly"
+        },
+        {
+          "word": "इह",
+          "transliteration": "iha",
+          "meaning": "in this world"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "अमुत्र",
+          "transliteration": "amutra",
+          "meaning": "in the next world"
+        },
+        {
+          "word": "विनाशः",
+          "transliteration": "vinashah",
+          "meaning": "destruction"
+        },
+        {
+          "word": "तस्य",
+          "transliteration": "tasya",
+          "meaning": "of him"
+        },
+        {
+          "word": "विद्यते",
+          "transliteration": "vidyate",
+          "meaning": "exists"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "हि",
+          "transliteration": "hi",
+          "meaning": "indeed"
+        },
+        {
+          "word": "कल्याणकृत्",
+          "transliteration": "kalyana-krit",
+          "meaning": "one who does good"
+        },
+        {
+          "word": "कश्चित्",
+          "transliteration": "kashchit",
+          "meaning": "anyone"
+        },
+        {
+          "word": "दुर्गतिम्",
+          "transliteration": "durgatim",
+          "meaning": "bad destination"
+        },
+        {
+          "word": "तात",
+          "transliteration": "tata",
+          "meaning": "dear one (My friend)"
+        },
+        {
+          "word": "गच्छति",
+          "transliteration": "gachchhati",
+          "meaning": "goes"
+        }
+      ],
+      "hindiTranslation": "श्रीभगवान बोले — हे पार्थ! न इस लोक में न परलोक में उसका विनाश होता है। हे तात (प्रिय)! कल्याण करने वाला कोई भी दुर्गति को नहीं प्राप्त होता।",
+      "englishTranslation": "The Supreme Lord said: O Partha, there is no destruction for such a person either in this world or the next. Indeed, dear one, no one who does good ever comes to a bad end.",
+      "commentary": "This is one of the most comforting and reassuring verses in all scripture. Krishna tenderly addresses Arjuna as 'tata' (dear one/friend) and gives an absolute assurance: no spiritual effort ever goes to waste. The failed yogi does not perish in either world. The universal principle is declared — no one who acts with good intention ever meets with a bad fate. This removes the greatest fear from the spiritual path.",
+      "slug": "verse-40"
+    },
+    {
+      "verseNumber": 41,
+      "speaker": "Krishna",
+      "devanagari": "प्राप्य पुण्यकृतां लोकानुषित्वा शाश्वतीः समाः।\nशुचीनां श्रीमतां गेहे योगभ्रष्टोऽभिजायते॥",
+      "transliteration": "Prapya Punya-Kritam Lokan-Ushitva Shashvatih Samah.\nShuchinam Shrimatam Gehe Yoga-Bhrashto'bhijayate.",
+      "wordByWord": [
+        {
+          "word": "प्राप्य",
+          "transliteration": "prapya",
+          "meaning": "attaining"
+        },
+        {
+          "word": "पुण्यकृताम्",
+          "transliteration": "punya-kritam",
+          "meaning": "of the meritorious"
+        },
+        {
+          "word": "लोकान्",
+          "transliteration": "lokan",
+          "meaning": "worlds"
+        },
+        {
+          "word": "उषित्वा",
+          "transliteration": "ushitva",
+          "meaning": "having dwelt"
+        },
+        {
+          "word": "शाश्वतीः",
+          "transliteration": "shashvatih",
+          "meaning": "many"
+        },
+        {
+          "word": "समाः",
+          "transliteration": "samah",
+          "meaning": "years"
+        },
+        {
+          "word": "शुचीनाम्",
+          "transliteration": "shuchinam",
+          "meaning": "of the pure"
+        },
+        {
+          "word": "श्रीमताम्",
+          "transliteration": "shrimatam",
+          "meaning": "of the prosperous"
+        },
+        {
+          "word": "गेहे",
+          "transliteration": "gehe",
+          "meaning": "in the house"
+        },
+        {
+          "word": "योगभ्रष्टः",
+          "transliteration": "yoga-bhrashtah",
+          "meaning": "one fallen from yoga"
+        },
+        {
+          "word": "अभिजायते",
+          "transliteration": "abhijayate",
+          "meaning": "is born"
+        }
+      ],
+      "hindiTranslation": "योगभ्रष्ट (योग से गिरा हुआ) व्यक्ति पुण्यवानों के लोकों को प्राप्त करके अनेक वर्ष वहाँ रहकर, पवित्र और श्रीमान (समृद्ध) कुल में जन्म लेता है।",
+      "englishTranslation": "Having attained the worlds of the meritorious and having dwelt there for many years, one who has fallen from yoga is reborn in the house of the pure and prosperous.",
+      "commentary": "Krishna describes the fate of the yoga-bhrashta (one who falls from yoga). Far from being destroyed, such a person first enjoys the heavenly realms earned by their spiritual merit, and then takes birth in a pure, wealthy family. This favorable rebirth provides the ideal circumstances for continuing their spiritual journey. No spiritual effort is ever lost — it carries forward across lifetimes.",
+      "slug": "verse-41"
+    },
+    {
+      "verseNumber": 42,
+      "speaker": "Krishna",
+      "devanagari": "अथवा योगिनामेव कुले भवति धीमताम्।\nएतद्धि दुर्लभतरं लोके जन्म यदीदृशम्॥",
+      "transliteration": "Athava Yoginam-Eva Kule Bhavati Dhimatam.\nEtad-Dhi Durlabha-Taram Loke Janma Yad-Idrisham.",
+      "wordByWord": [
+        {
+          "word": "अथवा",
+          "transliteration": "athava",
+          "meaning": "or"
+        },
+        {
+          "word": "योगिनाम्",
+          "transliteration": "yoginam",
+          "meaning": "of yogis"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "indeed"
+        },
+        {
+          "word": "कुले",
+          "transliteration": "kule",
+          "meaning": "in the family"
+        },
+        {
+          "word": "भवति",
+          "transliteration": "bhavati",
+          "meaning": "is born"
+        },
+        {
+          "word": "धीमताम्",
+          "transliteration": "dhimatam",
+          "meaning": "of the wise"
+        },
+        {
+          "word": "एतत्",
+          "transliteration": "etat",
+          "meaning": "this"
+        },
+        {
+          "word": "हि",
+          "transliteration": "hi",
+          "meaning": "indeed"
+        },
+        {
+          "word": "दुर्लभतरम्",
+          "transliteration": "durlabha-taram",
+          "meaning": "very rare"
+        },
+        {
+          "word": "लोके",
+          "transliteration": "loke",
+          "meaning": "in the world"
+        },
+        {
+          "word": "जन्म",
+          "transliteration": "janma",
+          "meaning": "birth"
+        },
+        {
+          "word": "यत्",
+          "transliteration": "yat",
+          "meaning": "which"
+        },
+        {
+          "word": "ईदृशम्",
+          "transliteration": "idrisham",
+          "meaning": "such"
+        }
+      ],
+      "hindiTranslation": "अथवा बुद्धिमान योगियों के कुल में ही जन्म लेता है। संसार में ऐसा जन्म अत्यन्त दुर्लभ है।",
+      "englishTranslation": "Or one is born into a family of wise yogis. Indeed, such a birth is very rare in this world.",
+      "commentary": "Even more fortunate than birth in a wealthy family is birth into a family of spiritually advanced yogis. Such a birth provides direct spiritual guidance from childhood and is considered extremely rare. This verse shows that advanced seekers are given the most conducive possible circumstances to complete their spiritual journey, confirming that divine grace preserves and supports every sincere spiritual effort.",
+      "slug": "verse-42"
+    },
+    {
+      "verseNumber": 43,
+      "speaker": "Krishna",
+      "devanagari": "तत्र तं बुद्धिसंयोगं लभते पौर्वदेहिकम्।\nयतते च ततो भूयः संसिद्धौ कुरुनन्दन॥",
+      "transliteration": "Tatra Tam Buddhi-Samyogam Labhate Paurva-Dehikam.\nYatate Cha Tato Bhuyah Samsiddhau Kuru-Nandana.",
+      "wordByWord": [
+        {
+          "word": "तत्र",
+          "transliteration": "tatra",
+          "meaning": "there"
+        },
+        {
+          "word": "तम्",
+          "transliteration": "tam",
+          "meaning": "that"
+        },
+        {
+          "word": "बुद्धिसंयोगम्",
+          "transliteration": "buddhi-samyogam",
+          "meaning": "connection of intelligence/wisdom"
+        },
+        {
+          "word": "लभते",
+          "transliteration": "labhate",
+          "meaning": "gains"
+        },
+        {
+          "word": "पौर्वदेहिकम्",
+          "transliteration": "paurva-dehikam",
+          "meaning": "from the previous body/life"
+        },
+        {
+          "word": "यतते",
+          "transliteration": "yatate",
+          "meaning": "strives"
+        },
+        {
+          "word": "च",
+          "transliteration": "cha",
+          "meaning": "and"
+        },
+        {
+          "word": "ततः",
+          "transliteration": "tatah",
+          "meaning": "then"
+        },
+        {
+          "word": "भूयः",
+          "transliteration": "bhuyah",
+          "meaning": "again/further"
+        },
+        {
+          "word": "संसिद्धौ",
+          "transliteration": "samsiddhau",
+          "meaning": "for perfection"
+        },
+        {
+          "word": "कुरुनन्दन",
+          "transliteration": "kuru-nandana",
+          "meaning": "O joy of the Kurus"
+        }
+      ],
+      "hindiTranslation": "वहाँ उसे पूर्व जन्म की बुद्धि (संस्कार) का संयोग प्राप्त होता है, और हे कुरुनन्दन! फिर वह सिद्धि के लिए और अधिक प्रयत्न करता है।",
+      "englishTranslation": "There one regains the wisdom and spiritual impressions from the previous body. Then one strives again for perfection, O joy of the Kurus.",
+      "commentary": "In the new birth, the yoga-bhrashta naturally reconnects with the spiritual wisdom accumulated in previous lives. These dormant impressions (samskaras) resurface as an innate inclination toward spiritual life. From this foundation, the seeker continues striving toward perfection with even greater intensity. This verse explains why some individuals are naturally drawn to spirituality from a young age.",
+      "slug": "verse-43"
+    },
+    {
+      "verseNumber": 44,
+      "speaker": "Krishna",
+      "devanagari": "पूर्वाभ्यासेन तेनैव ह्रियते ह्यवशोऽपि सः।\nजिज्ञासुरपि योगस्य शब्दब्रह्मातिवर्तते॥",
+      "transliteration": "Purva-Abhyasena Tena-Iva Hriyate Hy-Avasho'pi Sah.\nJijnasur-Api Yogasya Shabda-Brahma-Ativartate.",
+      "wordByWord": [
+        {
+          "word": "पूर्वाभ्यासेन",
+          "transliteration": "purva-abhyasena",
+          "meaning": "by previous practice"
+        },
+        {
+          "word": "तेन",
+          "transliteration": "tena",
+          "meaning": "by that"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "indeed"
+        },
+        {
+          "word": "ह्रियते",
+          "transliteration": "hriyate",
+          "meaning": "is drawn/attracted"
+        },
+        {
+          "word": "हि",
+          "transliteration": "hi",
+          "meaning": "certainly"
+        },
+        {
+          "word": "अवशः",
+          "transliteration": "avashah",
+          "meaning": "helplessly/involuntarily"
+        },
+        {
+          "word": "अपि",
+          "transliteration": "api",
+          "meaning": "even"
+        },
+        {
+          "word": "सः",
+          "transliteration": "sah",
+          "meaning": "he"
+        },
+        {
+          "word": "जिज्ञासुः",
+          "transliteration": "jijnasuh",
+          "meaning": "the inquirer"
+        },
+        {
+          "word": "अपि",
+          "transliteration": "api",
+          "meaning": "even"
+        },
+        {
+          "word": "योगस्य",
+          "transliteration": "yogasya",
+          "meaning": "of yoga"
+        },
+        {
+          "word": "शब्दब्रह्म",
+          "transliteration": "shabda-brahma",
+          "meaning": "the Vedic rituals"
+        },
+        {
+          "word": "अतिवर्तते",
+          "transliteration": "ativartate",
+          "meaning": "transcends"
+        }
+      ],
+      "hindiTranslation": "पूर्व जन्म के अभ्यास से वह अवश (बिना प्रयास) होकर भी खिंचा चला जाता है। योग का जिज्ञासु भी शब्दब्रह्म (वैदिक कर्मकाण्ड) से ऊपर उठ जाता है।",
+      "englishTranslation": "By the force of previous practice, one is irresistibly drawn toward yoga. Even a mere inquirer about yoga transcends the ritualistic Vedic practices.",
+      "commentary": "Krishna reveals the remarkable power of spiritual practice from past lives — it creates an irresistible pull (hriyate) that draws the person back to yoga even without conscious effort. Furthermore, even someone who merely inquires about yoga surpasses the level of ritualistic religious practices. This shows the extraordinary value of yoga — even a little interest in it places one beyond conventional religiosity.",
+      "slug": "verse-44"
+    },
+    {
+      "verseNumber": 45,
+      "speaker": "Krishna",
+      "devanagari": "प्रयत्नाद्यतमानस्तु योगी संशुद्धकिल्बिषः।\nअनेकजन्मसंसिद्धस्ततो याति परां गतिम्॥",
+      "transliteration": "Prayatnad-Yatamanah-Tu Yogi Samshuddha-Kilbishah.\nAneka-Janma-Samsiddhas-Tato Yati Param Gatim.",
+      "wordByWord": [
+        {
+          "word": "प्रयत्नात्",
+          "transliteration": "prayatnat",
+          "meaning": "with effort"
+        },
+        {
+          "word": "यतमानः",
+          "transliteration": "yatamanah",
+          "meaning": "striving"
+        },
+        {
+          "word": "तु",
+          "transliteration": "tu",
+          "meaning": "but"
+        },
+        {
+          "word": "योगी",
+          "transliteration": "yogi",
+          "meaning": "the yogi"
+        },
+        {
+          "word": "संशुद्धकिल्बिषः",
+          "transliteration": "samshuddha-kilbishah",
+          "meaning": "completely purified of sins"
+        },
+        {
+          "word": "अनेकजन्मसंसिद्धः",
+          "transliteration": "aneka-janma-samsiddhah",
+          "meaning": "perfected through many births"
+        },
+        {
+          "word": "ततः",
+          "transliteration": "tatah",
+          "meaning": "then"
+        },
+        {
+          "word": "याति",
+          "transliteration": "yati",
+          "meaning": "attains"
+        },
+        {
+          "word": "पराम्",
+          "transliteration": "param",
+          "meaning": "supreme"
+        },
+        {
+          "word": "गतिम्",
+          "transliteration": "gatim",
+          "meaning": "destination"
+        }
+      ],
+      "hindiTranslation": "परन्तु प्रयत्नपूर्वक अभ्यास करने वाला योगी, सम्पूर्ण पापों से शुद्ध होकर, अनेक जन्मों में सिद्ध होकर, परम गति (मोक्ष) को प्राप्त होता है।",
+      "englishTranslation": "But the yogi who strives with effort, purified of all sins, and perfected through many births, then attains the supreme destination.",
+      "commentary": "Krishna reveals that spiritual perfection may take many lifetimes of persistent effort, but it is ultimately assured. The yogi who continues to strive with sincerity, becoming progressively purified, eventually reaches the supreme destination. This teaching gives both patience and hope — perfection may not come in one lifetime, but the journey continues without loss across births until the final goal is reached.",
+      "slug": "verse-45"
+    },
+    {
+      "verseNumber": 46,
+      "speaker": "Krishna",
+      "devanagari": "तपस्विभ्योऽधिको योगी ज्ञानिभ्योऽपि मतोऽधिकः।\nकर्मिभ्यश्चाधिको योगी तस्माद्योगी भवार्जुन॥",
+      "transliteration": "Tapasvibhyo'dhiko Yogi Jnanibhyo'pi Mato'dhikah.\nKarmibhyash-Cha-Adhiko Yogi Tasmad-Yogi Bhava-Arjuna.",
+      "wordByWord": [
+        {
+          "word": "तपस्विभ्यः",
+          "transliteration": "tapasvibhyah",
+          "meaning": "than the ascetics"
+        },
+        {
+          "word": "अधिकः",
+          "transliteration": "adhikah",
+          "meaning": "greater"
+        },
+        {
+          "word": "योगी",
+          "transliteration": "yogi",
+          "meaning": "the yogi"
+        },
+        {
+          "word": "ज्ञानिभ्यः",
+          "transliteration": "jnanibhyah",
+          "meaning": "than the learned"
+        },
+        {
+          "word": "अपि",
+          "transliteration": "api",
+          "meaning": "also"
+        },
+        {
+          "word": "मतः",
+          "transliteration": "matah",
+          "meaning": "considered"
+        },
+        {
+          "word": "अधिकः",
+          "transliteration": "adhikah",
+          "meaning": "greater"
+        },
+        {
+          "word": "कर्मिभ्यः",
+          "transliteration": "karmibhyah",
+          "meaning": "than the ritualists"
+        },
+        {
+          "word": "च",
+          "transliteration": "cha",
+          "meaning": "and"
+        },
+        {
+          "word": "अधिकः",
+          "transliteration": "adhikah",
+          "meaning": "greater"
+        },
+        {
+          "word": "योगी",
+          "transliteration": "yogi",
+          "meaning": "the yogi"
+        },
+        {
+          "word": "तस्मात्",
+          "transliteration": "tasmat",
+          "meaning": "therefore"
+        },
+        {
+          "word": "योगी",
+          "transliteration": "yogi",
+          "meaning": "a yogi"
+        },
+        {
+          "word": "भव",
+          "transliteration": "bhava",
+          "meaning": "become"
+        },
+        {
+          "word": "अर्जुन",
+          "transliteration": "arjuna",
+          "meaning": "O Arjuna"
+        }
+      ],
+      "hindiTranslation": "योगी तपस्वियों से श्रेष्ठ है, ज्ञानियों से भी श्रेष्ठ माना गया है, और कर्मियों (कर्मकाण्डियों) से भी श्रेष्ठ है। इसलिए हे अर्जुन! तुम योगी बनो।",
+      "englishTranslation": "The yogi is greater than the ascetics, greater even than the scholars, and greater than the ritualists. Therefore, be a yogi, O Arjuna.",
+      "commentary": "Krishna establishes the supreme status of the yogi above three categories of spiritual practitioners: ascetics who practice penance, scholars who pursue knowledge, and ritualists who perform Vedic ceremonies. The yogi who combines inner communion with God, selfless action, and true knowledge surpasses all these. The chapter's penultimate instruction is direct and powerful: 'Tasmad yogi bhava Arjuna' — Therefore, become a yogi!",
+      "slug": "verse-46"
+    },
+    {
+      "verseNumber": 47,
+      "speaker": "Krishna",
+      "devanagari": "योगिनामपि सर्वेषां मद्गतेनान्तरात्मना।\nश्रद्धावान्भजते यो मां स मे युक्ततमो मतः॥",
+      "transliteration": "Yoginam-Api Sarvesham Mad-Gatena-Antar-Atmana.\nShraddha-Van Bhajate Yo Mam Sa Me Yuktatamo Matah.",
+      "wordByWord": [
+        {
+          "word": "योगिनाम्",
+          "transliteration": "yoginam",
+          "meaning": "of yogis"
+        },
+        {
+          "word": "अपि",
+          "transliteration": "api",
+          "meaning": "even"
+        },
+        {
+          "word": "सर्वेषाम्",
+          "transliteration": "sarvesham",
+          "meaning": "of all"
+        },
+        {
+          "word": "मद्गतेन",
+          "transliteration": "mad-gatena",
+          "meaning": "absorbed in Me"
+        },
+        {
+          "word": "अन्तरात्मना",
+          "transliteration": "antar-atmana",
+          "meaning": "with inner self"
+        },
+        {
+          "word": "श्रद्धावान्",
+          "transliteration": "shraddha-van",
+          "meaning": "with faith"
+        },
+        {
+          "word": "भजते",
+          "transliteration": "bhajate",
+          "meaning": "worships/serves"
+        },
+        {
+          "word": "यः",
+          "transliteration": "yah",
+          "meaning": "who"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        },
+        {
+          "word": "सः",
+          "transliteration": "sah",
+          "meaning": "he"
+        },
+        {
+          "word": "मे",
+          "transliteration": "me",
+          "meaning": "in My"
+        },
+        {
+          "word": "युक्ततमः",
+          "transliteration": "yukta-tamah",
+          "meaning": "most united/highest yogi"
+        },
+        {
+          "word": "मतः",
+          "transliteration": "matah",
+          "meaning": "is considered"
+        }
+      ],
+      "hindiTranslation": "सब योगियों में भी जो श्रद्धावान होकर अपने अन्तरात्मा को मुझमें लगाए हुए मुझे भजता है — वह मेरे मत में सबसे श्रेष्ठ योगी (युक्ततम) है।",
+      "englishTranslation": "And of all yogis, one who worships Me with faith, with the inner self absorbed in Me — that person is considered by Me to be the most united, the highest yogi.",
+      "commentary": "The chapter culminates with its most important declaration: among all yogis — ascetics, meditators, jnanis, and karma yogis — the highest is the devotee who worships Krishna with faith and whose inner being is absorbed in God. This verse elevates bhakti (devotion) to the supreme position, placing the personal relationship with God above all other spiritual practices. Faith (shraddha) and loving worship (bhajana) are declared the pinnacle of yoga.",
+      "slug": "verse-47"
+    }
+  ]
+}

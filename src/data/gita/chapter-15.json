@@ -1,0 +1,1371 @@
+{
+  "chapterNumber": 15,
+  "titleSanskrit": "पुरुषोत्तमयोगः",
+  "titleHindi": "पुरुषोत्तम योग",
+  "titleEnglish": "Purushottama Yoga - The Yoga of the Supreme Person",
+  "slug": "chapter-15",
+  "description": "Bhagavad Gita Chapter 15, Purushottama Yoga, is one of the most profound and concise chapters of the Gita, described by Krishna Himself as the most secret teaching. It opens with the powerful metaphor of the Ashvattha tree (sacred fig tree) with its roots above and branches below, representing the material world rooted in Brahman. Krishna instructs that this tree of worldly attachment must be cut down with the strong axe of detachment to reach the supreme abode from which there is no return. He reveals that the individual soul is His eternal fragment, and explains how God sustains all life as the digestive fire, the light of the sun, moon, and fire, and as the indweller of all hearts from whom come memory, knowledge, and forgetfulness. The chapter culminates with the revelation of three Purushas — the perishable, the imperishable, and the Supreme Person (Purushottama) — establishing Krishna as the Supreme Being who transcends both.",
+  "verseCount": 20,
+  "verses": [
+    {
+      "verseNumber": 1,
+      "speaker": "Krishna",
+      "devanagari": "श्रीभगवानुवाच —\nऊर्ध्वमूलमधःशाखमश्वत्थं प्राहुरव्ययम्।\nछन्दांसि यस्य पर्णानि यस्तं वेद स वेदवित्॥१॥",
+      "transliteration": "Shri Bhagavan Uvacha —\nUrdhva-Mulam Adhah-Shakham-Ashvattham Prahur-Avyayam.\nChhandamsi Yasya Parnani Yas-Tam Veda Sa Veda-Vit.",
+      "wordByWord": [
+        {
+          "word": "ऊर्ध्वमूलम्",
+          "transliteration": "urdhva-mulam",
+          "meaning": "with roots above"
+        },
+        {
+          "word": "अधःशाखम्",
+          "transliteration": "adhah-shakham",
+          "meaning": "with branches below"
+        },
+        {
+          "word": "अश्वत्थम्",
+          "transliteration": "ashvattham",
+          "meaning": "the sacred fig tree (Peepal)"
+        },
+        {
+          "word": "प्राहुः",
+          "transliteration": "prahuh",
+          "meaning": "they speak of"
+        },
+        {
+          "word": "अव्ययम्",
+          "transliteration": "avyayam",
+          "meaning": "imperishable"
+        },
+        {
+          "word": "छन्दांसि",
+          "transliteration": "chhandamsi",
+          "meaning": "the Vedic hymns"
+        },
+        {
+          "word": "यस्य",
+          "transliteration": "yasya",
+          "meaning": "whose"
+        },
+        {
+          "word": "पर्णानि",
+          "transliteration": "parnani",
+          "meaning": "leaves"
+        },
+        {
+          "word": "यः तम् वेद",
+          "transliteration": "yah tam veda",
+          "meaning": "who knows it"
+        },
+        {
+          "word": "सः वेदवित्",
+          "transliteration": "sah veda-vit",
+          "meaning": "he is the knower of the Vedas"
+        }
+      ],
+      "hindiTranslation": "श्रीभगवान ने कहा — जिसकी जड़ें ऊपर हैं और शाखाएँ नीचे हैं, ऐसे अविनाशी अश्वत्थ वृक्ष को कहते हैं। वेदमन्त्र इसके पत्ते हैं। जो इसे जानता है, वही वेदवेत्ता है।",
+      "englishTranslation": "The Blessed Lord said — They speak of an imperishable Ashvattha tree with its roots above and branches below, whose leaves are the Vedic hymns. He who knows it is the knower of the Vedas.",
+      "commentary": "Krishna opens with the famous metaphor of the inverted cosmic tree, found in the Katha Upanishad. The roots above represent Brahman, the ultimate source, while the branches below represent the manifest world. The Vedic hymns are compared to leaves that sustain this tree through ritual activity. True knowledge of the Vedas means understanding this entire cosmic structure, not mere bookish learning.",
+      "slug": "verse-1"
+    },
+    {
+      "verseNumber": 2,
+      "speaker": "Krishna",
+      "devanagari": "अधश्चोर्ध्वं प्रसृतास्तस्य शाखा\nगुणप्रवृद्धा विषयप्रवालाः।\nअधश्च मूलान्यनुसन्ततानि\nकर्मानुबन्धीनि मनुष्यलोके॥२॥",
+      "transliteration": "Adhash-Chordhvam Prasritas-Tasya Shakha\nGuna-Pravruddha Vishaya-Pravalah.\nAdhash-Cha Mulany-Anusantatani\nKarma-Anubandhini Manushya-Loke.",
+      "wordByWord": [
+        {
+          "word": "अधः",
+          "transliteration": "adhah",
+          "meaning": "downward"
+        },
+        {
+          "word": "ऊर्ध्वम्",
+          "transliteration": "urdhvam",
+          "meaning": "upward"
+        },
+        {
+          "word": "प्रसृताः",
+          "transliteration": "prasritah",
+          "meaning": "spread"
+        },
+        {
+          "word": "शाखाः",
+          "transliteration": "shakhah",
+          "meaning": "branches"
+        },
+        {
+          "word": "गुणप्रवृद्धाः",
+          "transliteration": "guna-pravruddhah",
+          "meaning": "nourished by the Gunas"
+        },
+        {
+          "word": "विषयप्रवालाः",
+          "transliteration": "vishaya-pravalah",
+          "meaning": "with sense objects as buds"
+        },
+        {
+          "word": "मूलानि",
+          "transliteration": "mulani",
+          "meaning": "roots"
+        },
+        {
+          "word": "अनुसन्ततानि",
+          "transliteration": "anusantatani",
+          "meaning": "spread/extended"
+        },
+        {
+          "word": "कर्मानुबन्धीनि",
+          "transliteration": "karma-anubandhini",
+          "meaning": "binding through action"
+        },
+        {
+          "word": "मनुष्यलोके",
+          "transliteration": "manushya-loke",
+          "meaning": "in the world of humans"
+        }
+      ],
+      "hindiTranslation": "इसकी शाखाएँ नीचे और ऊपर फैली हैं, गुणों से पोषित हैं, विषय इसके अंकुर हैं। नीचे मनुष्यलोक में कर्मबन्धन करने वाली जड़ें भी फैली हुई हैं।",
+      "englishTranslation": "Its branches spread below and above, nourished by the Gunas, with sense objects as its buds. Below, in the human world, its roots also extend, binding through action.",
+      "commentary": "The cosmic tree's branches extend both upward (to higher realms) and downward (to lower realms), nourished by the three Gunas. The sense objects are the tender buds that attract beings to worldly experience. The secondary roots extending downward in the human world represent the karmic bonds that keep beings trapped in the cycle of action and reaction.",
+      "slug": "verse-2"
+    },
+    {
+      "verseNumber": 3,
+      "speaker": "Krishna",
+      "devanagari": "न रूपमस्येह तथोपलभ्यते\nनान्तो न चादिर्न च सम्प्रतिष्ठा।\nअश्वत्थमेनं सुविरूढमूलम्\nअसङ्गशस्त्रेण दृढेन छित्त्वा॥३॥",
+      "transliteration": "Na Rupam-Asye-Ha Tatho-Palabdhyate\nNa-Anto Na Cha-Adir-Na Cha Sampratishtha.\nAshvattham-Enam Suvi-Rudha-Mulam\nAsanga-Shastrena Dridhena Chhittva.",
+      "wordByWord": [
+        {
+          "word": "न रूपम्",
+          "transliteration": "na rupam",
+          "meaning": "not the form"
+        },
+        {
+          "word": "अस्य",
+          "transliteration": "asya",
+          "meaning": "of this (tree)"
+        },
+        {
+          "word": "इह",
+          "transliteration": "iha",
+          "meaning": "here"
+        },
+        {
+          "word": "उपलभ्यते",
+          "transliteration": "upalabhyate",
+          "meaning": "is perceived"
+        },
+        {
+          "word": "न अन्तः",
+          "transliteration": "na antah",
+          "meaning": "no end"
+        },
+        {
+          "word": "न आदिः",
+          "transliteration": "na adih",
+          "meaning": "no beginning"
+        },
+        {
+          "word": "न सम्प्रतिष्ठा",
+          "transliteration": "na sampratishtha",
+          "meaning": "no foundation"
+        },
+        {
+          "word": "अश्वत्थम्",
+          "transliteration": "ashvattham",
+          "meaning": "this Ashvattha tree"
+        },
+        {
+          "word": "सुविरूढमूलम्",
+          "transliteration": "suvi-rudha-mulam",
+          "meaning": "with deep-grown roots"
+        },
+        {
+          "word": "असङ्गशस्त्रेण",
+          "transliteration": "asanga-shastrena",
+          "meaning": "with the weapon of non-attachment"
+        },
+        {
+          "word": "दृढेन",
+          "transliteration": "dridhena",
+          "meaning": "strong/firm"
+        },
+        {
+          "word": "छित्त्वा",
+          "transliteration": "chhittva",
+          "meaning": "having cut"
+        }
+      ],
+      "hindiTranslation": "इस वृक्ष का स्वरूप यहाँ वैसा नहीं पाया जाता — न इसका अन्त है, न आदि, न आधार। इस गहरी जड़ों वाले अश्वत्थ को दृढ़ वैराग्य रूपी शस्त्र से काटकर —",
+      "englishTranslation": "The form of this tree is not perceived here as such — neither its end, nor its beginning, nor its foundation. Having cut this deep-rooted Ashvattha tree with the strong axe of non-attachment —",
+      "commentary": "The cosmic tree of worldly existence cannot be fully grasped by the intellect — it has no discernible beginning, end, or fixed foundation. Yet Krishna prescribes the remedy: the firm weapon of non-attachment (Vairagya). Only complete dispassion toward worldly pleasures can sever the deeply rooted bonds of material existence. This verse continues into the next.",
+      "slug": "verse-3"
+    },
+    {
+      "verseNumber": 4,
+      "speaker": "Krishna",
+      "devanagari": "ततः पदं तत्परिमार्गितव्यं\nयस्मिन्गता न निवर्तन्ति भूयः।\nतमेव चाद्यं पुरुषं प्रपद्ये\nयतः प्रवृत्तिः प्रसृता पुराणी॥४॥",
+      "transliteration": "Tatah Padam Tat-Parimargitavyam\nYasmin Gata Na Nivartanti Bhuyah.\nTam-Eva Cha-Adyam Purusham Prapadye\nYatah Pravrittih Prasrita Purani.",
+      "wordByWord": [
+        {
+          "word": "ततः",
+          "transliteration": "tatah",
+          "meaning": "then"
+        },
+        {
+          "word": "पदम्",
+          "transliteration": "padam",
+          "meaning": "that abode"
+        },
+        {
+          "word": "तत्",
+          "transliteration": "tat",
+          "meaning": "that"
+        },
+        {
+          "word": "परिमार्गितव्यम्",
+          "transliteration": "parimargitavyam",
+          "meaning": "should be sought"
+        },
+        {
+          "word": "यस्मिन्",
+          "transliteration": "yasmin",
+          "meaning": "in which"
+        },
+        {
+          "word": "गताः",
+          "transliteration": "gatah",
+          "meaning": "having gone"
+        },
+        {
+          "word": "न निवर्तन्ति",
+          "transliteration": "na nivartanti",
+          "meaning": "do not return"
+        },
+        {
+          "word": "भूयः",
+          "transliteration": "bhuyah",
+          "meaning": "again"
+        },
+        {
+          "word": "तम् एव",
+          "transliteration": "tam eva",
+          "meaning": "to Him alone"
+        },
+        {
+          "word": "आद्यम्",
+          "transliteration": "adyam",
+          "meaning": "the primeval"
+        },
+        {
+          "word": "पुरुषम्",
+          "transliteration": "purusham",
+          "meaning": "Person"
+        },
+        {
+          "word": "प्रपद्ये",
+          "transliteration": "prapadye",
+          "meaning": "I take refuge"
+        }
+      ],
+      "hindiTranslation": "— उसके बाद उस परम पद की खोज करनी चाहिए, जहाँ जाकर लोग लौटते नहीं। 'मैं उसी आदि पुरुष की शरण में हूँ जिससे यह प्राचीन प्रवृत्ति प्रसारित हुई है' — ऐसा निश्चय करो।",
+      "englishTranslation": "Then that abode must be sought, reaching which one does not return again — 'I take refuge in that primeval Person from whom this ancient activity has streamed forth.'",
+      "commentary": "After cutting the tree of worldly attachment, one must seek the supreme abode from which there is no return. The method is surrender to the primeval Person — God Himself — from whom the entire creation has emanated since beginningless time. This verse combines Jnana (discrimination) with Bhakti (surrender) as the complete path to liberation.",
+      "slug": "verse-4"
+    },
+    {
+      "verseNumber": 5,
+      "speaker": "Krishna",
+      "devanagari": "निर्मानमोहा जितसङ्गदोषा\nअध्यात्मनित्या विनिवृत्तकामाः।\nद्वन्द्वैर्विमुक्ताः सुखदुःखसंज्ञैर्\nगच्छन्त्यमूढाः पदमव्ययं तत्॥५॥",
+      "transliteration": "Nir-Mana-Moha Jita-Sanga-Dosha\nAdhyatma-Nitya Vinivrtta-Kamah.\nDvandvair-Vimuktah Sukha-Duhkha-Samjnair\nGachchhanty-Amudhah Padam-Avyayam Tat.",
+      "wordByWord": [
+        {
+          "word": "निर्मानमोहाः",
+          "transliteration": "nir-mana-mohah",
+          "meaning": "free from pride and delusion"
+        },
+        {
+          "word": "जितसङ्गदोषाः",
+          "transliteration": "jita-sanga-doshah",
+          "meaning": "having conquered the evil of attachment"
+        },
+        {
+          "word": "अध्यात्मनित्याः",
+          "transliteration": "adhyatma-nityah",
+          "meaning": "ever devoted to the Self"
+        },
+        {
+          "word": "विनिवृत्तकामाः",
+          "transliteration": "vinivrtta-kamah",
+          "meaning": "with desires completely turned away"
+        },
+        {
+          "word": "द्वन्द्वैः",
+          "transliteration": "dvandvaih",
+          "meaning": "from the pairs of opposites"
+        },
+        {
+          "word": "विमुक्ताः",
+          "transliteration": "vimuktah",
+          "meaning": "liberated"
+        },
+        {
+          "word": "सुखदुःखसंज्ञैः",
+          "transliteration": "sukha-duhkha-samjnaih",
+          "meaning": "known as pleasure and pain"
+        },
+        {
+          "word": "अमूढाः",
+          "transliteration": "amudhah",
+          "meaning": "the undeluded"
+        },
+        {
+          "word": "पदम् अव्ययम्",
+          "transliteration": "padam avyayam",
+          "meaning": "the imperishable abode"
+        }
+      ],
+      "hindiTranslation": "जो मान और मोह से मुक्त हैं, आसक्ति-दोष जीत चुके हैं, अध्यात्म में नित्य स्थित हैं, कामनाएँ शान्त हो गई हैं, सुख-दुःख नामक द्वन्द्वों से मुक्त हैं — ऐसे अमूढ़ जन उस अव्यय पद को प्राप्त होते हैं।",
+      "englishTranslation": "Free from pride and delusion, having conquered the evil of attachment, ever devoted to the Self, with desires completely stilled, liberated from the pairs of opposites known as pleasure and pain — the undeluded reach that imperishable abode.",
+      "commentary": "Krishna describes the qualifications of those who attain the supreme abode. They are free from false pride and delusion, have overcome the tendency to become attached, remain constantly absorbed in Self-knowledge, have no desires for sense enjoyment, and are unaffected by the dualities of life. These are practical milestones on the spiritual journey.",
+      "slug": "verse-5"
+    },
+    {
+      "verseNumber": 6,
+      "speaker": "Krishna",
+      "devanagari": "न तद्भासयते सूर्यो न शशाङ्को न पावकः।\nयद्गत्वा न निवर्तन्ते तद्धाम परमं मम॥६॥",
+      "transliteration": "Na Tad-Bhasayate Suryo Na Shashanko Na Pavakah.\nYad-Gatva Na Nivartante Tad-Dhama Paramam Mama.",
+      "wordByWord": [
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "तत्",
+          "transliteration": "tat",
+          "meaning": "that"
+        },
+        {
+          "word": "भासयते",
+          "transliteration": "bhasayate",
+          "meaning": "illuminates"
+        },
+        {
+          "word": "सूर्यः",
+          "transliteration": "suryah",
+          "meaning": "the sun"
+        },
+        {
+          "word": "शशाङ्कः",
+          "transliteration": "shashankah",
+          "meaning": "the moon"
+        },
+        {
+          "word": "पावकः",
+          "transliteration": "pavakah",
+          "meaning": "fire"
+        },
+        {
+          "word": "यत् गत्वा",
+          "transliteration": "yad gatva",
+          "meaning": "going where"
+        },
+        {
+          "word": "न निवर्तन्ते",
+          "transliteration": "na nivartante",
+          "meaning": "they do not return"
+        },
+        {
+          "word": "तत् धाम",
+          "transliteration": "tat dhama",
+          "meaning": "that abode"
+        },
+        {
+          "word": "परमम्",
+          "transliteration": "paramam",
+          "meaning": "supreme"
+        },
+        {
+          "word": "मम",
+          "transliteration": "mama",
+          "meaning": "My"
+        }
+      ],
+      "hindiTranslation": "उस परम धाम को न सूर्य प्रकाशित करता है, न चन्द्रमा, न अग्नि। जहाँ जाकर लोग लौटते नहीं — वह मेरा परम धाम है।",
+      "englishTranslation": "Neither the sun illuminates that, nor the moon, nor fire. Having gone there, they do not return — that is My supreme abode.",
+      "commentary": "This celebrated verse, echoing the Katha and Mundaka Upanishads, describes the transcendent nature of God's supreme abode. It is self-luminous, beyond the reach of any physical light source. The sun, moon, and fire — which illuminate the entire material world — cannot reach that realm. It is the realm of pure consciousness where the liberated soul finds eternal rest.",
+      "slug": "verse-6"
+    },
+    {
+      "verseNumber": 7,
+      "speaker": "Krishna",
+      "devanagari": "ममैवांशो जीवलोके जीवभूतः सनातनः।\nमनःषष्ठानीन्द्रियाणि प्रकृतिस्थानि कर्षति॥७॥",
+      "transliteration": "Mama-Eva-Amsho Jiva-Loke Jiva-Bhutah Sanatanah.\nManah-Shashtani-Indriyani Prakriti-Sthani Karshati.",
+      "wordByWord": [
+        {
+          "word": "मम",
+          "transliteration": "mama",
+          "meaning": "My"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "indeed"
+        },
+        {
+          "word": "अंशः",
+          "transliteration": "amshah",
+          "meaning": "fragment/part"
+        },
+        {
+          "word": "जीवलोके",
+          "transliteration": "jiva-loke",
+          "meaning": "in the world of living beings"
+        },
+        {
+          "word": "जीवभूतः",
+          "transliteration": "jiva-bhutah",
+          "meaning": "becoming the living entity"
+        },
+        {
+          "word": "सनातनः",
+          "transliteration": "sanatanah",
+          "meaning": "eternal"
+        },
+        {
+          "word": "मनःषष्ठानि",
+          "transliteration": "manah-shashthani",
+          "meaning": "with the mind as the sixth"
+        },
+        {
+          "word": "इन्द्रियाणि",
+          "transliteration": "indriyani",
+          "meaning": "the senses"
+        },
+        {
+          "word": "प्रकृतिस्थानि",
+          "transliteration": "prakriti-sthani",
+          "meaning": "situated in Prakriti"
+        },
+        {
+          "word": "कर्षति",
+          "transliteration": "karshati",
+          "meaning": "struggles with/attracts"
+        }
+      ],
+      "hindiTranslation": "इस जीवलोक में जीवभूत बना मेरा ही सनातन अंश प्रकृति में स्थित मन सहित छह इन्द्रियों को आकर्षित करता है (अर्थात् उनसे संघर्ष करता है)।",
+      "englishTranslation": "An eternal fragment of Myself, becoming the living entity in the world of life, attracts (struggles with) the senses, with the mind as the sixth, which rest in Prakriti.",
+      "commentary": "This is one of the most significant verses in the Gita, establishing the relationship between the individual soul and God. The soul is an eternal fragment (amsha) of Krishna — not a created entity but an everlasting part of the Divine. In the material world, this eternal soul struggles with the mind and five senses, which are products of Prakriti. Understanding one's divine origin is key to liberation.",
+      "slug": "verse-7"
+    },
+    {
+      "verseNumber": 8,
+      "speaker": "Krishna",
+      "devanagari": "शरीरं यदवाप्नोति यच्चाप्युत्क्रामतीश्वरः।\nगृहीत्वैतानि संयाति वायुर्गन्धानिवाशयात्॥८॥",
+      "transliteration": "Shariram Yad-Avapnoti Yach-Chapy-Utkramati-Ishvarah.\nGrihitva-Etani Samyati Vayur-Gandhan-Iva-Ashayat.",
+      "wordByWord": [
+        {
+          "word": "शरीरम्",
+          "transliteration": "shariram",
+          "meaning": "body"
+        },
+        {
+          "word": "यत्",
+          "transliteration": "yat",
+          "meaning": "which"
+        },
+        {
+          "word": "अवाप्नोति",
+          "transliteration": "avapnoti",
+          "meaning": "obtains"
+        },
+        {
+          "word": "यत्",
+          "transliteration": "yat",
+          "meaning": "which"
+        },
+        {
+          "word": "उत्क्रामति",
+          "transliteration": "utkramati",
+          "meaning": "leaves"
+        },
+        {
+          "word": "ईश्वरः",
+          "transliteration": "ishvarah",
+          "meaning": "the lord (of the body, the soul)"
+        },
+        {
+          "word": "गृहीत्वा",
+          "transliteration": "grihitva",
+          "meaning": "taking"
+        },
+        {
+          "word": "एतानि",
+          "transliteration": "etani",
+          "meaning": "these"
+        },
+        {
+          "word": "संयाति",
+          "transliteration": "samyati",
+          "meaning": "goes"
+        },
+        {
+          "word": "वायुः",
+          "transliteration": "vayuh",
+          "meaning": "the wind"
+        },
+        {
+          "word": "गन्धान्",
+          "transliteration": "gandhan",
+          "meaning": "fragrances"
+        },
+        {
+          "word": "आशयात्",
+          "transliteration": "ashayat",
+          "meaning": "from their source"
+        }
+      ],
+      "hindiTranslation": "जब यह ईश्वर (जीवात्मा) एक शरीर को छोड़ता है और दूसरा प्राप्त करता है, तब इन (मन और इन्द्रियों) को साथ ले जाता है — जैसे वायु गन्ध को उसके स्थान से ले जाती है।",
+      "englishTranslation": "When the lord of the body (the soul) obtains a body and when it leaves, it takes these (mind and senses) and goes, as the wind carries fragrances from their source.",
+      "commentary": "The soul is compared to the wind that carries fragrances from flowers. Just as the wind is invisible yet carries scent from one place to another, the subtle body (mind and senses) accompanies the soul from one physical body to the next. This beautiful analogy explains the mechanism of transmigration — the soul does not travel alone but carries its mental impressions.",
+      "slug": "verse-8"
+    },
+    {
+      "verseNumber": 9,
+      "speaker": "Krishna",
+      "devanagari": "श्रोत्रं चक्षुः स्पर्शनं च रसनं घ्राणमेव च।\nअधिष्ठाय मनश्चायं विषयानुपसेवते॥९॥",
+      "transliteration": "Shrotram Chakshuh Sparshanam Cha Rasanam Ghranam-Eva Cha.\nAdhishthaya Manash-Cha-Ayam Vishayan-Upasevate.",
+      "wordByWord": [
+        {
+          "word": "श्रोत्रम्",
+          "transliteration": "shrotram",
+          "meaning": "ear/hearing"
+        },
+        {
+          "word": "चक्षुः",
+          "transliteration": "chakshuh",
+          "meaning": "eye/sight"
+        },
+        {
+          "word": "स्पर्शनम्",
+          "transliteration": "sparshanam",
+          "meaning": "touch"
+        },
+        {
+          "word": "रसनम्",
+          "transliteration": "rasanam",
+          "meaning": "tongue/taste"
+        },
+        {
+          "word": "घ्राणम्",
+          "transliteration": "ghranam",
+          "meaning": "nose/smell"
+        },
+        {
+          "word": "अधिष्ठाय",
+          "transliteration": "adhishthaya",
+          "meaning": "presiding over"
+        },
+        {
+          "word": "मनः",
+          "transliteration": "manah",
+          "meaning": "the mind"
+        },
+        {
+          "word": "अयम्",
+          "transliteration": "ayam",
+          "meaning": "this (soul)"
+        },
+        {
+          "word": "विषयान्",
+          "transliteration": "vishayan",
+          "meaning": "sense objects"
+        },
+        {
+          "word": "उपसेवते",
+          "transliteration": "upasevate",
+          "meaning": "enjoys/experiences"
+        }
+      ],
+      "hindiTranslation": "यह जीवात्मा श्रोत्र (कान), चक्षु (आँख), त्वचा, रसना (जीभ), घ्राण (नाक) और मन — इनका आश्रय लेकर विषयों का उपभोग करता है।",
+      "englishTranslation": "Presiding over the ear, eyes, touch, taste, smell, and the mind, the soul enjoys the objects of the senses.",
+      "commentary": "The soul experiences the material world through the five sense organs and the mind. Each sense has its corresponding object — sound, form, touch, taste, and smell. The mind coordinates and processes all sensory input. The soul, though transcendental, uses these instruments to interact with the material world, just as a person uses tools to perform work.",
+      "slug": "verse-9"
+    },
+    {
+      "verseNumber": 10,
+      "speaker": "Krishna",
+      "devanagari": "उत्क्रामन्तं स्थितं वापि भुञ्जानं वा गुणान्वितम्।\nविमूढा नानुपश्यन्ति पश्यन्ति ज्ञानचक्षुषः॥१०॥",
+      "transliteration": "Utkramantam Sthitam Vapi Bhunjanam Va Gunanvitam.\nVimudha Na-Anupashyanti Pashyanti Jnana-Chakshsushah.",
+      "wordByWord": [
+        {
+          "word": "उत्क्रामन्तम्",
+          "transliteration": "utkramantam",
+          "meaning": "departing (from the body)"
+        },
+        {
+          "word": "स्थितम्",
+          "transliteration": "sthitam",
+          "meaning": "staying"
+        },
+        {
+          "word": "वा अपि",
+          "transliteration": "va api",
+          "meaning": "or even"
+        },
+        {
+          "word": "भुञ्जानम्",
+          "transliteration": "bhunjanam",
+          "meaning": "enjoying"
+        },
+        {
+          "word": "गुणान्वितम्",
+          "transliteration": "gunanvitam",
+          "meaning": "endowed with the Gunas"
+        },
+        {
+          "word": "विमूढाः",
+          "transliteration": "vimudhah",
+          "meaning": "the deluded"
+        },
+        {
+          "word": "न अनुपश्यन्ति",
+          "transliteration": "na anupashyanti",
+          "meaning": "do not perceive"
+        },
+        {
+          "word": "पश्यन्ति",
+          "transliteration": "pashyanti",
+          "meaning": "perceive"
+        },
+        {
+          "word": "ज्ञानचक्षुषः",
+          "transliteration": "jnana-chakshsushah",
+          "meaning": "those with the eye of knowledge"
+        }
+      ],
+      "hindiTranslation": "शरीर छोड़ते हुए, शरीर में रहते हुए, या गुणों सहित भोग करते हुए — इस आत्मा को मूढ़ लोग नहीं देखते; ज्ञान-नेत्रवाले ही देखते हैं।",
+      "englishTranslation": "The deluded do not perceive the soul departing from the body, staying in it, or experiencing through the Gunas. But those with the eye of knowledge see it.",
+      "commentary": "Despite the soul's constant presence — whether residing in the body, enjoying sense experiences, or leaving at death — the spiritually ignorant cannot perceive it. Only those who have developed the inner eye of knowledge (Jnana Chakshu) through meditation and discrimination can directly perceive the soul. This verse distinguishes between ordinary physical vision and spiritual insight.",
+      "slug": "verse-10"
+    },
+    {
+      "verseNumber": 11,
+      "speaker": "Krishna",
+      "devanagari": "यतन्तो योगिनश्चैनं पश्यन्त्यात्मन्यवस्थितम्।\nयतन्तोऽप्यकृतात्मानो नैनं पश्यन्त्यचेतसः॥११॥",
+      "transliteration": "Yatanto Yoginash-Cha-Enam Pashyanty-Atmany-Avasthitam.\nYatanto'py-Akrita-Atmano Na-Enam Pashyanty-Achetasah.",
+      "wordByWord": [
+        {
+          "word": "यतन्तः",
+          "transliteration": "yatantah",
+          "meaning": "striving"
+        },
+        {
+          "word": "योगिनः",
+          "transliteration": "yoginah",
+          "meaning": "the yogis"
+        },
+        {
+          "word": "एनम्",
+          "transliteration": "enam",
+          "meaning": "this (Self)"
+        },
+        {
+          "word": "पश्यन्ति",
+          "transliteration": "pashyanti",
+          "meaning": "see"
+        },
+        {
+          "word": "आत्मनि",
+          "transliteration": "atmani",
+          "meaning": "in the Self"
+        },
+        {
+          "word": "अवस्थितम्",
+          "transliteration": "avasthitam",
+          "meaning": "established"
+        },
+        {
+          "word": "यतन्तः अपि",
+          "transliteration": "yatantah api",
+          "meaning": "even striving"
+        },
+        {
+          "word": "अकृतात्मानः",
+          "transliteration": "akrita-atmanah",
+          "meaning": "those whose minds are not purified"
+        },
+        {
+          "word": "न पश्यन्ति",
+          "transliteration": "na pashyanti",
+          "meaning": "do not see"
+        },
+        {
+          "word": "अचेतसः",
+          "transliteration": "achetasah",
+          "meaning": "the unintelligent"
+        }
+      ],
+      "hindiTranslation": "प्रयत्नशील योगीजन इस आत्मा को अपने भीतर स्थित देखते हैं। परन्तु जिनका अन्तःकरण शुद्ध नहीं है, ऐसे अचेत लोग प्रयत्न करते हुए भी इसे नहीं देख पाते।",
+      "englishTranslation": "Striving yogis perceive this Self established within themselves. But those whose minds are not purified, though striving, do not perceive it, being unintelligent.",
+      "commentary": "Self-realization requires both effort and inner purity. Dedicated yogis who have purified their minds through discipline can perceive the Self within. However, those who lack inner purification cannot see it even with great effort, because a clouded mind cannot reflect the light of the Self. This emphasizes the importance of ethical living and mental purification as prerequisites for spiritual vision.",
+      "slug": "verse-11"
+    },
+    {
+      "verseNumber": 12,
+      "speaker": "Krishna",
+      "devanagari": "यदादित्यगतं तेजो जगद्भासयतेऽखिलम्।\nयच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम्॥१२॥",
+      "transliteration": "Yad-Aditya-Gatam Tejo Jagad-Bhasayate'khilam.\nYach-Chandramasi Yach-Cha-Agnau Tat-Tejo Viddhi Mamakam.",
+      "wordByWord": [
+        {
+          "word": "यत्",
+          "transliteration": "yat",
+          "meaning": "which"
+        },
+        {
+          "word": "आदित्यगतम्",
+          "transliteration": "aditya-gatam",
+          "meaning": "residing in the sun"
+        },
+        {
+          "word": "तेजः",
+          "transliteration": "tejah",
+          "meaning": "splendor/light"
+        },
+        {
+          "word": "जगत्",
+          "transliteration": "jagat",
+          "meaning": "the world"
+        },
+        {
+          "word": "भासयते",
+          "transliteration": "bhasayate",
+          "meaning": "illuminates"
+        },
+        {
+          "word": "अखिलम्",
+          "transliteration": "akhilam",
+          "meaning": "entire"
+        },
+        {
+          "word": "चन्द्रमसि",
+          "transliteration": "chandramasi",
+          "meaning": "in the moon"
+        },
+        {
+          "word": "अग्नौ",
+          "transliteration": "agnau",
+          "meaning": "in fire"
+        },
+        {
+          "word": "तत् तेजः",
+          "transliteration": "tat tejah",
+          "meaning": "that light"
+        },
+        {
+          "word": "विद्धि",
+          "transliteration": "viddhi",
+          "meaning": "know"
+        },
+        {
+          "word": "मामकम्",
+          "transliteration": "mamakam",
+          "meaning": "Mine"
+        }
+      ],
+      "hindiTranslation": "सूर्य में स्थित जो तेज समस्त जगत को प्रकाशित करता है, जो तेज चन्द्रमा में है और जो अग्नि में है — उसे मेरा तेज जानो।",
+      "englishTranslation": "The light residing in the sun that illuminates the entire world, and that which is in the moon and in fire — know that light to be Mine.",
+      "commentary": "Krishna reveals Himself as the source of all light in the universe. The radiance of the sun that sustains all life, the gentle glow of the moon, and the warmth of fire — all are manifestations of His divine energy. This teaching helps the seeker see God's presence in the most fundamental forces of nature, transforming ordinary perception into a constant awareness of the Divine.",
+      "slug": "verse-12"
+    },
+    {
+      "verseNumber": 13,
+      "speaker": "Krishna",
+      "devanagari": "गामाविश्य च भूतानि धारयाम्यहमोजसा।\nपुष्णामि चौषधीः सर्वाः सोमो भूत्वा रसात्मकः॥१३॥",
+      "transliteration": "Gam-Avishya Cha Bhutani Dharayamy-Aham-Ojasa.\nPushnami Cha-Aushadhih Sarvah Somo Bhutva Rasa-Atmakah.",
+      "wordByWord": [
+        {
+          "word": "गाम्",
+          "transliteration": "gam",
+          "meaning": "the earth"
+        },
+        {
+          "word": "आविश्य",
+          "transliteration": "avishya",
+          "meaning": "entering"
+        },
+        {
+          "word": "भूतानि",
+          "transliteration": "bhutani",
+          "meaning": "all beings"
+        },
+        {
+          "word": "धारयामि",
+          "transliteration": "dharayami",
+          "meaning": "I sustain"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I"
+        },
+        {
+          "word": "ओजसा",
+          "transliteration": "ojasa",
+          "meaning": "with energy/vitality"
+        },
+        {
+          "word": "पुष्णामि",
+          "transliteration": "pushnami",
+          "meaning": "I nourish"
+        },
+        {
+          "word": "औषधीः",
+          "transliteration": "aushadhih",
+          "meaning": "the herbs/plants"
+        },
+        {
+          "word": "सर्वाः",
+          "transliteration": "sarvah",
+          "meaning": "all"
+        },
+        {
+          "word": "सोमः",
+          "transliteration": "somah",
+          "meaning": "the moon"
+        },
+        {
+          "word": "भूत्वा",
+          "transliteration": "bhutva",
+          "meaning": "becoming"
+        },
+        {
+          "word": "रसात्मकः",
+          "transliteration": "rasa-atmakah",
+          "meaning": "consisting of sap/essence"
+        }
+      ],
+      "hindiTranslation": "मैं पृथ्वी में प्रवेश करके अपनी शक्ति से सब भूतों को धारण करता हूँ, और रसस्वरूप सोम (चन्द्रमा) होकर सब औषधियों (वनस्पतियों) को पुष्ट करता हूँ।",
+      "englishTranslation": "Entering the earth, I sustain all beings with My energy. Becoming the sap-giving moon (Soma), I nourish all plants.",
+      "commentary": "Krishna describes His sustaining role in nature through two functions. First, He enters the earth and sustains all living beings through His vital energy — this explains the gravitational and life-supporting force of the earth. Second, as the moon (Soma), He provides the nourishing sap that makes plants grow. This reveals the divine intelligence operating behind natural processes that we take for granted.",
+      "slug": "verse-13"
+    },
+    {
+      "verseNumber": 14,
+      "speaker": "Krishna",
+      "devanagari": "अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः।\nप्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम्॥१४॥",
+      "transliteration": "Aham Vaishvanaro Bhutva Praninam Deham-Ashritah.\nPrana-Apana-Samayuktah Pachamy-Annam Chatur-Vidham.",
+      "wordByWord": [
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I"
+        },
+        {
+          "word": "वैश्वानरः",
+          "transliteration": "vaishvanarah",
+          "meaning": "the digestive fire"
+        },
+        {
+          "word": "भूत्वा",
+          "transliteration": "bhutva",
+          "meaning": "becoming"
+        },
+        {
+          "word": "प्राणिनाम्",
+          "transliteration": "praninam",
+          "meaning": "of living beings"
+        },
+        {
+          "word": "देहम्",
+          "transliteration": "deham",
+          "meaning": "the body"
+        },
+        {
+          "word": "आश्रितः",
+          "transliteration": "ashritah",
+          "meaning": "dwelling in"
+        },
+        {
+          "word": "प्राणापानसमायुक्तः",
+          "transliteration": "prana-apana-samayuktah",
+          "meaning": "united with Prana and Apana"
+        },
+        {
+          "word": "पचामि",
+          "transliteration": "pachami",
+          "meaning": "I digest"
+        },
+        {
+          "word": "अन्नम्",
+          "transliteration": "annam",
+          "meaning": "food"
+        },
+        {
+          "word": "चतुर्विधम्",
+          "transliteration": "chatur-vidham",
+          "meaning": "of four kinds"
+        }
+      ],
+      "hindiTranslation": "मैं वैश्वानर अग्नि रूप में प्राणियों के शरीर में स्थित होकर, प्राण और अपान वायु से युक्त होकर चार प्रकार के अन्न को पचाता हूँ।",
+      "englishTranslation": "Becoming the digestive fire (Vaishvanara), I dwell in the body of all living beings, and united with the Prana and Apana breaths, I digest the four kinds of food.",
+      "commentary": "Krishna is present as the digestive fire in every living body. The four types of food are those that are chewed, swallowed, licked, and sucked. The Prana (outgoing breath) and Apana (incoming breath) assist in digestion. This verse reminds us that even the most basic biological function — digestion — is powered by divine energy. It invites us to see God's presence in the everyday act of eating.",
+      "slug": "verse-14"
+    },
+    {
+      "verseNumber": 15,
+      "speaker": "Krishna",
+      "devanagari": "सर्वस्य चाहं हृदि सन्निविष्टो\nमत्तः स्मृतिर्ज्ञानमपोहनं च।\nवेदैश्च सर्वैरहमेव वेद्यो\nवेदान्तकृद्वेदविदेव चाहम्॥१५॥",
+      "transliteration": "Sarvasya Cha-Aham Hridi Sannivishtho\nMattah Smritir-Jnanam-Apohanam Cha.\nVedaish-Cha Sarvair-Aham-Eva Vedyo\nVedanta-Krid-Veda-Vid-Eva Cha-Aham.",
+      "wordByWord": [
+        {
+          "word": "सर्वस्य",
+          "transliteration": "sarvasya",
+          "meaning": "of all"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I"
+        },
+        {
+          "word": "हृदि",
+          "transliteration": "hridi",
+          "meaning": "in the heart"
+        },
+        {
+          "word": "सन्निविष्टः",
+          "transliteration": "sannivishtah",
+          "meaning": "am seated"
+        },
+        {
+          "word": "मत्तः",
+          "transliteration": "mattah",
+          "meaning": "from Me"
+        },
+        {
+          "word": "स्मृतिः",
+          "transliteration": "smritih",
+          "meaning": "memory"
+        },
+        {
+          "word": "ज्ञानम्",
+          "transliteration": "jnanam",
+          "meaning": "knowledge"
+        },
+        {
+          "word": "अपोहनम्",
+          "transliteration": "apohanam",
+          "meaning": "forgetfulness"
+        },
+        {
+          "word": "वेदैः",
+          "transliteration": "vedaih",
+          "meaning": "by all the Vedas"
+        },
+        {
+          "word": "सर्वैः",
+          "transliteration": "sarvaih",
+          "meaning": "all"
+        },
+        {
+          "word": "अहम् एव",
+          "transliteration": "aham eva",
+          "meaning": "I alone"
+        },
+        {
+          "word": "वेद्यः",
+          "transliteration": "vedyah",
+          "meaning": "am to be known"
+        },
+        {
+          "word": "वेदान्तकृत्",
+          "transliteration": "vedanta-krit",
+          "meaning": "the author of Vedanta"
+        },
+        {
+          "word": "वेदवित्",
+          "transliteration": "veda-vit",
+          "meaning": "the knower of the Vedas"
+        }
+      ],
+      "hindiTranslation": "मैं सबके हृदय में स्थित हूँ। मुझसे ही स्मृति, ज्ञान और अपोहन (विस्मरण) होता है। सब वेदों द्वारा मैं ही जानने योग्य हूँ। मैं ही वेदान्त का कर्ता और वेदों का ज्ञाता हूँ।",
+      "englishTranslation": "I am seated in the hearts of all. From Me come memory, knowledge, and their removal. I alone am to be known by all the Vedas. I am the author of Vedanta and the knower of the Vedas.",
+      "commentary": "This is one of the most important and frequently quoted verses of the Gita. Krishna reveals His presence in every heart as the inner controller (Antaryamin). Memory, knowledge, and even forgetfulness are controlled by Him. All Vedic scriptures ultimately point to Him as the Supreme Truth. As the author of Vedanta (the end/essence of the Vedas) and the knower of their true meaning, Krishna is both the source and goal of all scriptural knowledge.",
+      "slug": "verse-15"
+    },
+    {
+      "verseNumber": 16,
+      "speaker": "Krishna",
+      "devanagari": "द्वाविमौ पुरुषौ लोके क्षरश्चाक्षर एव च।\nक्षरः सर्वाणि भूतानि कूटस्थोऽक्षर उच्यते॥१६॥",
+      "transliteration": "Dvav-Imau Purushau Loke Ksharash-Cha-Akshara Eva Cha.\nKsharah Sarvani Bhutani Kutastho'kshara Uchyate.",
+      "wordByWord": [
+        {
+          "word": "द्वौ",
+          "transliteration": "dvau",
+          "meaning": "two"
+        },
+        {
+          "word": "इमौ",
+          "transliteration": "imau",
+          "meaning": "these"
+        },
+        {
+          "word": "पुरुषौ",
+          "transliteration": "purushau",
+          "meaning": "beings/persons"
+        },
+        {
+          "word": "लोके",
+          "transliteration": "loke",
+          "meaning": "in the world"
+        },
+        {
+          "word": "क्षरः",
+          "transliteration": "ksharah",
+          "meaning": "the perishable"
+        },
+        {
+          "word": "अक्षरः",
+          "transliteration": "aksharah",
+          "meaning": "the imperishable"
+        },
+        {
+          "word": "क्षरः",
+          "transliteration": "ksharah",
+          "meaning": "the perishable"
+        },
+        {
+          "word": "सर्वाणि भूतानि",
+          "transliteration": "sarvani bhutani",
+          "meaning": "all beings"
+        },
+        {
+          "word": "कूटस्थः",
+          "transliteration": "kutasthah",
+          "meaning": "the unchanging"
+        },
+        {
+          "word": "अक्षरः",
+          "transliteration": "aksharah",
+          "meaning": "the imperishable"
+        },
+        {
+          "word": "उच्यते",
+          "transliteration": "uchyate",
+          "meaning": "is called"
+        }
+      ],
+      "hindiTranslation": "इस लोक में दो पुरुष हैं — क्षर (नाशवान) और अक्षर (अविनाशी)। सब भूत (प्राणी) क्षर हैं, और कूटस्थ (माया/जीवात्मा) अक्षर कहा जाता है।",
+      "englishTranslation": "There are two Purushas in this world — the perishable and the imperishable. All beings are perishable; the unchanging one is called imperishable.",
+      "commentary": "Krishna introduces the framework of three Purushas. The perishable (Kshara) refers to all material beings that undergo change and destruction. The imperishable (Akshara) refers to the unchanging principle — interpreted as either the collective totality of souls or the unmanifest Prakriti (Maya). This dual classification sets up the revelation of the third and highest Purusha in the following verses.",
+      "slug": "verse-16"
+    },
+    {
+      "verseNumber": 17,
+      "speaker": "Krishna",
+      "devanagari": "उत्तमः पुरुषस्त्वन्यः परमात्मेत्युदाहृतः।\nयो लोकत्रयमाविश्य बिभर्त्यव्यय ईश्वरः॥१७॥",
+      "transliteration": "Uttamah Purushas-Tv-Anyah Parama-Atme-Ty-Udahritah.\nYo Loka-Trayam-Avishya Bibharty-Avyaya Ishvarah.",
+      "wordByWord": [
+        {
+          "word": "उत्तमः",
+          "transliteration": "uttamah",
+          "meaning": "the highest"
+        },
+        {
+          "word": "पुरुषः",
+          "transliteration": "purushah",
+          "meaning": "Person"
+        },
+        {
+          "word": "तु",
+          "transliteration": "tu",
+          "meaning": "but"
+        },
+        {
+          "word": "अन्यः",
+          "transliteration": "anyah",
+          "meaning": "another (different from both)"
+        },
+        {
+          "word": "परमात्मा",
+          "transliteration": "paramatma",
+          "meaning": "the Supreme Self"
+        },
+        {
+          "word": "इति",
+          "transliteration": "iti",
+          "meaning": "thus"
+        },
+        {
+          "word": "उदाहृतः",
+          "transliteration": "udahritah",
+          "meaning": "is called"
+        },
+        {
+          "word": "यः",
+          "transliteration": "yah",
+          "meaning": "who"
+        },
+        {
+          "word": "लोकत्रयम्",
+          "transliteration": "loka-trayam",
+          "meaning": "the three worlds"
+        },
+        {
+          "word": "आविश्य",
+          "transliteration": "avishya",
+          "meaning": "entering"
+        },
+        {
+          "word": "बिभर्ति",
+          "transliteration": "bibharti",
+          "meaning": "sustains"
+        },
+        {
+          "word": "अव्ययः",
+          "transliteration": "avyayah",
+          "meaning": "imperishable"
+        },
+        {
+          "word": "ईश्वरः",
+          "transliteration": "ishvarah",
+          "meaning": "the Lord"
+        }
+      ],
+      "hindiTranslation": "परन्तु इन दोनों से भिन्न उत्तम पुरुष और है, जो परमात्मा कहलाता है। वह अव्यय ईश्वर तीनों लोकों में प्रवेश करके सबका भरण-पोषण करता है।",
+      "englishTranslation": "But there is another, the highest Person, called the Supreme Self (Paramatma), who, entering the three worlds as the imperishable Lord, sustains them.",
+      "commentary": "The chapter's central revelation — beyond both the perishable beings and the imperishable principle, there exists a third, the Supreme Person (Purushottama). This is the Paramatma, the Supreme Self, who pervades and sustains all three worlds (earth, atmosphere, and heaven). He is distinct from and superior to both Kshara and Akshara, yet intimately present within all creation.",
+      "slug": "verse-17"
+    },
+    {
+      "verseNumber": 18,
+      "speaker": "Krishna",
+      "devanagari": "यस्मात्क्षरमतीतोऽहमक्षरादपि चोत्तमः।\nअतोऽस्मि लोके वेदे च प्रथितः पुरुषोत्तमः॥१८॥",
+      "transliteration": "Yasmat-Ksharam-Atito'ham-Aksharad-Api Cho-Uttamah.\nAto'smi Loke Vede Cha Prathitah Purushottamah.",
+      "wordByWord": [
+        {
+          "word": "यस्मात्",
+          "transliteration": "yasmat",
+          "meaning": "since"
+        },
+        {
+          "word": "क्षरम्",
+          "transliteration": "ksharam",
+          "meaning": "the perishable"
+        },
+        {
+          "word": "अतीतः",
+          "transliteration": "atitah",
+          "meaning": "I transcend"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I"
+        },
+        {
+          "word": "अक्षरात्",
+          "transliteration": "aksharat",
+          "meaning": "than the imperishable"
+        },
+        {
+          "word": "अपि",
+          "transliteration": "api",
+          "meaning": "also"
+        },
+        {
+          "word": "उत्तमः",
+          "transliteration": "uttamah",
+          "meaning": "higher/best"
+        },
+        {
+          "word": "अतः",
+          "transliteration": "atah",
+          "meaning": "therefore"
+        },
+        {
+          "word": "अस्मि",
+          "transliteration": "asmi",
+          "meaning": "I am"
+        },
+        {
+          "word": "लोके",
+          "transliteration": "loke",
+          "meaning": "in the world"
+        },
+        {
+          "word": "वेदे",
+          "transliteration": "vede",
+          "meaning": "in the Vedas"
+        },
+        {
+          "word": "प्रथितः",
+          "transliteration": "prathitah",
+          "meaning": "celebrated/known"
+        },
+        {
+          "word": "पुरुषोत्तमः",
+          "transliteration": "purushottamah",
+          "meaning": "the Supreme Person"
+        }
+      ],
+      "hindiTranslation": "क्योंकि मैं क्षर से अतीत हूँ और अक्षर से भी उत्तम हूँ, इसलिए लोक में और वेद में 'पुरुषोत्तम' नाम से प्रसिद्ध हूँ।",
+      "englishTranslation": "Since I transcend the perishable and am higher than even the imperishable, I am celebrated in the world and in the Vedas as Purushottama (the Supreme Person).",
+      "commentary": "Krishna declares His supreme identity — He transcends all that is perishable (the material world) and is even higher than the imperishable (the unchanging Brahman or the collective souls). This is why He is known universally as Purushottama, the Supreme Person. This title is not a mere honorific but reflects His ontological status as the ultimate reality beyond all categories.",
+      "slug": "verse-18"
+    },
+    {
+      "verseNumber": 19,
+      "speaker": "Krishna",
+      "devanagari": "यो मामेवमसम्मूढो जानाति पुरुषोत्तमम्।\nस सर्वविद्भजति मां सर्वभावेन भारत॥१९॥",
+      "transliteration": "Yo Mam-Evam-Asammudho Janati Purushottamam.\nSa Sarva-Vid-Bhajati Mam Sarva-Bhavena Bharata.",
+      "wordByWord": [
+        {
+          "word": "यः",
+          "transliteration": "yah",
+          "meaning": "who"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        },
+        {
+          "word": "एवम्",
+          "transliteration": "evam",
+          "meaning": "thus"
+        },
+        {
+          "word": "असम्मूढः",
+          "transliteration": "asammudhah",
+          "meaning": "without delusion"
+        },
+        {
+          "word": "जानाति",
+          "transliteration": "janati",
+          "meaning": "knows"
+        },
+        {
+          "word": "पुरुषोत्तमम्",
+          "transliteration": "purushottamam",
+          "meaning": "as the Supreme Person"
+        },
+        {
+          "word": "सः",
+          "transliteration": "sah",
+          "meaning": "he"
+        },
+        {
+          "word": "सर्ववित्",
+          "transliteration": "sarva-vit",
+          "meaning": "the all-knowing"
+        },
+        {
+          "word": "भजति",
+          "transliteration": "bhajati",
+          "meaning": "worships/serves"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        },
+        {
+          "word": "सर्वभावेन",
+          "transliteration": "sarva-bhavena",
+          "meaning": "with whole being"
+        },
+        {
+          "word": "भारत",
+          "transliteration": "bharata",
+          "meaning": "O Bharata"
+        }
+      ],
+      "hindiTranslation": "हे भारत! जो मोहरहित होकर मुझे इस प्रकार पुरुषोत्तम जानता है, वह सर्वज्ञ है और सम्पूर्ण भाव से मेरा भजन करता है।",
+      "englishTranslation": "He who, free from delusion, thus knows Me as the Supreme Person — he is the all-knowing one, and he worships Me with his whole being, O Bharata.",
+      "commentary": "Knowing Krishna as Purushottama with clarity and without delusion makes one omniscient in the spiritual sense — such a person has understood the ultimate truth. This knowledge naturally leads to wholehearted devotion (Sarva-bhavena), where every aspect of one's being — mind, heart, body, and soul — is directed toward God. Knowledge and devotion reach their perfection simultaneously.",
+      "slug": "verse-19"
+    },
+    {
+      "verseNumber": 20,
+      "speaker": "Krishna",
+      "devanagari": "इति गुह्यतमं शास्त्रमिदमुक्तं मयानघ।\nएतद्बुद्ध्वा बुद्धिमान्स्यात्कृतकृत्यश्च भारत॥२०॥",
+      "transliteration": "Iti Guhyatamam Shastram-Idam-Uktam Maya-Anagha.\nEtad-Buddhva Buddhiman-Syat Krita-Krityash-Cha Bharata.",
+      "wordByWord": [
+        {
+          "word": "इति",
+          "transliteration": "iti",
+          "meaning": "thus"
+        },
+        {
+          "word": "गुह्यतमम्",
+          "transliteration": "guhyatamam",
+          "meaning": "the most secret"
+        },
+        {
+          "word": "शास्त्रम्",
+          "transliteration": "shastram",
+          "meaning": "scripture/teaching"
+        },
+        {
+          "word": "इदम्",
+          "transliteration": "idam",
+          "meaning": "this"
+        },
+        {
+          "word": "उक्तम्",
+          "transliteration": "uktam",
+          "meaning": "has been spoken"
+        },
+        {
+          "word": "मया",
+          "transliteration": "maya",
+          "meaning": "by Me"
+        },
+        {
+          "word": "अनघ",
+          "transliteration": "anagha",
+          "meaning": "O sinless one"
+        },
+        {
+          "word": "एतत्",
+          "transliteration": "etat",
+          "meaning": "this"
+        },
+        {
+          "word": "बुद्ध्वा",
+          "transliteration": "buddhva",
+          "meaning": "understanding"
+        },
+        {
+          "word": "बुद्धिमान्",
+          "transliteration": "buddhiman",
+          "meaning": "wise"
+        },
+        {
+          "word": "स्यात्",
+          "transliteration": "syat",
+          "meaning": "shall become"
+        },
+        {
+          "word": "कृतकृत्यः",
+          "transliteration": "krita-krityah",
+          "meaning": "one who has fulfilled all duties"
+        },
+        {
+          "word": "भारत",
+          "transliteration": "bharata",
+          "meaning": "O Bharata"
+        }
+      ],
+      "hindiTranslation": "हे निष्पाप! इस प्रकार यह गुह्यतम (अत्यन्त रहस्यमय) शास्त्र मेरे द्वारा कहा गया। हे भारत! इसे समझकर मनुष्य बुद्धिमान और कृतकृत्य (कृतार्थ) हो जाता है।",
+      "englishTranslation": "Thus this most secret teaching has been imparted by Me, O sinless one. Understanding this, O Bharata, a person becomes wise and has fulfilled all duties.",
+      "commentary": "Krishna concludes the chapter by calling this the most secret of all teachings — not secret because it should be hidden, but because it reveals the deepest truth about reality. One who truly understands this teaching about Purushottama becomes the wisest of the wise and has nothing left to accomplish. All spiritual seeking reaches its fulfillment in the recognition of Krishna as the Supreme Person beyond both the perishable and the imperishable.",
+      "slug": "verse-20"
+    }
+  ]
+}

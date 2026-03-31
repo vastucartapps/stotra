@@ -1,0 +1,2574 @@
+{
+  "chapterNumber": 9,
+  "titleSanskrit": "राजविद्याराजगुह्ययोगः",
+  "titleHindi": "राजविद्या राजगुह्य योग",
+  "titleEnglish": "Raja Vidya Raja Guhya Yoga - The Yoga of Royal Knowledge and Royal Secret",
+  "slug": "chapter-9",
+  "description": "Bhagavad Gita Chapter 9, Raja Vidya Raja Guhya Yoga, is considered one of the most important and devotion-filled chapters of the Gita. Krishna calls this teaching the king of all knowledge (Raja Vidya) and the king of all secrets (Raja Guhya) — the most sacred, supreme, directly realizable, and imperishable wisdom. He reveals His all-pervading nature: the entire universe is pervaded by His unmanifest form, all beings exist within Him yet He is not confined to them. He is the father, mother, grandfather, and sustainer of the entire cosmos, the Vedas themselves, and the syllable Om. The chapter contains some of the most beloved verses of the Gita — 'Ananyash Chintayanto Mam' promises that God personally carries the yoga-kshema of His single-minded devotees, 'Patram Pushpam Phalam Toyam' declares that even a leaf offered with devotion is lovingly accepted, and 'Samo Aham Sarva Bhuteshu' affirms God's perfect equality toward all beings while simultaneously affirming that devotees dwell in Him. The chapter closes with Krishna's compassionate assurance that His devotee never perishes.",
+  "verseCount": 34,
+  "verses": [
+    {
+      "verseNumber": 1,
+      "slug": "verse-1",
+      "speaker": "Krishna",
+      "devanagari": "श्रीभगवानुवाच —\nइदं तु ते गुह्यतमं प्रवक्ष्याम्यनसूयवे।\nज्ञानं विज्ञानसहितं यज्ज्ञात्वा मोक्ष्यसेऽशुभात्॥१॥",
+      "transliteration": "Shri Bhagavan Uvacha —\nIdam Tu Te Guhyatamam Pravakshyamy-Anasuyave.\nJnanam Vijnana-Sahitam Yaj-Jnatva Mokshyase'shubhat.||1||",
+      "wordByWord": [
+        {
+          "word": "इदम्",
+          "transliteration": "idam",
+          "meaning": "this"
+        },
+        {
+          "word": "तु",
+          "transliteration": "tu",
+          "meaning": "but/indeed"
+        },
+        {
+          "word": "ते",
+          "transliteration": "te",
+          "meaning": "to you"
+        },
+        {
+          "word": "गुह्यतमम्",
+          "transliteration": "guhyatamam",
+          "meaning": "the most secret"
+        },
+        {
+          "word": "प्रवक्ष्यामि",
+          "transliteration": "pravakshyami",
+          "meaning": "I shall declare"
+        },
+        {
+          "word": "अनसूयवे",
+          "transliteration": "anasuyave",
+          "meaning": "to the non-envious (you)"
+        },
+        {
+          "word": "ज्ञानम्",
+          "transliteration": "jnanam",
+          "meaning": "knowledge"
+        },
+        {
+          "word": "विज्ञानसहितम्",
+          "transliteration": "vijnana-sahitam",
+          "meaning": "along with realized wisdom"
+        },
+        {
+          "word": "यत्",
+          "transliteration": "yat",
+          "meaning": "which"
+        },
+        {
+          "word": "ज्ञात्वा",
+          "transliteration": "jnatva",
+          "meaning": "having known"
+        },
+        {
+          "word": "मोक्ष्यसे",
+          "transliteration": "mokshyase",
+          "meaning": "you shall be freed"
+        },
+        {
+          "word": "अशुभात्",
+          "transliteration": "ashubhat",
+          "meaning": "from inauspiciousness/misery"
+        }
+      ],
+      "hindiTranslation": "श्रीभगवान ने कहा — तुझ दोषदृष्टि रहित (अनसूया) भक्त को मैं इस गुह्यतम (अत्यन्त रहस्यमय) ज्ञान को विज्ञान सहित कहूँगा, जिसे जानकर तू अशुभ (संसार-बन्धन) से मुक्त हो जाएगा।",
+      "englishTranslation": "The Blessed Lord said: To you who are free from envy, I shall now reveal this most secret knowledge combined with realized wisdom, knowing which you shall be freed from all misery and inauspiciousness.",
+      "commentary": "Krishna opens this chapter by declaring this teaching the most confidential of all. The qualifier 'anasuyave' (to the non-envious) is significant — this supreme knowledge can only be received by one whose heart is free from jealousy and fault-finding. The promise of liberation from all 'ashubha' (inauspiciousness) sets the tone for the entire chapter."
+    },
+    {
+      "verseNumber": 2,
+      "slug": "verse-2",
+      "speaker": "Krishna",
+      "devanagari": "राजविद्या राजगुह्यं पवित्रमिदमुत्तमम्।\nप्रत्यक्षावगमं धर्म्यं सुसुखं कर्तुमव्ययम्॥२॥",
+      "transliteration": "Raja-Vidya Raja-Guhyam Pavitram-Idam-Uttamam.\nPratyaksha-Avagamam Dharmyam Su-Sukham Kartum-Avyayam.||2||",
+      "wordByWord": [
+        {
+          "word": "राजविद्या",
+          "transliteration": "raja-vidya",
+          "meaning": "the king of knowledge"
+        },
+        {
+          "word": "राजगुह्यम्",
+          "transliteration": "raja-guhyam",
+          "meaning": "the king of secrets"
+        },
+        {
+          "word": "पवित्रम्",
+          "transliteration": "pavitram",
+          "meaning": "the purest"
+        },
+        {
+          "word": "इदम्",
+          "transliteration": "idam",
+          "meaning": "this"
+        },
+        {
+          "word": "उत्तमम्",
+          "transliteration": "uttamam",
+          "meaning": "the highest/supreme"
+        },
+        {
+          "word": "प्रत्यक्षावगमम्",
+          "transliteration": "pratyaksha-avagamam",
+          "meaning": "directly realizable"
+        },
+        {
+          "word": "धर्म्यम्",
+          "transliteration": "dharmyam",
+          "meaning": "righteous"
+        },
+        {
+          "word": "सुसुखम्",
+          "transliteration": "su-sukham",
+          "meaning": "very easy/joyful"
+        },
+        {
+          "word": "कर्तुम्",
+          "transliteration": "kartum",
+          "meaning": "to practice"
+        },
+        {
+          "word": "अव्ययम्",
+          "transliteration": "avyayam",
+          "meaning": "imperishable/eternal"
+        }
+      ],
+      "hindiTranslation": "यह (ज्ञान) विद्याओं का राजा, रहस्यों का राजा, परम पवित्र, अत्यन्त उत्तम, प्रत्यक्ष अनुभव करने योग्य, धर्मयुक्त, करने में बहुत सुखद और अविनाशी है।",
+      "englishTranslation": "This is the king of all knowledge, the king of all secrets, supremely purifying, directly realizable through experience, righteous, very easy and joyful to practice, and imperishable.",
+      "commentary": "Krishna gives nine magnificent qualities of this teaching: it is the highest knowledge, the deepest secret, supremely purifying, supreme, directly experiential, aligned with dharma, joyful to practice, and eternal. The phrase 'su-sukham kartum' (very easy/joyful to practice) is especially reassuring — the highest spiritual path is not one of misery but of joy."
+    },
+    {
+      "verseNumber": 3,
+      "slug": "verse-3",
+      "speaker": "Krishna",
+      "devanagari": "अश्रद्दधानाः पुरुषा धर्मस्यास्य परन्तप।\nअप्राप्य मां निवर्तन्ते मृत्युसंसारवर्त्मनि॥३॥",
+      "transliteration": "Ashraddadhanah Purusha Dharmasyasya Parantapa.\nAprapya Mam Nivartante Mrityu-Samsara-Vartmani.||3||",
+      "wordByWord": [
+        {
+          "word": "अश्रद्दधानाः",
+          "transliteration": "ashraddadhanah",
+          "meaning": "those without faith"
+        },
+        {
+          "word": "पुरुषाः",
+          "transliteration": "purushah",
+          "meaning": "persons"
+        },
+        {
+          "word": "धर्मस्य",
+          "transliteration": "dharmasya",
+          "meaning": "of this dharma"
+        },
+        {
+          "word": "अस्य",
+          "transliteration": "asya",
+          "meaning": "this"
+        },
+        {
+          "word": "परन्तप",
+          "transliteration": "parantapa",
+          "meaning": "O scorcher of foes (Arjuna)"
+        },
+        {
+          "word": "अप्राप्य",
+          "transliteration": "aprapya",
+          "meaning": "without attaining"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        },
+        {
+          "word": "निवर्तन्ते",
+          "transliteration": "nivartante",
+          "meaning": "return/remain"
+        },
+        {
+          "word": "मृत्युसंसारवर्त्मनि",
+          "transliteration": "mrityu-samsara-vartmani",
+          "meaning": "on the path of death and rebirth"
+        }
+      ],
+      "hindiTranslation": "हे परन्तप! इस धर्म में श्रद्धा न रखने वाले पुरुष मुझे प्राप्त न करके मृत्यु-संसार के मार्ग (जन्म-मरण के चक्र) में लौटते रहते हैं।",
+      "englishTranslation": "O scorcher of foes, those who have no faith in this dharma, failing to attain Me, return to the path of death and rebirth in this material world.",
+      "commentary": "Krishna warns that without shraddha (faith and trust), one cannot access the highest truth. Faith is not blind belief but a willingness to receive and explore with an open heart. Those who dismiss the spiritual path out of skepticism or arrogance remain trapped in the cycle of birth and death, missing the opportunity for liberation."
+    },
+    {
+      "verseNumber": 4,
+      "slug": "verse-4",
+      "speaker": "Krishna",
+      "devanagari": "मया ततमिदं सर्वं जगदव्यक्तमूर्तिना।\nमत्स्थानि सर्वभूतानि न चाहं तेष्ववस्थितः॥४॥",
+      "transliteration": "Maya Tatam-Idam Sarvam Jagad-Avyakta-Murtina.\nMat-Sthani Sarva-Bhutani Na Cha-Aham Teshv-Avasthitah.||4||",
+      "wordByWord": [
+        {
+          "word": "मया",
+          "transliteration": "maya",
+          "meaning": "by Me"
+        },
+        {
+          "word": "ततम्",
+          "transliteration": "tatam",
+          "meaning": "pervaded"
+        },
+        {
+          "word": "इदम्",
+          "transliteration": "idam",
+          "meaning": "this"
+        },
+        {
+          "word": "सर्वम्",
+          "transliteration": "sarvam",
+          "meaning": "entire"
+        },
+        {
+          "word": "जगत्",
+          "transliteration": "jagat",
+          "meaning": "universe"
+        },
+        {
+          "word": "अव्यक्तमूर्तिना",
+          "transliteration": "avyakta-murtina",
+          "meaning": "in unmanifest form"
+        },
+        {
+          "word": "मत्स्थानि",
+          "transliteration": "mat-sthani",
+          "meaning": "existing in Me"
+        },
+        {
+          "word": "सर्वभूतानि",
+          "transliteration": "sarva-bhutani",
+          "meaning": "all beings"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "च",
+          "transliteration": "cha",
+          "meaning": "and"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I"
+        },
+        {
+          "word": "तेषु",
+          "transliteration": "teshu",
+          "meaning": "in them"
+        },
+        {
+          "word": "अवस्थितः",
+          "transliteration": "avasthitah",
+          "meaning": "situated/contained"
+        }
+      ],
+      "hindiTranslation": "मैंने इस सम्पूर्ण जगत को अपने अव्यक्त (निराकार) स्वरूप से व्याप्त किया है। सभी प्राणी मुझमें स्थित हैं, परन्तु मैं उनमें सीमित नहीं हूँ।",
+      "englishTranslation": "This entire universe is pervaded by Me in My unmanifest form. All beings exist within Me, but I am not contained in them.",
+      "commentary": "This is one of the most profound metaphysical statements in the Gita. God pervades everything yet transcends everything. The ocean contains the waves, but the ocean is not limited to any single wave. Similarly, all of creation exists within the Divine, but the Divine is infinitely more than all of creation combined. This is the concept of simultaneous immanence and transcendence."
+    },
+    {
+      "verseNumber": 5,
+      "slug": "verse-5",
+      "speaker": "Krishna",
+      "devanagari": "न च मत्स्थानि भूतानि पश्य मे योगमैश्वरम्।\nभूतभृन्न च भूतस्थो ममात्मा भूतभावनः॥५॥",
+      "transliteration": "Na Cha Mat-Sthani Bhutani Pashya Me Yogam-Aishvaram.\nBhuta-Bhrin-Na Cha Bhuta-Stho Mama-Atma Bhuta-Bhavanah.||5||",
+      "wordByWord": [
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "च",
+          "transliteration": "cha",
+          "meaning": "and"
+        },
+        {
+          "word": "मत्स्थानि",
+          "transliteration": "mat-sthani",
+          "meaning": "existing in Me"
+        },
+        {
+          "word": "भूतानि",
+          "transliteration": "bhutani",
+          "meaning": "beings"
+        },
+        {
+          "word": "पश्य",
+          "transliteration": "pashya",
+          "meaning": "behold"
+        },
+        {
+          "word": "मे",
+          "transliteration": "me",
+          "meaning": "My"
+        },
+        {
+          "word": "योगम्",
+          "transliteration": "yogam",
+          "meaning": "divine power"
+        },
+        {
+          "word": "ऐश्वरम्",
+          "transliteration": "aishvaram",
+          "meaning": "lordly/supreme"
+        },
+        {
+          "word": "भूतभृत्",
+          "transliteration": "bhuta-bhrit",
+          "meaning": "sustainer of beings"
+        },
+        {
+          "word": "भूतस्थः",
+          "transliteration": "bhuta-sthah",
+          "meaning": "dwelling in beings"
+        },
+        {
+          "word": "मम",
+          "transliteration": "mama",
+          "meaning": "My"
+        },
+        {
+          "word": "आत्मा",
+          "transliteration": "atma",
+          "meaning": "Self"
+        },
+        {
+          "word": "भूतभावनः",
+          "transliteration": "bhuta-bhavanah",
+          "meaning": "source/creator of beings"
+        }
+      ],
+      "hindiTranslation": "और (वास्तव में) सब भूत (प्राणी) मुझमें स्थित नहीं हैं — मेरी ईश्वरी योगशक्ति को देख! मेरा आत्मा भूतों को धारण करने वाला, भूतों को उत्पन्न करने वाला है, परन्तु भूतों में स्थित नहीं है।",
+      "englishTranslation": "And yet beings do not dwell in Me — behold My divine Yoga (supreme power)! My Self is the source and sustainer of all beings, yet I do not dwell in them.",
+      "commentary": "Having said all beings exist in Him, Krishna now says they do not — this is not a contradiction but a revelation of the mystery of divine transcendence. God's relationship with creation is unlike any material relationship. He is not physically contained in beings like water in a pot. His divine Yoga (Yogam Aishvaram) operates beyond the logic of material causation."
+    },
+    {
+      "verseNumber": 6,
+      "slug": "verse-6",
+      "speaker": "Krishna",
+      "devanagari": "यथाकाशस्थितो नित्यं वायुः सर्वत्रगो महान्।\nतथा सर्वाणि भूतानि मत्स्थानीत्युपधारय॥६॥",
+      "transliteration": "Yatha-Akasha-Sthito Nityam Vayuh Sarvatrago Mahan.\nTatha Sarvani Bhutani Mat-Sthani-Ity-Upadharaya.||6||",
+      "wordByWord": [
+        {
+          "word": "यथा",
+          "transliteration": "yatha",
+          "meaning": "just as"
+        },
+        {
+          "word": "आकाशस्थितः",
+          "transliteration": "akasha-sthitah",
+          "meaning": "situated in space"
+        },
+        {
+          "word": "नित्यम्",
+          "transliteration": "nityam",
+          "meaning": "always"
+        },
+        {
+          "word": "वायुः",
+          "transliteration": "vayuh",
+          "meaning": "the wind"
+        },
+        {
+          "word": "सर्वत्रगः",
+          "transliteration": "sarvatragah",
+          "meaning": "blowing everywhere"
+        },
+        {
+          "word": "महान्",
+          "transliteration": "mahan",
+          "meaning": "mighty"
+        },
+        {
+          "word": "तथा",
+          "transliteration": "tatha",
+          "meaning": "similarly"
+        },
+        {
+          "word": "सर्वाणि",
+          "transliteration": "sarvani",
+          "meaning": "all"
+        },
+        {
+          "word": "भूतानि",
+          "transliteration": "bhutani",
+          "meaning": "beings"
+        },
+        {
+          "word": "मत्स्थानि",
+          "transliteration": "mat-sthani",
+          "meaning": "existing in Me"
+        },
+        {
+          "word": "इति",
+          "transliteration": "iti",
+          "meaning": "thus"
+        },
+        {
+          "word": "उपधारय",
+          "transliteration": "upadharaya",
+          "meaning": "understand/know"
+        }
+      ],
+      "hindiTranslation": "जैसे सर्वत्र विचरण करने वाला महान वायु सदा आकाश में स्थित रहता है — वैसे ही समस्त भूत (प्राणी) मुझमें स्थित हैं, ऐसा जान।",
+      "englishTranslation": "Just as the mighty wind, blowing everywhere, always rests in space (akasha), so know that all beings rest in Me.",
+      "commentary": "Krishna uses the beautiful analogy of wind and space to explain His relationship with creation. The wind exists within space, moves through space, and is supported by space, yet space is completely unaffected by the wind. Similarly, all beings exist within God's infinite consciousness without limiting or affecting Him in any way. This is simultaneous closeness and transcendence."
+    },
+    {
+      "verseNumber": 7,
+      "slug": "verse-7",
+      "speaker": "Krishna",
+      "devanagari": "सर्वभूतानि कौन्तेय प्रकृतिं यान्ति मामिकाम्।\nकल्पक्षये पुनस्तानि कल्पादौ विसृजाम्यहम्॥७॥",
+      "transliteration": "Sarva-Bhutani Kaunteya Prakritim Yanti Mamikam.\nKalpa-Kshaye Punas-Tani Kalpa-Adau Visrijamy-Aham.||7||",
+      "wordByWord": [
+        {
+          "word": "सर्वभूतानि",
+          "transliteration": "sarva-bhutani",
+          "meaning": "all beings"
+        },
+        {
+          "word": "कौन्तेय",
+          "transliteration": "kaunteya",
+          "meaning": "O son of Kunti"
+        },
+        {
+          "word": "प्रकृतिम्",
+          "transliteration": "prakritim",
+          "meaning": "into nature"
+        },
+        {
+          "word": "यान्ति",
+          "transliteration": "yanti",
+          "meaning": "return/merge"
+        },
+        {
+          "word": "मामिकाम्",
+          "transliteration": "mamikam",
+          "meaning": "which is Mine"
+        },
+        {
+          "word": "कल्पक्षये",
+          "transliteration": "kalpa-kshaye",
+          "meaning": "at the end of a cosmic cycle"
+        },
+        {
+          "word": "पुनः",
+          "transliteration": "punah",
+          "meaning": "again"
+        },
+        {
+          "word": "तानि",
+          "transliteration": "tani",
+          "meaning": "them"
+        },
+        {
+          "word": "कल्पादौ",
+          "transliteration": "kalpa-adau",
+          "meaning": "at the beginning of a cycle"
+        },
+        {
+          "word": "विसृजामि",
+          "transliteration": "visrijami",
+          "meaning": "I create/project"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I"
+        }
+      ],
+      "hindiTranslation": "हे कौन्तेय! कल्प (ब्रह्मा के दिन) के अन्त में सभी प्राणी मेरी प्रकृति में लीन हो जाते हैं। फिर कल्प के आरम्भ में मैं उन्हें पुनः सृजता हूँ।",
+      "englishTranslation": "O son of Kunti, at the end of a cosmic cycle (kalpa), all beings merge back into My Prakriti (nature). At the beginning of the next cycle, I create them again.",
+      "commentary": "Krishna describes the cosmic rhythm of creation and dissolution. At the end of each cosmic cycle (Brahma's day), the entire manifest creation dissolves into the unmanifest Prakriti, which is God's own energy. At the beginning of the next cycle, creation is projected forth again. This cosmic breathing — creation, sustenance, dissolution — continues eternally."
+    },
+    {
+      "verseNumber": 8,
+      "slug": "verse-8",
+      "speaker": "Krishna",
+      "devanagari": "प्रकृतिं स्वामवष्टभ्य विसृजामि पुनः पुनः।\nभूतग्राममिमं कृत्स्नमवशं प्रकृतेर्वशात्॥८॥",
+      "transliteration": "Prakritim Svam-Avashtabhya Visrijami Punah Punah.\nBhuta-Gramam-Imam Kritsnam-Avasham Prakriter-Vashat.||8||",
+      "wordByWord": [
+        {
+          "word": "प्रकृतिम्",
+          "transliteration": "prakritim",
+          "meaning": "nature"
+        },
+        {
+          "word": "स्वाम्",
+          "transliteration": "svam",
+          "meaning": "My own"
+        },
+        {
+          "word": "अवष्टभ्य",
+          "transliteration": "avashtabhya",
+          "meaning": "presiding over/animating"
+        },
+        {
+          "word": "विसृजामि",
+          "transliteration": "visrijami",
+          "meaning": "I create/project"
+        },
+        {
+          "word": "पुनः पुनः",
+          "transliteration": "punah punah",
+          "meaning": "again and again"
+        },
+        {
+          "word": "भूतग्रामम्",
+          "transliteration": "bhuta-gramam",
+          "meaning": "the multitude of beings"
+        },
+        {
+          "word": "इमम्",
+          "transliteration": "imam",
+          "meaning": "this"
+        },
+        {
+          "word": "कृत्स्नम्",
+          "transliteration": "kritsnam",
+          "meaning": "entire"
+        },
+        {
+          "word": "अवशम्",
+          "transliteration": "avasham",
+          "meaning": "helpless"
+        },
+        {
+          "word": "प्रकृतेः",
+          "transliteration": "prakriteh",
+          "meaning": "of Prakriti"
+        },
+        {
+          "word": "वशात्",
+          "transliteration": "vashat",
+          "meaning": "under the control"
+        }
+      ],
+      "hindiTranslation": "अपनी प्रकृति को अधिष्ठान बनाकर (उसमें प्रवेश करके) मैं इस सम्पूर्ण भूतसमुदाय को — जो प्रकृति के वश में विवश है — बार-बार रचता हूँ।",
+      "englishTranslation": "Presiding over My own Prakriti (material nature), I project forth again and again this entire multitude of beings, who are helpless under the sway of Prakriti.",
+      "commentary": "This verse reveals that creation is not a random or one-time event. God animates His own Prakriti and through it creates the countless beings who come into existence governed by their karmas and the gunas of nature. The word 'avasham' (helpless) refers to the conditioned souls who are bound by their past actions and the laws of nature."
+    },
+    {
+      "verseNumber": 9,
+      "slug": "verse-9",
+      "speaker": "Krishna",
+      "devanagari": "न च मां तानि कर्माणि निबध्नन्ति धनञ्जय।\nउदासीनवदासीनमसक्तं तेषु कर्मसु॥९॥",
+      "transliteration": "Na Cha Mam Tani Karmani Nibadhnanti Dhananjaya.\nUdasina-Vad-Asinam-Asaktam Teshu Karmasu.||9||",
+      "wordByWord": [
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "च",
+          "transliteration": "cha",
+          "meaning": "and"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        },
+        {
+          "word": "तानि",
+          "transliteration": "tani",
+          "meaning": "those"
+        },
+        {
+          "word": "कर्माणि",
+          "transliteration": "karmani",
+          "meaning": "actions"
+        },
+        {
+          "word": "निबध्नन्ति",
+          "transliteration": "nibadhnanti",
+          "meaning": "bind"
+        },
+        {
+          "word": "धनञ्जय",
+          "transliteration": "dhananjaya",
+          "meaning": "O Dhananjaya (Arjuna)"
+        },
+        {
+          "word": "उदासीनवत्",
+          "transliteration": "udasina-vat",
+          "meaning": "as if neutral/indifferent"
+        },
+        {
+          "word": "आसीनम्",
+          "transliteration": "asinam",
+          "meaning": "seated"
+        },
+        {
+          "word": "असक्तम्",
+          "transliteration": "asaktam",
+          "meaning": "unattached"
+        },
+        {
+          "word": "तेषु",
+          "transliteration": "teshu",
+          "meaning": "in those"
+        },
+        {
+          "word": "कर्मसु",
+          "transliteration": "karmasu",
+          "meaning": "actions"
+        }
+      ],
+      "hindiTranslation": "हे धनञ्जय! वे कर्म मुझे नहीं बाँधते, क्योंकि मैं उन कर्मों में आसक्ति रहित, उदासीन के समान (तटस्थ) स्थित हूँ।",
+      "englishTranslation": "O Dhananjaya, these actions do not bind Me, for I remain as if seated indifferently, unattached to those actions.",
+      "commentary": "Despite being the creator and sustainer of all, Krishna remains completely unaffected by the cosmic process. He is like the sun that enables all activity on earth without being touched by it. This is the ultimate model for the Karma Yogi — to act fully yet remain inwardly detached. God's freedom from bondage despite His cosmic activity is the proof that detached action is possible."
+    },
+    {
+      "verseNumber": 10,
+      "slug": "verse-10",
+      "speaker": "Krishna",
+      "devanagari": "मयाध्यक्षेण प्रकृतिः सूयते सचराचरम्।\nहेतुनानेन कौन्तेय जगद्विपरिवर्तते॥१०॥",
+      "transliteration": "Maya-Adhyakshena Prakritih Suyate Sa-Chara-Acharam.\nHetuna-Anena Kaunteya Jagad-Viparivartate.||10||",
+      "wordByWord": [
+        {
+          "word": "मया",
+          "transliteration": "maya",
+          "meaning": "by Me"
+        },
+        {
+          "word": "अध्यक्षेण",
+          "transliteration": "adhyakshena",
+          "meaning": "as the supervisor/overseer"
+        },
+        {
+          "word": "प्रकृतिः",
+          "transliteration": "prakritih",
+          "meaning": "material nature"
+        },
+        {
+          "word": "सूयते",
+          "transliteration": "suyate",
+          "meaning": "gives birth to/produces"
+        },
+        {
+          "word": "सचराचरम्",
+          "transliteration": "sa-chara-acharam",
+          "meaning": "the moving and non-moving"
+        },
+        {
+          "word": "हेतुना",
+          "transliteration": "hetuna",
+          "meaning": "by this reason"
+        },
+        {
+          "word": "अनेन",
+          "transliteration": "anena",
+          "meaning": "this"
+        },
+        {
+          "word": "कौन्तेय",
+          "transliteration": "kaunteya",
+          "meaning": "O son of Kunti"
+        },
+        {
+          "word": "जगत्",
+          "transliteration": "jagat",
+          "meaning": "the world"
+        },
+        {
+          "word": "विपरिवर्तते",
+          "transliteration": "viparivartate",
+          "meaning": "revolves/undergoes changes"
+        }
+      ],
+      "hindiTranslation": "मेरी अध्यक्षता (देखरेख) में प्रकृति चराचर (चर और अचर) जगत को उत्पन्न करती है। हे कौन्तेय! इसी कारण से यह जगत परिवर्तित होता रहता (चक्र चलता रहता) है।",
+      "englishTranslation": "Under My supervision, Prakriti (material nature) produces all moving and non-moving beings. By this reason, O son of Kunti, the world revolves through its cycles.",
+      "commentary": "Krishna clarifies the mechanics of creation. Prakriti is the material cause, but it operates under His supervision (adhyaksha). Without His conscious presence, inert Prakriti cannot create. This is like a potter and clay — clay alone cannot become a pot; the potter's intelligence is needed. God's consciousness energizes Prakriti to produce the entire manifest world."
+    },
+    {
+      "verseNumber": 11,
+      "slug": "verse-11",
+      "speaker": "Krishna",
+      "devanagari": "अवजानन्ति मां मूढा मानुषीं तनुमाश्रितम्।\nपरं भावमजानन्तो मम भूतमहेश्वरम्॥११॥",
+      "transliteration": "Avajananti Mam Mudha Manushim Tanum-Ashritam.\nParam Bhavam-Ajananto Mama Bhuta-Maheshvaram.||11||",
+      "wordByWord": [
+        {
+          "word": "अवजानन्ति",
+          "transliteration": "avajananti",
+          "meaning": "disregard/look down upon"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        },
+        {
+          "word": "मूढाः",
+          "transliteration": "mudhah",
+          "meaning": "the foolish"
+        },
+        {
+          "word": "मानुषीम्",
+          "transliteration": "manushim",
+          "meaning": "human"
+        },
+        {
+          "word": "तनुम्",
+          "transliteration": "tanum",
+          "meaning": "form/body"
+        },
+        {
+          "word": "आश्रितम्",
+          "transliteration": "ashritam",
+          "meaning": "assuming/dwelling in"
+        },
+        {
+          "word": "परम्",
+          "transliteration": "param",
+          "meaning": "supreme"
+        },
+        {
+          "word": "भावम्",
+          "transliteration": "bhavam",
+          "meaning": "nature"
+        },
+        {
+          "word": "अजानन्तः",
+          "transliteration": "ajanantah",
+          "meaning": "not knowing"
+        },
+        {
+          "word": "मम",
+          "transliteration": "mama",
+          "meaning": "My"
+        },
+        {
+          "word": "भूतमहेश्वरम्",
+          "transliteration": "bhuta-maheshvaram",
+          "meaning": "the great Lord of all beings"
+        }
+      ],
+      "hindiTranslation": "मूढ़ (अज्ञानी) लोग मानव शरीर में निवास करने वाले मुझे (परमात्मा को) तुच्छ समझते हैं — वे मेरे परम भाव (दिव्य स्वरूप) को नहीं जानते, जो सम्पूर्ण प्राणियों का महान ईश्वर है।",
+      "englishTranslation": "The foolish disregard Me when I dwell in a human form, not knowing My supreme nature as the great Lord of all beings.",
+      "commentary": "This verse addresses those who, seeing God incarnate in human form, fail to recognize the Divine behind the human appearance. They judge by external form rather than perceiving the inner divinity. This applies not only to Krishna's contemporaries but to all who dismiss the possibility of the Divine manifesting in accessible, personal form."
+    },
+    {
+      "verseNumber": 12,
+      "slug": "verse-12",
+      "speaker": "Krishna",
+      "devanagari": "मोघाशा मोघकर्माणो मोघज्ञाना विचेतसः।\nराक्षसीमासुरीं चैव प्रकृतिं मोहिनीं श्रिताः॥१२॥",
+      "transliteration": "Mogha-Asha Mogha-Karmano Mogha-Jnana Vichetasah.\nRakshashim-Asurim Chaiva Prakritim Mohinim Shritah.||12||",
+      "wordByWord": [
+        {
+          "word": "मोघाशाः",
+          "transliteration": "mogha-ashah",
+          "meaning": "of baffled/futile hopes"
+        },
+        {
+          "word": "मोघकर्माणः",
+          "transliteration": "mogha-karmanah",
+          "meaning": "of futile actions"
+        },
+        {
+          "word": "मोघज्ञानाः",
+          "transliteration": "mogha-jnanah",
+          "meaning": "of futile knowledge"
+        },
+        {
+          "word": "विचेतसः",
+          "transliteration": "vichetasah",
+          "meaning": "bewildered/deluded"
+        },
+        {
+          "word": "राक्षसीम्",
+          "transliteration": "rakshashim",
+          "meaning": "demoniac"
+        },
+        {
+          "word": "आसुरीम्",
+          "transliteration": "asurim",
+          "meaning": "atheistic"
+        },
+        {
+          "word": "च",
+          "transliteration": "cha",
+          "meaning": "and"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "certainly"
+        },
+        {
+          "word": "प्रकृतिम्",
+          "transliteration": "prakritim",
+          "meaning": "nature"
+        },
+        {
+          "word": "मोहिनीम्",
+          "transliteration": "mohinim",
+          "meaning": "bewildering"
+        },
+        {
+          "word": "श्रिताः",
+          "transliteration": "shritah",
+          "meaning": "taking shelter of"
+        }
+      ],
+      "hindiTranslation": "ऐसे विमूढ़ लोग व्यर्थ आशाओं वाले, व्यर्थ कर्मों वाले, व्यर्थ ज्ञान वाले होते हैं — और राक्षसी, आसुरी (दानवी) तथा मोहिनी (भ्रमित करने वाली) प्रकृति का आश्रय लेते हैं।",
+      "englishTranslation": "Those deluded ones are of baffled hopes, futile actions, and misguided knowledge. They take shelter of the bewildering demoniac and atheistic nature.",
+      "commentary": "Krishna describes the fate of those who deny the Divine — their hopes become futile because they pursue the temporary, their actions fail to produce lasting results because they are self-centered, and their knowledge is misdirected because it lacks the foundation of spiritual truth. They fall into rajasic and tamasic tendencies — cruelty, exploitation, and denial of higher reality."
+    },
+    {
+      "verseNumber": 13,
+      "slug": "verse-13",
+      "speaker": "Krishna",
+      "devanagari": "महात्मानस्तु मां पार्थ दैवीं प्रकृतिमाश्रिताः।\nभजन्त्यनन्यमनसो ज्ञात्वा भूतादिमव्ययम्॥१३॥",
+      "transliteration": "Mahatmanas-Tu Mam Partha Daivim Prakritim-Ashritah.\nBhajanty-Ananya-Manaso Jnatva Bhuta-Adim-Avyayam.||13||",
+      "wordByWord": [
+        {
+          "word": "महात्मानः",
+          "transliteration": "mahatmanah",
+          "meaning": "the great souls"
+        },
+        {
+          "word": "तु",
+          "transliteration": "tu",
+          "meaning": "but"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        },
+        {
+          "word": "पार्थ",
+          "transliteration": "partha",
+          "meaning": "O son of Pritha"
+        },
+        {
+          "word": "दैवीम्",
+          "transliteration": "daivim",
+          "meaning": "divine"
+        },
+        {
+          "word": "प्रकृतिम्",
+          "transliteration": "prakritim",
+          "meaning": "nature"
+        },
+        {
+          "word": "आश्रिताः",
+          "transliteration": "ashritah",
+          "meaning": "taking shelter of"
+        },
+        {
+          "word": "भजन्ति",
+          "transliteration": "bhajanti",
+          "meaning": "worship/serve"
+        },
+        {
+          "word": "अनन्यमनसः",
+          "transliteration": "ananya-manasah",
+          "meaning": "with undivided mind"
+        },
+        {
+          "word": "ज्ञात्वा",
+          "transliteration": "jnatva",
+          "meaning": "knowing"
+        },
+        {
+          "word": "भूतादिम्",
+          "transliteration": "bhuta-adim",
+          "meaning": "the origin of all beings"
+        },
+        {
+          "word": "अव्ययम्",
+          "transliteration": "avyayam",
+          "meaning": "imperishable"
+        }
+      ],
+      "hindiTranslation": "परन्तु हे पार्थ! महात्मा (महान आत्मा वाले) लोग दैवी प्रकृति का आश्रय लेकर मुझे सम्पूर्ण भूतों के आदि (मूल कारण) और अविनाशी जानकर अनन्यमन से भजते हैं।",
+      "englishTranslation": "But the great souls (Mahatmas), O Partha, taking shelter of the divine nature, worship Me with undivided mind, knowing Me as the imperishable origin of all beings.",
+      "commentary": "In contrast to the deluded, Krishna describes the Mahatmas — great souls who take shelter of the divine nature (sattva). They worship with 'ananya-manas' (undivided mind) — their attention, love, and devotion are completely focused on God. They see God not as an abstract concept but as the living, imperishable source of all existence."
+    },
+    {
+      "verseNumber": 14,
+      "slug": "verse-14",
+      "speaker": "Krishna",
+      "devanagari": "सततं कीर्तयन्तो मां यतन्तश्च दृढव्रताः।\nनमस्यन्तश्च मां भक्त्या नित्ययुक्ता उपासते॥१४॥",
+      "transliteration": "Satatam Kirtayanto Mam Yatantash-Cha Dridha-Vratah.\nNamasyantash-Cha Mam Bhaktya Nitya-Yukta Upasate.||14||",
+      "wordByWord": [
+        {
+          "word": "सततम्",
+          "transliteration": "satatam",
+          "meaning": "always"
+        },
+        {
+          "word": "कीर्तयन्तः",
+          "transliteration": "kirtayantah",
+          "meaning": "chanting/glorifying"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        },
+        {
+          "word": "यतन्तः",
+          "transliteration": "yatantah",
+          "meaning": "striving"
+        },
+        {
+          "word": "च",
+          "transliteration": "cha",
+          "meaning": "and"
+        },
+        {
+          "word": "दृढव्रताः",
+          "transliteration": "dridha-vratah",
+          "meaning": "with firm resolve"
+        },
+        {
+          "word": "नमस्यन्तः",
+          "transliteration": "namasyantah",
+          "meaning": "offering obeisances"
+        },
+        {
+          "word": "च",
+          "transliteration": "cha",
+          "meaning": "and"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        },
+        {
+          "word": "भक्त्या",
+          "transliteration": "bhaktya",
+          "meaning": "with devotion"
+        },
+        {
+          "word": "नित्ययुक्ताः",
+          "transliteration": "nitya-yuktah",
+          "meaning": "always engaged"
+        },
+        {
+          "word": "उपासते",
+          "transliteration": "upasate",
+          "meaning": "worship"
+        }
+      ],
+      "hindiTranslation": "वे सदा मेरा कीर्तन (गुणगान) करते हुए, दृढ़ व्रत (संकल्प) से प्रयत्न करते हुए, और भक्तिपूर्वक मुझे नमस्कार करते हुए, सदा मुझसे युक्त होकर मेरी उपासना करते हैं।",
+      "englishTranslation": "Always glorifying Me, striving with firm resolve, bowing down to Me with devotion, ever united with Me, they worship Me.",
+      "commentary": "This verse paints a beautiful picture of devotional life. The Mahatmas engage in five practices: constant chanting and glorification (kirtana), disciplined effort (yatna), firm spiritual resolve (dridha-vrata), humble prostration (namaskara), and perpetual inner connection with the Divine (nitya-yukta). This is not sporadic worship but a continuous way of being."
+    },
+    {
+      "verseNumber": 15,
+      "slug": "verse-15",
+      "speaker": "Krishna",
+      "devanagari": "ज्ञानयज्ञेन चाप्यन्ये यजन्तो मामुपासते।\nएकत्वेन पृथक्त्वेन बहुधा विश्वतोमुखम्॥१५॥",
+      "transliteration": "Jnana-Yajnena Cha-Apy-Anye Yajanto Mam-Upasate.\nEkatvena Prithaktvena Bahudha Vishvato-Mukham.||15||",
+      "wordByWord": [
+        {
+          "word": "ज्ञानयज्ञेन",
+          "transliteration": "jnana-yajnena",
+          "meaning": "through the sacrifice of knowledge"
+        },
+        {
+          "word": "च",
+          "transliteration": "cha",
+          "meaning": "and"
+        },
+        {
+          "word": "अपि",
+          "transliteration": "api",
+          "meaning": "also"
+        },
+        {
+          "word": "अन्ये",
+          "transliteration": "anye",
+          "meaning": "others"
+        },
+        {
+          "word": "यजन्तः",
+          "transliteration": "yajantah",
+          "meaning": "worshipping"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        },
+        {
+          "word": "उपासते",
+          "transliteration": "upasate",
+          "meaning": "worship"
+        },
+        {
+          "word": "एकत्वेन",
+          "transliteration": "ekatvena",
+          "meaning": "as oneness"
+        },
+        {
+          "word": "पृथक्त्वेन",
+          "transliteration": "prithaktvena",
+          "meaning": "as separateness"
+        },
+        {
+          "word": "बहुधा",
+          "transliteration": "bahudha",
+          "meaning": "in many forms"
+        },
+        {
+          "word": "विश्वतोमुखम्",
+          "transliteration": "vishvato-mukham",
+          "meaning": "the universal form/facing everywhere"
+        }
+      ],
+      "hindiTranslation": "अन्य लोग ज्ञानयज्ञ के द्वारा — एकत्व (अद्वैत) रूप में, पृथक्-पृथक् (द्वैत) रूप में, और बहुविध (अनेक) रूपों में — मुझ विश्वरूप की उपासना करते हैं।",
+      "englishTranslation": "Others, worshipping through the sacrifice of knowledge, worship Me as oneness (non-dual), as separate (dual), and in many forms as the Universal Being facing everywhere.",
+      "commentary": "Krishna acknowledges the validity of different approaches to the Divine. Some worship through non-dual realization (Advaita — seeing God as one with everything), others through the dual path (Dvaita — worshipping God as separate from themselves), and others see God's diverse manifestations everywhere. All these paths ultimately lead to the same Divine reality."
+    },
+    {
+      "verseNumber": 16,
+      "slug": "verse-16",
+      "speaker": "Krishna",
+      "devanagari": "अहं क्रतुरहं यज्ञः स्वधाहमहमौषधम्।\nमन्त्रोऽहमहमेवाज्यमहमग्निरहं हुतम्॥१६॥",
+      "transliteration": "Aham Kratur-Aham Yajnah Svadha-Aham-Aham-Aushadham.\nMantro'ham-Aham-Eva-Ajyam-Aham-Agnir-Aham Hutam.||16||",
+      "wordByWord": [
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I am"
+        },
+        {
+          "word": "क्रतुः",
+          "transliteration": "kratuh",
+          "meaning": "the Vedic ritual"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I am"
+        },
+        {
+          "word": "यज्ञः",
+          "transliteration": "yajnah",
+          "meaning": "the sacrifice"
+        },
+        {
+          "word": "स्वधा",
+          "transliteration": "svadha",
+          "meaning": "the offering to ancestors"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I am"
+        },
+        {
+          "word": "औषधम्",
+          "transliteration": "aushadham",
+          "meaning": "the healing herb"
+        },
+        {
+          "word": "मन्त्रः",
+          "transliteration": "mantrah",
+          "meaning": "the sacred chant"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I am"
+        },
+        {
+          "word": "आज्यम्",
+          "transliteration": "ajyam",
+          "meaning": "the clarified butter"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I am"
+        },
+        {
+          "word": "अग्निः",
+          "transliteration": "agnih",
+          "meaning": "the fire"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I am"
+        },
+        {
+          "word": "हुतम्",
+          "transliteration": "hutam",
+          "meaning": "the act of offering"
+        }
+      ],
+      "hindiTranslation": "मैं ही क्रतु (वैदिक कर्मकाण्ड) हूँ, मैं ही यज्ञ हूँ, मैं ही स्वधा (पितरों को अर्पण) हूँ, मैं ही औषधि हूँ, मैं ही मन्त्र हूँ, मैं ही घृत (घी) हूँ, मैं ही अग्नि हूँ और मैं ही हवन-क्रिया (आहुति) हूँ।",
+      "englishTranslation": "I am the Vedic ritual, I am the sacrifice, I am the offering to the ancestors, I am the healing herb, I am the sacred mantra, I am the clarified butter, I am the fire, and I am the act of offering.",
+      "commentary": "Krishna reveals that He is not merely the object of worship but the entire process of worship itself. The ritual, the sacrifice, the offering, the mantra, the fire, the ghee, and the act of pouring — all are manifestations of the one Divine consciousness. This means that every sincere act of worship, regardless of its form, is an interaction with God's own being."
+    },
+    {
+      "verseNumber": 17,
+      "slug": "verse-17",
+      "speaker": "Krishna",
+      "devanagari": "पिताहमस्य जगतो माता धाता पितामहः।\nवेद्यं पवित्रमोङ्कार ऋक्साम यजुरेव च॥१७॥",
+      "transliteration": "Pita-Aham-Asya Jagato Mata Dhata Pitamahah.\nVedyam Pavitram-Omkara Rik-Sama Yajur-Eva Cha.||17||",
+      "wordByWord": [
+        {
+          "word": "पिता",
+          "transliteration": "pita",
+          "meaning": "the father"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I am"
+        },
+        {
+          "word": "अस्य",
+          "transliteration": "asya",
+          "meaning": "of this"
+        },
+        {
+          "word": "जगतः",
+          "transliteration": "jagatah",
+          "meaning": "universe"
+        },
+        {
+          "word": "माता",
+          "transliteration": "mata",
+          "meaning": "the mother"
+        },
+        {
+          "word": "धाता",
+          "transliteration": "dhata",
+          "meaning": "the sustainer/creator"
+        },
+        {
+          "word": "पितामहः",
+          "transliteration": "pitamahah",
+          "meaning": "the grandfather"
+        },
+        {
+          "word": "वेद्यम्",
+          "transliteration": "vedyam",
+          "meaning": "that which is to be known"
+        },
+        {
+          "word": "पवित्रम्",
+          "transliteration": "pavitram",
+          "meaning": "the purifier"
+        },
+        {
+          "word": "ओङ्कारः",
+          "transliteration": "onkarah",
+          "meaning": "the syllable Om"
+        },
+        {
+          "word": "ऋक्",
+          "transliteration": "rik",
+          "meaning": "the Rig Veda"
+        },
+        {
+          "word": "साम",
+          "transliteration": "sama",
+          "meaning": "the Sama Veda"
+        },
+        {
+          "word": "यजुः",
+          "transliteration": "yajuh",
+          "meaning": "the Yajur Veda"
+        }
+      ],
+      "hindiTranslation": "मैं इस जगत का पिता हूँ, माता हूँ, धाता (विधाता/पालनकर्ता) हूँ, पितामह हूँ; जानने योग्य (वेद्य) हूँ, पवित्र करने वाला (ओंकार) हूँ; ऋग्वेद, सामवेद और यजुर्वेद भी मैं ही हूँ।",
+      "englishTranslation": "I am the father of this universe, the mother, the sustainer, and the grandfather. I am the object of all knowledge, the purifier, the sacred syllable Om, and I am the Rig, Sama, and Yajur Vedas.",
+      "commentary": "Krishna declares Himself as both father and mother of the universe — combining both masculine and feminine aspects of the Divine. He is the purifier (through Om, the primordial sound), and the embodiment of all sacred knowledge (the three Vedas). This verse establishes the absolute comprehensiveness of God's relationship with creation."
+    },
+    {
+      "verseNumber": 18,
+      "slug": "verse-18",
+      "speaker": "Krishna",
+      "devanagari": "गतिर्भर्ता प्रभुः साक्षी निवासः शरणं सुहृत्।\nप्रभवः प्रलयः स्थानं निधानं बीजमव्ययम्॥१८॥",
+      "transliteration": "Gatir-Bharta Prabhuh Sakshi Nivasah Sharanam Suhrit.\nPrabhavah Pralayah Sthanam Nidhanam Bijam-Avyayam.||18||",
+      "wordByWord": [
+        {
+          "word": "गतिः",
+          "transliteration": "gatih",
+          "meaning": "the goal/destination"
+        },
+        {
+          "word": "भर्ता",
+          "transliteration": "bharta",
+          "meaning": "the sustainer"
+        },
+        {
+          "word": "प्रभुः",
+          "transliteration": "prabhuh",
+          "meaning": "the Lord/master"
+        },
+        {
+          "word": "साक्षी",
+          "transliteration": "sakshi",
+          "meaning": "the witness"
+        },
+        {
+          "word": "निवासः",
+          "transliteration": "nivasah",
+          "meaning": "the abode"
+        },
+        {
+          "word": "शरणम्",
+          "transliteration": "sharanam",
+          "meaning": "the refuge/shelter"
+        },
+        {
+          "word": "सुहृत्",
+          "transliteration": "suhrit",
+          "meaning": "the well-wishing friend"
+        },
+        {
+          "word": "प्रभवः",
+          "transliteration": "prabhavah",
+          "meaning": "the origin/creation"
+        },
+        {
+          "word": "प्रलयः",
+          "transliteration": "pralayah",
+          "meaning": "the dissolution"
+        },
+        {
+          "word": "स्थानम्",
+          "transliteration": "sthanam",
+          "meaning": "the foundation"
+        },
+        {
+          "word": "निधानम्",
+          "transliteration": "nidhanam",
+          "meaning": "the resting place/treasure"
+        },
+        {
+          "word": "बीजम्",
+          "transliteration": "bijam",
+          "meaning": "the seed"
+        },
+        {
+          "word": "अव्ययम्",
+          "transliteration": "avyayam",
+          "meaning": "imperishable"
+        }
+      ],
+      "hindiTranslation": "मैं गति (परम लक्ष्य) हूँ, भर्ता (पोषक) हूँ, प्रभु (स्वामी) हूँ, साक्षी हूँ, निवास (आश्रय-स्थान) हूँ, शरण हूँ, सुहृद् (निःस्वार्थ मित्र) हूँ, उत्पत्ति हूँ, प्रलय हूँ, आधार हूँ, निधान (भण्डार) हूँ और अव्यय (अविनाशी) बीज हूँ।",
+      "englishTranslation": "I am the goal, the sustainer, the master, the witness, the abode, the refuge, the well-wishing friend, the origin, the dissolution, the foundation, the resting place, and the imperishable seed.",
+      "commentary": "This extraordinary verse lists twelve aspects of God's relationship with creation. Among these, 'suhrit' (selfless friend) is especially touching — God is not just a distant cosmic principle but an intimate, well-wishing companion of every soul. And 'bijam avyayam' (imperishable seed) means He is the eternal source from which all of creation sprouts, again and again."
+    },
+    {
+      "verseNumber": 19,
+      "slug": "verse-19",
+      "speaker": "Krishna",
+      "devanagari": "तपाम्यहमहं वर्षं निगृह्णाम्युत्सृजामि च।\nअमृतं चैव मृत्युश्च सदसच्चाहमर्जुन॥१९॥",
+      "transliteration": "Tapamy-Aham-Aham Varsham Nigrihnaamy-Utsrijami Cha.\nAmritam Chaiva Mrityush-Cha Sad-Asach-Cha-Aham-Arjuna.||19||",
+      "wordByWord": [
+        {
+          "word": "तपामि",
+          "transliteration": "tapami",
+          "meaning": "I give heat"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I"
+        },
+        {
+          "word": "वर्षम्",
+          "transliteration": "varsham",
+          "meaning": "rain"
+        },
+        {
+          "word": "निगृह्णामि",
+          "transliteration": "nigrihami",
+          "meaning": "I withhold"
+        },
+        {
+          "word": "उत्सृजामि",
+          "transliteration": "utsrijami",
+          "meaning": "I send forth"
+        },
+        {
+          "word": "च",
+          "transliteration": "cha",
+          "meaning": "and"
+        },
+        {
+          "word": "अमृतम्",
+          "transliteration": "amritam",
+          "meaning": "immortality"
+        },
+        {
+          "word": "च",
+          "transliteration": "cha",
+          "meaning": "and"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "indeed"
+        },
+        {
+          "word": "मृत्युः",
+          "transliteration": "mrityuh",
+          "meaning": "death"
+        },
+        {
+          "word": "च",
+          "transliteration": "cha",
+          "meaning": "and"
+        },
+        {
+          "word": "सत्",
+          "transliteration": "sat",
+          "meaning": "being/existence"
+        },
+        {
+          "word": "असत्",
+          "transliteration": "asat",
+          "meaning": "non-being"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I am"
+        },
+        {
+          "word": "अर्जुन",
+          "transliteration": "arjuna",
+          "meaning": "O Arjuna"
+        }
+      ],
+      "hindiTranslation": "हे अर्जुन! मैं ही (सूर्यरूप से) ताप देता हूँ, मैं ही वर्षा को रोकता और बरसाता हूँ। मैं ही अमृत (अमरता) और मृत्यु हूँ — सत् (अस्तित्व) और असत् (अनस्तित्व) दोनों मैं ही हूँ।",
+      "englishTranslation": "O Arjuna, I give heat (as the sun). I withhold and send forth rain. I am both immortality and death, being and non-being — I am all of this.",
+      "commentary": "Krishna encompasses all pairs of opposites within Himself. He is both the heat of the sun and the cooling rain, both immortality and death, both existence and non-existence. The Divine transcends duality — good and bad, life and death, being and non-being are all aspects of the one infinite reality. This is the ultimate non-dual vision."
+    },
+    {
+      "verseNumber": 20,
+      "slug": "verse-20",
+      "speaker": "Krishna",
+      "devanagari": "त्रैविद्या मां सोमपाः पूतपापा\nयज्ञैरिष्ट्वा स्वर्गतिं प्रार्थयन्ते।\nते पुण्यमासाद्य सुरेन्द्रलोक-\nमश्नन्ति दिव्यान्दिवि देवभोगान्॥२०॥",
+      "transliteration": "Traividya Mam Somapah Puta-Papa\nYajnair-Ishtva Svar-Gatim Prarthayante.\nTe Punyam-Asadya Surendra-Lokam-\nAshnanti Divyan Divi Deva-Bhogan.||20||",
+      "wordByWord": [
+        {
+          "word": "त्रैविद्याः",
+          "transliteration": "traividyah",
+          "meaning": "knowers of the three Vedas"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        },
+        {
+          "word": "सोमपाः",
+          "transliteration": "somapah",
+          "meaning": "drinkers of the Soma"
+        },
+        {
+          "word": "पूतपापाः",
+          "transliteration": "puta-papah",
+          "meaning": "purified of sins"
+        },
+        {
+          "word": "यज्ञैः",
+          "transliteration": "yajnaih",
+          "meaning": "through sacrifices"
+        },
+        {
+          "word": "इष्ट्वा",
+          "transliteration": "ishtva",
+          "meaning": "having worshipped"
+        },
+        {
+          "word": "स्वर्गतिम्",
+          "transliteration": "svar-gatim",
+          "meaning": "passage to heaven"
+        },
+        {
+          "word": "प्रार्थयन्ते",
+          "transliteration": "prarthayante",
+          "meaning": "pray for"
+        },
+        {
+          "word": "ते",
+          "transliteration": "te",
+          "meaning": "they"
+        },
+        {
+          "word": "पुण्यम्",
+          "transliteration": "punyam",
+          "meaning": "holy/meritorious"
+        },
+        {
+          "word": "सुरेन्द्रलोकम्",
+          "transliteration": "surendra-lokam",
+          "meaning": "the world of Indra"
+        },
+        {
+          "word": "दिव्यान्",
+          "transliteration": "divyan",
+          "meaning": "divine"
+        },
+        {
+          "word": "देवभोगान्",
+          "transliteration": "deva-bhogan",
+          "meaning": "celestial pleasures"
+        }
+      ],
+      "hindiTranslation": "तीनों वेदों को जानने वाले, सोमरस पीने वाले, पापमुक्त हुए लोग यज्ञों द्वारा मेरी पूजा करके स्वर्ग की प्राप्ति की प्रार्थना करते हैं। वे पुण्य के फलस्वरूप इन्द्रलोक (स्वर्ग) को प्राप्त होकर वहाँ दिव्य देवभोगों को भोगते हैं।",
+      "englishTranslation": "Those who know the three Vedas, who drink the Soma juice, who are purified of sins, worship Me through sacrifices and pray for passage to heaven. They reach the holy world of Indra and enjoy divine celestial pleasures.",
+      "commentary": "Krishna describes the path of Vedic ritualism. Those who perform elaborate sacrifices with the desire for heavenly rewards do attain those rewards temporarily. However, this verse sets up the contrast with the next verse, which reveals the limitation of such desire-motivated worship — the enjoyments of heaven are temporary, and one must eventually return to the mortal world."
+    },
+    {
+      "verseNumber": 21,
+      "slug": "verse-21",
+      "speaker": "Krishna",
+      "devanagari": "ते तं भुक्त्वा स्वर्गलोकं विशालं\nक्षीणे पुण्ये मर्त्यलोकं विशन्ति।\nएवं त्रयीधर्ममनुप्रपन्ना\nगतागतं कामकामा लभन्ते॥२१॥",
+      "transliteration": "Te Tam Bhuktva Svarga-Lokam Vishalam\nKshine Punye Martya-Lokam Vishanti.\nEvam Trayi-Dharmam-Anuprapanna\nGata-Agatam Kama-Kama Labhante.||21||",
+      "wordByWord": [
+        {
+          "word": "ते",
+          "transliteration": "te",
+          "meaning": "they"
+        },
+        {
+          "word": "तम्",
+          "transliteration": "tam",
+          "meaning": "that"
+        },
+        {
+          "word": "भुक्त्वा",
+          "transliteration": "bhuktva",
+          "meaning": "having enjoyed"
+        },
+        {
+          "word": "स्वर्गलोकम्",
+          "transliteration": "svarga-lokam",
+          "meaning": "the heavenly world"
+        },
+        {
+          "word": "विशालम्",
+          "transliteration": "vishalam",
+          "meaning": "vast"
+        },
+        {
+          "word": "क्षीणे",
+          "transliteration": "kshine",
+          "meaning": "being exhausted"
+        },
+        {
+          "word": "पुण्ये",
+          "transliteration": "punye",
+          "meaning": "merit/virtue"
+        },
+        {
+          "word": "मर्त्यलोकम्",
+          "transliteration": "martya-lokam",
+          "meaning": "the mortal world"
+        },
+        {
+          "word": "विशन्ति",
+          "transliteration": "vishanti",
+          "meaning": "they enter/return"
+        },
+        {
+          "word": "त्रयीधर्मम्",
+          "transliteration": "trayi-dharmam",
+          "meaning": "the Vedic rituals"
+        },
+        {
+          "word": "अनुप्रपन्नाः",
+          "transliteration": "anuprapannah",
+          "meaning": "following"
+        },
+        {
+          "word": "गतागतम्",
+          "transliteration": "gata-agatam",
+          "meaning": "coming and going"
+        },
+        {
+          "word": "कामकामाः",
+          "transliteration": "kama-kamah",
+          "meaning": "desiring sense pleasures"
+        },
+        {
+          "word": "लभन्ते",
+          "transliteration": "labhante",
+          "meaning": "they attain"
+        }
+      ],
+      "hindiTranslation": "वे उस विशाल स्वर्गलोक को भोगकर, पुण्य क्षीण होने पर मर्त्यलोक (मृत्युलोक/पृथ्वी) में लौट आते हैं। इस प्रकार वेदों में कहे कर्मकाण्ड (त्रयीधर्म) का अनुसरण करने वाले, भोगों की कामना करने वाले लोग आवागमन (जन्म-मरण) को ही प्राप्त होते हैं।",
+      "englishTranslation": "Having enjoyed the vast heavenly world, when their merit is exhausted, they return to the mortal world. Thus, following the Vedic rituals driven by desire, they attain only the cycle of coming and going.",
+      "commentary": "This is a crucial teaching — even heaven is temporary. When the accumulated merit (punya) that earned one a place in heaven is spent, one must return to earth. Desire-driven worship, even if Vedic and proper, cannot grant liberation. Only selfless devotion to God, free from desire for personal reward, can break the cycle of birth and death."
+    },
+    {
+      "verseNumber": 22,
+      "slug": "verse-22",
+      "speaker": "Krishna",
+      "devanagari": "अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते।\nतेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम्॥२२॥",
+      "transliteration": "Ananyash-Chintayanto Mam Ye Janah Paryupasate.\nTesham Nitya-Abhiyuktanam Yoga-Kshemam Vahamy-Aham.||22||",
+      "wordByWord": [
+        {
+          "word": "अनन्याः",
+          "transliteration": "ananyah",
+          "meaning": "with no other thought/exclusive"
+        },
+        {
+          "word": "चिन्तयन्तः",
+          "transliteration": "chintayantah",
+          "meaning": "thinking of/meditating upon"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        },
+        {
+          "word": "ये",
+          "transliteration": "ye",
+          "meaning": "those who"
+        },
+        {
+          "word": "जनाः",
+          "transliteration": "janah",
+          "meaning": "people"
+        },
+        {
+          "word": "पर्युपासते",
+          "transliteration": "paryupasate",
+          "meaning": "worship exclusively"
+        },
+        {
+          "word": "तेषाम्",
+          "transliteration": "tesham",
+          "meaning": "of those"
+        },
+        {
+          "word": "नित्याभियुक्तानाम्",
+          "transliteration": "nitya-abhiyuktanam",
+          "meaning": "ever steadfast/constantly united"
+        },
+        {
+          "word": "योगक्षेमम्",
+          "transliteration": "yoga-kshemam",
+          "meaning": "acquisition and preservation of what they need"
+        },
+        {
+          "word": "वहामि",
+          "transliteration": "vahami",
+          "meaning": "I carry/bear"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I"
+        }
+      ],
+      "hindiTranslation": "जो लोग अनन्य भाव से मेरा चिन्तन करते हुए मेरी उपासना करते हैं — उन नित्य (सदा) मुझमें युक्त रहने वालों का योगक्षेम (अप्राप्त की प्राप्ति और प्राप्त की रक्षा) मैं स्वयं वहन करता हूँ।",
+      "englishTranslation": "Those who worship Me with exclusive devotion, meditating on Me with no other thought — to those ever-steadfast devotees, I personally carry what they lack (yoga) and preserve what they have (kshema).",
+      "commentary": "This is one of the most cherished and powerful verses of the entire Gita. God makes a personal promise — 'Vahami Aham' (I personally carry). The word 'ananya' (exclusive, undivided) is key — when devotion is single-pointed and wholehearted, God Himself becomes the devotee's provider and protector. Yoga means acquiring what is needed, and Kshema means preserving what is already possessed. This is the ultimate assurance of divine care."
+    },
+    {
+      "verseNumber": 23,
+      "slug": "verse-23",
+      "speaker": "Krishna",
+      "devanagari": "येऽप्यन्यदेवताभक्ता यजन्ते श्रद्धयान्विताः।\nतेऽपि मामेव कौन्तेय यजन्त्यविधिपूर्वकम्॥२३॥",
+      "transliteration": "Ye'py-Anya-Devata-Bhakta Yajante Shraddhaya-Anvitah.\nTe'pi Mam-Eva Kaunteya Yajanty-Avidhi-Purvakam.||23||",
+      "wordByWord": [
+        {
+          "word": "ये",
+          "transliteration": "ye",
+          "meaning": "those who"
+        },
+        {
+          "word": "अपि",
+          "transliteration": "api",
+          "meaning": "even"
+        },
+        {
+          "word": "अन्यदेवताभक्ताः",
+          "transliteration": "anya-devata-bhaktah",
+          "meaning": "devotees of other gods"
+        },
+        {
+          "word": "यजन्ते",
+          "transliteration": "yajante",
+          "meaning": "worship"
+        },
+        {
+          "word": "श्रद्धया",
+          "transliteration": "shraddhaya",
+          "meaning": "with faith"
+        },
+        {
+          "word": "अन्विताः",
+          "transliteration": "anvitah",
+          "meaning": "endowed with"
+        },
+        {
+          "word": "ते",
+          "transliteration": "te",
+          "meaning": "they"
+        },
+        {
+          "word": "अपि",
+          "transliteration": "api",
+          "meaning": "also"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "alone"
+        },
+        {
+          "word": "कौन्तेय",
+          "transliteration": "kaunteya",
+          "meaning": "O son of Kunti"
+        },
+        {
+          "word": "यजन्ति",
+          "transliteration": "yajanti",
+          "meaning": "worship"
+        },
+        {
+          "word": "अविधिपूर्वकम्",
+          "transliteration": "avidhi-purvakam",
+          "meaning": "in an improper/indirect way"
+        }
+      ],
+      "hindiTranslation": "हे कौन्तेय! जो लोग श्रद्धापूर्वक अन्य देवताओं की भक्ति करते हैं, वे भी मेरी ही पूजा करते हैं — परन्तु अविधिपूर्वक (उचित विधि से नहीं)।",
+      "englishTranslation": "O son of Kunti, even those who are devoted to other gods and worship them with faith — they too are worshipping Me alone, though in an indirect and improper manner.",
+      "commentary": "This verse reveals the inclusive nature of the Divine — all sincere worship ultimately reaches the Supreme, since all deities are manifestations of the one God. However, 'avidhi-purvakam' (not in the proper manner) indicates that worshipping a limited form without recognizing the Supreme behind it limits the fruits of that worship. Recognition of the ultimate source amplifies devotion."
+    },
+    {
+      "verseNumber": 24,
+      "slug": "verse-24",
+      "speaker": "Krishna",
+      "devanagari": "अहं हि सर्वयज्ञानां भोक्ता च प्रभुरेव च।\nन तु मामभिजानन्ति तत्त्वेनातश्च्यवन्ति ते॥२४॥",
+      "transliteration": "Aham Hi Sarva-Yajnanam Bhokta Cha Prabhur-Eva Cha.\nNa Tu Mam-Abhijananti Tattvenatas-Chyavanti Te.||24||",
+      "wordByWord": [
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I"
+        },
+        {
+          "word": "हि",
+          "transliteration": "hi",
+          "meaning": "indeed"
+        },
+        {
+          "word": "सर्वयज्ञानाम्",
+          "transliteration": "sarva-yajnanam",
+          "meaning": "of all sacrifices"
+        },
+        {
+          "word": "भोक्ता",
+          "transliteration": "bhokta",
+          "meaning": "the enjoyer"
+        },
+        {
+          "word": "च",
+          "transliteration": "cha",
+          "meaning": "and"
+        },
+        {
+          "word": "प्रभुः",
+          "transliteration": "prabhuh",
+          "meaning": "the Lord"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "indeed"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "तु",
+          "transliteration": "tu",
+          "meaning": "but"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        },
+        {
+          "word": "अभिजानन्ति",
+          "transliteration": "abhijananti",
+          "meaning": "they know"
+        },
+        {
+          "word": "तत्त्वेन",
+          "transliteration": "tattvena",
+          "meaning": "in truth/reality"
+        },
+        {
+          "word": "अतः",
+          "transliteration": "atah",
+          "meaning": "therefore"
+        },
+        {
+          "word": "च्यवन्ति",
+          "transliteration": "chyavanti",
+          "meaning": "they fall/decline"
+        },
+        {
+          "word": "ते",
+          "transliteration": "te",
+          "meaning": "they"
+        }
+      ],
+      "hindiTranslation": "क्योंकि मैं ही समस्त यज्ञों का भोक्ता और स्वामी हूँ। परन्तु वे मुझे तत्त्व से (यथार्थ रूप में) नहीं जानते, इसलिए वे गिर जाते हैं (पतन होता है)।",
+      "englishTranslation": "For I alone am the enjoyer and the Lord of all sacrifices. But they do not know Me in truth (as the Supreme), and therefore they fall (from the higher attainment).",
+      "commentary": "Krishna explains why worship of other deities, though reaching Him, is incomplete. He is the ultimate recipient and master of all worship. Those who fail to recognize this truth worship limited forms and receive limited, temporary results. Their 'fall' is not punishment but simply the natural consequence of incomplete understanding — they miss the opportunity for permanent liberation."
+    },
+    {
+      "verseNumber": 25,
+      "slug": "verse-25",
+      "speaker": "Krishna",
+      "devanagari": "यान्ति देवव्रता देवान्पितॄन्यान्ति पितृव्रताः।\nभूतानि यान्ति भूतेज्या यान्ति मद्याजिनोऽपि माम्॥२५॥",
+      "transliteration": "Yanti Deva-Vrata Devan Pitrin Yanti Pitri-Vratah.\nBhutani Yanti Bhutejya Yanti Mad-Yajino'pi Mam.||25||",
+      "wordByWord": [
+        {
+          "word": "यान्ति",
+          "transliteration": "yanti",
+          "meaning": "go to"
+        },
+        {
+          "word": "देवव्रताः",
+          "transliteration": "deva-vratah",
+          "meaning": "worshippers of the devas"
+        },
+        {
+          "word": "देवान्",
+          "transliteration": "devan",
+          "meaning": "the devas"
+        },
+        {
+          "word": "पितॄन्",
+          "transliteration": "pitrin",
+          "meaning": "the ancestors"
+        },
+        {
+          "word": "यान्ति",
+          "transliteration": "yanti",
+          "meaning": "go to"
+        },
+        {
+          "word": "पितृव्रताः",
+          "transliteration": "pitri-vratah",
+          "meaning": "worshippers of ancestors"
+        },
+        {
+          "word": "भूतानि",
+          "transliteration": "bhutani",
+          "meaning": "the spirits/elemental beings"
+        },
+        {
+          "word": "यान्ति",
+          "transliteration": "yanti",
+          "meaning": "go to"
+        },
+        {
+          "word": "भूतेज्याः",
+          "transliteration": "bhutejyah",
+          "meaning": "worshippers of spirits"
+        },
+        {
+          "word": "यान्ति",
+          "transliteration": "yanti",
+          "meaning": "come to"
+        },
+        {
+          "word": "मद्याजिनः",
+          "transliteration": "mad-yajinah",
+          "meaning": "My worshippers"
+        },
+        {
+          "word": "अपि",
+          "transliteration": "api",
+          "meaning": "also"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        }
+      ],
+      "hindiTranslation": "देवताओं के उपासक देवताओं को प्राप्त होते हैं, पितरों के उपासक पितरों को, भूतों (प्रेत-पिशाचों) के उपासक भूतों को — और मेरे भक्त मुझे ही प्राप्त होते हैं।",
+      "englishTranslation": "Worshippers of the devas go to the devas, worshippers of ancestors go to the ancestors, worshippers of spirits go to the spirits — but My devotees come to Me.",
+      "commentary": "This verse establishes the principle 'you become what you worship.' The object of one's devotion determines one's destination. Those who worship limited beings attain limited realms. But devotees of the Supreme attain the Supreme — which is permanent and infinite. This is not about excluding other forms of worship but about revealing the highest possibility available to every soul."
+    },
+    {
+      "verseNumber": 26,
+      "slug": "verse-26",
+      "speaker": "Krishna",
+      "devanagari": "पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति।\nतदहं भक्त्युपहृतमश्नामि प्रयतात्मनः॥२६॥",
+      "transliteration": "Patram Pushpam Phalam Toyam Yo Me Bhaktya Prayachchhati.\nTad-Aham Bhakty-Upahritam-Ashnami Prayata-Atmanah.||26||",
+      "wordByWord": [
+        {
+          "word": "पत्रम्",
+          "transliteration": "patram",
+          "meaning": "a leaf"
+        },
+        {
+          "word": "पुष्पम्",
+          "transliteration": "pushpam",
+          "meaning": "a flower"
+        },
+        {
+          "word": "फलम्",
+          "transliteration": "phalam",
+          "meaning": "a fruit"
+        },
+        {
+          "word": "तोयम्",
+          "transliteration": "toyam",
+          "meaning": "water"
+        },
+        {
+          "word": "यः",
+          "transliteration": "yah",
+          "meaning": "whoever"
+        },
+        {
+          "word": "मे",
+          "transliteration": "me",
+          "meaning": "to Me"
+        },
+        {
+          "word": "भक्त्या",
+          "transliteration": "bhaktya",
+          "meaning": "with devotion"
+        },
+        {
+          "word": "प्रयच्छति",
+          "transliteration": "prayachchhati",
+          "meaning": "offers"
+        },
+        {
+          "word": "तत्",
+          "transliteration": "tat",
+          "meaning": "that"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I"
+        },
+        {
+          "word": "भक्त्युपहृतम्",
+          "transliteration": "bhakty-upahritam",
+          "meaning": "offered with devotion"
+        },
+        {
+          "word": "अश्नामि",
+          "transliteration": "ashnami",
+          "meaning": "accept/eat"
+        },
+        {
+          "word": "प्रयतात्मनः",
+          "transliteration": "prayata-atmanah",
+          "meaning": "from the pure-hearted one"
+        }
+      ],
+      "hindiTranslation": "जो कोई भक्ति से मुझे एक पत्ता, एक पुष्प, एक फल या जल भी अर्पित करता है — उस शुद्ध हृदय वाले भक्त का प्रेमपूर्वक अर्पित किया हुआ वह मैं (प्रेमपूर्वक) स्वीकार करता हूँ।",
+      "englishTranslation": "Whoever offers Me with devotion a leaf, a flower, a fruit, or even water — that offering of love, made with a pure heart, I lovingly accept.",
+      "commentary": "This is one of the most beloved verses in all of Hindu scripture. God does not want elaborate rituals or expensive offerings — He wants the heart. The simplest things — a leaf, a flower, a fruit, water — when offered with genuine devotion, are received by the Lord with love. This verse democratizes worship entirely — the poorest person can offer the richest devotion. What matters is not the material value but the spiritual sincerity."
+    },
+    {
+      "verseNumber": 27,
+      "slug": "verse-27",
+      "speaker": "Krishna",
+      "devanagari": "यत्करोषि यदश्नासि यज्जुहोषि ददासि यत्।\nयत्तपस्यसि कौन्तेय तत्कुरुष्व मदर्पणम्॥२७॥",
+      "transliteration": "Yat-Karoshi Yad-Ashnasi Yaj-Juhoshi Dadasi Yat.\nYat-Tapasyasi Kaunteya Tat-Kurushva Mad-Arpanam.||27||",
+      "wordByWord": [
+        {
+          "word": "यत्",
+          "transliteration": "yat",
+          "meaning": "whatever"
+        },
+        {
+          "word": "करोषि",
+          "transliteration": "karoshi",
+          "meaning": "you do"
+        },
+        {
+          "word": "यत्",
+          "transliteration": "yat",
+          "meaning": "whatever"
+        },
+        {
+          "word": "अश्नासि",
+          "transliteration": "ashnasi",
+          "meaning": "you eat"
+        },
+        {
+          "word": "यत्",
+          "transliteration": "yat",
+          "meaning": "whatever"
+        },
+        {
+          "word": "जुहोषि",
+          "transliteration": "juhoshi",
+          "meaning": "you offer (in sacrifice)"
+        },
+        {
+          "word": "ददासि",
+          "transliteration": "dadasi",
+          "meaning": "you give (in charity)"
+        },
+        {
+          "word": "यत्",
+          "transliteration": "yat",
+          "meaning": "whatever"
+        },
+        {
+          "word": "यत्",
+          "transliteration": "yat",
+          "meaning": "whatever"
+        },
+        {
+          "word": "तपस्यसि",
+          "transliteration": "tapasyasi",
+          "meaning": "you practice as austerity"
+        },
+        {
+          "word": "कौन्तेय",
+          "transliteration": "kaunteya",
+          "meaning": "O son of Kunti"
+        },
+        {
+          "word": "तत्",
+          "transliteration": "tat",
+          "meaning": "that"
+        },
+        {
+          "word": "कुरुष्व",
+          "transliteration": "kurushva",
+          "meaning": "do/offer"
+        },
+        {
+          "word": "मदर्पणम्",
+          "transliteration": "mad-arpanam",
+          "meaning": "as an offering to Me"
+        }
+      ],
+      "hindiTranslation": "हे कौन्तेय! तू जो कुछ करता है, जो खाता है, जो हवन करता है, जो दान देता है और जो तप करता है — वह सब मुझे अर्पण कर।",
+      "englishTranslation": "O son of Kunti, whatever you do, whatever you eat, whatever you offer in sacrifice, whatever you give in charity, whatever austerity you perform — do all of that as an offering to Me.",
+      "commentary": "This verse transforms the entirety of daily life into worship. Not just meditation and prayer, but eating, working, giving, and even practicing discipline — everything becomes sacred when offered to God. This is the essence of living spirituality — not a separate compartment of life, but the sanctification of every moment and every action through the attitude of offering."
+    },
+    {
+      "verseNumber": 28,
+      "slug": "verse-28",
+      "speaker": "Krishna",
+      "devanagari": "शुभाशुभफलैरेवं मोक्ष्यसे कर्मबन्धनैः।\nसन्न्यासयोगयुक्तात्मा विमुक्तो मामुपैष्यसि॥२८॥",
+      "transliteration": "Shubha-Ashubha-Phalair-Evam Mokshyase Karma-Bandhanaih.\nSannyasa-Yoga-Yukta-Atma Vimukto Mam-Upaishyasi.||28||",
+      "wordByWord": [
+        {
+          "word": "शुभ",
+          "transliteration": "shubha",
+          "meaning": "auspicious/good"
+        },
+        {
+          "word": "अशुभ",
+          "transliteration": "ashubha",
+          "meaning": "inauspicious/bad"
+        },
+        {
+          "word": "फलैः",
+          "transliteration": "phalaih",
+          "meaning": "from the results"
+        },
+        {
+          "word": "एवम्",
+          "transliteration": "evam",
+          "meaning": "thus"
+        },
+        {
+          "word": "मोक्ष्यसे",
+          "transliteration": "mokshyase",
+          "meaning": "you shall be freed"
+        },
+        {
+          "word": "कर्मबन्धनैः",
+          "transliteration": "karma-bandhanaih",
+          "meaning": "from the bondage of karma"
+        },
+        {
+          "word": "सन्न्यासयोगयुक्तात्मा",
+          "transliteration": "sannyasa-yoga-yukta-atma",
+          "meaning": "with the mind established in the yoga of renunciation"
+        },
+        {
+          "word": "विमुक्तः",
+          "transliteration": "vimuktah",
+          "meaning": "liberated"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        },
+        {
+          "word": "उपैष्यसि",
+          "transliteration": "upaishyasi",
+          "meaning": "you shall come to/attain"
+        }
+      ],
+      "hindiTranslation": "इस प्रकार संन्यासयोग (त्याग और भक्ति) से युक्त-चित्त होकर तू शुभ और अशुभ कर्मफलों के बन्धन से मुक्त हो जाएगा — और विमुक्त (मुक्त) होकर मुझे प्राप्त होगा।",
+      "englishTranslation": "Thus, with your mind established in the Yoga of renunciation, you shall be freed from the bondage of both good and bad karmic results. Liberated, you shall come to Me.",
+      "commentary": "The fruit of offering all actions to God is freedom from both positive and negative karma. Good karma binds one to pleasant experiences (like heaven), and bad karma binds to suffering — but both are still bondage. True liberation transcends both, and it comes through the attitude of complete inner renunciation while remaining active in the world."
+    },
+    {
+      "verseNumber": 29,
+      "slug": "verse-29",
+      "speaker": "Krishna",
+      "devanagari": "समोऽहं सर्वभूतेषु न मे द्वेष्योऽस्ति न प्रियः।\nये भजन्ति तु मां भक्त्या मयि ते तेषु चाप्यहम्॥२९॥",
+      "transliteration": "Samo'ham Sarva-Bhuteshu Na Me Dveshyo'sti Na Priyah.\nYe Bhajanti Tu Mam Bhaktya Mayi Te Teshu Cha-Apy-Aham.||29||",
+      "wordByWord": [
+        {
+          "word": "समः",
+          "transliteration": "samah",
+          "meaning": "equal/impartial"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I am"
+        },
+        {
+          "word": "सर्वभूतेषु",
+          "transliteration": "sarva-bhuteshu",
+          "meaning": "to all beings"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "मे",
+          "transliteration": "me",
+          "meaning": "to Me"
+        },
+        {
+          "word": "द्वेष्यः",
+          "transliteration": "dveshyah",
+          "meaning": "hateful/enemy"
+        },
+        {
+          "word": "अस्ति",
+          "transliteration": "asti",
+          "meaning": "there is"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "nor"
+        },
+        {
+          "word": "प्रियः",
+          "transliteration": "priyah",
+          "meaning": "dear one"
+        },
+        {
+          "word": "ये",
+          "transliteration": "ye",
+          "meaning": "those who"
+        },
+        {
+          "word": "भजन्ति",
+          "transliteration": "bhajanti",
+          "meaning": "worship"
+        },
+        {
+          "word": "तु",
+          "transliteration": "tu",
+          "meaning": "but"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        },
+        {
+          "word": "भक्त्या",
+          "transliteration": "bhaktya",
+          "meaning": "with devotion"
+        },
+        {
+          "word": "मयि",
+          "transliteration": "mayi",
+          "meaning": "in Me"
+        },
+        {
+          "word": "ते",
+          "transliteration": "te",
+          "meaning": "they are"
+        },
+        {
+          "word": "तेषु",
+          "transliteration": "teshu",
+          "meaning": "in them"
+        },
+        {
+          "word": "अपि",
+          "transliteration": "api",
+          "meaning": "also"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I am"
+        }
+      ],
+      "hindiTranslation": "मैं सब प्राणियों में समान हूँ। न कोई मुझे अप्रिय है, न कोई प्रिय। परन्तु जो भक्तिपूर्वक मुझे भजते हैं — वे मुझमें हैं और मैं भी उनमें हूँ।",
+      "englishTranslation": "I am equal to all beings; none is hateful to Me, none is dear. But those who worship Me with devotion — they are in Me, and I am in them.",
+      "commentary": "This is one of the most beautiful paradoxes of the Gita. God is perfectly impartial like the sun that shines equally on all. Yet devotees experience a special closeness — not because God favors them, but because they have opened themselves to receive His grace. It is like a mirror that reflects the sun's light most brilliantly when it is clean and properly angled. God's love is unconditional and universal, but only devotion creates the intimate relationship of mutual dwelling."
+    },
+    {
+      "verseNumber": 30,
+      "slug": "verse-30",
+      "speaker": "Krishna",
+      "devanagari": "अपि चेत्सुदुराचारो भजते मामनन्यभाक्।\nसाधुरेव स मन्तव्यः सम्यग्व्यवसितो हि सः॥३०॥",
+      "transliteration": "Api Chet Su-Duracharo Bhajate Mam-Ananya-Bhak.\nSadhur-Eva Sa Mantavyah Samyag-Vyavasito Hi Sah.||30||",
+      "wordByWord": [
+        {
+          "word": "अपि",
+          "transliteration": "api",
+          "meaning": "even"
+        },
+        {
+          "word": "चेत्",
+          "transliteration": "chet",
+          "meaning": "if"
+        },
+        {
+          "word": "सुदुराचारः",
+          "transliteration": "su-duracharah",
+          "meaning": "one of very bad conduct"
+        },
+        {
+          "word": "भजते",
+          "transliteration": "bhajate",
+          "meaning": "worships"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        },
+        {
+          "word": "अनन्यभाक्",
+          "transliteration": "ananya-bhak",
+          "meaning": "with exclusive devotion"
+        },
+        {
+          "word": "साधुः",
+          "transliteration": "sadhuh",
+          "meaning": "a saint/righteous one"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "certainly"
+        },
+        {
+          "word": "सः",
+          "transliteration": "sah",
+          "meaning": "that person"
+        },
+        {
+          "word": "मन्तव्यः",
+          "transliteration": "mantavyah",
+          "meaning": "should be regarded"
+        },
+        {
+          "word": "सम्यक्",
+          "transliteration": "samyak",
+          "meaning": "rightly"
+        },
+        {
+          "word": "व्यवसितः",
+          "transliteration": "vyavasitah",
+          "meaning": "resolved/determined"
+        },
+        {
+          "word": "हि",
+          "transliteration": "hi",
+          "meaning": "indeed"
+        },
+        {
+          "word": "सः",
+          "transliteration": "sah",
+          "meaning": "that person"
+        }
+      ],
+      "hindiTranslation": "यदि कोई अत्यन्त दुराचारी भी अनन्य भक्ति से मुझे भजता है — तो वह साधु (सज्जन) ही मानना चाहिए, क्योंकि उसने सही निश्चय (संकल्प) कर लिया है।",
+      "englishTranslation": "Even if a person of very bad conduct worships Me with exclusive and undivided devotion, that person should be regarded as a saint, for they have rightly resolved.",
+      "commentary": "This is one of the most compassionate and revolutionary declarations in the Gita. Krishna affirms that no one is beyond redemption. Even the worst sinner, if they turn to God with genuine and exclusive devotion, should be honored as a saint. This is because the sincere decision to turn toward the Divine is itself the most powerful and transformative act. Past sins cannot stand against the force of true devotion."
+    },
+    {
+      "verseNumber": 31,
+      "slug": "verse-31",
+      "speaker": "Krishna",
+      "devanagari": "क्षिप्रं भवति धर्मात्मा शश्वच्छान्तिं निगच्छति।\nकौन्तेय प्रतिजानीहि न मे भक्तः प्रणश्यति॥३१॥",
+      "transliteration": "Kshipram Bhavati Dharma-Atma Shashvach-Chhantim Nigachchhati.\nKaunteya Pratijanihi Na Me Bhaktah Pranashyati.||31||",
+      "wordByWord": [
+        {
+          "word": "क्षिप्रम्",
+          "transliteration": "kshipram",
+          "meaning": "quickly"
+        },
+        {
+          "word": "भवति",
+          "transliteration": "bhavati",
+          "meaning": "becomes"
+        },
+        {
+          "word": "धर्मात्मा",
+          "transliteration": "dharma-atma",
+          "meaning": "righteous soul"
+        },
+        {
+          "word": "शश्वत्",
+          "transliteration": "shashvat",
+          "meaning": "eternal"
+        },
+        {
+          "word": "शान्तिम्",
+          "transliteration": "shantim",
+          "meaning": "peace"
+        },
+        {
+          "word": "निगच्छति",
+          "transliteration": "nigachchhati",
+          "meaning": "attains"
+        },
+        {
+          "word": "कौन्तेय",
+          "transliteration": "kaunteya",
+          "meaning": "O son of Kunti"
+        },
+        {
+          "word": "प्रतिजानीहि",
+          "transliteration": "pratijanihi",
+          "meaning": "declare boldly"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "never"
+        },
+        {
+          "word": "मे",
+          "transliteration": "me",
+          "meaning": "My"
+        },
+        {
+          "word": "भक्तः",
+          "transliteration": "bhaktah",
+          "meaning": "devotee"
+        },
+        {
+          "word": "प्रणश्यति",
+          "transliteration": "pranashyati",
+          "meaning": "perishes"
+        }
+      ],
+      "hindiTranslation": "वह शीघ्र ही धर्मात्मा (धर्मपरायण) बन जाता है और शाश्वत (सदा रहने वाली) शान्ति प्राप्त करता है। हे कौन्तेय! तू निश्चयपूर्वक (निर्भय होकर) घोषणा कर कि मेरा भक्त कभी नष्ट नहीं होता।",
+      "englishTranslation": "Such a person quickly becomes righteous and attains eternal peace. O son of Kunti, declare boldly that My devotee never perishes!",
+      "commentary": "This continuation of the previous verse gives double assurance. First, the reformed sinner rapidly becomes dharmic — devotion transforms character at lightning speed. Second, Krishna asks Arjuna himself to make the declaration — 'Na Me Bhaktah Pranashyati' (My devotee never perishes). This is among the most powerful promises in the Gita, and Krishna invites Arjuna to proclaim it as an eternal truth."
+    },
+    {
+      "verseNumber": 32,
+      "slug": "verse-32",
+      "speaker": "Krishna",
+      "devanagari": "मां हि पार्थ व्यपाश्रित्य येऽपि स्युः पापयोनयः।\nस्त्रियो वैश्यास्तथा शूद्रास्तेऽपि यान्ति परां गतिम्॥३२॥",
+      "transliteration": "Mam Hi Partha Vyapashritya Ye'pi Syuh Papa-Yonayah.\nStriyo Vaishyas-Tatha Shudras-Te'pi Yanti Param Gatim.||32||",
+      "wordByWord": [
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        },
+        {
+          "word": "हि",
+          "transliteration": "hi",
+          "meaning": "certainly"
+        },
+        {
+          "word": "पार्थ",
+          "transliteration": "partha",
+          "meaning": "O son of Pritha"
+        },
+        {
+          "word": "व्यपाश्रित्य",
+          "transliteration": "vyapashritya",
+          "meaning": "taking refuge in"
+        },
+        {
+          "word": "ये",
+          "transliteration": "ye",
+          "meaning": "those who"
+        },
+        {
+          "word": "अपि",
+          "transliteration": "api",
+          "meaning": "even"
+        },
+        {
+          "word": "स्युः",
+          "transliteration": "syuh",
+          "meaning": "may be"
+        },
+        {
+          "word": "पापयोनयः",
+          "transliteration": "papa-yonayah",
+          "meaning": "born of sinful origin"
+        },
+        {
+          "word": "स्त्रियः",
+          "transliteration": "striyah",
+          "meaning": "women"
+        },
+        {
+          "word": "वैश्याः",
+          "transliteration": "vaishyah",
+          "meaning": "merchants/traders"
+        },
+        {
+          "word": "तथा",
+          "transliteration": "tatha",
+          "meaning": "also"
+        },
+        {
+          "word": "शूद्राः",
+          "transliteration": "shudrah",
+          "meaning": "the working class"
+        },
+        {
+          "word": "ते",
+          "transliteration": "te",
+          "meaning": "they"
+        },
+        {
+          "word": "अपि",
+          "transliteration": "api",
+          "meaning": "also"
+        },
+        {
+          "word": "यान्ति",
+          "transliteration": "yanti",
+          "meaning": "attain"
+        },
+        {
+          "word": "पराम्",
+          "transliteration": "param",
+          "meaning": "the supreme"
+        },
+        {
+          "word": "गतिम्",
+          "transliteration": "gatim",
+          "meaning": "destination"
+        }
+      ],
+      "hindiTranslation": "हे पार्थ! मेरी शरण लेकर — जो भी पापयोनि वाले हों, स्त्रियाँ हों, वैश्य हों, या शूद्र हों — वे सब भी परम गति को प्राप्त होते हैं।",
+      "englishTranslation": "O Partha, taking refuge in Me, even those born of sinful origin, women, vaishyas, and shudras — they all attain the supreme destination.",
+      "commentary": "This verse must be understood in its historical context. In the social structure of that era, certain groups were considered ineligible for spiritual attainment. Krishna shatters those barriers by declaring that ALL who take refuge in Him — regardless of birth, gender, or social status — can attain the highest goal. This is a profoundly egalitarian and revolutionary spiritual message for its time."
+    },
+    {
+      "verseNumber": 33,
+      "slug": "verse-33",
+      "speaker": "Krishna",
+      "devanagari": "किं पुनर्ब्राह्मणाः पुण्या भक्ता राजर्षयस्तथा।\nअनित्यमसुखं लोकमिमं प्राप्य भजस्व माम्॥३३॥",
+      "transliteration": "Kim Punar-Brahmanah Punya Bhakta Rajarshayash-Tatha.\nAnityam-Asukham Lokam-Imam Prapya Bhajasva Mam.||33||",
+      "wordByWord": [
+        {
+          "word": "किम्",
+          "transliteration": "kim",
+          "meaning": "how much more"
+        },
+        {
+          "word": "पुनः",
+          "transliteration": "punah",
+          "meaning": "again/then"
+        },
+        {
+          "word": "ब्राह्मणाः",
+          "transliteration": "brahmanah",
+          "meaning": "the brahmanas (learned ones)"
+        },
+        {
+          "word": "पुण्याः",
+          "transliteration": "punyah",
+          "meaning": "the virtuous/meritorious"
+        },
+        {
+          "word": "भक्ताः",
+          "transliteration": "bhaktah",
+          "meaning": "devoted"
+        },
+        {
+          "word": "राजर्षयः",
+          "transliteration": "rajarshayah",
+          "meaning": "the saintly kings"
+        },
+        {
+          "word": "तथा",
+          "transliteration": "tatha",
+          "meaning": "also"
+        },
+        {
+          "word": "अनित्यम्",
+          "transliteration": "anityam",
+          "meaning": "temporary"
+        },
+        {
+          "word": "असुखम्",
+          "transliteration": "asukham",
+          "meaning": "joyless/full of suffering"
+        },
+        {
+          "word": "लोकम्",
+          "transliteration": "lokam",
+          "meaning": "world"
+        },
+        {
+          "word": "इमम्",
+          "transliteration": "imam",
+          "meaning": "this"
+        },
+        {
+          "word": "प्राप्य",
+          "transliteration": "prapya",
+          "meaning": "having obtained (a human birth in)"
+        },
+        {
+          "word": "भजस्व",
+          "transliteration": "bhajasva",
+          "meaning": "worship/serve"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "Me"
+        }
+      ],
+      "hindiTranslation": "फिर पुण्यशील ब्राह्मणों और भक्त राजर्षियों (राजा-ऋषियों) की तो बात ही क्या! इसलिए इस अनित्य (नश्वर) और दुःखमय संसार में जन्म पाकर तू मेरा भजन कर।",
+      "englishTranslation": "How much more, then, for the virtuous brahmanas and devoted royal sages! Having obtained birth in this temporary and joyless world, devote yourself to worshipping Me.",
+      "commentary": "Using a logical argument (a fortiori), Krishna says: if even those considered spiritually disadvantaged can attain the Supreme through devotion, then how much more easily can the pious and learned do so! He then urges Arjuna — and through him, all of us — to use this temporary human life wisely by engaging in devotion to God, rather than chasing the fleeting pleasures of an inherently impermanent world."
+    },
+    {
+      "verseNumber": 34,
+      "slug": "verse-34",
+      "speaker": "Krishna",
+      "devanagari": "मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु।\nमामेवैष्यसि युक्त्वैवमात्मानं मत्परायणः॥३४॥",
+      "transliteration": "Man-Mana Bhava Mad-Bhakto Mad-Yaji Mam Namaskuru.\nMam-Evaishyasi Yuktva-Evam-Atmanam Mat-Parayanah.||34||",
+      "wordByWord": [
+        {
+          "word": "मन्मनाः",
+          "transliteration": "man-manah",
+          "meaning": "fix your mind on Me"
+        },
+        {
+          "word": "भव",
+          "transliteration": "bhava",
+          "meaning": "become"
+        },
+        {
+          "word": "मद्भक्तः",
+          "transliteration": "mad-bhaktah",
+          "meaning": "My devotee"
+        },
+        {
+          "word": "मद्याजी",
+          "transliteration": "mad-yaji",
+          "meaning": "My worshipper"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "to Me"
+        },
+        {
+          "word": "नमस्कुरु",
+          "transliteration": "namaskuru",
+          "meaning": "offer obeisance"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "to Me"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "certainly"
+        },
+        {
+          "word": "एष्यसि",
+          "transliteration": "eshyasi",
+          "meaning": "you shall come"
+        },
+        {
+          "word": "युक्त्वा",
+          "transliteration": "yuktva",
+          "meaning": "having united"
+        },
+        {
+          "word": "एवम्",
+          "transliteration": "evam",
+          "meaning": "thus"
+        },
+        {
+          "word": "आत्मानम्",
+          "transliteration": "atmanam",
+          "meaning": "the self/mind"
+        },
+        {
+          "word": "मत्परायणः",
+          "transliteration": "mat-parayanah",
+          "meaning": "with Me as the supreme goal"
+        }
+      ],
+      "hindiTranslation": "मुझमें मन लगा, मेरा भक्त हो, मेरा पूजन कर, मुझे नमस्कार कर। इस प्रकार मुझे ही अपना परम लक्ष्य बनाकर, आत्मा को मुझमें युक्त करके — तू मुझे ही प्राप्त होगा।",
+      "englishTranslation": "Fix your mind on Me, be My devotee, worship Me, and bow to Me. Thus, uniting your self with Me, with Me as your supreme goal, you shall certainly come to Me.",
+      "commentary": "The concluding verse of Chapter 9 is a perfect summation of devotional practice. Krishna gives four simple instructions: (1) Think of Me (man-mana), (2) Be devoted to Me (mad-bhakta), (3) Worship Me (mad-yaji), and (4) Bow to Me (mam namaskuru). These cover mind, heart, ritual, and body respectively — a complete surrender of the entire being. The promise is absolute: the devotee who follows this path with Me as their supreme goal will undoubtedly attain Me. This same verse is repeated in Chapter 18 as the final teaching of the entire Gita."
+    }
+  ]
+}

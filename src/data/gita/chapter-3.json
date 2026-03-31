@@ -1,0 +1,3132 @@
+{
+  "chapterNumber": 3,
+  "titleSanskrit": "कर्मयोगः",
+  "titleHindi": "कर्म योग",
+  "titleEnglish": "Karma Yoga - The Yoga of Selfless Action",
+  "slug": "chapter-3",
+  "description": "Bhagavad Gita Chapter 3, Karma Yoga, is one of the most practical and widely studied chapters of the Gita. When Arjuna questions why Krishna urges him toward the terrible act of war if knowledge is superior to action, Krishna reveals the profound philosophy of selfless action. He explains that no one can remain without action even for a moment, as the three gunas of Prakriti compel everyone to act. The key teaching is to perform one's prescribed duty (Niyatam Kuru Karma) without attachment to results. Krishna describes the cosmic cycle of Yajna, where action sustains creation through sacrifice. He sets His own example — though He has nothing to gain in all three worlds, He still engages in action for the welfare of humanity. The famous verse 'Shreyan Svadharmo Vigunah' teaches that one's own imperfect dharma is better than another's well-performed dharma. The chapter concludes with a powerful warning about Kama (desire) and Krodha (anger) as the greatest enemies of the soul, and the need to conquer them through the strength of the higher Self.",
+  "verseCount": 43,
+  "verses": [
+    {
+      "verseNumber": 1,
+      "slug": "verse-1",
+      "speaker": "Arjuna",
+      "devanagari": "अर्जुन उवाच —\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव॥१॥",
+      "transliteration": "Arjuna Uvacha —\nJyayasi Chet-Karmanas-Te Mata Buddhir-Janardana.\nTat-Kim Karmani Ghore Mam Niyojayasi Keshava.||1||",
+      "wordByWord": [
+        {
+          "word": "ज्यायसी",
+          "transliteration": "jyayasi",
+          "meaning": "superior"
+        },
+        {
+          "word": "चेत्",
+          "transliteration": "chet",
+          "meaning": "if"
+        },
+        {
+          "word": "कर्मणः",
+          "transliteration": "karmanah",
+          "meaning": "than action"
+        },
+        {
+          "word": "ते",
+          "transliteration": "te",
+          "meaning": "by You"
+        },
+        {
+          "word": "मता",
+          "transliteration": "mata",
+          "meaning": "considered"
+        },
+        {
+          "word": "बुद्धिः",
+          "transliteration": "buddhih",
+          "meaning": "intellect/knowledge"
+        },
+        {
+          "word": "जनार्दन",
+          "transliteration": "janardana",
+          "meaning": "O Janardana (Krishna)"
+        },
+        {
+          "word": "तत्",
+          "transliteration": "tat",
+          "meaning": "then"
+        },
+        {
+          "word": "किम्",
+          "transliteration": "kim",
+          "meaning": "why"
+        },
+        {
+          "word": "कर्मणि",
+          "transliteration": "karmani",
+          "meaning": "in action"
+        },
+        {
+          "word": "घोरे",
+          "transliteration": "ghore",
+          "meaning": "terrible"
+        },
+        {
+          "word": "माम्",
+          "transliteration": "mam",
+          "meaning": "me"
+        },
+        {
+          "word": "नियोजयसि",
+          "transliteration": "niyojayasi",
+          "meaning": "You engage"
+        },
+        {
+          "word": "केशव",
+          "transliteration": "keshava",
+          "meaning": "O Keshava (Krishna)"
+        }
+      ],
+      "hindiTranslation": "अर्जुन ने कहा — हे जनार्दन! यदि आपकी दृष्टि में कर्म से बुद्धि (ज्ञान) श्रेष्ठ है, तो फिर हे केशव! मुझे इस भयंकर कर्म (युद्ध) में क्यों लगाते हैं?",
+      "englishTranslation": "Arjuna said: O Janardana, if You consider knowledge to be superior to action, then why, O Keshava, do You urge me to engage in this terrible action of war?",
+      "commentary": "Arjuna's confusion stems from Krishna's praise of Jnana Yoga in Chapter 2 while simultaneously urging him to fight. This question reflects a common human dilemma — if spiritual wisdom is the goal, why engage in worldly action at all? Krishna will resolve this by showing that action and knowledge are not opposed but complementary."
+    },
+    {
+      "verseNumber": 2,
+      "slug": "verse-2",
+      "speaker": "Arjuna",
+      "devanagari": "व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम्॥२॥",
+      "transliteration": "Vyamishreneva Vakyena Buddhim Mohayasi-Iva Me.\nTad-Ekam Vada Nishchitya Yena Shreyo'ham-Apnuyam.||2||",
+      "wordByWord": [
+        {
+          "word": "व्यामिश्रेण",
+          "transliteration": "vyamishrena",
+          "meaning": "with seemingly mixed/confusing"
+        },
+        {
+          "word": "इव",
+          "transliteration": "iva",
+          "meaning": "as if"
+        },
+        {
+          "word": "वाक्येन",
+          "transliteration": "vakyena",
+          "meaning": "with words"
+        },
+        {
+          "word": "बुद्धिम्",
+          "transliteration": "buddhim",
+          "meaning": "intellect"
+        },
+        {
+          "word": "मोहयसि",
+          "transliteration": "mohayasi",
+          "meaning": "You bewilder"
+        },
+        {
+          "word": "मे",
+          "transliteration": "me",
+          "meaning": "my"
+        },
+        {
+          "word": "तत्",
+          "transliteration": "tat",
+          "meaning": "that"
+        },
+        {
+          "word": "एकम्",
+          "transliteration": "ekam",
+          "meaning": "one (thing)"
+        },
+        {
+          "word": "वद",
+          "transliteration": "vada",
+          "meaning": "tell"
+        },
+        {
+          "word": "निश्चित्य",
+          "transliteration": "nishchitya",
+          "meaning": "decidedly"
+        },
+        {
+          "word": "येन",
+          "transliteration": "yena",
+          "meaning": "by which"
+        },
+        {
+          "word": "श्रेयः",
+          "transliteration": "shreyah",
+          "meaning": "the highest good"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I"
+        },
+        {
+          "word": "आप्नुयाम्",
+          "transliteration": "apnuyam",
+          "meaning": "may attain"
+        }
+      ],
+      "hindiTranslation": "आप मिले-जुले वचनों से मेरी बुद्धि को मोहित-सा कर रहे हैं। अतः निश्चयपूर्वक वह एक बात कहिए जिससे मैं कल्याण को प्राप्त हो सकूँ।",
+      "englishTranslation": "With these seemingly contradictory words, You are bewildering my intellect. Therefore, please tell me decisively that one path by which I may attain the highest good.",
+      "commentary": "Arjuna expresses the genuine confusion of a sincere seeker. He wants one clear path, not realizing yet that Jnana and Karma are two sides of the same coin. His honest admission of confusion is praised by commentators — only one who acknowledges confusion can receive true knowledge."
+    },
+    {
+      "verseNumber": 3,
+      "slug": "verse-3",
+      "speaker": "Krishna",
+      "devanagari": "श्रीभगवानुवाच —\nलोकेऽस्मिन्द्विविधा निष्ठा पुरा प्रोक्ता मयानघ।\nज्ञानयोगेन साङ्ख्यानां कर्मयोगेन योगिनाम्॥३॥",
+      "transliteration": "Shri Bhagavan Uvacha —\nLoke'smin Dvividha Nishtha Pura Prokta Maya-Anagha.\nJnana-Yogena Sankhyanam Karma-Yogena Yoginam.||3||",
+      "wordByWord": [
+        {
+          "word": "लोके",
+          "transliteration": "loke",
+          "meaning": "in the world"
+        },
+        {
+          "word": "अस्मिन्",
+          "transliteration": "asmin",
+          "meaning": "this"
+        },
+        {
+          "word": "द्विविधा",
+          "transliteration": "dvividha",
+          "meaning": "twofold"
+        },
+        {
+          "word": "निष्ठा",
+          "transliteration": "nishtha",
+          "meaning": "path/faith"
+        },
+        {
+          "word": "पुरा",
+          "transliteration": "pura",
+          "meaning": "previously"
+        },
+        {
+          "word": "प्रोक्ता",
+          "transliteration": "prokta",
+          "meaning": "declared"
+        },
+        {
+          "word": "मया",
+          "transliteration": "maya",
+          "meaning": "by Me"
+        },
+        {
+          "word": "अनघ",
+          "transliteration": "anagha",
+          "meaning": "O sinless one"
+        },
+        {
+          "word": "ज्ञानयोगेन",
+          "transliteration": "jnana-yogena",
+          "meaning": "by the yoga of knowledge"
+        },
+        {
+          "word": "साङ्ख्यानाम्",
+          "transliteration": "sankhyanam",
+          "meaning": "of the contemplative"
+        },
+        {
+          "word": "कर्मयोगेन",
+          "transliteration": "karma-yogena",
+          "meaning": "by the yoga of action"
+        },
+        {
+          "word": "योगिनाम्",
+          "transliteration": "yoginam",
+          "meaning": "of the yogis"
+        }
+      ],
+      "hindiTranslation": "श्रीभगवान ने कहा — हे निष्पाप! इस लोक में मेरे द्वारा पहले दो प्रकार की निष्ठा कही गई है — सांख्ययोगियों (विचारशीलों) के लिए ज्ञानयोग और योगियों (कर्मशीलों) के लिए कर्मयोग।",
+      "englishTranslation": "The Blessed Lord said: O sinless one, in this world a twofold path has been taught by Me of old — the path of knowledge (Jnana Yoga) for the contemplative, and the path of selfless action (Karma Yoga) for the active.",
+      "commentary": "Krishna begins His answer by acknowledging two legitimate spiritual paths. Sankhya here refers to those inclined toward contemplation and discrimination, while Yoga refers to those inclined toward action. Both paths lead to the same goal — liberation. This verse establishes that spiritual life is not one-size-fits-all."
+    },
+    {
+      "verseNumber": 4,
+      "slug": "verse-4",
+      "speaker": "Krishna",
+      "devanagari": "न कर्मणामनारम्भान्नैष्कर्म्यं पुरुषोऽश्नुते।\nन च सन्न्यसनादेव सिद्धिं समधिगच्छति॥४॥",
+      "transliteration": "Na Karmanam-Anarambhan-Naishkarmyam Purusho'shnute.\nNa Cha Sannyasanad-Eva Siddhim Samadhigachchhati.||4||",
+      "wordByWord": [
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "कर्मणाम्",
+          "transliteration": "karmanam",
+          "meaning": "of actions"
+        },
+        {
+          "word": "अनारम्भात्",
+          "transliteration": "anarambhat",
+          "meaning": "by non-performance"
+        },
+        {
+          "word": "नैष्कर्म्यम्",
+          "transliteration": "naishkarmyam",
+          "meaning": "freedom from action/karma"
+        },
+        {
+          "word": "पुरुषः",
+          "transliteration": "purushah",
+          "meaning": "a person"
+        },
+        {
+          "word": "अश्नुते",
+          "transliteration": "ashnute",
+          "meaning": "attains"
+        },
+        {
+          "word": "सन्न्यसनात्",
+          "transliteration": "sannyasanat",
+          "meaning": "by renunciation"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "alone"
+        },
+        {
+          "word": "सिद्धिम्",
+          "transliteration": "siddhim",
+          "meaning": "perfection"
+        },
+        {
+          "word": "समधिगच्छति",
+          "transliteration": "samadhigachchhati",
+          "meaning": "attains"
+        }
+      ],
+      "hindiTranslation": "कर्मों का आरम्भ न करने से मनुष्य नैष्कर्म्य (कर्मबन्धन से मुक्ति) प्राप्त नहीं करता, और केवल संन्यास (कर्म-त्याग) से ही सिद्धि नहीं मिलती।",
+      "englishTranslation": "Not by abstaining from action does a person attain freedom from the bondage of karma, nor does one reach perfection by mere renunciation of actions alone.",
+      "commentary": "Krishna strikes at the root of escapism disguised as spirituality. Simply avoiding action does not purify the mind or free one from karmic bondage. True renunciation is internal — it is the renunciation of attachment and desire, not of action itself. This verse is foundational to the entire Karma Yoga philosophy."
+    },
+    {
+      "verseNumber": 5,
+      "slug": "verse-5",
+      "speaker": "Krishna",
+      "devanagari": "न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत्।\nकार्यते ह्यवशः कर्म सर्वः प्रकृतिजैर्गुणैः॥५॥",
+      "transliteration": "Na Hi Kashchit-Kshanam-Api Jatu Tishthaty-Akarmakrit.\nKaryate Hy-Avashah Karma Sarvah Prakriti-Jair-Gunaih.||5||",
+      "wordByWord": [
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "हि",
+          "transliteration": "hi",
+          "meaning": "indeed"
+        },
+        {
+          "word": "कश्चित्",
+          "transliteration": "kashchit",
+          "meaning": "anyone"
+        },
+        {
+          "word": "क्षणम्",
+          "transliteration": "kshanam",
+          "meaning": "a moment"
+        },
+        {
+          "word": "अपि",
+          "transliteration": "api",
+          "meaning": "even"
+        },
+        {
+          "word": "जातु",
+          "transliteration": "jatu",
+          "meaning": "ever"
+        },
+        {
+          "word": "तिष्ठति",
+          "transliteration": "tishthati",
+          "meaning": "remains"
+        },
+        {
+          "word": "अकर्मकृत्",
+          "transliteration": "akarmakrit",
+          "meaning": "without doing action"
+        },
+        {
+          "word": "कार्यते",
+          "transliteration": "karyate",
+          "meaning": "is made to act"
+        },
+        {
+          "word": "अवशः",
+          "transliteration": "avashah",
+          "meaning": "helplessly"
+        },
+        {
+          "word": "सर्वः",
+          "transliteration": "sarvah",
+          "meaning": "everyone"
+        },
+        {
+          "word": "प्रकृतिजैः",
+          "transliteration": "prakritijah",
+          "meaning": "born of Prakriti (nature)"
+        },
+        {
+          "word": "गुणैः",
+          "transliteration": "gunaih",
+          "meaning": "by the gunas (qualities)"
+        }
+      ],
+      "hindiTranslation": "कोई भी मनुष्य किसी भी क्षण कर्म किए बिना नहीं रह सकता। सभी प्राणी प्रकृति से उत्पन्न गुणों (सत्व, रजस्, तमस्) द्वारा विवश होकर कर्म करते हैं।",
+      "englishTranslation": "No one can remain without performing action even for a moment. Everyone is helplessly driven to act by the gunas (qualities) born of Prakriti (material nature).",
+      "commentary": "This is a profound observation about the nature of existence. Even breathing, thinking, and digesting are actions. The three gunas — Sattva, Rajas, and Tamas — constantly propel all beings into activity. Since action is unavoidable, the wise choice is not to avoid it but to perform it with the right attitude."
+    },
+    {
+      "verseNumber": 6,
+      "slug": "verse-6",
+      "speaker": "Krishna",
+      "devanagari": "कर्मेन्द्रियाणि संयम्य य आस्ते मनसा स्मरन्।\nइन्द्रियार्थान्विमूढात्मा मिथ्याचारः स उच्यते॥६॥",
+      "transliteration": "Karma-Indriyani Samyamya Ya Aste Manasa Smaran.\nIndriya-Arthan Vimudha-Atma Mithya-Acharah Sa Uchyate.||6||",
+      "wordByWord": [
+        {
+          "word": "कर्मेन्द्रियाणि",
+          "transliteration": "karma-indriyani",
+          "meaning": "the organs of action"
+        },
+        {
+          "word": "संयम्य",
+          "transliteration": "samyamya",
+          "meaning": "restraining"
+        },
+        {
+          "word": "यः",
+          "transliteration": "yah",
+          "meaning": "who"
+        },
+        {
+          "word": "आस्ते",
+          "transliteration": "aste",
+          "meaning": "sits"
+        },
+        {
+          "word": "मनसा",
+          "transliteration": "manasa",
+          "meaning": "with the mind"
+        },
+        {
+          "word": "स्मरन्",
+          "transliteration": "smaran",
+          "meaning": "dwelling upon/remembering"
+        },
+        {
+          "word": "इन्द्रियार्थान्",
+          "transliteration": "indriya-arthan",
+          "meaning": "sense objects"
+        },
+        {
+          "word": "विमूढात्मा",
+          "transliteration": "vimudha-atma",
+          "meaning": "deluded person"
+        },
+        {
+          "word": "मिथ्याचारः",
+          "transliteration": "mithya-acharah",
+          "meaning": "a hypocrite"
+        },
+        {
+          "word": "सः",
+          "transliteration": "sah",
+          "meaning": "he"
+        },
+        {
+          "word": "उच्यते",
+          "transliteration": "uchyate",
+          "meaning": "is called"
+        }
+      ],
+      "hindiTranslation": "जो कर्मेन्द्रियों को रोककर मन से इन्द्रिय-विषयों का चिन्तन करता रहता है, वह मूढ़ मनुष्य मिथ्याचारी (पाखण्डी) कहलाता है।",
+      "englishTranslation": "One who restrains the organs of action but continues to dwell on sense objects in the mind is deluded and is called a hypocrite.",
+      "commentary": "Krishna exposes the futility of external renunciation without internal detachment. A person who physically abstains from action but mentally fantasizes about pleasures is worse than one who honestly engages in action. True restraint must begin in the mind. This verse is a powerful critique of superficial asceticism."
+    },
+    {
+      "verseNumber": 7,
+      "slug": "verse-7",
+      "speaker": "Krishna",
+      "devanagari": "यस्त्विन्द्रियाणि मनसा नियम्यारभतेऽर्जुन।\nकर्मेन्द्रियैः कर्मयोगमसक्तः स विशिष्यते॥७॥",
+      "transliteration": "Yas-Tv-Indriyani Manasa Niyamya-Arabhate'rjuna.\nKarma-Indriyaih Karma-Yogam-Asaktah Sa Vishishyate.||7||",
+      "wordByWord": [
+        {
+          "word": "यः",
+          "transliteration": "yah",
+          "meaning": "who"
+        },
+        {
+          "word": "तु",
+          "transliteration": "tu",
+          "meaning": "but"
+        },
+        {
+          "word": "इन्द्रियाणि",
+          "transliteration": "indriyani",
+          "meaning": "the senses"
+        },
+        {
+          "word": "मनसा",
+          "transliteration": "manasa",
+          "meaning": "by the mind"
+        },
+        {
+          "word": "नियम्य",
+          "transliteration": "niyamya",
+          "meaning": "controlling"
+        },
+        {
+          "word": "आरभते",
+          "transliteration": "arabhate",
+          "meaning": "begins"
+        },
+        {
+          "word": "कर्मेन्द्रियैः",
+          "transliteration": "karma-indriyaih",
+          "meaning": "with the organs of action"
+        },
+        {
+          "word": "कर्मयोगम्",
+          "transliteration": "karma-yogam",
+          "meaning": "the yoga of action"
+        },
+        {
+          "word": "असक्तः",
+          "transliteration": "asaktah",
+          "meaning": "without attachment"
+        },
+        {
+          "word": "सः",
+          "transliteration": "sah",
+          "meaning": "he"
+        },
+        {
+          "word": "विशिष्यते",
+          "transliteration": "vishishyate",
+          "meaning": "excels"
+        }
+      ],
+      "hindiTranslation": "परन्तु हे अर्जुन! जो मन से इन्द्रियों को नियन्त्रित करके, अनासक्त होकर कर्मेन्द्रियों द्वारा कर्मयोग का आचरण करता है, वह श्रेष्ठ है।",
+      "englishTranslation": "But one who controls the senses with the mind and engages the organs of action in Karma Yoga without attachment, O Arjuna, is far superior.",
+      "commentary": "This verse presents the ideal of Karma Yoga — acting with full engagement of body and senses, while the mind remains detached and controlled. The key word is 'asakta' (unattached). It is not action that binds, but attachment to its fruits. This is the practical formula for spiritual life in the world."
+    },
+    {
+      "verseNumber": 8,
+      "slug": "verse-8",
+      "speaker": "Krishna",
+      "devanagari": "नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः।\nशरीरयात्रापि च ते न प्रसिद्ध्येदकर्मणः॥८॥",
+      "transliteration": "Niyatam Kuru Karma Tvam Karma Jyayo Hy-Akarmanah.\nSharira-Yatra-Api Cha Te Na Prasiddhyed-Akarmanah.||8||",
+      "wordByWord": [
+        {
+          "word": "नियतम्",
+          "transliteration": "niyatam",
+          "meaning": "prescribed/obligatory"
+        },
+        {
+          "word": "कुरु",
+          "transliteration": "kuru",
+          "meaning": "perform"
+        },
+        {
+          "word": "कर्म",
+          "transliteration": "karma",
+          "meaning": "action/duty"
+        },
+        {
+          "word": "त्वम्",
+          "transliteration": "tvam",
+          "meaning": "you"
+        },
+        {
+          "word": "कर्म",
+          "transliteration": "karma",
+          "meaning": "action"
+        },
+        {
+          "word": "ज्यायः",
+          "transliteration": "jyayah",
+          "meaning": "better"
+        },
+        {
+          "word": "हि",
+          "transliteration": "hi",
+          "meaning": "indeed"
+        },
+        {
+          "word": "अकर्मणः",
+          "transliteration": "akarmanah",
+          "meaning": "than inaction"
+        },
+        {
+          "word": "शरीरयात्रा",
+          "transliteration": "sharira-yatra",
+          "meaning": "bodily maintenance"
+        },
+        {
+          "word": "अपि",
+          "transliteration": "api",
+          "meaning": "even"
+        },
+        {
+          "word": "न प्रसिद्ध्येत्",
+          "transliteration": "na prasiddhyet",
+          "meaning": "would not be possible"
+        }
+      ],
+      "hindiTranslation": "तू अपना नियत (शास्त्र-विहित) कर्म कर, क्योंकि कर्म न करने की अपेक्षा कर्म करना श्रेष्ठ है। कर्म के बिना तेरी शरीर-यात्रा (जीवन-निर्वाह) भी नहीं चल सकती।",
+      "englishTranslation": "Perform your prescribed duty, for action is better than inaction. Even the maintenance of your physical body would not be possible through inaction.",
+      "commentary": "This is one of the most practical and memorable teachings of the Gita. Krishna gives a clear directive — do your duty. The word 'niyatam' means prescribed or obligatory duty, not random activity. Even basic survival requires action. This verse demolishes the excuse of those who use spirituality to justify laziness or escapism."
+    },
+    {
+      "verseNumber": 9,
+      "slug": "verse-9",
+      "speaker": "Krishna",
+      "devanagari": "यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः।\nतदर्थं कर्म कौन्तेय मुक्तसङ्गः समाचर॥९॥",
+      "transliteration": "Yajna-Arthat Karmano'nyatra Loko'yam Karma-Bandhanah.\nTad-Artham Karma Kaunteya Mukta-Sangah Samachara.||9||",
+      "wordByWord": [
+        {
+          "word": "यज्ञार्थात्",
+          "transliteration": "yajna-arthat",
+          "meaning": "for the sake of sacrifice"
+        },
+        {
+          "word": "कर्मणः",
+          "transliteration": "karmanah",
+          "meaning": "than action"
+        },
+        {
+          "word": "अन्यत्र",
+          "transliteration": "anyatra",
+          "meaning": "otherwise"
+        },
+        {
+          "word": "लोकः",
+          "transliteration": "lokah",
+          "meaning": "the world"
+        },
+        {
+          "word": "अयम्",
+          "transliteration": "ayam",
+          "meaning": "this"
+        },
+        {
+          "word": "कर्मबन्धनः",
+          "transliteration": "karma-bandhanah",
+          "meaning": "bondage of action"
+        },
+        {
+          "word": "तदर्थम्",
+          "transliteration": "tad-artham",
+          "meaning": "for that purpose"
+        },
+        {
+          "word": "कर्म",
+          "transliteration": "karma",
+          "meaning": "action"
+        },
+        {
+          "word": "कौन्तेय",
+          "transliteration": "kaunteya",
+          "meaning": "O son of Kunti"
+        },
+        {
+          "word": "मुक्तसङ्गः",
+          "transliteration": "mukta-sangah",
+          "meaning": "free from attachment"
+        },
+        {
+          "word": "समाचर",
+          "transliteration": "samachara",
+          "meaning": "perform"
+        }
+      ],
+      "hindiTranslation": "यज्ञ (ईश्वरार्पण) के लिए किए गए कर्म के अतिरिक्त, अन्य कर्म से यह संसार कर्मबन्धन में बंधता है। अतः हे कौन्तेय! आसक्ति त्यागकर उस यज्ञ के लिए कर्म कर।",
+      "englishTranslation": "Work done as a sacrifice for the Supreme does not bind. Other than such selfless action, O son of Kunti, all work causes bondage. Therefore, perform your duty free from attachment, as an offering to the Divine.",
+      "commentary": "This verse introduces the concept of Yajna — action performed as a sacred offering. When work is done selflessly for the sake of the Divine or the greater good, it liberates rather than binds. The moment personal desire and attachment enter, the same action becomes a cause of bondage. This is the alchemy of Karma Yoga."
+    },
+    {
+      "verseNumber": 10,
+      "slug": "verse-10",
+      "speaker": "Krishna",
+      "devanagari": "सहयज्ञाः प्रजाः सृष्ट्वा पुरोवाच प्रजापतिः।\nअनेन प्रसविष्यध्वमेष वोऽस्त्विष्टकामधुक्॥१०॥",
+      "transliteration": "Saha-Yajnah Prajah Srishtva Puro-Vacha Prajapatih.\nAnena Prasavishyadhvam-Esha Vo'stv-Ishta-Kamadhuk.||10||",
+      "wordByWord": [
+        {
+          "word": "सह",
+          "transliteration": "saha",
+          "meaning": "along with"
+        },
+        {
+          "word": "यज्ञाः",
+          "transliteration": "yajnah",
+          "meaning": "sacrifices"
+        },
+        {
+          "word": "प्रजाः",
+          "transliteration": "prajah",
+          "meaning": "beings/progeny"
+        },
+        {
+          "word": "सृष्ट्वा",
+          "transliteration": "srishtva",
+          "meaning": "having created"
+        },
+        {
+          "word": "पुरा",
+          "transliteration": "pura",
+          "meaning": "in the beginning"
+        },
+        {
+          "word": "उवाच",
+          "transliteration": "uvacha",
+          "meaning": "said"
+        },
+        {
+          "word": "प्रजापतिः",
+          "transliteration": "prajapatih",
+          "meaning": "the Creator (Brahma)"
+        },
+        {
+          "word": "अनेन",
+          "transliteration": "anena",
+          "meaning": "by this"
+        },
+        {
+          "word": "प्रसविष्यध्वम्",
+          "transliteration": "prasavishyadhvam",
+          "meaning": "shall you prosper"
+        },
+        {
+          "word": "एषः",
+          "transliteration": "eshah",
+          "meaning": "this"
+        },
+        {
+          "word": "वः",
+          "transliteration": "vah",
+          "meaning": "your"
+        },
+        {
+          "word": "इष्टकामधुक्",
+          "transliteration": "ishta-kamadhuk",
+          "meaning": "wish-fulfilling cow (Kamadhenu)"
+        }
+      ],
+      "hindiTranslation": "सृष्टि के आरम्भ में प्रजापति (ब्रह्मा) ने यज्ञ सहित प्रजा की रचना करके कहा — इस यज्ञ से तुम वृद्धि को प्राप्त होगे; यह तुम्हारी इच्छित कामनाओं को पूर्ण करने वाला (कामधेनु) होगा।",
+      "englishTranslation": "In the beginning, the Creator Prajapati created humankind along with sacrifice and said: By this sacrifice shall you prosper; let this be the wish-fulfilling cow (Kamadhenu) that grants all your desires.",
+      "commentary": "Krishna traces the institution of Yajna (selfless action/sacrifice) back to the very beginning of creation. Prajapati established a cosmic covenant — humans would prosper through mutual giving and sacrifice. The comparison to Kamadhenu (the wish-fulfilling cow) emphasizes that selfless service is the true source of all abundance."
+    },
+    {
+      "verseNumber": 11,
+      "slug": "verse-11",
+      "speaker": "Krishna",
+      "devanagari": "देवान्भावयतानेन ते देवा भावयन्तु वः।\nपरस्परं भावयन्तः श्रेयः परमवाप्स्यथ॥११॥",
+      "transliteration": "Devan Bhavayata-Anena Te Deva Bhavantu Vah.\nParasparam Bhavayantah Shreyah Param-Avapsyatha.||11||",
+      "wordByWord": [
+        {
+          "word": "देवान्",
+          "transliteration": "devan",
+          "meaning": "the devas (celestial beings)"
+        },
+        {
+          "word": "भावयत",
+          "transliteration": "bhavayata",
+          "meaning": "nourish/cherish"
+        },
+        {
+          "word": "अनेन",
+          "transliteration": "anena",
+          "meaning": "by this (sacrifice)"
+        },
+        {
+          "word": "ते",
+          "transliteration": "te",
+          "meaning": "those"
+        },
+        {
+          "word": "देवाः",
+          "transliteration": "devah",
+          "meaning": "devas"
+        },
+        {
+          "word": "भावयन्तु",
+          "transliteration": "bhavantu",
+          "meaning": "may nourish"
+        },
+        {
+          "word": "वः",
+          "transliteration": "vah",
+          "meaning": "you"
+        },
+        {
+          "word": "परस्परम्",
+          "transliteration": "parasparam",
+          "meaning": "mutually"
+        },
+        {
+          "word": "भावयन्तः",
+          "transliteration": "bhavayantah",
+          "meaning": "nourishing each other"
+        },
+        {
+          "word": "श्रेयः",
+          "transliteration": "shreyah",
+          "meaning": "the highest good"
+        },
+        {
+          "word": "परम्",
+          "transliteration": "param",
+          "meaning": "supreme"
+        },
+        {
+          "word": "अवाप्स्यथ",
+          "transliteration": "avapsyatha",
+          "meaning": "you shall attain"
+        }
+      ],
+      "hindiTranslation": "इस यज्ञ से तुम देवताओं को तृप्त करो और देवता तुम्हें तृप्त करें। इस प्रकार परस्पर एक-दूसरे को पोषित करते हुए तुम परम कल्याण को प्राप्त होगे।",
+      "englishTranslation": "Nourish the devas through sacrifice, and may the devas nourish you in return. Thus, mutually sustaining one another, you shall attain the supreme good.",
+      "commentary": "This verse presents the beautiful concept of cosmic reciprocity. The universe functions through mutual interdependence — humans serve the cosmic forces through selfless action, and those forces sustain human life. This is not a transactional bargain but a recognition of the interconnected web of existence."
+    },
+    {
+      "verseNumber": 12,
+      "slug": "verse-12",
+      "speaker": "Krishna",
+      "devanagari": "इष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविताः।\nतैर्दत्तानप्रदायैभ्यो यो भुङ्क्ते स्तेन एव सः॥१२॥",
+      "transliteration": "Ishtan Bhogan Hi Vo Deva Dasyante Yajna-Bhavitah.\nTair-Dattan-Apradaya-Ibhyo Yo Bhunkte Stena Eva Sah.||12||",
+      "wordByWord": [
+        {
+          "word": "इष्टान्",
+          "transliteration": "ishtan",
+          "meaning": "desired"
+        },
+        {
+          "word": "भोगान्",
+          "transliteration": "bhogan",
+          "meaning": "enjoyments"
+        },
+        {
+          "word": "हि",
+          "transliteration": "hi",
+          "meaning": "indeed"
+        },
+        {
+          "word": "वः",
+          "transliteration": "vah",
+          "meaning": "to you"
+        },
+        {
+          "word": "देवाः",
+          "transliteration": "devah",
+          "meaning": "the devas"
+        },
+        {
+          "word": "दास्यन्ते",
+          "transliteration": "dasyante",
+          "meaning": "will bestow"
+        },
+        {
+          "word": "यज्ञभाविताः",
+          "transliteration": "yajna-bhavitah",
+          "meaning": "pleased by sacrifice"
+        },
+        {
+          "word": "तैः",
+          "transliteration": "taih",
+          "meaning": "by them"
+        },
+        {
+          "word": "दत्तान्",
+          "transliteration": "dattan",
+          "meaning": "given"
+        },
+        {
+          "word": "अप्रदाय",
+          "transliteration": "apradaya",
+          "meaning": "without offering in return"
+        },
+        {
+          "word": "यः",
+          "transliteration": "yah",
+          "meaning": "who"
+        },
+        {
+          "word": "भुङ्क्ते",
+          "transliteration": "bhunkte",
+          "meaning": "enjoys"
+        },
+        {
+          "word": "स्तेनः",
+          "transliteration": "stenah",
+          "meaning": "a thief"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "verily"
+        },
+        {
+          "word": "सः",
+          "transliteration": "sah",
+          "meaning": "he"
+        }
+      ],
+      "hindiTranslation": "यज्ञ से सन्तुष्ट देवता तुम्हें इच्छित भोग प्रदान करेंगे। जो उनके दिए हुए भोगों को उन्हें बिना अर्पित किए स्वयं भोगता है, वह निश्चय ही चोर है।",
+      "englishTranslation": "The devas, nourished by sacrifice, will bestow upon you the enjoyments you desire. But one who enjoys these gifts without offering anything in return is verily a thief.",
+      "commentary": "Krishna uses strong language — calling those who only consume without contributing 'thieves.' This establishes a moral principle: we are all debtors to nature, society, and the cosmos. Taking without giving back disrupts the universal order. Every person has an obligation to contribute to the welfare of the whole."
+    },
+    {
+      "verseNumber": 13,
+      "slug": "verse-13",
+      "speaker": "Krishna",
+      "devanagari": "यज्ञशिष्टाशिनः सन्तो मुच्यन्ते सर्वकिल्बिषैः।\nभुञ्जते ते त्वघं पापा ये पचन्त्यात्मकारणात्॥१३॥",
+      "transliteration": "Yajna-Shishta-Ashinah Santo Muchyante Sarva-Kilbishaih.\nBhunjate Te Tv-Agham Papa Ye Pachanty-Atma-Karanat.||13||",
+      "wordByWord": [
+        {
+          "word": "यज्ञशिष्ट",
+          "transliteration": "yajna-shishta",
+          "meaning": "remnants of sacrifice"
+        },
+        {
+          "word": "अशिनः",
+          "transliteration": "ashinah",
+          "meaning": "those who eat"
+        },
+        {
+          "word": "सन्तः",
+          "transliteration": "santah",
+          "meaning": "virtuous/good people"
+        },
+        {
+          "word": "मुच्यन्ते",
+          "transliteration": "muchyante",
+          "meaning": "are freed"
+        },
+        {
+          "word": "सर्वकिल्बिषैः",
+          "transliteration": "sarva-kilbishaih",
+          "meaning": "from all sins"
+        },
+        {
+          "word": "भुञ्जते",
+          "transliteration": "bhunjate",
+          "meaning": "enjoy/eat"
+        },
+        {
+          "word": "ते",
+          "transliteration": "te",
+          "meaning": "they"
+        },
+        {
+          "word": "अघम्",
+          "transliteration": "agham",
+          "meaning": "sin"
+        },
+        {
+          "word": "पापाः",
+          "transliteration": "papah",
+          "meaning": "sinful ones"
+        },
+        {
+          "word": "पचन्ति",
+          "transliteration": "pachanti",
+          "meaning": "cook/prepare"
+        },
+        {
+          "word": "आत्मकारणात्",
+          "transliteration": "atma-karanat",
+          "meaning": "for their own sake"
+        }
+      ],
+      "hindiTranslation": "यज्ञ से शेष बचे अन्न को खाने वाले सज्जन सब पापों से मुक्त हो जाते हैं। परन्तु जो केवल अपने लिए पकाते (कमाते) हैं, वे पापी पाप ही भोगते हैं।",
+      "englishTranslation": "The virtuous who eat the remnants of sacrifice are freed from all sins. But those sinful ones who cook food only for themselves verily eat sin.",
+      "commentary": "The concept of 'yajna-shishta' (remnants of sacrifice) teaches a beautiful principle — first offer your work and its fruits to God and to others, then enjoy what remains. This attitude transforms every meal into prasad and every action into worship. Self-centered consumption, in contrast, only accumulates karmic debt."
+    },
+    {
+      "verseNumber": 14,
+      "slug": "verse-14",
+      "speaker": "Krishna",
+      "devanagari": "अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः।\nयज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः॥१४॥",
+      "transliteration": "Annad-Bhavanti Bhutani Parjanyad-Anna-Sambhavah.\nYajnad-Bhavati Parjanyo Yajnah Karma-Samudbhavah.||14||",
+      "wordByWord": [
+        {
+          "word": "अन्नात्",
+          "transliteration": "annat",
+          "meaning": "from food"
+        },
+        {
+          "word": "भवन्ति",
+          "transliteration": "bhavanti",
+          "meaning": "come into being"
+        },
+        {
+          "word": "भूतानि",
+          "transliteration": "bhutani",
+          "meaning": "all beings"
+        },
+        {
+          "word": "पर्जन्यात्",
+          "transliteration": "parjanyat",
+          "meaning": "from rain"
+        },
+        {
+          "word": "अन्नसम्भवः",
+          "transliteration": "anna-sambhavah",
+          "meaning": "food is produced"
+        },
+        {
+          "word": "यज्ञात्",
+          "transliteration": "yajnat",
+          "meaning": "from sacrifice"
+        },
+        {
+          "word": "भवति",
+          "transliteration": "bhavati",
+          "meaning": "arises"
+        },
+        {
+          "word": "पर्जन्यः",
+          "transliteration": "parjanyah",
+          "meaning": "rain"
+        },
+        {
+          "word": "यज्ञः",
+          "transliteration": "yajnah",
+          "meaning": "sacrifice"
+        },
+        {
+          "word": "कर्मसमुद्भवः",
+          "transliteration": "karma-samudbhavah",
+          "meaning": "born of prescribed action"
+        }
+      ],
+      "hindiTranslation": "अन्न से प्राणी उत्पन्न होते हैं, वर्षा से अन्न उत्पन्न होता है, यज्ञ से वर्षा होती है और यज्ञ कर्म से उत्पन्न होता है।",
+      "englishTranslation": "All beings are born from food, food is produced from rain, rain arises from sacrifice (yajna), and sacrifice is born of prescribed action (karma).",
+      "commentary": "Krishna describes the cosmic cycle of interdependence — action produces sacrifice, sacrifice produces rain, rain produces food, and food sustains life. This ecological and spiritual chain shows that selfless action sustains the entire creation. Breaking any link in this cycle leads to disorder and suffering."
+    },
+    {
+      "verseNumber": 15,
+      "slug": "verse-15",
+      "speaker": "Krishna",
+      "devanagari": "कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम्।\nतस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम्॥१५॥",
+      "transliteration": "Karma Brahmo-Udbhavam Viddhi Brahma-Akshara-Samudbhavam.\nTasmat Sarva-Gatam Brahma Nityam Yajne Pratishthitam.||15||",
+      "wordByWord": [
+        {
+          "word": "कर्म",
+          "transliteration": "karma",
+          "meaning": "action"
+        },
+        {
+          "word": "ब्रह्मोद्भवम्",
+          "transliteration": "brahma-udbhavam",
+          "meaning": "born of the Vedas/Brahman"
+        },
+        {
+          "word": "विद्धि",
+          "transliteration": "viddhi",
+          "meaning": "know"
+        },
+        {
+          "word": "ब्रह्म",
+          "transliteration": "brahma",
+          "meaning": "the Vedas"
+        },
+        {
+          "word": "अक्षरसमुद्भवम्",
+          "transliteration": "akshara-samudbhavam",
+          "meaning": "arising from the Imperishable"
+        },
+        {
+          "word": "तस्मात्",
+          "transliteration": "tasmat",
+          "meaning": "therefore"
+        },
+        {
+          "word": "सर्वगतम्",
+          "transliteration": "sarva-gatam",
+          "meaning": "all-pervading"
+        },
+        {
+          "word": "ब्रह्म",
+          "transliteration": "brahma",
+          "meaning": "Brahman/the Absolute"
+        },
+        {
+          "word": "नित्यम्",
+          "transliteration": "nityam",
+          "meaning": "eternally"
+        },
+        {
+          "word": "यज्ञे",
+          "transliteration": "yajne",
+          "meaning": "in sacrifice"
+        },
+        {
+          "word": "प्रतिष्ठितम्",
+          "transliteration": "pratishthitam",
+          "meaning": "established"
+        }
+      ],
+      "hindiTranslation": "कर्म वेद (ब्रह्म) से उत्पन्न है और वेद अविनाशी परमात्मा से प्रकट हुए हैं। इसलिए सर्वव्यापी ब्रह्म सदा यज्ञ में प्रतिष्ठित है।",
+      "englishTranslation": "Know that prescribed action arises from the Vedas, and the Vedas arise from the Imperishable (Brahman). Therefore, the all-pervading Brahman is eternally established in sacrifice.",
+      "commentary": "This completes the cosmic cycle by tracing action back to its ultimate source — the Imperishable Brahman. Vedas prescribe action, action produces sacrifice, sacrifice sustains creation, and all of this emanates from and rests in Brahman. Sacrifice is thus the very nature of the Divine operating in creation."
+    },
+    {
+      "verseNumber": 16,
+      "slug": "verse-16",
+      "speaker": "Krishna",
+      "devanagari": "एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः।\nअघायुरिन्द्रियारामो मोघं पार्थ स जीवति॥१६॥",
+      "transliteration": "Evam Pravartitam Chakram Na-Anuvartayati-Iha Yah.\nAgha-Ayur-Indriya-Aramo Mogham Partha Sa Jivati.||16||",
+      "wordByWord": [
+        {
+          "word": "एवम्",
+          "transliteration": "evam",
+          "meaning": "thus"
+        },
+        {
+          "word": "प्रवर्तितम्",
+          "transliteration": "pravartitam",
+          "meaning": "set in motion"
+        },
+        {
+          "word": "चक्रम्",
+          "transliteration": "chakram",
+          "meaning": "the wheel/cycle"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "अनुवर्तयति",
+          "transliteration": "anuvartayati",
+          "meaning": "follows"
+        },
+        {
+          "word": "इह",
+          "transliteration": "iha",
+          "meaning": "here (in this world)"
+        },
+        {
+          "word": "यः",
+          "transliteration": "yah",
+          "meaning": "who"
+        },
+        {
+          "word": "अघायुः",
+          "transliteration": "agha-ayuh",
+          "meaning": "living in sin"
+        },
+        {
+          "word": "इन्द्रियारामः",
+          "transliteration": "indriya-aramah",
+          "meaning": "delighting in the senses"
+        },
+        {
+          "word": "मोघम्",
+          "transliteration": "mogham",
+          "meaning": "in vain"
+        },
+        {
+          "word": "पार्थ",
+          "transliteration": "partha",
+          "meaning": "O son of Pritha"
+        },
+        {
+          "word": "सः",
+          "transliteration": "sah",
+          "meaning": "he"
+        },
+        {
+          "word": "जीवति",
+          "transliteration": "jivati",
+          "meaning": "lives"
+        }
+      ],
+      "hindiTranslation": "हे पार्थ! जो इस प्रकार प्रचलित (सृष्टि-) चक्र का अनुसरण नहीं करता — वह पापायु, इन्द्रियों में रमण करने वाला मनुष्य व्यर्थ ही जीता है।",
+      "englishTranslation": "O Partha, one who does not follow this wheel of creation thus set in motion lives a sinful life, delighting only in the senses — such a person lives in vain.",
+      "commentary": "Krishna delivers a strong warning against those who consume without contributing to the cosmic order. A person who lives solely for sense pleasure, ignoring their duty to sustain the cycle of sacrifice and mutual service, wastes the precious opportunity of human life. Life has purpose only when aligned with dharma."
+    },
+    {
+      "verseNumber": 17,
+      "slug": "verse-17",
+      "speaker": "Krishna",
+      "devanagari": "यस्त्वात्मरतिरेव स्यादात्मतृप्तश्च मानवः।\nआत्मन्येव च सन्तुष्टस्तस्य कार्यं न विद्यते॥१७॥",
+      "transliteration": "Yas-Tv-Atma-Ratir-Eva Syad-Atma-Triptash-Cha Manavah.\nAtmany-Eva Cha Santushtas-Tasya Karyam Na Vidyate.||17||",
+      "wordByWord": [
+        {
+          "word": "यः",
+          "transliteration": "yah",
+          "meaning": "who"
+        },
+        {
+          "word": "तु",
+          "transliteration": "tu",
+          "meaning": "but"
+        },
+        {
+          "word": "आत्मरतिः",
+          "transliteration": "atma-ratih",
+          "meaning": "rejoicing in the Self"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "alone"
+        },
+        {
+          "word": "स्यात्",
+          "transliteration": "syat",
+          "meaning": "would be"
+        },
+        {
+          "word": "आत्मतृप्तः",
+          "transliteration": "atma-triptah",
+          "meaning": "satisfied in the Self"
+        },
+        {
+          "word": "च",
+          "transliteration": "cha",
+          "meaning": "and"
+        },
+        {
+          "word": "मानवः",
+          "transliteration": "manavah",
+          "meaning": "a person"
+        },
+        {
+          "word": "आत्मनि",
+          "transliteration": "atmani",
+          "meaning": "in the Self"
+        },
+        {
+          "word": "सन्तुष्टः",
+          "transliteration": "santushtah",
+          "meaning": "contented"
+        },
+        {
+          "word": "तस्य",
+          "transliteration": "tasya",
+          "meaning": "for that person"
+        },
+        {
+          "word": "कार्यम्",
+          "transliteration": "karyam",
+          "meaning": "duty/obligation"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "विद्यते",
+          "transliteration": "vidyate",
+          "meaning": "exists"
+        }
+      ],
+      "hindiTranslation": "परन्तु जो मनुष्य आत्मा में ही रमण करने वाला, आत्मा से ही तृप्त और आत्मा में ही सन्तुष्ट हो — उसके लिए कोई कर्तव्य शेष नहीं रहता।",
+      "englishTranslation": "But for one who rejoices only in the Self, who is satisfied in the Self, and who is content in the Self alone — for such a person, no obligatory duty exists.",
+      "commentary": "After emphasizing the necessity of action, Krishna acknowledges the exception — the fully Self-realized soul. One who has transcended all desires and finds complete fulfillment within has no karmic obligation. However, such souls are extremely rare. For everyone else, the path of Karma Yoga remains essential."
+    },
+    {
+      "verseNumber": 18,
+      "slug": "verse-18",
+      "speaker": "Krishna",
+      "devanagari": "नैव तस्य कृतेनार्थो नाकृतेनेह कश्चन।\nन चास्य सर्वभूतेषु कश्चिदर्थव्यपाश्रयः॥१८॥",
+      "transliteration": "Naiva Tasya Kritena-Artho Na-Akriteneha Kashchana.\nNa Cha-Asya Sarva-Bhuteshu Kashchid-Artha-Vyapashrayah.||18||",
+      "wordByWord": [
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "indeed"
+        },
+        {
+          "word": "तस्य",
+          "transliteration": "tasya",
+          "meaning": "for that person"
+        },
+        {
+          "word": "कृतेन",
+          "transliteration": "kritena",
+          "meaning": "by action done"
+        },
+        {
+          "word": "अर्थः",
+          "transliteration": "arthah",
+          "meaning": "purpose/gain"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "nor"
+        },
+        {
+          "word": "अकृतेन",
+          "transliteration": "akritena",
+          "meaning": "by action not done"
+        },
+        {
+          "word": "इह",
+          "transliteration": "iha",
+          "meaning": "here"
+        },
+        {
+          "word": "कश्चन",
+          "transliteration": "kashchana",
+          "meaning": "anything"
+        },
+        {
+          "word": "सर्वभूतेषु",
+          "transliteration": "sarva-bhuteshu",
+          "meaning": "in all beings"
+        },
+        {
+          "word": "कश्चित्",
+          "transliteration": "kashchit",
+          "meaning": "any"
+        },
+        {
+          "word": "अर्थव्यपाश्रयः",
+          "transliteration": "artha-vyapashrayah",
+          "meaning": "dependence for any purpose"
+        }
+      ],
+      "hindiTranslation": "उस (आत्मज्ञानी) को इस लोक में न कर्म करने से कोई प्रयोजन होता है, न कर्म न करने से — और न ही उसकी किसी प्राणी पर किसी प्रकार की निर्भरता होती है।",
+      "englishTranslation": "For such a Self-realized person, there is nothing to be gained by action done, nor anything lost by action not done. Such a one has no dependence on any being for any purpose.",
+      "commentary": "This describes the complete independence of the liberated soul. Having realized the Self, they have no selfish motive for any action. They neither gain from doing nor lose from not doing. This state of absolute freedom is the ultimate fruit of spiritual practice, though such beings often continue to act for the welfare of the world."
+    },
+    {
+      "verseNumber": 19,
+      "slug": "verse-19",
+      "speaker": "Krishna",
+      "devanagari": "तस्मादसक्तः सततं कार्यं कर्म समाचर।\nअसक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः॥१९॥",
+      "transliteration": "Tasmad-Asaktah Satatam Karyam Karma Samachara.\nAsakto Hy-Acharan Karma Param-Apnoti Purushah.||19||",
+      "wordByWord": [
+        {
+          "word": "तस्मात्",
+          "transliteration": "tasmat",
+          "meaning": "therefore"
+        },
+        {
+          "word": "असक्तः",
+          "transliteration": "asaktah",
+          "meaning": "without attachment"
+        },
+        {
+          "word": "सततम्",
+          "transliteration": "satatam",
+          "meaning": "constantly/always"
+        },
+        {
+          "word": "कार्यम्",
+          "transliteration": "karyam",
+          "meaning": "obligatory"
+        },
+        {
+          "word": "कर्म",
+          "transliteration": "karma",
+          "meaning": "action/duty"
+        },
+        {
+          "word": "समाचर",
+          "transliteration": "samachara",
+          "meaning": "perform well"
+        },
+        {
+          "word": "असक्तः",
+          "transliteration": "asaktah",
+          "meaning": "unattached"
+        },
+        {
+          "word": "हि",
+          "transliteration": "hi",
+          "meaning": "indeed"
+        },
+        {
+          "word": "आचरन्",
+          "transliteration": "acharan",
+          "meaning": "performing"
+        },
+        {
+          "word": "कर्म",
+          "transliteration": "karma",
+          "meaning": "action"
+        },
+        {
+          "word": "परम्",
+          "transliteration": "param",
+          "meaning": "the Supreme"
+        },
+        {
+          "word": "आप्नोति",
+          "transliteration": "apnoti",
+          "meaning": "attains"
+        },
+        {
+          "word": "पूरुषः",
+          "transliteration": "purushah",
+          "meaning": "a person"
+        }
+      ],
+      "hindiTranslation": "इसलिए तू सदा आसक्ति रहित होकर कर्तव्य-कर्म का सम्यक् आचरण कर। क्योंकि अनासक्त होकर कर्म करने वाला मनुष्य परम (मोक्ष/परमात्मा) को प्राप्त होता है।",
+      "englishTranslation": "Therefore, always perform your obligatory duty without attachment. For by performing action without attachment, a person attains the Supreme.",
+      "commentary": "This verse distills the essence of Karma Yoga into a simple, powerful formula: act always, act dutifully, act without attachment. The word 'satatam' (always) is important — detached action is not occasional but a way of life. The promise is extraordinary — through selfless action alone, one can attain the highest spiritual goal."
+    },
+    {
+      "verseNumber": 20,
+      "slug": "verse-20",
+      "speaker": "Krishna",
+      "devanagari": "कर्मणैव हि संसिद्धिमास्थिता जनकादयः।\nलोकसङ्ग्रहमेवापि सम्पश्यन्कर्तुमर्हसि॥२०॥",
+      "transliteration": "Karmanai-Va Hi Samsiddhim-Asthita Janaka-Adayah.\nLoka-Sangraham-Eva-Api Sampashyan Kartum-Arhasi.||20||",
+      "wordByWord": [
+        {
+          "word": "कर्मणा",
+          "transliteration": "karmana",
+          "meaning": "by action"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "alone"
+        },
+        {
+          "word": "हि",
+          "transliteration": "hi",
+          "meaning": "indeed"
+        },
+        {
+          "word": "संसिद्धिम्",
+          "transliteration": "samsiddhim",
+          "meaning": "perfection"
+        },
+        {
+          "word": "आस्थिताः",
+          "transliteration": "asthitah",
+          "meaning": "attained"
+        },
+        {
+          "word": "जनकादयः",
+          "transliteration": "janaka-adayah",
+          "meaning": "Janaka and others"
+        },
+        {
+          "word": "लोकसङ्ग्रहम्",
+          "transliteration": "loka-sangraham",
+          "meaning": "welfare of the world"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "also"
+        },
+        {
+          "word": "अपि",
+          "transliteration": "api",
+          "meaning": "even"
+        },
+        {
+          "word": "सम्पश्यन्",
+          "transliteration": "sampashyan",
+          "meaning": "considering"
+        },
+        {
+          "word": "कर्तुम्",
+          "transliteration": "kartum",
+          "meaning": "to do"
+        },
+        {
+          "word": "अर्हसि",
+          "transliteration": "arhasi",
+          "meaning": "you should"
+        }
+      ],
+      "hindiTranslation": "राजा जनक आदि महापुरुषों ने कर्म से ही सिद्धि (पूर्णता) प्राप्त की। अतः लोकसंग्रह (लोक-कल्याण) को दृष्टि में रखते हुए भी तुझे कर्म करना चाहिए।",
+      "englishTranslation": "King Janaka and others attained perfection through action alone. Even considering the welfare of the world (Loka-sangraha), you should perform action.",
+      "commentary": "Krishna cites the historical example of King Janaka, who achieved Self-realization while actively ruling his kingdom. This proves that worldly engagement and spiritual perfection are not mutually exclusive. The concept of 'loka-sangraha' — acting for the welfare and cohesion of society — adds a social dimension to spiritual duty."
+    },
+    {
+      "verseNumber": 21,
+      "slug": "verse-21",
+      "speaker": "Krishna",
+      "devanagari": "यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः।\nस यत्प्रमाणं कुरुते लोकस्तदनुवर्तते॥२१॥",
+      "transliteration": "Yad-Yad-Acharati Shreshthah Tat-Tad-Evetaro Janah.\nSa Yat-Pramanam Kurute Lokas-Tad-Anuvartate.||21||",
+      "wordByWord": [
+        {
+          "word": "यत् यत्",
+          "transliteration": "yat yat",
+          "meaning": "whatever"
+        },
+        {
+          "word": "आचरति",
+          "transliteration": "acharati",
+          "meaning": "does/practices"
+        },
+        {
+          "word": "श्रेष्ठः",
+          "transliteration": "shreshthah",
+          "meaning": "a great/noble person"
+        },
+        {
+          "word": "तत् तत्",
+          "transliteration": "tat tat",
+          "meaning": "that very thing"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "only"
+        },
+        {
+          "word": "इतरः",
+          "transliteration": "itarah",
+          "meaning": "the rest/common"
+        },
+        {
+          "word": "जनः",
+          "transliteration": "janah",
+          "meaning": "people"
+        },
+        {
+          "word": "सः",
+          "transliteration": "sah",
+          "meaning": "he"
+        },
+        {
+          "word": "यत्",
+          "transliteration": "yat",
+          "meaning": "whatever"
+        },
+        {
+          "word": "प्रमाणम्",
+          "transliteration": "pramanam",
+          "meaning": "standard/example"
+        },
+        {
+          "word": "कुरुते",
+          "transliteration": "kurute",
+          "meaning": "sets"
+        },
+        {
+          "word": "लोकः",
+          "transliteration": "lokah",
+          "meaning": "the world"
+        },
+        {
+          "word": "तत्",
+          "transliteration": "tat",
+          "meaning": "that"
+        },
+        {
+          "word": "अनुवर्तते",
+          "transliteration": "anuvartate",
+          "meaning": "follows"
+        }
+      ],
+      "hindiTranslation": "श्रेष्ठ (महान) पुरुष जो-जो आचरण करता है, अन्य लोग भी वैसा ही करते हैं। वह जो प्रमाण (मानदण्ड) स्थापित करता है, समस्त लोक उसका अनुसरण करता है।",
+      "englishTranslation": "Whatever a great person does, common people follow. Whatever standard such a person sets, the entire world follows.",
+      "commentary": "This is one of the most famous and widely quoted verses of the Gita. It establishes the principle of leadership by example. Those in positions of influence — whether leaders, teachers, parents, or public figures — bear a profound responsibility, as ordinary people naturally imitate their behavior. This applies equally in personal, professional, and spiritual contexts."
+    },
+    {
+      "verseNumber": 22,
+      "slug": "verse-22",
+      "speaker": "Krishna",
+      "devanagari": "न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन।\nनानवाप्तमवाप्तव्यं वर्त एव च कर्मणि॥२२॥",
+      "transliteration": "Na Me Partha-Asti Kartavyam Trishu Lokeshu Kinchana.\nNa-Anavaptam-Avaptavyam Varta Eva Cha Karmani.||22||",
+      "wordByWord": [
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "मे",
+          "transliteration": "me",
+          "meaning": "for Me"
+        },
+        {
+          "word": "पार्थ",
+          "transliteration": "partha",
+          "meaning": "O son of Pritha"
+        },
+        {
+          "word": "अस्ति",
+          "transliteration": "asti",
+          "meaning": "there is"
+        },
+        {
+          "word": "कर्तव्यम्",
+          "transliteration": "kartavyam",
+          "meaning": "duty to be done"
+        },
+        {
+          "word": "त्रिषु",
+          "transliteration": "trishu",
+          "meaning": "in the three"
+        },
+        {
+          "word": "लोकेषु",
+          "transliteration": "lokeshu",
+          "meaning": "worlds"
+        },
+        {
+          "word": "किञ्चन",
+          "transliteration": "kinchana",
+          "meaning": "anything"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "अनवाप्तम्",
+          "transliteration": "anavaptam",
+          "meaning": "unattained"
+        },
+        {
+          "word": "अवाप्तव्यम्",
+          "transliteration": "avaptavyam",
+          "meaning": "to be attained"
+        },
+        {
+          "word": "वर्ते",
+          "transliteration": "varte",
+          "meaning": "I engage"
+        },
+        {
+          "word": "एव",
+          "transliteration": "eva",
+          "meaning": "still"
+        },
+        {
+          "word": "कर्मणि",
+          "transliteration": "karmani",
+          "meaning": "in action"
+        }
+      ],
+      "hindiTranslation": "हे पार्थ! मेरे लिए तीनों लोकों में न कोई कर्तव्य है, न कुछ अप्राप्त है जो प्राप्त करना हो — फिर भी मैं कर्म में लगा रहता हूँ।",
+      "englishTranslation": "O Partha, there is nothing in all three worlds that I need to do, nor is there anything unattained that I need to attain — yet I continue to engage in action.",
+      "commentary": "Krishna reveals His own example as the ultimate model for Karma Yoga. As the Supreme Lord, He has nothing to gain from any action in all of existence. Yet He acts ceaselessly for the welfare of the world. This is the highest form of selfless action — acting purely for the benefit of others when one has absolutely nothing to gain."
+    },
+    {
+      "verseNumber": 23,
+      "slug": "verse-23",
+      "speaker": "Krishna",
+      "devanagari": "यदि ह्यहं न वर्तेयं जातु कर्मण्यतन्द्रितः।\nमम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः॥२३॥",
+      "transliteration": "Yadi Hy-Aham Na Varteyam Jatu Karmany-Atandritah.\nMama Vartma-Anuvartante Manushyah Partha Sarvashah.||23||",
+      "wordByWord": [
+        {
+          "word": "यदि",
+          "transliteration": "yadi",
+          "meaning": "if"
+        },
+        {
+          "word": "हि",
+          "transliteration": "hi",
+          "meaning": "indeed"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "वर्तेयम्",
+          "transliteration": "varteyam",
+          "meaning": "would engage"
+        },
+        {
+          "word": "जातु",
+          "transliteration": "jatu",
+          "meaning": "ever"
+        },
+        {
+          "word": "कर्मणि",
+          "transliteration": "karmani",
+          "meaning": "in action"
+        },
+        {
+          "word": "अतन्द्रितः",
+          "transliteration": "atandritah",
+          "meaning": "carefully/diligently"
+        },
+        {
+          "word": "मम",
+          "transliteration": "mama",
+          "meaning": "My"
+        },
+        {
+          "word": "वर्त्म",
+          "transliteration": "vartma",
+          "meaning": "path"
+        },
+        {
+          "word": "अनुवर्तन्ते",
+          "transliteration": "anuvartante",
+          "meaning": "follow"
+        },
+        {
+          "word": "मनुष्याः",
+          "transliteration": "manushyah",
+          "meaning": "humans"
+        },
+        {
+          "word": "पार्थ",
+          "transliteration": "partha",
+          "meaning": "O Partha"
+        },
+        {
+          "word": "सर्वशः",
+          "transliteration": "sarvashah",
+          "meaning": "in all respects"
+        }
+      ],
+      "hindiTranslation": "हे पार्थ! यदि मैं सावधानी से कर्म न करूँ, तो सभी मनुष्य सब प्रकार से मेरे ही मार्ग का अनुसरण करेंगे (और कर्म छोड़ देंगे)।",
+      "englishTranslation": "For if I were not to engage in action carefully, O Partha, all human beings would follow My path in every way.",
+      "commentary": "Krishna explains why even He, the omnipotent Lord, continues to act — because humans follow the example of those they revere. If God Himself were to stop acting, it would provide a justification for universal inaction. This verse powerfully reinforces the responsibility of leadership and the principle that one must practice what one preaches."
+    },
+    {
+      "verseNumber": 24,
+      "slug": "verse-24",
+      "speaker": "Krishna",
+      "devanagari": "उत्सीदेयुरिमे लोका न कुर्यां कर्म चेदहम्।\nसङ्करस्य च कर्ता स्यामुपहन्यामिमाः प्रजाः॥२४॥",
+      "transliteration": "Utsideyur-Ime Loka Na Kuryam Karma Ched-Aham.\nSankarasya Cha Karta Syam-Upahanyam-Imah Prajah.||24||",
+      "wordByWord": [
+        {
+          "word": "उत्सीदेयुः",
+          "transliteration": "utsideyuh",
+          "meaning": "would be ruined"
+        },
+        {
+          "word": "इमे",
+          "transliteration": "ime",
+          "meaning": "these"
+        },
+        {
+          "word": "लोकाः",
+          "transliteration": "lokah",
+          "meaning": "worlds/people"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "कुर्याम्",
+          "transliteration": "kuryam",
+          "meaning": "I would do"
+        },
+        {
+          "word": "कर्म",
+          "transliteration": "karma",
+          "meaning": "action"
+        },
+        {
+          "word": "चेत्",
+          "transliteration": "chet",
+          "meaning": "if"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I"
+        },
+        {
+          "word": "सङ्करस्य",
+          "transliteration": "sankarasya",
+          "meaning": "of confusion/disorder"
+        },
+        {
+          "word": "कर्ता",
+          "transliteration": "karta",
+          "meaning": "creator"
+        },
+        {
+          "word": "स्याम्",
+          "transliteration": "syam",
+          "meaning": "I would be"
+        },
+        {
+          "word": "उपहन्याम्",
+          "transliteration": "upahanyam",
+          "meaning": "would destroy"
+        },
+        {
+          "word": "इमाः",
+          "transliteration": "imah",
+          "meaning": "these"
+        },
+        {
+          "word": "प्रजाः",
+          "transliteration": "prajah",
+          "meaning": "beings/people"
+        }
+      ],
+      "hindiTranslation": "यदि मैं कर्म न करूँ तो ये सब लोक नष्ट हो जाएँ; मैं वर्णसंकर (अव्यवस्था) का कारण बनूँ और इन समस्त प्रजाओं को नष्ट कर दूँ।",
+      "englishTranslation": "If I were to stop performing action, these worlds would perish. I would be the cause of confusion and disorder, and I would destroy all these beings.",
+      "commentary": "Krishna highlights the cosmic consequences of divine inaction. The entire universe is sustained by the Lord's continuous activity — the sun rises, seasons change, and nature functions because of His will. If He stopped, creation itself would collapse. This underscores the profound interconnection between divine action and the sustenance of all life."
+    },
+    {
+      "verseNumber": 25,
+      "slug": "verse-25",
+      "speaker": "Krishna",
+      "devanagari": "सक्ताः कर्मण्यविद्वांसो यथा कुर्वन्ति भारत।\nकुर्याद्विद्वांस्तथासक्तश्चिकीर्षुर्लोकसङ्ग्रहम्॥२५॥",
+      "transliteration": "Saktah Karmany-Avidvamso Yatha Kurvanti Bharata.\nKuryad-Vidvams-Tatha-Asaktash-Chikirshur-Loka-Sangraham.||25||",
+      "wordByWord": [
+        {
+          "word": "सक्ताः",
+          "transliteration": "saktah",
+          "meaning": "attached"
+        },
+        {
+          "word": "कर्मणि",
+          "transliteration": "karmani",
+          "meaning": "to action"
+        },
+        {
+          "word": "अविद्वांसः",
+          "transliteration": "avidvamsah",
+          "meaning": "the ignorant"
+        },
+        {
+          "word": "यथा",
+          "transliteration": "yatha",
+          "meaning": "just as"
+        },
+        {
+          "word": "कुर्वन्ति",
+          "transliteration": "kurvanti",
+          "meaning": "act"
+        },
+        {
+          "word": "भारत",
+          "transliteration": "bharata",
+          "meaning": "O descendant of Bharata"
+        },
+        {
+          "word": "कुर्यात्",
+          "transliteration": "kuryat",
+          "meaning": "should act"
+        },
+        {
+          "word": "विद्वान्",
+          "transliteration": "vidvan",
+          "meaning": "the wise"
+        },
+        {
+          "word": "तथा",
+          "transliteration": "tatha",
+          "meaning": "similarly"
+        },
+        {
+          "word": "असक्तः",
+          "transliteration": "asaktah",
+          "meaning": "without attachment"
+        },
+        {
+          "word": "चिकीर्षुः",
+          "transliteration": "chikirshu",
+          "meaning": "desiring"
+        },
+        {
+          "word": "लोकसङ्ग्रहम्",
+          "transliteration": "loka-sangraham",
+          "meaning": "the welfare of the world"
+        }
+      ],
+      "hindiTranslation": "हे भारत! जैसे अज्ञानी लोग कर्म में आसक्त होकर कर्म करते हैं, वैसे ही विद्वान (ज्ञानी) भी लोकसंग्रह (जन-कल्याण) की इच्छा से अनासक्त होकर कर्म करे।",
+      "englishTranslation": "O Bharata, just as the ignorant act with attachment to results, so should the wise act without attachment, desiring the welfare of the world.",
+      "commentary": "This verse reveals the beautiful paradox of the wise — they act with the same energy and engagement as the worldly, but with a completely different inner attitude. The ignorant act driven by desire; the wise act driven by compassion and duty. Externally similar, their actions are internally worlds apart."
+    },
+    {
+      "verseNumber": 26,
+      "slug": "verse-26",
+      "speaker": "Krishna",
+      "devanagari": "न बुद्धिभेदं जनयेदज्ञानां कर्मसङ्गिनाम्।\nजोषयेत्सर्वकर्माणि विद्वान्युक्तः समाचरन्॥२६॥",
+      "transliteration": "Na Buddhi-Bhedam Janayed-Ajnanam Karma-Sanginam.\nJoshayet-Sarva-Karmani Vidvan-Yuktah Samacharan.||26||",
+      "wordByWord": [
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "बुद्धिभेदम्",
+          "transliteration": "buddhi-bhedam",
+          "meaning": "confusion of intellect"
+        },
+        {
+          "word": "जनयेत्",
+          "transliteration": "janayet",
+          "meaning": "should create"
+        },
+        {
+          "word": "अज्ञानाम्",
+          "transliteration": "ajnanam",
+          "meaning": "of the ignorant"
+        },
+        {
+          "word": "कर्मसङ्गिनाम्",
+          "transliteration": "karma-sanginam",
+          "meaning": "attached to action"
+        },
+        {
+          "word": "जोषयेत्",
+          "transliteration": "joshayet",
+          "meaning": "should engage/inspire"
+        },
+        {
+          "word": "सर्वकर्माणि",
+          "transliteration": "sarva-karmani",
+          "meaning": "all actions"
+        },
+        {
+          "word": "विद्वान्",
+          "transliteration": "vidvan",
+          "meaning": "the wise person"
+        },
+        {
+          "word": "युक्तः",
+          "transliteration": "yuktah",
+          "meaning": "engaged in yoga"
+        },
+        {
+          "word": "समाचरन्",
+          "transliteration": "samacharan",
+          "meaning": "performing properly"
+        }
+      ],
+      "hindiTranslation": "विद्वान पुरुष कर्म में आसक्त अज्ञानियों की बुद्धि में भ्रम उत्पन्न न करे। बल्कि स्वयं समस्त कर्मों को भली-भाँति करते हुए उन्हें (कर्म में) प्रवृत्त करे।",
+      "englishTranslation": "The wise should not unsettle the minds of the ignorant who are attached to action. Rather, the wise should engage them in all actions by performing their own duties well.",
+      "commentary": "This is a remarkable teaching on spiritual leadership and sensitivity. A wise person should not suddenly tell attached people to give up action — this would confuse and destabilize them. Instead, the wise should lead by example, performing duties with detachment, and gradually inspire others toward the same attitude. Wisdom includes the skill of appropriate communication."
+    },
+    {
+      "verseNumber": 27,
+      "slug": "verse-27",
+      "speaker": "Krishna",
+      "devanagari": "प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः।\nअहङ्कारविमूढात्मा कर्ताहमिति मन्यते॥२७॥",
+      "transliteration": "Prakriteh Kriyamanani Gunaih Karmani Sarvashah.\nAhankara-Vimudha-Atma Karta-Aham-Iti Manyate.||27||",
+      "wordByWord": [
+        {
+          "word": "प्रकृतेः",
+          "transliteration": "prakriteh",
+          "meaning": "of Prakriti (nature)"
+        },
+        {
+          "word": "क्रियमाणानि",
+          "transliteration": "kriyamanani",
+          "meaning": "being performed"
+        },
+        {
+          "word": "गुणैः",
+          "transliteration": "gunaih",
+          "meaning": "by the gunas (qualities)"
+        },
+        {
+          "word": "कर्माणि",
+          "transliteration": "karmani",
+          "meaning": "actions"
+        },
+        {
+          "word": "सर्वशः",
+          "transliteration": "sarvashah",
+          "meaning": "in every way"
+        },
+        {
+          "word": "अहङ्कार",
+          "transliteration": "ahankara",
+          "meaning": "ego"
+        },
+        {
+          "word": "विमूढात्मा",
+          "transliteration": "vimudha-atma",
+          "meaning": "one deluded in self"
+        },
+        {
+          "word": "कर्ता",
+          "transliteration": "karta",
+          "meaning": "the doer"
+        },
+        {
+          "word": "अहम्",
+          "transliteration": "aham",
+          "meaning": "I"
+        },
+        {
+          "word": "इति",
+          "transliteration": "iti",
+          "meaning": "thus"
+        },
+        {
+          "word": "मन्यते",
+          "transliteration": "manyate",
+          "meaning": "thinks"
+        }
+      ],
+      "hindiTranslation": "वास्तव में सम्पूर्ण कर्म प्रकृति के गुणों द्वारा किए जाते हैं। परन्तु अहंकार से मोहित हुआ मनुष्य 'मैं कर्ता हूँ' ऐसा मान लेता है।",
+      "englishTranslation": "All actions are in reality performed by the gunas (qualities) of Prakriti (material nature). But one whose self is deluded by ego thinks, 'I am the doer.'",
+      "commentary": "This is a foundational verse of Vedantic philosophy. The true Self (Atman) is actionless — it is the witness. All activity happens through the interplay of the three gunas in Prakriti. The sense of being the doer arises from ego (ahankara), which falsely identifies the Self with the body-mind complex. Liberation comes from seeing through this illusion."
+    },
+    {
+      "verseNumber": 28,
+      "slug": "verse-28",
+      "speaker": "Krishna",
+      "devanagari": "तत्त्ववित्तु महाबाहो गुणकर्मविभागयोः।\nगुणा गुणेषु वर्तन्त इति मत्वा न सज्जते॥२८॥",
+      "transliteration": "Tattva-Vit-Tu Maha-Baho Guna-Karma-Vibhagayoh.\nGuna Guneshu Vartanta Iti Matva Na Sajjate.||28||",
+      "wordByWord": [
+        {
+          "word": "तत्त्ववित्",
+          "transliteration": "tattva-vit",
+          "meaning": "the knower of truth"
+        },
+        {
+          "word": "तु",
+          "transliteration": "tu",
+          "meaning": "but"
+        },
+        {
+          "word": "महाबाहो",
+          "transliteration": "maha-baho",
+          "meaning": "O mighty-armed one"
+        },
+        {
+          "word": "गुणकर्मविभागयोः",
+          "transliteration": "guna-karma-vibhagayoh",
+          "meaning": "of the division of gunas and actions"
+        },
+        {
+          "word": "गुणाः",
+          "transliteration": "gunah",
+          "meaning": "the gunas (senses)"
+        },
+        {
+          "word": "गुणेषु",
+          "transliteration": "guneshu",
+          "meaning": "in the gunas (sense objects)"
+        },
+        {
+          "word": "वर्तन्ते",
+          "transliteration": "vartante",
+          "meaning": "are engaged"
+        },
+        {
+          "word": "इति",
+          "transliteration": "iti",
+          "meaning": "thus"
+        },
+        {
+          "word": "मत्वा",
+          "transliteration": "matva",
+          "meaning": "knowing"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "सज्जते",
+          "transliteration": "sajjate",
+          "meaning": "becomes attached"
+        }
+      ],
+      "hindiTranslation": "हे महाबाहो! गुण और कर्म के विभाग (तत्त्व) को जानने वाला ज्ञानी यह समझकर कि 'गुण ही गुणों में (इन्द्रियाँ विषयों में) बरत रहे हैं' — आसक्त नहीं होता।",
+      "englishTranslation": "But one who knows the truth about the division of the gunas and their actions, O mighty-armed, understanding that it is the gunas that act upon the gunas (senses acting among sense objects), does not become attached.",
+      "commentary": "The wise person understands that what appears as 'my action' is simply the dance of Prakriti's gunas interacting with their corresponding objects. The senses (products of gunas) engage with sense objects (also products of gunas). The Self merely witnesses. This understanding frees one from the false notion of doership and hence from attachment."
+    },
+    {
+      "verseNumber": 29,
+      "slug": "verse-29",
+      "speaker": "Krishna",
+      "devanagari": "प्रकृतेर्गुणसम्मूढाः सज्जन्ते गुणकर्मसु।\nतानकृत्स्नविदो मन्दान्कृत्स्नविन्न विचालयेत्॥२९॥",
+      "transliteration": "Prakriter-Guna-Sammudhah Sajjante Guna-Karmasu.\nTan-Akritsna-Vido Mandan Kritsna-Vin-Na Vichalayet.||29||",
+      "wordByWord": [
+        {
+          "word": "प्रकृतेः",
+          "transliteration": "prakriteh",
+          "meaning": "of Prakriti"
+        },
+        {
+          "word": "गुणसम्मूढाः",
+          "transliteration": "guna-sammudhah",
+          "meaning": "deluded by the gunas"
+        },
+        {
+          "word": "सज्जन्ते",
+          "transliteration": "sajjante",
+          "meaning": "become attached"
+        },
+        {
+          "word": "गुणकर्मसु",
+          "transliteration": "guna-karmasu",
+          "meaning": "to actions of the gunas"
+        },
+        {
+          "word": "तान्",
+          "transliteration": "tan",
+          "meaning": "them"
+        },
+        {
+          "word": "अकृत्स्नविदः",
+          "transliteration": "akritsna-vidah",
+          "meaning": "of incomplete knowledge"
+        },
+        {
+          "word": "मन्दान्",
+          "transliteration": "mandan",
+          "meaning": "the dull/slow"
+        },
+        {
+          "word": "कृत्स्नवित्",
+          "transliteration": "kritsna-vit",
+          "meaning": "one of complete knowledge"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "विचालयेत्",
+          "transliteration": "vichalayet",
+          "meaning": "should unsettle"
+        }
+      ],
+      "hindiTranslation": "प्रकृति के गुणों से मोहित हुए लोग गुणों के कार्यों में आसक्त होते हैं। उन अल्पज्ञ मन्दबुद्धि लोगों को पूर्ण ज्ञानी विचलित (भ्रमित) न करे।",
+      "englishTranslation": "Those deluded by the gunas of Prakriti become attached to the actions of the gunas. The knower of the whole truth should not unsettle the minds of those of incomplete knowledge who are slow to understand.",
+      "commentary": "This verse reiterates the compassionate approach of the wise toward those still bound by nature's qualities. Spiritual teaching requires patience and tact. Shocking people out of their beliefs without offering them a viable alternative causes more harm than good. The wise guide gradually, respecting each person's level of understanding."
+    },
+    {
+      "verseNumber": 30,
+      "slug": "verse-30",
+      "speaker": "Krishna",
+      "devanagari": "मयि सर्वाणि कर्माणि सन्न्यस्याध्यात्मचेतसा।\nनिराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वरः॥३०॥",
+      "transliteration": "Mayi Sarvani Karmani Sannyasya-Adhyatma-Chetasa.\nNirashir-Nirmamo Bhutva Yudhyasva Vigata-Jvarah.||30||",
+      "wordByWord": [
+        {
+          "word": "मयि",
+          "transliteration": "mayi",
+          "meaning": "unto Me"
+        },
+        {
+          "word": "सर्वाणि",
+          "transliteration": "sarvani",
+          "meaning": "all"
+        },
+        {
+          "word": "कर्माणि",
+          "transliteration": "karmani",
+          "meaning": "actions"
+        },
+        {
+          "word": "सन्न्यस्य",
+          "transliteration": "sannyasya",
+          "meaning": "surrendering"
+        },
+        {
+          "word": "अध्यात्मचेतसा",
+          "transliteration": "adhyatma-chetasa",
+          "meaning": "with a spiritually focused mind"
+        },
+        {
+          "word": "निराशीः",
+          "transliteration": "nirashih",
+          "meaning": "free from desire"
+        },
+        {
+          "word": "निर्ममः",
+          "transliteration": "nirmamah",
+          "meaning": "free from possessiveness"
+        },
+        {
+          "word": "भूत्वा",
+          "transliteration": "bhutva",
+          "meaning": "becoming"
+        },
+        {
+          "word": "युध्यस्व",
+          "transliteration": "yudhyasva",
+          "meaning": "fight"
+        },
+        {
+          "word": "विगतज्वरः",
+          "transliteration": "vigata-jvarah",
+          "meaning": "free from mental fever/anxiety"
+        }
+      ],
+      "hindiTranslation": "सम्पूर्ण कर्मों को अध्यात्म-बुद्धि से मुझमें अर्पण करके, आशा रहित, ममता रहित और (मानसिक) सन्ताप से मुक्त होकर युद्ध कर।",
+      "englishTranslation": "Surrendering all actions to Me, with a mind focused on the Self, free from desire and possessiveness, fight — free from mental fever and anxiety.",
+      "commentary": "This verse is a complete prescription for spiritual action. Krishna asks Arjuna to do five things: (1) surrender all actions to God, (2) maintain spiritual awareness, (3) abandon selfish desire, (4) give up possessiveness, and (5) be free from anxiety. With these inner attitudes established, even the act of fighting becomes a spiritual practice."
+    },
+    {
+      "verseNumber": 31,
+      "slug": "verse-31",
+      "speaker": "Krishna",
+      "devanagari": "ये मे मतमिदं नित्यमनुतिष्ठन्ति मानवाः।\nश्रद्धावन्तोऽनसूयन्तो मुच्यन्ते तेऽपि कर्मभिः॥३१॥",
+      "transliteration": "Ye Me Matam-Idam Nityam-Anutishthanti Manavah.\nShraddhavanto'nasuyanto Muchyante Te'pi Karmabhih.||31||",
+      "wordByWord": [
+        {
+          "word": "ये",
+          "transliteration": "ye",
+          "meaning": "those who"
+        },
+        {
+          "word": "मे",
+          "transliteration": "me",
+          "meaning": "My"
+        },
+        {
+          "word": "मतम्",
+          "transliteration": "matam",
+          "meaning": "teaching/doctrine"
+        },
+        {
+          "word": "इदम्",
+          "transliteration": "idam",
+          "meaning": "this"
+        },
+        {
+          "word": "नित्यम्",
+          "transliteration": "nityam",
+          "meaning": "always"
+        },
+        {
+          "word": "अनुतिष्ठन्ति",
+          "transliteration": "anutishthanti",
+          "meaning": "follow/practice"
+        },
+        {
+          "word": "मानवाः",
+          "transliteration": "manavah",
+          "meaning": "human beings"
+        },
+        {
+          "word": "श्रद्धावन्तः",
+          "transliteration": "shraddhavantah",
+          "meaning": "full of faith"
+        },
+        {
+          "word": "अनसूयन्तः",
+          "transliteration": "anasuyantah",
+          "meaning": "without envy/malice"
+        },
+        {
+          "word": "मुच्यन्ते",
+          "transliteration": "muchyante",
+          "meaning": "are freed"
+        },
+        {
+          "word": "ते",
+          "transliteration": "te",
+          "meaning": "they"
+        },
+        {
+          "word": "अपि",
+          "transliteration": "api",
+          "meaning": "also"
+        },
+        {
+          "word": "कर्मभिः",
+          "transliteration": "karmabhih",
+          "meaning": "from the bondage of action"
+        }
+      ],
+      "hindiTranslation": "जो मनुष्य श्रद्धापूर्वक और दोषदृष्टि रहित होकर मेरे इस मत (उपदेश) का सदा अनुसरण करते हैं — वे भी कर्मबन्धन से मुक्त हो जाते हैं।",
+      "englishTranslation": "Those human beings who constantly follow this teaching of Mine with faith and without envy are also freed from the bondage of karma.",
+      "commentary": "Krishna gives assurance that sincere practitioners of Karma Yoga will attain liberation. Two qualities are essential: 'shraddha' (faith) — trust in the teaching and the teacher, and 'anasuya' (freedom from malice/envy) — an open, non-judgmental attitude. These qualities make the heart receptive to spiritual transformation."
+    },
+    {
+      "verseNumber": 32,
+      "slug": "verse-32",
+      "speaker": "Krishna",
+      "devanagari": "ये त्वेतदभ्यसूयन्तो नानुतिष्ठन्ति मे मतम्।\nसर्वज्ञानविमूढांस्तान्विद्धि नष्टानचेतसः॥३२॥",
+      "transliteration": "Ye Tv-Etad-Abhyasuyanto Na-Anutishthanti Me Matam.\nSarva-Jnana-Vimudhamsh-Tan Viddhi Nashtan-Achetasah.||32||",
+      "wordByWord": [
+        {
+          "word": "ये",
+          "transliteration": "ye",
+          "meaning": "those who"
+        },
+        {
+          "word": "तु",
+          "transliteration": "tu",
+          "meaning": "but"
+        },
+        {
+          "word": "एतत्",
+          "transliteration": "etat",
+          "meaning": "this"
+        },
+        {
+          "word": "अभ्यसूयन्तः",
+          "transliteration": "abhyasuyantah",
+          "meaning": "finding fault/being envious"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "अनुतिष्ठन्ति",
+          "transliteration": "anutishthanti",
+          "meaning": "follow"
+        },
+        {
+          "word": "मे",
+          "transliteration": "me",
+          "meaning": "My"
+        },
+        {
+          "word": "मतम्",
+          "transliteration": "matam",
+          "meaning": "teaching"
+        },
+        {
+          "word": "सर्वज्ञानविमूढान्",
+          "transliteration": "sarva-jnana-vimudhan",
+          "meaning": "deluded in all knowledge"
+        },
+        {
+          "word": "तान्",
+          "transliteration": "tan",
+          "meaning": "them"
+        },
+        {
+          "word": "विद्धि",
+          "transliteration": "viddhi",
+          "meaning": "know"
+        },
+        {
+          "word": "नष्टान्",
+          "transliteration": "nashtan",
+          "meaning": "ruined"
+        },
+        {
+          "word": "अचेतसः",
+          "transliteration": "achetasah",
+          "meaning": "devoid of discrimination"
+        }
+      ],
+      "hindiTranslation": "परन्तु जो दोष लगाते हुए मेरे इस मत का पालन नहीं करते — उन समस्त ज्ञान से मोहित, विवेकहीन मनुष्यों को नष्ट (भटके हुए) समझो।",
+      "englishTranslation": "But those who, finding fault with this teaching, do not follow it — know them to be deluded in all knowledge, devoid of discrimination, and doomed to ruin.",
+      "commentary": "Krishna warns that those who reject the teaching of selfless action out of spite or arrogance remain trapped in ignorance. The word 'abhyasuyantah' refers to those who find fault not from genuine inquiry but from ego-driven resistance. Such rejection closes the door to wisdom and perpetuates suffering."
+    },
+    {
+      "verseNumber": 33,
+      "slug": "verse-33",
+      "speaker": "Krishna",
+      "devanagari": "सदृशं चेष्टते स्वस्याः प्रकृतेर्ज्ञानवानपि।\nप्रकृतिं यान्ति भूतानि निग्रहः किं करिष्यति॥३३॥",
+      "transliteration": "Sadrisham Cheshtate Svasyah Prakriter-Jnanavan-Api.\nPrakritim Yanti Bhutani Nigrahah Kim Karishyati.||33||",
+      "wordByWord": [
+        {
+          "word": "सदृशम्",
+          "transliteration": "sadrisham",
+          "meaning": "in accordance with"
+        },
+        {
+          "word": "चेष्टते",
+          "transliteration": "cheshtate",
+          "meaning": "acts/strives"
+        },
+        {
+          "word": "स्वस्याः",
+          "transliteration": "svasyah",
+          "meaning": "of one's own"
+        },
+        {
+          "word": "प्रकृतेः",
+          "transliteration": "prakriteh",
+          "meaning": "nature"
+        },
+        {
+          "word": "ज्ञानवान्",
+          "transliteration": "jnanavan",
+          "meaning": "a person of knowledge"
+        },
+        {
+          "word": "अपि",
+          "transliteration": "api",
+          "meaning": "even"
+        },
+        {
+          "word": "प्रकृतिम्",
+          "transliteration": "prakritim",
+          "meaning": "nature"
+        },
+        {
+          "word": "यान्ति",
+          "transliteration": "yanti",
+          "meaning": "follow"
+        },
+        {
+          "word": "भूतानि",
+          "transliteration": "bhutani",
+          "meaning": "beings"
+        },
+        {
+          "word": "निग्रहः",
+          "transliteration": "nigrahah",
+          "meaning": "repression"
+        },
+        {
+          "word": "किम्",
+          "transliteration": "kim",
+          "meaning": "what"
+        },
+        {
+          "word": "करिष्यति",
+          "transliteration": "karishyati",
+          "meaning": "will accomplish"
+        }
+      ],
+      "hindiTranslation": "ज्ञानवान मनुष्य भी अपनी प्रकृति (स्वभाव) के अनुसार ही आचरण करता है। सभी प्राणी प्रकृति का अनुसरण करते हैं — बलपूर्वक दमन से क्या होगा?",
+      "englishTranslation": "Even a person of knowledge acts according to their own nature. All beings follow their nature — what can forceful repression accomplish?",
+      "commentary": "Krishna acknowledges the powerful grip of one's innate tendencies (samskaras). Even a knowledgeable person is influenced by their conditioning. This is not a counsel of despair but of realism — transformation requires gradual inner change, not violent suppression. Understanding one's nature is the first step to transcending it."
+    },
+    {
+      "verseNumber": 34,
+      "slug": "verse-34",
+      "speaker": "Krishna",
+      "devanagari": "इन्द्रियस्येन्द्रियस्यार्थे रागद्वेषौ व्यवस्थितौ।\nतयोर्न वशमागच्छेत्तौ ह्यस्य परिपन्थिनौ॥३४॥",
+      "transliteration": "Indriyasya-Indriyasya-Arthe Raga-Dveshau Vyavasthitau.\nTayor-Na Vasham-Agachchhet Tau Hy-Asya Paripanthinau.||34||",
+      "wordByWord": [
+        {
+          "word": "इन्द्रियस्य",
+          "transliteration": "indriyasya",
+          "meaning": "of the senses"
+        },
+        {
+          "word": "इन्द्रियस्य",
+          "transliteration": "indriyasya",
+          "meaning": "of each sense"
+        },
+        {
+          "word": "अर्थे",
+          "transliteration": "arthe",
+          "meaning": "in the object"
+        },
+        {
+          "word": "रागद्वेषौ",
+          "transliteration": "raga-dveshau",
+          "meaning": "attachment and aversion"
+        },
+        {
+          "word": "व्यवस्थितौ",
+          "transliteration": "vyavasthitau",
+          "meaning": "are situated"
+        },
+        {
+          "word": "तयोः",
+          "transliteration": "tayoh",
+          "meaning": "of those two"
+        },
+        {
+          "word": "न",
+          "transliteration": "na",
+          "meaning": "not"
+        },
+        {
+          "word": "वशम्",
+          "transliteration": "vasham",
+          "meaning": "under the control"
+        },
+        {
+          "word": "आगच्छेत्",
+          "transliteration": "agachchhet",
+          "meaning": "should come"
+        },
+        {
+          "word": "तौ",
+          "transliteration": "tau",
+          "meaning": "those two"
+        },
+        {
+          "word": "हि",
+          "transliteration": "hi",
+          "meaning": "indeed"
+        },
+        {
+          "word": "अस्य",
+          "transliteration": "asya",
+          "meaning": "of this person"
+        },
+        {
+          "word": "परिपन्थिनौ",
+          "transliteration": "paripanthinau",
+          "meaning": "enemies/obstacles"
+        }
+      ],
+      "hindiTranslation": "प्रत्येक इन्द्रिय के विषय में राग (आसक्ति) और द्वेष (घृणा) स्थित हैं। मनुष्य को इन दोनों के वश में नहीं आना चाहिए, क्योंकि ये दोनों उसके शत्रु (मार्ग के अवरोधक) हैं।",
+      "englishTranslation": "Attachment and aversion lie in wait in the relationship between each sense and its object. One should not come under the sway of these two, for they are one's enemies on the path.",
+      "commentary": "Krishna identifies the twin enemies lurking in every sense experience — raga (attraction/craving) and dvesha (repulsion/aversion). These are not the sense objects themselves but our emotional reactions to them. The spiritual aspirant must navigate between these two extremes, remaining balanced and equanimous. This is the practical application of detachment."
+    },
+    {
+      "verseNumber": 35,
+      "slug": "verse-35",
+      "speaker": "Krishna",
+      "devanagari": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्।\nस्वधर्मे निधनं श्रेयः परधर्मो भयावहः॥३५॥",
+      "transliteration": "Shreyaan Sva-Dharmo Vigunah Para-Dharmat Sv-Anushthitat.\nSva-Dharme Nidhanam Shreyah Para-Dharmo Bhaya-Avahah.||35||",
+      "wordByWord": [
+        {
+          "word": "श्रेयान्",
+          "transliteration": "shreyan",
+          "meaning": "better"
+        },
+        {
+          "word": "स्वधर्मः",
+          "transliteration": "sva-dharmah",
+          "meaning": "one's own dharma/duty"
+        },
+        {
+          "word": "विगुणः",
+          "transliteration": "vigunah",
+          "meaning": "imperfectly performed"
+        },
+        {
+          "word": "परधर्मात्",
+          "transliteration": "para-dharmat",
+          "meaning": "than the duty of another"
+        },
+        {
+          "word": "स्वनुष्ठितात्",
+          "transliteration": "sv-anushthitat",
+          "meaning": "well performed"
+        },
+        {
+          "word": "स्वधर्मे",
+          "transliteration": "sva-dharme",
+          "meaning": "in one's own dharma"
+        },
+        {
+          "word": "निधनम्",
+          "transliteration": "nidhanam",
+          "meaning": "death"
+        },
+        {
+          "word": "श्रेयः",
+          "transliteration": "shreyah",
+          "meaning": "better"
+        },
+        {
+          "word": "परधर्मः",
+          "transliteration": "para-dharmah",
+          "meaning": "another's dharma"
+        },
+        {
+          "word": "भयावहः",
+          "transliteration": "bhaya-avahah",
+          "meaning": "fraught with danger"
+        }
+      ],
+      "hindiTranslation": "अपना धर्म (कर्तव्य) गुणरहित (अपूर्ण) होने पर भी दूसरे के अच्छी तरह आचरित धर्म से श्रेष्ठ है। अपने धर्म में मर जाना भी कल्याणकारी है; दूसरे का धर्म भय उत्पन्न करने वाला है।",
+      "englishTranslation": "Better is one's own dharma, though imperfectly performed, than the dharma of another well performed. It is better to die in one's own dharma; the dharma of another is fraught with danger.",
+      "commentary": "This is one of the most famous and frequently quoted verses of the entire Gita, repeated again in Chapter 18. Svadharma refers to one's own duty based on one's nature, station, and circumstances. Imitating another's path, however well, goes against one's inner grain and creates inner conflict. Authenticity in one's own spiritual practice, even if imperfect, is far superior to perfectly mimicking someone else's path."
+    },
+    {
+      "verseNumber": 36,
+      "slug": "verse-36",
+      "speaker": "Arjuna",
+      "devanagari": "अर्जुन उवाच —\nअथ केन प्रयुक्तोऽयं पापं चरति पूरुषः।\nअनिच्छन्नपि वार्ष्णेय बलादिव नियोजितः॥३६॥",
+      "transliteration": "Arjuna Uvacha —\nAtha Kena Prayukto'yam Papam Charati Purushah.\nAnichchhann-Api Varshneya Balad-Iva Niyojitah.||36||",
+      "wordByWord": [
+        {
+          "word": "अथ",
+          "transliteration": "atha",
+          "meaning": "then"
+        },
+        {
+          "word": "केन",
+          "transliteration": "kena",
+          "meaning": "by what"
+        },
+        {
+          "word": "प्रयुक्तः",
+          "transliteration": "prayuktah",
+          "meaning": "impelled"
+        },
+        {
+          "word": "अयम्",
+          "transliteration": "ayam",
+          "meaning": "this"
+        },
+        {
+          "word": "पापम्",
+          "transliteration": "papam",
+          "meaning": "sin"
+        },
+        {
+          "word": "चरति",
+          "transliteration": "charati",
+          "meaning": "commits"
+        },
+        {
+          "word": "पूरुषः",
+          "transliteration": "purushah",
+          "meaning": "a person"
+        },
+        {
+          "word": "अनिच्छन्",
+          "transliteration": "anichchhan",
+          "meaning": "unwillingly"
+        },
+        {
+          "word": "अपि",
+          "transliteration": "api",
+          "meaning": "even"
+        },
+        {
+          "word": "वार्ष्णेय",
+          "transliteration": "varshneya",
+          "meaning": "O descendant of Vrishni (Krishna)"
+        },
+        {
+          "word": "बलात्",
+          "transliteration": "balat",
+          "meaning": "by force"
+        },
+        {
+          "word": "इव",
+          "transliteration": "iva",
+          "meaning": "as if"
+        },
+        {
+          "word": "नियोजितः",
+          "transliteration": "niyojitah",
+          "meaning": "engaged/compelled"
+        }
+      ],
+      "hindiTranslation": "अर्जुन ने कहा — हे वार्ष्णेय (कृष्ण)! तो फिर मनुष्य न चाहते हुए भी किसके द्वारा प्रेरित होकर बलपूर्वक पाप का आचरण करता है?",
+      "englishTranslation": "Arjuna said: O Varshneya (Krishna), then by what is a person impelled to commit sin, even unwillingly, as if driven by force?",
+      "commentary": "Arjuna asks one of the most psychologically penetrating questions in the Gita. He has observed that people often do wrong despite knowing better — as if compelled by an invisible force. This question about the nature of temptation and inner compulsion opens the door to Krishna's powerful teaching on desire and anger as the enemies of the soul."
+    },
+    {
+      "verseNumber": 37,
+      "slug": "verse-37",
+      "speaker": "Krishna",
+      "devanagari": "श्रीभगवानुवाच —\nकाम एष क्रोध एष रजोगुणसमुद्भवः।\nमहाशनो महापाप्मा विद्ध्येनमिह वैरिणम्॥३७॥",
+      "transliteration": "Shri Bhagavan Uvacha —\nKama Esha Krodha Esha Rajo-Guna-Samudbhavah.\nMaha-Ashano Maha-Papma Viddhy-Enam-Iha Vairinam.||37||",
+      "wordByWord": [
+        {
+          "word": "कामः",
+          "transliteration": "kamah",
+          "meaning": "desire/lust"
+        },
+        {
+          "word": "एषः",
+          "transliteration": "eshah",
+          "meaning": "this"
+        },
+        {
+          "word": "क्रोधः",
+          "transliteration": "krodhah",
+          "meaning": "anger"
+        },
+        {
+          "word": "एषः",
+          "transliteration": "eshah",
+          "meaning": "this"
+        },
+        {
+          "word": "रजोगुणसमुद्भवः",
+          "transliteration": "rajo-guna-samudbhavah",
+          "meaning": "born of Rajo-guna (passion)"
+        },
+        {
+          "word": "महाशनः",
+          "transliteration": "maha-ashanah",
+          "meaning": "all-devouring"
+        },
+        {
+          "word": "महापाप्मा",
+          "transliteration": "maha-papma",
+          "meaning": "greatly sinful"
+        },
+        {
+          "word": "विद्धि",
+          "transliteration": "viddhi",
+          "meaning": "know"
+        },
+        {
+          "word": "एनम्",
+          "transliteration": "enam",
+          "meaning": "this"
+        },
+        {
+          "word": "इह",
+          "transliteration": "iha",
+          "meaning": "here"
+        },
+        {
+          "word": "वैरिणम्",
+          "transliteration": "vairinam",
+          "meaning": "the enemy"
+        }
+      ],
+      "hindiTranslation": "श्रीभगवान ने कहा — यह काम (कामना) है, यह क्रोध है — जो रजोगुण से उत्पन्न होता है। यह महाभक्षक (सब कुछ निगलने वाला) और महापापी है; इसे ही यहाँ (सबसे बड़ा) शत्रु जान।",
+      "englishTranslation": "The Blessed Lord said: It is desire (kama), it is anger (krodha), born of the quality of passion (Rajo-guna). It is all-devouring and greatly sinful. Know this to be the enemy here.",
+      "commentary": "Krishna identifies the root cause of sin — Kama (desire/craving). When desire is obstructed, it transforms into Krodha (anger). Both are born of Rajas, the quality of passion and restlessness. Krishna calls them 'maha-ashana' (all-devouring) because desire is never satisfied and 'maha-papma' (greatly sinful) because it leads to all transgressions."
+    },
+    {
+      "verseNumber": 38,
+      "slug": "verse-38",
+      "speaker": "Krishna",
+      "devanagari": "धूमेनाव्रियते वह्निर्यथादर्शो मलेन च।\nयथोल्बेनावृतो गर्भस्तथा तेनेदमावृतम्॥३८॥",
+      "transliteration": "Dhumena-Avriyate Vahnir-Yatha-Adarsho Malena Cha.\nYatholbena-Avrito Garbhas-Tatha Tenedam-Avritam.||38||",
+      "wordByWord": [
+        {
+          "word": "धूमेन",
+          "transliteration": "dhumena",
+          "meaning": "by smoke"
+        },
+        {
+          "word": "आव्रियते",
+          "transliteration": "avriyate",
+          "meaning": "is covered"
+        },
+        {
+          "word": "वह्निः",
+          "transliteration": "vahnih",
+          "meaning": "fire"
+        },
+        {
+          "word": "यथा",
+          "transliteration": "yatha",
+          "meaning": "just as"
+        },
+        {
+          "word": "आदर्शः",
+          "transliteration": "adarshah",
+          "meaning": "a mirror"
+        },
+        {
+          "word": "मलेन",
+          "transliteration": "malena",
+          "meaning": "by dust"
+        },
+        {
+          "word": "च",
+          "transliteration": "cha",
+          "meaning": "and"
+        },
+        {
+          "word": "यथा",
+          "transliteration": "yatha",
+          "meaning": "just as"
+        },
+        {
+          "word": "उल्बेन",
+          "transliteration": "ulbena",
+          "meaning": "by the womb/membrane"
+        },
+        {
+          "word": "आवृतः",
+          "transliteration": "avritah",
+          "meaning": "is covered"
+        },
+        {
+          "word": "गर्भः",
+          "transliteration": "garbhah",
+          "meaning": "the embryo"
+        },
+        {
+          "word": "तथा",
+          "transliteration": "tatha",
+          "meaning": "so"
+        },
+        {
+          "word": "तेन",
+          "transliteration": "tena",
+          "meaning": "by that (desire)"
+        },
+        {
+          "word": "इदम्",
+          "transliteration": "idam",
+          "meaning": "this (knowledge)"
+        },
+        {
+          "word": "आवृतम्",
+          "transliteration": "avritam",
+          "meaning": "is covered"
+        }
+      ],
+      "hindiTranslation": "जैसे धुएँ से अग्नि, मैल से दर्पण और जेर (गर्भ-आवरण) से गर्भ ढका रहता है — वैसे ही उस (काम) से यह (ज्ञान) ढका रहता है।",
+      "englishTranslation": "As fire is covered by smoke, as a mirror is covered by dust, and as an embryo is covered by the womb — so is knowledge covered by desire.",
+      "commentary": "Krishna uses three vivid metaphors showing varying degrees of concealment. Smoke over fire is thin and easily dispersed (mild desire). Dust on a mirror requires more effort to clean (moderate desire). The womb around an embryo is a complete enclosure (deep-seated desire). These correspond to the sattvik, rajasik, and tamasik levels of desire's obscuring power."
+    },
+    {
+      "verseNumber": 39,
+      "slug": "verse-39",
+      "speaker": "Krishna",
+      "devanagari": "आवृतं ज्ञानमेतेन ज्ञानिनो नित्यवैरिणा।\nकामरूपेण कौन्तेय दुष्पूरेणानलेन च॥३९॥",
+      "transliteration": "Avritam Jnanam-Etena Jnanino Nitya-Vairina.\nKama-Rupena Kaunteya Dushpurena-Analena Cha.||39||",
+      "wordByWord": [
+        {
+          "word": "आवृतम्",
+          "transliteration": "avritam",
+          "meaning": "is covered"
+        },
+        {
+          "word": "ज्ञानम्",
+          "transliteration": "jnanam",
+          "meaning": "knowledge"
+        },
+        {
+          "word": "एतेन",
+          "transliteration": "etena",
+          "meaning": "by this"
+        },
+        {
+          "word": "ज्ञानिनः",
+          "transliteration": "jnaninah",
+          "meaning": "of the knower"
+        },
+        {
+          "word": "नित्यवैरिणा",
+          "transliteration": "nitya-vairina",
+          "meaning": "eternal enemy"
+        },
+        {
+          "word": "कामरूपेण",
+          "transliteration": "kama-rupena",
+          "meaning": "in the form of desire"
+        },
+        {
+          "word": "कौन्तेय",
+          "transliteration": "kaunteya",
+          "meaning": "O son of Kunti"
+        },
+        {
+          "word": "दुष्पूरेण",
+          "transliteration": "dushpurena",
+          "meaning": "insatiable"
+        },
+        {
+          "word": "अनलेन",
+          "transliteration": "analena",
+          "meaning": "like fire"
+        },
+        {
+          "word": "च",
+          "transliteration": "cha",
+          "meaning": "and"
+        }
+      ],
+      "hindiTranslation": "हे कौन्तेय! ज्ञानी के इस नित्य शत्रु (काम) द्वारा — जो कामना के रूप में है और जो अग्नि के समान कभी तृप्त नहीं होता — ज्ञान ढका हुआ है।",
+      "englishTranslation": "O son of Kunti, the knowledge of even the wise is covered by this eternal enemy in the form of desire, which is insatiable like fire.",
+      "commentary": "Desire is called the 'eternal enemy' (nitya-vairi) because it has accompanied the soul across countless lifetimes. It is compared to fire because, like fire that grows stronger with more fuel, desire grows stronger with more indulgence. No amount of gratification can satisfy it — this is the fundamental insight that drives the quest for spiritual liberation."
+    },
+    {
+      "verseNumber": 40,
+      "slug": "verse-40",
+      "speaker": "Krishna",
+      "devanagari": "इन्द्रियाणि मनो बुद्धिरस्याधिष्ठानमुच्यते।\nएतैर्विमोहयत्येष ज्ञानमावृत्य देहिनम्॥४०॥",
+      "transliteration": "Indriyani Mano Buddhir-Asya-Adhishthanam-Uchyate.\nEtair-Vimohayaty-Esha Jnanam-Avritya Dehinam.||40||",
+      "wordByWord": [
+        {
+          "word": "इन्द्रियाणि",
+          "transliteration": "indriyani",
+          "meaning": "the senses"
+        },
+        {
+          "word": "मनः",
+          "transliteration": "manah",
+          "meaning": "the mind"
+        },
+        {
+          "word": "बुद्धिः",
+          "transliteration": "buddhih",
+          "meaning": "the intellect"
+        },
+        {
+          "word": "अस्य",
+          "transliteration": "asya",
+          "meaning": "of this (desire)"
+        },
+        {
+          "word": "अधिष्ठानम्",
+          "transliteration": "adhishthanam",
+          "meaning": "seat/stronghold"
+        },
+        {
+          "word": "उच्यते",
+          "transliteration": "uchyate",
+          "meaning": "is said to be"
+        },
+        {
+          "word": "एतैः",
+          "transliteration": "etaih",
+          "meaning": "through these"
+        },
+        {
+          "word": "विमोहयति",
+          "transliteration": "vimohayati",
+          "meaning": "deludes"
+        },
+        {
+          "word": "एषः",
+          "transliteration": "eshah",
+          "meaning": "this (desire)"
+        },
+        {
+          "word": "ज्ञानम्",
+          "transliteration": "jnanam",
+          "meaning": "knowledge"
+        },
+        {
+          "word": "आवृत्य",
+          "transliteration": "avritya",
+          "meaning": "covering"
+        },
+        {
+          "word": "देहिनम्",
+          "transliteration": "dehinam",
+          "meaning": "the embodied soul"
+        }
+      ],
+      "hindiTranslation": "इन्द्रियाँ, मन और बुद्धि — ये इसके (काम के) निवासस्थान कहे जाते हैं। यह इनके द्वारा ज्ञान को ढककर जीवात्मा को मोहित करता है।",
+      "englishTranslation": "The senses, the mind, and the intellect are said to be the seat (stronghold) of desire. Through these, desire covers knowledge and deludes the embodied soul.",
+      "commentary": "Krishna maps the anatomy of desire's operation. It occupies three strategic posts — the senses (gathering data from the external world), the mind (processing desires and emotions), and the intellect (the faculty of discrimination). When desire corrupts all three, the soul loses its ability to discern right from wrong, truth from illusion."
+    },
+    {
+      "verseNumber": 41,
+      "slug": "verse-41",
+      "speaker": "Krishna",
+      "devanagari": "तस्मात्त्वमिन्द्रियाण्यादौ नियम्य भरतर्षभ।\nपाप्मानं प्रजहि ह्येनं ज्ञानविज्ञाननाशनम्॥४१॥",
+      "transliteration": "Tasmat-Tvam-Indriyany-Adau Niyamya Bharatarshabha.\nPapmanam Prajahi Hy-Enam Jnana-Vijnana-Nashanam.||41||",
+      "wordByWord": [
+        {
+          "word": "तस्मात्",
+          "transliteration": "tasmat",
+          "meaning": "therefore"
+        },
+        {
+          "word": "त्वम्",
+          "transliteration": "tvam",
+          "meaning": "you"
+        },
+        {
+          "word": "इन्द्रियाणि",
+          "transliteration": "indriyani",
+          "meaning": "the senses"
+        },
+        {
+          "word": "आदौ",
+          "transliteration": "adau",
+          "meaning": "in the beginning/first"
+        },
+        {
+          "word": "नियम्य",
+          "transliteration": "niyamya",
+          "meaning": "controlling"
+        },
+        {
+          "word": "भरतर्षभ",
+          "transliteration": "bharatarshabha",
+          "meaning": "O best of the Bharatas"
+        },
+        {
+          "word": "पाप्मानम्",
+          "transliteration": "papmanam",
+          "meaning": "this sinful one"
+        },
+        {
+          "word": "प्रजहि",
+          "transliteration": "prajahi",
+          "meaning": "slay/conquer"
+        },
+        {
+          "word": "हि",
+          "transliteration": "hi",
+          "meaning": "certainly"
+        },
+        {
+          "word": "एनम्",
+          "transliteration": "enam",
+          "meaning": "this"
+        },
+        {
+          "word": "ज्ञानविज्ञाननाशनम्",
+          "transliteration": "jnana-vijnana-nashanam",
+          "meaning": "destroyer of knowledge and realization"
+        }
+      ],
+      "hindiTranslation": "अतः हे भरतश्रेष्ठ! तू पहले इन्द्रियों को वश में करके इस पापी (काम) को मार डाल, जो ज्ञान और विज्ञान दोनों का नाश करने वाला है।",
+      "englishTranslation": "Therefore, O best of the Bharatas, first controlling the senses, slay this sinful destroyer of both theoretical knowledge (jnana) and realized wisdom (vijnana).",
+      "commentary": "Krishna gives the practical strategy — start by controlling the senses, since they are the outermost fortress of desire. The battle against desire must be fought from the outside in. The word 'prajahi' (slay) shows the urgency and totality needed. Desire destroys both jnana (intellectual knowledge) and vijnana (direct experiential wisdom)."
+    },
+    {
+      "verseNumber": 42,
+      "slug": "verse-42",
+      "speaker": "Krishna",
+      "devanagari": "इन्द्रियाणि पराण्याहुरिन्द्रियेभ्यः परं मनः।\nमनसस्तु परा बुद्धिर्यो बुद्धेः परतस्तु सः॥४२॥",
+      "transliteration": "Indriyani Parany-Ahur-Indriyebhyah Param Manah.\nManasas-Tu Para Buddhir-Yo Buddheh Paratas-Tu Sah.||42||",
+      "wordByWord": [
+        {
+          "word": "इन्द्रियाणि",
+          "transliteration": "indriyani",
+          "meaning": "the senses"
+        },
+        {
+          "word": "पराणि",
+          "transliteration": "parani",
+          "meaning": "superior (to the body)"
+        },
+        {
+          "word": "आहुः",
+          "transliteration": "ahuh",
+          "meaning": "they say"
+        },
+        {
+          "word": "इन्द्रियेभ्यः",
+          "transliteration": "indriyebhyah",
+          "meaning": "than the senses"
+        },
+        {
+          "word": "परम्",
+          "transliteration": "param",
+          "meaning": "superior"
+        },
+        {
+          "word": "मनः",
+          "transliteration": "manah",
+          "meaning": "the mind"
+        },
+        {
+          "word": "मनसः",
+          "transliteration": "manasah",
+          "meaning": "than the mind"
+        },
+        {
+          "word": "तु",
+          "transliteration": "tu",
+          "meaning": "but"
+        },
+        {
+          "word": "परा",
+          "transliteration": "para",
+          "meaning": "superior"
+        },
+        {
+          "word": "बुद्धिः",
+          "transliteration": "buddhih",
+          "meaning": "the intellect"
+        },
+        {
+          "word": "यः",
+          "transliteration": "yah",
+          "meaning": "that which"
+        },
+        {
+          "word": "बुद्धेः",
+          "transliteration": "buddheh",
+          "meaning": "than the intellect"
+        },
+        {
+          "word": "परतः",
+          "transliteration": "paratah",
+          "meaning": "superior"
+        },
+        {
+          "word": "सः",
+          "transliteration": "sah",
+          "meaning": "that (the Self)"
+        }
+      ],
+      "hindiTranslation": "इन्द्रियाँ (शरीर से) श्रेष्ठ कही जाती हैं; इन्द्रियों से श्रेष्ठ मन है; मन से श्रेष्ठ बुद्धि है; और जो बुद्धि से भी परे है — वह आत्मा है।",
+      "englishTranslation": "The senses are said to be superior to the body; the mind is superior to the senses; the intellect is superior to the mind; and that which is superior to the intellect is the Self (Atman).",
+      "commentary": "Krishna reveals the hierarchy of inner faculties — body, senses, mind, intellect, and finally the Atman. Each higher faculty can control the lower ones. The senses can override the body's inertia, the mind can direct the senses, the intellect can govern the mind, and the Atman transcends and empowers them all. This hierarchy provides the key to overcoming desire."
+    },
+    {
+      "verseNumber": 43,
+      "slug": "verse-43",
+      "speaker": "Krishna",
+      "devanagari": "एवं बुद्धेः परं बुद्ध्वा संस्तभ्यात्मानमात्मना।\nजहि शत्रुं महाबाहो कामरूपं दुरासदम्॥४३॥",
+      "transliteration": "Evam Buddheh Param Buddhva Samstabhya-Atmanam-Atmana.\nJahi Shatrum Maha-Baho Kama-Rupam Durasadam.||43||",
+      "wordByWord": [
+        {
+          "word": "एवम्",
+          "transliteration": "evam",
+          "meaning": "thus"
+        },
+        {
+          "word": "बुद्धेः",
+          "transliteration": "buddheh",
+          "meaning": "than the intellect"
+        },
+        {
+          "word": "परम्",
+          "transliteration": "param",
+          "meaning": "superior"
+        },
+        {
+          "word": "बुद्ध्वा",
+          "transliteration": "buddhva",
+          "meaning": "knowing"
+        },
+        {
+          "word": "संस्तभ्य",
+          "transliteration": "samstabhya",
+          "meaning": "steadying/establishing"
+        },
+        {
+          "word": "आत्मानम्",
+          "transliteration": "atmanam",
+          "meaning": "the self (mind)"
+        },
+        {
+          "word": "आत्मना",
+          "transliteration": "atmana",
+          "meaning": "by the Self"
+        },
+        {
+          "word": "जहि",
+          "transliteration": "jahi",
+          "meaning": "slay/conquer"
+        },
+        {
+          "word": "शत्रुम्",
+          "transliteration": "shatrum",
+          "meaning": "the enemy"
+        },
+        {
+          "word": "महाबाहो",
+          "transliteration": "maha-baho",
+          "meaning": "O mighty-armed one"
+        },
+        {
+          "word": "कामरूपम्",
+          "transliteration": "kama-rupam",
+          "meaning": "in the form of desire"
+        },
+        {
+          "word": "दुरासदम्",
+          "transliteration": "durasadam",
+          "meaning": "difficult to conquer"
+        }
+      ],
+      "hindiTranslation": "इस प्रकार बुद्धि से परे (आत्मा को) जानकर, आत्मा द्वारा मन को स्थिर करके — हे महाबाहो! इस कामरूपी दुर्जय शत्रु को जीत।",
+      "englishTranslation": "Thus, knowing that which is beyond the intellect, and steadying the mind by the strength of the Self, O mighty-armed one, conquer this formidable enemy in the form of desire.",
+      "commentary": "The concluding verse of Chapter 3 provides the ultimate solution to the problem of desire. By realizing the Atman — which is beyond body, senses, mind, and even intellect — and establishing oneself in that awareness, one gains the strength to conquer desire. The Self is the supreme commander that can subdue even the most formidable inner enemies. This is the crowning teaching of Karma Yoga."
+    }
+  ]
+}
