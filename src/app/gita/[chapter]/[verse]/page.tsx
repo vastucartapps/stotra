@@ -74,7 +74,7 @@ export default async function GitaVersePage({
       />
 
       {/* Breadcrumb */}
-      <nav className="flex items-center gap-2 text-xs text-text-muted mb-8 flex-wrap">
+      <nav className="flex items-center gap-2 text-xs text-text-muted mb-6 flex-wrap">
         <Link href="/" className="hover:text-brand transition-colors">Home</Link>
         <span>/</span>
         <Link href="/gita" className="hover:text-brand transition-colors">Bhagavad Gita</Link>
@@ -86,7 +86,37 @@ export default async function GitaVersePage({
         <span className="text-text">Verse {verse.verseNumber}</span>
       </nav>
 
-      {/* Verse Card */}
+      {/* Top Prev/Next Bar */}
+      <div className="flex items-center justify-between mb-6">
+        {prev ? (
+          <Link
+            href={`/gita/chapter-${prev.chapter}/verse-${prev.verse}`}
+            className="inline-flex items-center gap-2 bg-white border border-border-light hover:border-brand/30 text-brand text-sm font-medium px-4 py-2.5 rounded-xl transition-all duration-200 hover:shadow-card"
+          >
+            <span>&larr;</span>
+            <span>{prev.chapter}.{prev.verse}</span>
+          </Link>
+        ) : <span />}
+
+        <Link
+          href={`/gita/${chapter.slug}`}
+          className="text-xs text-text-muted hover:text-brand transition-colors px-3 py-2 rounded-lg bg-cream-mid border border-border-light"
+        >
+          Ch {chapter.chapterNumber} &middot; {chapter.titleEnglish}
+        </Link>
+
+        {next ? (
+          <Link
+            href={`/gita/chapter-${next.chapter}/verse-${next.verse}`}
+            className="inline-flex items-center gap-2 bg-white border border-border-light hover:border-brand/30 text-brand text-sm font-medium px-4 py-2.5 rounded-xl transition-all duration-200 hover:shadow-card"
+          >
+            <span>{next.chapter}.{next.verse}</span>
+            <span>&rarr;</span>
+          </Link>
+        ) : <span />}
+      </div>
+
+      {/* Main Verse Card */}
       <article className="bg-white rounded-2xl border border-border-light shadow-card overflow-hidden">
         <div className="h-1 bg-gradient-to-r from-brand via-gold to-saffron" />
 
@@ -100,7 +130,6 @@ export default async function GitaVersePage({
               {verse.speaker}
             </span>
           </div>
-
           <h1 className="font-serif text-2xl md:text-3xl font-bold text-brand">
             Verse {verse.verseNumber}
           </h1>
@@ -126,7 +155,7 @@ export default async function GitaVersePage({
           <h2 className="font-serif text-sm font-semibold text-brand uppercase tracking-wider mb-3">
             Transliteration
           </h2>
-          <div className="text-base leading-[2] text-text-light italic bg-cream-mid/30 rounded-xl p-5">
+          <div className="text-base leading-[2] text-text-light italic bg-cream-mid/30 rounded-xl p-5 border border-border-light">
             {verse.transliteration.split("\n").map((line, i) => (
               <p key={i} className={line.trim() === "" ? "h-4" : ""}>{line}</p>
             ))}
@@ -139,13 +168,13 @@ export default async function GitaVersePage({
             <h2 className="font-serif text-sm font-semibold text-brand uppercase tracking-wider mb-3">
               Word-by-Word Meaning (अन्वय)
             </h2>
-            <div className="bg-cream/50 rounded-xl border border-border-light overflow-hidden">
-              <div className="grid grid-cols-1 sm:grid-cols-2 divide-y sm:divide-y-0 sm:divide-x divide-border-light">
+            <div className="bg-white rounded-xl border border-border-light overflow-hidden">
+              <div className="divide-y divide-border-light">
                 {verse.wordByWord.map((w, i) => (
-                  <div key={i} className="flex items-start gap-3 p-3 even:bg-cream-mid/20">
-                    <span className="devanagari text-sm text-brand font-medium whitespace-nowrap">{w.word}</span>
-                    <span className="text-xs text-text-muted">({w.transliteration})</span>
-                    <span className="text-sm text-text-light ml-auto text-right">{w.meaning}</span>
+                  <div key={i} className="flex items-center gap-4 px-4 py-3 even:bg-cream/30">
+                    <span className="devanagari text-sm text-brand font-semibold min-w-[80px]">{w.word}</span>
+                    <span className="text-xs text-text-muted italic min-w-[100px]">{w.transliteration}</span>
+                    <span className="text-sm text-text-light flex-1">{w.meaning}</span>
                   </div>
                 ))}
               </div>
@@ -158,7 +187,7 @@ export default async function GitaVersePage({
           <h2 className="font-serif text-sm font-semibold text-brand uppercase tracking-wider mb-3">
             Hindi Translation (हिन्दी अर्थ)
           </h2>
-          <div className="devanagari text-base leading-[1.9] text-text-light bg-cream-mid/30 rounded-xl p-5">
+          <div className="devanagari text-base leading-[1.9] text-text-light bg-cream-mid/30 rounded-xl p-5 border border-border-light">
             {verse.hindiTranslation}
           </div>
         </div>
@@ -168,7 +197,7 @@ export default async function GitaVersePage({
           <h2 className="font-serif text-sm font-semibold text-brand uppercase tracking-wider mb-3">
             English Translation
           </h2>
-          <div className="text-base leading-relaxed text-text-light bg-cream-mid/30 rounded-xl p-5">
+          <div className="text-base leading-relaxed text-text-light bg-cream-mid/30 rounded-xl p-5 border border-border-light">
             {verse.englishTranslation}
           </div>
         </div>
@@ -179,50 +208,52 @@ export default async function GitaVersePage({
             <h2 className="font-serif text-sm font-semibold text-brand uppercase tracking-wider mb-3">
               Commentary (टीका)
             </h2>
-            <div className="text-sm leading-relaxed text-text-light bg-gold/5 border border-gold/15 rounded-xl p-5">
+            <div className="text-sm leading-relaxed text-text-light bg-gold/5 border border-gold/20 rounded-xl p-5">
               {verse.commentary}
             </div>
           </div>
         )}
-
-        {/* Prev/Next Navigation */}
-        <div className="p-6 md:p-8 bg-cream-mid/30 border-t border-border-light">
-          <div className="flex items-center justify-between">
-            {prev ? (
-              <Link
-                href={`/gita/chapter-${prev.chapter}/verse-${prev.verse}`}
-                className="group flex items-center gap-2 text-sm text-brand hover:text-brand-light transition-colors"
-              >
-                <span className="group-hover:-translate-x-1 transition-transform">&larr;</span>
-                <span>
-                  <span className="text-text-muted text-xs block">Previous</span>
-                  {prev.chapter}.{prev.verse}
-                </span>
-              </Link>
-            ) : <span />}
-
-            <Link
-              href={`/gita/${chapter.slug}`}
-              className="text-xs text-text-muted hover:text-brand transition-colors px-3 py-1.5 rounded-lg bg-white border border-border-light"
-            >
-              Chapter {chapter.chapterNumber}
-            </Link>
-
-            {next ? (
-              <Link
-                href={`/gita/chapter-${next.chapter}/verse-${next.verse}`}
-                className="group flex items-center gap-2 text-sm text-brand hover:text-brand-light transition-colors"
-              >
-                <span className="text-right">
-                  <span className="text-text-muted text-xs block">Next</span>
-                  {next.chapter}.{next.verse}
-                </span>
-                <span className="group-hover:translate-x-1 transition-transform">&rarr;</span>
-              </Link>
-            ) : <span />}
-          </div>
-        </div>
       </article>
+
+      {/* Bottom Prev/Next Navigation — Prominent */}
+      <div className="grid grid-cols-2 gap-4 mt-6">
+        {prev ? (
+          <Link
+            href={`/gita/chapter-${prev.chapter}/verse-${prev.verse}`}
+            className="group bg-white rounded-xl border border-border-light hover:border-gold/40 hover:shadow-card-hover p-5 transition-all duration-300"
+          >
+            <span className="text-xs text-text-muted block mb-1">Previous Verse</span>
+            <span className="font-serif text-lg font-semibold text-brand group-hover:text-brand-light transition-colors flex items-center gap-2">
+              <span className="group-hover:-translate-x-1 transition-transform">&larr;</span>
+              Chapter {prev.chapter}, Verse {prev.verse}
+            </span>
+          </Link>
+        ) : <div />}
+
+        {next ? (
+          <Link
+            href={`/gita/chapter-${next.chapter}/verse-${next.verse}`}
+            className="group bg-white rounded-xl border border-border-light hover:border-gold/40 hover:shadow-card-hover p-5 transition-all duration-300 text-right"
+          >
+            <span className="text-xs text-text-muted block mb-1">Next Verse</span>
+            <span className="font-serif text-lg font-semibold text-brand group-hover:text-brand-light transition-colors flex items-center gap-2 justify-end">
+              Chapter {next.chapter}, Verse {next.verse}
+              <span className="group-hover:translate-x-1 transition-transform">&rarr;</span>
+            </span>
+          </Link>
+        ) : <div />}
+      </div>
+
+      {/* Quick Links */}
+      <div className="flex items-center justify-center gap-4 mt-8">
+        <Link href={`/gita/${chapter.slug}`} className="text-sm text-brand hover:text-brand-light transition-colors font-medium">
+          All Verses in Chapter {chapter.chapterNumber} &rarr;
+        </Link>
+        <span className="text-border-light">|</span>
+        <Link href="/gita" className="text-sm text-brand hover:text-brand-light transition-colors font-medium">
+          All 18 Chapters &rarr;
+        </Link>
+      </div>
     </div>
   );
 }

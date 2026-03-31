@@ -82,3 +82,25 @@ export function getAdjacentVerses(
 export function getTotalVerseCount(): number {
   return loadAllChapters().reduce((sum, c) => sum + c.verseCount, 0);
 }
+
+export function getGitaVerseOfTheDay(): { chapter: GitaChapter; verse: GitaVerse } | null {
+  const chapters = loadAllChapters();
+  if (chapters.length === 0) return null;
+
+  // Deterministic daily seed
+  const now = new Date();
+  const seed = now.getFullYear() * 10000 + (now.getMonth() + 1) * 100 + now.getDate();
+  const hash = ((seed * 2654435761) >>> 0) / 4294967296;
+
+  const totalVerses = chapters.reduce((sum, c) => sum + c.verseCount, 0);
+  let target = Math.floor(hash * totalVerses);
+
+  for (const ch of chapters) {
+    if (target < ch.verseCount) {
+      return { chapter: ch, verse: ch.verses[target] };
+    }
+    target -= ch.verseCount;
+  }
+
+  return { chapter: chapters[0], verse: chapters[0].verses[0] };
+}
