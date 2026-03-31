@@ -26,6 +26,15 @@ export async function generateMetadata({
       title: `${title} | Stotra by VastuCart`,
       description: chapter.description,
       url: `${APP_URL}/gita/${slug}`,
+      type: "article",
+      siteName: "Stotra by VastuCart",
+      images: [{ url: `${APP_URL}/og-default.jpg`, width: 1200, height: 630, alt: title }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: `${title} | Stotra by VastuCart`,
+      description: chapter.description,
+      images: [`${APP_URL}/og-default.jpg`],
     },
   };
 }
