@@ -6,6 +6,7 @@ import { PURPOSES } from "@/data/purposes";
 import { ECOSYSTEM_SITES } from "@/data/ecosystem";
 import { getAllStotras, getTodaysStotras, getStotraOfTheDay, getStotraCountByDeity } from "@/lib/stotras";
 import { FAQSection } from "@/components/pages/HomePage";
+import { GitaShlokaCard } from "@/components/pages/GitaShlokaCard";
 import { getGitaVerseOfTheDay } from "@/lib/gita";
 import { CategoryIcon } from "@/components/ui/CategoryIcon";
 
@@ -242,86 +243,19 @@ export default function Home() {
         if (!gitaVotd) return null;
         const { chapter: gCh, verse: gV } = gitaVotd;
         return (
-          <section className="py-12 md:py-16">
-            <div className="mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8">
-              <div className="bg-white rounded-2xl border border-border-light shadow-card overflow-hidden">
-                <div className="h-1 bg-gradient-to-r from-brand via-gold to-saffron" />
-                <div className="p-6 md:p-8 lg:p-10">
-                  <div className="flex flex-col lg:flex-row gap-8 lg:gap-12">
-                    {/* Left: Verse */}
-                    <div className="flex-1 min-w-0">
-                      <div className="flex items-center gap-2 mb-5">
-                        <span className="text-gold text-sm">&#x0950;</span>
-                        <span className="text-xs font-bold uppercase tracking-[0.15em]" style={{ color: '#DAA520' }}>
-                          Gita Shloka of the Day
-                        </span>
-                      </div>
-
-                      <div className="devanagari text-xl md:text-2xl leading-[2.2] text-brand mb-4">
-                        {gV.devanagari.split("\n").map((line, i) => (
-                          <p key={i} className={line.trim() === "" ? "h-3" : ""}>{line}</p>
-                        ))}
-                      </div>
-
-                      <p className="text-base text-text-light italic leading-relaxed mb-2">
-                        {gV.transliteration.split("\n").join(" ")}
-                      </p>
-
-                      <p className="text-xs text-text-muted mb-6">
-                        — Bhagavad Gita {gCh.chapterNumber}.{gV.verseNumber} ({gCh.titleEnglish})
-                      </p>
-
-                      <div className="bg-cream/50 rounded-xl border border-border-light p-5 mb-6">
-                        <p className="text-sm text-text-light leading-relaxed">
-                          {gV.englishTranslation}
-                        </p>
-                      </div>
-
-                      <div className="flex flex-wrap items-center gap-3">
-                        <Link
-                          href={`/gita/${gCh.slug}/${gV.slug}`}
-                          className="inline-flex items-center gap-2 bg-gradient-to-r from-brand to-brand-light text-white font-semibold px-6 py-3 rounded-xl hover:shadow-card-hover transition-all duration-300 text-sm"
-                        >
-                          Read Full Verse &rarr;
-                        </Link>
-                        <Link
-                          href={`/gita/${gCh.slug}`}
-                          className="inline-flex items-center gap-2 bg-white border border-border-light hover:border-brand/30 text-brand font-medium px-6 py-3 rounded-xl transition-all duration-200 text-sm"
-                        >
-                          Chapter {gCh.chapterNumber}
-                        </Link>
-                        <Link
-                          href="/gita"
-                          className="inline-flex items-center gap-2 text-text-muted hover:text-brand text-sm font-medium transition-colors"
-                        >
-                          All 18 Chapters &rarr;
-                        </Link>
-                      </div>
-                    </div>
-
-                    {/* Right: Hindi meaning card */}
-                    <div className="lg:w-80 flex-shrink-0">
-                      <div className="bg-brand/5 rounded-xl border border-brand/10 p-5 mb-4">
-                        <p className="text-xs font-semibold text-brand uppercase tracking-wider mb-3">हिन्दी अर्थ</p>
-                        <p className="devanagari text-sm text-text-light leading-[1.9]">
-                          {gV.hindiTranslation}
-                        </p>
-                      </div>
-
-                      {gV.commentary && (
-                        <div className="bg-gold/5 rounded-xl border border-gold/15 p-5">
-                          <p className="text-xs font-semibold uppercase tracking-wider mb-3" style={{ color: '#DAA520' }}>Commentary</p>
-                          <p className="text-sm text-text-light leading-relaxed">
-                            {gV.commentary}
-                          </p>
-                        </div>
-                      )}
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </section>
+          <GitaShlokaCard
+            devanagari={gV.devanagari}
+            transliteration={gV.transliteration}
+            englishTranslation={gV.englishTranslation}
+            hindiTranslation={gV.hindiTranslation}
+            commentary={gV.commentary}
+            chapterNumber={gCh.chapterNumber}
+            verseNumber={gV.verseNumber}
+            chapterSlug={gCh.slug}
+            verseSlug={gV.slug}
+            chapterTitle={gCh.titleEnglish}
+            appUrl={APP_URL}
+          />
         );
       })()}
 
