@@ -114,24 +114,75 @@ export function searchStotras(query: string): Stotra[] {
   });
 }
 
-export function getRelatedStotras(stotra: Stotra, limit = 4): Stotra[] {
+export function getRelatedStotras(stotra: Stotra, limit = 12): Stotra[] {
   const all = getAllStotras().filter((s) => s.slug !== stotra.slug);
 
-  // Score each stotra by relevance
   const scored = all.map((s) => {
     let score = 0;
+    // Same deity = strong signal
     if (s.deity === stotra.deity) score += 5;
+    // Same deity + same day = strongest signal
+    if (s.deity === stotra.deity) {
+      for (const day of s.days) {
+        if (stotra.days.includes(day)) score += 3;
+      }
+    }
+    // Secondary deity connections
     if (stotra.secondaryDeities?.includes(s.deity)) score += 3;
     if (s.secondaryDeities?.includes(stotra.deity)) score += 3;
-    for (const day of s.days) {
-      if (stotra.days.includes(day)) score += 2;
+    // Day overlap (non-deity-matched)
+    if (s.deity !== stotra.deity) {
+      for (const day of s.days) {
+        if (stotra.days.includes(day)) score += 2;
+      }
     }
+    // Purpose overlap
     for (const purpose of s.purposes) {
       if (stotra.purposes.includes(purpose)) score += 1;
     }
+    // Reading time proximity (within ±5 min)
+    const timeDiff = Math.abs(s.readingTimeMinutes - stotra.readingTimeMinutes);
+    if (timeDiff <= 5) score += 1;
     return { stotra: s, score };
   });
 
+  scored.sort((a, b) => b.score - a.score);
+  return scored.slice(0, limit).map((s) => s.stotra);
+}
+
+/**
+ * Stotras traditionally recited together. Only includes verified slugs.
+ */
+const COMPANION_MAP: Record<string, string[]> = {
+  "hanuman-chalisa": ["bajrang-baan", "hanuman-ashtak", "sankat-mochan-hanuman-ashtak"],
+  "vishnu-sahasranama": ["purusha-suktam", "vishnu-ashtakam", "shri-suktam", "narayana-suktam"],
+  "durga-kavach": ["argala-stotram", "durga-saptashloki", "durga-ashtakam"],
+  "lalita-sahasranama": ["lalita-trishati", "soundarya-lahari"],
+  "shiv-tandav-stotram": ["lingashtakam", "shiva-ashtakam-prabhu"],
+  "bajrang-baan": ["hanuman-chalisa", "hanuman-ashtak"],
+  "ganesh-atharvashirsha": ["sankat-nashan-ganesh-stotra", "ganesh-chalisa"],
+  "aditya-hridayam": ["surya-kavacham", "surya-ashtakam"],
+  "ramraksha-stotra": ["ram-stuti", "rama-kavacham"],
+};
+
+export function getCompanionStotras(slug: string): Stotra[] {
+  const companions = COMPANION_MAP[slug];
+  if (!companions) return [];
+  return companions
+    .map((s) => getStotraBySlug(s))
+    .filter((s): s is Stotra => s !== null);
+}
+
+export function getTopStotrasForDeity(deityId: DeityId, limit = 5): Stotra[] {
+  const stotras = getStotrasByDeity(deityId);
+  const scored = stotras.map((s) => {
+    let score = 0;
+    score += (s.secondaryDeities?.length || 0);
+    score += s.days.length;
+    score += s.festivals.length;
+    score += s.purposes.length;
+    return { stotra: s, score };
+  });
   scored.sort((a, b) => b.score - a.score);
   return scored.slice(0, limit).map((s) => s.stotra);
 }

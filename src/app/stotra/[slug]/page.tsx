@@ -1,7 +1,7 @@
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getAllStotras, getStotraBySlug, getRelatedStotras } from "@/lib/stotras";
+import { getAllStotras, getStotraBySlug, getRelatedStotras, getCompanionStotras } from "@/lib/stotras";
 import { getDeityById } from "@/data/deities";
 import { getDayById } from "@/data/days";
 import { LeftSidebar } from "@/components/layout/LeftSidebar";
@@ -148,7 +148,8 @@ export default async function StotraPage({
   if (!stotra) notFound();
 
   const deity = getDeityById(stotra.deity);
-  const relatedStotras = getRelatedStotras(stotra, 5);
+  const relatedStotras = getRelatedStotras(stotra, 12);
+  const companionStotras = getCompanionStotras(stotra.slug);
   const stotraFAQs = generateStotraFAQs(stotra, deity);
 
   // Enhanced CreativeWork schema with author, keywords, wordCount, thumbnailUrl
@@ -295,7 +296,7 @@ export default async function StotraPage({
 
           {/* Main Content */}
           <div className="flex-1 min-w-0">
-            <StotraContent stotra={stotra} deity={deity || null} />
+            <StotraContent stotra={stotra} deity={deity || null} companionStotras={companionStotras} />
             <StotraFAQ faqs={stotraFAQs} stotraTitle={stotra.titleEn} />
           </div>
 

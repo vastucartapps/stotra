@@ -11,15 +11,17 @@ import {
   Copy,
   Check,
 } from "lucide-react";
+import Link from "next/link";
 import type { Stotra, Deity } from "@/types";
 import { CategoryIcon } from "@/components/ui/CategoryIcon";
 
 interface StotraContentProps {
   stotra: Stotra;
   deity: Deity | null;
+  companionStotras?: Stotra[];
 }
 
-export function StotraContent({ stotra, deity }: StotraContentProps) {
+export function StotraContent({ stotra, deity, companionStotras }: StotraContentProps) {
   const [showTransliteration, setShowTransliteration] = useState(false);
   const [showMeaning, setShowMeaning] = useState(false);
   const [viniyogOpen, setViniyogOpen] = useState(false);
@@ -257,6 +259,38 @@ export function StotraContent({ stotra, deity }: StotraContentProps) {
                 </li>
               ))}
             </ul>
+          </div>
+        </div>
+      )}
+
+      {/* Also Recited With */}
+      {companionStotras && companionStotras.length > 0 && (
+        <div className="px-6 md:px-8 pb-6">
+          <div className="border-t border-border-light pt-4">
+            <h3 className="font-serif text-sm font-semibold text-brand uppercase tracking-wider mb-3">
+              Also Recited With
+            </h3>
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
+              {companionStotras.map((cs) => (
+                <Link
+                  key={cs.slug}
+                  href={`/stotra/${cs.slug}`}
+                  className="flex items-center gap-3 px-4 py-3 bg-cream/50 rounded-xl border border-border-light hover:border-gold/30 hover:shadow-card transition-all duration-200"
+                >
+                  <span className="w-8 h-8 rounded-lg bg-brand/10 flex items-center justify-center flex-shrink-0">
+                    <span className="text-brand text-xs font-serif font-bold">&#x0950;</span>
+                  </span>
+                  <span className="min-w-0">
+                    <span className="devanagari-heading text-xs text-brand block leading-snug truncate">
+                      {cs.title}
+                    </span>
+                    <span className="text-[11px] text-text-muted truncate block">
+                      {cs.titleEn}
+                    </span>
+                  </span>
+                </Link>
+              ))}
+            </div>
           </div>
         </div>
       )}

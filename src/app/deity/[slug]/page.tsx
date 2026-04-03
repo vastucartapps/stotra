@@ -2,7 +2,7 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { DEITIES, getDeityBySlug } from "@/data/deities";
-import { getStotrasByDeity } from "@/lib/stotras";
+import { getStotrasByDeity, getTopStotrasForDeity } from "@/lib/stotras";
 import { StotraCard } from "@/components/stotra/StotraCard";
 import { CategoryIcon } from "@/components/ui/CategoryIcon";
 
@@ -190,6 +190,39 @@ export default async function DeityPage({
           </p>
         </div>
       )}
+
+      {/* Most Recited Stotras */}
+      {stotras.length > 0 && (() => {
+        const topStotras = getTopStotrasForDeity(deity.id, 5);
+        return topStotras.length > 0 ? (
+          <div className="mt-12 bg-white rounded-xl border border-border-light p-6 md:p-8">
+            <h2 className="font-serif text-xl font-semibold text-brand mb-5">
+              Most Recited {deity.name} Stotras
+            </h2>
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+              {topStotras.map((s) => (
+                <Link
+                  key={s.slug}
+                  href={`/stotra/${s.slug}`}
+                  className="group flex items-center gap-3 px-4 py-3 bg-cream/50 rounded-xl border border-border-light hover:border-gold/30 hover:shadow-card transition-all duration-200"
+                >
+                  <span className="w-9 h-9 rounded-lg bg-brand/10 flex items-center justify-center flex-shrink-0">
+                    <span className="text-brand text-xs font-serif font-bold">&#x0950;</span>
+                  </span>
+                  <span className="min-w-0">
+                    <span className="devanagari-heading text-sm text-brand group-hover:text-brand-light transition-colors block leading-snug truncate">
+                      {s.title}
+                    </span>
+                    <span className="text-xs text-text-muted truncate block">
+                      {s.titleEn}
+                    </span>
+                  </span>
+                </Link>
+              ))}
+            </div>
+          </div>
+        ) : null;
+      })()}
     </div>
   );
 }
