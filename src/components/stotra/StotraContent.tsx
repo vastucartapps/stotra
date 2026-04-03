@@ -180,7 +180,7 @@ export function StotraContent({ stotra, deity, companionStotras }: StotraContent
         <h3 className="font-serif text-sm font-semibold text-brand uppercase tracking-wider mb-4">
           Stotra Path (स्तोत्र पाठ)
         </h3>
-        <div className="devanagari text-lg md:text-xl leading-[2.2] text-text bg-cream/50 rounded-xl p-6 border border-border-light">
+        <div className="devanagari text-lg md:text-xl lg:text-2xl leading-[2.2] lg:leading-[2.3] text-text bg-cream/50 rounded-xl p-5 md:p-6 border border-border-light">
           {stotra.devanagariText.split("\n").map((line, i) => (
             <p key={i} className={line.trim() === "" ? "h-4" : ""}>
               {line}
