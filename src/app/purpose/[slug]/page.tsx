@@ -16,8 +16,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params;
   const purpose = getPurposeBySlug(slug);
   if (!purpose) return {};
-  const title = `Stotras for ${purpose.name} (${purpose.nameHi})`;
-  const description = `Hindu stotras and prayers for ${purpose.name.toLowerCase()}. Read in Sanskrit with Hindi meaning and transliteration.`;
+  const title = `Stotras for ${purpose.name} — Sanskrit Prayers for ${purpose.nameHi} | VastuCart`;
+  const description = `Find the most powerful Hindu stotras and prayers for ${purpose.name.toLowerCase()} in Sanskrit with Hindi meaning and PDF download.`;
   return {
     title,
     description,

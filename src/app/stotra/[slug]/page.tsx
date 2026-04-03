@@ -93,17 +93,18 @@ export async function generateMetadata({
   if (!stotra) return {};
 
   const deity = getDeityById(stotra.deity);
-  const title = `${stotra.titleEn} - ${stotra.title}`;
+  const title = `${stotra.titleEn} in Sanskrit with Hindi Meaning & PDF | ${deity?.name || "Hindu"} Stotra`;
+  const metaDescription = `Read ${stotra.titleEn} (${stotra.title}) in Sanskrit with Hindi arth, English transliteration, and free PDF download. ${stotra.verseCount} verses.${stotra.benefits[0] ? ` ${stotra.benefits[0]}.` : ""}`;
 
   return {
     title,
-    description: stotra.seoDescription,
+    description: metaDescription,
     alternates: {
       canonical: `/stotra/${stotra.slug}`,
     },
     openGraph: {
-      title: `${title} | Stotra by VastuCart`,
-      description: stotra.seoDescription,
+      title,
+      description: metaDescription,
       url: `${APP_URL}/stotra/${stotra.slug}`,
       type: "article",
       siteName: "Stotra by VastuCart",
@@ -119,8 +120,8 @@ export async function generateMetadata({
     twitter: {
       card: "summary_large_image",
       site: "@vastucart",
-      title: `${title} | Stotra by VastuCart`,
-      description: stotra.seoDescription,
+      title,
+      description: metaDescription,
       images: [`${APP_URL}/og-default.jpg`],
     },
     keywords: [

@@ -21,8 +21,8 @@ export async function generateMetadata({
   const deity = getDeityBySlug(slug);
   if (!deity) return {};
   const stotras = getStotrasByDeity(deity.id);
-  const title = `${deity.name} (${deity.nameHi}) Stotras`;
-  const description = `Read ${deity.name} stotras, chalisa, and hymns in Sanskrit with Hindi meaning and transliteration. ${deity.description}`;
+  const title = `${deity.name} Stotras in Sanskrit & Hindi — ${stotras.length} Prayers with PDF | VastuCart`;
+  const description = `Complete collection of ${stotras.length} ${deity.name} stotras, chalisa and prayers in Sanskrit with Hindi meaning and free PDF download.`;
   return {
     title,
     description,

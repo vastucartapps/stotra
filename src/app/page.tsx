@@ -13,16 +13,16 @@ import { CategoryIcon } from "@/components/ui/CategoryIcon";
 const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
 
 export const metadata: Metadata = {
-  title: "Stotra - Sacred Hindu Prayers & Hymns | VastuCart",
+  title: "Stotra — 928 Hindu Prayers in Sanskrit & Hindi with PDF Download | VastuCart",
   description:
-    "Explore a comprehensive collection of Hindu stotras, chalisa, and sacred hymns in Sanskrit and Hindi with transliteration, meaning, and free PDF downloads. Organized by deity, day, and festival.",
+    "Explore 928 stotras, chalisa and sacred hymns across 32 deities in Sanskrit and Hindi. With transliteration, meaning, and free PDF — browse by deity, purpose, or day.",
   alternates: {
     canonical: "/",
   },
   openGraph: {
-    title: "Stotra - Sacred Hindu Prayers & Hymns | VastuCart",
+    title: "Stotra — 928 Hindu Prayers in Sanskrit & Hindi with PDF Download | VastuCart",
     description:
-      "Complete collection of Hindu stotras, chalisa, and sacred hymns with transliteration, meaning, and free PDF downloads.",
+      "Explore 928 stotras, chalisa and sacred hymns across 32 deities in Sanskrit and Hindi. With transliteration, meaning, and free PDF — browse by deity, purpose, or day.",
     url: APP_URL,
     type: "website",
     images: [
@@ -36,9 +36,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Stotra - Sacred Hindu Prayers & Hymns | VastuCart",
+    title: "Stotra — 928 Hindu Prayers in Sanskrit & Hindi with PDF Download | VastuCart",
     description:
-      "Complete collection of Hindu stotras, chalisa, and sacred hymns with transliteration, meaning, and free PDF downloads.",
+      "Explore 928 stotras, chalisa and sacred hymns across 32 deities in Sanskrit and Hindi. With transliteration, meaning, and free PDF — browse by deity, purpose, or day.",
     images: [`${APP_URL}/og-default.jpg`],
   },
 };
