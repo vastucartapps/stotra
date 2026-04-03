@@ -1,4 +1,6 @@
 import Image from "next/image";
+import { DEITIES } from "@/data/deities";
+import { PURPOSES } from "@/data/purposes";
 
 type CategoryType = "deity" | "purpose" | "day" | "festival";
 
@@ -24,6 +26,42 @@ const FOLDER_MAP: Record<CategoryType, string> = {
   festival: "/images/festivals",
 };
 
+const DAY_ALT: Record<string, string> = {
+  sunday: "Sunday (Ravivar) — sacred to Surya Dev, the Sun god",
+  monday: "Monday (Somvar) — sacred to Lord Shiva",
+  tuesday: "Tuesday (Mangalvar) — sacred to Lord Hanuman",
+  wednesday: "Wednesday (Budhvar) — sacred to Lord Ganesha",
+  thursday: "Thursday (Guruvar) — sacred to Lord Vishnu and Brihaspati",
+  friday: "Friday (Shukravar) — sacred to Goddess Lakshmi",
+  saturday: "Saturday (Shanivar) — sacred to Shani Dev",
+};
+
+function getAltText(type: CategoryType, id: string): string {
+  switch (type) {
+    case "deity": {
+      const deity = DEITIES.find((d) => d.id === id);
+      if (deity) {
+        const shortDesc = deity.description.split(".")[0];
+        return `${deity.name} — ${shortDesc.charAt(0).toLowerCase()}${shortDesc.slice(1)}`;
+      }
+      return `Hindu deity icon`;
+    }
+    case "purpose": {
+      const purpose = PURPOSES.find((p) => p.id === id);
+      if (purpose) {
+        return `${purpose.name} — Hindu stotras for ${purpose.nameHi}`;
+      }
+      return `Hindu prayer purpose icon`;
+    }
+    case "day":
+      return DAY_ALT[id] || `${id} — Hindu day of worship`;
+    case "festival":
+      return `${id.replace(/-/g, " ")} — Hindu festival`;
+    default:
+      return "";
+  }
+}
+
 export function CategoryIcon({
   type,
   id,
@@ -33,6 +71,7 @@ export function CategoryIcon({
 }: CategoryIconProps) {
   const { container, icon } = SIZE_MAP[size];
   const src = `${FOLDER_MAP[type]}/${id}.svg`;
+  const alt = getAltText(type, id);
 
   return (
     <span
@@ -41,12 +80,11 @@ export function CategoryIcon({
     >
       <Image
         src={src}
-        alt=""
+        alt={alt}
         width={icon}
         height={icon}
         className="select-none"
         style={{ filter: color ? "brightness(0) invert(1)" : undefined }}
-        aria-hidden="true"
       />
     </span>
   );

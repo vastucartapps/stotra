@@ -186,7 +186,7 @@ export default function Home() {
                 <div className="absolute inset-0" style={{ backgroundImage: `url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M30 0L60 30L30 60L0 30Z' fill='none' stroke='%23DAA520' stroke-width='0.6'/%3E%3C/svg%3E")`, backgroundSize: "60px 60px" }} />
               </div>
               <div className="absolute top-0 right-0 w-48 h-48 opacity-[0.04] pointer-events-none">
-                <img src="/images/deities/krishna.svg" alt="" className="w-full h-full" style={{ filter: 'brightness(0) invert(1)' }} />
+                <img src="/images/deities/krishna.svg" alt="" role="presentation" className="w-full h-full" style={{ filter: 'brightness(0) invert(1)' }} />
               </div>
               <div className="relative">
                 <div className="flex items-center gap-3 mb-5">
@@ -215,7 +215,7 @@ export default function Home() {
                 <div className="absolute inset-0" style={{ backgroundImage: `url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M30 0L60 30L30 60L0 30Z' fill='none' stroke='%23DAA520' stroke-width='0.6'/%3E%3C/svg%3E")`, backgroundSize: "60px 60px" }} />
               </div>
               <div className="absolute top-0 right-0 w-48 h-48 opacity-[0.04] pointer-events-none">
-                <img src="/images/festivals/diwali.svg" alt="" className="w-full h-full" style={{ filter: 'brightness(0) invert(1)' }} />
+                <img src="/images/festivals/diwali.svg" alt="" role="presentation" className="w-full h-full" style={{ filter: 'brightness(0) invert(1)' }} />
               </div>
               <div className="relative">
                 <div className="flex items-center gap-3 mb-5">
