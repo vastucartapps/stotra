@@ -1,3 +1,15 @@
+// ── Pada Artha (Word-by-Word) ──
+export interface PadaArthaWord {
+  word: string;
+  transliteration: string;
+  meaning: string;
+}
+
+export interface PadaArthaVerse {
+  verse: number;
+  words: PadaArthaWord[];
+}
+
 // ── Stotra ──
 export interface Stotra {
   id: string;
@@ -16,6 +28,7 @@ export interface Stotra {
   purposes: PurposeId[];
   readingTimeMinutes: number;
   description?: string;
+  padaartha?: PadaArthaVerse[];
   seoDescription: string;
   verseCount: number;
   source: string;

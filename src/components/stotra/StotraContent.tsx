@@ -14,6 +14,7 @@ import {
 import Link from "next/link";
 import type { Stotra, Deity } from "@/types";
 import { CategoryIcon } from "@/components/ui/CategoryIcon";
+import { PadaArtha } from "@/components/stotra/PadaArtha";
 
 interface StotraContentProps {
   stotra: Stotra;
@@ -243,6 +244,11 @@ export function StotraContent({ stotra, deity, companionStotras }: StotraContent
           </div>
         )}
       </div>
+
+      {/* Pada Artha (Word by Word) */}
+      {stotra.padaartha && stotra.padaartha.length > 0 && (
+        <PadaArtha padaartha={stotra.padaartha} />
+      )}
 
       {/* Benefits */}
       {stotra.benefits.length > 0 && (

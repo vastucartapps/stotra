@@ -39,5 +39,52 @@
     "source": "Tulsidas - Ramcharitmanas",
     "createdAt": "2026-03-28T00:00:00Z",
     "updatedAt": "2026-03-28T00:00:00Z",
-    "isPublished": true
+    "isPublished": true,
+    "padaartha": [
+        {
+            "verse": 1,
+            "words": [
+                {
+                    "word": "श्रीगुरु",
+                    "transliteration": "Shri Guru",
+                    "meaning": "the revered teacher"
+                },
+                {
+                    "word": "चरन",
+                    "transliteration": "charan",
+                    "meaning": "lotus feet"
+                },
+                {
+                    "word": "सरोज",
+                    "transliteration": "saroj",
+                    "meaning": "lotus"
+                },
+                {
+                    "word": "रज",
+                    "transliteration": "raj",
+                    "meaning": "dust / pollen"
+                },
+                {
+                    "word": "निज",
+                    "transliteration": "nij",
+                    "meaning": "my own"
+                },
+                {
+                    "word": "मनु",
+                    "transliteration": "manu",
+                    "meaning": "mind"
+                },
+                {
+                    "word": "मुकुरु",
+                    "transliteration": "mukuru",
+                    "meaning": "mirror"
+                },
+                {
+                    "word": "सुधारि",
+                    "transliteration": "sudhari",
+                    "meaning": "cleansing / purifying"
+                }
+            ]
+        }
+    ]
 }
