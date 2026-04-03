@@ -193,6 +193,10 @@ export default async function StotraPage({
       "@type": "Organization",
       name: "VastuCart",
       url: "https://vastucart.in",
+      logo: {
+        "@type": "ImageObject",
+        url: `${APP_URL}/VastuCartLogo_1024.png`,
+      },
     },
     ...(authorInfo ? { author: authorInfo } : {}),
     about: {

@@ -13,16 +13,16 @@ import { CategoryIcon } from "@/components/ui/CategoryIcon";
 const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
 
 export const metadata: Metadata = {
-  title: "Stotra — 928 Hindu Prayers in Sanskrit & Hindi with PDF Download | VastuCart",
+  title: "Stotra — 1000+ Hindu Prayers in Sanskrit & Hindi with PDF Download | VastuCart",
   description:
-    "Explore 928 stotras, chalisa and sacred hymns across 32 deities in Sanskrit and Hindi. With transliteration, meaning, and free PDF — browse by deity, purpose, or day.",
+    "Explore 1000+ stotras, chalisa and sacred hymns across 32 deities in Sanskrit and Hindi. With transliteration, meaning, and free PDF — browse by deity, purpose, or day.",
   alternates: {
     canonical: "/",
   },
   openGraph: {
-    title: "Stotra — 928 Hindu Prayers in Sanskrit & Hindi with PDF Download | VastuCart",
+    title: "Stotra — 1000+ Hindu Prayers in Sanskrit & Hindi with PDF Download | VastuCart",
     description:
-      "Explore 928 stotras, chalisa and sacred hymns across 32 deities in Sanskrit and Hindi. With transliteration, meaning, and free PDF — browse by deity, purpose, or day.",
+      "Explore 1000+ stotras, chalisa and sacred hymns across 32 deities in Sanskrit and Hindi. With transliteration, meaning, and free PDF — browse by deity, purpose, or day.",
     url: APP_URL,
     type: "website",
     images: [
@@ -36,9 +36,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Stotra — 928 Hindu Prayers in Sanskrit & Hindi with PDF Download | VastuCart",
+    title: "Stotra — 1000+ Hindu Prayers in Sanskrit & Hindi with PDF Download | VastuCart",
     description:
-      "Explore 928 stotras, chalisa and sacred hymns across 32 deities in Sanskrit and Hindi. With transliteration, meaning, and free PDF — browse by deity, purpose, or day.",
+      "Explore 1000+ stotras, chalisa and sacred hymns across 32 deities in Sanskrit and Hindi. With transliteration, meaning, and free PDF — browse by deity, purpose, or day.",
     images: [`${APP_URL}/og-default.jpg`],
   },
 };
