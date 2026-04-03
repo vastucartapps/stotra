@@ -20,7 +20,7 @@ const openSans = Open_Sans({
 
 const notoDevanagari = Noto_Sans_Devanagari({
   variable: "--font-noto-devanagari",
-  subsets: ["devanagari"],
+  subsets: ["devanagari", "latin"],
   weight: ["400", "500", "600", "700"],
   display: "swap",
 });
