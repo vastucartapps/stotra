@@ -49,6 +49,7 @@ export async function GET(
 <html lang="hi">
 <head>
 <meta charset="UTF-8">
+<meta name="robots" content="noindex, nofollow">
 <title>${esc(stotra.titleEn)} · ${esc(stotra.title)} | Stotra by VastuCart</title>
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,600;0,700;1,400&family=Open+Sans:wght@400;500;600&display=swap');
@@ -108,7 +109,7 @@ body{font-family:'Open Sans',sans-serif;color:#333;background:#fff;-webkit-print
 .ftr-l{font-size:9px;color:#013F47;text-decoration:none;padding:3px 12px;border:1px solid #ddd;border-radius:14px}
 .ftr-c{font-size:8px;color:#999;margin-top:6px}
 
-/* Print button (hidden in print) */
+/* Fallback button (hidden in print) */
 .no-print{position:fixed;top:20px;right:20px;z-index:100}
 .print-btn{background:#013F47;color:#fff;border:none;padding:12px 28px;border-radius:10px;font-size:14px;font-weight:600;cursor:pointer;font-family:'Open Sans',sans-serif;box-shadow:0 4px 20px rgba(0,0,0,0.15)}
 .print-btn:hover{background:#025868}
@@ -121,11 +122,24 @@ body{font-family:'Open Sans',sans-serif;color:#333;background:#fff;-webkit-print
   .col,.one-col,.mng,.vin{break-inside:avoid}
 }
 </style>
+<script>
+// Auto-trigger print dialog after fonts load — feels like instant PDF download
+document.addEventListener('DOMContentLoaded', function() {
+  // Wait for Google Fonts to load for proper Devanagari rendering
+  if (document.fonts && document.fonts.ready) {
+    document.fonts.ready.then(function() { setTimeout(function() { window.print(); }, 300); });
+  } else {
+    setTimeout(function() { window.print(); }, 1500);
+  }
+});
+// Close tab after print (works on most browsers)
+window.onafterprint = function() { window.close(); };
+</script>
 </head>
 <body>
 <div class="no-print">
   <button class="print-btn" onclick="window.print()">Save as PDF</button>
-  <div class="print-hint">Use "Save as PDF" in print dialog</div>
+  <div class="print-hint">Save dialog should open automatically. If not, click above.</div>
 </div>
 <div class="page">
 
@@ -190,6 +204,7 @@ body{font-family:'Open Sans',sans-serif;color:#333;background:#fff;-webkit-print
   return new NextResponse(html, {
     headers: {
       "Content-Type": "text/html; charset=utf-8",
+      "X-Robots-Tag": "noindex, nofollow",
     },
   });
 }
