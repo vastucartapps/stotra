@@ -9,7 +9,7 @@ export function StotraCard({ stotra }: { stotra: Stotra }) {
   return (
     <Link
       href={`/stotra/${stotra.slug}`}
-      className="group bg-white rounded-xl p-6 border border-border-light hover:border-gold/30 hover:shadow-card-hover transition-all duration-300"
+      className="group block bg-white rounded-xl p-6 border border-border-light hover:border-gold/30 hover:shadow-card-hover transition-all duration-300 cursor-pointer"
     >
       <div className="flex items-start justify-between gap-3 mb-3">
         <div className="min-w-0">
@@ -30,14 +30,19 @@ export function StotraCard({ stotra }: { stotra: Stotra }) {
       <p className="text-sm text-text-muted line-clamp-2 mb-4">
         {stotra.seoDescription}
       </p>
-      <div className="flex items-center gap-4 text-xs text-text-muted">
-        <span className="flex items-center gap-1">
-          <Clock className="w-3.5 h-3.5" />
-          {stotra.readingTimeMinutes} min
-        </span>
-        <span className="flex items-center gap-1">
-          <BookOpen className="w-3.5 h-3.5" />
-          {stotra.verseCount} verses
+      <div className="flex items-center justify-between">
+        <div className="flex items-center gap-4 text-xs text-text-muted">
+          <span className="flex items-center gap-1">
+            <Clock className="w-3.5 h-3.5" />
+            {stotra.readingTimeMinutes} min
+          </span>
+          <span className="flex items-center gap-1">
+            <BookOpen className="w-3.5 h-3.5" />
+            {stotra.verseCount} verses
+          </span>
+        </div>
+        <span className="text-xs font-medium text-saffron group-hover:text-orange transition-colors">
+          Read &rarr;
         </span>
       </div>
     </Link>
