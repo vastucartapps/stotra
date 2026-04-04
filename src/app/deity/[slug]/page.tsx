@@ -30,7 +30,7 @@ export async function generateMetadata({
       canonical: `/deity/${slug}`,
     },
     openGraph: {
-      title: `${title} | Stotra by VastuCart`,
+      title,
       description,
       url: `${APP_URL}/deity/${slug}`,
       type: "website",
@@ -45,7 +45,7 @@ export async function generateMetadata({
     },
     twitter: {
       card: "summary_large_image",
-      title: `${title} | Stotra by VastuCart`,
+      title,
       description,
       images: [`${APP_URL}/og-default.jpg`],
     },
