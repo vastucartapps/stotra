@@ -187,10 +187,11 @@ export default async function StotraPage({
 
   const jsonLd = {
     "@context": "https://schema.org",
-    "@type": "CreativeWork",
-    name: stotra.titleEn,
-    alternateName: stotra.title,
+    "@type": "Article",
+    headline: stotra.titleEn,
+    alternativeHeadline: stotra.title,
     description: stotra.seoDescription,
+    image: `${APP_URL}/og-default.jpg`,
     inLanguage: ["sa", "hi", "en"],
     url: `${APP_URL}/stotra/${stotra.slug}`,
     datePublished: stotra.createdAt,
@@ -210,7 +211,6 @@ export default async function StotraPage({
       name: deity?.name || stotra.deity,
     },
     genre: "Religious Text",
-    isAccessibleForFree: true,
     keywords: keywordsArray.join(", "),
     wordCount: stotra.verseCount * 20, // Approximate words per verse
     thumbnailUrl: `${APP_URL}/og-default.jpg`,
