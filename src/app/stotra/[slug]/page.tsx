@@ -163,19 +163,13 @@ export default async function StotraPage({
   const companionStotras = getCompanionStotras(stotra.slug);
   const stotraFAQs = generateStotraFAQs(stotra, deity);
 
-  // Enhanced CreativeWork schema with author, keywords, wordCount, thumbnailUrl
-  const authorInfo = stotra.viniyog?.rishi
-    ? {
-        "@type": "Person" as const,
-        name: stotra.viniyog.rishi,
-        description: "Rishi (seer) of this stotra",
-      }
-    : stotra.source
-      ? {
-          "@type": "Organization" as const,
-          name: stotra.source,
-        }
-      : undefined;
+  // Enhanced CreativeWork schema with reviewer/translator as author for E-E-A-T
+  const authorInfo = {
+    "@type": "Person" as const,
+    name: "Acharya Pushyadant Mishra",
+    url: `${APP_URL}/about-translations`,
+    jobTitle: "Vedic Scholar, Stotra Researcher & Sanskrit Translator",
+  };
 
   const keywordsArray = [
     stotra.titleEn.toLowerCase(),
@@ -210,7 +204,7 @@ export default async function StotraPage({
         url: `${APP_URL}/VastuCartLogo_1024.png`,
       },
     },
-    ...(authorInfo ? { author: authorInfo } : {}),
+    author: authorInfo,
     about: {
       "@type": "Thing",
       name: deity?.name || stotra.deity,
