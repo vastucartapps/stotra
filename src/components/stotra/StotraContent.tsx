@@ -175,6 +175,14 @@ export function StotraContent({ stotra, deity, companionStotras }: StotraContent
         </div>
       )}
 
+      {/* Author Byline */}
+      <p className="text-xs text-text-muted px-6 md:px-8 pb-2">
+        Reviewed &amp; translated by{" "}
+        <Link href="/about-translations" className="text-brand hover:text-brand-light transition-colors">
+          Acharya Pushyadant Mishra
+        </Link>
+      </p>
+
       {/* Devanagari Text */}
       <div className="p-6 md:p-8">
         <h3 className="font-serif text-sm font-semibold text-brand uppercase tracking-wider mb-4">
