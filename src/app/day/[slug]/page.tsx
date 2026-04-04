@@ -25,13 +25,13 @@ export async function generateMetadata({
   const title = `${day.name} (${day.nameHi}) Stotras`;
   const description = `Stotras to recite on ${day.name} (${day.nameHi}). Sacred to ${deityNames}. Read with transliteration and meaning.`;
   return {
-    title,
+    title: { absolute: title },
     description,
     alternates: {
       canonical: `/day/${slug}`,
     },
     openGraph: {
-      title: `${title} | Stotra by VastuCart`,
+      title,
       description,
       url: `${APP_URL}/day/${slug}`,
       type: "website",
@@ -46,7 +46,7 @@ export async function generateMetadata({
     },
     twitter: {
       card: "summary_large_image",
-      title: `${title} | Stotra by VastuCart`,
+      title,
       description,
       images: [`${APP_URL}/og-default.jpg`],
     },

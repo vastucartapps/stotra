@@ -30,11 +30,11 @@ export async function generateMetadata({
   const description = `${verse.englishTranslation.slice(0, 150)}... Read with Sanskrit text, transliteration, word-by-word meaning, Hindi & English translation.`;
 
   return {
-    title,
+    title: { absolute: title },
     description,
     alternates: { canonical: `/gita/${chSlug}/${vSlug}` },
     openGraph: {
-      title: `${title} | Stotra by VastuCart`,
+      title,
       description,
       url: `${APP_URL}/gita/${chSlug}/${vSlug}`,
       type: "article",
@@ -42,7 +42,7 @@ export async function generateMetadata({
     },
     twitter: {
       card: "summary_large_image",
-      title: `${title} | Stotra by VastuCart`,
+      title,
       description,
     },
   };

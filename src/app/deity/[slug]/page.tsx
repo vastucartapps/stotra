@@ -24,7 +24,7 @@ export async function generateMetadata({
   const title = `${deity.name} Stotras in Sanskrit & Hindi — ${stotras.length} Prayers with PDF | VastuCart`;
   const description = `Complete collection of ${stotras.length} ${deity.name} stotras, chalisa and prayers in Sanskrit with Hindi meaning and free PDF download.`;
   return {
-    title,
+    title: { absolute: title },
     description,
     alternates: {
       canonical: `/deity/${slug}`,

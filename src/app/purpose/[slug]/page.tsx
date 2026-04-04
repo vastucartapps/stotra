@@ -19,13 +19,13 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const title = `Stotras for ${purpose.name} — Sanskrit Prayers for ${purpose.nameHi} | VastuCart`;
   const description = `Find the most powerful Hindu stotras and prayers for ${purpose.name.toLowerCase()} in Sanskrit with Hindi meaning and PDF download.`;
   return {
-    title,
+    title: { absolute: title },
     description,
     alternates: {
       canonical: `/purpose/${slug}`,
     },
     openGraph: {
-      title: `${title} | Stotra by VastuCart`,
+      title,
       description,
       url: `${APP_URL}/purpose/${slug}`,
       type: "website",
@@ -40,7 +40,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     },
     twitter: {
       card: "summary_large_image",
-      title: `${title} | Stotra by VastuCart`,
+      title,
       description,
       images: [`${APP_URL}/og-default.jpg`],
     },

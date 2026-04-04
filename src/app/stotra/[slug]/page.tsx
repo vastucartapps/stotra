@@ -93,11 +93,22 @@ export async function generateMetadata({
   if (!stotra) return {};
 
   const deity = getDeityById(stotra.deity);
-  const title = `${stotra.titleEn} in Sanskrit with Hindi Meaning & PDF | ${deity?.name || "Hindu"} Stotra`;
-  const metaDescription = `Read ${stotra.titleEn} (${stotra.title}) in Sanskrit with Hindi arth, English transliteration, and free PDF download. ${stotra.verseCount} verses.${stotra.benefits[0] ? ` ${stotra.benefits[0]}.` : ""}`;
+
+  // Title: trim subtitle after " - " or " — " for compact title tag
+  const titleName = stotra.titleEn.split(/\s[-—]\s/)[0];
+  const deityName = deity?.name || "Hindu";
+  const titleWithPdf = `${titleName} in Sanskrit with Hindi Meaning & PDF | ${deityName} Stotra`;
+  const titleWithoutPdf = `${titleName} in Sanskrit with Hindi Meaning | ${deityName} Stotra`;
+  const title = titleWithPdf.length <= 85 ? titleWithPdf : titleWithoutPdf;
+
+  // Description: capitalize first benefit
+  const firstBenefit = stotra.benefits[0]
+    ? stotra.benefits[0].charAt(0).toUpperCase() + stotra.benefits[0].slice(1)
+    : "";
+  const metaDescription = `Read ${stotra.titleEn} in Sanskrit with Hindi arth, English transliteration, and free PDF download. ${stotra.verseCount} verses sourced from ${stotra.source}.${firstBenefit ? ` Recite for ${firstBenefit}.` : ""}`;
 
   return {
-    title,
+    title: { absolute: title },
     description: metaDescription,
     alternates: {
       canonical: `/stotra/${stotra.slug}`,

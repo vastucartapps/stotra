@@ -20,13 +20,13 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const title = `${festival.name} (${festival.nameHi}) Stotras`;
   const description = `Sacred stotras and prayers for ${festival.name} (${festival.nameHi}). Read with transliteration, meaning, and free PDF download.`;
   return {
-    title,
+    title: { absolute: title },
     description,
     alternates: {
       canonical: `/festival/${slug}`,
     },
     openGraph: {
-      title: `${title} | Stotra by VastuCart`,
+      title,
       description,
       url: `${APP_URL}/festival/${slug}`,
       type: "website",
@@ -41,7 +41,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     },
     twitter: {
       card: "summary_large_image",
-      title: `${title} | Stotra by VastuCart`,
+      title,
       description,
       images: [`${APP_URL}/og-default.jpg`],
     },

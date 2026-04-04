@@ -19,11 +19,11 @@ export async function generateMetadata({
   if (!chapter) return {};
   const title = `Bhagavad Gita Chapter ${chapter.chapterNumber} - ${chapter.titleEnglish} (${chapter.titleSanskrit})`;
   return {
-    title,
+    title: { absolute: title },
     description: chapter.description,
     alternates: { canonical: `/gita/${slug}` },
     openGraph: {
-      title: `${title} | Stotra by VastuCart`,
+      title,
       description: chapter.description,
       url: `${APP_URL}/gita/${slug}`,
       type: "article",
@@ -32,7 +32,7 @@ export async function generateMetadata({
     },
     twitter: {
       card: "summary_large_image",
-      title: `${title} | Stotra by VastuCart`,
+      title,
       description: chapter.description,
       images: [`${APP_URL}/og-default.jpg`],
     },
