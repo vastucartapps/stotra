@@ -3,6 +3,8 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { DEITIES, getDeityBySlug } from "@/data/deities";
 import { getStotrasByPrimaryDeity, getStotrasBySecondaryDeity, getTopStotrasForDeity } from "@/lib/stotras";
+import { buildDeityPageGraph, buildFaqPageSchema } from "@/lib/schema";
+import type { SchemaFAQItem } from "@/lib/schema";
 import { StotraCard } from "@/components/stotra/StotraCard";
 import { CategoryIcon } from "@/components/ui/CategoryIcon";
 
@@ -63,121 +65,40 @@ export default async function DeityPage({
 
   const stotras = getStotrasByPrimaryDeity(deity.id);
 
-  const pageId = `${APP_URL}/deity/${slug}#page`;
-  const deityId = `${APP_URL}/deity/${slug}#deity`;
-  const breadcrumbId = `${APP_URL}/deity/${slug}#breadcrumb`;
-
-  const sameAs: string[] = [];
-  if (deity.wikipediaUrl) sameAs.push(deity.wikipediaUrl);
-  if (deity.wikidataUrl) sameAs.push(deity.wikidataUrl);
-
-  const deityThingNode: Record<string, unknown> = {
-    "@type": "Thing",
-    "@id": deityId,
-    name: deity.name,
-    alternateName: deity.nameHi,
-    description: deity.description,
-  };
-  if (sameAs.length) deityThingNode.sameAs = sameAs;
-
-  const collectionPageSchema = {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "CollectionPage",
-        "@id": pageId,
-        url: `${APP_URL}/deity/${slug}`,
-        name: `${deity.name} Stotras`,
-        description: `Sacred stotras and prayers dedicated to ${deity.name} (${deity.nameHi}).`,
-        isPartOf: { "@id": `${APP_URL}/#website` },
-        about: { "@id": deityId },
-        breadcrumb: { "@id": breadcrumbId },
-        mainEntity: {
-          "@type": "ItemList",
-          numberOfItems: stotras.length,
-          itemListElement: stotras.map((stotra, index) => ({
-            "@type": "ListItem",
-            position: index + 1,
-            name: stotra.titleEn,
-            url: `${APP_URL}/stotra/${stotra.slug}`,
-          })),
-        },
-      },
-      deityThingNode,
-    ],
-  };
-
-  const breadcrumbSchema = {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "@id": breadcrumbId,
-    itemListElement: [
-      {
-        "@type": "ListItem",
-        position: 1,
-        name: "Home",
-        item: APP_URL,
-      },
-      {
-        "@type": "ListItem",
-        position: 2,
-        name: "Deities",
-        item: `${APP_URL}/deity`,
-      },
-      {
-        "@type": "ListItem",
-        position: 3,
-        name: deity.name,
-        item: `${APP_URL}/deity/${slug}`,
-      },
-    ],
-  };
-
-  const faqSchema = {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    mainEntity: [
-      {
-        "@type": "Question",
-        name: `How many stotras are dedicated to ${deity.name}?`,
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: `We currently have ${stotras.length} stotras dedicated to ${deity.name} (${deity.nameHi}) in our collection, including chalisa, ashtakam, sahasranama, and other sacred hymns. New stotras are added regularly.`,
-        },
-      },
-      {
-        "@type": "Question",
-        name: `What is the best day to recite ${deity.name} stotras?`,
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: `While ${deity.name} stotras can be recited any day, Hindu tradition associates specific days of the week with each deity. Visit our "Stotras by Day" section to find the most auspicious day for ${deity.name} prayers. Regular daily recitation is considered most beneficial.`,
-        },
-      },
-      {
-        "@type": "Question",
-        name: `What are the benefits of reciting ${deity.name} stotras?`,
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: `Reciting ${deity.name} stotras is believed to bring divine blessings, spiritual growth, inner peace, and protection. Each stotra has specific benefits (phal) mentioned in the scriptures. ${deity.description}`,
-        },
-      },
-    ],
-  };
+  const pageGraph = buildDeityPageGraph(deity, stotras);
+  const faqs: SchemaFAQItem[] = [
+    {
+      question: `How many stotras are dedicated to ${deity.name}?`,
+      answer: `We currently have ${stotras.length} stotras dedicated to ${deity.name} (${deity.nameHi}) in our collection, including chalisa, ashtakam, sahasranama, and other sacred hymns. New stotras are added regularly.`,
+    },
+    {
+      question: `What is the best day to recite ${deity.name} stotras?`,
+      answer: `While ${deity.name} stotras can be recited any day, Hindu tradition associates specific days of the week with each deity. Visit our "Stotras by Day" section to find the most auspicious day for ${deity.name} prayers. Regular daily recitation is considered most beneficial.`,
+    },
+    {
+      question: `What are the benefits of reciting ${deity.name} stotras?`,
+      answer: `Reciting ${deity.name} stotras is traditionally associated with divine blessings, spiritual growth, inner peace, and protection. Each stotra has specific benefits (phal) mentioned in the scriptures. ${deity.description}`,
+    },
+  ];
+  const faqSchema = buildFaqPageSchema(
+    faqs,
+    `${APP_URL}/deity/${slug}`
+  );
 
   return (
     <div className="mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8 py-8">
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionPageSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
-      />
+      {pageGraph && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(pageGraph) }}
+        />
+      )}
+      {faqSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
+      )}
 
       {/* Breadcrumb */}
       <nav className="flex items-center gap-2 text-xs text-text-muted mb-8">

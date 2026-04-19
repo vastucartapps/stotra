@@ -2,6 +2,8 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { CategoryIcon } from "@/components/ui/CategoryIcon";
+import { buildTaxonomyPageGraph, buildFaqPageSchema } from "@/lib/schema";
+import type { SchemaFAQItem } from "@/lib/schema";
 import { DAYS, getDayBySlug } from "@/data/days";
 import { getDeityById } from "@/data/deities";
 import { getStotrasByDay } from "@/lib/stotras";
@@ -65,95 +67,44 @@ export default async function DayPage({
   const stotras = getStotrasByDay(day.id);
   const deityNames = day.deities.map((id) => getDeityById(id)?.name).filter(Boolean);
 
-  const collectionPageSchema = {
-    "@context": "https://schema.org",
-    "@type": "CollectionPage",
+  const pageGraph = buildTaxonomyPageGraph({
+    kind: "day",
+    slug,
     name: `${day.name} Stotras`,
     description: `Stotras recommended for recitation on ${day.name} (${day.nameHi}).`,
-    url: `${APP_URL}/day/${slug}`,
-    isPartOf: { "@id": `${APP_URL}/#website` },
-    mainEntity: {
-      "@type": "ItemList",
-      numberOfItems: stotras.length,
-      itemListElement: stotras.map((stotra, index) => ({
-        "@type": "ListItem",
-        position: index + 1,
-        name: stotra.titleEn,
-        url: `${APP_URL}/stotra/${stotra.slug}`,
-      })),
+    stotras,
+    hubName: "Days",
+  });
+  const faqs: SchemaFAQItem[] = [
+    {
+      question: `Which deity stotras should be recited on ${day.name}?`,
+      answer: `${day.name} (${day.nameHi}) is sacred to ${deityNames.join(", ")}. It is recommended to recite stotras, chalisa, and hymns dedicated to ${deityNames.length > 1 ? "these deities" : "this deity"} on ${day.name} for maximum spiritual benefit.`,
     },
-  };
-
-  const breadcrumbSchema = {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    itemListElement: [
-      {
-        "@type": "ListItem",
-        position: 1,
-        name: "Home",
-        item: APP_URL,
-      },
-      {
-        "@type": "ListItem",
-        position: 2,
-        name: "Days",
-        item: `${APP_URL}/day`,
-      },
-      {
-        "@type": "ListItem",
-        position: 3,
-        name: day.name,
-        item: `${APP_URL}/day/${slug}`,
-      },
-    ],
-  };
-
-  const faqSchema = {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    mainEntity: [
-      {
-        "@type": "Question",
-        name: `Which deity stotras should be recited on ${day.name}?`,
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: `${day.name} (${day.nameHi}) is sacred to ${deityNames.join(", ")}. It is recommended to recite stotras, chalisa, and hymns dedicated to ${deityNames.length > 1 ? "these deities" : "this deity"} on ${day.name} for maximum spiritual benefit.`,
-        },
-      },
-      {
-        "@type": "Question",
-        name: `What is the significance of ${day.name} in Hindu tradition?`,
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: `In Hindu tradition, ${day.name} (${day.nameHi}) is dedicated to ${deityNames.join(" and ")}. Devotees observe fasts, perform pujas, and recite specific stotras on this day to seek blessings. We have ${stotras.length} stotras recommended for ${day.name}.`,
-        },
-      },
-      {
-        "@type": "Question",
-        name: `How many stotras are recommended for ${day.name}?`,
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: `We currently have ${stotras.length} stotras recommended for ${day.name} (${day.nameHi}) in our collection. These include prayers dedicated to ${deityNames.join(", ")}, available with Devanagari text, transliteration, and Hindi meaning.`,
-        },
-      },
-    ],
-  };
+    {
+      question: `What is the significance of ${day.name} in Hindu tradition?`,
+      answer: `In Hindu tradition, ${day.name} (${day.nameHi}) is dedicated to ${deityNames.join(" and ")}. Devotees observe fasts, perform pujas, and recite specific stotras on this day to seek blessings. We have ${stotras.length} stotras recommended for ${day.name}.`,
+    },
+    {
+      question: `How many stotras are recommended for ${day.name}?`,
+      answer: `We currently have ${stotras.length} stotras recommended for ${day.name} (${day.nameHi}) in our collection. These include prayers dedicated to ${deityNames.join(", ")}, available with Devanagari text, transliteration, and Hindi meaning.`,
+    },
+  ];
+  const faqSchema = buildFaqPageSchema(faqs, `${APP_URL}/day/${slug}`);
 
   return (
     <div className="mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8 py-8">
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionPageSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
-      />
+      {pageGraph && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(pageGraph) }}
+        />
+      )}
+      {faqSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
+      )}
 
       <nav className="flex items-center gap-2 text-xs text-text-muted mb-8">
         <Link href="/" className="hover:text-brand transition-colors">Home</Link>

@@ -2,6 +2,7 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { getAllGitaChapters, getGitaChapter } from "@/lib/gita";
+import { buildGitaChapterGraph } from "@/lib/schema";
 
 const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
 
@@ -49,9 +50,15 @@ export default async function GitaChapterPage({
   if (!chapter) notFound();
 
   const chapters = getAllGitaChapters();
+  void chapters;
+  const chapterGraph = buildGitaChapterGraph(chapter);
 
   return (
     <div className="mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8 py-8">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(chapterGraph) }}
+      />
       {/* Breadcrumb */}
       <nav className="flex items-center gap-2 text-xs text-text-muted mb-8">
         <Link href="/" className="hover:text-brand transition-colors">Home</Link>

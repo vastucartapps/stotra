@@ -108,45 +108,9 @@ export const metadata: Metadata = {
   },
 };
 
-const jsonLd = {
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "Organization",
-      "@id": `${APP_URL}/#organization`,
-      name: "VastuCart",
-      url: "https://vastucart.in",
-      logo: {
-        "@type": "ImageObject",
-        url: `${APP_URL}/VastuCartLogo_1024.png`,
-      },
-      sameAs: [
-        "https://www.facebook.com/vastucartindia",
-        "https://www.instagram.com/vastucart/",
-        "https://in.pinterest.com/vastucart/",
-        "https://www.threads.com/@vastucart",
-        "https://x.com/vastucart",
-      ],
-    },
-    {
-      "@type": "WebSite",
-      "@id": `${APP_URL}/#website`,
-      url: APP_URL,
-      name: "Stotra by VastuCart",
-      description:
-        "Comprehensive collection of Hindu stotras, chalisa, and sacred hymns",
-      publisher: { "@id": `${APP_URL}/#organization` },
-      potentialAction: {
-        "@type": "SearchAction",
-        target: {
-          "@type": "EntryPoint",
-          urlTemplate: `${APP_URL}/search?q={search_term_string}`,
-        },
-        "query-input": "required name=search_term_string",
-      },
-    },
-  ],
-};
+// Canonical Organization is NOT emitted here — per 00-shared-contracts.md §2.1
+// it is owned by vastucart.in and referenced via @id string only.
+// WebSite + Brand moved to homepage only (06 §1.1) via lib/schema/website.ts.
 
 export default function RootLayout({
   children,
@@ -164,10 +128,6 @@ export default function RootLayout({
           dangerouslySetInnerHTML={{
             __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-0S0YXDH1XC');`,
           }}
-        />
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
       </head>
       <body className="min-h-full flex flex-col antialiased bg-cream pattern-zodiac">

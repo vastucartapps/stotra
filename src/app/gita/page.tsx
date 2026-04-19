@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { getAllGitaChapters, getTotalVerseCount } from "@/lib/gita";
 import { getBhagavadGitaSupportingTexts } from "@/lib/stotras";
+import { buildGitaBookSchema } from "@/lib/schema";
 import { CategoryIcon } from "@/components/ui/CategoryIcon";
 
 const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
@@ -37,28 +38,12 @@ export default function GitaPage() {
     ],
   };
 
-  const collectionSchema = {
-    "@context": "https://schema.org",
-    "@type": "CollectionPage",
-    name: "Bhagavad Gita - All 18 Chapters",
-    description: "Complete Bhagavad Gita verse by verse in Sanskrit with Hindi meaning, English translation, and word-by-word commentary.",
-    url: `${APP_URL}/gita`,
-    mainEntity: {
-      "@type": "ItemList",
-      numberOfItems: chapters.length,
-      itemListElement: chapters.map((ch, i) => ({
-        "@type": "ListItem",
-        position: i + 1,
-        name: `Chapter ${ch.chapterNumber} - ${ch.titleEnglish}`,
-        url: `${APP_URL}/gita/${ch.slug}`,
-      })),
-    },
-  };
+  const bookSchema = buildGitaBookSchema(chapters);
 
   return (
     <div>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(bookSchema) }} />
 
       {/* Hero Section */}
       <section className="relative overflow-hidden bg-brand">

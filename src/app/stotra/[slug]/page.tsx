@@ -2,6 +2,7 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { getAllStotras, getStotraBySlug, getRelatedStotras, getCompanionStotras } from "@/lib/stotras";
+import { buildStotraPageGraph, buildFaqPageSchema } from "@/lib/schema";
 import { getDeityById } from "@/data/deities";
 import { getDayById } from "@/data/days";
 import { LeftSidebar } from "@/components/layout/LeftSidebar";
@@ -163,151 +164,26 @@ export default async function StotraPage({
   const companionStotras = getCompanionStotras(stotra.slug);
   const stotraFAQs = generateStotraFAQs(stotra, deity);
 
-  // Two-node pattern per spec §2.1:
-  // #webpage = Article (the Next.js page), author = VastuCart Editorial via @id
-  // #work = CreativeWork (the ancient text), author = traditional author if known
-  const pageId = `${APP_URL}/stotra/${stotra.slug}#webpage`;
-  const workId = `${APP_URL}/stotra/${stotra.slug}#work`;
-  const breadcrumbId = `${APP_URL}/stotra/${stotra.slug}#breadcrumb`;
-
-  // Traditional author for #work node — only well-known cases
-  const TRADITIONAL_AUTHORS: Record<string, { name: string; sameAs?: string[] }> = {
-    "Tulsidas - Ramcharitmanas": {
-      name: "Goswami Tulsidas",
-      sameAs: ["https://en.wikipedia.org/wiki/Tulsidas", "https://www.wikidata.org/wiki/Q193466"],
-    },
-    "Adi Shankaracharya": {
-      name: "Adi Shankaracharya",
-      sameAs: ["https://en.wikipedia.org/wiki/Adi_Shankara", "https://www.wikidata.org/wiki/Q11345"],
-    },
-    "Valmiki Ramayana": {
-      name: "Valmiki",
-      sameAs: ["https://en.wikipedia.org/wiki/Valmiki", "https://www.wikidata.org/wiki/Q193267"],
-    },
-    "Mahabharata": {
-      name: "Vyasa",
-      sameAs: ["https://en.wikipedia.org/wiki/Vyasa", "https://www.wikidata.org/wiki/Q193563"],
-    },
-  };
-  // Match by source field containing the key
-  let workAuthor: { "@type": "Person"; name: string; sameAs?: string[] } | undefined;
-  for (const [key, val] of Object.entries(TRADITIONAL_AUTHORS)) {
-    if (stotra.source?.includes(key.split(" - ")[0]) || stotra.source?.includes(key)) {
-      workAuthor = { "@type": "Person", name: val.name, ...(val.sameAs ? { sameAs: val.sameAs } : {}) };
-      break;
-    }
-  }
-  // Special case: Tulsidas composed Hanuman Chalisa as standalone, not as Ramcharitmanas part
-  if (stotra.slug === "hanuman-chalisa") {
-    workAuthor = {
-      "@type": "Person",
-      name: "Goswami Tulsidas",
-      sameAs: ["https://en.wikipedia.org/wiki/Tulsidas", "https://www.wikidata.org/wiki/Q193466"],
-    };
-  }
-
-  const workNode: Record<string, unknown> = {
-    "@type": "CreativeWork",
-    "@id": workId,
-    name: stotra.titleEn,
-    alternateName: stotra.title,
-    inLanguage: ["sa", "hi"],
-    genre: "Hindu devotional hymn",
-  };
-  if (workAuthor) workNode.author = workAuthor;
-  if (stotra.source) {
-    const isBasedOnName =
-      stotra.slug === "hanuman-chalisa"
-        ? "Standalone composition by Tulsidas in Awadhi, late 16th century"
-        : stotra.source;
-    workNode.isBasedOn = { "@type": "CreativeWork", name: isBasedOnName };
-  }
-
-  const articleNode = {
-    "@type": "Article",
-    "@id": pageId,
-    url: `${APP_URL}/stotra/${stotra.slug}`,
-    mainEntityOfPage: pageId,
-    headline: `${stotra.titleEn} — ${stotra.title}`,
-    description: stotra.seoDescription,
-    image: `${APP_URL}/og-default.jpg`,
-    inLanguage: "en",
-    isPartOf: { "@id": `${APP_URL}/#website` },
-    about: { "@id": workId },
-    author: { "@id": "https://blog.vastucart.in/authors/vastucart-editorial#person" },
-    publisher: {
-      "@type": "Organization",
-      "@id": "https://www.vastucart.in/#organization",
-      name: "VastuCart",
-      url: "https://vastucart.in",
-      logo: {
-        "@type": "ImageObject",
-        url: `${APP_URL}/VastuCartLogo_1024.png`,
-      },
-    },
-    datePublished: stotra.createdAt,
-    dateModified: stotra.updatedAt,
-    breadcrumb: { "@id": breadcrumbId },
-  };
-
-  const jsonLd = {
-    "@context": "https://schema.org",
-    "@graph": [articleNode, workNode],
-  };
-
-  const breadcrumbJsonLd = {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "@id": breadcrumbId,
-    itemListElement: [
-      {
-        "@type": "ListItem",
-        position: 1,
-        name: "Home",
-        item: APP_URL,
-      },
-      {
-        "@type": "ListItem",
-        position: 2,
-        name: deity?.name || "Deity",
-        item: `${APP_URL}/deity/${deity?.slug || stotra.deity}`,
-      },
-      {
-        "@type": "ListItem",
-        position: 3,
-        name: stotra.titleEn,
-        item: `${APP_URL}/stotra/${stotra.slug}`,
-      },
-    ],
-  };
+  const pageGraph = buildStotraPageGraph(stotra, deity || null);
+  const faqSchema = buildFaqPageSchema(
+    stotraFAQs,
+    `${APP_URL}/stotra/${stotra.slug}`
+  );
 
   return (
     <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify({
-            "@context": "https://schema.org",
-            "@type": "FAQPage",
-            mainEntity: stotraFAQs.map((faq) => ({
-              "@type": "Question",
-              name: faq.question,
-              acceptedAnswer: {
-                "@type": "Answer",
-                text: faq.answer,
-              },
-            })),
-          }),
-        }}
-      />
+      {pageGraph && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(pageGraph) }}
+        />
+      )}
+      {faqSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
+      )}
 
       {/* Breadcrumb */}
       <div className="bg-cream-dark/50 border-b border-border-light">

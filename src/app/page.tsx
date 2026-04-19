@@ -9,6 +9,7 @@ import { FAQSection } from "@/components/pages/HomePage";
 import { GitaShlokaCard } from "@/components/pages/GitaShlokaCard";
 import { getGitaVerseOfTheDay } from "@/lib/gita";
 import { CategoryIcon } from "@/components/ui/CategoryIcon";
+import { buildStotraWebsiteSchema } from "@/lib/schema";
 
 const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
 
@@ -49,7 +50,8 @@ export default function Home() {
   const stotraOfTheDay = getStotraOfTheDay();
   const allStotras = getAllStotras();
 
-  const itemListSchema = {
+  const websiteSchema = buildStotraWebsiteSchema(allStotras.length);
+  const deityItemListSchema = {
     "@context": "https://schema.org",
     "@type": "ItemList",
     name: "Hindu Deity Categories",
@@ -67,7 +69,11 @@ export default function Home() {
     <>
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(deityItemListSchema) }}
       />
 
       {/* -- Hero Section -- */}

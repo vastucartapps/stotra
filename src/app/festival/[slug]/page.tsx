@@ -6,6 +6,8 @@ import { getDeityById } from "@/data/deities";
 import { getStotrasByFestival } from "@/lib/stotras";
 import { StotraCard } from "@/components/stotra/StotraCard";
 import { CategoryIcon } from "@/components/ui/CategoryIcon";
+import { buildTaxonomyPageGraph, buildFaqPageSchema } from "@/lib/schema";
+import type { SchemaFAQItem } from "@/lib/schema";
 
 const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
 
@@ -55,111 +57,47 @@ export default async function FestivalPage({ params }: { params: Promise<{ slug:
   const stotras = getStotrasByFestival(festival.id);
   const deityNames = festival.deities.map((id) => getDeityById(id)?.name).filter(Boolean);
 
-  const eventSchema = {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    name: festival.name,
-    description: `${festival.name} (${festival.nameHi}) - a sacred Hindu festival. Recite special stotras and prayers during this auspicious occasion.`,
-    eventAttendanceMode: "https://schema.org/OfflineEventAttendanceMode",
-    organizer: {
-      "@type": "Organization",
-      name: "Hindu Tradition",
-    },
-  };
+  // Note: Event schema intentionally NOT emitted — we lack real event data
+  // (startDate, location) and the spec forbids fabricated Organization nodes.
 
-  const collectionPageSchema = {
-    "@context": "https://schema.org",
-    "@type": "CollectionPage",
+  const pageGraph = buildTaxonomyPageGraph({
+    kind: "festival",
+    slug,
     name: `${festival.name} Stotras`,
     description: `Sacred stotras and prayers for ${festival.name} (${festival.nameHi}).`,
-    url: `${APP_URL}/festival/${slug}`,
-    isPartOf: { "@id": `${APP_URL}/#website` },
-    mainEntity: {
-      "@type": "ItemList",
-      numberOfItems: stotras.length,
-      itemListElement: stotras.map((stotra, index) => ({
-        "@type": "ListItem",
-        position: index + 1,
-        name: stotra.titleEn,
-        url: `${APP_URL}/stotra/${stotra.slug}`,
-      })),
+    stotras,
+    hubName: "Festivals",
+  });
+  const faqs: SchemaFAQItem[] = [
+    {
+      question: `Which stotras are recited during ${festival.name}?`,
+      answer: `During ${festival.name} (${festival.nameHi}), devotees recite stotras dedicated to ${deityNames.join(", ")}. We have ${stotras.length} stotras traditionally recited for this festival, available with Devanagari text, transliteration, and Hindi meaning.`,
     },
-  };
-
-  const breadcrumbSchema = {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    itemListElement: [
-      {
-        "@type": "ListItem",
-        position: 1,
-        name: "Home",
-        item: APP_URL,
-      },
-      {
-        "@type": "ListItem",
-        position: 2,
-        name: "Festivals",
-        item: `${APP_URL}/festival`,
-      },
-      {
-        "@type": "ListItem",
-        position: 3,
-        name: festival.name,
-        item: `${APP_URL}/festival/${slug}`,
-      },
-    ],
-  };
-
-  const faqSchema = {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    mainEntity: [
-      {
-        "@type": "Question",
-        name: `Which stotras are recited during ${festival.name}?`,
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: `During ${festival.name} (${festival.nameHi}), devotees recite stotras dedicated to ${deityNames.join(", ")}. We have ${stotras.length} stotras specifically recommended for this festival, available with Devanagari text, transliteration, and Hindi meaning.`,
-        },
-      },
-      {
-        "@type": "Question",
-        name: `When is ${festival.name} celebrated?`,
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: `${festival.name} (${festival.nameHi}) is a major Hindu festival celebrated according to the Hindu lunar calendar. The exact dates vary each year. During this festival, devotees worship ${deityNames.join(" and ")} through special prayers, stotras, and rituals.`,
-        },
-      },
-      {
-        "@type": "Question",
-        name: `What is the significance of reciting stotras during ${festival.name}?`,
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: `Reciting stotras during ${festival.name} is considered highly auspicious in Hindu tradition. It is believed that prayers offered during this sacred occasion carry multiplied spiritual merit. Devotees recite stotras to seek blessings from ${deityNames.join(" and ")} for prosperity, protection, and spiritual growth.`,
-        },
-      },
-    ],
-  };
+    {
+      question: `When is ${festival.name} celebrated?`,
+      answer: `${festival.name} (${festival.nameHi}) is celebrated according to the Hindu lunar calendar. The exact dates vary each year. During this festival, devotees worship ${deityNames.join(" and ")} through special prayers, stotras, and rituals.`,
+    },
+    {
+      question: `What is the significance of reciting stotras during ${festival.name}?`,
+      answer: `Reciting stotras during ${festival.name} is considered highly auspicious in Hindu tradition. Devotees recite stotras to invoke the blessings of ${deityNames.join(" and ")} for prosperity, protection, and spiritual growth.`,
+    },
+  ];
+  const faqSchema = buildFaqPageSchema(faqs, `${APP_URL}/festival/${slug}`);
 
   return (
     <div className="mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8 py-8">
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(eventSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionPageSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
-      />
+      {pageGraph && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(pageGraph) }}
+        />
+      )}
+      {faqSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
+      )}
 
       <nav className="flex items-center gap-2 text-xs text-text-muted mb-8">
         <Link href="/" className="hover:text-brand transition-colors">Home</Link>

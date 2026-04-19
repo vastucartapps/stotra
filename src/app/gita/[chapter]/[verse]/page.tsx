@@ -2,6 +2,7 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { getAllGitaChapters, getGitaVerse, getAdjacentVerses } from "@/lib/gita";
+import { buildGitaVerseGraph } from "@/lib/schema";
 
 const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
 
@@ -60,24 +61,13 @@ export default async function GitaVersePage({
 
   const { prev, next } = getAdjacentVerses(chapter.chapterNumber, verse.verseNumber);
 
-  const jsonLd = {
-    "@context": "https://schema.org",
-    "@type": "CreativeWork",
-    name: `Bhagavad Gita ${chapter.chapterNumber}.${verse.verseNumber}`,
-    description: verse.englishTranslation,
-    inLanguage: ["sa", "hi", "en"],
-    isPartOf: {
-      "@type": "CreativeWork",
-      name: `Bhagavad Gita - ${chapter.titleEnglish}`,
-      url: `${APP_URL}/gita/${chapter.slug}`,
-    },
-  };
+  const verseGraph = buildGitaVerseGraph(chapter, verse);
 
   return (
     <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 py-8">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(verseGraph) }}
       />
 
       {/* Breadcrumb */}

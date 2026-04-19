@@ -5,6 +5,8 @@ import { PURPOSES, getPurposeBySlug } from "@/data/purposes";
 import { getStotrasByPurpose } from "@/lib/stotras";
 import { StotraCard } from "@/components/stotra/StotraCard";
 import { CategoryIcon } from "@/components/ui/CategoryIcon";
+import { buildTaxonomyPageGraph, buildFaqPageSchema } from "@/lib/schema";
+import type { SchemaFAQItem } from "@/lib/schema";
 
 const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
 
@@ -53,95 +55,44 @@ export default async function PurposePage({ params }: { params: Promise<{ slug: 
   if (!purpose) notFound();
   const stotras = getStotrasByPurpose(purpose.id);
 
-  const collectionPageSchema = {
-    "@context": "https://schema.org",
-    "@type": "CollectionPage",
+  const pageGraph = buildTaxonomyPageGraph({
+    kind: "purpose",
+    slug,
     name: `Stotras for ${purpose.name}`,
     description: `Hindu stotras and prayers for ${purpose.name.toLowerCase()} (${purpose.nameHi}).`,
-    url: `${APP_URL}/purpose/${slug}`,
-    isPartOf: { "@id": `${APP_URL}/#website` },
-    mainEntity: {
-      "@type": "ItemList",
-      numberOfItems: stotras.length,
-      itemListElement: stotras.map((stotra, index) => ({
-        "@type": "ListItem",
-        position: index + 1,
-        name: stotra.titleEn,
-        url: `${APP_URL}/stotra/${stotra.slug}`,
-      })),
+    stotras,
+    hubName: "Purpose",
+  });
+  const faqs: SchemaFAQItem[] = [
+    {
+      question: `Which stotras help with ${purpose.name.toLowerCase()}?`,
+      answer: `We have ${stotras.length} stotras traditionally recited for ${purpose.name.toLowerCase()} (${purpose.nameHi}). These include prayers to various deities invoked in this context.`,
     },
-  };
-
-  const breadcrumbSchema = {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    itemListElement: [
-      {
-        "@type": "ListItem",
-        position: 1,
-        name: "Home",
-        item: APP_URL,
-      },
-      {
-        "@type": "ListItem",
-        position: 2,
-        name: "Purpose",
-        item: `${APP_URL}/purpose`,
-      },
-      {
-        "@type": "ListItem",
-        position: 3,
-        name: purpose.name,
-        item: `${APP_URL}/purpose/${slug}`,
-      },
-    ],
-  };
-
-  const faqSchema = {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    mainEntity: [
-      {
-        "@type": "Question",
-        name: `Which stotras help with ${purpose.name.toLowerCase()}?`,
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: `We have ${stotras.length} stotras specifically recommended for ${purpose.name.toLowerCase()} (${purpose.nameHi}). These include prayers to various deities that are traditionally recited to seek blessings for ${purpose.name.toLowerCase()}.`,
-        },
-      },
-      {
-        "@type": "Question",
-        name: `How to recite stotras for ${purpose.name.toLowerCase()}?`,
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: `For best results, recite stotras for ${purpose.name.toLowerCase()} with devotion and concentration, preferably during early morning or evening hours. Each stotra on our site includes the Devanagari text, transliteration for correct pronunciation, and Hindi meaning to help you understand the prayer.`,
-        },
-      },
-      {
-        "@type": "Question",
-        name: `How many stotras are available for ${purpose.name.toLowerCase()}?`,
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: `Our collection currently includes ${stotras.length} stotras for ${purpose.name.toLowerCase()} (${purpose.nameHi}). Each stotra is available with full Devanagari text, transliteration, Hindi meaning, and free PDF download.`,
-        },
-      },
-    ],
-  };
+    {
+      question: `How to recite stotras for ${purpose.name.toLowerCase()}?`,
+      answer: `For best results, recite stotras for ${purpose.name.toLowerCase()} with devotion and concentration, preferably during early morning or evening hours. Each stotra on our site includes the Devanagari text, transliteration for correct pronunciation, and Hindi meaning to help you understand the prayer.`,
+    },
+    {
+      question: `How many stotras are available for ${purpose.name.toLowerCase()}?`,
+      answer: `Our collection currently includes ${stotras.length} stotras for ${purpose.name.toLowerCase()} (${purpose.nameHi}). Each stotra is available with full Devanagari text, transliteration, Hindi meaning, and free PDF download.`,
+    },
+  ];
+  const faqSchema = buildFaqPageSchema(faqs, `${APP_URL}/purpose/${slug}`);
 
   return (
     <div className="mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8 py-8">
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionPageSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
-      />
+      {pageGraph && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(pageGraph) }}
+        />
+      )}
+      {faqSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
+      )}
 
       <nav className="flex items-center gap-2 text-xs text-text-muted mb-8">
         <Link href="/" className="hover:text-brand transition-colors">Home</Link>
