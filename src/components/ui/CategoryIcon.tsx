@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { DEITIES } from "@/data/deities";
 import { PURPOSES } from "@/data/purposes";
 
@@ -78,13 +77,17 @@ export function CategoryIcon({
       className={`${container} rounded-xl flex items-center justify-center flex-shrink-0 ${className}`}
       style={color ? { backgroundColor: color } : undefined}
     >
-      <Image
+      {/* Plain <img> for SVG — bypasses Next.js image optimizer which is wrong pipeline for SVG */}
+      {/* eslint-disable-next-line @next/next/no-img-element */}
+      <img
         src={src}
         alt={alt}
         width={icon}
         height={icon}
         className="select-none"
         style={{ filter: color ? "brightness(0) invert(1)" : undefined }}
+        loading="lazy"
+        decoding="async"
       />
     </span>
   );

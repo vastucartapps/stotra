@@ -1,4 +1,3 @@
-import { ECOSYSTEM_SITES } from "@/data/ecosystem";
 import type { Stotra } from "@/types";
 import Link from "next/link";
 
@@ -78,27 +77,8 @@ export function Sidebar({ relatedStotras }: SidebarProps) {
         </div>
       )}
 
-      {/* Ecosystem Links */}
-      <div className="bg-white rounded-xl border border-border-light p-5">
-        <h3 className="font-serif text-sm font-semibold text-brand uppercase tracking-wider mb-4">
-          VastuCart Network
-        </h3>
-        <ul className="space-y-2">
-          {ECOSYSTEM_SITES.slice(0, 5).map((site) => (
-            <li key={site.name}>
-              <a
-                href={site.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center justify-between px-3 py-2 rounded-lg text-sm text-text hover:bg-cream-mid hover:text-brand transition-colors duration-150"
-              >
-                <span>{site.name}</span>
-                <span className="text-xs text-text-muted">&rarr;</span>
-              </a>
-            </li>
-          ))}
-        </ul>
-      </div>
+      {/* Ecosystem block removed from stotra sidebar — footer carries the full block.
+          Avoids duplicate cross-subdomain links diluting topical focus on devotional text pages. */}
     </aside>
   );
 }

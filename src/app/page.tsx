@@ -12,36 +12,36 @@ import { CategoryIcon } from "@/components/ui/CategoryIcon";
 
 const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
 
-export const metadata: Metadata = {
-  title: "Stotra — 1000+ Hindu Prayers in Sanskrit & Hindi with PDF Download | VastuCart",
-  description:
-    "Explore 1000+ stotras, chalisa and sacred hymns across 32 deities in Sanskrit and Hindi. With transliteration, meaning, and free PDF — browse by deity, purpose, or day.",
-  alternates: {
-    canonical: "/",
-  },
-  openGraph: {
-    title: "Stotra — 1000+ Hindu Prayers in Sanskrit & Hindi with PDF Download | VastuCart",
-    description:
-      "Explore 1000+ stotras, chalisa and sacred hymns across 32 deities in Sanskrit and Hindi. With transliteration, meaning, and free PDF — browse by deity, purpose, or day.",
-    url: APP_URL,
-    type: "website",
-    images: [
-      {
-        url: `${APP_URL}/og-default.jpg`,
-        width: 1200,
-        height: 630,
-        alt: "Stotra by VastuCart - Sacred Hindu Prayers",
-      },
-    ],
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "Stotra — 1000+ Hindu Prayers in Sanskrit & Hindi with PDF Download | VastuCart",
-    description:
-      "Explore 1000+ stotras, chalisa and sacred hymns across 32 deities in Sanskrit and Hindi. With transliteration, meaning, and free PDF — browse by deity, purpose, or day.",
-    images: [`${APP_URL}/og-default.jpg`],
-  },
-};
+export function generateMetadata(): Metadata {
+  const count = getAllStotras().length;
+  const title = `Stotra — ${count} Hindu Prayers in Sanskrit & Hindi with PDF Download | VastuCart`;
+  const description = `Read ${count} stotras, chalisas, the Bhagavad Gita (701 verses per Gita Press), and vrat kathas in Sanskrit and Hindi with transliteration, meaning, and free PDF. Browse by deity, purpose, or day.`;
+  return {
+    title: { absolute: title },
+    description,
+    alternates: { canonical: "/" },
+    openGraph: {
+      title,
+      description,
+      url: APP_URL,
+      type: "website",
+      images: [
+        {
+          url: `${APP_URL}/og-default.jpg`,
+          width: 1200,
+          height: 630,
+          alt: "Stotra by VastuCart - Sacred Hindu Prayers",
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description,
+      images: [`${APP_URL}/og-default.jpg`],
+    },
+  };
+}
 
 export default function Home() {
   const todayDay = getTodayDay();

@@ -10,6 +10,8 @@ export const DEITIES: Deity[] = [
       "Lord of beginnings and remover of obstacles. Worshipped first before any auspicious activity.",
     iconName: "Sparkles",
     color: "#E8751F",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Ganesha",
+    wikidataUrl: "https://www.wikidata.org/wiki/Q41428",
   },
   {
     id: "shiva",
@@ -20,6 +22,8 @@ export const DEITIES: Deity[] = [
       "The destroyer and transformer in the Hindu trinity. Lord of meditation and cosmic dance.",
     iconName: "Mountain",
     color: "#1A6B5A",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Shiva",
+    wikidataUrl: "https://www.wikidata.org/wiki/Q11378",
   },
   {
     id: "vishnu",
@@ -30,6 +34,8 @@ export const DEITIES: Deity[] = [
       "The preserver and protector of the universe. Worshipped in many avatars including Rama and Krishna.",
     iconName: "Shield",
     color: "#2B6B8A",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Vishnu",
+    wikidataUrl: "https://www.wikidata.org/wiki/Q9598",
   },
   {
     id: "hanuman",
@@ -40,6 +46,8 @@ export const DEITIES: Deity[] = [
       "The mighty devotee of Lord Rama. Symbol of strength, courage, and unwavering devotion.",
     iconName: "Flame",
     color: "#C85103",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Hanuman",
+    wikidataUrl: "https://www.wikidata.org/wiki/Q207177",
   },
   {
     id: "lakshmi",
@@ -50,6 +58,8 @@ export const DEITIES: Deity[] = [
       "Goddess of wealth, fortune, and prosperity. Consort of Lord Vishnu.",
     iconName: "Crown",
     color: "#B8860B",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Lakshmi",
+    wikidataUrl: "https://www.wikidata.org/wiki/Q188685",
   },
   {
     id: "durga",
@@ -60,6 +70,8 @@ export const DEITIES: Deity[] = [
       "The invincible goddess and fierce protector. Worshipped during Navratri for courage and victory.",
     iconName: "Swords",
     color: "#B22222",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Durga",
+    wikidataUrl: "https://www.wikidata.org/wiki/Q181018",
   },
   {
     id: "krishna",
@@ -70,6 +82,8 @@ export const DEITIES: Deity[] = [
       "The eighth avatar of Vishnu. Divine teacher of the Bhagavad Gita and embodiment of love.",
     iconName: "Music",
     color: "#2E5A47",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Krishna",
+    wikidataUrl: "https://www.wikidata.org/wiki/Q9441",
   },
   {
     id: "rama",
@@ -80,6 +94,8 @@ export const DEITIES: Deity[] = [
       "The seventh avatar of Vishnu. The ideal king and embodiment of dharma and righteousness.",
     iconName: "Target",
     color: "#1B5E20",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Rama",
+    wikidataUrl: "https://www.wikidata.org/wiki/Q9550",
   },
   {
     id: "saraswati",
@@ -90,6 +106,8 @@ export const DEITIES: Deity[] = [
       "Goddess of knowledge, music, arts, and learning. Worshipped by students and scholars.",
     iconName: "BookOpen",
     color: "#7B6B4A",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Saraswati",
+    wikidataUrl: "https://www.wikidata.org/wiki/Q177856",
   },
   {
     id: "surya",
@@ -100,6 +118,8 @@ export const DEITIES: Deity[] = [
       "The Sun God and source of all energy. Worshipped for health, vitality, and success.",
     iconName: "Sun",
     color: "#D4851F",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Surya",
+    wikidataUrl: "https://www.wikidata.org/wiki/Q430567",
   },
   {
     id: "shani",
@@ -110,6 +130,8 @@ export const DEITIES: Deity[] = [
       "The deity of justice and karma. Worshipped on Saturdays for relief from planetary afflictions.",
     iconName: "Scale",
     color: "#3D3D3D",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Shani",
+    wikidataUrl: "https://www.wikidata.org/wiki/Q1068428",
   },
   {
     id: "navagraha",
@@ -120,6 +142,8 @@ export const DEITIES: Deity[] = [
       "The nine celestial bodies in Hindu astrology. Worshipped for planetary harmony and peace.",
     iconName: "Orbit",
     color: "#5D3A7A",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Navagraha",
+    wikidataUrl: "https://www.wikidata.org/wiki/Q1396330",
   },
   {
     id: "dattatreya",
@@ -130,6 +154,8 @@ export const DEITIES: Deity[] = [
       "The combined incarnation of Brahma, Vishnu, and Shiva. Revered as the supreme guru.",
     iconName: "Users",
     color: "#5D4037",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Dattatreya",
+    wikidataUrl: "https://www.wikidata.org/wiki/Q852311",
   },
   {
     id: "kartikeya",
@@ -140,6 +166,8 @@ export const DEITIES: Deity[] = [
       "The god of war and son of Shiva. Commander of the divine armies and bestower of courage.",
     iconName: "Sword",
     color: "#BF360C",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Kartikeya",
+    wikidataUrl: "https://www.wikidata.org/wiki/Q207174",
   },
   // ── New Deities ──
   {
@@ -151,6 +179,8 @@ export const DEITIES: Deity[] = [
       "The fierce goddess of time, destruction of evil, and liberation. Most powerful form of Shakti and the first of the Dasha Mahavidyas.",
     iconName: "Flame",
     color: "#1A1A2E",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Kali",
+    wikidataUrl: "https://www.wikidata.org/wiki/Q177190",
   },
   {
     id: "narasimha",
@@ -161,6 +191,8 @@ export const DEITIES: Deity[] = [
       "The man-lion avatar of Lord Vishnu. Fierce protector of devotees who destroyed the demon Hiranyakashipu.",
     iconName: "Shield",
     color: "#8B4513",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Narasimha",
+    wikidataUrl: "https://www.wikidata.org/wiki/Q202062",
   },
   {
     id: "radha",
@@ -171,6 +203,8 @@ export const DEITIES: Deity[] = [
       "The supreme goddess of love and devotion. Eternal consort of Lord Krishna and embodiment of Bhakti.",
     iconName: "Heart",
     color: "#C2185B",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Radha",
+    wikidataUrl: "https://www.wikidata.org/wiki/Q319551",
   },
   {
     id: "parvati",
@@ -181,6 +215,8 @@ export const DEITIES: Deity[] = [
       "The gentle goddess of fertility, love, and devotion. Consort of Lord Shiva and mother of Ganesha and Kartikeya.",
     iconName: "Flower2",
     color: "#AD1457",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Parvati",
+    wikidataUrl: "https://www.wikidata.org/wiki/Q190697",
   },
   {
     id: "sita",
@@ -191,6 +227,8 @@ export const DEITIES: Deity[] = [
       "The ideal woman and incarnation of Goddess Lakshmi. Consort of Lord Rama and embodiment of virtue and sacrifice.",
     iconName: "Leaf",
     color: "#2E7D32",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Sita",
+    wikidataUrl: "https://www.wikidata.org/wiki/Q203324",
   },
   {
     id: "bhairava",
@@ -201,6 +239,8 @@ export const DEITIES: Deity[] = [
       "The fierce manifestation of Lord Shiva associated with annihilation. Guardian deity of Kashi and protector from evil.",
     iconName: "Skull",
     color: "#1B1B2F",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Bhairava",
+    wikidataUrl: "https://www.wikidata.org/wiki/Q798541",
   },
   {
     id: "ayyappa",
@@ -211,6 +251,8 @@ export const DEITIES: Deity[] = [
       "The son of Shiva and Mohini (Vishnu). Worshipped primarily in South India, especially at Sabarimala temple in Kerala.",
     iconName: "Mountain",
     color: "#1565C0",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Ayyappan",
+    wikidataUrl: "https://www.wikidata.org/wiki/Q1113293",
   },
   {
     id: "jagannath",
@@ -221,6 +263,8 @@ export const DEITIES: Deity[] = [
       "The Lord of the Universe worshipped at Puri. A form of Vishnu/Krishna celebrated during the famous Rath Yatra.",
     iconName: "Globe",
     color: "#F57F17",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Jagannath",
+    wikidataUrl: "https://www.wikidata.org/wiki/Q379408",
   },
   {
     id: "kubera",
@@ -231,6 +275,8 @@ export const DEITIES: Deity[] = [
       "The god of wealth and the divine treasurer. King of Yakshas and guardian of the north direction.",
     iconName: "Coins",
     color: "#FFB300",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Kubera",
+    wikidataUrl: "https://www.wikidata.org/wiki/Q739527",
   },
   {
     id: "dhanvantari",
@@ -241,6 +287,8 @@ export const DEITIES: Deity[] = [
       "The physician of the gods and father of Ayurveda. Emerged during the churning of the ocean with the pot of amrit.",
     iconName: "Stethoscope",
     color: "#00695C",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Dhanvantari",
+    wikidataUrl: "https://www.wikidata.org/wiki/Q1228057",
   },
   {
     id: "gayatri",
@@ -251,6 +299,8 @@ export const DEITIES: Deity[] = [
       "The goddess personification of the Gayatri Mantra. The mother of the Vedas and bestower of spiritual wisdom.",
     iconName: "Sun",
     color: "#E65100",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Gayatri",
+    wikidataUrl: "https://www.wikidata.org/wiki/Q1498712",
   },
   {
     id: "ganga",
@@ -261,6 +311,8 @@ export const DEITIES: Deity[] = [
       "The sacred river goddess who descended from heaven. Purifier of sins and bestower of moksha.",
     iconName: "Waves",
     color: "#0277BD",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Ganga_in_Hinduism",
+    wikidataUrl: "https://www.wikidata.org/wiki/Q469934",
   },
   {
     id: "vitthal",
@@ -271,6 +323,8 @@ export const DEITIES: Deity[] = [
       "The standing form of Lord Krishna worshipped at Pandharpur. Central deity of the Varkari tradition in Maharashtra.",
     iconName: "Footprints",
     color: "#4A148C",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Vithoba",
+    wikidataUrl: "https://www.wikidata.org/wiki/Q1159007",
   },
   {
     id: "brahma",
@@ -281,6 +335,8 @@ export const DEITIES: Deity[] = [
       "The creator god in the Hindu trinity. Born from the cosmic golden egg and created all living beings.",
     iconName: "Sparkles",
     color: "#D84315",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Brahma",
+    wikidataUrl: "https://www.wikidata.org/wiki/Q182990",
   },
   {
     id: "agni",
@@ -291,6 +347,8 @@ export const DEITIES: Deity[] = [
       "The Vedic god of fire and divine messenger. Carries offerings to the gods and is invoked in all Vedic rituals.",
     iconName: "Flame",
     color: "#E53935",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Agni",
+    wikidataUrl: "https://www.wikidata.org/wiki/Q506015",
   },
   {
     id: "indra",
@@ -301,6 +359,8 @@ export const DEITIES: Deity[] = [
       "The king of gods and lord of heaven (Svarga). God of rain, thunder, and storms in the Vedic tradition.",
     iconName: "Zap",
     color: "#1976D2",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Indra",
+    wikidataUrl: "https://www.wikidata.org/wiki/Q15981",
   },
   {
     id: "vayu",
@@ -311,6 +371,8 @@ export const DEITIES: Deity[] = [
       "The god of wind and breath of life (Prana). Father of Hanuman and Bhima, worshipped for vitality and strength.",
     iconName: "Wind",
     color: "#78909C",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Vayu",
+    wikidataUrl: "https://www.wikidata.org/wiki/Q500669",
   },
   {
     id: "saibaba",
@@ -321,6 +383,8 @@ export const DEITIES: Deity[] = [
       "The saint of Shirdi who preached unity of all religions. Revered as a manifestation of the divine by millions.",
     iconName: "Heart",
     color: "#E65100",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Sai_Baba_of_Shirdi",
+    wikidataUrl: "https://www.wikidata.org/wiki/Q309450",
   },
 ];
 

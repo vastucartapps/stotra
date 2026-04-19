@@ -212,10 +212,16 @@ export default function GitaPage() {
             <h2 className="font-serif text-2xl font-bold text-brand mb-6">About the Bhagavad Gita</h2>
             <div className="prose prose-sm text-text-light leading-relaxed space-y-4">
               <p>
-                The Bhagavad Gita (श्रीमद्भगवद्गीता), often referred to as the &ldquo;Song of God,&rdquo; is a 700-verse
-                Hindu scripture that is part of the Indian epic Mahabharata (Bhishma Parva, chapters 23-40).
+                The Bhagavad Gita (श्रीमद्भगवद्गीता), often referred to as the &ldquo;Song of God,&rdquo; is a
+                Hindu scripture that is part of the Indian epic Mahabharata (Bhishma Parva, chapters 23&ndash;40).
                 It is a dialogue between Prince Arjuna and Lord Krishna, who serves as his charioteer on
                 the battlefield of Kurukshetra.
+              </p>
+              <p className="text-xs bg-cream/60 border border-border-light rounded-lg p-4 italic">
+                <strong>Editorial note on verse count:</strong> This site follows the Gita Press (Gorakhpur)
+                enumeration of <strong>701 verses</strong>. The Adi Shankaracharya commentary tradition
+                counts 700 verses, treating the opening verse of chapter 13 as combined with the first
+                regular verse. Our chapter-13 page shows 35 verses; total 701.
               </p>
               <p>
                 The Gita addresses the moral and philosophical dilemmas faced by Arjuna about fighting in a

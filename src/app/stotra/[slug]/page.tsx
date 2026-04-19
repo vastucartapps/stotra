@@ -96,10 +96,10 @@ export async function generateMetadata({
 
   // Title: trim subtitle after " - " or " — " for compact title tag
   const titleName = stotra.titleEn.split(/\s[-—]\s/)[0];
-  const deityName = deity?.name || "Hindu";
-  const titleWithPdf = `${titleName} in Sanskrit with Hindi Meaning & PDF | ${deityName} Stotra`;
-  const titleWithoutPdf = `${titleName} in Sanskrit with Hindi Meaning | ${deityName} Stotra`;
-  const title = titleWithPdf.length <= 85 ? titleWithPdf : titleWithoutPdf;
+  // Title template per 06 §P4.4: {Name} — {Devanagari} | Sanskrit, Hindi, PDF | Stotra by VastuCart
+  const titleFull = `${titleName} — ${stotra.title} | Sanskrit, Hindi, PDF | Stotra by VastuCart`;
+  const titleShort = `${titleName} — ${stotra.title} | Sanskrit, Hindi, PDF`;
+  const title = titleFull.length <= 85 ? titleFull : titleShort;
 
   // Description: capitalize first benefit
   const firstBenefit = stotra.benefits[0]
@@ -163,41 +163,81 @@ export default async function StotraPage({
   const companionStotras = getCompanionStotras(stotra.slug);
   const stotraFAQs = generateStotraFAQs(stotra, deity);
 
-  // Enhanced CreativeWork schema with reviewer/translator as author for E-E-A-T
-  const authorInfo = {
-    "@type": "Person" as const,
-    name: "Acharya Pushyadant Mishra",
-    url: `${APP_URL}/about-translations`,
-    jobTitle: "Vedic Scholar, Stotra Researcher & Sanskrit Translator",
+  // Two-node pattern per spec §2.1:
+  // #webpage = Article (the Next.js page), author = VastuCart Editorial via @id
+  // #work = CreativeWork (the ancient text), author = traditional author if known
+  const pageId = `${APP_URL}/stotra/${stotra.slug}#webpage`;
+  const workId = `${APP_URL}/stotra/${stotra.slug}#work`;
+  const breadcrumbId = `${APP_URL}/stotra/${stotra.slug}#breadcrumb`;
+
+  // Traditional author for #work node — only well-known cases
+  const TRADITIONAL_AUTHORS: Record<string, { name: string; sameAs?: string[] }> = {
+    "Tulsidas - Ramcharitmanas": {
+      name: "Goswami Tulsidas",
+      sameAs: ["https://en.wikipedia.org/wiki/Tulsidas", "https://www.wikidata.org/wiki/Q193466"],
+    },
+    "Adi Shankaracharya": {
+      name: "Adi Shankaracharya",
+      sameAs: ["https://en.wikipedia.org/wiki/Adi_Shankara", "https://www.wikidata.org/wiki/Q11345"],
+    },
+    "Valmiki Ramayana": {
+      name: "Valmiki",
+      sameAs: ["https://en.wikipedia.org/wiki/Valmiki", "https://www.wikidata.org/wiki/Q193267"],
+    },
+    "Mahabharata": {
+      name: "Vyasa",
+      sameAs: ["https://en.wikipedia.org/wiki/Vyasa", "https://www.wikidata.org/wiki/Q193563"],
+    },
   };
+  // Match by source field containing the key
+  let workAuthor: { "@type": "Person"; name: string; sameAs?: string[] } | undefined;
+  for (const [key, val] of Object.entries(TRADITIONAL_AUTHORS)) {
+    if (stotra.source?.includes(key.split(" - ")[0]) || stotra.source?.includes(key)) {
+      workAuthor = { "@type": "Person", name: val.name, ...(val.sameAs ? { sameAs: val.sameAs } : {}) };
+      break;
+    }
+  }
+  // Special case: Tulsidas composed Hanuman Chalisa as standalone, not as Ramcharitmanas part
+  if (stotra.slug === "hanuman-chalisa") {
+    workAuthor = {
+      "@type": "Person",
+      name: "Goswami Tulsidas",
+      sameAs: ["https://en.wikipedia.org/wiki/Tulsidas", "https://www.wikidata.org/wiki/Q193466"],
+    };
+  }
 
-  const keywordsArray = [
-    stotra.titleEn.toLowerCase(),
-    stotra.title,
-    deity?.name || "",
-    deity?.nameHi || "",
-    "stotra",
-    "prayer",
-    "hymn",
-    "hindu",
-    "sanskrit",
-    ...stotra.purposes,
-    ...stotra.days,
-  ].filter(Boolean);
+  const workNode: Record<string, unknown> = {
+    "@type": "CreativeWork",
+    "@id": workId,
+    name: stotra.titleEn,
+    alternateName: stotra.title,
+    inLanguage: ["sa", "hi"],
+    genre: "Hindu devotional hymn",
+  };
+  if (workAuthor) workNode.author = workAuthor;
+  if (stotra.source) {
+    const isBasedOnName =
+      stotra.slug === "hanuman-chalisa"
+        ? "Standalone composition by Tulsidas in Awadhi, late 16th century"
+        : stotra.source;
+    workNode.isBasedOn = { "@type": "CreativeWork", name: isBasedOnName };
+  }
 
-  const jsonLd = {
-    "@context": "https://schema.org",
+  const articleNode = {
     "@type": "Article",
-    headline: stotra.titleEn,
-    alternativeHeadline: stotra.title,
+    "@id": pageId,
+    url: `${APP_URL}/stotra/${stotra.slug}`,
+    mainEntityOfPage: pageId,
+    headline: `${stotra.titleEn} — ${stotra.title}`,
     description: stotra.seoDescription,
     image: `${APP_URL}/og-default.jpg`,
-    inLanguage: ["sa", "hi", "en"],
-    url: `${APP_URL}/stotra/${stotra.slug}`,
-    datePublished: stotra.createdAt,
-    dateModified: stotra.updatedAt,
+    inLanguage: "en",
+    isPartOf: { "@id": `${APP_URL}/#website` },
+    about: { "@id": workId },
+    author: { "@id": "https://blog.vastucart.in/authors/vastucart-editorial#person" },
     publisher: {
       "@type": "Organization",
+      "@id": "https://www.vastucart.in/#organization",
       name: "VastuCart",
       url: "https://vastucart.in",
       logo: {
@@ -205,20 +245,20 @@ export default async function StotraPage({
         url: `${APP_URL}/VastuCartLogo_1024.png`,
       },
     },
-    author: authorInfo,
-    about: {
-      "@type": "Thing",
-      name: deity?.name || stotra.deity,
-    },
-    genre: "Religious Text",
-    keywords: keywordsArray.join(", "),
-    wordCount: stotra.verseCount * 20, // Approximate words per verse
-    thumbnailUrl: `${APP_URL}/og-default.jpg`,
+    datePublished: stotra.createdAt,
+    dateModified: stotra.updatedAt,
+    breadcrumb: { "@id": breadcrumbId },
+  };
+
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [articleNode, workNode],
   };
 
   const breadcrumbJsonLd = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
+    "@id": breadcrumbId,
     itemListElement: [
       {
         "@type": "ListItem",

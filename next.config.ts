@@ -15,6 +15,15 @@ const nextConfig: NextConfig = {
       },
     ],
   },
+  async redirects() {
+    return [
+      {
+        source: "/about-translations",
+        destination: "/editorial-process",
+        permanent: true,
+      },
+    ];
+  },
   async headers() {
     return [
       {

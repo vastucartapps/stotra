@@ -58,7 +58,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${BASE_URL}/festival`, lastModified: new Date(), changeFrequency: "weekly", priority: 0.7 },
     { url: `${BASE_URL}/purpose`, lastModified: new Date(), changeFrequency: "weekly", priority: 0.7 },
     { url: `${BASE_URL}/search`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.5 },
-    { url: `${BASE_URL}/about-translations`, lastModified: new Date(), changeFrequency: "yearly", priority: 0.5 },
+    { url: `${BASE_URL}/editorial-process`, lastModified: new Date(), changeFrequency: "yearly", priority: 0.5 },
     { url: `${BASE_URL}/privacy-policy`, lastModified: new Date(), changeFrequency: "yearly", priority: 0.2 },
     { url: `${BASE_URL}/terms`, lastModified: new Date(), changeFrequency: "yearly", priority: 0.2 },
     { url: `${BASE_URL}/disclaimer`, lastModified: new Date(), changeFrequency: "yearly", priority: 0.2 },

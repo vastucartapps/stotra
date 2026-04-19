@@ -67,6 +67,8 @@ export interface Deity {
   iconName: string;
   color: string;
   image?: string;
+  wikipediaUrl?: string;
+  wikidataUrl?: string;
 }
 
 // ── Day ──

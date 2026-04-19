@@ -175,11 +175,11 @@ export function StotraContent({ stotra, deity, companionStotras }: StotraContent
         </div>
       )}
 
-      {/* Author Byline */}
+      {/* Editorial Byline */}
       <p className="text-xs text-text-muted px-6 md:px-8 pb-2">
-        Reviewed &amp; translated by{" "}
-        <Link href="/about-translations" className="text-brand hover:text-brand-light transition-colors">
-          Acharya Pushyadant Mishra
+        Prepared by{" "}
+        <Link href="/editorial-process" className="text-brand hover:text-brand-light transition-colors">
+          VastuCart Editorial
         </Link>
       </p>
 

@@ -2,7 +2,7 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { DEITIES, getDeityBySlug } from "@/data/deities";
-import { getStotrasByDeity, getTopStotrasForDeity } from "@/lib/stotras";
+import { getStotrasByPrimaryDeity, getStotrasBySecondaryDeity, getTopStotrasForDeity } from "@/lib/stotras";
 import { StotraCard } from "@/components/stotra/StotraCard";
 import { CategoryIcon } from "@/components/ui/CategoryIcon";
 
@@ -20,7 +20,7 @@ export async function generateMetadata({
   const { slug } = await params;
   const deity = getDeityBySlug(slug);
   if (!deity) return {};
-  const stotras = getStotrasByDeity(deity.id);
+  const stotras = getStotrasByPrimaryDeity(deity.id);
   const title = `${deity.name} Stotras in Sanskrit & Hindi — ${stotras.length} Prayers with PDF | VastuCart`;
   const description = `Complete collection of ${stotras.length} ${deity.name} stotras, chalisa and prayers in Sanskrit with Hindi meaning and free PDF download.`;
   return {
@@ -61,30 +61,56 @@ export default async function DeityPage({
   const deity = getDeityBySlug(slug);
   if (!deity) notFound();
 
-  const stotras = getStotrasByDeity(deity.id);
+  const stotras = getStotrasByPrimaryDeity(deity.id);
+
+  const pageId = `${APP_URL}/deity/${slug}#page`;
+  const deityId = `${APP_URL}/deity/${slug}#deity`;
+  const breadcrumbId = `${APP_URL}/deity/${slug}#breadcrumb`;
+
+  const sameAs: string[] = [];
+  if (deity.wikipediaUrl) sameAs.push(deity.wikipediaUrl);
+  if (deity.wikidataUrl) sameAs.push(deity.wikidataUrl);
+
+  const deityThingNode: Record<string, unknown> = {
+    "@type": "Thing",
+    "@id": deityId,
+    name: deity.name,
+    alternateName: deity.nameHi,
+    description: deity.description,
+  };
+  if (sameAs.length) deityThingNode.sameAs = sameAs;
 
   const collectionPageSchema = {
     "@context": "https://schema.org",
-    "@type": "CollectionPage",
-    name: `${deity.name} Stotras`,
-    description: `Sacred stotras and prayers dedicated to ${deity.name} (${deity.nameHi}).`,
-    url: `${APP_URL}/deity/${slug}`,
-    isPartOf: { "@id": `${APP_URL}/#website` },
-    mainEntity: {
-      "@type": "ItemList",
-      numberOfItems: stotras.length,
-      itemListElement: stotras.map((stotra, index) => ({
-        "@type": "ListItem",
-        position: index + 1,
-        name: stotra.titleEn,
-        url: `${APP_URL}/stotra/${stotra.slug}`,
-      })),
-    },
+    "@graph": [
+      {
+        "@type": "CollectionPage",
+        "@id": pageId,
+        url: `${APP_URL}/deity/${slug}`,
+        name: `${deity.name} Stotras`,
+        description: `Sacred stotras and prayers dedicated to ${deity.name} (${deity.nameHi}).`,
+        isPartOf: { "@id": `${APP_URL}/#website` },
+        about: { "@id": deityId },
+        breadcrumb: { "@id": breadcrumbId },
+        mainEntity: {
+          "@type": "ItemList",
+          numberOfItems: stotras.length,
+          itemListElement: stotras.map((stotra, index) => ({
+            "@type": "ListItem",
+            position: index + 1,
+            name: stotra.titleEn,
+            url: `${APP_URL}/stotra/${stotra.slug}`,
+          })),
+        },
+      },
+      deityThingNode,
+    ],
   };
 
   const breadcrumbSchema = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
+    "@id": breadcrumbId,
     itemListElement: [
       {
         "@type": "ListItem",
@@ -190,6 +216,26 @@ export default async function DeityPage({
           </p>
         </div>
       )}
+
+      {/* Also Featuring [Deity] — stotras where this deity is secondary */}
+      {(() => {
+        const secondary = getStotrasBySecondaryDeity(deity.id);
+        return secondary.length > 0 ? (
+          <div className="mt-12">
+            <h2 className="font-serif text-xl font-semibold text-brand mb-2">
+              Also Featuring {deity.name}
+            </h2>
+            <p className="text-sm text-text-muted mb-5">
+              Stotras primarily addressed to other deities that also invoke {deity.name}.
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+              {secondary.slice(0, 12).map((s) => (
+                <StotraCard key={s.slug} stotra={s} />
+              ))}
+            </div>
+          </div>
+        ) : null;
+      })()}
 
       {/* Most Recited Stotras */}
       {stotras.length > 0 && (() => {

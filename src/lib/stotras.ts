@@ -73,6 +73,18 @@ export function getStotrasByDeity(deity: DeityId): Stotra[] {
   );
 }
 
+/** Only stotras where this deity is the PRIMARY focus. */
+export function getStotrasByPrimaryDeity(deity: DeityId): Stotra[] {
+  return getAllStotras().filter((s) => s.deity === deity);
+}
+
+/** Stotras that FEATURE this deity as secondary (not primary). */
+export function getStotrasBySecondaryDeity(deity: DeityId): Stotra[] {
+  return getAllStotras().filter(
+    (s) => s.deity !== deity && s.secondaryDeities?.includes(deity)
+  );
+}
+
 export function getStotrasByDay(day: DayId): Stotra[] {
   return getAllStotras().filter((s) => s.days.includes(day));
 }
@@ -214,7 +226,8 @@ export function getStotraCount(): number {
 }
 
 export function getStotraCountByDeity(deity: DeityId): number {
-  return getStotrasByDeity(deity).length;
+  // Primary-only count for honest headline numbers on deity cards
+  return getStotrasByPrimaryDeity(deity).length;
 }
 
 // Save a stotra to a JSON file

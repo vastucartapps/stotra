@@ -28,7 +28,7 @@ const ABOUT_LINKS = [
   { label: "About VastuCart", href: "https://vastucart.in", external: true },
   { label: "VastuCart Store", href: "https://store.vastucart.in", external: true },
   { label: "Blog", href: "https://blog.vastucart.in", external: true },
-  { label: "About Our Translations", href: "/about-translations" },
+  { label: "Editorial Process", href: "/editorial-process" },
   { label: "Privacy Policy", href: "/privacy-policy" },
   { label: "Terms of Service", href: "/terms" },
   { label: "Disclaimer", href: "/disclaimer" },
