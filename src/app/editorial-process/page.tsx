@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { buildStaticArticleGraph } from "@/lib/schema";
 
 const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
 
@@ -20,20 +21,21 @@ export const metadata: Metadata = {
 };
 
 export default function EditorialProcessPage() {
-  const breadcrumbSchema = {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Home", item: APP_URL },
-      { "@type": "ListItem", position: 2, name: "Editorial Process", item: `${APP_URL}/editorial-process` },
-    ],
-  };
+  const graph = buildStaticArticleGraph({
+    path: "/editorial-process",
+    headline: "Editorial Process — How We Prepare Stotra Translations",
+    description:
+      "How VastuCart Editorial prepares the Sanskrit, transliteration, and Hindi meaning for every stotra on this site — our sources, our translation approach, and how you can report corrections.",
+    breadcrumbName: "Editorial Process",
+    datePublished: "2026-04-10",
+    dateModified: "2026-04-19",
+  });
 
   return (
     <div className="mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(graph) }}
       />
 
       <nav className="flex items-center gap-2 text-xs text-text-muted mb-8">
@@ -106,7 +108,7 @@ export default function EditorialProcessPage() {
               </li>
             </ul>
             <p>
-              When a text's provenance is uncertain, we write &ldquo;preserved in the classical
+              When a text&apos;s provenance is uncertain, we write &ldquo;preserved in the classical
               Parasari tradition&rdquo; or &ldquo;traditional composition, precise source
               uncertain&rdquo; rather than naming a random Purana. We would rather leave a
               field blank than fabricate a citation.

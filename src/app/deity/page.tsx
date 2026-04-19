@@ -3,6 +3,7 @@ import Link from "next/link";
 import { DEITIES } from "@/data/deities";
 import { getStotraCountByDeity } from "@/lib/stotras";
 import { CategoryIcon } from "@/components/ui/CategoryIcon";
+import { buildHubPageGraph, STOTRA_BASE } from "@/lib/schema";
 
 const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
 
@@ -38,54 +39,23 @@ export const metadata: Metadata = {
 };
 
 export default function DeityListPage() {
-  const collectionPageSchema = {
-    "@context": "https://schema.org",
-    "@type": "CollectionPage",
+  const graph = buildHubPageGraph({
+    path: "/deity",
     name: "Stotras by Deity",
     description:
-      "Browse our complete collection of Hindu stotras organized by deity.",
-    url: `${APP_URL}/deity`,
-    isPartOf: { "@id": `${APP_URL}/#website` },
-    mainEntity: {
-      "@type": "ItemList",
-      numberOfItems: DEITIES.length,
-      itemListElement: DEITIES.map((deity, index) => ({
-        "@type": "ListItem",
-        position: index + 1,
-        name: deity.name,
-        url: `${APP_URL}/deity/${deity.slug}`,
-      })),
-    },
-  };
-
-  const breadcrumbSchema = {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    itemListElement: [
-      {
-        "@type": "ListItem",
-        position: 1,
-        name: "Home",
-        item: APP_URL,
-      },
-      {
-        "@type": "ListItem",
-        position: 2,
-        name: "Deities",
-        item: `${APP_URL}/deity`,
-      },
-    ],
-  };
+      "Browse Hindu stotras organized by deity — Ganesha, Shiva, Vishnu, Hanuman, Lakshmi, Durga, Krishna, Rama, and more.",
+    breadcrumbName: "Deities",
+    items: DEITIES.map((d) => ({
+      name: d.name,
+      url: `${STOTRA_BASE}/deity/${d.slug}`,
+    })),
+  });
 
   return (
     <div className="mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionPageSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(graph) }}
       />
 
       <div className="text-center mb-12">

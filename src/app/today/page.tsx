@@ -3,6 +3,7 @@ import { getTodayDay } from "@/data/days";
 import { getDeityById } from "@/data/deities";
 import { getTodaysStotras } from "@/lib/stotras";
 import { StotraCard } from "@/components/stotra/StotraCard";
+import { buildHubPageGraph, STOTRA_BASE } from "@/lib/schema";
 
 const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
 
@@ -41,30 +42,22 @@ export default function TodayPage() {
   const stotras = getTodaysStotras();
   const deities = day.deities.map((id) => getDeityById(id)).filter(Boolean);
 
-  const collectionPageSchema = {
-    "@context": "https://schema.org",
-    "@type": "CollectionPage",
-    name: `Today's Stotras - ${day.name}`,
+  const graph = buildHubPageGraph({
+    path: "/today",
+    name: `Today's Stotras — ${day.name}`,
     description: `Stotras recommended for today (${day.name} / ${day.nameHi}).`,
-    url: `${APP_URL}/today`,
-    isPartOf: { "@id": `${APP_URL}/#website` },
-    mainEntity: {
-      "@type": "ItemList",
-      numberOfItems: stotras.length,
-      itemListElement: stotras.map((stotra, index) => ({
-        "@type": "ListItem",
-        position: index + 1,
-        name: stotra.titleEn,
-        url: `${APP_URL}/stotra/${stotra.slug}`,
-      })),
-    },
-  };
+    breadcrumbName: "Today's Stotras",
+    items: stotras.map((s) => ({
+      name: s.titleEn,
+      url: `${STOTRA_BASE}/stotra/${s.slug}`,
+    })),
+  });
 
   return (
     <div className="mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionPageSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(graph) }}
       />
 
       <div className="text-center mb-12">

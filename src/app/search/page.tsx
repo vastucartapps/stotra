@@ -39,27 +39,12 @@ export const metadata: Metadata = {
 export default function SearchPage() {
   const allStotras = getAllStotras();
 
-  const searchActionSchema = {
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    url: APP_URL,
-    potentialAction: {
-      "@type": "SearchAction",
-      target: {
-        "@type": "EntryPoint",
-        urlTemplate: `${APP_URL}/search?q={search_term_string}`,
-      },
-      "query-input": "required name=search_term_string",
-    },
-  };
+  // /search is noindex — no schema. The canonical WebSite + SearchAction
+  // are emitted on the homepage via buildStotraWebsiteSchema (lib/schema/website.ts)
+  // and must not be re-declared here.
 
   return (
     <div className="mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8 py-12">
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(searchActionSchema) }}
-      />
-
       <div className="text-center mb-10">
         <h1 className="font-serif text-4xl font-bold text-brand mb-3">Search Stotras</h1>
         <p className="text-text-light max-w-lg mx-auto">

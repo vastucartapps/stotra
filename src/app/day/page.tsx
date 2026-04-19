@@ -4,6 +4,7 @@ import { CategoryIcon } from "@/components/ui/CategoryIcon";
 import { DAYS, getTodayDay } from "@/data/days";
 import { getDeityById } from "@/data/deities";
 import { getStotrasByDay } from "@/lib/stotras";
+import { buildHubPageGraph, STOTRA_BASE } from "@/lib/schema";
 
 const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
 
@@ -41,54 +42,23 @@ export const metadata: Metadata = {
 export default function DayListPage() {
   const todayDay = getTodayDay();
 
-  const collectionPageSchema = {
-    "@context": "https://schema.org",
-    "@type": "CollectionPage",
+  const graph = buildHubPageGraph({
+    path: "/day",
     name: "Stotras by Day of the Week",
     description:
-      "Find which stotras to recite each day of the week based on Hindu tradition.",
-    url: `${APP_URL}/day`,
-    isPartOf: { "@id": `${APP_URL}/#website` },
-    mainEntity: {
-      "@type": "ItemList",
-      numberOfItems: DAYS.length,
-      itemListElement: DAYS.map((day, index) => ({
-        "@type": "ListItem",
-        position: index + 1,
-        name: `${day.name} (${day.nameHi})`,
-        url: `${APP_URL}/day/${day.slug}`,
-      })),
-    },
-  };
-
-  const breadcrumbSchema = {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    itemListElement: [
-      {
-        "@type": "ListItem",
-        position: 1,
-        name: "Home",
-        item: APP_URL,
-      },
-      {
-        "@type": "ListItem",
-        position: 2,
-        name: "Days",
-        item: `${APP_URL}/day`,
-      },
-    ],
-  };
+      "Find which stotras to recite each day of the week — Monday for Shiva, Tuesday for Hanuman, Wednesday for Ganesha, and more.",
+    breadcrumbName: "Days",
+    items: DAYS.map((d) => ({
+      name: `${d.name} (${d.nameHi})`,
+      url: `${STOTRA_BASE}/day/${d.slug}`,
+    })),
+  });
 
   return (
     <div className="mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionPageSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(graph) }}
       />
 
       <div className="text-center mb-12">

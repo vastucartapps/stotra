@@ -3,6 +3,7 @@ import Link from "next/link";
 import { PURPOSES } from "@/data/purposes";
 import { getStotrasByPurpose } from "@/lib/stotras";
 import { CategoryIcon } from "@/components/ui/CategoryIcon";
+import { buildHubPageGraph, STOTRA_BASE } from "@/lib/schema";
 
 const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
 
@@ -35,53 +36,23 @@ export const metadata: Metadata = {
 };
 
 export default function PurposeListPage() {
-  const collectionPageSchema = {
-    "@context": "https://schema.org",
-    "@type": "CollectionPage",
+  const graph = buildHubPageGraph({
+    path: "/purpose",
     name: "Stotras by Purpose",
-    description: "Find stotras that serve your spiritual needs, organized by purpose.",
-    url: `${APP_URL}/purpose`,
-    isPartOf: { "@id": `${APP_URL}/#website` },
-    mainEntity: {
-      "@type": "ItemList",
-      numberOfItems: PURPOSES.length,
-      itemListElement: PURPOSES.map((purpose, index) => ({
-        "@type": "ListItem",
-        position: index + 1,
-        name: `${purpose.name} (${purpose.nameHi})`,
-        url: `${APP_URL}/purpose/${purpose.slug}`,
-      })),
-    },
-  };
-
-  const breadcrumbSchema = {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    itemListElement: [
-      {
-        "@type": "ListItem",
-        position: 1,
-        name: "Home",
-        item: APP_URL,
-      },
-      {
-        "@type": "ListItem",
-        position: 2,
-        name: "Purpose",
-        item: `${APP_URL}/purpose`,
-      },
-    ],
-  };
+    description:
+      "Find stotras for protection, wealth, health, peace, knowledge, spiritual growth, and more.",
+    breadcrumbName: "Purpose",
+    items: PURPOSES.map((p) => ({
+      name: `${p.name} (${p.nameHi})`,
+      url: `${STOTRA_BASE}/purpose/${p.slug}`,
+    })),
+  });
 
   return (
     <div className="mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionPageSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(graph) }}
       />
 
       <div className="text-center mb-12">

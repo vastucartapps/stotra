@@ -9,8 +9,14 @@ export type { SchemaFAQItem } from "./faqPage";
 export {
   buildDeityPageGraph,
   buildTaxonomyPageGraph,
+  buildHubPageGraph,
+  buildStaticArticleGraph,
 } from "./collectionPage";
-export type { TaxonomyPageInput } from "./collectionPage";
+export type {
+  TaxonomyPageInput,
+  HubPageInput,
+  StaticArticleInput,
+} from "./collectionPage";
 export {
   buildGitaBookSchema,
   buildGitaChapterGraph,

@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { HINDU_MONTHS, WEEKLY_VRAT_KATHAS } from "@/data/vrat-katha";
 import { getStotraBySlug } from "@/lib/stotras";
+import { buildHubPageGraph, STOTRA_BASE } from "@/lib/schema";
 
 const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
 
@@ -20,20 +21,30 @@ export const metadata: Metadata = {
 };
 
 export default function VratKathaPage() {
-  const breadcrumbSchema = {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Home", item: APP_URL },
-      { "@type": "ListItem", position: 2, name: "Vrat Katha", item: `${APP_URL}/vrat-katha` },
-    ],
-  };
+  const kathaSlugs = new Set<string>();
+  WEEKLY_VRAT_KATHAS.forEach((w) => kathaSlugs.add(w.slug));
+  HINDU_MONTHS.forEach((m) => m.kathas.forEach((s) => kathaSlugs.add(s)));
+  const items = Array.from(kathaSlugs)
+    .map((slug) => {
+      const k = getStotraBySlug(slug);
+      return k ? { name: k.titleEn, url: `${STOTRA_BASE}/stotra/${k.slug}` } : null;
+    })
+    .filter((x): x is { name: string; url: string } => x !== null);
+
+  const graph = buildHubPageGraph({
+    path: "/vrat-katha",
+    name: "Vrat Katha — Hindu Fasting Stories",
+    description:
+      "Complete collection of Hindu Vrat Kathas organized by 12 months (Vikram Samvat) and weekly vrats — Satyanarayan, Karwa Chauth, Ekadashi, Somvar Vrat, and more in Hindi with transliteration and free PDF.",
+    breadcrumbName: "Vrat Katha",
+    items,
+  });
 
   return (
     <div>
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(graph) }}
       />
 
       {/* Hero */}
