@@ -39,8 +39,8 @@ export function buildStotraWebsiteSchema(stotraCount: number): object {
       {
         "@type": "Brand",
         "@id": STOTRA_BRAND_ID,
-        name: "VastuCart\u00AE",
-        url: "https://vastucart.in/",
+        name: "Stotra by VastuCart",
+        url: `${STOTRA_BASE}/`,
         logo: ORG_LOGO,
         slogan: "Divinely Perfect",
       },
