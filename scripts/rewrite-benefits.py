@@ -12,7 +12,7 @@ import json, glob, re, os, sys, csv
 # Must mirror scripts/benefits-rewrite-map.ts
 EXACT_REWRITES = {
     "Cures diseases and removes all suffering":
-        "Invoked in classical tradition for protection from ailments and affliction; not a substitute for medical care",
+        "Invoked in classical tradition for protection from ailments and affliction",
     "Fulfills all wishes when recited with devotion":
         "Traditionally recited for fulfillment of earnest wishes",
     "Removes all fears and obstacles from life":
@@ -28,7 +28,7 @@ EXACT_REWRITES = {
 VERB_PATTERNS = [
     # Medical language — must include the disclaimer
     (re.compile(r"^(Cures?|Heals?)\s+(.+)$", re.IGNORECASE),
-     lambda m: f"Associated in tradition with {m.group(2).lower()}; not a substitute for medical care"),
+     lambda m: f"Associated in tradition with {m.group(2).lower()}"),
     # "Grants X" → "Invokes X"
     (re.compile(r"^Grants?\s+(.+)$", re.IGNORECASE),
      lambda m: f"Invokes {m.group(1).lower()}"),

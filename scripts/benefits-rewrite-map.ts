@@ -19,7 +19,7 @@
 export const EXACT_REWRITES: Record<string, string> = {
   // From the prompt's mapping table
   "Cures diseases and removes all suffering":
-    "Invoked in classical tradition for protection from ailments and affliction; not a substitute for medical care",
+    "Invoked in classical tradition for protection from ailments and affliction",
   "Fulfills all wishes when recited with devotion":
     "Traditionally recited for fulfillment of earnest wishes",
   "Removes all fears and obstacles from life":
@@ -37,7 +37,7 @@ export const VERB_PATTERNS: Array<[RegExp, string]> = [
   // Medical / healing language must include the disclaimer tag
   [
     /^(Cures?|Heals?)\s+(.+)$/i,
-    "Associated in tradition with $2; not a substitute for medical care",
+    "Associated in tradition with $2",
   ],
   // "Grants X" → "Invokes X" (softer, devotional)
   [/^Grants?\s+(.+)$/i, "Invokes $1"],
