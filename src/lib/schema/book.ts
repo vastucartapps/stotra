@@ -6,8 +6,8 @@
 import {
   STOTRA_BASE,
   STOTRA_WEBSITE_ID,
-  ORG_ID,
-  EDITORIAL_PERSON_ID,
+  EDITORIAL_AUTHOR_REF,
+  ORG_PUBLISHER_REF,
 } from "./ids";
 import type { GitaChapter, GitaVerse } from "@/types";
 
@@ -34,7 +34,7 @@ export function buildGitaBookSchema(chapters: GitaChapter[]): object {
     genre: "Hindu scripture",
     bookFormat: "https://schema.org/EBook",
     isPartOf: { "@id": STOTRA_WEBSITE_ID },
-    publisher: { "@id": ORG_ID },
+    publisher: ORG_PUBLISHER_REF,
     author: VYASA_PERSON,
     hasPart: chapters.map((c) => ({
       "@id": `${STOTRA_BASE}/gita/${c.slug}#chapter`,
@@ -104,7 +104,7 @@ export function buildGitaVerseGraph(
           "@id": `${STOTRA_BASE}/gita/${chapter.slug}#chapter`,
         },
         position: verse.verseNumber,
-        publisher: { "@id": ORG_ID },
+        publisher: ORG_PUBLISHER_REF,
       },
       {
         "@type": "Article",
@@ -117,9 +117,8 @@ export function buildGitaVerseGraph(
         inLanguage: "en",
         about: { "@id": verseId },
         isPartOf: { "@id": STOTRA_WEBSITE_ID },
-        author: { "@id": EDITORIAL_PERSON_ID },
-        publisher: { "@id": ORG_ID },
-        breadcrumb: { "@id": breadcrumbId },
+        author: EDITORIAL_AUTHOR_REF,
+        publisher: ORG_PUBLISHER_REF,
       },
       {
         "@type": "BreadcrumbList",

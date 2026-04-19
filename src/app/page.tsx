@@ -100,8 +100,9 @@ export default function Home() {
               </span>
             </h1>
             <p className="text-lg text-white/70 leading-relaxed mb-8 max-w-2xl mx-auto">
-              Explore our comprehensive collection of stotras, chalisa, and sacred hymns
-              in Sanskrit and Hindi with transliteration, meaning, and free PDF downloads.
+              The largest open collection of Hindu stotras, chalisas, aartis, sahasranamas,
+              kavachams, and Vedic suktams &mdash; plus the complete Bhagavad Gita and 40 vrat kathas.
+              Every text in Devanagari Sanskrit with IAST transliteration, Hindi arth, and free PDF download.
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-3">
               <Link
@@ -135,6 +136,68 @@ export default function Home() {
               fill="#FFFBF5"
             />
           </svg>
+        </div>
+      </section>
+
+      {/* -- About Stotra by VastuCart -- */}
+      <section className="py-12 md:py-16">
+        <div className="mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8">
+          <div className="max-w-4xl mx-auto">
+            <div className="text-center mb-8">
+              <h2 className="font-serif text-3xl md:text-4xl font-bold text-brand mb-3">
+                About Stotra by VastuCart
+              </h2>
+              <div className="mx-auto w-24 h-1 rounded-full bg-gradient-to-r from-brand via-gold to-saffron" />
+            </div>
+
+            <div className="prose prose-sm md:prose-base text-text-light leading-relaxed space-y-4 max-w-none">
+              <p>
+                <strong>Stotra by VastuCart</strong> is the largest open reference library of
+                Hindu devotional texts on the web. Every stotra, chalisa, sahasranama, ashtakam,
+                kavacham, aarti, and Vedic suktam is presented in Devanagari Sanskrit with
+                IAST-style transliteration, Hindi arth, word-by-word meaning where available,
+                traditional viniyog (ritual framing), and free PDF download. The site is
+                organised by deity, day of the week, festival, ritual purpose, and textual type.
+              </p>
+              <p>
+                Our sources are classical: the Shiva, Vishnu, Bhagavata, Devi Bhagavata,
+                Markandeya, and Skanda Puranas; the Vedic Samhitas; the Ramcharitmanas and Vinay
+                Patrika of Goswami Tulsidas; the stotra corpus of Adi Shankaracharya; and the
+                Agamic and Tantric literature. Where a text's provenance is uncertain we say so
+                plainly rather than invent a citation. Every translation is editorial work by
+                VastuCart Editorial, sourced from the mula (root) text, not from secondary
+                aggregated collections.
+              </p>
+              <p>
+                Beyond the stotra corpus, the complete <strong>Bhagavad Gita</strong> is
+                presented verse-by-verse across 18 chapters (701 verses per the Gita Press
+                enumeration), and 40 <strong>vrat kathas</strong> cover the 12-month Vikram
+                Samvat calendar and the weekly vrats. A daily Stotra of the Day and Gita Shloka
+                of the Day are drawn from the same collection.
+              </p>
+            </div>
+
+            {/* Stats band */}
+            <div className="mt-10 grid grid-cols-2 md:grid-cols-5 gap-3">
+              {[
+                { n: allStotras.length, label: "Stotras" },
+                { n: DEITIES.length, label: "Deities" },
+                { n: 701, label: "Gita Verses" },
+                { n: 40, label: "Vrat Kathas" },
+                { n: 104, label: "Taxonomy Hubs" },
+              ].map((s) => (
+                <div
+                  key={s.label}
+                  className="bg-white rounded-xl border border-border-light p-4 text-center"
+                >
+                  <p className="font-serif text-2xl md:text-3xl font-bold text-brand">
+                    {s.n}
+                  </p>
+                  <p className="text-xs text-text-muted mt-1">{s.label}</p>
+                </div>
+              ))}
+            </div>
+          </div>
         </div>
       </section>
 
@@ -174,6 +237,94 @@ export default function Home() {
                 </Link>
               );
             })}
+          </div>
+        </div>
+      </section>
+
+      {/* -- Types of Hindu Stotras -- */}
+      <section className="py-16 md:py-20 bg-white/40">
+        <div className="mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-12">
+            <h2 className="font-serif text-3xl md:text-4xl font-bold text-brand mb-3">
+              Types of Hindu Stotras
+            </h2>
+            <p className="text-text-light max-w-2xl mx-auto">
+              Hindu devotional literature spans several classical forms, each with its own
+              structure, history, and use in worship.
+            </p>
+            <div className="mt-4 mx-auto w-24 h-1 rounded-full bg-gradient-to-r from-brand via-gold to-saffron" />
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+            {[
+              {
+                name: "Chalisa",
+                devanagari: "चालीसा",
+                summary:
+                  "A forty-verse devotional hymn (chalis = forty) in vernacular Hindi or Awadhi. The Hanuman Chalisa of Goswami Tulsidas is the most widely recited. Framing dohas bring a full Chalisa recitation to 43 verse-units.",
+                link: "/stotra?type=chalisa",
+                linkLabel: "Browse Chalisas",
+              },
+              {
+                name: "Sahasranama",
+                devanagari: "सहस्रनाम",
+                summary:
+                  "A thousand-name hymn of a deity, typically drawn from a Purana or Tantra. The Vishnu Sahasranama from the Mahabharata and the Lalita Sahasranama from the Brahmanda Purana are the most recited.",
+                link: "/stotra?type=sahasranama",
+                linkLabel: "Browse Sahasranamas",
+              },
+              {
+                name: "Ashtakam & Ashtottara",
+                devanagari: "अष्टकम् / अष्टोत्तरशतनामावली",
+                summary:
+                  "An ashtakam is an eight-verse hymn; an ashtottara-shatanamavali lists 108 sacred names. Most classical composers — Adi Shankaracharya above all — worked extensively in both forms.",
+                link: "/stotra?type=ashtakam",
+                linkLabel: "Browse Ashtakams",
+              },
+              {
+                name: "Kavacham",
+                devanagari: "कवचम्",
+                summary:
+                  "A devotional armour text invoking the deity as a protective shield over each part of the body. Kavachas are ritually recited before undertaking a major task or journey.",
+                link: "/stotra?type=kavacham",
+                linkLabel: "Browse Kavachams",
+              },
+              {
+                name: "Aarti",
+                devanagari: "आरती",
+                summary:
+                  "A short sung prayer accompanying the waving of lamps before a deity. Aartis close most Hindu temple and home worship rituals and are among the most popular sung Hindu prayers.",
+                link: "/stotra?type=aarti",
+                linkLabel: "Browse Aartis",
+              },
+              {
+                name: "Suktam",
+                devanagari: "सूक्तम्",
+                summary:
+                  "A Vedic hymn from the Rigveda, Atharvaveda, or Yajurveda. The Purusha Suktam, Shri Suktam, and Rudram are foundational Vedic chants recited in all traditional Hindu rituals.",
+                link: "/stotra?type=suktam",
+                linkLabel: "Browse Suktams",
+              },
+            ].map((t) => (
+              <div
+                key={t.name}
+                className="bg-white rounded-xl border border-border-light p-6 hover:border-gold/40 hover:shadow-card-hover transition-all duration-300"
+              >
+                <div className="flex items-baseline gap-3 mb-3">
+                  <h3 className="font-serif text-xl font-semibold text-brand">{t.name}</h3>
+                  <span className="devanagari-heading text-sm text-text-muted">
+                    {t.devanagari}
+                  </span>
+                </div>
+                <p className="text-sm text-text-light leading-relaxed mb-4">{t.summary}</p>
+                <Link
+                  href={t.link}
+                  className="text-sm font-medium text-saffron hover:text-orange transition-colors"
+                >
+                  {t.linkLabel} &rarr;
+                </Link>
+              </div>
+            ))}
           </div>
         </div>
       </section>
@@ -264,6 +415,56 @@ export default function Home() {
           />
         );
       })()}
+
+      {/* -- Most Recited Hindu Stotras -- */}
+      <section className="py-16 md:py-20">
+        <div className="mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-10">
+            <h2 className="font-serif text-3xl md:text-4xl font-bold text-brand mb-3">
+              Most Recited Hindu Stotras
+            </h2>
+            <p className="text-text-light max-w-2xl mx-auto">
+              The eight most widely recited stotras across Hindu tradition — every home, temple, and devotee knows these.
+            </p>
+            <div className="mt-4 mx-auto w-24 h-1 rounded-full bg-gradient-to-r from-brand via-gold to-saffron" />
+          </div>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+            {[
+              { slug: "hanuman-chalisa", name: "Hanuman Chalisa", devanagari: "हनुमान चालीसा", meta: "Tulsidas · 43 verses" },
+              { slug: "vishnu-sahasranama", name: "Vishnu Sahasranama", devanagari: "विष्णु सहस्रनाम", meta: "Mahabharata · 108 verses" },
+              { slug: "shiv-tandav-stotram", name: "Shiv Tandav Stotram", devanagari: "शिव ताण्डव स्तोत्रम्", meta: "Ravana · 17 verses" },
+              { slug: "lalita-sahasranama", name: "Lalita Sahasranama", devanagari: "ललिता सहस्रनाम", meta: "Brahmanda Purana" },
+              { slug: "durga-kavach", name: "Durga Kavach", devanagari: "दुर्गा कवच", meta: "Markandeya Purana" },
+              { slug: "ganesh-atharvashirsha", name: "Ganesh Atharvashirsha", devanagari: "गणेश अथर्वशीर्ष", meta: "Atharvaveda Upanishad" },
+              { slug: "aditya-hridayam", name: "Aditya Hridayam", devanagari: "आदित्य हृदयम्", meta: "Valmiki Ramayana" },
+              { slug: "ramraksha-stotra", name: "Ramraksha Stotra", devanagari: "राम रक्षा स्तोत्र", meta: "Budha Kaushika" },
+            ].map((s) => (
+              <Link
+                key={s.slug}
+                href={`/stotra/${s.slug}`}
+                className="group block bg-white rounded-xl p-5 border border-border-light hover:border-gold/40 hover:shadow-card-hover transition-all duration-300"
+              >
+                <p className="devanagari-heading text-lg text-brand group-hover:text-brand-light transition-colors leading-tight">
+                  {s.devanagari}
+                </p>
+                <p className="font-serif text-sm font-semibold text-text mt-1">{s.name}</p>
+                <p className="text-[11px] text-text-muted mt-2">{s.meta}</p>
+                <span className="text-xs font-medium text-saffron group-hover:text-orange transition-colors mt-3 inline-block">
+                  Read {s.name} &rarr;
+                </span>
+              </Link>
+            ))}
+          </div>
+          <div className="text-center mt-8">
+            <Link
+              href="/stotra"
+              className="text-sm font-medium text-brand hover:text-brand-light transition-colors"
+            >
+              View all {allStotras.length} stotras in the collection &rarr;
+            </Link>
+          </div>
+        </div>
+      </section>
 
       {/* -- Today's Stotras -- */}
       {todaysStotras.length > 0 && (
@@ -515,6 +716,30 @@ export default function Home() {
       </section>
 
       {/* -- FAQ Section -- */}
+      {/* -- How We Prepare Translations (E-E-A-T) -- */}
+      <section className="py-12 md:py-16">
+        <div className="mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8">
+          <div className="max-w-3xl mx-auto bg-white rounded-2xl border border-border-light p-6 md:p-8 text-center">
+            <h2 className="font-serif text-2xl font-bold text-brand mb-3">
+              How We Prepare Our Translations
+            </h2>
+            <p className="text-sm md:text-[15px] text-text-light leading-relaxed">
+              Every stotra, Gita verse, and vrat katha on this site is transcribed from classical
+              printed or digital editions by <strong>VastuCart Editorial</strong>. Our primary
+              references are the Gita Press (Gorakhpur) editions, the Ramcharitmanas of Tulsidas,
+              the Adi Shankaracharya stotra corpus, and the Vedic Samhitas. Where a text&apos;s
+              provenance is uncertain, we say so plainly rather than invent a citation.
+            </p>
+            <Link
+              href="/editorial-process"
+              className="inline-flex items-center gap-1 mt-4 text-sm font-medium text-brand hover:text-brand-light transition-colors"
+            >
+              Read our full editorial process &rarr;
+            </Link>
+          </div>
+        </div>
+      </section>
+
       <FAQSection />
     </>
   );

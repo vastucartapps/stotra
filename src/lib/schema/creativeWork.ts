@@ -7,8 +7,8 @@
 import {
   STOTRA_BASE,
   STOTRA_WEBSITE_ID,
-  ORG_ID,
-  EDITORIAL_PERSON_ID,
+  EDITORIAL_AUTHOR_REF,
+  ORG_PUBLISHER_REF,
   deityConceptId,
 } from "./ids";
 import type { Stotra, Deity } from "@/types";
@@ -110,6 +110,9 @@ export function buildStotraPageGraph(
   }
 
   // #webpage node — the Article
+  // Note: `breadcrumb` is a WebPage property, not Article — BreadcrumbList
+  // lives as a sibling @graph node with its own @id. Google picks it up
+  // without an explicit reference on Article.
   const articleNode = {
     "@type": "Article",
     "@id": pageId,
@@ -121,14 +124,14 @@ export function buildStotraPageGraph(
     inLanguage: "en",
     isPartOf: { "@id": STOTRA_WEBSITE_ID },
     about: { "@id": workId },
-    author: { "@id": EDITORIAL_PERSON_ID },
-    publisher: { "@id": ORG_ID },
+    author: EDITORIAL_AUTHOR_REF,
+    publisher: ORG_PUBLISHER_REF,
     datePublished: stotra.createdAt,
     dateModified: stotra.updatedAt,
-    breadcrumb: { "@id": breadcrumbId },
   };
 
-  // #breadcrumb node
+  // #breadcrumb node (standalone sibling — Article doesn't need a `breadcrumb`
+  // back-reference; Google finds this via the shared @graph)
   const breadcrumbNode = {
     "@type": "BreadcrumbList",
     "@id": breadcrumbId,

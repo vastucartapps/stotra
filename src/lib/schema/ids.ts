@@ -11,6 +11,23 @@ export const ORG_URL = "https://www.vastucart.in/";
 export const EDITORIAL_PERSON_ID =
   "https://blog.vastucart.in/authors/vastucart-editorial#person";
 
+/** Reference object for author @id with minimal hints — not a redefinition. */
+export const EDITORIAL_AUTHOR_REF = {
+  "@type": "Person",
+  "@id": EDITORIAL_PERSON_ID,
+  name: "VastuCart Editorial",
+  url: "https://blog.vastucart.in/authors/vastucart-editorial",
+} as const;
+
+/** Reference object for publisher @id with minimal hints — not a redefinition. */
+export const ORG_PUBLISHER_REF = {
+  "@type": "Organization",
+  "@id": ORG_ID,
+  name: "VastuCart",
+  url: ORG_URL,
+  logo: ORG_LOGO,
+} as const;
+
 export const STOTRA_WEBSITE_ID = "https://stotra.vastucart.in/#website";
 export const STOTRA_BRAND_ID = "https://stotra.vastucart.in/#brand";
 

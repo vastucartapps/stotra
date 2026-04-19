@@ -5,8 +5,8 @@
 import {
   STOTRA_BASE,
   STOTRA_WEBSITE_ID,
-  ORG_ID,
-  EDITORIAL_PERSON_ID,
+  EDITORIAL_AUTHOR_REF,
+  ORG_PUBLISHER_REF,
 } from "./ids";
 import type { Stotra } from "@/types";
 
@@ -34,11 +34,10 @@ export function buildVratKathaGraph(
       image: `${STOTRA_BASE}/og-default.jpg`,
       inLanguage: "en",
       isPartOf: { "@id": STOTRA_WEBSITE_ID },
-      author: { "@id": EDITORIAL_PERSON_ID },
-      publisher: { "@id": ORG_ID },
+      author: EDITORIAL_AUTHOR_REF,
+      publisher: ORG_PUBLISHER_REF,
       datePublished: vrat.createdAt,
       dateModified: vrat.updatedAt,
-      breadcrumb: { "@id": breadcrumbId },
     },
     {
       "@type": "BreadcrumbList",
