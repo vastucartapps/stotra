@@ -114,12 +114,16 @@ body {
   font-family: var(--font-devanagari);
   line-height: 2;
   letter-spacing: 0.02em;
+  overflow-wrap: break-word;
+  word-break: normal;
 }
 
 .devanagari-heading {
   font-family: var(--font-devanagari);
   line-height: 1.5;
   font-weight: 600;
+  overflow-wrap: break-word;
+  word-break: normal;
 }
 
 /* ── Gradient Utilities ── */

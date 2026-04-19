@@ -115,7 +115,7 @@ export default async function GitaChapterPage({
 
               <div className="flex-1 min-w-0">
                 {/* Devanagari */}
-                <p className="devanagari text-base text-text leading-relaxed line-clamp-2">
+                <p className="devanagari text-base text-text leading-relaxed line-clamp-2 break-words">
                   {verse.devanagari}
                 </p>
                 {/* English translation preview */}
