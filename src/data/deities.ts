@@ -386,6 +386,30 @@ export const DEITIES: Deity[] = [
     wikipediaUrl: "https://en.wikipedia.org/wiki/Sai_Baba_of_Shirdi",
     wikidataUrl: "https://www.wikidata.org/wiki/Q309450",
   },
+  {
+    id: "yama",
+    name: "Shree Yama",
+    nameHi: "श्री यम",
+    slug: "yama",
+    description:
+      "The Vedic god of righteousness and lord of dharma. Witness of all karmas, judge of departed souls, and brother of the river goddess Yamuna. Invoked during Bhai Dooj (Yama Dwitiya), Pitru Paksha, and rituals seeking dharmic guidance.",
+    iconName: "Scale",
+    color: "#3E2723",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Yama_(Hinduism)",
+    wikidataUrl: "https://www.wikidata.org/wiki/Q132638",
+  },
+  {
+    id: "savitri",
+    name: "Devi Savitri",
+    nameHi: "देवी सावित्री",
+    slug: "savitri",
+    description:
+      "Goddess Savitri, consort of Lord Brahma and one of the Pancha-Prakriti devis in the Brahma Vaivarta Purana. The pativrata ideal whose devotion brought her husband Satyavan back from Yama. Worshipped during Vat Savitri Vrat for marital harmony and the longevity of one's husband.",
+    iconName: "Crown",
+    color: "#B8860B",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Savitri_(goddess)",
+    wikidataUrl: "https://www.wikidata.org/wiki/Q3473538",
+  },
 ];
 
 export function getDeityById(id: string): Deity | undefined {

@@ -50,13 +50,33 @@ export interface Viniyog {
 
 // ── Deity ──
 export type DeityId =
-  | "ganesha" | "shiva" | "vishnu" | "hanuman" | "lakshmi"
-  | "durga" | "krishna" | "rama" | "saraswati" | "surya"
-  | "shani" | "navagraha" | "dattatreya" | "kartikeya"
-  | "kali" | "narasimha" | "radha" | "parvati" | "sita"
-  | "bhairava" | "ayyappa" | "jagannath" | "kubera"
-  | "dhanvantari" | "gayatri" | "ganga" | "vitthal"
-  | "brahma" | "agni" | "indra" | "vayu" | "saibaba";
+  // Trinity & primary devas
+  | "ganesha" | "shiva" | "vishnu" | "brahma" | "rudra"
+  // Vishnu avatars & forms
+  | "rama" | "krishna" | "narasimha" | "vamana" | "varaha"
+  | "hayagriva" | "narayana" | "jagannath" | "balabhadra"
+  // Devi forms
+  | "durga" | "lakshmi" | "saraswati" | "parvati" | "kali"
+  | "radha" | "sita" | "rukmini" | "subhadra" | "tara"
+  | "tripurasundari" | "lalita" | "bhudevi" | "savitri"
+  | "yamuna" | "ganga" | "narmada" | "gayatri" | "tulsi"
+  | "aditi"
+  // Bhakti / family of avatars
+  | "hanuman" | "lakshmana" | "garuda" | "nandi" | "prahlada"
+  | "yashoda" | "devaki" | "gopi" | "arjuna"
+  // Shaivite / regional
+  | "kartikeya" | "ayyappa" | "vitthal" | "bhairava" | "bhairav"
+  | "dattatreya" | "dhanvantari" | "kubera" | "kamadeva"
+  // Vedic devas
+  | "agni" | "indra" | "vayu" | "varuna" | "yama" | "surya"
+  | "ashwini-kumars" | "agastya"
+  // Navagraha (planets)
+  | "navagraha" | "shani" | "mangal" | "budha" | "brihaspati"
+  | "shukra" | "rahu" | "ketu" | "chandra"
+  // Ancestors
+  | "pitru"
+  // Modern saints
+  | "saibaba";
 
 export interface Deity {
   id: DeityId;
@@ -74,7 +94,7 @@ export interface Deity {
 // ── Day ──
 export type DayId =
   | "sunday" | "monday" | "tuesday" | "wednesday"
-  | "thursday" | "friday" | "saturday";
+  | "thursday" | "friday" | "saturday" | "daily";
 
 export interface Day {
   id: DayId;
@@ -86,27 +106,126 @@ export interface Day {
 
 // ── Festival ──
 export type FestivalId =
-  | "navratri" | "diwali" | "maha-shivaratri" | "ganesh-chaturthi"
-  | "hanuman-jayanti" | "janmashtami" | "ram-navami" | "saraswati-puja"
-  | "makar-sankranti" | "holi" | "guru-purnima" | "ekadashi"
-  | "kartik-purnima" | "nag-panchami"
-  | "chhath-puja" | "raksha-bandhan" | "karva-chauth" | "sharad-purnima"
-  | "akshaya-tritiya" | "vasant-panchami" | "dussehra"
-  | "govardhan-puja" | "dhanteras" | "dev-deepawali" | "tulsi-vivah"
-  | "vivaha-panchami" | "pradosha" | "purnima" | "amavasya"
-  | "ratha-saptami" | "skanda-shashthi" | "dattatreya-jayanti"
-  | "narasimha-jayanti" | "vaikuntha-ekadashi" | "gita-jayanti"
-  | "holika-dahan" | "maha-navami" | "anant-chaturdashi";
+  // Major pan-India festivals
+  | "navratri" | "chaitra-navratri" | "shakambhari-navratri"
+  | "diwali" | "dhanteras" | "govardhan-puja" | "bhai-dooj"
+  | "holi" | "holika-dahan" | "dussehra" | "vijayadashami"
+  | "maha-shivaratri" | "ganesh-chaturthi" | "anant-chaturdashi"
+  | "janmashtami" | "ram-navami" | "hanuman-jayanti"
+  // Devi & Shakta calendar
+  | "durga-puja" | "durga-ashtami" | "maha-navami" | "kali-puja"
+  | "lalita-jayanti" | "lalita-panchami" | "annapurna-jayanti"
+  | "gauri-puja" | "gauri-tritiya" | "gangaur" | "teej" | "hartalika-teej"
+  | "sita-navami" | "radha-ashtami" | "santoshi-mata-vrat"
+  | "saraswati-puja" | "vasant-panchami" | "basant-panchami"
+  | "varalakshmi-vrata" | "vaibhav-lakshmi-vrat" | "lakshmi-puja"
+  | "baglamukhi-jayanti" | "dhumavati-jayanti" | "shakambhari-navratri"
+  | "meenakshi-kalyanam" | "sheetala-saptami" | "basoda"
+  // Vishnu & avatar jayantis
+  | "narasimha-jayanti" | "narasimha-chaturdashi" | "vamana-jayanti"
+  | "varaha-jayanti" | "matsya-jayanti" | "kurma-jayanti"
+  | "parashurama-jayanti" | "kalki-jayanti" | "vishnu-jayanti"
+  | "hayagriva-jayanti" | "sudarshana-jayanti" | "madhva-navami"
+  | "rath-yatra" | "jagannath-rath-yatra" | "snana-yatra"
+  // Ekadashi family
+  | "ekadashi" | "vaikuntha-ekadashi" | "nirjala-ekadashi"
+  | "devshayani-ekadashi" | "devuthani-ekadashi" | "shyam-ekadashi"
+  | "ashadhi-ekadashi" | "kartiki-ekadashi"
+  // Shiva & Shaivite
+  | "pradosha" | "pradosh" | "shravan" | "shravan-somvar"
+  | "kaal-bhairav-ashtami" | "kala-bhairava-ashtami" | "bhairav-ashtami"
+  | "bhairava-jayanti" | "kalashtami" | "arudra-darshanam"
+  | "skanda-shashthi" | "skanda-shashti" | "kartikeya-jayanti"
+  | "vaikasi-visakam" | "thaipusam" | "mandala-puja" | "makara-vilakku"
+  // Krishna calendar
+  | "gita-jayanti" | "radha-ashtami" | "gopashtami"
+  // Ganesha
+  | "sankashti-chaturthi"
+  // Pitru & ancestors
+  | "pitru-paksha"
+  // Surya
+  | "makar-sankranti" | "ratha-saptami" | "chhath-puja"
+  // River goddess festivals
+  | "ganga-dussehra" | "ganga-jayanti" | "yamuna-jayanti"
+  | "yamuna-chhath" | "narmada-jayanti"
+  // Marriage / women observances
+  | "raksha-bandhan" | "karva-chauth" | "vat-savitri"
+  | "ahoi-ashtami" | "rishi-panchami" | "vivaha-panchami" | "vivah-panchami"
+  | "tulsi-vivah" | "akshaya-tritiya"
+  // Purnima / Amavasya / general
+  | "purnima" | "amavasya" | "kartik-purnima" | "sharad-purnima"
+  | "budh-purnima" | "guru-purnima" | "dev-deepawali"
+  // Saint & acharya jayantis
+  | "datta-jayanti" | "dattatreya-jayanti" | "shankaracharya-jayanti"
+  | "brahma-jayanti" | "gayatri-jayanti" | "dhanvantari-jayanti"
+  // Navagraha jayantis & observances
+  | "shani-jayanti" | "shani-amavasya" | "mangal-jayanti" | "shukra-jayanti"
+  | "graha-shanti" | "grahan-puja"
+  // Naga & serpent
+  | "nag-panchami" | "naga-panchami" | "garuda-panchami"
+  // Regional & misc
+  | "mahalaya" | "onam" | "satyanarayan-puja" | "vishwakarma-jayanti"
+  | "annakut" | "kumbh-mela" | "phalguna-mela" | "ambubachi"
+  | "brahmotsavam" | "vaishno-devi-yatra" | "badrinath-opening"
+  | "margashirsha-month" | "festival-worship" | "griha-pravesh";
 
 // ── Purpose ──
+// NOTE: This union absorbs all values currently used in src/data/stotras/*.json.
+// Many entries are duplicate-spellings (obstacle-removal vs removal-of-obstacles,
+// liberation vs moksha, abundance vs prosperity etc.) and will be consolidated by
+// the purpose-taxonomy migration script. Keep additions alphabetical within
+// thematic groups for review-ability.
 export type PurposeId =
-  | "protection" | "wealth" | "health" | "peace" | "knowledge"
-  | "devotion" | "removal-of-obstacles" | "marriage" | "children"
-  | "career" | "spiritual-growth" | "planetary-remedy"
-  | "victory" | "education" | "travel-safety" | "debt-removal"
-  | "enemy-protection" | "legal-victory" | "pregnancy" | "longevity"
-  | "mental-peace" | "vastu-dosh" | "kaal-sarp-dosh" | "mangal-dosh"
-  | "pitru-dosh" | "fear-removal" | "moksha";
+  // Core spiritual
+  | "devotion" | "spiritual-growth" | "moksha" | "liberation"
+  | "meditation" | "japa" | "chanting" | "kirtan" | "worship"
+  | "daily-worship" | "daily-prayer" | "morning-prayer"
+  | "archana-puja" | "abhishek-puja" | "aarti" | "yajna" | "fasting"
+  | "pilgrimage" | "festival-worship" | "ritual-success"
+  | "purification" | "sin-removal" | "removal-of-sins"
+  | "auspiciousness" | "surrender" | "vairagya"
+  // Wealth & prosperity
+  | "wealth" | "prosperity" | "abundance" | "business" | "business-success"
+  | "removal-of-poverty" | "debt-removal" | "debt-relief" | "debt-freedom"
+  | "property" | "agriculture"
+  // Health & vitality
+  | "health" | "healing" | "removal-of-diseases" | "longevity" | "vitality"
+  | "energy" | "good-sleep" | "mental-health" | "mental-peace" | "emotional-balance"
+  | "peace" | "harmony" | "happiness"
+  // Knowledge & wisdom
+  | "knowledge" | "wisdom" | "education" | "speech" | "creativity"
+  | "arts" | "artistic-talent" | "artistic-mastery" | "skill-enhancement"
+  // Family
+  | "marriage" | "marital-harmony" | "marital-bliss" | "saubhagya"
+  | "love" | "family" | "family-harmony" | "family-happiness" | "family-welfare"
+  | "children" | "children-welfare" | "protection-of-children"
+  | "fertility" | "pregnancy"
+  // Protection & security
+  | "protection" | "fear-removal" | "fearlessness" | "courage" | "strength"
+  | "enemy-protection" | "enemy-removal" | "removal-of-enemies"
+  | "occult-protection" | "evil-eye-removal" | "black-magic-removal"
+  | "removal-of-evil" | "travel-safety"
+  // Career & success
+  | "career" | "success" | "victory" | "leadership" | "power"
+  | "stability" | "new-beginnings" | "wish-fulfillment" | "fulfillment-of-desires"
+  | "desire-fulfillment" | "siddhi" | "mantra-siddhi"
+  // Obstacle removal
+  | "removal-of-obstacles" | "obstacle-removal"
+  // Legal
+  | "legal-victory" | "justice"
+  // Astrology / dosha
+  | "planetary-remedy" | "graha-shanti" | "vastu-dosh" | "vastu-shanti" | "vastu"
+  | "kaal-sarp-dosh" | "mangal-dosh" | "pitru-dosh" | "pitru-tarpan"
+  | "dosha-removal" | "removal-of-graha-dosha" | "sarpa-dosha-nivaran"
+  | "ancestral-blessings"
+  // Karma & guru
+  | "karma" | "karmic-healing" | "karmic-relief" | "forgiveness"
+  | "guru-kripa"
+  // Ethics & character
+  | "dharma" | "righteousness" | "truth" | "truthfulness"
+  | "ethics" | "moral-values" | "humility" | "patience" | "discipline"
+  | "determination" | "character-building" | "brahmacharya"
+  | "equality" | "celebration" | "beauty";
 
 export interface Festival {
   id: FestivalId;

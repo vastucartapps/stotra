@@ -22,12 +22,13 @@
     ],
     "days": [],
     "festivals": [
-        "diwali"
+        "diwali",
+        "ahoi-ashtami"
     ],
     "purposes": [
         "children",
         "protection",
-        "family-welfare",
+        "family-harmony",
         "devotion"
     ],
     "readingTimeMinutes": 10,
@@ -35,6 +36,6 @@
     "verseCount": 15,
     "source": "Traditional Folk Katha",
     "createdAt": "2026-03-30T00:00:00Z",
-    "updatedAt": "2026-03-30T00:00:00Z",
+    "updatedAt": "2026-05-05T12:30:00Z",
     "isPublished": true
 }

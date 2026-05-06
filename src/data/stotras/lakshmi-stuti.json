@@ -33,7 +33,6 @@
         "wealth",
         "prosperity",
         "devotion",
-        "abundance",
         "success"
     ],
     "readingTimeMinutes": 5,
@@ -41,6 +40,6 @@
     "verseCount": 10,
     "source": "Vishnu Purana (Indrakrita Stuti)",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-03-28T00:00:00Z",
+    "updatedAt": "2026-05-05T12:30:00Z",
     "isPublished": true
 }

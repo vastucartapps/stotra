@@ -34,13 +34,13 @@
         "protection",
         "health",
         "strength",
-        "obstacle-removal"
+        "removal-of-obstacles"
     ],
     "readingTimeMinutes": 10,
     "seoDescription": "Read Anjaneya Dandakam in Sanskrit with transliteration and Hindi meaning. Powerful prose-hymn narrating Hanuman's heroic deeds for protection and strength.",
     "verseCount": 12,
     "source": "Traditional (South Indian Tradition)",
     "createdAt": "2026-03-29T00:00:00Z",
-    "updatedAt": "2026-03-29T00:00:00Z",
+    "updatedAt": "2026-05-05T12:30:00Z",
     "isPublished": true
 }

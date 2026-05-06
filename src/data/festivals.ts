@@ -40,6 +40,8 @@ export const FESTIVALS: Festival[] = [
   { id: "holika-dahan", name: "Holika Dahan", nameHi: "होलिका दहन", slug: "holika-dahan", deities: ["vishnu", "narasimha"] },
   { id: "maha-navami", name: "Maha Navami", nameHi: "महानवमी", slug: "maha-navami", deities: ["durga"] },
   { id: "anant-chaturdashi", name: "Anant Chaturdashi", nameHi: "अनंत चतुर्दशी", slug: "anant-chaturdashi", deities: ["vishnu"] },
+  // ── Tier-1 expansion (May 2026) — added with new content batch ──
+  { id: "vat-savitri", name: "Vat Savitri Vrat", nameHi: "वट सावित्री व्रत", slug: "vat-savitri", deities: ["savitri", "yama", "brahma"] },
 ];
 
 export function getFestivalById(id: string): Festival | undefined {

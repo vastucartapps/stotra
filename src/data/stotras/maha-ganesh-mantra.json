@@ -32,7 +32,7 @@
         "removal-of-obstacles",
         "wealth",
         "knowledge",
-        "debt-relief",
+        "debt-removal",
         "protection"
     ],
     "readingTimeMinutes": 8,
@@ -40,6 +40,6 @@
     "verseCount": 12,
     "source": "Various Tantric and Puranic Sources",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-03-28T00:00:00Z",
+    "updatedAt": "2026-05-05T12:30:00Z",
     "isPublished": true
 }

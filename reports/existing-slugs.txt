@@ -1,0 +1,928 @@
+achyutashtakam	Achyutashtakam	अच्युताष्टकम्	vishnu
+aditya-hridayam	Aditya Hridayam	आदित्य हृदयम्	surya
+aditya-kavacham	Aditya Kavacham	आदित्य कवचम्	surya
+aditya-stotram	Aditya Stotram	आदित्य स्तोत्रम्	surya
+agni-ashtakam	Agni Ashtakam	अग्नि अष्टकम्	agni
+agni-chalisa	Agni Chalisa	अग्नि चालीसा	agni
+agni-dwadash-nama	Agni Dwadash Nama Stotram	अग्नि द्वादश नाम स्तोत्रम्	agni
+agni-gayatri	Agni Gayatri	अग्नि गायत्री	agni
+agni-kavacham	Agni Kavacham	श्री अग्नि कवचम्	agni
+agni-stotram	Agni Stotram	अग्नि स्तोत्रम्	agni
+agni-suktam	Agni Suktam	अग्नि सूक्तम्	agni
+ahoi-ashtami-vrat-katha	Ahoi Ashtami Vrat Katha	अहोई अष्टमी व्रत कथा	parvati
+akrura-stuti	Akrura Stuti	अक्रूर स्तुति	krishna
+amba-stuti	Amba Stuti	अम्बा स्तुति	durga
+ambika-ashtakam	Ambika Ashtakam	अम्बिका अष्टकम्	durga
+ananda-lahari	Ananda Lahari	आनन्दलहरी	parvati
+ananthashayana-stotram	Ananthashayana Stotram	श्री अनन्तशयन स्तोत्रम्	vishnu
+anjaneya-dandakam	Anjaneya Dandakam	श्री आञ्जनेय दण्डकम्	hanuman
+anjaneya-stotram	Anjaneya Stotram	आञ्जनेय स्तोत्रम्	hanuman
+annapurna-ashtakam	Annapurna Ashtakam	अन्नपूर्णा अष्टकम्	parvati
+annapurna-chalisa	Annapurna Chalisa	अन्नपूर्णा चालीसा	parvati
+annapurna-stotram-shankaracharya	Annapurna Stotram Shankaracharya	अन्नपूर्णा स्तोत्रम् (शंकराचार्य)	parvati
+annapurna-stotram	Annapurna Stotram	अन्नपूर्णा स्तोत्रम्	parvati
+apah-suktam	Apah Suktam	आपः सूक्तम्	vishnu
+aparajita-stotram	Aparajita Stotram	अपराजिता स्तोत्रम्	durga
+ardhanareeshwara-stotram	Ardhanareeshwara Stotram	अर्धनारीश्वर स्तोत्रम्	shiva
+argala-stotram	Argala Stotram	अर्गला स्तोत्रम्	durga
+arogya-suktam	Arogya Suktam	आरोग्य सूक्तम्	vishnu
+ashta-bhairava-stotram	Ashta Bhairava Stotram	अष्ट भैरव स्तोत्रम्	bhairava
+ashta-dikpalaka-stotram	Ashta Dikpalaka Stotram	श्री अष्ट दिक्पालक स्तोत्रम्	vishnu
+ashta-lakshmi-dhyanam	Ashta Lakshmi Dhyanam	अष्ट लक्ष्मी ध्यानम्	lakshmi
+ashta-lakshmi-kavacham	Ashta Lakshmi Kavacham	अष्ट लक्ष्मी कवचम्	lakshmi
+ashtalakshmi-stotram	Ashtalakshmi Stotram	अष्टलक्ष्मी स्तोत्रम्	lakshmi
+ashtavakra-gita-key-verses	Ashtavakra Gita Key Verses	अष्टावक्र गीता (मुख्य श्लोक)	vishnu
+ashtavinayak-stotram	Ashtavinayak Stotram	अष्टविनायक स्तोत्रम्	ganesha
+ashwattha-stotram	Ashwattha Stotram (Sacred Peepal Tree Prayer)	अश्वत्थ स्तोत्रम्	vishnu
+ashwini-kumara-stotram	Ashwini Kumara Stotram	अश्विनी कुमार स्तोत्रम्	surya
+atma-bodha	Atma Bodha	आत्मबोधः	shiva
+avadhuta-gita-key-verses	Avadhuta Gita - Key Verses	अवधूत गीता (प्रमुख श्लोक)	dattatreya
+avadhuta-stotram	Avadhuta Stotram	अवधूत स्तोत्रम्	dattatreya
+ayodhya-stotram	Ayodhya Stotram	अयोध्या स्तोत्रम्	rama
+ayushya-suktam	Ayushya Suktam	आयुष्य सूक्तम्	vishnu
+ayyappa-aarti	Ayyappa Aarti	अयप्पा आरती	ayyappa
+ayyappa-ashtakam	Ayyappa Ashtakam	अयप्पा अष्टकम्	ayyappa
+ayyappa-ashtottara-shatanamavali	Ayyappa Ashtottara Shatanamavali	श्री अयप्पा अष्टोत्तर शतनामावली	ayyappa
+ayyappa-chalisa	Ayyappa Chalisa	अयप्पा चालीसा	ayyappa
+ayyappa-dwadash-nama	Ayyappa Dwadash Nama Stotram	अय्यप्पा द्वादश नाम स्तोत्रम्	ayyappa
+ayyappa-gayatri	Ayyappa Gayatri	अय्यप्पा गायत्री	ayyappa
+ayyappa-kavacham	Ayyappa Kavacham	अय्यप्पा कवचम्	ayyappa
+ayyappa-pancharatnam	Ayyappa Pancharatnam	अय्यप्पा पञ्चरत्नम्	ayyappa
+ayyappa-sahasranama	Ayyappa Sahasranama Stotram	अयप्पा सहस्रनाम स्तोत्रम्	ayyappa
+ayyappa-stotram	Ayyappa Stotram	श्री अय्यप्पा स्तोत्रम्	ayyappa
+badrinath-aarti	Badrinath Aarti	बद्रीनाथ आरती	vishnu
+badrinath-stotram	Badrinath Stotram	श्री बदरीनाथ स्तोत्रम्	vishnu
+baglamukhi-kavacham	Baglamukhi Kavacham	बगलामुखी कवचम्	kali
+baglamukhi-stotram	Baglamukhi Stotram	बगलामुखी स्तोत्रम्	kali
+bajrang-baan	Bajrang Baan	बजरंग बाण	hanuman
+bala-mukundashtakam	Bala Mukundashtakam	श्री बालमुकुन्दाष्टकम्	krishna
+balakrishna-ashtakam	Balakrishna Ashtakam	बालकृष्ण अष्टकम्	krishna
+banke-bihari-aarti	Banke Bihari Aarti	बाँके बिहारी आरती	krishna
+batuk-bhairav-stotram	Batuk Bhairav Stotram	बटुक भैरव स्तोत्रम्	bhairava
+bhagavad-gita-chapter-1	Bhagavad Gita Chapter 1 - Arjuna Vishada Yoga	भगवद्गीता अध्याय १ - अर्जुनविषादयोग	krishna
+bhagavad-gita-chapter-10	Bhagavad Gita Chapter 10 - Vibhuti Yoga	भगवद्गीता अध्याय १० - विभूतियोग	krishna
+bhagavad-gita-chapter-11	Bhagavad Gita Chapter 11 - Vishwarupa Darshana Yoga	भगवद्गीता अध्याय ११ - विश्वरूपदर्शनयोग	krishna
+bhagavad-gita-chapter-12	Bhagavad Gita Chapter 12 - Bhakti Yoga	भगवद्गीता अध्याय १२ - भक्तियोग	krishna
+bhagavad-gita-chapter-13	Bhagavad Gita Chapter 13 - Kshetra Kshetrajna Vibhaga Yoga	भगवद्गीता अध्याय १३ - क्षेत्रक्षेत्रज्ञविभागयोग	krishna
+bhagavad-gita-chapter-14	Bhagavad Gita Chapter 14 - Gunatraya Vibhaga Yoga	भगवद्गीता अध्याय १४ - गुणत्रयविभागयोग	krishna
+bhagavad-gita-chapter-15	Bhagavad Gita Chapter 15 - Purushottama Yoga	भगवद्गीता अध्याय १५ - पुरुषोत्तमयोग	krishna
+bhagavad-gita-chapter-16	Bhagavad Gita Chapter 16 - Daivasura Sampad Vibhaga Yoga	भगवद्गीता अध्याय १६ - दैवासुरसम्पद्विभागयोग	krishna
+bhagavad-gita-chapter-17	Bhagavad Gita Chapter 17 - Shraddhatraya Vibhaga Yoga	भगवद्गीता अध्याय १७ - श्रद्धात्रयविभागयोग	krishna
+bhagavad-gita-chapter-18	Bhagavad Gita Chapter 18 - Moksha Sannyasa Yoga	भगवद्गीता अध्याय १८ - मोक्षसन्न्यासयोग	krishna
+bhagavad-gita-chapter-2	Bhagavad Gita Chapter 2 - Sankhya Yoga	भगवद्गीता अध्याय २ - साङ्ख्ययोग	krishna
+bhagavad-gita-chapter-3	Bhagavad Gita Chapter 3 - Karma Yoga	भगवद्गीता अध्याय ३ - कर्मयोग	krishna
+bhagavad-gita-chapter-4	Bhagavad Gita Chapter 4 - Jnana Karma Sannyasa Yoga	भगवद्गीता अध्याय ४ - ज्ञानकर्मसन्न्यासयोग	krishna
+bhagavad-gita-chapter-5	Bhagavad Gita Chapter 5 - Karma Sannyasa Yoga	भगवद्गीता अध्याय ५ - कर्मसन्न्यासयोग	krishna
+bhagavad-gita-chapter-6	Bhagavad Gita Chapter 6 - Dhyana Yoga	भगवद्गीता अध्याय ६ - ध्यानयोग	krishna
+bhagavad-gita-chapter-7	Bhagavad Gita Chapter 7 - Jnana Vijnana Yoga	भगवद्गीता अध्याय ७ - ज्ञानविज्ञानयोग	krishna
+bhagavad-gita-chapter-8	Bhagavad Gita Chapter 8 - Akshara Brahma Yoga	भगवद्गीता अध्याय ८ - अक्षरब्रह्मयोग	krishna
+bhagavad-gita-chapter-9	Bhagavad Gita Chapter 9 - Raja Vidya Raja Guhya Yoga	भगवद्गीता अध्याय ९ - राजविद्याराजगुह्ययोग	krishna
+bhagavad-gita-dhyana-shloka	Bhagavad Gita Dhyana Shloka	भगवद्गीता ध्यान श्लोक	krishna
+bhagavad-gita-dhyanam	Bhagavad Gita Dhyanam	भगवद्गीता ध्यानम्	krishna
+bhagavad-gita-mahatmya	Bhagavad Gita Mahatmya	श्रीमद्भगवद्गीतामाहात्म्यम्	krishna
+bhagya-suktam	Bhagya Suktam	भाग्य सूक्तम्	vishnu
+bhairav-aarti	Bhairav Aarti	भैरव आरती	bhairava
+bhairav-chalisa	Bhairav Chalisa	भैरव चालीसा	bhairava
+bhairav-kavacham	Bhairav Kavacham	भैरव कवचम्	bhairava
+bhairava-dwadash-nama	Bhairava Dwadash Nama Stotram	भैरव द्वादश नाम स्तोत्रम्	bhairava
+bhairava-gayatri	Bhairava Gayatri	भैरव गायत्री	bhairava
+bhairava-hridayam	Bhairava Hridayam	भैरव हृदयम्	bhairava
+bhairava-sahasranama	Bhairava Sahasranama Stotram	भैरव सहस्रनाम स्तोत्रम्	bhairava
+bhairava-stotram	Bhairava Stotram	भैरव स्तोत्रम्	bhairava
+bhaja-govindam	Bhaja Govindam	भज गोविन्दम् (मोहमुद्गर)	krishna
+bhasma-jabala-upanishad-key-mantras	Bhasma Jabala Upanishad Key Mantras	भस्मजाबाल उपनिषद् प्रमुख मन्त्र	shiva
+bhavani-ashtakam	Bhavani Ashtakam	भवानी अष्टकम्	durga
+bhaya-nivaran-stotram	Bhaya Nivaran Stotram	भय निवारण स्तोत्रम्	narasimha
+bhimashankar-stotram	Bhimashankar Stotram	श्री भीमाशंकर स्तोत्रम्	shiva
+bhishma-stuti	Bhishma Stuti	भीष्म स्तुति	krishna
+bhojan-mantra	Bhojan Mantra (Meal Prayer)	भोजन मन्त्र	vishnu
+bhuvaneshwari-stotram	Bhuvaneshwari Stotram	भुवनेश्वरी स्तोत्रम्	parvati
+bhuvaneswari-kavacham	Bhuvaneswari Kavacham	भुवनेश्वरी कवचम्	durga
+bhuvaneswari-stotram	Bhuvaneswari Stotram	भुवनेश्वरी स्तोत्रम्	parvati
+bilvarchana-stotram	Bilvarchana Stotram	बिल्वार्चन स्तोत्रम्	shiva
+bilvashtakam	Bilvashtakam	बिल्वाष्टकम्	shiva
+brahma-ashtakam	Brahma Ashtakam	ब्रह्मा अष्टकम्	brahma
+brahma-chalisa	Brahma Chalisa	ब्रह्मा चालीसा	brahma
+brahma-dwadash-nama	Brahma Dwadash Nama Stotram	ब्रह्मा द्वादश नाम स्तोत्रम्	brahma
+brahma-gayatri	Brahma Gayatri	ब्रह्मा गायत्री	brahma
+brahma-kavacham	Brahma Kavacham	ब्रह्मा कवचम्	brahma
+brahma-murari-stotram	Brahma Murari Stotram	ब्रह्मा मुरारि स्तोत्रम्	brahma
+brahma-sahasranama	Brahma Sahasranama Stotram	ब्रह्मा सहस्रनाम स्तोत्रम्	brahma
+brahma-stotram	Brahma Stotram	ब्रह्म स्तोत्रम्	brahma
+brahma-stuti-bhagavatam	Brahma Stuti (Bhagavatam)	ब्रह्मा स्तुति (भागवतम्)	vishnu
+brahma-stuti-vedic	Brahma Stuti (Vedic)	ब्रह्मा स्तुति (वैदिक)	brahma
+brahmacharini-stotram	Brahmacharini Stotram	ब्रह्मचारिणी स्तोत्रम्	durga
+budh-kavacham	Budh Kavacham	बुध कवचम्	navagraha
+budh-sahasranama	Budh Sahasranama Stotram	श्री बुध सहस्रनाम स्तोत्रम्	navagraha
+budh-stotra	Budh Stotra	बुध स्तोत्र	navagraha
+budha-stotram	Budha Stotram	बुध स्तोत्रम्	navagraha
+budhvar-vrat-katha	Budhvar Vrat Katha (Wednesday Fasting Story)	बुधवार व्रत कथा	ganesha
+chamakam	Chamakam	चमकम्	shiva
+chamunda-stuti	Chamunda Stuti	चामुण्डा स्तुति	durga
+chandi-hridayam	Chandi Hridayam	चण्डी हृदयम्	durga
+chandi-kavacham	Chandi Kavacham	चण्डी कवचम्	durga
+chandi-path-navarna-vidhi	Chandi Path Navarna Vidhi	चण्डी पाठ नवार्ण विधि	durga
+chandi-stotram	Chandi Stotram	चण्डी स्तोत्रम्	durga
+chandra-dosh-nivaran-stotram	Chandra Dosh Nivaran Stotram	चन्द्र दोष निवारण स्तोत्रम्	shiva
+chandra-kavacham	Chandra Kavacham	चन्द्र कवचम्	navagraha
+chandra-sahasranama	Chandra Sahasranama Stotram	श्री चन्द्र सहस्रनाम स्तोत्रम्	navagraha
+chandra-stotra	Chandra Stotra	चन्द्र स्तोत्र	navagraha
+chandra-stotram	Chandra Stotram	चन्द्र स्तोत्रम्	navagraha
+chandraghanta-stotram	Chandraghanta Stotram	चन्द्रघण्टा स्तोत्रम्	durga
+chandrashekhar-ashtakam	Chandrashekhar Ashtakam	चन्द्रशेखराष्टकम्	shiva
+chardham-stotram	Char Dham Stotram	चारधाम स्तोत्रम्	vishnu
+chatuh-shloki-bhagavatam	Chatuh Shloki Bhagavatam	चतुःश्लोकी भागवतम्	vishnu
+chhath-puja-stotram	Chhath Puja Stotram	छठ पूजा स्तोत्रम्	surya
+chhath-puja-vidhi	Chhath Puja Vidhi and Mantras	छठ पूजा विधि एवं मन्त्र	surya
+chhath-puja-vrat-katha	Chhath Puja Vrat Katha	छठ पूजा व्रत कथा	surya
+chinnamasta-kavacham	Chinnamasta Kavacham	श्री छिन्नमस्ता कवचम्	kali
+chinnamasta-stotram	Chinnamasta Stotram	छिन्नमस्ता स्तोत्रम्	kali
+dakshina-kali-dhyanam	Dakshina Kali Dhyanam	दक्षिण काली ध्यानम्	kali
+dakshina-kali-stotram	Dakshina Kali Stotram	दक्षिण काली स्तोत्रम्	kali
+dakshinamurthy-pancharatnam	Dakshinamurthy Pancharatnam	दक्षिणामूर्ति पञ्चरत्नम्	shiva
+dakshinamurthy-stotram	Dakshinamurthy Stotram	श्री दक्षिणामूर्ति स्तोत्रम्	shiva
+damodarashtakam	Damodarashtakam	दामोदराष्टकम्	krishna
+daridrya-dahana-shiva-stotram	Daridrya Dahana Shiva Stotram	दारिद्र्यदहन शिवस्तोत्रम्	shiva
+dasha-mahavidya-stotram	Dasha Mahavidya Stotram	दश महाविद्या स्तोत्रम्	durga
+dasha-shloki	Dasha Shloki	दशश्लोकी	shiva
+dashavatara-dhyanam	Dashavatara Dhyanam	श्री दशावतार ध्यानम्	vishnu
+dashavatara-stotram	Dashavatara Stotram	श्री दशावतार स्तोत्रम्	vishnu
+datta-bavani	Datta Bavani	दत्त बावनी	dattatreya
+datta-stuti	Datta Stuti	दत्त स्तुति	dattatreya
+dattatreya-aarti	Dattatreya Aarti	दत्तात्रेय आरती	dattatreya
+dattatreya-ashtakam	Dattatreya Ashtakam	दत्तात्रेय अष्टकम्	dattatreya
+dattatreya-ashtottara-shatanamavali	Dattatreya Ashtottara Shatanamavali	दत्तात्रेय अष्टोत्तर शतनामावली	dattatreya
+dattatreya-chalisa	Dattatreya Chalisa	दत्तात्रेय चालीसा	dattatreya
+dattatreya-dhyanam	Dattatreya Dhyanam	दत्तात्रेय ध्यानम्	dattatreya
+dattatreya-dwadash-nama	Dattatreya Dwadash Nama Stotram	दत्तात्रेय द्वादश नाम स्तोत्रम्	dattatreya
+dattatreya-gayatri	Dattatreya Gayatri	दत्तात्रेय गायत्री	dattatreya
+dattatreya-hridayam	Dattatreya Hridayam	दत्तात्रेय हृदयम्	dattatreya
+dattatreya-kavacham	Dattatreya Kavacham	दत्तात्रेय कवचम्	dattatreya
+dattatreya-mangalashtakam	Dattatreya Mangalashtakam	श्री दत्तात्रेय मङ्गलाष्टकम्	dattatreya
+dattatreya-pancharatnam	Dattatreya Pancharatnam	दत्तात्रेय पञ्चरत्नम्	dattatreya
+dattatreya-sahasranama	Dattatreya Sahasranama Stotram	श्री दत्तात्रेय सहस्रनाम स्तोत्रम्	dattatreya
+dattatreya-stotram	Dattatreya Stotram	दत्तात्रेय स्तोत्रम्	dattatreya
+dattatreya-upanishad-key-verses	Dattatreya Upanishad Key Verses	दत्तात्रेय उपनिषद् (मुख्य श्लोक)	dattatreya
+dayashatakam-key-verses	Dayashatakam - Key Verses	दयाशतकम् (प्रमुख श्लोक)	vishnu
+deepa-jyoti-stotram	Deepa Jyoti Stotram	दीप ज्योति स्तोत्रम्	lakshmi
+dev-uthani-ekadashi-katha	Dev Uthani Ekadashi Katha	देवउठनी एकादशी कथा	vishnu
+devaki-stuti	Devaki Stuti	देवकी स्तुति	krishna
+devi-aparadha-kshamapana-stotram	Devi Aparadha Kshamapana Stotram	देवी अपराध क्षमापन स्तोत्रम्	durga
+devi-atharvashirsha	Devi Atharvashirsha	देवी अथर्वशीर्षम्	durga
+devi-bhujanga-stotram	Devi Bhujanga Stotram	श्री देवी भुजङ्ग स्तोत्रम्	durga
+devi-chatushashti-upachara	Devi Chatushashti Upachara Puja Stotram	देवी चतुषष्ट्युपचार पूजा स्तोत्रम्	durga
+devi-hridayam	Devi Hridayam	देवी हृदयम्	durga
+devi-kavacham	Devi Kavacham	देवी कवचम्	durga
+devi-khadgamala-stotram	Devi Khadgamala Stotram	देवी खड्गमाला स्तोत्रम्	durga
+devi-mahatmya-siddha-kunjika	Devi Mahatmya Siddha Kunjika Prayoga	देवी महात्म्य सिद्ध कुञ्जिका प्रयोग	durga
+devi-mahatmyam-madhyama-charitra	Devi Mahatmyam Madhyama Charitra	देवी माहात्म्यम् मध्यम चरित्रम्	durga
+devi-mahatmyam-prathama-charitra	Devi Mahatmyam Prathama Charitra	देवी माहात्म्यम् प्रथम चरित्रम्	durga
+devi-mahatmyam-uttama-charitra	Devi Mahatmyam Uttama Charitra	देवी माहात्म्यम् उत्तम चरित्रम्	durga
+devi-stuti	Devi Stuti	देवी स्तुति	durga
+devi-suktam	Devi Suktam	देवी सूक्तम्	durga
+dhanalakshmi-stotram	Dhanalakshmi Stotram	धनलक्ष्मी स्तोत्रम्	lakshmi
+dhanteras-katha	Dhanteras Katha	धनतेरस कथा	dhanvantari
+dhanteras-puja-stotram	Dhanteras Puja Stotram	श्री धनतेरस पूजा स्तोत्रम्	dhanvantari
+dhanvantari-ashtakam	Dhanvantari Ashtakam	धन्वन्तरि अष्टकम्	dhanvantari
+dhanvantari-chalisa	Dhanvantari Chalisa	धन्वन्तरि चालीसा	dhanvantari
+dhanvantari-dwadash-nama	Dhanvantari Dwadash Nama Stotram	धन्वन्तरि द्वादश नाम स्तोत्रम्	dhanvantari
+dhanvantari-gayatri	Dhanvantari Gayatri	धन्वन्तरि गायत्री	dhanvantari
+dhanvantari-hridayam	Dhanvantari Hridayam	धन्वन्तरि हृदयम्	dhanvantari
+dhanvantari-kavacham	Dhanvantari Kavacham	श्री धन्वन्तरि कवचम्	dhanvantari
+dhanvantari-mantra	Dhanvantari Mantra	धन्वन्तरि मन्त्र	dhanvantari
+dhanvantari-sahasranama	Dhanvantari Sahasranama Stotram	धन्वन्तरि सहस्रनाम स्तोत्रम्	dhanvantari
+dhanvantari-stotram	Dhanvantari Stotram	श्री धन्वन्तरि स्तोत्रम्	dhanvantari
+dharma-stuti	Dharma Stuti	श्री धर्म स्तुति	vishnu
+dhruva-stuti	Dhruva Stuti	ध्रुव स्तुति	vishnu
+dhumavati-kavacham	Dhumavati Kavacham	श्री धूमावती कवचम्	kali
+dhumavati-stotram	Dhumavati Stotram	धूमावती स्तोत्रम्	kali
+diwali-vrat-katha	Diwali Vrat Katha	दिवाली व्रत कथा	lakshmi
+dnyaneshwari-pasaydan	Dnyaneshwari Pasaydan	ज्ञानेश्वरी पसायदान	vitthal
+dohavali-key-dohe	Dohavali - Key Dohe (Couplets)	दोहावली (प्रमुख दोहे)	rama
+durga-aarti	Durga Aarti - Om Jai Ambe Gauri	श्री दुर्गा आरती	durga
+durga-ashtakam	Durga Ashtakam	दुर्गा अष्टकम्	durga
+durga-ashtottara-shatanamavali	Durga Ashtottara Shatanamavali	दुर्गा अष्टोत्तर शतनामावली	durga
+durga-chalisa	Durga Chalisa	दुर्गा चालीसा	durga
+durga-dvatrinsha-naamamala	Durga Dvatrinsha Naamamala	दुर्गा द्वात्रिंशन्नाममाला	durga
+durga-dwadash-nama	Durga Dwadash Nama Stotram	श्री दुर्गा द्वादश नाम स्तोत्रम्	durga
+durga-gayatri	Durga Gayatri Mantra	दुर्गा गायत्री मन्त्र	durga
+durga-hridayam	Durga Hridayam	दुर्गा हृदयम्	durga
+durga-kavach	Durga Kavach	श्री दुर्गा कवच	durga
+durga-mangalashtakam	Durga Mangalashtakam	दुर्गा मङ्गलाष्टकम्	durga
+durga-nav-shloki	Durga Nav Shloki	दुर्गा नवश्लोकी	durga
+durga-pancha-ratnam	Durga Pancha Ratnam	दुर्गा पञ्चरत्नम्	durga
+durga-pancharatnam	Durga Pancharatnam	दुर्गा पञ्चरत्नम्	durga
+durga-sahasranama-stotram	Durga Sahasranama Stotram (Devi Bhagavata)	दुर्गा सहस्रनाम स्तोत्रम्	durga
+durga-sahasranama	Durga Sahasranama Stotram (Skanda Purana)	दुर्गा सहस्रनाम स्तोत्रम्	durga
+durga-saptashloki	Durga Saptashloki	दुर्गा सप्तश्लोकी	durga
+durga-stuti-arjuna	Durga Stuti by Arjuna	दुर्गा स्तुति (अर्जुनकृत)	durga
+durga-stuti-chaman-lal	Durga Dvatrimshan Namavali	दुर्गा द्वात्रिंशन्नामावली	durga
+durga-suktam	Durga Suktam	दुर्गा सूक्तम्	durga
+dussehra-stotram	Dussehra Stotram	दशहरा स्तोत्रम्	rama
+dwadash-aditya-stotram	Dwadash Aditya Stotram	द्वादश आदित्य स्तोत्रम्	surya
+dwadash-stotra-madhva	Dwadash Stotra Madhvacharya	द्वादश स्तोत्र (मध्वाचार्य)	vishnu
+dwadasha-jyotirlinga-stotram	Dwadasha Jyotirlinga Stotram	द्वादश ज्योतिर्लिंग स्तोत्रम्	shiva
+dwarkadhish-aarti	Dwarkadhish Aarti	श्री द्वारकाधीश आरती	krishna
+dwarkadhish-stotram	Dwarkadhish Stotram	श्री द्वारकाधीश स्तोत्रम्	krishna
+eka-shloki	Eka Shloki	एकश्लोकी	shiva
+ekadasha-rudra-stotram	Ekadasha Rudra Stotram	एकादश रुद्र स्तोत्रम्	shiva
+ekadashi-mahatmya-shloka	Ekadashi Mahatmya Shloka	एकादशी महात्म्य श्लोक	vishnu
+ekadashi-mahatmya	Ekadashi Mahatmya	एकादशी माहात्म्य	vishnu
+ekadashi-vrat-katha	Ekadashi Vrat Katha	एकादशी व्रत कथा	vishnu
+gajendra-moksha-stotram	Gajendra Moksha Stotram	गजेन्द्रमोक्ष स्तोत्रम्	vishnu
+ganesh-aarti	Ganesh Aarti - Jai Ganesh Jai Ganesh Deva	श्री गणेश आरती	ganesha
+ganesh-ashtottara-shatanamavali	Ganesha Ashtottara Shatanamavali (Stotra)	गणेश अष्टोत्तरशतनामावलिः	ganesha
+ganesh-atharvashirsha	Ganesh Atharvashirsha	गणेश अथर्वशीर्ष	ganesha
+ganesh-bajrang	Ganesh Bajrang	श्री गणेश बजरंग	ganesha
+ganesh-bhujanga-stotram	Ganesh Bhujanga Stotram	श्री गणेश भुजङ्ग स्तोत्रम्	ganesha
+ganesh-chalisa	Ganesh Chalisa	श्री गणेश चालीसा	ganesha
+ganesh-chaturthi-vrat-katha	Ganesh Chaturthi Vrat Katha	गणेश चतुर्थी व्रत कथा	ganesha
+ganesh-dwadash-nama	Ganesh Dwadash Nama Stotram	श्री गणेश द्वादश नाम स्तोत्रम्	ganesha
+ganesh-kavacham	Ganesha Kavacham	गणेश कवचम्	ganesha
+ganesh-pancharatnam	Ganesh Pancharatnam	श्री गणेश पञ्चरत्नम्	ganesha
+ganesh-sahasranama	Ganesha Sahasranama Stotram	गणेश सहस्रनाम स्तोत्रम्	ganesha
+ganesh-stotram	Ganesh Stotram	श्री गणेश स्तोत्रम्	ganesha
+ganesha-ashtottara-shatanamavali	Ganesha Ashtottara Shatanamavali (Namavali)	गणेश अष्टोत्तर शतनामावली	ganesha
+ganesha-gayatri	Ganesha Gayatri Mantra	गणेश गायत्री मन्त्र	ganesha
+ganesha-hridayam	Ganesha Hridayam	गणेश हृदयम्	ganesha
+ganesha-maha-mantra	Ganesha Maha Mantra Sangraha	गणेश महामन्त्र संग्रह	ganesha
+ganesha-mangala-stotram	Ganesha Mangala Stotram	गणेश मङ्गल स्तोत्रम्	ganesha
+ganesha-mangalashtakam	Ganesha Mangalashtakam	गणेश मङ्गलाष्टकम्	ganesha
+ganesha-pancharatnam	Ganesha Pancharatnam	गणेश पञ्चरत्नम्	ganesha
+ganesha-stuti-mudgala-purana	Ganesha Stuti - Mudgala Purana	गणेश स्तुति (मुद्गल पुराण)	ganesha
+ganga-aarti	Ganga Aarti - Om Jai Gange Mata	श्री गंगा आरती	ganga
+ganga-ashtakam	Ganga Ashtakam	श्री गंगाष्टकम्	ganga
+ganga-chalisa	Ganga Chalisa	गंगा चालीसा	ganga
+ganga-dashakam	Ganga Dashakam	गङ्गा दशकम्	ganga
+ganga-kavacham	Ganga Kavacham	गङ्गा कवचम्	ganga
+ganga-sahasranama	Ganga Sahasranama Stotram	श्री गङ्गा सहस्रनाम स्तोत्रम्	ganga
+ganga-stotram	Ganga Stotram	श्री गंगा स्तोत्रम्	ganga
+ganga-stuti-tulsidas	Ganga Stuti by Tulsidas	गङ्गा स्तुति (तुलसीदास)	ganga
+garuda-dandakam	Garuda Dandakam	श्री गरुड दण्डकम्	vishnu
+gauri-chalisa	Gauri Chalisa	गौरी चालीसा	parvati
+gauri-stotram	Gauri Stotram	गौरी स्तोत्रम्	parvati
+gayatri-aarti	Gayatri Aarti	श्री गायत्री आरती	gayatri
+gayatri-ashtottara-shatanamavali	Gayatri Ashtottara Shatanamavali	गायत्री अष्टोत्तर शतनामावली	gayatri
+gayatri-chalisa	Gayatri Chalisa	गायत्री चालीसा	gayatri
+gayatri-hridayam	Gayatri Hridayam	गायत्री हृदयम्	gayatri
+gayatri-kavacham	Gayatri Kavacham	श्री गायत्री कवचम्	gayatri
+gayatri-mangalashtakam	Gayatri Mangalashtakam	गायत्री मङ्गलाष्टकम्	gayatri
+gayatri-mantra	Gayatri Mantra	गायत्री मन्त्र	gayatri
+gayatri-sahasranama	Gayatri Sahasranama Stotram	गायत्री सहस्रनाम स्तोत्रम्	gayatri
+gayatri-stotram	Gayatri Stotram	श्री गायत्री स्तोत्रम्	gayatri
+giridhari-stotram	Giridhari Stotram	श्री गिरिधारी स्तोत्रम्	krishna
+gita-govinda-ashtapadi-1	Gita Govinda - Ashtapadi 1	गीत गोविन्द — प्रथम अष्टपदी	krishna
+gita-govinda-ashtapadi-dashavatara	Gita Govinda - Dashavatara Ashtapadi	गीत गोविन्द — दशावतार अष्टपदी	vishnu
+gita-govinda-key-songs	Gita Govinda - Key Songs	गीत गोविन्द - प्रमुख गीत	krishna
+gita-govinda-key-verses	Gita Govinda - Key Verses	गीत गोविन्द — प्रमुख पद	krishna
+gita-mahatmya	Gita Mahatmya	गीता माहात्म्यम्	krishna
+gita-sara	Gita Sara	गीता सार	krishna
+gopala-sahasranama	Gopala Sahasranama Stotram	गोपाल सहस्रनाम स्तोत्रम्	krishna
+gopala-stotram	Gopala Stotram	गोपाल स्तोत्रम्	krishna
+gopala-vimshatika	Gopala Vimshatika	गोपाल विंशतिका	krishna
+gopi-geet	Gopi Geet	गोपी गीत	krishna
+gopika-gitam	Gopika Gitam	गोपिका गीतम्	krishna
+govardhan-puja-stotram	Govardhan Puja Stotram	गोवर्धन पूजा स्तोत्रम्	krishna
+govinda-ashtakam	Govinda Ashtakam	गोविन्दाष्टकम्	krishna
+govinda-damodara-stotram	Govinda Damodara Stotram	गोविन्द दामोदर स्तोत्रम्	krishna
+govinda-namavali	Govinda Namavali	गोविन्द नामावली	krishna
+graha-peeda-hara-stotram	Graha Peeda Hara Stotram	ग्रह पीड़ा हर स्तोत्रम्	surya
+graha-shanti-mantra	Graha Shanti Mantra	ग्रह शान्ति मन्त्र	navagraha
+griha-pravesh-mantras	Griha Pravesh Mantras	गृह प्रवेश मन्त्र	ganesha
+griha-shanti-stotram	Griha Shanti Stotram	गृह शान्ति स्तोत्रम्	vishnu
+grishneshwar-stotram	Grishneshwar Stotram	श्री घृष्णेश्वर स्तोत्रम्	shiva
+guru-ashtakam	Guru Ashtakam	श्री गुरु अष्टकम्	dattatreya
+guru-chandal-dosh-nivaran-stotram	Guru Chandal Dosh Nivaran Stotram	गुरु चाण्डाल दोष निवारण स्तोत्रम्	vishnu
+guru-dattatreya-mantra	Guru Dattatreya Mantra	गुरु दत्तात्रेय मन्त्र	dattatreya
+guru-gita	Guru Gita - Key Verses	श्री गुरु गीता (मुख्य श्लोक)	dattatreya
+guru-graha-kavacham	Guru Graha Kavacham	गुरु ग्रह कवचम्	navagraha
+guru-graha-stotra	Guru Graha Stotra	गुरु (बृहस्पति) स्तोत्र	navagraha
+guru-paduka-stotram	Guru Paduka Stotram	श्री गुरु पादुका स्तोत्रम्	dattatreya
+guru-sahasranama	Guru (Brihaspati) Sahasranama Stotram	श्री गुरु (बृहस्पति) सहस्रनाम स्तोत्रम्	navagraha
+guru-stotram	Guru Stotram	श्री गुरु स्तोत्रम्	dattatreya
+guru-vandana	Guru Vandana	श्री गुरु वन्दना	dattatreya
+guruvar-vrat-katha	Guruvar Vrat Katha (Thursday Fasting Story)	गुरुवार व्रत कथा	vishnu
+hanumad-ramayanam	Hanumad Ramayanam	हनुमद् रामायणम्	rama
+hanuman-aarti	Hanuman Aarti	श्री हनुमान आरती	hanuman
+hanuman-ashtak	Hanuman Ashtak	हनुमान अष्टक	hanuman
+hanuman-ashtottara-shatanamavali	Hanuman Ashtottara Shatanamavali	हनुमान अष्टोत्तर शतनामावली	hanuman
+hanuman-ashtottara-stotram	Hanuman Ashtottara Stotram	हनुमान अष्टोत्तर स्तोत्रम्	hanuman
+hanuman-bahuk	Hanuman Bahuk	हनुमान बाहुक	hanuman
+hanuman-chalisa	Hanuman Chalisa	हनुमान चालीसा	hanuman
+hanuman-dhyanam	Hanuman Dhyanam	हनुमान ध्यानम्	hanuman
+hanuman-dwadash-nama	Hanuman Dwadash Nama Stotram	हनुमान द्वादश नाम स्तोत्रम्	hanuman
+hanuman-gayatri	Hanuman Gayatri Mantra	हनुमान गायत्री मन्त्र	hanuman
+hanuman-hridayam	Hanuman Hridayam	हनुमान हृदयम्	hanuman
+hanuman-kavacham	Hanuman Kavacham	हनुमान कवचम्	hanuman
+hanuman-langoolastra-stotram	Hanuman Langoolastra Stotram	हनुमान लाङ्गूलास्त्र स्तोत्रम्	hanuman
+hanuman-mangalashtakam	Hanuman Mangalashtakam	हनुमान मङ्गलाष्टकम्	hanuman
+hanuman-pancharatnam	Hanuman Pancharatnam	हनुमान पञ्चरत्नम्	hanuman
+hanuman-sahasranama	Hanuman Sahasranama Stotram	हनुमान सहस्रनाम स्तोत्रम्	hanuman
+hanuman-stavan	Hanuman Stavan	श्री हनुमान स्तवन	hanuman
+hanuman-stuti-lanka-kanda	Hanuman Stuti - Lanka Kanda	हनुमान स्तुति (लङ्काकाण्ड)	hanuman
+hanuman-stuti-parasara	Hanuman Stuti (Parasara Samhita)	हनुमान स्तुति (पराशर संहिता)	hanuman
+hanuman-vadvanal-stotra	Hanuman Vadvanal Stotra	श्री हनुमान वडवानल स्तोत्र	hanuman
+hare-krishna-mahamantra	Hare Krishna Mahamantra	हरे कृष्ण महामन्त्र	krishna
+hari-nama-mala-stotram	Hari Nama Mala Stotram	श्री हरि नाम माला स्तोत्रम्	vishnu
+hari-stotram	Hari Stotram	हरि स्तोत्रम्	vishnu
+harivarasanam	Harivarasanam	हरिवरासनम्	vishnu
+hartalika-teej-vrat-katha	Hartalika Teej Vrat Katha	हरतालिका तीज व्रत कथा	parvati
+hastamalaka-stotram	Hastamalaka Stotram	हस्तामलक स्तोत्रम्	shiva
+hayagriva-stotram	Hayagriva Stotram	हयग्रीव स्तोत्रम्	vishnu
+hiranyagarbha-suktam	Hiranyagarbha Suktam	हिरण्यगर्भ सूक्तम्	vishnu
+holika-dahan-katha	Holika Dahan Katha	होलिका दहन कथा	vishnu
+indra-ashtakam	Indra Ashtakam	इन्द्र अष्टकम्	indra
+indra-chalisa	Indra Chalisa	इन्द्र चालीसा	indra
+indra-dwadash-nama	Indra Dwadash Nama Stotram	इन्द्र द्वादश नाम स्तोत्रम्	indra
+indra-gayatri	Indra Gayatri	इन्द्र गायत्री	indra
+indra-kavacham	Indra Kavacham	इन्द्र कवचम्	indra
+indra-stotram-vedic	Indra Stotram (Vedic)	इन्द्र स्तोत्रम् (वैदिक)	indra
+indra-stuti	Indra Stuti	इन्द्र स्तुति	indra
+indra-suktam	Indra Suktam	इन्द्र सूक्तम्	indra
+ishavasya-upanishad	Ishavasya Upanishad	ईशावास्योपनिषद्	vishnu
+jagadamba-stotram	Jagadamba Stotram	जगदम्बा स्तोत्रम्	durga
+jagannath-aarti	Jagannath Aarti	जगन्नाथ आरती	jagannath
+jagannath-ashtakam	Jagannath Ashtakam	जगन्नाथ अष्टकम्	jagannath
+jagannath-chalisa	Jagannath Chalisa	जगन्नाथ चालीसा	jagannath
+jagannath-gayatri	Jagannath Gayatri	जगन्नाथ गायत्री	jagannath
+jagannath-kavacham	Jagannath Kavacham	जगन्नाथ कवचम्	jagannath
+jagannath-mangala-stotram	Jagannath Mangala Stotram	श्री जगन्नाथ मङ्गल स्तोत्रम्	jagannath
+jagannath-pancharatnam	Jagannath Pancharatnam	जगन्नाथ पञ्चरत्नम्	jagannath
+jagannath-sahasranama	Jagannath Sahasranama Stotram	जगन्नाथ सहस्रनाम स्तोत्रम्	jagannath
+jagannath-stotram	Jagannath Stotram	श्री जगन्नाथ स्तोत्रम्	jagannath
+jagannatha-ashtakam	Jagannatha Ashtakam	जगन्नाथाष्टकम्	jagannath
+janaki-mangal	Janaki Mangal	जानकी मंगल	sita
+janaki-stuti	Janaki Stuti	जानकी स्तुति	sita
+janmashtami-vrat-katha	Janmashtami Vrat Katha	जन्माष्टमी व्रत कथा	krishna
+kaal-sarp-dosh-nivaran-stotram	Kaal Sarp Dosh Nivaran Stotram	काल सर्प दोष निवारण स्तोत्रम्	shiva
+kaalratri-stotram	Kaalratri Stotram	कालरात्रि स्तोत्रम्	durga
+kabir-dohe-key-verses	Kabir Dohe Key Verses	कबीर दोहे (मुख्य दोहे)	vishnu
+kaivalya-upanishad	Kaivalya Upanishad	कैवल्य उपनिषद्	shiva
+kalabhairav-ashtakam	Kalabhairav Ashtakam	कालभैरवाष्टकम्	bhairava
+kalabhairava-ashtakam	Kalabhairava Ashtakam	कालभैरव अष्टकम्	bhairava
+kali-aarti	Kali Aarti	काली माता आरती	kali
+kali-ashtakam	Kali Ashtakam	काली अष्टकम्	kali
+kali-ashtottara-shatanamavali	Kali Ashtottara Shatanamavali	श्री काली अष्टोत्तर शतनामावली	kali
+kali-chalisa	Kali Chalisa	काली चालीसा	kali
+kali-gayatri	Kali Gayatri	काली गायत्री	kali
+kali-hridayam	Kali Hridayam	काली हृदयम्	kali
+kali-kavacham	Kali Kavacham	काली कवचम्	kali
+kali-sahasranama-v2	Kali Sahasranama Stotram (Todala Tantra)	काली सहस्रनाम स्तोत्रम्	kali
+kali-sahasranama	Kali Sahasranama Stotram (Mahanirvana Tantra)	काली सहस्रनाम स्तोत्रम्	kali
+kali-stotram	Kali Stotram	काली स्तोत्रम्	kali
+kalki-stotram	Kalki Stotram	श्री कल्कि स्तोत्रम्	vishnu
+kamadeva-stotram	Kamadeva Stotram	कामदेव स्तोत्रम्	vishnu
+kamakhya-kavacham	Kamakhya Kavacham	कामाख्या कवचम्	durga
+kamakhya-stotram	Kamakhya Stotram	कामाख्या स्तोत्रम्	durga
+kamakshi-stotram	Kamakshi Stotram	श्री कामाक्षी स्तोत्रम्	parvati
+kamala-kavacham	Kamala Kavacham	श्री कमला कवचम्	lakshmi
+kamala-stotram	Kamala Stotram	कमला स्तोत्रम्	lakshmi
+kanakadhara-stotram	Kanakadhara Stotram	कनकधारा स्तोत्रम्	lakshmi
+kara-darshana-shloka	Kara Darshana Shloka	करदर्शन श्लोक	lakshmi
+karpura-gauram	Karpura Gauram Karunavataram	कर्पूरगौरम् करुणावतारम्	shiva
+kartikeya-ashtottara-shatanamavali	Kartikeya Ashtottara Shatanamavali	कार्तिकेय अष्टोत्तर शतनामावली	kartikeya
+kartikeya-dwadash-nama	Kartikeya Dwadash Nama Stotram	कार्तिकेय द्वादश नाम स्तोत्रम्	kartikeya
+kartikeya-hridayam	Kartikeya Hridayam	कार्तिकेय हृदयम्	kartikeya
+kartikeya-kavacham	Kartikeya Kavacham	कार्तिकेय कवचम्	kartikeya
+kartikeya-mangalashtakam	Kartikeya Mangalashtakam	श्री कार्तिकेय मङ्गलाष्टकम्	kartikeya
+kartikeya-pancharatnam	Kartikeya Pancharatnam	कार्तिकेय पञ्चरत्नम्	kartikeya
+kartikeya-sahasranama	Kartikeya Sahasranama Stotram	कार्तिकेय सहस्रनाम स्तोत्रम्	kartikeya
+kartikeya-stotram	Kartikeya Stotram	कार्तिकेय स्तोत्रम्	kartikeya
+karva-chauth-stotram	Karva Chauth Stotram	करवा चौथ स्तोत्रम्	parvati
+karva-chauth-vrat-katha	Karva Chauth Vrat Katha	करवा चौथ व्रत कथा	parvati
+kashi-panchakam	Kashi Panchakam	काशी पञ्चकम्	shiva
+kashi-vishwanath-stotram	Kashi Vishwanath Stotram	श्री काशी विश्वनाथ स्तोत्रम्	shiva
+kathopanishad-key-verses	Kathopanishad Key Verses	कठोपनिषद् (प्रमुख श्लोक)	vishnu
+katyayani-stotram	Katyayani Stotram	कात्यायनी स्तोत्रम्	durga
+kaupina-panchakam	Kaupina Panchakam	कौपीन पञ्चकम्	shiva
+kedarnath-stotram	Kedarnath Stotram	श्री केदारनाथ स्तोत्रम्	shiva
+kena-upanishad	Kena Upanishad	केनोपनिषद्	vishnu
+ketu-dosh-nivaran-stotram	Ketu Dosh Nivaran Stotram	केतु दोष निवारण स्तोत्रम्	ganesha
+ketu-kavacham	Ketu Kavacham	केतु कवचम्	navagraha
+ketu-sahasranama	Ketu Sahasranama Stotram	श्री केतु सहस्रनाम स्तोत्रम्	navagraha
+ketu-stotra	Ketu Stotra	केतु स्तोत्र	navagraha
+ketu-stotram	Ketu Stotram	केतु स्तोत्रम्	navagraha
+khatu-shyam-aarti	Khatu Shyam Aarti	खाटू श्याम आरती	krishna
+khatu-shyam-chalisa	Khatu Shyam Chalisa	खाटू श्याम चालीसा	krishna
+kilak-stotram	Kilak Stotram	कीलक स्तोत्रम्	durga
+kodanda-rama-stotram	Kodanda Rama Stotram	श्री कोदण्ड राम स्तोत्रम्	rama
+krishna-aarti	Aarti Kunj Bihari Ki	आरती कुंज बिहारी की	krishna
+krishna-ashtakam	Krishna Ashtakam	कृष्णाष्टकम्	krishna
+krishna-ashtottara-shatanamavali	Krishna Ashtottara Shatanamavali	कृष्ण अष्टोत्तर शतनामावली	krishna
+krishna-chalisa	Krishna Chalisa	कृष्ण चालीसा	krishna
+krishna-dhyanam	Krishna Dhyanam	कृष्ण ध्यानम्	krishna
+krishna-dwadash-nama	Krishna Dwadash Nama Stotram	कृष्ण द्वादश नाम स्तोत्रम्	krishna
+krishna-gayatri	Krishna Gayatri Mantra	कृष्ण गायत्री मन्त्र	krishna
+krishna-gitavali-key-verses	Krishna Gitavali - Key Verses	कृष्ण गीतावली (प्रमुख पद)	krishna
+krishna-hridayam	Krishna Hridayam	कृष्ण हृदयम्	krishna
+krishna-karnamrutam-key-verses	Krishna Karnamrutam Key Verses	कृष्णकर्णामृतम् (प्रमुख श्लोक)	krishna
+krishna-kavacham	Krishna Kavacham	कृष्ण कवचम्	krishna
+krishna-lila-stuti	Krishna Lila Stuti	श्री कृष्ण लीला स्तुति	krishna
+krishna-mangalashtakam	Krishna Mangalashtakam	कृष्ण मङ्गलाष्टकम्	krishna
+krishna-pancharatnam	Krishna Pancharatnam	कृष्ण पञ्चरत्नम्	krishna
+krishna-sahasranama	Krishna Sahasranama Stotram	कृष्ण सहस्रनाम स्तोत्रम्	krishna
+krishna-stuti	Krishna Stuti	श्री कृष्ण स्तुति	krishna
+kshamapana-stotram	Kshamapana Stotram	श्री क्षमापन स्तोत्रम्	vishnu
+kubera-ashtakam	Kubera Ashtakam	कुबेर अष्टकम्	kubera
+kubera-chalisa	Kubera Chalisa	कुबेर चालीसा	kubera
+kubera-dwadash-nama	Kubera Dwadash Nama Stotram	कुबेर द्वादश नाम स्तोत्रम्	kubera
+kubera-gayatri	Kubera Gayatri	कुबेर गायत्री	kubera
+kubera-hridayam	Kubera Hridayam	कुबेर हृदयम्	kubera
+kubera-kavacham	Kubera Kavacham	श्री कुबेर कवचम्	kubera
+kubera-lakshmi-stotram	Kubera Lakshmi Stotram	कुबेर लक्ष्मी स्तोत्रम्	kubera
+kubera-mantra	Kubera Mantra	कुबेर मन्त्र	kubera
+kubera-pancharatnam	Kubera Pancharatnam	कुबेर पञ्चरत्नम्	kubera
+kubera-sahasranama	Kubera Sahasranama Stotram	कुबेर सहस्रनाम स्तोत्रम्	kubera
+kubera-stotram	Kubera Stotram	कुबेर स्तोत्रम्	kubera
+kumara-ashtakam	Kumara Ashtakam	कुमार अष्टकम्	kartikeya
+kunti-stuti	Kunti Stuti	कुन्ती स्तुति	krishna
+kurma-stotram	Kurma Stotram	श्री कूर्म स्तोत्रम्	vishnu
+kushmanda-stotram	Kushmanda Stotram	कूष्माण्डा स्तोत्रम्	durga
+lakshmi-aarti	Lakshmi Aarti - Om Jai Lakshmi Mata	लक्ष्मी आरती	lakshmi
+lakshmi-ashtakam	Lakshmi Ashtakam	लक्ष्मी अष्टकम्	lakshmi
+lakshmi-ashtottara-shatanamavali	Lakshmi Ashtottara Shatanamavali	लक्ष्मी अष्टोत्तर शतनामावली	lakshmi
+lakshmi-chalisa	Lakshmi Chalisa	लक्ष्मी चालीसा	lakshmi
+lakshmi-dhyanam	Lakshmi Dhyanam	लक्ष्मी ध्यानम्	lakshmi
+lakshmi-dwadash-nama	Lakshmi Dwadash Nama Stotram	लक्ष्मी द्वादश नाम स्तोत्रम्	lakshmi
+lakshmi-gayatri	Lakshmi Gayatri Mantra	लक्ष्मी गायत्री मन्त्र	lakshmi
+lakshmi-hridayam	Lakshmi Hridaya Stotram	लक्ष्मी हृदय स्तोत्रम्	lakshmi
+lakshmi-kavacham	Lakshmi Kavacham	लक्ष्मी कवचम्	lakshmi
+lakshmi-mangalashtakam	Lakshmi Mangalashtakam	लक्ष्मी मङ्गलाष्टकम्	lakshmi
+lakshmi-narasimha-karavalamba-stotram	Lakshmi Narasimha Karavalamba Stotram	लक्ष्मीनृसिंह करावलम्ब स्तोत्रम्	narasimha
+lakshmi-narasimha-pancharatnam	Lakshmi Narasimha Pancharatnam	लक्ष्मीनरसिंह पञ्चरत्नम्	narasimha
+lakshmi-narasimha-stotram	Lakshmi Narasimha Stotram	लक्ष्मी नरसिंह स्तोत्रम्	narasimha
+lakshmi-narayana-hridayam	Lakshmi Narayana Hridayam	लक्ष्मीनारायण हृदयम्	vishnu
+lakshmi-narayana-stotram	Lakshmi Narayana Stotram	लक्ष्मी नारायण स्तोत्रम्	vishnu
+lakshmi-pancharatnam	Lakshmi Pancharatnam	लक्ष्मी पञ्चरत्नम्	lakshmi
+lakshmi-sahasranama	Lakshmi Sahasranama Stotram	लक्ष्मी सहस्रनाम स्तोत्रम्	lakshmi
+lakshmi-stotram	Lakshmi Stotram	श्री लक्ष्मी स्तोत्रम्	lakshmi
+lakshmi-stuti	Lakshmi Stuti	लक्ष्मी स्तुति	lakshmi
+lalita-sahasranama	Lalita Sahasranama Stotram	ललिता सहस्रनाम स्तोत्रम्	parvati
+lalita-trishati	Lalita Trishati Stotram	ललिता त्रिशती स्तोत्रम्	parvati
+laxminarayan-chalisa	Laxminarayan Chalisa	लक्ष्मीनारायण चालीसा	vishnu
+lingashtakam	Lingashtakam	लिङ्गाष्टकम्	shiva
+madhurashtakam	Madhurashtakam	मधुराष्टकम्	krishna
+maha-ganapati-stotram	Maha Ganapati Stotram	महा गणपति स्तोत्रम्	ganesha
+maha-ganesh-mantra	Maha Ganesh Mantra Collection	महा गणेश मन्त्र संग्रह	ganesha
+maha-shivratri-stotram	Maha Shivaratri Stotram	महाशिवरात्रि स्तोत्रम्	shiva
+mahagauri-stotram	Mahagauri Stotram	महागौरी स्तोत्रम्	durga
+mahakal-ashtakam	Mahakal Ashtakam	महाकाल अष्टकम्	shiva
+mahakal-stotram	Mahakal Stotram	श्री महाकाल स्तोत्रम्	shiva
+mahakali-kavacham	Mahakali Kavacham	महाकाली कवचम्	kali
+mahakali-stotram	Mahakali Stotram	महाकाली स्तोत्रम्	kali
+mahalakshmi-ashtakam	Mahalakshmi Ashtakam	महालक्ष्मी अष्टकम्	lakshmi
+mahamrityunjaya-mantra	Mahamrityunjaya Mantra	महामृत्युञ्जय मन्त्र	shiva
+mahishasura-mardini-stotram-excerpt	Mahishasura Mardini Stotram Excerpt	महिषासुरमर्दिनि स्तोत्रम् (चयन)	durga
+mahishasura-mardini-stotram	Mahishasura Mardini Stotram	महिषासुर मर्दिनी स्तोत्रम्	durga
+makar-sankranti-vrat-katha	Makar Sankranti Vrat Katha	मकर संक्रांति व्रत कथा	surya
+mallikarjuna-stotram	Mallikarjuna Stotram	श्री मल्लिकार्जुन स्तोत्रम्	shiva
+mandukya-upanishad	Mandukya Upanishad	माण्डूक्योपनिषद्	vishnu
+mangal-chandika-stotram	Mangal Chandika Stotram	मङ्गलचण्डिका स्तोत्रम्	durga
+mangal-dosh-nivaran-stotram	Mangal Dosh Nivaran Stotram	मंगल दोष निवारण स्तोत्रम्	hanuman
+mangal-graha-kavacham	Mangal Graha Kavacham	मङ्गल ग्रह कवचम्	navagraha
+mangal-kavacham	Mangal Kavacham	मंगल कवचम्	navagraha
+mangal-sahasranama	Mangal Sahasranama Stotram	श्री मङ्गल (कुज) सहस्रनाम स्तोत्रम्	navagraha
+mangal-stotra	Mangal Stotra	मंगल स्तोत्र	navagraha
+mangal-stotram	Mangal Stotram	मङ्गल स्तोत्रम्	navagraha
+mangalvar-vrat-katha	Mangalvar Vrat Katha (Tuesday Fasting Story)	मंगलवार व्रत कथा	hanuman
+manisha-panchakam	Manisha Panchakam	मनीषा पञ्चकम्	shiva
+mantra-pushpam	Mantra Pushpam	मन्त्रपुष्पम्	vishnu
+mantra-pushpanjali	Mantra Pushpanjali	मन्त्र पुष्पाञ्जलि	vishnu
+manyu-suktam	Manyu Suktam	मन्यु सूक्तम्	vishnu
+markandeya-stuti	Markandeya Stuti	मार्कण्डेय स्तुति	shiva
+maruti-ashtakam	Maruti Ashtakam	मारुति अष्टकम्	hanuman
+maruti-stotra	Maruti Stotra	मारुति स्तोत्र	hanuman
+matangi-kavacham	Matangi Kavacham	श्री मातङ्गी कवचम्	durga
+matangi-stotram	Matangi Stotram	मातंगी स्तोत्रम्	durga
+matsya-stotram	Matsya Stotram	श्री मत्स्य स्तोत्रम्	vishnu
+medha-dakshinamurthy-stotram	Medha Dakshinamurthy Stotram	मेधा दक्षिणामूर्ति स्तोत्रम्	shiva
+medha-suktam	Medha Suktam	मेधा सूक्तम्	saraswati
+meenakshi-pancharatnam	Meenakshi Pancharatnam	मीनाक्षी पञ्चरत्नम्	parvati
+meenakshi-stotram	Meenakshi Stotram	श्री मीनाक्षी स्तोत्रम्	parvati
+meera-bhajan-key-verses	Meera Bhajan - Key Verses	मीरा भजन (प्रमुख पद)	krishna
+mehandipur-balaji-aarti	Mehandipur Balaji Aarti	मेहंदीपुर बालाजी आरती	hanuman
+moksha-prapti-stotram	Moksha Prapti Stotram	मोक्ष प्राप्ति स्तोत्रम्	shiva
+mrityunjaya-kavacham	Mrityunjaya Kavacham	मृत्युञ्जय कवचम्	shiva
+mrityunjaya-stotram	Mrityunjaya Stotram	मृत्युञ्जय स्तोत्रम्	shiva
+mukunda-mala-stotram	Mukunda Mala Stotram	मुकुन्दमाला स्तोत्रम्	krishna
+mundaka-upanishad-key-verses	Mundaka Upanishad Key Verses	मुण्डकोपनिषद् (प्रमुख श्लोक)	vishnu
+muralidhara-stotram	Muralidhara Stotram	श्री मुरलीधर स्तोत्रम्	krishna
+murugan-chalisa	Murugan Chalisa	श्री मुरुगन चालीसा	kartikeya
+nag-panchami-vrat-katha	Nag Panchami Vrat Katha	नाग पंचमी व्रत कथा	shiva
+naga-gayatri	Naga Gayatri	नाग गायत्री	shiva
+naga-stotram	Naga Stotram	नाग स्तोत्रम्	shiva
+nageshwar-stotram	Nageshwar Stotram	श्री नागेश्वर स्तोत्रम्	shiva
+nama-ramayanam	Nama Ramayanam	नाम रामायणम्	rama
+nandi-stotram	Nandi Stotram	श्री नन्दी स्तोत्रम्	shiva
+narada-bhakti-sutra-key-verses	Narada Bhakti Sutra Key Verses	नारद भक्ति सूत्र (मुख्य श्लोक)	vishnu
+narada-stuti	Narada Stuti	नारद स्तुति	vishnu
+narasimha-aarti	Narasimha Aarti	नरसिंह आरती	narasimha
+narasimha-ashtakam	Narasimha Ashtakam	नरसिंहाष्टकम्	narasimha
+narasimha-ashtottara-shatanamavali	Narasimha Ashtottara Shatanamavali	नरसिंह अष्टोत्तर शतनामावली	narasimha
+narasimha-dwadash-nama	Narasimha Dwadash Nama Stotram	नरसिंह द्वादश नाम स्तोत्रम्	narasimha
+narasimha-gayatri-v2	Narasimha Gayatri (Taittiriya Aranyaka)	नरसिंह गायत्री (विस्तारित)	narasimha
+narasimha-gayatri	Narasimha Gayatri Mantra	नरसिंह गायत्री मन्त्र	narasimha
+narasimha-hridayam	Narasimha Hridayam	नरसिंह हृदयम्	narasimha
+narasimha-kavacham	Narasimha Kavacham	नरसिंह कवचम्	narasimha
+narasimha-mangalashtakam	Narasimha Mangalashtakam	नरसिंह मङ्गलाष्टकम्	narasimha
+narasimha-nakha-stuti	Narasimha Nakha Stuti	नरसिंह नख स्तुति	narasimha
+narasimha-panchamrita-stotram	Narasimha Panchamrita Stotram	नरसिंह पञ्चामृत स्तोत्रम्	narasimha
+narasimha-pancharatnam	Narasimha Pancharatnam	नरसिंह पञ्चरत्नम्	narasimha
+narasimha-sahasranama	Narasimha Sahasranama	नरसिंह सहस्रनाम	narasimha
+narasimha-stotram	Narasimha Stotram	नरसिंह स्तोत्रम्	narasimha
+narasimha-stuti-prahlada	Narasimha Stuti by Prahlada	नरसिंह स्तुति (प्रह्लाद कृत)	narasimha
+narayana-ashtakam	Narayana Ashtakam	नारायणाष्टकम्	vishnu
+narayana-hridayam	Narayana Hridayam	नारायण हृदयम्	vishnu
+narayana-jyotirmaya-stotram	Narayana Jyotirmaya Stotram	श्री नारायण ज्योतिर्मय स्तोत्रम्	vishnu
+narayana-kavacham	Narayana Kavacham	नारायण कवचम्	vishnu
+narayana-suktam	Narayana Suktam	नारायण सूक्तम्	vishnu
+narayana-upanishad	Narayana Upanishad	नारायण उपनिषद्	vishnu
+narmada-ashtakam	Narmada Ashtakam	नर्मदाष्टकम्	ganga
+narmada-stotram	Narmada Stotram	नर्मदा स्तोत्रम्	ganga
+narsimha-chalisa	Narsimha Chalisa	नृसिंह चालीसा	narasimha
+nasadiya-suktam	Nasadiya Suktam	नासदीय सूक्तम्	vishnu
+nataraja-stotram	Nataraja Stotram	नटराज स्तोत्रम्	shiva
+naukari-prapti-stotram	Naukari Prapti Stotram	नौकरी प्राप्ति स्तोत्रम्	vishnu
+nava-durga-dhyanam	Nava Durga Dhyanam	नवदुर्गा ध्यानम्	durga
+navadurga-gayatri	Navadurga Gayatri	नवदुर्गा गायत्री	durga
+navadurga-kavacham	Navadurga Kavacham	नवदुर्गा कवचम्	durga
+navagraha-gayatri	Navagraha Gayatri Mantras	नवग्रह गायत्री मन्त्र	navagraha
+navagraha-kavach	Navagraha Kavach	नवग्रह कवच	navagraha
+navagraha-kavacham	Navagraha Kavacham	नवग्रह कवचम्	navagraha
+navagraha-mantra	Navagraha Beej Mantra	नवग्रह बीज मन्त्र	navagraha
+navagraha-shanti-stotram	Navagraha Shanti Stotram	नवग्रह शान्ति स्तोत्रम्	navagraha
+navagraha-stotra	Navagraha Stotra	नवग्रह स्तोत्र	navagraha
+navagraha-stotram-brihaspati	Navagraha Stotram Brihaspati	नवग्रह स्तोत्रम् (बृहस्पति)	navagraha
+navaratna-stotram	Navaratna Stotram	नवरत्न स्तोत्रम्	navagraha
+navarna-mantra-vidhana	Navarna Mantra Vidhana	नवार्ण मन्त्र विधान	durga
+navdurga-stotram	Navdurga Stotram	नवदुर्गा स्तोत्रम्	durga
+navratri-vrat-katha	Navratri Vrat Katha	नवरात्रि व्रत कथा	durga
+neelakanthesha-stotram	Neelakanthesha Stotram	श्री नीलकण्ठेश स्तोत्रम्	shiva
+nirvana-shatakam	Nirvana Shatakam	निर्वाण षट्कम् (आत्म षट्कम्)	shiva
+niti-shatakam	Niti Shatakam	नीतिशतकम् (प्रमुख श्लोक)	vishnu
+om-jai-jagdish-hare	Om Jai Jagdish Hare	ॐ जय जगदीश हरे आरती	vishnu
+omkareshwar-stotram	Omkareshwar Stotram	श्री ओंकारेश्वर स्तोत्रम्	shiva
+padmanabha-ashtakam	Padmanabha Ashtakam	पद्मनाभ अष्टकम्	vishnu
+padmavathi-stotram	Padmavathi Stotram	पद्मावती स्तोत्रम्	lakshmi
+pancha-ratna-stotram	Pancha Ratna Stotram	श्री शिव पञ्चरत्न स्तोत्रम्	shiva
+pancha-suktam	Pancha Suktam	पञ्च सूक्तम्	vishnu
+panchamukhi-hanuman-kavach	Panchamukhi Hanuman Kavach	श्री पञ्चमुखी हनुमान कवच	hanuman
+panchamukhi-hanuman-kavacham	Panchamukhi Hanuman Kavacham	पञ्चमुखी हनुमान कवचम्	hanuman
+panchayatana-puja-stotram	Panchayatana Puja Stotram	पंचायतन पूजा स्तोत्रम्	vishnu
+pandurangashtakam	Pandurangashtakam	पाण्डुरङ्गाष्टकम्	vitthal
+parashurama-stotram	Parashurama Stotram	श्री परशुराम स्तोत्रम्	vishnu
+parvati-ashtakam	Parvati Ashtakam	पार्वती अष्टकम्	parvati
+parvati-ashtottara-shatanamavali	Parvati Ashtottara Shatanamavali	पार्वती अष्टोत्तर शतनामावली	parvati
+parvati-chalisa	Parvati Chalisa	पार्वती चालीसा	parvati
+parvati-hridayam	Parvati Hridayam	पार्वती हृदयम्	parvati
+parvati-kavacham	Parvati Kavacham	पार्वती कवचम्	parvati
+parvati-mangal	Parvati Mangal	पार्वती मङ्गल	parvati
+parvati-mangalashtakam	Parvati Mangalashtakam	पार्वती मङ्गलाष्टकम्	parvati
+parvati-sahasranama	Parvati Sahasranama Stotram	पार्वती सहस्रनाम स्तोत्रम्	parvati
+parvati-stotram	Parvati Stotram	पार्वती स्तोत्रम्	parvati
+pashupatinath-stotram	Pashupatinath Stotram	पशुपतिनाथ स्तोत्रम्	shiva
+pavamana-suktam	Pavamana Suktam	पवमान सूक्तम्	vishnu
+pitru-dosh-nivaran-stotram	Pitru Dosh Nivaran Stotram	पितृ दोष निवारण स्तोत्रम्	vishnu
+pradosh-vrat-katha	Pradosh Vrat Katha	प्रदोष व्रत कथा	shiva
+pradosha-stotra	Pradosha Stotram	प्रदोष स्तोत्रम्	shiva
+prahlada-stuti	Prahlada Stuti	प्रह्लाद स्तुति	vishnu
+prarthana-shloka-sangraha	Prarthana Shloka Sangraha (Essential Daily Shlokas)	प्रार्थना श्लोक संग्रह	vishnu
+pratah-kaal-stotram	Pratah Kaal Stotram	प्रातःकाल स्तोत्रम्	surya
+pratah-prarthana	Pratah Prarthana (Morning Prayer)	प्रातः प्रार्थना	vishnu
+pratah-smarana-stotram	Pratah Smarana Stotram	प्रातःस्मरण स्तोत्रम्	vishnu
+pratyangira-stotram	Pratyangira Stotram	प्रत्यंगिरा स्तोत्रम्	kali
+prithvi-suktam	Prithvi Suktam	पृथ्वी सूक्तम्	vishnu
+purusha-suktam	Purusha Suktam	पुरुष सूक्तम्	vishnu
+purushashtakam	Purushashtakam	श्री पुरुषाष्टकम्	vishnu
+radha-ashtakam	Radha Ashtakam	राधा अष्टकम्	radha
+radha-chalisa	Radha Chalisa	राधा चालीसा	radha
+radha-hridayam	Radha Hridayam	राधा हृदयम्	radha
+radha-kavacham	Radha Kavacham	राधा कवचम्	radha
+radha-kripa-kataksha-stotram	Radha Kripa Kataksha Stotram	राधा कृपा कटाक्ष स्तोत्रम्	radha
+radha-krishna-ashtakam	Radha Krishna Ashtakam	राधाकृष्णाष्टकम्	krishna
+radha-mangalashtakam	Radha Mangalashtakam	राधा मङ्गलाष्टकम्	radha
+radha-sahasranama	Radha Sahasranama	राधा सहस्रनाम	radha
+radha-stotram	Radha Stotram	राधा स्तोत्रम्	radha
+radha-stuti	Radha Stuti	राधा स्तुति	radha
+raghunatha-ashtakam	Raghunatha Ashtakam	श्री रघुनाथाष्टकम्	rama
+raghuveera-gadyam	Raghuveera Gadyam	श्री रघुवीर गद्यम्	rama
+rahu-dosh-nivaran-stotram	Rahu Dosh Nivaran Stotram	राहु दोष निवारण स्तोत्रम्	durga
+rahu-kavacham	Rahu Kavacham	राहु कवचम्	navagraha
+rahu-ketu-stotram	Rahu Ketu Stotram	राहु-केतु स्तोत्रम्	navagraha
+rahu-sahasranama	Rahu Sahasranama Stotram	श्री राहु सहस्रनाम स्तोत्रम्	navagraha
+rahu-stotra	Rahu Stotra	राहु स्तोत्र	navagraha
+rahu-stotram	Rahu Stotram	राहु स्तोत्रम्	navagraha
+raksha-bandhan-stotram	Raksha Bandhan Stotram	श्री रक्षाबन्धन स्तोत्रम्	lakshmi
+ram-aarti	Ram Aarti	आरती श्री रामायण जी की	rama
+ram-chalisa	Ram Chalisa	श्री राम चालीसा	rama
+ram-navami-vrat-katha	Ram Navami Vrat Katha	राम नवमी व्रत कथा	rama
+ram-satsal	Ram Satsai	राम सतसई	rama
+ram-stuti	Ram Stuti	श्री राम स्तुति	rama
+rama-ashtakam	Rama Ashtakam	श्री रामाष्टकम्	rama
+rama-ashtottara-shatanamavali	Rama Ashtottara Shatanamavali	राम अष्टोत्तर शतनामावली	rama
+rama-dwadash-nama	Rama Dwadash Nama Stotram	राम द्वादश नाम स्तोत्रम्	rama
+rama-gayatri	Rama Gayatri Mantra	राम गायत्री मन्त्र	rama
+rama-hridayam	Rama Hridayam	राम हृदयम्	rama
+rama-kavacham	Rama Kavacham	राम कवचम्	rama
+rama-mangalashtakam	Rama Mangalashtakam	राम मङ्गलाष्टकम्	rama
+rama-panchakam	Rama Panchakam	श्री राम पञ्चकम्	rama
+rama-pancharatnam	Rama Pancharatnam	राम पञ्चरत्नम्	rama
+rama-sahasranama	Rama Sahasranama Stotram	राम सहस्रनाम स्तोत्रम्	rama
+rama-stotram	Rama Stotram	राम स्तोत्रम्	rama
+ramayana-chopai	Ramayana Chopai	रामायण चौपाई	rama
+rameshwaram-stotram	Rameshwaram Stotram	श्री रामेश्वरम् स्तोत्रम्	shiva
+ramraksha-stotra	Ramraksha Stotra	रामरक्षा स्तोत्र	rama
+ranganatha-ashtakam	Ranganatha Ashtakam	रङ्गनाथाष्टकम्	vishnu
+ratha-saptami-stotram	Ratha Saptami Stotram	रथ सप्तमी स्तोत्रम्	surya
+ratri-suktam	Ratri Suktam	रात्रि सूक्तम्	durga
+ravivar-vrat-katha	Ravivar Vrat Katha (Sunday Fasting Story)	रविवार व्रत कथा	surya
+rin-mukti-stotram	Rin Mukti Stotram	ऋणमुक्ति स्तोत्रम्	lakshmi
+rudra-gayatri	Rudra Gayatri	रुद्र गायत्री	shiva
+rudra-suktam	Rudra Suktam	रुद्र सूक्तम्	shiva
+rudram-chamakam-excerpt	Rudram Chamakam Excerpt	रुद्रम् चमकम् (चयन)	shiva
+rudrashtakam	Rudrashtakam	श्री रुद्राष्टकम्	shiva
+rukmini-mangalashtakam	Rukmini Mangalashtakam	रुक्मिणी मङ्गलाष्टकम्	krishna
+sadhana-panchakam	Sadhana Panchakam	साधन पञ्चकम्	vishnu
+sai-aarti	Sai Aarti	श्री साईं आरती	saibaba
+sai-ashtakam	Sai Ashtakam	श्री साई अष्टकम्	saibaba
+sai-baba-aarti-dhup	Sai Baba Dhup Aarti	साईं बाबा धूप आरती	saibaba
+sai-baba-aarti-shej	Sai Baba Shej Aarti	साईं बाबा शेज आरती	saibaba
+sai-chalisa	Sai Chalisa	श्री साई चालीसा	saibaba
+sai-kavacham	Sai Kavacham	श्री साई कवचम्	saibaba
+sai-mangalashtakam	Sai Mangalashtakam	श्री साई मङ्गलाष्टकम्	saibaba
+sai-sahasranama	Sai Sahasranama Stotram	श्री साई सहस्रनाम स्तोत्रम्	saibaba
+sai-stotram	Sai Stotram	श्री साई स्तोत्रम्	saibaba
+sandhya-vandana	Sandhya Vandana	सन्ध्या वन्दना	surya
+sankat-mochan-hanuman-ashtak	Sankat Mochan Hanuman Ashtak	संकटमोचन हनुमानाष्टक	hanuman
+sankat-nashan-ganesh-stotra	Sankat Nashan Ganesh Stotra	संकटनाशन गणेश स्तोत्र	ganesha
+santan-gopala-mantra	Santan Gopala Mantra	सन्तान गोपाल मन्त्र	krishna
+santan-gopala-stotram	Santan Gopala Stotram	श्री सन्तान गोपाल स्तोत्रम्	krishna
+santan-lakshmi-stotram	Santan Lakshmi Stotram	संतान लक्ष्मी स्तोत्रम्	lakshmi
+santan-prapti-stotram	Santan Prapti Stotram	सन्तान प्राप्ति स्तोत्रम्	krishna
+santoshi-mata-aarti	Santoshi Mata Aarti	सन्तोषी माता आरती	durga
+santoshi-mata-chalisa	Santoshi Mata Chalisa	सन्तोषी माता चालीसा	durga
+santoshi-mata-vrat-katha	Santoshi Mata Vrat Katha	संतोषी माता व्रत कथा	durga
+saptashloki-gita	Saptashloki Gita	सप्तश्लोकी गीता	krishna
+saraswati-aarti	Saraswati Aarti	सरस्वती आरती	saraswati
+saraswati-ashtakam	Saraswati Ashtakam	श्री सरस्वती अष्टकम्	saraswati
+saraswati-ashtottara-shatanamavali	Saraswati Ashtottara Shatanamavali	सरस्वती अष्टोत्तर शतनामावली	saraswati
+saraswati-chalisa	Saraswati Chalisa	सरस्वती चालीसा	saraswati
+saraswati-dwadash-nama	Saraswati Dwadash Nama Stotram	सरस्वती द्वादश नाम स्तोत्रम्	saraswati
+saraswati-gayatri	Saraswati Gayatri Mantra	सरस्वती गायत्री मन्त्र	saraswati
+saraswati-hridayam	Saraswati Hridayam	सरस्वती हृदयम्	saraswati
+saraswati-kavacham	Saraswati Kavacham	सरस्वती कवचम्	saraswati
+saraswati-mangalashtakam	Saraswati Mangalashtakam	सरस्वती मङ्गलाष्टकम्	saraswati
+saraswati-panchakam	Saraswati Panchakam	सरस्वती पञ्चकम्	saraswati
+saraswati-pancharatnam	Saraswati Pancharatnam	सरस्वती पञ्चरत्नम्	saraswati
+saraswati-rahasya-stotram	Saraswati Rahasya Stotram	सरस्वती रहस्य स्तोत्रम्	saraswati
+saraswati-sahasranama	Saraswati Sahasranama Stotram	श्री सरस्वती सहस्रनाम स्तोत्रम्	saraswati
+saraswati-stotram	Saraswati Stotram	सरस्वती स्तोत्रम्	saraswati
+saraswati-stuti	Saraswati Stuti	श्री सरस्वती स्तुति	saraswati
+saraswati-suktam	Saraswati Suktam	सरस्वती सूक्तम्	saraswati
+saraswati-vandana	Saraswati Vandana	सरस्वती वन्दना	saraswati
+sarpa-dosha-nivaran-stotram	Sarpa Dosha Nivaran Stotram	सर्प दोष निवारण स्तोत्रम्	shiva
+sarva-devata-stotram	Sarva Devata Stotram	सर्वदेवता स्तोत्रम्	vishnu
+sarva-karya-siddhi-stotram	Sarva Karya Siddhi Stotram	सर्व कार्य सिद्धि स्तोत्रम्	vishnu
+sarva-mangala-stotram	Sarva Mangala Stotram	सर्वमङ्गल स्तोत्रम्	durga
+satyanarayan-aarti	Satyanarayan Aarti	श्री सत्यनारायण आरती	vishnu
+satyanarayan-chalisa	Satyanarayan Chalisa	सत्यनारायण चालीसा	vishnu
+satyanarayan-katha	Satyanarayan Vrat Katha	सत्यनारायण व्रत कथा	vishnu
+satyanarayan-stotram	Satyanarayan Stotram	सत्यनारायण स्तोत्रम्	vishnu
+saubhagya-lakshmi-stotram	Saubhagya Lakshmi Stotram	सौभाग्य लक्ष्मी स्तोत्रम्	lakshmi
+savitri-gayatri-extended	Savitri Gayatri Extended	सावित्री गायत्री विस्तारित मन्त्र	surya
+shailputri-stotram	Shailputri Stotram	शैलपुत्री स्तोत्रम्	durga
+shakambhari-stotram	Shakambhari Stotram	शाकम्भरी स्तोत्रम्	durga
+shakti-panchakam	Shakti Panchakam	शक्ति पञ्चकम्	durga
+shani-aarti	Shani Aarti	शनि आरती	shani
+shani-ashtottara-shatanamavali	Shani Ashtottara Shatanamavali	श्री शनि अष्टोत्तर शतनामावली	shani
+shani-chalisa	Shani Chalisa	शनि चालीसा	shani
+shani-dashrath-stotram	Shani Dasharatha Stotram	शनि दशरथ कृत स्तोत्रम्	shani
+shani-gayatri	Shani Gayatri	शनि गायत्री	shani
+shani-hridayam	Shani Hridayam	शनि हृदयम्	shani
+shani-kavacham	Shani Kavacham	श्री शनि कवचम्	shani
+shani-mahatmya	Shani Mahatmya Stotram	शनि महात्म्य स्तोत्रम्	shani
+shani-mangalashtakam	Shani Mangalashtakam	शनि मङ्गलाष्टकम्	shani
+shani-pancharatnam	Shani Pancharatnam	शनि पञ्चरत्नम्	shani
+shani-sahasranama	Shani Sahasranama Stotram	श्री शनि सहस्रनाम स्तोत्रम्	shani
+shani-stotra	Shani Stotra (by King Dasharatha)	शनि स्तोत्र (दशरथकृत)	shani
+shani-stotram-dasharatha	Shani Vajrapanjara Stotram (by Dasharatha)	शनि वज्रपञ्जर स्तोत्रम् (दशरथकृत)	shani
+shani-vajrapanjara-kavach	Shani Vajrapanjara Kavacham	शनि वज्रपञ्जर कवचम्	shani
+shanivar-vrat-katha	Shanivar Vrat Katha (Saturday Fasting Story)	शनिवार व्रत कथा	shani
+shankaracharya-ashtakam	Shankaracharya Ashtakam	शंकराचार्य अष्टकम्	shiva
+shanmukha-gayatri	Shanmukha Gayatri	षण्मुख गायत्री	kartikeya
+shanmukha-stotram	Shanmukha Stotram	षण्मुख स्तोत्रम्	kartikeya
+shanti-path	Shanti Path - Om Dyauh Shanti	शान्ति पाठ	vishnu
+sharabha-stotram	Sharabha Stotram	शरभ स्तोत्रम्	shiva
+sharad-purnima-vrat-katha	Sharad Purnima Vrat Katha	शरद पूर्णिमा व्रत कथा	lakshmi
+sharanagati-gadyam	Sharanagati Gadyam	शरणागति गद्यम्	vishnu
+sharanu-ghosha	Sharanu Ghosha	शरणु घोष	vishnu
+shatpadi-stotram	Shatpadi Stotram	षट्पदी स्तोत्रम्	vishnu
+shatru-nashak-stotram	Shatru Nashak Stotram	शत्रुनाशक स्तोत्रम्	hanuman
+shayan-prarthana	Shayan Prarthana (Bedtime Prayer)	शयन प्रार्थना	vishnu
+sheetala-mata-aarti	Sheetala Mata Aarti	शीतला माता आरती	durga
+shiv-aarti	Shiv Aarti - Om Jai Shiv Omkara	शिव आरती — ॐ जय शिव ओंकारा	shiva
+shiv-aparadh-kshamapana-stotram	Shiv Aparadh Kshamapana Stotram	शिवापराधक्षमापनस्तोत्रम्	shiva
+shiv-bhujanga-stotram	Shiva Bhujanga Stotram	शिव भुजङ्ग स्तोत्रम्	shiva
+shiv-chalisa	Shiv Chalisa	शिव चालीसा	shiva
+shiv-dashakam	Shiva Dashakam	शिव दशकम्	shiva
+shiv-kavach	Shiv Kavacham	श्री शिव कवचम्	shiva
+shiv-mahimna-stotram	Shiv Mahimna Stotram	शिव महिम्नः स्तोत्रम्	shiva
+shiv-manasa-puja	Shiva Manasa Puja	शिव मानसपूजा स्तोत्रम्	shiva
+shiv-panchakam	Shiva Panchakam	शिव पञ्चाक्षर स्तोत्रम्	shiva
+shiv-panchakshar-dhun	Shiv Panchakshar Dhun	श्री शिव पञ्चाक्षर धुन	shiva
+shiv-panchakshara-stotram	Shiv Panchakshara Stotram	शिव पञ्चाक्षर स्तोत्रम्	shiva
+shiv-sahasranama-stotram	Shiv Sahasranama Stotram	श्री शिव सहस्रनाम स्तोत्रम्	shiva
+shiv-sankalpa-suktam	Shiva Sankalpa Suktam	शिवसंकल्प सूक्तम्	shiva
+shiv-shadakshara-stotram	Shiva Shadakshara Stotram	शिव षडक्षर स्तोत्रम्	shiva
+shiv-stuti	Shiv Stuti	शिव स्तुति	shiva
+shiv-tandav-stotram	Shiv Tandav Stotram	शिव तांडव स्तोत्रम्	shiva
+shiva-aparadha-stotram	Shiva Aparadha Bhanjana Stotram	शिव अपराध भञ्जन स्तोत्रम्	shiva
+shiva-ashtakam-prabhu	Shiva Ashtakam (Tasmai Namah)	शिवाष्टकम् (तस्मै नमः)	shiva
+shiva-ashtamurti-stotram	Shiva Ashtamurti Stotram	श्री शिव अष्टमूर्ति स्तोत्रम्	shiva
+shiva-ashtottara-shatanamavali	Shiva Ashtottara Shatanamavali	शिव अष्टोत्तर शतनामावली	shiva
+shiva-ashtottara-stotram	Shiva Ashtottara Stotram	शिव अष्टोत्तर स्तोत्रम्	shiva
+shiva-dhyanam	Shiva Dhyanam	शिव ध्यानम्	shiva
+shiva-dwadash-nama	Shiva Dwadash Nama Stotram	श्री शिव द्वादश नाम स्तोत्रम्	shiva
+shiva-gayatri	Shiva Gayatri Mantra	शिव गायत्री मन्त्र	shiva
+shiva-hridayam	Shiva Hridayam	शिव हृदयम्	shiva
+shiva-mangalashtakam	Shiva Mangalashtakam	शिव मङ्गलाष्टकम्	shiva
+shiva-namavali-ashtakam	Shiva Namavali Ashtakam	श्री शिव नामावली अष्टकम्	shiva
+shiva-pancharatnam	Shiva Pancharatnam	शिव पञ्चरत्नम्	shiva
+shiva-panchavaktra-stotram	Shiva Panchavaktra Stotram	श्री शिव पञ्चवक्त्र स्तोत्रम्	shiva
+shiva-raksha-stotram	Shiva Raksha Stotram	शिवरक्षास्तोत्रम्	shiva
+shiva-stuti-ramayana	Shiva Stuti from Ramayana	श्री शिव स्तुति (रामायण)	shiva
+shiva-tandava-dhun	Shiva Tandava Dhun	शिव ताण्डव धुन	shiva
+shiva-tatva-stotram	Shiva Tatva Stotram	श्री शिव तत्त्व स्तोत्रम्	shiva
+shivananda-lahari-excerpt	Shivananda Lahari Excerpt	शिवानन्दलहरी (चयन)	shiva
+shivananda-lahari	Shivananda Lahari	शिवानन्दलहरी (प्रमुख श्लोक)	shiva
+shivashtakam	Shivashtakam	शिवाष्टकम्	shiva
+shodasha-ganapati-stotram	Shodasha Ganapati Stotram	षोडश गणपति स्तोत्रम्	ganesha
+shodashi-stotram	Shodashi Stotram	षोडशी स्तोत्रम्	durga
+shraddha-mantras	Shraddha Mantras	श्राद्ध मन्त्र	vishnu
+shri-hari-stuti	Shri Hari Stuti	श्रीहरि स्तुति	vishnu
+shri-krishna-sharanam-mamah	Shri Krishna Sharanam Mamah	श्री कृष्ण शरणं ममः	krishna
+shri-suktam	Shri Suktam	श्री सूक्तम्	vishnu
+shrinathji-aarti	Shrinathji Aarti	श्रीनाथजी आरती	krishna
+shrinathji-chalisa	Shrinathji Chalisa	श्रीनाथजी चालीसा	krishna
+shrinathji-stotram	Shrinathji Stotram	श्रीनाथजी स्तोत्रम्	krishna
+shruti-gita	Shruti Gita	श्रुति गीता	vishnu
+shuka-stuti	Shuka Stuti	शुक स्तुति	vishnu
+shukra-kavacham	Shukra Kavacham	शुक्र कवचम्	navagraha
+shukra-sahasranama	Shukra Sahasranama Stotram	श्री शुक्र सहस्रनाम स्तोत्रम्	navagraha
+shukra-stotra	Shukra Stotra	शुक्र स्तोत्र	navagraha
+shukra-stotram	Shukra Stotram	शुक्र स्तोत्रम्	navagraha
+shukravar-vrat-katha	Shukravar Vrat Katha (Friday Fasting Story)	शुक्रवार व्रत कथा	lakshmi
+shvetashvatara-upanishad-key-verses	Shvetashvatara Upanishad Key Verses	श्वेताश्वतर उपनिषद् (प्रमुख श्लोक)	shiva
+shyama-sundara-stotram	Shyama Sundara Stotram	श्यामसुन्दर स्तोत्रम्	krishna
+shyamala-dandakam	Shyamala Dandakam	श्यामला दण्डकम्	saraswati
+siddha-kunjika-stotram	Siddha Kunjika Stotram	सिद्ध कुञ्जिका स्तोत्रम्	durga
+siddhi-vinayak-stotram	Siddhi Vinayak Stotram	श्री सिद्धिविनायक स्तोत्रम्	ganesha
+siddhidatri-stotram	Siddhidatri Stotram	सिद्धिदात्री स्तोत्रम्	durga
+sita-ashtakam	Sita Ashtakam	सीता अष्टकम्	sita
+sita-chalisa	Sita Chalisa	सीता चालीसा	sita
+sita-hridayam	Sita Hridayam	सीता हृदयम्	sita
+sita-kavacham	Sita Kavacham	सीता कवचम्	sita
+sita-mangalashtakam	Sita Mangalashtakam	सीता मङ्गलाष्टकम्	sita
+sita-ram-stuti	Sita Ram Stuti	सीताराम स्तुति	rama
+sita-sahasranama	Sita Sahasranama Stotram	सीता सहस्रनाम स्तोत्रम्	sita
+sita-stotram	Sita Stotram	सीता स्तोत्रम्	sita
+skanda-sashti-kavacham	Skanda Sashti Kavacham	स्कन्द षष्ठी कवचम्	kartikeya
+skandamata-stotram	Skandamata Stotram	स्कन्दमाता स्तोत्रम्	durga
+soma-suktam	Soma Suktam	सोम सूक्तम्	shiva
+somnath-stotram	Somnath Stotram	श्री सोमनाथ स्तोत्रम्	shiva
+somvar-vrat-katha	Somvar Vrat Katha (Monday Fasting Story)	सोमवार व्रत कथा	shiva
+soundarya-lahari-excerpt	Soundarya Lahari Excerpt	सौन्दर्यलहरी (चयन)	parvati
+soundarya-lahari	Soundarya Lahari	सौन्दर्यलहरी (प्रमुख श्लोक)	parvati
+sri-rudram-namakam	Sri Rudram Namakam	श्री रुद्रम् नमकम्	shiva
+sri-stuti	Sri Stuti	श्री स्तुति	lakshmi
+sri-suktam	Sri Suktam	श्रीसूक्तम्	lakshmi
+sri-venkatesha-mangalashasanam	Sri Venkatesha Mangalashasanam	श्री वेंकटेश मंगलाशासनम्	vishnu
+sri-yantra-stotram	Sri Yantra Stotram	श्रीयन्त्र स्तोत्रम्	durga
+subhashita-ratnavali	Subhashita Ratnavali	सुभाषित रत्नावली	vishnu
+subrahmanya-ashtakam	Subrahmanya Ashtakam	सुब्रह्मण्य अष्टकम्	kartikeya
+subrahmanya-bhujangam	Subrahmanya Bhujangam	सुब्रह्मण्य भुजंगम्	kartikeya
+subrahmanya-gayatri	Subrahmanya Gayatri	सुब्रह्मण्य गायत्री	kartikeya
+subrahmanya-kavacham	Subrahmanya Kavacham	सुब्रह्मण्य कवचम्	kartikeya
+sudarshana-ashtakam	Sudarshana Ashtakam	सुदर्शनाष्टकम्	vishnu
+sundarkand-full-path	Sundarkand Full Path - Key Dohas & Chaupais	सुन्दरकाण्ड पाठ (प्रमुख दोहे-चौपाई)	hanuman
+sundarkand-hanuman-stuti	Sundarkand Hanuman Stuti	सुन्दरकाण्ड हनुमान स्तुति	hanuman
+surdas-pad-key-verses	Surdas Pad Key Verses	सूरदास पद (मुख्य पद)	krishna
+surya-ashtakam	Surya Ashtakam	सूर्य अष्टकम्	surya
+surya-ashtottara-shatanamavali	Surya Ashtottara Shatanamavali	सूर्य अष्टोत्तर शतनामावली	surya
+surya-chalisa	Surya Chalisa	सूर्य चालीसा	surya
+surya-dvadash-nama	Surya Dvadash Nama Stotram	सूर्य द्वादश नाम स्तोत्रम्	surya
+surya-gayatri	Surya Gayatri	सूर्य गायत्री	surya
+surya-hridayam	Surya Hridayam	सूर्य हृदयम्	surya
+surya-kavacham	Surya Kavacham	सूर्य कवचम्	surya
+surya-mandala-stotram	Surya Mandala Stotram	सूर्य मण्डल स्तोत्रम्	surya
+surya-mangalashtakam	Surya Mangalashtakam	श्री सूर्य मङ्गलाष्टकम्	surya
+surya-namaskar-mantra	Surya Namaskar Mantra	सूर्य नमस्कार मन्त्र	surya
+surya-pancharatnam	Surya Pancharatnam	सूर्य पञ्चरत्नम्	surya
+surya-sahasranama-dhyanam	Surya Sahasranama Dhyanam	सूर्य सहस्रनाम ध्यानम्	surya
+surya-sahasranama-full	Surya Sahasranama Stotram	श्री सूर्य सहस्रनाम स्तोत्रम्	surya
+surya-stotram	Surya Stotram	सूर्य स्तोत्रम्	surya
+suryopasana-stotram	Suryopasana Stotram	सूर्योपासना स्तोत्रम्	surya
+taittiriya-upanishad-shiksha-valli	Taittiriya Upanishad Shiksha Valli	तैत्तिरीय उपनिषद् — शिक्षावल्ली	vishnu
+tara-kavacham	Tara Kavacham	तारा कवचम्	kali
+tara-stotram	Tara Stotram	तारा स्तोत्रम्	kali
+tattva-bodha-key-verses	Tattva Bodha Key Verses	तत्त्वबोधः (प्रमुख श्लोक)	shiva
+thiruchendur-stotram	Thiruchendur Stotram	तिरुचेन्दूर स्तोत्रम्	kartikeya
+thiruppavai	Thiruppavai	तिरुप्पावै	krishna
+tirupati-stotram	Tirupati Stotram	श्री तिरुपति बालाजी स्तोत्रम्	vishnu
+totakashtakam	Totakashtakam	श्री तोटकाष्टकम्	shiva
+trayodash-shiv-naam	Trayodash Shiv Naam (13 Names of Shiva)	त्रयोदश शिव नाम स्तोत्रम्	shiva
+trimbakeshwar-stotram	Trimbakeshwar Stotram	श्री त्र्यम्बकेश्वर स्तोत्रम्	shiva
+tripura-sundari-ashtakam	Tripura Sundari Ashtakam	त्रिपुर सुन्दरी अष्टकम्	parvati
+tripura-sundari-kavacham	Tripura Sundari Kavacham	त्रिपुरसुन्दरी कवचम्	parvati
+tripura-sundari-pancharatnam	Tripura Sundari Pancharatnam	त्रिपुरसुन्दरी पञ्चरत्नम्	parvati
+tripura-sundari-sahasranama	Tripura Sundari Sahasranama	त्रिपुर सुन्दरी सहस्रनाम स्तोत्रम्	parvati
+tripura-sundari-stotram	Tripura Sundari Stotram	त्रिपुर सुन्दरी स्तोत्रम्	parvati
+tripurantaka-stotram	Tripurantaka Stotram	श्री त्रिपुरान्तक स्तोत्रम्	shiva
+tukaram-abhanga-key-verses	Tukaram Abhanga - Key Verses	तुकाराम अभंग (प्रमुख पद)	vitthal
+tulsi-aarti	Tulsi Aarti	श्री तुलसी माता आरती	vishnu
+tulsi-stotram	Tulsi Stotram	श्री तुलसी स्तोत्रम्	vishnu
+tulsi-vivah-katha	Tulsi Vivah Katha	तुलसी विवाह कथा	vishnu
+tulsi-vivah-stotram	Tulsi Vivah Stotram	श्री तुलसी विवाह स्तोत्रम्	vishnu
+uddhava-gita-key-verses	Uddhava Gita - Key Verses	उद्धव गीता - प्रमुख श्लोक	krishna
+ugra-narasimha-stotram	Ugra Narasimha Stotram	उग्र नरसिंह स्तोत्रम्	narasimha
+uma-maheshwara-stotram	Uma Maheshwara Stotram	उमामहेश्वर स्तोत्रम्	shiva
+uma-stuti	Uma Stuti	उमा स्तुति	parvati
+ushas-suktam	Ushas Suktam	उषस् सूक्तम्	surya
+vaibhava-lakshmi-vrat-katha	Vaibhava Lakshmi Vrat Katha	वैभव लक्ष्मी व्रत कथा	lakshmi
+vaidyanath-stotram	Vaidyanath Stotram	श्री वैद्यनाथ स्तोत्रम्	shiva
+vairagya-sandipani	Vairagya Sandipani	वैराग्य सन्दीपनी	rama
+vairagya-shatakam	Vairagya Shatakam	वैराग्यशतकम् (प्रमुख श्लोक)	shiva
+vaishno-devi-aarti	Vaishno Devi Aarti	वैष्णो देवी आरती	durga
+vaishno-devi-chalisa	Vaishno Devi Chalisa	वैष्णो देवी चालीसा	durga
+vakratunda-mahakaya	Vakratunda Mahakaya - Ganesh Dhyanam	वक्रतुण्ड महाकाय श्लोक एवं गणेश ध्यानम्	ganesha
+vallabhacharya-ashtakam	Vallabhacharya Ashtakam	वल्लभाचार्य अष्टकम्	krishna
+vamana-stotram	Vamana Stotram	श्री वामन स्तोत्रम्	vishnu
+varaha-stotram	Varaha Stotram	वराह स्तोत्रम्	vishnu
+varalakshmi-stotram	Varalakshmi Stotram	वरलक्ष्मी स्तोत्रम्	lakshmi
+varuna-suktam	Varuna Suktam	वरुण सूक्तम्	vishnu
+vashikaran-nivaran-stotram	Vashikaran Nivaran Stotram	वशीकरण निवारण स्तोत्रम्	vishnu
+vastu-dosh-nivaran-mantra	Vastu Dosh Nivaran Mantra	वास्तु दोष निवारण मन्त्र	vishnu
+vastu-purusha-gayatri	Vastu Purusha Gayatri	वास्तु पुरुष गायत्री	vishnu
+vastu-purusha-stotram	Vastu Purusha Stotram	वास्तु पुरुष स्तोत्रम्	vishnu
+vastu-shanti-stotram	Vastu Shanti Stotram	वास्तु शान्ति स्तोत्रम्	vishnu
+vasudeva-ashtakam	Vasudeva Ashtakam	श्री वासुदेवाष्टकम्	krishna
+vasudeva-stotram	Vasudeva Stotram	श्री वासुदेव स्तोत्रम्	vishnu
+vat-savitri-vrat-katha	Vat Savitri Vrat Katha	वट सावित्री व्रत कथा	parvati
+vayu-ashtakam	Vayu Ashtakam	वायु अष्टकम्	vayu
+vayu-dwadash-nama	Vayu Dwadash Nama Stotram	वायु द्वादश नाम स्तोत्रम्	vayu
+vayu-gayatri	Vayu Gayatri	वायु गायत्री	vayu
+vayu-kavacham	Vayu Kavacham	श्री वायु कवचम्	vayu
+vayu-stotram	Vayu Stotram	वायु स्तोत्रम्	vayu
+vayu-stuti	Vayu Stuti	वायुस्तुति	vayu
+vayu-suktam	Vayu Suktam	वायु सूक्तम्	vayu
+vedasara-shiva-stotram	Vedasara Shiva Stotram	वेदसार शिवस्तोत्रम्	shiva
+venkatesha-prapatti	Venkatesha Prapatti	वेङ्कटेश प्रपत्ति	vishnu
+venkateswara-stotram	Venkateswara Stotram	वेङ्कटेश्वर स्तोत्रम्	vishnu
+venkateswara-suprabhatam	Venkateswara Suprabhatam	वेङ्कटेश्वर सुप्रभातम्	vishnu
+venugeet	Venugeet	वेणुगीत	krishna
+vidya-prapti-stotram	Vidya Prapti Stotram	विद्या प्राप्ति स्तोत्रम्	saraswati
+vinay-patrika-key-verses	Vinay Patrika - Key Verses	विनय पत्रिका (प्रमुख पद)	rama
+vinayaka-chaturthi-vrat-katha	Vinayaka Chaturthi Vrat Katha	विनायक चतुर्थी व्रत कथा	ganesha
+vindhyavasini-stotram	Vindhyavasini Stotram	विन्ध्यवासिनी स्तोत्रम्	durga
+vindyeshwari-chalisa	Vindyeshwari Chalisa	विन्ध्येश्वरी चालीसा	durga
+virupaksha-stotram	Virupaksha Stotram	श्री विरूपाक्ष स्तोत्रम्	shiva
+vishnu-aarti	Vishnu Aarti - Om Jai Lakshmi Ramana	श्री विष्णु आरती	vishnu
+vishnu-ashtakam	Vishnu Ashtakam	विष्णु अष्टकम्	vishnu
+vishnu-ashtottara-shatanamavali	Vishnu Ashtottara Shatanamavali	विष्णु अष्टोत्तर शतनामावली	vishnu
+vishnu-bhujanga-stotram	Vishnu Bhujanga Stotram	विष्णु भुजंग स्तोत्रम्	vishnu
+vishnu-chalisa	Vishnu Chalisa	विष्णु चालीसा	vishnu
+vishnu-dhyanam	Vishnu Dhyanam	विष्णु ध्यानम्	vishnu
+vishnu-dwadash-nama	Vishnu Dwadash Nama Stotram	विष्णु द्वादश नाम स्तोत्रम्	vishnu
+vishnu-gayatri	Vishnu Gayatri Mantra	विष्णु गायत्री मन्त्र	vishnu
+vishnu-hridayam	Vishnu Hridayam	विष्णु हृदयम्	vishnu
+vishnu-kavacham	Vishnu Kavacham	विष्णु कवचम्	vishnu
+vishnu-mangala-stotram	Vishnu Mangala Stotram	श्री विष्णु मङ्गल स्तोत्रम्	vishnu
+vishnu-mangalashtakam	Vishnu Mangalashtakam	विष्णु मङ्गलाष्टकम्	vishnu
+vishnu-padadikeshanta-stotram	Vishnu Padadikeshanta Stotram	विष्णु पादादिकेशान्त स्तोत्रम्	vishnu
+vishnu-pancharatnam	Vishnu Pancharatnam	विष्णु पञ्चरत्नम्	vishnu
+vishnu-panjara-stotram	Vishnu Panjara Stotram	विष्णु पञ्जर स्तोत्रम्	vishnu
+vishnu-sahasranama-dhyanam	Vishnu Sahasranama Dhyanam	विष्णु सहस्रनाम ध्यानम्	vishnu
+vishnu-sahasranama-phala-shruti	Vishnu Sahasranama Phala Shruti	विष्णु सहस्रनाम फलश्रुति	vishnu
+vishnu-sahasranama	Vishnu Sahasranama Stotram	विष्णु सहस्रनाम स्तोत्रम्	vishnu
+vishnu-shodasha-nama	Vishnu Shodasha Nama Stotram	श्री विष्णु षोडश नाम स्तोत्रम्	vishnu
+vishnu-shodashopachara-puja	Vishnu Shodashopachara Puja	विष्णु षोडशोपचार पूजा	vishnu
+vishnu-stotram	Vishnu Stotram	विष्णु स्तोत्रम्	vishnu
+vishnu-stuti	Vishnu Stuti	विष्णु स्तुति	vishnu
+vishnu-suktam	Vishnu Suktam	विष्णु सूक्तम्	vishnu
+vishwakarma-aarti	Vishwakarma Aarti	श्री विश्वकर्मा आरती	vishnu
+vishwakarma-chalisa	Vishwakarma Chalisa	श्री विश्वकर्मा चालीसा	vishnu
+vishwanatha-ashtakam	Vishwanatha Ashtakam	श्री विश्वनाथाष्टकम्	shiva
+vitthal-aarti	Vitthal Aarti	विठ्ठल आरती	vitthal
+vitthal-ashtakam	Vitthal Ashtakam	विठ्ठल अष्टकम्	vitthal
+vitthal-chalisa	Vitthal Chalisa	विठ्ठल चालीसा	vitthal
+vitthal-kavacham	Vitthal Kavacham	विठ्ठल कवचम्	vitthal
+vitthal-sahasranama	Vitthal Sahasranama Stotram	विठ्ठल सहस्रनाम स्तोत्रम्	vitthal
+vitthal-stotram	Vitthal Stotram	विट्ठल स्तोत्रम्	vitthal
+vivaha-mantras	Vivaha Mantras	विवाह मन्त्र	agni
+vivaha-panchami-stotram	Vivaha Panchami Stotram	विवाह पंचमी स्तोत्रम्	rama
+vivaha-prapti-stotram	Vivaha Prapti Stotram	विवाह प्राप्ति स्तोत्रम्	parvati
+vivekachudamani-key-verses	Vivekachudamani Key Verses	विवेकचूडामणि (प्रमुख श्लोक)	shiva
+vrindavan-stuti	Vrindavan Stuti	वृन्दावन स्तुति	krishna
+yamuna-stotram	Yamuna Stotram	श्री यमुना स्तोत्रम्	krishna
+yamunashtak	Yamunashtak	यमुनाष्टकम्	krishna
+yoga-vasishtha-key-verses	Yoga Vasishtha Key Verses	योग वासिष्ठ (मुख्य श्लोक)	rama

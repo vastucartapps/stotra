@@ -32,13 +32,13 @@
         "strength",
         "health",
         "devotion",
-        "obstacle-removal"
+        "removal-of-obstacles"
     ],
     "readingTimeMinutes": 10,
     "seoDescription": "Hanuman Stuti from Parasara Samhita in Sanskrit with transliteration and Hindi meaning. Powerful prayer for protection and strength.",
     "verseCount": 11,
     "source": "Parasara Samhita",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-03-28T00:00:00Z",
+    "updatedAt": "2026-05-05T12:30:00Z",
     "isPublished": true
 }
