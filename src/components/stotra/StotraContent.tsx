@@ -72,6 +72,13 @@ export function StotraContent({ stotra, deity, companionStotras }: StotraContent
           {stotra.title}
         </p>
 
+        {stotra.alsoKnownAs && stotra.alsoKnownAs.length > 0 && (
+          <p className="text-xs italic text-text-muted mt-2">
+            Also known as:{" "}
+            <span className="not-italic">{stotra.alsoKnownAs.join(" · ")}</span>
+          </p>
+        )}
+
         <div className="flex flex-wrap items-center gap-4 mt-4 text-sm text-text-muted">
           <span className="flex items-center gap-1.5">
             <Clock className="w-4 h-4" />
@@ -401,6 +408,25 @@ export function StotraContent({ stotra, deity, companionStotras }: StotraContent
           </div>
         </div>
       </div>
+
+      {/* Related Searches — populated by per-stotra SERP enrichment */}
+      {stotra.relatedSearches && stotra.relatedSearches.length > 0 && (
+        <div className="px-6 md:px-8 py-5 border-t border-border-light bg-cream-light">
+          <p className="text-xs uppercase tracking-wide text-text-muted mb-3 font-medium">
+            People also search for
+          </p>
+          <div className="flex flex-wrap gap-2">
+            {stotra.relatedSearches.map((term, i) => (
+              <span
+                key={i}
+                className="text-sm text-text bg-white px-3 py-1.5 rounded-full border border-border-light"
+              >
+                {term}
+              </span>
+            ))}
+          </div>
+        </div>
+      )}
     </article>
   );
 }

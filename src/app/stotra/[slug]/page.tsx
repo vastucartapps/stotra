@@ -76,6 +76,11 @@ function generateStotraFAQs(stotra: Stotra, deity: Deity | undefined): FAQItem[]
     answer: `${stotra.titleEn} (${stotra.title}) contains ${stotra.verseCount} verses and takes approximately ${stotra.readingTimeMinutes} minutes to recite at a normal pace. For beginners, it may take slightly longer. You can also download the PDF version for offline reading and practice.`,
   });
 
+  // FAQs 6+: SEO-enrichment FAQs harvested from People Also Ask (per-stotra SERP research)
+  if (stotra.seoFaqs && stotra.seoFaqs.length > 0) {
+    faqs.push(...stotra.seoFaqs);
+  }
+
   return faqs;
 }
 

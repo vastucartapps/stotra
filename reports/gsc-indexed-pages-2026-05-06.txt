@@ -1,0 +1,48 @@
+# GSC Indexed Pages — Snapshot 2026-05-06
+# Source: Google Search Console (vastucartcare@gmail.com), property: stotra.vastucart.in
+# Total indexed: 38 / Total in sitemap: ~957 (4% indexation rate)
+# Status: 918 "Discovered – not indexed" + 1 "Crawled – not indexed"
+
+## INDEXED STOTRA PAGES (20) — these are where SEO enrichment has IMMEDIATE ranking impact
+/stotra/shiv-tandav-stotram          Mar 31
+/stotra/shiv-sahasranama-stotram     Mar 30
+/stotra/aditya-hridayam               Mar 31
+/stotra/kanakadhara-stotram           Mar 31
+/stotra/tripura-sundari-ashtakam      Apr 29
+/stotra/krishna-hridayam              Apr 30
+/stotra/hayagriva-stotram             Apr 28
+/stotra/brahma-kavacham               Mar 31
+/stotra/rama-kavacham                 Apr 13
+/stotra/hanuman-gayatri               Mar 31
+/stotra/saraswati-dwadash-nama        Mar 31
+/stotra/kali-ashtottara-shatanamavali Mar 31
+/stotra/kamala-kavacham               Mar 30
+/stotra/mundaka-upanishad-key-verses  Mar 31
+/stotra/tattva-bodha-key-verses       Apr 14
+/stotra/pashupatinath-stotram         Mar 31
+/stotra/bhishma-stuti                 Apr 26
+/stotra/vishnu-mangalashtakam         Apr 26
+/stotra/chandra-dosh-nivaran-stotram  Apr 19
+/stotra/sai-baba-aarti-dhup           Mar 31
+
+## INDEXED DEITY HUBS (9)
+/deity/durga          Apr 29
+/deity/shiva          Apr 27
+/deity/rama           Apr 10
+/deity/krishna        Apr 10
+/deity/hanuman        Apr 10
+/deity/lakshmi        Apr 10
+/deity/vishnu         Apr 10
+/deity/ganesha        Apr 10
+/deity/kartikeya      Mar 31
+
+## INDEXED FESTIVAL/PURPOSE/GITA HUBS (9)
+/deity                Apr 10
+/festival             Apr 10
+/festival/kartik-purnima  Apr 11
+/day                  Apr 10
+/today                Apr 10
+/purpose/moksha       Apr 27
+/gita/chapter-2/verse-19  May 1
+/gita/chapter-14/verse-9  Apr 28
+/gita/chapter-6/verse-29  Apr 14

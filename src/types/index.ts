@@ -35,6 +35,13 @@ export interface Stotra {
   createdAt: string;
   updatedAt: string;
   isPublished: boolean;
+  // ── SEO enrichment (optional, populated by per-stotra SERP research) ──
+  /** Additional FAQs harvested from "People Also Ask" — appended to the 5 auto-generated ones */
+  seoFaqs?: FAQItem[];
+  /** Variant titles, alternate spellings, regional names — surfaced as a subtitle and indexed */
+  alsoKnownAs?: string[];
+  /** "People also search for" terms — rendered as a related-searches block below the article */
+  relatedSearches?: string[];
 }
 
 export interface Viniyog {

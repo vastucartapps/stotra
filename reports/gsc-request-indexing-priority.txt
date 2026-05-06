@@ -1,0 +1,35 @@
+# Priority URLs for GSC URL Inspection → Request Indexing
+# Generated 2026-05-06
+
+## BATCH 1 (today)
+https://stotra.vastucart.in/stotra/savitri-stotra
+https://stotra.vastucart.in/stotra/vat-savitri-vrat-mantra
+https://stotra.vastucart.in/stotra/vat-savitri-vrat-katha
+https://stotra.vastucart.in/stotra/hanuman-chalisa
+https://stotra.vastucart.in/stotra/vishnu-sahasranama
+https://stotra.vastucart.in/stotra/lalita-sahasranama
+https://stotra.vastucart.in/stotra/ganesh-atharvashirsha
+https://stotra.vastucart.in/stotra/ganesh-chalisa
+https://stotra.vastucart.in/stotra/lakshmi-ashtakam
+
+## BATCH 2 (tomorrow)
+https://stotra.vastucart.in/stotra/saraswati-vandana
+https://stotra.vastucart.in/stotra/argala-stotram
+https://stotra.vastucart.in/stotra/devi-kavacham
+https://stotra.vastucart.in/stotra/mahishasura-mardini-stotram
+https://stotra.vastucart.in/stotra/soundarya-lahari
+https://stotra.vastucart.in/stotra/ganesh-aarti
+https://stotra.vastucart.in/stotra/krishna-aarti
+https://stotra.vastucart.in/stotra/hanuman-aarti
+
+## BATCH 3 (day 3)
+https://stotra.vastucart.in/deity/savitri
+https://stotra.vastucart.in/festival/vat-savitri
+https://stotra.vastucart.in/deity/parvati
+https://stotra.vastucart.in/deity/saraswati
+https://stotra.vastucart.in/deity/dattatreya
+https://stotra.vastucart.in/festival/navratri
+https://stotra.vastucart.in/festival/diwali
+https://stotra.vastucart.in/festival/maha-shivaratri
+https://stotra.vastucart.in/festival/hanuman-jayanti
+https://stotra.vastucart.in/festival/janmashtami
