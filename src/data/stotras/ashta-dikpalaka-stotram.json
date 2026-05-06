@@ -47,6 +47,50 @@
     "verseCount": 12,
     "source": "Vastu Shastra and Matsya Purana",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-03-28T00:00:00Z",
-    "isPublished": true
+    "updatedAt": "2026-05-06T15:00:00Z",
+    "isPublished": true,
+    "alsoKnownAs": [
+        "Ashtadikpala Stotram",
+        "Dikpala Stotra",
+        "Ashta Dikpala Stuti",
+        "Eight Direction Guardians Stotram"
+    ],
+    "relatedSearches": [
+        "Ashta Dikpalaka Stotram lyrics in Sanskrit",
+        "Eight directional guardians of Hinduism with mantras",
+        "Indra Agni Yama Nirriti Varuna Vayu Kubera Ishana",
+        "Ashta Dikpalaka and Vastu Shastra connection",
+        "Dikpalaka mantra for Griha Pravesh",
+        "Ashta Dikpalaka Homa procedure and benefits",
+        "Vahanas of the eight Dikpalakas",
+        "Difference between Dikpalaka and Lokapala",
+        "Ashta Dikpalaka in temple architecture",
+        "Dikpalaka invocation in Sandhyavandanam"
+    ],
+    "seoFaqs": [
+        {
+            "question": "Who are the eight Dikpalakas and what directions do they govern?",
+            "answer": "The eight Dikpalakas are the divine guardians of the cardinal and intercardinal directions: Indra (East), Agni (South-East), Yama (South), Nirriti (South-West), Varuna (West), Vayu (North-West), Kubera (North) and Ishana (North-East). Together they are called the Asta-dik-palaka, with dik meaning direction and palaka meaning guardian. Some traditions append Brahma at the zenith and Vishnu (or Anantha) at the nadir, making a Dasa-dikpalaka set, but the standard Vastu and stotra list keeps to eight. (Sources: Wikipedia Guardians of the Directions; Templepurohit; Wisdomlib.)"
+        },
+        {
+            "question": "What is the relationship between the Dikpalakas and Vastu Shastra?",
+            "answer": "Knowledge of the Ashtadikpalakas is foundational to Vastu Shastra, the traditional Hindu science of architecture and design. Each direction inherits the qualities of its presiding deity: Indra (East) governs prosperity and authority — hence main entrances and worship rooms are auspiciously placed there; Agni (South-East) governs fire — hence the kitchen; Yama (South) is associated with restraint — hence master bedrooms; Varuna (West) with water — hence dining and reservoirs; Kubera (North) with wealth — hence safes and treasure storage; Ishana (North-East) with sanctity — hence the puja room. The Vastu Purusha Mandala formalises these placements. (Sources: Templepurohit; Exotic India Art; Vedicfolks.)"
+        },
+        {
+            "question": "What are the vahanas (mounts) and weapons of each Dikpalaka?",
+            "answer": "Indra rides the white elephant Airavata and wields the vajra (thunderbolt); Agni rides a ram and carries a flaming spear; Yama rides a buffalo and bears a danda (staff) and noose; Nirriti rides a lion or man and carries a sword; Varuna rides Makara (sea-creature) and bears the pasha (noose); Vayu rides an antelope or deer and carries a flag (dhwaja); Kubera rides a man (nara) or chariot of treasures and bears a mace and money-bag; Ishana rides Nandi-bull and bears a trishula (trident). These attributes are repeated in the dhyana shlokas of the stotram and replicated in temple sculpture across the eight outer walls of the garbhagriha. (Sources: Templepurohit; Hindu Devotional Blog; Exotic India Art.)"
+        },
+        {
+            "question": "When and why is the Ashta Dikpalaka Stotram chanted?",
+            "answer": "The stotram is recited principally at the start of any major ritual to consecrate the eight directions of the worship space — including griha pravesha (house warming), bhumi puja (ground-breaking), Vastu Shanti, Navagraha homa, marriage, upanayana and major yajnas. It is also part of the daily Sandhya-vandana sequence in some Smarta lineages, recited at sunrise, noon and sunset to acknowledge the directional protectors. Performing the eight dikpalaka homa is held to remove obstacles arising from directional doshas and to harmonise the household with cosmic order. (Sources: Vedicfolks; Sanskritdocuments; Ramana Maharshi Foundation.)"
+        },
+        {
+            "question": "Are the Dikpalakas the same as the Lokapalas?",
+            "answer": "The terms overlap substantially but differ slightly in scope. Lokapalas are 'guardians of the worlds' (loka), and the eight standard Dikpalakas are also Lokapalas in this broader sense. Some Tantric texts distinguish them by counting Lokapalas as the protectors of moral and cosmic spheres (Indra of Svarga, Yama of Pitru-loka, Varuna of the waters, Kubera of treasures), while Dikpalakas are specifically tied to spatial directions of the manifested cosmos. In daily liturgical use the two terms are interchangeable, and the same eight names appear in both lists. (Sources: Wikipedia Guardians of the Directions; Wisdomlib.)"
+        },
+        {
+            "question": "How are the Dikpalakas represented in temple architecture?",
+            "answer": "In a properly constructed Hindu temple, sculptural representations of the Ashta Dikpalakas are carved on the eight outer faces of the vimana (sanctum tower), each at the cardinal or intercardinal point they govern, riding their respective vahanas with their characteristic weapons. They also appear on the eight directional pillars of the mandapa hall and as guardian deities flanking the gopuram. Their inclusion is mandatory in Agama-compliant temples (Vaikhanasa, Pancharatra and Shaiva-Siddhanta agamas all prescribe their placement), and the consecration of the temple includes a separate Ashtadikpalaka pratishtha. (Sources: Exotic India Art; Templepurohit.)"
+        }
+    ]
 }

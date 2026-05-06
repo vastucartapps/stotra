@@ -41,6 +41,50 @@
     "verseCount": 11,
     "source": "Gita Govinda by Jayadeva (12th Century)",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-05T12:30:00Z",
-    "isPublished": true
+    "updatedAt": "2026-05-06T15:00:00Z",
+    "isPublished": true,
+    "alsoKnownAs": [
+        "Dasavatara Stotra",
+        "Dasavatara Stotram (Jayadeva)",
+        "Dashavatar Stotra",
+        "Pralayapayodhi Jale Stotram"
+    ],
+    "relatedSearches": [
+        "Dashavatara Stotram by Jayadeva lyrics",
+        "Gita Govinda Pralayapayodhi Jale opening",
+        "Ten avatars of Vishnu list and order",
+        "Why Buddha is included as ninth avatar",
+        "Krishna avatar in Dashavatara Stotram debate",
+        "Adi Shankaracharya Dashavatara Stotram version",
+        "Matsya Kurma Varaha Narasimha Vamana avatar stories",
+        "Kalki avatar at end of Kali Yuga",
+        "Dashavatara Stotram in Sanskrit Telugu Tamil",
+        "Jayadeva 12th century Bengal poet biography"
+    ],
+    "seoFaqs": [
+        {
+            "question": "Who composed the Dashavatara Stotram and when?",
+            "answer": "The most widely recited Dashavatara Stotram is the opening hymn of Jayadeva's Gita Govinda, composed in the twelfth century at the court of King Lakshmana Sena of Bengal. Jayadeva, a Vaishnava poet-saint and devotee of Krishna, opens the Gita Govinda's first canto with the Dashavatara Stotram, in which each verse is dedicated to one of Vishnu's ten incarnations and is set to a specific raga and tala for sung performance. A separate, briefer Dasavatara Stotra is also attributed to Adi Shankaracharya. Both texts remain in active liturgical use across Vaishnava and Smarta traditions. (Sources: Jayadeva-Iswar blog; Stotra Collection; Shastras.com.)"
+        },
+        {
+            "question": "Which ten avatars are praised in Jayadeva's Dashavatara Stotram?",
+            "answer": "Jayadeva's list, in order, is: Matsya (the fish who rescued the Vedas), Kurma (the tortoise who supported Mount Mandara during the churning), Varaha (the boar who lifted the earth), Narasimha (the man-lion who tore Hiranyakashipu), Vamana (the dwarf who tricked Bali), Parashurama (the axe-wielding sage), Rama (the prince of Ayodhya), Balarama (Krishna's elder brother, who carries the plough), Buddha (compassion for all living beings), and Kalki (the final apocalyptic avatar at the end of Kali Yuga). Krishna is omitted as a separate avatar because Jayadeva's framework treats Krishna as the source of all incarnations rather than one among them. (Sources: Bhagavata.org; Vedanta Shastras Library; Stotra Collection.)"
+        },
+        {
+            "question": "Why does Jayadeva include Buddha but not Krishna in the Dashavatara list?",
+            "answer": "Jayadeva, as a Krishna-bhakta of the Bengal Vaishnava school, regards Krishna as Svayam Bhagavan — the original supreme person from whom all avatars proceed. Therefore Krishna cannot be one of his own avatars; rather, all the other forms emanate from him. This theological position is later formalised by Chaitanya Mahaprabhu and the Gaudiya Vaishnava lineage, which cite Bhagavata Purana 1.3.28 (krishnas tu bhagavan svayam) for support. To preserve a list of ten, Buddha is included as the ninth avatar — interpreted by Vaishnavas as Vishnu's compassionate teaching descent during Kali Yuga. (Sources: Bhagavata.org; ISKCON Desire Tree; Sameedh.)"
+        },
+        {
+            "question": "What is the structure of the Gita Govinda Dashavatara song?",
+            "answer": "The Dashavatara song forms the first prabandha (sung-piece) of the Gita Govinda's first canto and consists of eleven verses: ten dedicated one each to the avatars from Matsya to Kalki, plus a concluding eleventh verse (jaya jagadisha hare) saluting the entire dasavatara taken together. Each verse is set to the Mishra-mallar raga and Rupaka tala in classical Odissi-and-Hindustani performance traditions, and is sung to this day in Odisha temple-dance recitals, Carnatic concerts and ISKCON kirtans. The repeated refrain Keshava dhrita-X-sharira jaya jagadisha hare ('O Keshava who took the X-form, victory to the Lord of the universe') anchors each verse. (Sources: Stotra Collection; Bhagavata.org; ISKCON Desire Tree.)"
+        },
+        {
+            "question": "How does the Bhagavata Purana's avatar list differ from Jayadeva's?",
+            "answer": "The Bhagavata Purana 1.3 enumerates twenty-two prominent avatars (saying the actual number is innumerable), with the standard ten Mahavataras a subset. The Bhagavata's principal ten include Krishna explicitly as the eighth and Buddha as the ninth. Jayadeva, writing for a Krishna-supreme audience, restructures the standard ten by replacing Krishna with Balarama and demoting Krishna from the avatar list to the rank of avatari (source of avatars). Most South Indian and Gaudiya stotras follow Jayadeva; many North Indian Vaishnava and Smarta lists follow the Bhagavata. (Sources: Bhagavata.org; Vedanta Shastras Library; Sameedh.)"
+        },
+        {
+            "question": "What benefits do traditional sources attribute to recitation of the Dashavatara Stotram?",
+            "answer": "Vaishnava manuals describe the stotram as a complete summary of Vishnu-bhakti: by reciting the ten verses one mentally circumambulates the entire history of divine descent, cultivating gratitude, devotion and discrimination (viveka). Specific benefits include removal of obstacles to dharma, protection on journeys, alleviation of fear of death (since Kalki and the cyclic eschatology are explicit), and ripening of the seeds of moksha-bhakti. The text is recommended for daily morning recitation, on Ekadashi, on Janmashtami, on Vaikuntha Ekadashi, and as a mangalacharana at the start of any Vaishnava ritual. (Sources: ISKCON Desire Tree; Sameedh; Astromantra.)"
+        }
+    ]
 }
