@@ -48,7 +48,7 @@
     "verseCount": 28,
     "source": "Devi Mahatmyam (Markandeya Purana)",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
+    "updatedAt": "2026-05-13T00:00:00Z",
     "isPublished": true,
     "alsoKnownAs": [
         "Devyah Kavacham",
@@ -93,5 +93,7 @@
             "question": "What does the phalashruti promise for sustained Devi Kavacham recitation?",
             "answer": "The closing phalashruti makes specific claims: the reciter is freed from all bhayas (fears), is protected from rakshasas, bhutas, pretas, pisachas, dakinis and shakinis, gains victory in battle and legal disputes, removes graha-pida (planetary afflictions), is granted santana (progeny), wealth and long life, and ultimately attains the supreme abode of Devi. It also states that one who recites the Kavacham daily for one year becomes equal in power to the gods, and one who carries a written copy on the body is protected from all weapons. These traditional phala-claims are why the text is recited not only as a daily practice but also as a parihara during illness, legal trouble or sustained misfortune. (Sources: vignanam.org; devshoppe.com; mantravidya.com.)"
         }
-    ]
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Devi_Mahatmya",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1192389"
 }

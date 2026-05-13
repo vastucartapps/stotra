@@ -40,7 +40,7 @@
     "verseCount": 6,
     "source": "Composed by Ravana",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
+    "updatedAt": "2026-05-13T00:00:00Z",
     "isPublished": true,
     "alsoKnownAs": [
         "Shiva Tandava Stotra",
@@ -84,5 +84,7 @@
             "question": "What is the origin story of Shiv Tandav Stotram?",
             "answer": "Ravana attempted to lift Mount Kailash to carry Shiva to Lanka. Shiva pressed the mountain down with his toe, crushing Ravana's hands. To appease the Lord, Ravana spontaneously sang this hymn praising Shiva's Tandava dance, after which Shiva forgave him and granted him divine boons."
         }
-    ]
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Shiva_Tandava_Stotra",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q7503010"
 }

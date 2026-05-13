@@ -51,6 +51,10 @@ export default async function FestivalPage({ params }: { params: Promise<{ slug:
   // Note: Event schema intentionally NOT emitted — we lack real event data
   // (startDate, location) and the spec forbids fabricated Organization nodes.
 
+  const topicSameAs: string[] = [];
+  if (festival.wikipediaUrl) topicSameAs.push(festival.wikipediaUrl);
+  if (festival.wikidataUrl) topicSameAs.push(festival.wikidataUrl);
+
   const pageGraph = buildTaxonomyPageGraph({
     kind: "festival",
     slug,
@@ -58,6 +62,8 @@ export default async function FestivalPage({ params }: { params: Promise<{ slug:
     description: `Sacred stotras and prayers for ${festival.name} (${festival.nameHi}).`,
     stotras,
     hubName: "Festivals",
+    topicSameAs: topicSameAs.length ? topicSameAs : undefined,
+    topicAlternateName: festival.nameHi,
   });
   const faqs: SchemaFAQItem[] = [
     {

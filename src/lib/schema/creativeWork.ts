@@ -98,6 +98,13 @@ export function buildStotraPageGraph(
     about: { "@id": deityConceptId(deitySlug) },
   };
 
+  // sameAs — link the stotra entity to its Wikipedia + Wikidata records when known.
+  // Builds Knowledge Graph entity-authority and gives Google a stable identifier.
+  const workSameAs: string[] = [];
+  if (stotra.wikipediaUrl) workSameAs.push(stotra.wikipediaUrl);
+  if (stotra.wikidataUrl) workSameAs.push(stotra.wikidataUrl);
+  if (workSameAs.length) workNode.sameAs = workSameAs;
+
   const workAuthor = resolveWorkAuthor(stotra);
   if (workAuthor) workNode.author = workAuthor;
 

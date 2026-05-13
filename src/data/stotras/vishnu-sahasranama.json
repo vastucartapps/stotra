@@ -54,7 +54,7 @@
     "verseCount": 142,
     "source": "Mahabharata - Anushasana Parva",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
+    "updatedAt": "2026-05-13T00:00:00Z",
     "isPublished": true,
     "alsoKnownAs": [
         "Sri Vishnu Sahasranamam",
@@ -99,5 +99,7 @@
             "question": "Which contemporary recording made Vishnu Sahasranama universally accessible?",
             "answer": "The 1966 recording by Bharat Ratna M.S. Subbulakshmi for HMV remains the gold standard of Vishnu Sahasranama chanting and has shaped the recitation style of millions across India and the diaspora. Recorded under the guidance of Kanchi Paramacharya (Sri Chandrashekarendra Saraswati), the album's clarity, pacing, and Carnatic vocal grace transformed the text from a temple-priest specialty into a universal household practice. M.S. Subbulakshmi's rendition is broadcast at midday in many Vaishnava temples (Tirupati, Sri Rangam, Guruvayur) and is the version most learners use to memorise the names. (Source: Hinduism Facts Vishnu Sahasranamam history; Exotic India Art Vishnu Sahasranamam.)"
         }
-    ]
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Vishnu_Sahasranama",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1410432"
 }

@@ -85,6 +85,10 @@ export interface TaxonomyPageInput {
   stotras: Stotra[];
   /** Display name for the hub listing page (e.g., "Purposes", "Days", "Festivals") */
   hubName: string;
+  /** Optional sameAs URLs (Wikipedia/Wikidata) for the topic/festival entity. */
+  topicSameAs?: string[];
+  /** Devanagari/local-language alternate name to attach to the topic entity. */
+  topicAlternateName?: string;
 }
 
 export function buildTaxonomyPageGraph(
@@ -95,46 +99,67 @@ export function buildTaxonomyPageGraph(
   const path = `/${input.kind}/${input.slug}`;
   const pageId = `${STOTRA_BASE}${path}#page`;
   const breadcrumbId = `${STOTRA_BASE}${path}#breadcrumb`;
+  const topicId = `${STOTRA_BASE}${path}#topic`;
+
+  const collectionNode: Record<string, unknown> = {
+    "@type": "CollectionPage",
+    "@id": pageId,
+    url: `${STOTRA_BASE}${path}`,
+    name: input.name,
+    description: input.description,
+    inLanguage: "en",
+    isPartOf: { "@id": STOTRA_WEBSITE_ID },
+    publisher: ORG_PUBLISHER_REF,
+    breadcrumb: { "@id": breadcrumbId },
+    mainEntity: {
+      "@type": "ItemList",
+      numberOfItems: input.stotras.length,
+      itemListElement: input.stotras.map((s, i) => ({
+        "@type": "ListItem",
+        position: i + 1,
+        name: s.titleEn,
+        url: `${STOTRA_BASE}/stotra/${s.slug}`,
+      })),
+    },
+  };
+
+  const graph: Array<Record<string, unknown>> = [collectionNode];
+
+  // Optional Thing entity for the festival/topic with sameAs Wikipedia/Wikidata.
+  // Schema.org "Event" deliberately NOT used: Hindu festivals are recurring lunar
+  // observances without single startDate/location; emitting Event would either need
+  // fabricated data (fails Google validators worse) or trigger missing-field warnings.
+  if (input.topicSameAs && input.topicSameAs.length) {
+    const topicNode: Record<string, unknown> = {
+      "@type": "Thing",
+      "@id": topicId,
+      name: input.name,
+      description: input.description,
+      sameAs: input.topicSameAs,
+    };
+    if (input.topicAlternateName) topicNode.alternateName = input.topicAlternateName;
+    collectionNode.about = { "@id": topicId };
+    graph.push(topicNode);
+  }
+
+  graph.push({
+    "@type": "BreadcrumbList",
+    "@id": breadcrumbId,
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: `${STOTRA_BASE}/` },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: input.hubName,
+        item: `${STOTRA_BASE}/${input.kind}`,
+      },
+      { "@type": "ListItem", position: 3, name: input.name },
+    ],
+  });
 
   return {
     "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "CollectionPage",
-        "@id": pageId,
-        url: `${STOTRA_BASE}${path}`,
-        name: input.name,
-        description: input.description,
-        inLanguage: "en",
-        isPartOf: { "@id": STOTRA_WEBSITE_ID },
-        publisher: ORG_PUBLISHER_REF,
-        breadcrumb: { "@id": breadcrumbId },
-        mainEntity: {
-          "@type": "ItemList",
-          numberOfItems: input.stotras.length,
-          itemListElement: input.stotras.map((s, i) => ({
-            "@type": "ListItem",
-            position: i + 1,
-            name: s.titleEn,
-            url: `${STOTRA_BASE}/stotra/${s.slug}`,
-          })),
-        },
-      },
-      {
-        "@type": "BreadcrumbList",
-        "@id": breadcrumbId,
-        itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Home", item: `${STOTRA_BASE}/` },
-          {
-            "@type": "ListItem",
-            position: 2,
-            name: input.hubName,
-            item: `${STOTRA_BASE}/${input.kind}`,
-          },
-          { "@type": "ListItem", position: 3, name: input.name },
-        ],
-      },
-    ],
+    "@graph": graph,
   };
 }
 

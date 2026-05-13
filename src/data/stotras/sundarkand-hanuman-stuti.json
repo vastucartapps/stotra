@@ -37,7 +37,7 @@
     "verseCount": 16,
     "source": "Ramcharitmanas - Sundarkand by Goswami Tulsidas",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
+    "updatedAt": "2026-05-13T00:00:00Z",
     "isPublished": true,
     "alsoKnownAs": [
         "Sundar Kand Hanuman Chaupai",
@@ -84,5 +84,7 @@
             "question": "What is the significance of the Mainak parvat episode in Sundarkand?",
             "answer": "When Hanuman is mid-flight over the ocean, Mount Mainak (whose wings were once cut by Indra and who hides under the sea) rises up and offers Hanuman a resting place out of gratitude to Hanuman's father Vayu, who had once protected Mainak. Hanuman, recognising the courtesy, touches Mainak with his hand as acknowledgment but refuses to rest, saying Rama's work cannot be paused. This episode teaches the principle of single-pointed dedication to dharma even when comforts are offered, and the spiritual courtesy of acknowledging help received without abandoning one's mission. It is one of the most cited passages in Hanuman-bhakti discourses on focused effort."
         }
-    ]
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Sundara_Kanda",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1067796"
 }

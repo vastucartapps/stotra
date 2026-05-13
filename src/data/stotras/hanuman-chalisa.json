@@ -38,7 +38,7 @@
     "verseCount": 43,
     "source": "Goswami Tulsidas · standalone composition in Awadhi, late 16th century",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
+    "updatedAt": "2026-05-13T00:00:00Z",
     "isPublished": true,
     "padaartha": [
         {
@@ -130,5 +130,7 @@
             "question": "Is the Hanuman Chalisa connected to the Ramcharitmanas?",
             "answer": "Yes, deeply. Tulsidas composed both works, and the Hanuman Chalisa functions as a devotional companion to the larger Ramcharitmanas, his Awadhi retelling of the Ramayana. Several chaupais of the Chalisa directly summarise episodes that appear at length in the Sundara Kanda and Lanka Kanda of the Ramcharitmanas — Hanuman crossing the ocean, finding Sita in the Ashoka grove, burning Lanka, and reviving Lakshmana with the Sanjivani herb. Many traditional households read the Sundara Kanda on Tuesdays followed by the Hanuman Chalisa, treating the two as a single devotional unit. The Chalisa's emphasis on Hanuman as the perfect Rama-bhakta is a distillation of the broader Ramcharitmanas worldview. (Sources: Wikipedia; Radhakrishna Temple)"
         }
-    ]
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Hanuman_Chalisa",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1591057"
 }

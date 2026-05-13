@@ -51,7 +51,7 @@
     "verseCount": 15,
     "source": "Composed by Pushpadanta (from Shiva Purana tradition)",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
+    "updatedAt": "2026-05-13T00:00:00Z",
     "isPublished": true,
     "alsoKnownAs": [
         "Shiva Mahimna Stotra",
@@ -96,5 +96,7 @@
             "question": "How is the Shiv Mahimna Stotra usually recited and how long does a recitation take?",
             "answer": "A complete recitation of all 43 verses at moderate tempo takes approximately 18 to 25 minutes. Tradition prescribes seated recitation facing east or north, after a bath, with vibhuti applied and a lit lamp before a Shiva image or lingam. Many practitioners chant a single round daily as part of nitya-paath, three rounds on Mondays and Pradosham evenings, and an eleven-round parayana on Maha Shivaratri night. The hymn is also routinely chanted aloud during Rudrabhishekam ceremonies after the principal Sri Rudram-Chamakam recitation. Beginners are advised to start with audio along until pronunciation of compound Sanskrit words such as 'asyāveda na vidyate' becomes natural, then transition to independent recitation."
         }
-    ]
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Shiva_Mahimna_Stotram",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q7503009"
 }

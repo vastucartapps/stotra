@@ -45,7 +45,7 @@
     "verseCount": 21,
     "source": "Adi Shankaracharya",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
+    "updatedAt": "2026-05-13T00:00:00Z",
     "isPublished": true,
     "alsoKnownAs": [
         "Kanakadhara Stotra",
@@ -88,5 +88,7 @@
             "question": "What is the story behind Kanakadhara Stotram?",
             "answer": "Young Adi Shankara, while seeking alms, knocked at the door of a destitute Brahmin woman who had only a single dried amalaka (gooseberry) in her home. She offered it to him with deep devotion. Moved by her selfless gift in extreme poverty, Shankara composed the 21-verse Kanakadhara Stotram, and Lakshmi rained golden gooseberries on her house."
         }
-    ]
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Kanakadhara_Stotram",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q19872812"
 }

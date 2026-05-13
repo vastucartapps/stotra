@@ -39,7 +39,7 @@
     "verseCount": 12,
     "source": "Composed by Adi Shankaracharya",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
+    "updatedAt": "2026-05-13T00:00:00Z",
     "isPublished": true,
     "alsoKnownAs": [
         "Sri Annapurna Stotram",
@@ -90,5 +90,7 @@
             "question": "Can the Annapurna Stotram be recited by anyone?",
             "answer": "Yes. As a Shankara composition openly preserved across all Hindu sampradayas, the Annapurna Stotram is accessible to all devotees regardless of gender, caste or age, and no formal diksha is required for daily recitation. Children across India are commonly taught at least the concluding Mata cha Parvati shloka as their first prayer, often recited together as a family before meals. Women include the full ashtakam in the daily morning puja for the welfare and abundance of the kitchen and family. The only customary requirements are cleanliness of body and place, sitting facing east or north, and ideally offering a small portion of cooked food (naivedya) at the household altar before consumption. The recitation makes every meal a sacred sacrament. (Sources: Hindupedia; Stotra Nidhi; Sanatan Sanstha.)"
         }
-    ]
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Annapurna_Stotra",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q19880017"
 }

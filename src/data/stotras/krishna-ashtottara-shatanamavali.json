@@ -36,7 +36,7 @@
     "verseCount": 108,
     "source": "Srimad Bhagavatam / Vishnu Purana",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
+    "updatedAt": "2026-05-13T00:00:00Z",
     "isPublished": true,
     "alsoKnownAs": [
         "Krishna 108 Names",
@@ -87,5 +87,7 @@
             "question": "How does the 108-name namavali relate to the Vishnu Sahasranama?",
             "answer": "The Krishna Ashtottara Shatanamavali (108 names) and the Vishnu Sahasranama (1000 names) are complementary recitations within the broader Krishna-Vishnu worship tradition. The 108 namavali is shorter (15 minutes), focuses specifically on Krishna's incarnational leelas, and is the standard format for daily archana puja with flower-offering. The Vishnu Sahasranama is longer (45-60 minutes), is preserved in the Mahabharata Anushasana Parva as Bhishma's deathbed teaching to Yudhishthira, addresses Vishnu in his cosmic ananta-rupa across all avatars, and is considered the supreme stotra of Vaishnava tradition. Many devotees recite the 108 namavali daily and the Sahasranama on Saturdays, Ekadashis and major Vishnu festivals. (Sources: Mahabharata Anushasana Parva 149; Stotra Nidhi.)"
         }
-    ]
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ashtottara_Shatanamavali",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q4807944"
 }

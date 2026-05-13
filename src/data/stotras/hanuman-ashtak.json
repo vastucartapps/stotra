@@ -38,6 +38,8 @@
     "verseCount": 8,
     "source": "Traditional - Tulsidas",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-03-28T00:00:00Z",
-    "isPublished": true
+    "updatedAt": "2026-05-13T00:00:00Z",
+    "isPublished": true,
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Hanuman_Ashtak",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q5648895"
 }

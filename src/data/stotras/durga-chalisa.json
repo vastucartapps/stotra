@@ -38,7 +38,7 @@
     "verseCount": 40,
     "source": "Traditional",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
+    "updatedAt": "2026-05-13T00:00:00Z",
     "isPublished": true,
     "alsoKnownAs": [
         "Shri Durga Chalisa",
@@ -79,5 +79,7 @@
             "question": "What does the opening verse 'Namo Namo Durge Sukh Karni' mean?",
             "answer": "The opening doha of the Durga Chalisa — 'Namo namo Durge sukh karni / Namo namo Ambe dukh harni' — is recited with deep reverence and translates as: 'Salutations again and again to Durga, the giver of all happiness; salutations again and again to Mother Ambe, the remover of all sorrow.' The pairing of 'Durga' (the unconquerable warrior form) with 'Ambe' (the loving mother form) captures the Shakta theological insight that the same Goddess is both fierce protector and tender mother. The repetition of 'namo namo' is traditional Vedic praise-style, indicating total surrender. Many devotees repeat just this opening line as a standalone mantra during their daily japa, especially when seeking removal of obstacles. (Source: Hindu Mirror; Drik Panchang)"
         }
-    ]
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Durga_Chalisa",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q56295465"
 }

@@ -47,7 +47,7 @@
     "verseCount": 31,
     "source": "Valmiki Ramayana - Yuddha Kanda",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
+    "updatedAt": "2026-05-13T00:00:00Z",
     "isPublished": true,
     "alsoKnownAs": [
         "Aditya Hridaya Stotram",
@@ -91,5 +91,7 @@
             "question": "Why did Agastya teach Aditya Hridayam to Rama?",
             "answer": "On the battlefield, Rama was exhausted and anxious facing Ravana. Sage Agastya appeared and taught Rama this hymn to Surya, instructing him to chant it three times facing the Sun. After doing so, Rama's strength and resolve were restored, and he defeated Ravana that day."
         }
-    ]
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Aditya_Hridayam",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q4683094"
 }

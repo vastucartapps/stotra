@@ -49,7 +49,7 @@
     "verseCount": 50,
     "source": "Brahmanda Purana (Lalitopakhyana)",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
+    "updatedAt": "2026-05-13T00:00:00Z",
     "isPublished": true,
     "alsoKnownAs": [
         "Lalita Sahasranama Stotram",
@@ -107,5 +107,7 @@
             "question": "How long does it take to recite Lalita Sahasranama and how should it be performed?",
             "answer": "A complete recitation including viniyoga, three dhyana shlokas, the 1000 names in 182 anushtup verses, and the phalashruti takes approximately 35 to 45 minutes at moderate pace, or up to one hour with kunkuma archana on the Sri Chakra (offering one pinch of kunkuma at each name). Traditional vidhi: bathe, wear clean clothes (red or pink for Lalita), perform achamana, light a lamp with sesame oil or ghee before the Sri Chakra or Lalita murti, offer red flowers (especially hibiscus), red kunkuma, sandal paste and naivedya. Recite the viniyoga, the three dhyanas (Sindhuraruna-vigraham, Dhyayet-padmasanasthitam, Sakunkuma-vilepana), then the names with full attention, then the phalashruti, then the arati. (Sources: Sri Vidya nitya-puja paddhati; Devi Bhagavatam ritual sections.)"
         }
-    ]
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Lalita_Sahasranama",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q6480787"
 }

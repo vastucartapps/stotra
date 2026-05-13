@@ -42,7 +42,7 @@
     "verseCount": 1,
     "source": "Rigveda (7.59.12)",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
+    "updatedAt": "2026-05-13T00:00:00Z",
     "isPublished": true,
     "alsoKnownAs": [
         "Tryambakam Mantra",
@@ -89,5 +89,7 @@
             "question": "What is the story of how the Mahamrityunjaya Mantra was given?",
             "answer": "The Shiva Purana narrates that sage Markandeya, born with a lifespan of only sixteen years, was a great Shiva devotee. When Yamaraja came on his sixteenth birthday to claim his life as he was embracing the Shiva lingam, Shiva himself emerged from the lingam, kicked Yama away and granted Markandeya immortality. The Mahamrityunjaya Mantra is the verse that Markandeya was chanting at that moment, and it is therefore considered the supreme victory-over-death mantra. This narrative is the basis for prescribing the mantra during life-threatening situations."
         }
-    ]
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mahamrityunjaya_Mantra",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1881898"
 }

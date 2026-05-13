@@ -37,7 +37,7 @@
     "verseCount": 42,
     "source": "Traditional",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
+    "updatedAt": "2026-05-13T00:00:00Z",
     "isPublished": true,
     "alsoKnownAs": [
         "Laxmi Chalisa",
@@ -82,5 +82,7 @@
             "question": "Can Lakshmi Chalisa be recited along with Lakshmi Aarti?",
             "answer": "Yes — the standard Lakshmi puja sequence is: Sankalp, Ganesh vandana, Lakshmi dhyana, Shree Suktam or Lakshmi Chalisa path, Mahalakshmi Ashtakam, and finally 'Om Jai Lakshmi Mata' aarti with the ghee lamp. The Chalisa is the recitation phase while the aarti is the lamp-offering phase, and together they form the complete Vaibhava Lakshmi or Diwali puja vidhi."
         }
-    ]
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Lakshmi_Chalisa",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q56295501"
 }

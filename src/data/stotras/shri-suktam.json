@@ -52,6 +52,8 @@
     "verseCount": 15,
     "source": "Rigveda - Khilani (Appendix to Rigveda Samhita)",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-03-28T00:00:00Z",
-    "isPublished": true
+    "updatedAt": "2026-05-13T00:00:00Z",
+    "isPublished": true,
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Shri_Suktam",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q7505932"
 }

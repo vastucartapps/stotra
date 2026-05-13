@@ -48,6 +48,8 @@
     "verseCount": 18,
     "source": "Rigveda - Mandala 10, Sukta 90",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-03-28T00:00:00Z",
-    "isPublished": true
+    "updatedAt": "2026-05-13T00:00:00Z",
+    "isPublished": true,
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Purusha_Sukta",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1764411"
 }

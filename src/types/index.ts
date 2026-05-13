@@ -42,6 +42,10 @@ export interface Stotra {
   alsoKnownAs?: string[];
   /** "People also search for" terms — rendered as a related-searches block below the article */
   relatedSearches?: string[];
+  /** Wikipedia URL for this stotra (entity-linking → Knowledge Graph + JSON-LD sameAs) */
+  wikipediaUrl?: string;
+  /** Wikidata URL for this stotra */
+  wikidataUrl?: string;
 }
 
 export interface Viniyog {
@@ -240,6 +244,8 @@ export interface Festival {
   nameHi: string;
   slug: string;
   deities: DeityId[];
+  wikipediaUrl?: string;
+  wikidataUrl?: string;
 }
 
 export interface Purpose {

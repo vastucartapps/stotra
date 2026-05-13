@@ -39,7 +39,7 @@
     "verseCount": 16,
     "source": "Traditional (attributed to Adi Shankaracharya)",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
+    "updatedAt": "2026-05-13T00:00:00Z",
     "isPublished": true,
     "alsoKnownAs": [
         "Aigiri Nandini",
@@ -84,5 +84,7 @@
             "question": "Is the Mahishasura Mardini Stotram safe for daily home recitation?",
             "answer": "Yes, the stotram is praise-form (stotra) rather than mantric prayoga and contains no Tantric bija envelope, so it is openly published for general recitation by mainstream sources including Stotra Nidhi, Stotra.in, Greenmesg and Vedic Feed. Householders chant it daily without restriction, particularly in Devi-oriented homes. Traditional recommendations include reciting on Tuesdays and Fridays, during Navratri, and on the new-moon and full-moon days. Standard precautions are to bathe before chanting, sit facing east or north, light a ghee or sesame oil lamp, and recite aloud. Children and beginners often start with the Aigiri Nandini stotram precisely because its musical meter makes it easier to learn and chant correctly than meter-bare Devi prayers, while still delivering the full theological content of the Devi Mahatmya in compressed form."
         }
-    ]
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mahishasura_Mardini_Stotra",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q97215127"
 }

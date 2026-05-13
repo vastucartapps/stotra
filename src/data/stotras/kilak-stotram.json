@@ -39,7 +39,7 @@
     "verseCount": 7,
     "source": "Durga Saptashati (Markandeya Purana)",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
+    "updatedAt": "2026-05-13T00:00:00Z",
     "isPublished": true,
     "alsoKnownAs": [
         "Keelaka Stotram",
@@ -84,5 +84,7 @@
             "question": "Who is traditionally said to have composed or revealed the Kilak Stotram?",
             "answer": "The Kilak Stotram, like the Devi Mahatmya itself, is traditionally attributed to Sage Markandeya, since it appears within the Markandeya Purana corpus. The internal narrative voice in some recensions is Shiva, who is said to address the stotram to Parvati to explain how the seal on the Saptashati's mantric power can be lifted. As Shlokam's Keelaka edition notes, this Shiva-Parvati framing positions the stotram as gupta-vidya (concealed knowledge) revealed first to Parvati and then to humanity through Markandeya. The traditional chain is therefore: Shiva to Parvati, then Parvati to Markandeya, then Markandeya into the Purana that bears his name. This lineage gives the Kilak its standing as authoritative shastra rather than later compilation."
         }
-    ]
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Devi_Mahatmya",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1192389"
 }

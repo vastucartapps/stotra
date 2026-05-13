@@ -39,6 +39,8 @@
     "verseCount": 5,
     "source": "Tulsidas",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-03-28T00:00:00Z",
-    "isPublished": true
+    "updatedAt": "2026-05-13T00:00:00Z",
+    "isPublished": true,
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Hanuman_Bahuk",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q5648898"
 }

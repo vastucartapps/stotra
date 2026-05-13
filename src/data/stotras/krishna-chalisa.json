@@ -37,7 +37,7 @@
     "verseCount": 42,
     "source": "Traditional",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
+    "updatedAt": "2026-05-13T00:00:00Z",
     "isPublished": true,
     "alsoKnownAs": [
         "Shri Krishna Chalisa",
@@ -78,5 +78,7 @@
             "question": "How is the Krishna Chalisa different from the Bhagavad Gita?",
             "answer": "The Bhagavad Gita is a 700-verse Sanskrit philosophical dialogue between Krishna and Arjuna on the battlefield of Kurukshetra, addressing dharma, karma yoga, jnana yoga, and bhakti yoga. The Krishna Chalisa, by contrast, is a 40-chaupai vernacular Hindi devotional hymn that praises Krishna's beauty, lila, and saving grace. The Gita is a scripture of teaching; the Chalisa is a hymn of praise. Many traditional households use the two together — reading a Gita chapter daily for jnana and reciting the Krishna Chalisa for bhakti. The Chalisa briefly references Krishna's role as Arjuna's guide and the giver of the Gita, but its tone is loving and personal rather than philosophical. (Source: JKYog Bhagavad Gita Quotes)"
         }
-    ]
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Krishna_Chalisa",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q66331092"
 }

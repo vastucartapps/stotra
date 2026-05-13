@@ -38,7 +38,7 @@
     "verseCount": 40,
     "source": "Traditional / Lok Parampara",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
+    "updatedAt": "2026-05-13T00:00:00Z",
     "isPublished": true,
     "alsoKnownAs": [
         "Shri Ganesh Chalisa",
@@ -83,5 +83,7 @@
             "question": "Why is Ganesh Chalisa recited before other deities' prayers?",
             "answer": "Ganesha is Prathama Pujya — the first to be worshipped before any deity, ritual or auspicious task. Brahma granted him this boon so that all pujas, yajnas and sanskaras begin with Ganesh vandana to remove obstacles. The Chalisa serves this function in household worship: it is recited first, then Lakshmi, Vishnu, Shiva or Devi prayers follow, ensuring smooth completion of the entire puja."
         }
-    ]
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ganesh_Chalisa",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q66331091"
 }

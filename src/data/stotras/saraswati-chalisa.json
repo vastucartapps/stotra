@@ -35,7 +35,7 @@
     "verseCount": 42,
     "source": "Traditional",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
+    "updatedAt": "2026-05-13T00:00:00Z",
     "isPublished": true,
     "alsoKnownAs": [
         "Shri Saraswati Chalisa",
@@ -80,5 +80,7 @@
             "question": "What is the prescribed method for chanting the Saraswati Chalisa?",
             "answer": "Devotees bathe before sunrise, wear clean white or yellow clothing, place a Saraswati image or yantra on a clean altar, and offer white or yellow flowers, white sandalwood paste, yellow rice grains (akshata), milk, and white sweets. Books, pens, and instruments may be placed at the goddess's feet for blessing. The chalisa is recited 1, 3, 7, or 11 times, followed by the Saraswati aarti 'Om Jai Saraswati Mata.' Tuesdays and Fridays are auspicious weekly days, and the brahma-muhurta is the most powerful hour. (Source: Drik Panchang; Bhakti Bharat; Ramodey.)"
         }
-    ]
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Saraswati_Chalisa",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q56295513"
 }

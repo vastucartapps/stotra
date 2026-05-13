@@ -41,6 +41,8 @@
     "verseCount": 28,
     "source": "Atharvaveda",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-03-28T00:00:00Z",
-    "isPublished": true
+    "updatedAt": "2026-05-13T00:00:00Z",
+    "isPublished": true,
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ganapati_Atharvashirsa",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q1492033"
 }
