@@ -1,0 +1,47 @@
+Total URLs audited: 1770
+
+Class | Count | Description
+------|-------|------------
+  A   |     0 | Site-wide: /_next/ in robots disallow (verified separately)
+  B   |     0 | Site-wide: AI/SEO bots 403 in middleware (verified separately)
+  C   |     0 | Canonical points to wrong host/scheme
+  D   |     1 | Canonical doesn't match URL path (canonical bleed)
+  E   |     0 | Missing canonical link
+  F   |     0 | Missing hreflang x-default (only flagged if other hreflangs exist)
+  G   |     0 | Missing og:url
+  H   |     1 | og:url doesn't match canonical/URL
+  I   |     0 | Missing og:locale
+  J   |     0 | og:locale doesn't match html lang
+  K   |     0 | Missing og:type
+  L   |     0 | Missing html lang attribute
+  M   |     0 | html lang != 'en' (site is single-locale English)
+  N   |     1 | robots meta contains noindex
+  O   |     0 | Title length problematic (<10 or >70 chars)
+  P   |     0 | Missing or multiple H1
+  Q   |     0 | Site-wide: sitemap lastmod regenerates per-request (verified separately)
+  R   |     1 | Content page missing JSON-LD
+  S   |     0 | HTTP non-200 final response
+  T   |     0 | Body suspiciously small (<5KB) — likely error page
+  U   |     0 | Canonical contains '/undefined' (Next 15 params Promise not awaited)
+
+Top 20 URLs by # of failed classes:
+  [ 2] https://stotra.vastucart.in/  →  D,H
+  [ 2] https://stotra.vastucart.in/search  →  N,R
+  [ 0] https://stotra.vastucart.in/deity  →  
+  [ 0] https://stotra.vastucart.in/day  →  
+  [ 0] https://stotra.vastucart.in/day/tuesday  →  
+  [ 0] https://stotra.vastucart.in/deity/bhairava  →  
+  [ 0] https://stotra.vastucart.in/day/thursday  →  
+  [ 0] https://stotra.vastucart.in/deity/agni  →  
+  [ 0] https://stotra.vastucart.in/deity/ayyappa  →  
+  [ 0] https://stotra.vastucart.in/deity/dhanvantari  →  
+  [ 0] https://stotra.vastucart.in/deity/brahma  →  
+  [ 0] https://stotra.vastucart.in/deity/jagannath  →  
+  [ 0] https://stotra.vastucart.in/deity/ganga  →  
+  [ 0] https://stotra.vastucart.in/deity/gayatri  →  
+  [ 0] https://stotra.vastucart.in/deity/kali  →  
+  [ 0] https://stotra.vastucart.in/deity/narasimha  →  
+  [ 0] https://stotra.vastucart.in/deity/krishna  →  
+  [ 0] https://stotra.vastucart.in/deity/hanuman  →  
+  [ 0] https://stotra.vastucart.in/deity/kartikeya  →  
+  [ 0] https://stotra.vastucart.in/deity/radha  →  
