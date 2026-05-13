@@ -46,7 +46,7 @@
     "verseCount": 11,
     "source": "Bhasma Jabala Upanishad (Atharvaveda)",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
+    "updatedAt": "2026-05-13T00:00:00Z",
     "isPublished": true,
     "alsoKnownAs": [
         "Bhasmajabala Upanishad",
@@ -91,5 +91,7 @@
             "question": "What is the relationship between the Bhasma Jabala Upanishad and the Brihajjabala Upanishad?",
             "answer": "The two Upanishads are companion texts within the same Atharvana Shaiva-Upanishad cluster and are often studied together. The Bhasmajabala Upanishad focuses primarily on bhasma (sacred ash), its preparation and application, with rudraksha treated as a secondary topic. The Brihajjabala Upanishad, conversely, is the principal scripture on rudraksha, detailing the varieties of rudraksha beads (one-faced through fourteen-faced), their properties, the mantras for their consecration and wearing, and their placement on the body, with bhasma treated as a secondary topic. A Shaiva sadhaka following both Upanishads would apply bhasma at sandhya from the Bhasmajabala procedure and wear consecrated rudrakshas according to Brihajjabala prescriptions, completing the dual external markers of Shaiva identity. (Sources: Wikipedia Brihajjabala Upanishad; Wikipedia Bhasmajabala Upanishad; vyasaonline.com Brihajjabala; shaivam.org Brihat Jabala.)"
         }
-    ]
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Bhasmajabala_Upanishad",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q12443615"
 }

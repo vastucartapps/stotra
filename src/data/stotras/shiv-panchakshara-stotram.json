@@ -47,7 +47,7 @@
     "verseCount": 5,
     "source": "Composed by Adi Shankaracharya",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
+    "updatedAt": "2026-05-13T00:00:00Z",
     "isPublished": true,
     "alsoKnownAs": [
         "Shiva Panchakshara Stotra",
@@ -92,5 +92,7 @@
             "question": "What benefits does the closing verse of the stotram itself promise?",
             "answer": "The phala-shruti verse appended to the Panchakshara Stotram declares that whoever recites this hymn of the five syllables in the presence of Shiva (i.e., before a Shiva image or lingam) attains the world of Shiva (Shiva-loka) and enjoys Shiva's bliss. Wikipedia, Shlokam and the Greenmesg English translation all reproduce this phala-shruti consistently. Shaiva commentators emphasise that the promise is conditional on ekagrata (one-pointed attention) and bhava (devotional feeling), not on mechanical repetition. Many lineage teachers therefore recommend slow, meaning-aware recitation rather than fast counting, especially during the foundational years of practice, so that the stotram functions as a contemplative pathway into the Panchakshara mantra rather than a numerical accumulation."
         }
-    ]
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Shiva_Panchakshara_Stotra",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q16913394"
 }

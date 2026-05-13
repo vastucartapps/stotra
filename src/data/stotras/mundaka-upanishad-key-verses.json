@@ -45,7 +45,7 @@
     "verseCount": 11,
     "source": "Mundaka Upanishad (Atharvaveda)",
     "createdAt": "2026-03-29T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
+    "updatedAt": "2026-05-13T00:00:00Z",
     "isPublished": true,
     "alsoKnownAs": [
         "Mundakopanishad",
@@ -82,5 +82,7 @@
             "question": "Who teaches the Mundaka Upanishad?",
             "answer": "The Mundaka Upanishad is presented as the teaching imparted by Sage Angiras to Sage Saunaka, a great householder, who approached him with the question: 'What is that, knowing which everything else becomes known?' The reply is the entire Upanishad."
         }
-    ]
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mundaka_Upanishad",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q962783"
 }

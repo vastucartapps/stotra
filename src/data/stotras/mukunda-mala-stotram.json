@@ -37,7 +37,7 @@
     "verseCount": 11,
     "source": "Kulashekhara Alwar",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
+    "updatedAt": "2026-05-13T00:00:00Z",
     "isPublished": true,
     "alsoKnownAs": [
         "Mukundamala",
@@ -78,5 +78,7 @@
             "question": "When is the Mukunda Mala traditionally recited?",
             "answer": "The most prescribed days are every Ekadashi tithi, Janmashtami, Vaikuntha Ekadashi (in Margashirsha-Pausha), Gita Jayanti, the birthday-tithi of Kulashekhara Alvar (commemorated in Sri Vaishnava temples), and during the annual Adhyayanotsavam at Srirangam and other divya-deshams. For nitya-parayana, devotees recite the full text once daily or break it into seven sections to complete weekly. It is also commonly chanted at the bedside of the dying and during shraddha rites because of its repeated invocation of Krishna's name at antyakala. The hymn is short enough that a careful recitation takes about 25 to 35 minutes depending on the recension."
         }
-    ]
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mukundamala",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q4306830"
 }

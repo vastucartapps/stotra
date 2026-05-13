@@ -51,7 +51,7 @@
     "verseCount": 13,
     "source": "Mahabharata, Anushasan Parva",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
+    "updatedAt": "2026-05-13T00:00:00Z",
     "isPublished": true,
     "alsoKnownAs": [
         "Shiva Sahasranama",
@@ -95,5 +95,7 @@
             "question": "When should Shiva Sahasranama be chanted?",
             "answer": "Traditional practice prescribes recitation on Mondays, during all four prahars of Mahashivratri, on Pradosham (the 13th lunar day), in the holy month of Shravan, and during Rudrabhishekam. Brahma Muhurta and the evening Pradosh hour are considered especially auspicious."
         }
-    ]
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Shiva_Sahasranama",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q3764799"
 }

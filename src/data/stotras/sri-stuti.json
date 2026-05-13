@@ -41,7 +41,7 @@
     "verseCount": 9,
     "source": "Vedanta Deshika - Sri Stuti",
     "createdAt": "2026-03-29T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
+    "updatedAt": "2026-05-13T00:00:00Z",
     "isPublished": true,
     "alsoKnownAs": [
         "Sri Stuti by Vedanta Desika",
@@ -88,5 +88,7 @@
             "question": "How does Sri Stuti differ from Lakshmi Ashtottara, Kanakadhara Stotra and Sri Suktam?",
             "answer": "All four are principal Lakshmi recitations of varying provenance and emphasis. Sri Stuti by Vedanta Desika (9 verses, 14th century, Sri Vaishnava) emphasises Lakshmi's purushakara role and her presence at Srirangam and Tirupati. Lakshmi Ashtottara Shata Namavali (108 names) is used for daily archana with kumkum and lotus flowers. Kanakadhara Stotra by Adi Shankaracharya (22 verses, 8th century, Smarta) is the celebrated gold-shower hymn composed at the impoverished brahmin's house in Kalady. Sri Suktam from the Rig Vedic khilani (16 verses) is the most ancient Vedic Lakshmi hymn used in shrauta and grihya rituals including Sri Lakshmi-puja and Lakshmi-homam. The Sri Stuti is the Sri Vaishnava sampradaya's primary daily Lakshmi text. (Sources: Stotra Nidhi Lakshmi collection; Sri Vaishnava sampradaya.)"
         }
-    ]
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Sri_Stuti",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q118902864"
 }

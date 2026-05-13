@@ -40,7 +40,7 @@
     "verseCount": 16,
     "source": "Shrimad Bhagavata Purana, Canto 8",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
+    "updatedAt": "2026-05-13T00:00:00Z",
     "isPublished": true,
     "alsoKnownAs": [
         "Gajendra Stuti",
@@ -85,5 +85,7 @@
             "question": "What benefits do traditional commentators attribute to its recitation?",
             "answer": "The Bhagavata Purana itself (SB 8.4.14–25) makes an unusual phalashruti (results-statement): whoever hears or recites the Gajendra Moksha narrative is freed from sins committed in any of one's lifetimes, attains liberation at the time of death, gains protection from all crises and hostile circumstances, and becomes dear to Vishnu. Commentators add: relief from snakebite, water-related dangers, lawsuits, animal attacks, and severe illness; cultivation of sharanagati-vritti (the disposition of total surrender); and rapid progress in bhakti-yoga. The episode is therefore both an emergency-prayer and a long-term sadhana text. (Sources: Vedabase SB 8.3; thegita.in; Indian Astrology.)"
         }
-    ]
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Gajendra_Moksha",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q17053234"
 }

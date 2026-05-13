@@ -38,7 +38,7 @@
     "verseCount": 10,
     "source": "Adi Shankaracharya",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
+    "updatedAt": "2026-05-13T00:00:00Z",
     "isPublished": true,
     "alsoKnownAs": [
         "Dakshinamurti Stotra",
@@ -83,5 +83,7 @@
             "question": "Is Dakshinamurthy Stotram considered prayer or philosophy?",
             "answer": "Both, simultaneously, and that is its unique standing in Hindu literature. Devotionally it functions as a prayer to Shiva in his guru-aspect, recited for the removal of avidya (ignorance). Philosophically, Sureshvaracharya's Manasollasa treats it as a complete Vedanta-prakarana grantha (introductory Advaita textbook) in which all the major doctrines of Advaita-i.e., adhyaropa-apavada (superimposition and de-superimposition), drik-drishya viveka (the discrimination of seer and seen), and akhanda-akara-vritti (the unbroken thought-form of Brahman)-are encapsulated within ten verses. Most modern Advaita teaching traditions (Sringeri, Kanchi, Arsha Vidya, Chinmaya Mission) therefore use it as the first stotram taught to serious Vedanta students."
         }
-    ]
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Dakshinamurti_Stotra",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q5210090"
 }

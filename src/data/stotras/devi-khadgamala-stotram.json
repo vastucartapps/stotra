@@ -50,7 +50,7 @@
     "verseCount": 9,
     "source": "Sri Vidya Tantra Tradition (Vamakeshvara Tantra)",
     "createdAt": "2026-03-29T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
+    "updatedAt": "2026-05-13T00:00:00Z",
     "isPublished": true,
     "alsoKnownAs": [
         "Sri Devi Khadgamala Stotram",
@@ -95,5 +95,7 @@
             "question": "How is the Khadgamala different from the Lalita Sahasranama?",
             "answer": "Both hymns name the Devi extensively, but they are structurally and functionally distinct. The Lalita Sahasranama, drawn from the Brahmanda Purana, lists 1000 names of Lalita in shloka form without geographical reference to the Sri Chakra, and its central rhythm is praise. The Khadgamala, by contrast, names roughly 98 deities arranged according to their precise position in the Sri Chakra avaranas, and is structured as a yantra-walking ritual rather than a pure praise-litany. As Wikipedia notes, recitation of Khadgamala is effectively a verbal navarana puja, while Lalita Sahasranama is praise-meditation. Many Sri Vidya sadhakas chant both daily, the Sahasranama for bhavana and the Khadgamala for yantra-installation."
         }
-    ]
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Khadgamala",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q6398881"
 }

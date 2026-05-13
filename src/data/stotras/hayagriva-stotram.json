@@ -40,7 +40,7 @@
     "verseCount": 12,
     "source": "Vedanta Desika",
     "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
+    "updatedAt": "2026-05-13T00:00:00Z",
     "isPublished": true,
     "alsoKnownAs": [
         "Sri Hayagriva Stotra",
@@ -78,5 +78,7 @@
             "question": "When should Hayagriva Stotram be chanted?",
             "answer": "The stotram is chanted on Hayagriva Jayanti (Shravan Pournami), at the beginning of any course of study, before examinations, on Wednesdays (the day of Budha, lord of intellect), and during Vidyarambha — the ceremonial start of formal learning."
         }
-    ]
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Hayagriva_Stotra",
+    "wikidataUrl": "https://www.wikidata.org/wiki/Q118900667"
 }
