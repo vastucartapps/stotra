@@ -1,39 +1,29 @@
 import type { Metadata } from "next";
 import { SearchPageContent } from "@/components/pages/SearchPage";
 import { getAllStotras } from "@/lib/stotras";
+import { siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
 
-const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
+const PAGE_TITLE = "Search Stotras | Stotra by VastuCart";
+const PAGE_DESC =
+  "Search our collection of Hindu stotras, chalisa, and sacred hymns by name, deity, or keyword.";
 
 export const metadata: Metadata = {
   title: "Search Stotras",
-  description: "Search our collection of Hindu stotras, chalisa, and sacred hymns by name, deity, or keyword.",
-  alternates: {
-    canonical: "/search",
-  },
-  robots: {
-    index: false,
-    follow: true,
-  },
-  openGraph: {
-    title: "Search Stotras | Stotra by VastuCart",
-    description: "Search our collection of Hindu stotras, chalisa, and sacred hymns by name, deity, or keyword.",
-    url: `${APP_URL}/search`,
+  description: PAGE_DESC,
+  alternates: { canonical: "/search" },
+  robots: { index: false, follow: true },
+  openGraph: siteOpenGraph({
+    path: "/search",
+    title: PAGE_TITLE,
+    description: PAGE_DESC,
     type: "website",
-    images: [
-      {
-        url: `${APP_URL}/og-default.jpg`,
-        width: 1200,
-        height: 630,
-        alt: "Search Stotras - Stotra by VastuCart",
-      },
-    ],
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "Search Stotras | Stotra by VastuCart",
-    description: "Search our collection of Hindu stotras, chalisa, and sacred hymns by name, deity, or keyword.",
-    images: [`${APP_URL}/og-default.jpg`],
-  },
+    imageAlt: "Search Stotras - Stotra by VastuCart",
+  }),
+  twitter: siteTwitter({
+    path: "/search",
+    title: PAGE_TITLE,
+    description: PAGE_DESC,
+  }),
 };
 
 export default function SearchPage() {

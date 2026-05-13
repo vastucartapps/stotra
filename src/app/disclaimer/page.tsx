@@ -1,14 +1,25 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { APP_URL, siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
 
-const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
+const PAGE_TITLE = "Disclaimer | Stotra by VastuCart";
+const PAGE_DESC = "Disclaimer for Stotra by VastuCart.";
 
 export const metadata: Metadata = {
   title: "Disclaimer",
-  description: "Disclaimer for Stotra by VastuCart.",
-  alternates: {
-    canonical: "/disclaimer",
-  },
+  description: PAGE_DESC,
+  alternates: { canonical: "/disclaimer" },
+  openGraph: siteOpenGraph({
+    path: "/disclaimer",
+    title: PAGE_TITLE,
+    description: PAGE_DESC,
+    type: "website",
+  }),
+  twitter: siteTwitter({
+    path: "/disclaimer",
+    title: PAGE_TITLE,
+    description: PAGE_DESC,
+  }),
 };
 
 export default function DisclaimerPage() {

@@ -4,35 +4,28 @@ import { getDeityById } from "@/data/deities";
 import { getTodaysStotras } from "@/lib/stotras";
 import { StotraCard } from "@/components/stotra/StotraCard";
 import { buildHubPageGraph, STOTRA_BASE } from "@/lib/schema";
+import { siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
 
-const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
+const PAGE_TITLE = "Today's Stotras — Daily Recommended Prayers | VastuCart";
+const PAGE_DESC =
+  "Discover which stotras to recite today based on the day of the week. Daily recommendations for your spiritual practice.";
 
 export const metadata: Metadata = {
   title: "Today's Stotras - Daily Recommended Prayers",
-  description: "Discover which stotras to recite today based on the day of the week. Daily recommendations for your spiritual practice.",
-  alternates: {
-    canonical: "/today",
-  },
-  openGraph: {
-    title: "Today's Stotras - Daily Recommended Prayers | Stotra by VastuCart",
-    description: "Discover which stotras to recite today based on the day of the week. Daily recommendations for your spiritual practice.",
-    url: `${APP_URL}/today`,
+  description: PAGE_DESC,
+  alternates: { canonical: "/today" },
+  openGraph: siteOpenGraph({
+    path: "/today",
+    title: PAGE_TITLE,
+    description: PAGE_DESC,
     type: "website",
-    images: [
-      {
-        url: `${APP_URL}/og-default.jpg`,
-        width: 1200,
-        height: 630,
-        alt: "Today's Stotras - Stotra by VastuCart",
-      },
-    ],
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "Today's Stotras - Daily Recommended Prayers | Stotra by VastuCart",
-    description: "Discover which stotras to recite today based on the day of the week. Daily recommendations for your spiritual practice.",
-    images: [`${APP_URL}/og-default.jpg`],
-  },
+    imageAlt: "Today's Stotras - Stotra by VastuCart",
+  }),
+  twitter: siteTwitter({
+    path: "/today",
+    title: PAGE_TITLE,
+    description: PAGE_DESC,
+  }),
 };
 
 export const revalidate = 3600;

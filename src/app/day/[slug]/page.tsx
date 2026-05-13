@@ -8,8 +8,7 @@ import { DAYS, getDayBySlug } from "@/data/days";
 import { getDeityById } from "@/data/deities";
 import { getStotrasByDay } from "@/lib/stotras";
 import { StotraCard } from "@/components/stotra/StotraCard";
-
-const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
+import { APP_URL, siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
 
 export function generateStaticParams() {
   return DAYS.map((d) => ({ slug: d.slug }));
@@ -32,26 +31,18 @@ export async function generateMetadata({
     alternates: {
       canonical: `/day/${slug}`,
     },
-    openGraph: {
+    openGraph: siteOpenGraph({
+      path: `/day/${slug}`,
       title,
       description,
-      url: `${APP_URL}/day/${slug}`,
       type: "website",
-      images: [
-        {
-          url: `${APP_URL}/og-default.jpg`,
-          width: 1200,
-          height: 630,
-          alt: `${day.name} Stotras - Stotra by VastuCart`,
-        },
-      ],
-    },
-    twitter: {
-      card: "summary_large_image",
+      imageAlt: `${day.name} Stotras - Stotra by VastuCart`,
+    }),
+    twitter: siteTwitter({
+      path: `/day/${slug}`,
       title,
       description,
-      images: [`${APP_URL}/og-default.jpg`],
-    },
+    }),
   };
 }
 

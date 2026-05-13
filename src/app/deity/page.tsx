@@ -4,38 +4,28 @@ import { DEITIES } from "@/data/deities";
 import { getStotraCountByDeity } from "@/lib/stotras";
 import { CategoryIcon } from "@/components/ui/CategoryIcon";
 import { buildHubPageGraph, STOTRA_BASE } from "@/lib/schema";
+import { siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
 
-const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
+const PAGE_TITLE = "Stotras by Deity | Stotra by VastuCart";
+const PAGE_DESC =
+  "Browse our complete collection of Hindu stotras organized by deity - Ganesha, Shiva, Vishnu, Hanuman, Lakshmi, Durga, Krishna, Rama, and more.";
 
 export const metadata: Metadata = {
   title: "Stotras by Deity",
-  description:
-    "Browse our complete collection of Hindu stotras organized by deity - Ganesha, Shiva, Vishnu, Hanuman, Lakshmi, Durga, Krishna, Rama, and more.",
-  alternates: {
-    canonical: "/deity",
-  },
-  openGraph: {
-    title: "Stotras by Deity | Stotra by VastuCart",
-    description:
-      "Browse our complete collection of Hindu stotras organized by deity - Ganesha, Shiva, Vishnu, Hanuman, Lakshmi, Durga, Krishna, Rama, and more.",
-    url: `${APP_URL}/deity`,
+  description: PAGE_DESC,
+  alternates: { canonical: "/deity" },
+  openGraph: siteOpenGraph({
+    path: "/deity",
+    title: PAGE_TITLE,
+    description: PAGE_DESC,
     type: "website",
-    images: [
-      {
-        url: `${APP_URL}/og-default.jpg`,
-        width: 1200,
-        height: 630,
-        alt: "Browse Stotras by Deity - Stotra by VastuCart",
-      },
-    ],
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "Stotras by Deity | Stotra by VastuCart",
-    description:
-      "Browse our complete collection of Hindu stotras organized by deity - Ganesha, Shiva, Vishnu, Hanuman, Lakshmi, Durga, Krishna, Rama, and more.",
-    images: [`${APP_URL}/og-default.jpg`],
-  },
+    imageAlt: "Browse Stotras by Deity - Stotra by VastuCart",
+  }),
+  twitter: siteTwitter({
+    path: "/deity",
+    title: PAGE_TITLE,
+    description: PAGE_DESC,
+  }),
 };
 
 export default function DeityListPage() {

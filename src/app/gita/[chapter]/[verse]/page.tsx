@@ -3,8 +3,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { getAllGitaChapters, getGitaVerse, getAdjacentVerses } from "@/lib/gita";
 import { buildGitaVerseGraph } from "@/lib/schema";
-
-const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
+import { siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
 
 export function generateStaticParams() {
   const params: { chapter: string; verse: string }[] = [];
@@ -34,18 +33,17 @@ export async function generateMetadata({
     title: { absolute: title },
     description,
     alternates: { canonical: `/gita/${chSlug}/${vSlug}` },
-    openGraph: {
+    openGraph: siteOpenGraph({
+      path: `/gita/${chSlug}/${vSlug}`,
       title,
       description,
-      url: `${APP_URL}/gita/${chSlug}/${vSlug}`,
       type: "article",
-      siteName: "Stotra by VastuCart",
-    },
-    twitter: {
-      card: "summary_large_image",
+    }),
+    twitter: siteTwitter({
+      path: `/gita/${chSlug}/${vSlug}`,
       title,
       description,
-    },
+    }),
   };
 }
 

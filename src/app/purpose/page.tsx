@@ -4,35 +4,28 @@ import { PURPOSES } from "@/data/purposes";
 import { getStotrasByPurpose } from "@/lib/stotras";
 import { CategoryIcon } from "@/components/ui/CategoryIcon";
 import { buildHubPageGraph, STOTRA_BASE } from "@/lib/schema";
+import { siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
 
-const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
+const PAGE_TITLE = "Stotras by Purpose | Stotra by VastuCart";
+const PAGE_DESC =
+  "Find stotras for protection, wealth, health, peace, knowledge, spiritual growth, and more.";
 
 export const metadata: Metadata = {
   title: "Stotras by Purpose",
-  description: "Find stotras for protection, wealth, health, peace, knowledge, spiritual growth, and more.",
-  alternates: {
-    canonical: "/purpose",
-  },
-  openGraph: {
-    title: "Stotras by Purpose | Stotra by VastuCart",
-    description: "Find stotras for protection, wealth, health, peace, knowledge, spiritual growth, and more.",
-    url: `${APP_URL}/purpose`,
+  description: PAGE_DESC,
+  alternates: { canonical: "/purpose" },
+  openGraph: siteOpenGraph({
+    path: "/purpose",
+    title: PAGE_TITLE,
+    description: PAGE_DESC,
     type: "website",
-    images: [
-      {
-        url: `${APP_URL}/og-default.jpg`,
-        width: 1200,
-        height: 630,
-        alt: "Stotras by Purpose - Stotra by VastuCart",
-      },
-    ],
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "Stotras by Purpose | Stotra by VastuCart",
-    description: "Find stotras for protection, wealth, health, peace, knowledge, spiritual growth, and more.",
-    images: [`${APP_URL}/og-default.jpg`],
-  },
+    imageAlt: "Stotras by Purpose - Stotra by VastuCart",
+  }),
+  twitter: siteTwitter({
+    path: "/purpose",
+    title: PAGE_TITLE,
+    description: PAGE_DESC,
+  }),
 };
 
 export default function PurposeListPage() {

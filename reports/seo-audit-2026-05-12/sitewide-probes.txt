@@ -1,0 +1,46 @@
+=== A. /_next/ blocked in robots.txt ===
+User-Agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api/
+Disallow: /_next/
+
+Host: https://stotra.vastucart.in
+Sitemap: https://stotra.vastucart.in/sitemap.xml
+
+
+=== B. AI/SEO bot 403 in middleware ===
+Probing 8 bots with Googlebot as control. Expect all 200 (not 403).
+  Googlebot → HTTP 200
+  bingbot → HTTP 200
+  GPTBot → HTTP 200
+  ChatGPT-User → HTTP 200
+  OAI-SearchBot → HTTP 200
+  anthropic-ai → HTTP 200
+  Claude-Web → HTTP 200
+  ClaudeBot → HTTP 200
+  PerplexityBot → HTTP 200
+  CCBot → HTTP 200
+  Applebot-Extended → HTTP 200
+   → HTTP 200
+  Amazonbot → HTTP 200
+  Bytespider → HTTP 200
+
+=== Q. Sitemap lastmod stability (fetch twice, compare) ===
+Fetch 1:
+  first lastmod: <lastmod>2026-05-06T15:00:00.000Z</lastmod>
+Fetch 2:
+  second lastmod: <lastmod>2026-05-06T15:00:00.000Z</lastmod>
+  STATUS: stable (cached at edge)
+
+=== Sample 5 stotra lastmods (should reflect file updatedAt, not 'now') ===
+<loc>https://stotra.vastucart.in/stotra/krishna-aarti</loc>	<lastmod>2026-05-06T15:00:00.000Z</lastmod>
+<loc>https://stotra.vastucart.in/stotra/achyutashtakam</loc>	<lastmod>2026-03-28T00:00:00.000Z</lastmod>
+<loc>https://stotra.vastucart.in/stotra/aditya-hridayam</loc>	<lastmod>2026-05-06T15:00:00.000Z</lastmod>
+<loc>https://stotra.vastucart.in/stotra/aditya-kavacham</loc>	<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<loc>https://stotra.vastucart.in/stotra/aditya-stotram</loc>	<lastmod>2026-03-28T00:00:00.000Z</lastmod>
+<loc>https://stotra.vastucart.in/stotra/agni-ashtakam</loc>	<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<loc>https://stotra.vastucart.in/stotra/agni-chalisa</loc>	<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<loc>https://stotra.vastucart.in/stotra/agni-dwadash-nama</loc>	<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<loc>https://stotra.vastucart.in/stotra/agni-gayatri</loc>	<lastmod>2026-03-29T00:00:00.000Z</lastmod>
+<loc>https://stotra.vastucart.in/stotra/agni-kavacham</loc>	<lastmod>2026-03-29T00:00:00.000Z</lastmod>

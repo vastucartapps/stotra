@@ -7,8 +7,7 @@ import { buildDeityPageGraph, buildFaqPageSchema } from "@/lib/schema";
 import type { SchemaFAQItem } from "@/lib/schema";
 import { StotraCard } from "@/components/stotra/StotraCard";
 import { CategoryIcon } from "@/components/ui/CategoryIcon";
-
-const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
+import { APP_URL, siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
 
 export function generateStaticParams() {
   return DEITIES.map((d) => ({ slug: d.slug }));
@@ -23,7 +22,7 @@ export async function generateMetadata({
   const deity = getDeityBySlug(slug);
   if (!deity) return {};
   const stotras = getStotrasByPrimaryDeity(deity.id);
-  const title = `${deity.name} Stotras in Sanskrit & Hindi — ${stotras.length} Prayers with PDF | VastuCart`;
+  const title = `${deity.name} Stotras (${stotras.length}) — Sanskrit, Hindi, PDF`;
   const description = `Complete collection of ${stotras.length} ${deity.name} stotras, chalisa and prayers in Sanskrit with Hindi meaning and free PDF download.`;
   return {
     title: { absolute: title },
@@ -31,26 +30,18 @@ export async function generateMetadata({
     alternates: {
       canonical: `/deity/${slug}`,
     },
-    openGraph: {
+    openGraph: siteOpenGraph({
+      path: `/deity/${slug}`,
       title,
       description,
-      url: `${APP_URL}/deity/${slug}`,
       type: "website",
-      images: [
-        {
-          url: `${APP_URL}/og-default.jpg`,
-          width: 1200,
-          height: 630,
-          alt: `${deity.name} Stotras - Stotra by VastuCart`,
-        },
-      ],
-    },
-    twitter: {
-      card: "summary_large_image",
+      imageAlt: `${deity.name} Stotras - Stotra by VastuCart`,
+    }),
+    twitter: siteTwitter({
+      path: `/deity/${slug}`,
       title,
       description,
-      images: [`${APP_URL}/og-default.jpg`],
-    },
+    }),
   };
 }
 

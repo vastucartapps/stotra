@@ -4,24 +4,29 @@ import { getAllGitaChapters, getTotalVerseCount } from "@/lib/gita";
 import { getBhagavadGitaSupportingTexts } from "@/lib/stotras";
 import { buildGitaBookSchema } from "@/lib/schema";
 import { CategoryIcon } from "@/components/ui/CategoryIcon";
+import { APP_URL, siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
 
-const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
+const PAGE_TITLE = "Bhagavad Gita — 18 Chapters, 701 Verses | VastuCart";
+const PAGE_DESC =
+  "Complete Bhagavad Gita verse by verse — Sanskrit, transliteration, word-by-word meaning, Hindi & English translation, and commentary.";
 
 export const metadata: Metadata = {
-  title: "Bhagavad Gita - All 18 Chapters, 701 Verses with Word-by-Word Meaning",
+  title: { absolute: "Bhagavad Gita — 18 Chapters, 701 Verses with Meaning, PDF" },
   description:
     "Read the complete Bhagavad Gita (श्रीमद्भगवद्गीता) verse by verse — all 18 chapters, 701 shlokas in Devanagari Sanskrit with word-by-word meaning (anvaya), English transliteration, Hindi translation, English translation, and commentary.",
-  alternates: {
-    canonical: "/gita",
-  },
-  openGraph: {
-    title: "Bhagavad Gita - All 18 Chapters, 701 Verses | Stotra by VastuCart",
-    description:
-      "Complete Bhagavad Gita verse by verse — Sanskrit, transliteration, word-by-word meaning, Hindi & English translation, and commentary.",
-    url: `${APP_URL}/gita`,
+  alternates: { canonical: "/gita" },
+  openGraph: siteOpenGraph({
+    path: "/gita",
+    title: PAGE_TITLE,
+    description: PAGE_DESC,
     type: "website",
-    images: [{ url: `${APP_URL}/og-default.jpg`, width: 1200, height: 630, alt: "Bhagavad Gita - Stotra by VastuCart" }],
-  },
+    imageAlt: "Bhagavad Gita - Stotra by VastuCart",
+  }),
+  twitter: siteTwitter({
+    path: "/gita",
+    title: PAGE_TITLE,
+    description: PAGE_DESC,
+  }),
 };
 
 export default function GitaPage() {

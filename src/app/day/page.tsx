@@ -5,38 +5,28 @@ import { DAYS, getTodayDay } from "@/data/days";
 import { getDeityById } from "@/data/deities";
 import { getStotrasByDay } from "@/lib/stotras";
 import { buildHubPageGraph, STOTRA_BASE } from "@/lib/schema";
+import { siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
 
-const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
+const PAGE_TITLE = "Stotras by Day of the Week | Stotra by VastuCart";
+const PAGE_DESC =
+  "Find which stotras to recite each day of the week. Monday for Shiva, Tuesday for Hanuman, Wednesday for Ganesha, and more.";
 
 export const metadata: Metadata = {
   title: "Stotras by Day of the Week",
-  description:
-    "Find which stotras to recite each day of the week. Monday for Shiva, Tuesday for Hanuman, Wednesday for Ganesha, and more.",
-  alternates: {
-    canonical: "/day",
-  },
-  openGraph: {
-    title: "Stotras by Day of the Week | Stotra by VastuCart",
-    description:
-      "Find which stotras to recite each day of the week. Monday for Shiva, Tuesday for Hanuman, Wednesday for Ganesha, and more.",
-    url: `${APP_URL}/day`,
+  description: PAGE_DESC,
+  alternates: { canonical: "/day" },
+  openGraph: siteOpenGraph({
+    path: "/day",
+    title: PAGE_TITLE,
+    description: PAGE_DESC,
     type: "website",
-    images: [
-      {
-        url: `${APP_URL}/og-default.jpg`,
-        width: 1200,
-        height: 630,
-        alt: "Stotras by Day of the Week - Stotra by VastuCart",
-      },
-    ],
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "Stotras by Day of the Week | Stotra by VastuCart",
-    description:
-      "Find which stotras to recite each day of the week. Monday for Shiva, Tuesday for Hanuman, Wednesday for Ganesha, and more.",
-    images: [`${APP_URL}/og-default.jpg`],
-  },
+    imageAlt: "Stotras by Day of the Week - Stotra by VastuCart",
+  }),
+  twitter: siteTwitter({
+    path: "/day",
+    title: PAGE_TITLE,
+    description: PAGE_DESC,
+  }),
 };
 
 export default function DayListPage() {

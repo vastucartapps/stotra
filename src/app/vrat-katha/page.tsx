@@ -3,21 +3,28 @@ import Link from "next/link";
 import { HINDU_MONTHS, WEEKLY_VRAT_KATHAS } from "@/data/vrat-katha";
 import { getStotraBySlug } from "@/lib/stotras";
 import { buildHubPageGraph, STOTRA_BASE } from "@/lib/schema";
+import { siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
 
-const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
+const PAGE_TITLE = "Vrat Katha — 12 Month Hindu Fasting Stories | VastuCart";
+const PAGE_DESC =
+  "Complete Hindu Vrat Katha collection organized by month — Satyanarayan, Karwa Chauth, Ekadashi, Navratri, Diwali, and more in Hindi.";
 
 export const metadata: Metadata = {
   title: "Vrat Katha - 12 Month Hindu Fasting Stories in Hindi",
   description:
     "Read all Hindu Vrat Kathas organized by 12 months (Vikram Samvat) — Satyanarayan Katha, Karwa Chauth, Ekadashi, Somvar Vrat, and more. Complete collection in Hindi with transliteration and free PDF download.",
   alternates: { canonical: "/vrat-katha" },
-  openGraph: {
-    title: "Vrat Katha - 12 Month Hindu Fasting Stories | Stotra by VastuCart",
-    description:
-      "Complete Hindu Vrat Katha collection organized by month — Satyanarayan, Karwa Chauth, Ekadashi, Navratri, Diwali, and more in Hindi.",
-    url: `${APP_URL}/vrat-katha`,
+  openGraph: siteOpenGraph({
+    path: "/vrat-katha",
+    title: PAGE_TITLE,
+    description: PAGE_DESC,
     type: "website",
-  },
+  }),
+  twitter: siteTwitter({
+    path: "/vrat-katha",
+    title: PAGE_TITLE,
+    description: PAGE_DESC,
+  }),
 };
 
 export default function VratKathaPage() {

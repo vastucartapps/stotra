@@ -1,14 +1,25 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { APP_URL, siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
 
-const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
+const PAGE_TITLE = "Terms of Service | Stotra by VastuCart";
+const PAGE_DESC = "Terms of Service for Stotra by VastuCart.";
 
 export const metadata: Metadata = {
   title: "Terms of Service",
-  description: "Terms of Service for Stotra by VastuCart.",
-  alternates: {
-    canonical: "/terms",
-  },
+  description: PAGE_DESC,
+  alternates: { canonical: "/terms" },
+  openGraph: siteOpenGraph({
+    path: "/terms",
+    title: PAGE_TITLE,
+    description: PAGE_DESC,
+    type: "website",
+  }),
+  twitter: siteTwitter({
+    path: "/terms",
+    title: PAGE_TITLE,
+    description: PAGE_DESC,
+  }),
 };
 
 export default function TermsPage() {

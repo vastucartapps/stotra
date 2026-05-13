@@ -7,8 +7,7 @@ import { StotraCard } from "@/components/stotra/StotraCard";
 import { CategoryIcon } from "@/components/ui/CategoryIcon";
 import { buildTaxonomyPageGraph, buildFaqPageSchema } from "@/lib/schema";
 import type { SchemaFAQItem } from "@/lib/schema";
-
-const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
+import { APP_URL, siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
 
 export function generateStaticParams() {
   return PURPOSES.map((p) => ({ slug: p.slug }));
@@ -18,7 +17,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params;
   const purpose = getPurposeBySlug(slug);
   if (!purpose) return {};
-  const title = `Stotras for ${purpose.name} — Sanskrit Prayers for ${purpose.nameHi} | VastuCart`;
+  const title = `${purpose.name} Stotras — Sanskrit, Hindi, PDF`;
   const description = `Find the most powerful Hindu stotras and prayers for ${purpose.name.toLowerCase()} in Sanskrit with Hindi meaning and PDF download.`;
   return {
     title: { absolute: title },
@@ -26,26 +25,18 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     alternates: {
       canonical: `/purpose/${slug}`,
     },
-    openGraph: {
+    openGraph: siteOpenGraph({
+      path: `/purpose/${slug}`,
       title,
       description,
-      url: `${APP_URL}/purpose/${slug}`,
       type: "website",
-      images: [
-        {
-          url: `${APP_URL}/og-default.jpg`,
-          width: 1200,
-          height: 630,
-          alt: `Stotras for ${purpose.name} - Stotra by VastuCart`,
-        },
-      ],
-    },
-    twitter: {
-      card: "summary_large_image",
+      imageAlt: `Stotras for ${purpose.name} - Stotra by VastuCart`,
+    }),
+    twitter: siteTwitter({
+      path: `/purpose/${slug}`,
       title,
       description,
-      images: [`${APP_URL}/og-default.jpg`],
-    },
+    }),
   };
 }
 

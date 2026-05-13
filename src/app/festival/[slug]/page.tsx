@@ -8,8 +8,7 @@ import { StotraCard } from "@/components/stotra/StotraCard";
 import { CategoryIcon } from "@/components/ui/CategoryIcon";
 import { buildTaxonomyPageGraph, buildFaqPageSchema } from "@/lib/schema";
 import type { SchemaFAQItem } from "@/lib/schema";
-
-const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
+import { APP_URL, siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
 
 export function generateStaticParams() {
   return FESTIVALS.map((f) => ({ slug: f.slug }));
@@ -27,26 +26,18 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     alternates: {
       canonical: `/festival/${slug}`,
     },
-    openGraph: {
+    openGraph: siteOpenGraph({
+      path: `/festival/${slug}`,
       title,
       description,
-      url: `${APP_URL}/festival/${slug}`,
       type: "website",
-      images: [
-        {
-          url: `${APP_URL}/og-default.jpg`,
-          width: 1200,
-          height: 630,
-          alt: `${festival.name} Stotras - Stotra by VastuCart`,
-        },
-      ],
-    },
-    twitter: {
-      card: "summary_large_image",
+      imageAlt: `${festival.name} Stotras - Stotra by VastuCart`,
+    }),
+    twitter: siteTwitter({
+      path: `/festival/${slug}`,
       title,
       description,
-      images: [`${APP_URL}/og-default.jpg`],
-    },
+    }),
   };
 }
 

@@ -43,3 +43,27 @@ export function sitemapIndexXml(children: { loc: string; lastmod?: string }[]): 
 }
 
 export const SITEMAP_BASE = STOTRA_BASE;
+
+/**
+ * Stable lastmod for hub/static/Gita sitemaps. Derived from the most recent
+ * stotra `updatedAt` so a no-content redeploy doesn't churn the timestamp.
+ * Cached after first call so all sitemaps emit identical lastmods within a build.
+ */
+let _siteContentLastmod: string | null = null;
+export function siteContentLastmod(): string {
+  if (_siteContentLastmod) return _siteContentLastmod;
+  // Lazy require to avoid circular dependency with @/lib/stotras (which imports schema).
+  // eslint-disable-next-line @typescript-eslint/no-require-imports
+  const { getAllStotras } = require("@/lib/stotras") as typeof import("@/lib/stotras");
+  const stotras = getAllStotras();
+  let max = 0;
+  for (const s of stotras) {
+    const t = Date.parse(s.updatedAt);
+    if (!Number.isNaN(t) && t > max) max = t;
+  }
+  // Floor to the day so multiple deploys on the same day produce identical lastmod.
+  const d = new Date(max || Date.now());
+  d.setUTCHours(0, 0, 0, 0);
+  _siteContentLastmod = d.toISOString();
+  return _siteContentLastmod;
+}

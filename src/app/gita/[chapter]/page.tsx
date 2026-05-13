@@ -3,8 +3,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { getAllGitaChapters, getGitaChapter } from "@/lib/gita";
 import { buildGitaChapterGraph } from "@/lib/schema";
-
-const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
+import { siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
 
 export function generateStaticParams() {
   return getAllGitaChapters().map((c) => ({ chapter: c.slug }));
@@ -18,25 +17,24 @@ export async function generateMetadata({
   const { chapter: slug } = await params;
   const chapter = getGitaChapter(slug);
   if (!chapter) return {};
-  const title = `Bhagavad Gita Chapter ${chapter.chapterNumber} - ${chapter.titleEnglish} (${chapter.titleSanskrit})`;
+  // Compact title (≤70 chars). Long English chapter subtitle removed; Sanskrit
+  // title is the canonical Hindu name for the chapter and remains in H1 + meta description.
+  const title = `Bhagavad Gita Chapter ${chapter.chapterNumber} — Sanskrit, Hindi, PDF`;
   return {
     title: { absolute: title },
     description: chapter.description,
     alternates: { canonical: `/gita/${slug}` },
-    openGraph: {
+    openGraph: siteOpenGraph({
+      path: `/gita/${slug}`,
       title,
       description: chapter.description,
-      url: `${APP_URL}/gita/${slug}`,
       type: "article",
-      siteName: "Stotra by VastuCart",
-      images: [{ url: `${APP_URL}/og-default.jpg`, width: 1200, height: 630, alt: title }],
-    },
-    twitter: {
-      card: "summary_large_image",
+    }),
+    twitter: siteTwitter({
+      path: `/gita/${slug}`,
       title,
       description: chapter.description,
-      images: [`${APP_URL}/og-default.jpg`],
-    },
+    }),
   };
 }
 

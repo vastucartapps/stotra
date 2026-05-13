@@ -10,37 +10,28 @@ import { GitaShlokaCard } from "@/components/pages/GitaShlokaCard";
 import { getGitaVerseOfTheDay } from "@/lib/gita";
 import { CategoryIcon } from "@/components/ui/CategoryIcon";
 import { buildStotraWebsiteSchema } from "@/lib/schema";
-
-const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
+import { APP_URL, siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
 
 export function generateMetadata(): Metadata {
   const count = getAllStotras().length;
-  const title = `Stotra — ${count} Hindu Prayers in Sanskrit & Hindi with PDF Download | VastuCart`;
+  const title = `${count}+ Hindu Stotras in Sanskrit & Hindi | VastuCart`;
   const description = `Read ${count} stotras, chalisas, the Bhagavad Gita (701 verses per Gita Press), and vrat kathas in Sanskrit and Hindi with transliteration, meaning, and free PDF. Browse by deity, purpose, or day.`;
   return {
     title: { absolute: title },
     description,
     alternates: { canonical: "/" },
-    openGraph: {
+    openGraph: siteOpenGraph({
+      path: "/",
       title,
       description,
-      url: APP_URL,
       type: "website",
-      images: [
-        {
-          url: `${APP_URL}/og-default.jpg`,
-          width: 1200,
-          height: 630,
-          alt: "Stotra by VastuCart - Sacred Hindu Prayers",
-        },
-      ],
-    },
-    twitter: {
-      card: "summary_large_image",
+      imageAlt: "Stotra by VastuCart - Sacred Hindu Prayers",
+    }),
+    twitter: siteTwitter({
+      path: "/",
       title,
       description,
-      images: [`${APP_URL}/og-default.jpg`],
-    },
+    }),
   };
 }
 

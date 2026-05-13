@@ -10,8 +10,7 @@ import { Sidebar } from "@/components/layout/Sidebar";
 import { StotraContent } from "@/components/stotra/StotraContent";
 import { StotraFAQ } from "@/components/stotra/StotraFAQ";
 import type { Stotra, Deity, FAQItem } from "@/types";
-
-const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
+import { APP_URL, siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
 
 function generateStotraFAQs(stotra: Stotra, deity: Deity | undefined): FAQItem[] {
   const faqs: FAQItem[] = [];
@@ -103,9 +102,20 @@ export async function generateMetadata({
   // Title: trim subtitle after " - " or " — " for compact title tag
   const titleName = stotra.titleEn.split(/\s[-—]\s/)[0];
   // Title template per 06 §P4.4: {Name} — {Devanagari} | Sanskrit, Hindi, PDF | Stotra by VastuCart
+  // Cascading fallback to keep title within Google's ~70-char display window:
+  //   full   : Name — Devanagari | Sanskrit, Hindi, PDF | Stotra by VastuCart
+  //   short  : Name — Devanagari | Sanskrit, Hindi, PDF
+  //   medium : Name | Sanskrit, Hindi, PDF | Stotra
+  //   minimal: Name | Stotra by VastuCart
   const titleFull = `${titleName} — ${stotra.title} | Sanskrit, Hindi, PDF | Stotra by VastuCart`;
   const titleShort = `${titleName} — ${stotra.title} | Sanskrit, Hindi, PDF`;
-  const title = titleFull.length <= 85 ? titleFull : titleShort;
+  const titleMedium = `${titleName} | Sanskrit, Hindi, PDF | Stotra`;
+  const titleMinimal = `${titleName} | Stotra by VastuCart`;
+  const title =
+    titleFull.length <= 70 ? titleFull
+    : titleShort.length <= 70 ? titleShort
+    : titleMedium.length <= 70 ? titleMedium
+    : titleMinimal;
 
   // Description: capitalize first benefit
   const firstBenefit = stotra.benefits[0]
@@ -119,28 +129,18 @@ export async function generateMetadata({
     alternates: {
       canonical: `/stotra/${stotra.slug}`,
     },
-    openGraph: {
+    openGraph: siteOpenGraph({
+      path: `/stotra/${stotra.slug}`,
       title,
       description: metaDescription,
-      url: `${APP_URL}/stotra/${stotra.slug}`,
       type: "article",
-      siteName: "Stotra by VastuCart",
-      images: [
-        {
-          url: `${APP_URL}/og-default.jpg`,
-          width: 1200,
-          height: 630,
-          alt: `${stotra.titleEn} - Stotra by VastuCart`,
-        },
-      ],
-    },
-    twitter: {
-      card: "summary_large_image",
-      site: "@vastucart",
+      imageAlt: `${stotra.titleEn} - Stotra by VastuCart`,
+    }),
+    twitter: siteTwitter({
+      path: `/stotra/${stotra.slug}`,
       title,
       description: metaDescription,
-      images: [`${APP_URL}/og-default.jpg`],
-    },
+    }),
     keywords: [
       stotra.titleEn.toLowerCase(),
       stotra.title,

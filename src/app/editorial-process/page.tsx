@@ -1,23 +1,28 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { buildStaticArticleGraph } from "@/lib/schema";
+import { siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
 
-const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
+const PAGE_TITLE = "Editorial Process — How We Prepare Stotra Translations | Stotra by VastuCart";
+const PAGE_DESC =
+  "How VastuCart Editorial prepares the Sanskrit, transliteration, and Hindi meaning for every stotra on this site.";
 
 export const metadata: Metadata = {
-  title: { absolute: "Editorial Process — How We Prepare Stotra Translations | Stotra by VastuCart" },
+  title: { absolute: "Editorial Process — Stotra Translations | VastuCart" },
   description:
     "How VastuCart Editorial prepares the Sanskrit, transliteration, and Hindi meaning for every stotra on this site — our sources, our translation approach, and how you can report corrections.",
-  alternates: {
-    canonical: "/editorial-process",
-  },
-  openGraph: {
-    title: "Editorial Process — How We Prepare Stotra Translations | Stotra by VastuCart",
-    description:
-      "How VastuCart Editorial prepares the Sanskrit, transliteration, and Hindi meaning for every stotra on this site.",
-    url: `${APP_URL}/editorial-process`,
+  alternates: { canonical: "/editorial-process" },
+  openGraph: siteOpenGraph({
+    path: "/editorial-process",
+    title: PAGE_TITLE,
+    description: PAGE_DESC,
     type: "website",
-  },
+  }),
+  twitter: siteTwitter({
+    path: "/editorial-process",
+    title: PAGE_TITLE,
+    description: PAGE_DESC,
+  }),
 };
 
 export default function EditorialProcessPage() {

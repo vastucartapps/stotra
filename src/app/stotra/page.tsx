@@ -2,35 +2,28 @@ import type { Metadata } from "next";
 import { getAllStotras } from "@/lib/stotras";
 import { StotraCard } from "@/components/stotra/StotraCard";
 import { buildHubPageGraph, STOTRA_BASE } from "@/lib/schema";
+import { siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
 
-const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
+const PAGE_TITLE = "All Stotras — Complete Collection | Stotra by VastuCart";
+const PAGE_DESC =
+  "Browse our complete collection of Hindu stotras, chalisa, and sacred hymns in Sanskrit and Hindi with transliteration and meaning.";
 
 export const metadata: Metadata = {
   title: "All Stotras - Complete Collection",
-  description: "Browse our complete collection of Hindu stotras, chalisa, and sacred hymns in Sanskrit and Hindi with transliteration and meaning.",
-  alternates: {
-    canonical: "/stotra",
-  },
-  openGraph: {
-    title: "All Stotras - Complete Collection | Stotra by VastuCart",
-    description: "Browse our complete collection of Hindu stotras, chalisa, and sacred hymns in Sanskrit and Hindi with transliteration and meaning.",
-    url: `${APP_URL}/stotra`,
+  description: PAGE_DESC,
+  alternates: { canonical: "/stotra" },
+  openGraph: siteOpenGraph({
+    path: "/stotra",
+    title: PAGE_TITLE,
+    description: PAGE_DESC,
     type: "website",
-    images: [
-      {
-        url: `${APP_URL}/og-default.jpg`,
-        width: 1200,
-        height: 630,
-        alt: "All Stotras - Stotra by VastuCart",
-      },
-    ],
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "All Stotras - Complete Collection | Stotra by VastuCart",
-    description: "Browse our complete collection of Hindu stotras, chalisa, and sacred hymns in Sanskrit and Hindi with transliteration and meaning.",
-    images: [`${APP_URL}/og-default.jpg`],
-  },
+    imageAlt: "All Stotras - Stotra by VastuCart",
+  }),
+  twitter: siteTwitter({
+    path: "/stotra",
+    title: PAGE_TITLE,
+    description: PAGE_DESC,
+  }),
 };
 
 export default function AllStotraPage() {

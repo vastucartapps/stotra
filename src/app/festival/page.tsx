@@ -5,38 +5,28 @@ import { FESTIVALS } from "@/data/festivals";
 import { getDeityById } from "@/data/deities";
 import { getStotrasByFestival } from "@/lib/stotras";
 import { buildHubPageGraph, STOTRA_BASE } from "@/lib/schema";
+import { siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
 
-const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
+const PAGE_TITLE = "Stotras by Festival | Stotra by VastuCart";
+const PAGE_DESC =
+  "Find the right stotras for Hindu festivals - Navratri, Diwali, Maha Shivaratri, Ganesh Chaturthi, Janmashtami, and more.";
 
 export const metadata: Metadata = {
   title: "Stotras by Festival",
-  description:
-    "Find the right stotras for Hindu festivals - Navratri, Diwali, Maha Shivaratri, Ganesh Chaturthi, Janmashtami, and more.",
-  alternates: {
-    canonical: "/festival",
-  },
-  openGraph: {
-    title: "Stotras by Festival | Stotra by VastuCart",
-    description:
-      "Find the right stotras for Hindu festivals - Navratri, Diwali, Maha Shivaratri, Ganesh Chaturthi, Janmashtami, and more.",
-    url: `${APP_URL}/festival`,
+  description: PAGE_DESC,
+  alternates: { canonical: "/festival" },
+  openGraph: siteOpenGraph({
+    path: "/festival",
+    title: PAGE_TITLE,
+    description: PAGE_DESC,
     type: "website",
-    images: [
-      {
-        url: `${APP_URL}/og-default.jpg`,
-        width: 1200,
-        height: 630,
-        alt: "Stotras by Festival - Stotra by VastuCart",
-      },
-    ],
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "Stotras by Festival | Stotra by VastuCart",
-    description:
-      "Find the right stotras for Hindu festivals - Navratri, Diwali, Maha Shivaratri, Ganesh Chaturthi, Janmashtami, and more.",
-    images: [`${APP_URL}/og-default.jpg`],
-  },
+    imageAlt: "Stotras by Festival - Stotra by VastuCart",
+  }),
+  twitter: siteTwitter({
+    path: "/festival",
+    title: PAGE_TITLE,
+    description: PAGE_DESC,
+  }),
 };
 
 export default function FestivalListPage() {
