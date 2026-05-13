@@ -10,7 +10,7 @@ const PAGE_DESC =
   "Complete Hindu Vrat Katha collection organized by month — Satyanarayan, Karwa Chauth, Ekadashi, Navratri, Diwali, and more in Hindi.";
 
 export const metadata: Metadata = {
-  title: "Vrat Katha - 12 Month Hindu Fasting Stories in Hindi",
+  title: { absolute: PAGE_TITLE },
   description:
     "Read all Hindu Vrat Kathas organized by 12 months (Vikram Samvat) — Satyanarayan Katha, Karwa Chauth, Ekadashi, Somvar Vrat, and more. Complete collection in Hindi with transliteration and free PDF download.",
   alternates: { canonical: "/vrat-katha" },

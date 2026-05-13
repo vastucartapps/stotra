@@ -99,8 +99,11 @@ export async function generateMetadata({
 
   const deity = getDeityById(stotra.deity);
 
-  // Title: trim subtitle after " - " or " — " for compact title tag
-  const titleName = stotra.titleEn.split(/\s[-—]\s/)[0];
+  // Title: trim subtitle after " - ", " — ", or parenthetical suffix
+  const titleName = stotra.titleEn
+    .split(/\s[-—]\s/)[0]
+    .replace(/\s*\([^)]*\)\s*$/, "")
+    .trim();
   // Title template per 06 §P4.4: {Name} — {Devanagari} | Sanskrit, Hindi, PDF | Stotra by VastuCart
   // Cascading fallback to keep title within Google's ~70-char display window:
   //   full   : Name — Devanagari | Sanskrit, Hindi, PDF | Stotra by VastuCart
