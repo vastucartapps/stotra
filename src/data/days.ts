@@ -60,19 +60,19 @@ export function getDayBySlug(slug: string): Day | undefined {
   return DAYS.find((d) => d.slug === slug);
 }
 
+// Resolves the current day of week in Asia/Kolkata (IST, GMT+5:30) regardless
+// of the server's timezone. Uses Intl so it cannot drift on non-UTC hosts.
+// WARNING: On SSG/prerendered pages this freezes to the build-time day —
+// consumer UI must call this from a client component (`use client`) so the
+// browser resolves it at view time, not at build time.
+export function getTodayDayId(): Day["id"] {
+  const dayId = new Intl.DateTimeFormat("en-US", {
+    timeZone: "Asia/Kolkata",
+    weekday: "long",
+  }).format(new Date()).toLowerCase() as Day["id"];
+  return dayId;
+}
+
 export function getTodayDay(): Day {
-  const dayNames = [
-    "sunday",
-    "monday",
-    "tuesday",
-    "wednesday",
-    "thursday",
-    "friday",
-    "saturday",
-  ];
-  const now = new Date();
-  const istOffset = 5.5 * 60 * 60 * 1000;
-  const ist = new Date(now.getTime() + istOffset + now.getTimezoneOffset() * 60 * 1000);
-  const dayId = dayNames[ist.getDay()];
-  return DAYS.find((d) => d.id === dayId)!;
+  return DAYS.find((d) => d.id === getTodayDayId())!;
 }

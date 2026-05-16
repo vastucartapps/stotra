@@ -1,11 +1,12 @@
 import Link from "next/link";
 import { DEITIES } from "@/data/deities";
-import { getTodayDay } from "@/data/days";
-import { getTodaysStotras, getAllStotras } from "@/lib/stotras";
+import { getAllStotras } from "@/lib/stotras";
+import { getStotrasByDayMap } from "@/lib/today-data";
+import { TodayDayBadge } from "@/components/today/TodayDayBadge";
+import { TodaysStotrasGrid } from "@/components/today/TodaysStotrasGrid";
 
 export function LeftSidebar() {
-  const todayDay = getTodayDay();
-  const todaysStotras = getTodaysStotras();
+  const byDay = getStotrasByDayMap();
   const allStotras = getAllStotras();
   const recentStotras = [...allStotras]
     .sort((a, b) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime())
@@ -13,32 +14,16 @@ export function LeftSidebar() {
 
   return (
     <aside className="space-y-6">
-      {/* Today's Stotras */}
-      {todaysStotras.length > 0 && (
-        <div className="bg-white rounded-xl border border-border-light p-5">
-          <div className="flex items-center gap-2 mb-4">
-            <span className="w-2 h-2 rounded-full bg-saffron" />
-            <h3 className="font-serif text-sm font-semibold text-brand uppercase tracking-wider">
-              {todayDay.name}&apos;s Stotras
-            </h3>
-          </div>
-          <ul className="space-y-2">
-            {todaysStotras.slice(0, 5).map((stotra) => (
-              <li key={stotra.slug}>
-                <Link
-                  href={`/stotra/${stotra.slug}`}
-                  className="block px-3 py-2 rounded-lg text-sm text-text hover:bg-cream-mid hover:text-brand transition-colors duration-150"
-                >
-                  <span className="devanagari-heading text-xs block leading-snug">
-                    {stotra.title}
-                  </span>
-                  <span className="text-xs text-text-muted">{stotra.titleEn}</span>
-                </Link>
-              </li>
-            ))}
-          </ul>
+      {/* Today's Stotras — client-resolved IST day (avoids SSG freeze) */}
+      <div className="bg-white rounded-xl border border-border-light p-5">
+        <div className="flex items-center gap-2 mb-4">
+          <span className="w-2 h-2 rounded-full bg-saffron" />
+          <h3 className="font-serif text-sm font-semibold text-brand uppercase tracking-wider">
+            <TodayDayBadge days={byDay.days} variant="name-possessive" /> Stotras
+          </h3>
         </div>
-      )}
+        <TodaysStotrasGrid byDay={byDay} variant="sidebar-list" limit={5} />
+      </div>
 
       {/* By Deity */}
       <div className="bg-white rounded-xl border border-border-light p-5">

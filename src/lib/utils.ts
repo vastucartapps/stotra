@@ -15,23 +15,37 @@ export function slugify(text: string): string {
     .replace(/^-+|-+$/g, "");
 }
 
+// Returns Y/M/D + weekday in Asia/Kolkata (IST, GMT+5:30) regardless of the
+// server timezone. The previous implementation manually added 5.5h with a
+// getTimezoneOffset() correction — that only zeroed out on UTC servers and
+// silently drifted on any other host (WSL, dev machine in IST, etc.).
+export function istParts(d?: Date): { y: number; m: number; d: number; weekday: string } {
+  const date = d || new Date();
+  const parts = new Intl.DateTimeFormat("en-US", {
+    timeZone: "Asia/Kolkata",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+    weekday: "long",
+  }).formatToParts(date);
+  const get = (k: string) => parts.find((p) => p.type === k)?.value ?? "";
+  return {
+    y: Number(get("year")),
+    m: Number(get("month")),
+    d: Number(get("day")),
+    weekday: get("weekday").toLowerCase(),
+  };
+}
+
+// IMPORTANT: on SSG/prerendered pages this freezes to BUILD TIME. For
+// per-visit accuracy, call from a client component (`use client`).
 export function todayIST(): Date {
-  const now = new Date();
-  const istOffset = 5.5 * 60 * 60 * 1000;
-  return new Date(now.getTime() + istOffset + now.getTimezoneOffset() * 60 * 1000);
+  const p = istParts();
+  return new Date(Date.UTC(p.y, p.m - 1, p.d));
 }
 
 export function getTodayDayName(): string {
-  const days = [
-    "sunday",
-    "monday",
-    "tuesday",
-    "wednesday",
-    "thursday",
-    "friday",
-    "saturday",
-  ] as const;
-  return days[todayIST().getDay()];
+  return istParts().weekday;
 }
 
 export function formatDate(date: Date, locale = "en-IN"): string {
@@ -52,8 +66,8 @@ export function seededRandom(seed: number): number {
 }
 
 export function dailySeed(date?: Date): number {
-  const d = date || todayIST();
-  return d.getFullYear() * 10000 + (d.getMonth() + 1) * 100 + d.getDate();
+  const p = istParts(date);
+  return p.y * 10000 + p.m * 100 + p.d;
 }
 
 export function estimateReadingTime(text: string): number {

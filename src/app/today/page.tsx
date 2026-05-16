@@ -1,8 +1,9 @@
 import type { Metadata } from "next";
-import { getTodayDay } from "@/data/days";
-import { getDeityById } from "@/data/deities";
-import { getTodaysStotras } from "@/lib/stotras";
-import { StotraCard } from "@/components/stotra/StotraCard";
+import { DAYS } from "@/data/days";
+import { getStotrasByDayMap } from "@/lib/today-data";
+import { TodayDayBadge } from "@/components/today/TodayDayBadge";
+import { TodaysStotrasGrid } from "@/components/today/TodaysStotrasGrid";
+import { TodayDeitiesBadges } from "@/components/today/TodayDeitiesBadges";
 import { buildHubPageGraph, STOTRA_BASE } from "@/lib/schema";
 import { siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
 
@@ -28,22 +29,20 @@ export const metadata: Metadata = {
   }),
 };
 
-export const revalidate = 3600;
-
 export default function TodayPage() {
-  const day = getTodayDay();
-  const stotras = getTodaysStotras();
-  const deities = day.deities.map((id) => getDeityById(id)).filter(Boolean);
-
+  const byDay = getStotrasByDayMap();
+  // Union of all stotras across the week, used to populate the listing schema
+  // since per-day selection is now client-side.
+  const allItems = DAYS.flatMap((d) => byDay.stotras[d.id]).map((s) => ({
+    name: s.titleEn,
+    url: `${STOTRA_BASE}/stotra/${s.slug}`,
+  }));
   const graph = buildHubPageGraph({
     path: "/today",
-    name: `Today's Stotras — ${day.name}`,
-    description: `Stotras recommended for today (${day.name} / ${day.nameHi}).`,
+    name: "Today's Stotras",
+    description: "Stotras recommended for each day of the week (auto-selected for today in IST).",
     breadcrumbName: "Today's Stotras",
-    items: stotras.map((s) => ({
-      name: s.titleEn,
-      url: `${STOTRA_BASE}/stotra/${s.slug}`,
-    })),
+    items: allItems,
   });
 
   return (
@@ -54,31 +53,18 @@ export default function TodayPage() {
       />
 
       <div className="text-center mb-12">
-        <p className="text-saffron text-sm font-semibold uppercase tracking-[0.15em] mb-3">
-          {day.nameHi} &middot; {day.name}
-        </p>
+        <TodayDayBadge
+          days={byDay.days}
+          className="text-saffron text-sm font-semibold uppercase tracking-[0.15em] mb-3 block"
+        />
         <h1 className="font-serif text-4xl font-bold text-brand mb-3">Today&apos;s Stotras</h1>
         <p className="text-text-light max-w-lg mx-auto mb-4">
-          Recommended stotras for {day.name} ({day.nameHi})
+          Recommended stotras for today, selected from the day-of-the-week recitation tradition.
         </p>
-        <div className="flex justify-center flex-wrap gap-2">
-          {deities.map((deity) => deity && (
-            <span key={deity.id} className="text-xs font-medium px-3 py-1 rounded-full text-white" style={{ backgroundColor: deity.color }}>
-              {deity.name} ({deity.nameHi})
-            </span>
-          ))}
-        </div>
+        <TodayDeitiesBadges />
       </div>
 
-      {stotras.length > 0 ? (
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
-          {stotras.map((s) => <StotraCard key={s.slug} stotra={s} />)}
-        </div>
-      ) : (
-        <div className="text-center py-16 bg-white rounded-xl border border-border-light">
-          <p className="text-text-muted">No stotras available for today yet. Check back soon!</p>
-        </div>
-      )}
+      <TodaysStotrasGrid byDay={byDay} variant="grid" />
     </div>
   );
 }

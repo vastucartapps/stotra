@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
-import Link from "next/link";
 import { CategoryIcon } from "@/components/ui/CategoryIcon";
-import { DAYS, getTodayDay } from "@/data/days";
+import { DAYS } from "@/data/days";
 import { getDeityById } from "@/data/deities";
 import { getStotrasByDay } from "@/lib/stotras";
+import { DayCardLink } from "@/components/today/DayCardLink";
 import { buildHubPageGraph, STOTRA_BASE } from "@/lib/schema";
 import { siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
 
@@ -30,8 +30,6 @@ export const metadata: Metadata = {
 };
 
 export default function DayListPage() {
-  const todayDay = getTodayDay();
-
   const graph = buildHubPageGraph({
     path: "/day",
     name: "Stotras by Day of the Week",
@@ -62,32 +60,16 @@ export default function DayListPage() {
       </div>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
         {DAYS.map((day) => {
-          const isToday = day.id === todayDay.id;
           const stotras = getStotrasByDay(day.id);
           return (
-            <Link
-              key={day.id}
-              href={`/day/${day.slug}`}
-              className={`group bg-white rounded-xl p-5 border transition-all duration-300 ${
-                isToday
-                  ? "border-gold/50 shadow-glow-gold ring-1 ring-gold/20"
-                  : "border-border-light hover:border-gold/30 hover:shadow-card-hover"
-              }`}
-            >
-              {isToday && (
-                <span className="text-xs font-semibold text-gold uppercase tracking-wider mb-2 block">
-                  &#9733; Today
-                </span>
-              )}
+            <DayCardLink key={day.id} dayId={day.id} href={`/day/${day.slug}`}>
               <div className="flex items-center gap-3 mb-2">
                 <CategoryIcon type="day" id={day.id} size="lg" className="rounded-xl bg-brand/10" />
                 <div>
                   <h2 className="font-serif text-xl font-semibold text-brand group-hover:text-brand-light transition-colors">
                     {day.name}
                   </h2>
-                  <p className="devanagari-heading text-sm text-text-muted">
-                    {day.nameHi}
-                  </p>
+                  <p className="devanagari-heading text-sm text-text-muted">{day.nameHi}</p>
                 </div>
               </div>
               <div className="flex flex-wrap gap-1.5 mb-3">
@@ -104,10 +86,8 @@ export default function DayListPage() {
                   ) : null;
                 })}
               </div>
-              <p className="text-xs text-text-muted">
-                {stotras.length} stotras
-              </p>
-            </Link>
+              <p className="text-xs text-text-muted">{stotras.length} stotras</p>
+            </DayCardLink>
           );
         })}
       </div>

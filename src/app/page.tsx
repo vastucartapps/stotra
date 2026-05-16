@@ -1,14 +1,17 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { DEITIES, getDeityById } from "@/data/deities";
-import { getTodayDay } from "@/data/days";
+import { DEITIES } from "@/data/deities";
 import { PURPOSES } from "@/data/purposes";
 import { ECOSYSTEM_SITES } from "@/data/ecosystem";
-import { getAllStotras, getTodaysStotras, getStotraOfTheDay, getStotraCountByDeity } from "@/lib/stotras";
+import { getAllStotras, getStotraCountByDeity } from "@/lib/stotras";
+import { getStotrasByDayMap, getStotraOfTheDayCandidates } from "@/lib/today-data";
 import { FAQSection } from "@/components/pages/HomePage";
 import { GitaShlokaCard } from "@/components/pages/GitaShlokaCard";
 import { getGitaVerseOfTheDay } from "@/lib/gita";
 import { CategoryIcon } from "@/components/ui/CategoryIcon";
+import { TodayDayBadge } from "@/components/today/TodayDayBadge";
+import { TodaysStotrasGrid } from "@/components/today/TodaysStotrasGrid";
+import { StotraOfTheDay } from "@/components/today/StotraOfTheDay";
 import { buildStotraWebsiteSchema } from "@/lib/schema";
 import { APP_URL, siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
 
@@ -36,10 +39,9 @@ export function generateMetadata(): Metadata {
 }
 
 export default function Home() {
-  const todayDay = getTodayDay();
-  const todaysStotras = getTodaysStotras();
-  const stotraOfTheDay = getStotraOfTheDay();
   const allStotras = getAllStotras();
+  const byDay = getStotrasByDayMap();
+  const sotdCandidates = getStotraOfTheDayCandidates();
 
   const websiteSchema = buildStotraWebsiteSchema(allStotras.length);
   const deityItemListSchema = {
@@ -81,9 +83,10 @@ export default function Home() {
         </div>
         <div className="relative mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8 py-20 md:py-28">
           <div className="text-center max-w-3xl mx-auto">
-            <p className="text-saffron text-sm font-semibold uppercase tracking-[0.2em] mb-4">
-              {todayDay.nameHi} &middot; {todayDay.name}
-            </p>
+            <TodayDayBadge
+              days={byDay.days}
+              className="text-saffron text-sm font-semibold uppercase tracking-[0.2em] mb-4 block"
+            />
             <h1 className="font-serif text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight mb-6">
               Sacred Hindu Prayers
               <span className="block mt-2 gradient-text-gold" style={{ WebkitTextFillColor: "transparent", backgroundImage: "linear-gradient(135deg, #DAA520, #FF9933)", WebkitBackgroundClip: "text" }}>
@@ -101,9 +104,6 @@ export default function Home() {
                 className="inline-flex items-center gap-2 bg-gradient-to-r from-gold to-saffron text-brand-dark font-semibold px-7 py-3.5 rounded-xl hover:shadow-glow-gold transition-all duration-300 text-sm"
               >
                 Today&apos;s Stotras
-                <span className="text-xs bg-brand-dark/20 px-2 py-0.5 rounded-full">
-                  {todaysStotras.length}
-                </span>
               </Link>
               <Link
                 href="/deity"
@@ -457,194 +457,32 @@ export default function Home() {
         </div>
       </section>
 
-      {/* -- Today's Stotras -- */}
-      {todaysStotras.length > 0 && (
-        <section className="py-16 bg-cream-mid/50">
-          <div className="mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8">
-            <div className="text-center mb-10">
-              <p className="text-saffron text-sm font-semibold uppercase tracking-wider mb-2">
-                {todayDay.nameHi} &middot; {todayDay.name}
-              </p>
-              <h2 className="font-serif text-3xl font-bold text-brand">
-                Today&apos;s Recommended Stotras
-              </h2>
-            </div>
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
-              {todaysStotras.slice(0, 6).map((stotra) => (
-                <Link
-                  key={stotra.slug}
-                  href={`/stotra/${stotra.slug}`}
-                  className="group block bg-white rounded-xl p-6 border border-border-light hover:border-gold/30 hover:shadow-card-hover transition-all duration-300 cursor-pointer"
-                >
-                  <div className="flex items-start justify-between mb-3">
-                    <div>
-                      <h3 className="devanagari-heading text-lg text-brand group-hover:text-brand-light transition-colors">
-                        {stotra.title}
-                      </h3>
-                      <p className="text-sm text-text-light mt-0.5">
-                        {stotra.titleEn}
-                      </p>
-                    </div>
-                    <span className="text-xs bg-cream-mid text-text-muted px-2 py-1 rounded-full whitespace-nowrap">
-                      {stotra.readingTimeMinutes} min
-                    </span>
-                  </div>
-                  <p className="text-sm text-text-muted line-clamp-2">
-                    {stotra.seoDescription}
-                  </p>
-                  <div className="mt-4 flex items-center justify-between">
-                    <div className="flex items-center gap-2 flex-wrap">
-                      <span className="text-xs bg-brand/10 text-brand px-2 py-0.5 rounded-full capitalize">
-                        {stotra.deity}
-                      </span>
-                      <span className="text-xs text-text-muted">
-                        {stotra.verseCount} verses
-                      </span>
-                    </div>
-                    <span className="text-xs font-medium text-saffron group-hover:text-orange transition-colors">
-                      Read &rarr;
-                    </span>
-                  </div>
-                </Link>
-              ))}
-            </div>
-            {todaysStotras.length > 6 && (
-              <div className="text-center mt-8">
-                <Link
-                  href="/today"
-                  className="text-sm font-medium text-brand hover:text-brand-light transition-colors"
-                >
-                  View all {todaysStotras.length} stotras for today &rarr;
-                </Link>
-              </div>
-            )}
+      {/* -- Today's Stotras (client-resolved IST day to avoid SSG freeze) -- */}
+      <section className="py-16 bg-cream-mid/50">
+        <div className="mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-10">
+            <TodayDayBadge
+              days={byDay.days}
+              className="text-saffron text-sm font-semibold uppercase tracking-wider mb-2 block"
+            />
+            <h2 className="font-serif text-3xl font-bold text-brand">
+              Today&apos;s Recommended Stotras
+            </h2>
           </div>
-        </section>
-      )}
+          <TodaysStotrasGrid byDay={byDay} variant="homepage-card" limit={6} />
+          <div className="text-center mt-8">
+            <Link
+              href="/today"
+              className="text-sm font-medium text-brand hover:text-brand-light transition-colors"
+            >
+              View all stotras for today &rarr;
+            </Link>
+          </div>
+        </div>
+      </section>
 
-      {/* -- Stotra of the Day -- */}
-      {stotraOfTheDay && (() => {
-        const sotdDeity = getDeityById(stotraOfTheDay.deity);
-        const firstVerses = stotraOfTheDay.devanagariText
-          .split("\n")
-          .filter((l: string) => l.trim().length > 0)
-          .slice(0, 3)
-          .join("\n");
-        return (
-          <section className="relative overflow-hidden bg-brand">
-            {/* Diamond pattern background — same as store.vastucart.in consultation */}
-            <div className="absolute inset-0 opacity-[0.08]">
-              <div
-                className="absolute inset-0"
-                style={{
-                  backgroundImage: `url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M30 0L60 30L30 60L0 30Z' fill='none' stroke='%23DAA520' stroke-width='0.5'/%3E%3C/svg%3E")`,
-                  backgroundSize: "60px 60px",
-                }}
-              />
-            </div>
-
-            {/* Content */}
-            <div className="relative mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8 py-16 md:py-20 lg:py-24">
-              <div className="grid grid-cols-1 lg:grid-cols-[1fr_380px] gap-10 lg:gap-16 items-start">
-
-                {/* Left Column — Content */}
-                <div>
-                  {/* Label with accent line */}
-                  <div className="flex items-center gap-3 mb-8">
-                    <div className="w-8 h-[2px] bg-saffron" />
-                    <span className="text-saffron text-xs font-bold uppercase tracking-[0.2em]">
-                      Stotra of the Day
-                    </span>
-                  </div>
-
-                  {/* Main heading */}
-                  <h3 className="font-serif text-4xl md:text-5xl lg:text-[3.5rem] font-bold text-white leading-[1.15] mb-2">
-                    {stotraOfTheDay.titleEn}
-                  </h3>
-                  <p className="devanagari-heading text-2xl md:text-3xl mb-8" style={{ color: '#FF9933' }}>
-                    {stotraOfTheDay.title}
-                  </p>
-
-                  {/* Description */}
-                  <p className="text-white/70 text-base md:text-lg leading-relaxed mb-8 max-w-xl">
-                    {stotraOfTheDay.seoDescription}
-                  </p>
-
-                  {/* Bullet points — key benefits */}
-                  {stotraOfTheDay.benefits.length > 0 && (
-                    <ul className="space-y-3 mb-10">
-                      {stotraOfTheDay.benefits.slice(0, 3).map((benefit, i) => (
-                        <li key={i} className="flex items-start gap-3">
-                          <span className="mt-1.5 w-2 h-2 rounded-full bg-saffron flex-shrink-0" />
-                          <span className="text-white/80 text-sm md:text-[15px]">{benefit}</span>
-                        </li>
-                      ))}
-                    </ul>
-                  )}
-
-                  {/* CTAs */}
-                  <div className="flex flex-col sm:flex-row items-start gap-3">
-                    <Link
-                      href={`/stotra/${stotraOfTheDay.slug}`}
-                      className="group inline-flex items-center gap-2 bg-gradient-to-r from-saffron to-orange text-white font-semibold px-7 py-3.5 rounded-xl hover:shadow-glow-gold transition-all duration-300 text-sm"
-                    >
-                      Read Full Stotra
-                      <span className="group-hover:translate-x-1 transition-transform duration-200">&rarr;</span>
-                    </Link>
-                    <Link
-                      href={`/deity/${sotdDeity?.slug || stotraOfTheDay.deity}`}
-                      className="inline-flex items-center gap-2 bg-transparent border border-white/25 text-white/80 hover:text-white hover:border-white/50 font-medium px-7 py-3.5 rounded-xl transition-all duration-200 text-sm"
-                    >
-                      More {sotdDeity?.name} Stotras
-                    </Link>
-                  </div>
-                </div>
-
-                {/* Right Column — Stats Cards + Verse */}
-                <div className="space-y-4">
-                  {/* Top stat card — deity with icon */}
-                  <div className="bg-white/[0.07] backdrop-blur-sm rounded-2xl border border-white/[0.1] p-6">
-                    <div className="flex items-center gap-4 mb-4">
-                      {sotdDeity && (
-                        <CategoryIcon type="deity" id={sotdDeity.id} color="transparent" size="lg" className="!rounded-xl bg-white/10" />
-                      )}
-                      <div>
-                        <p className="text-white font-serif text-2xl font-bold">{sotdDeity?.name}</p>
-                        <p className="text-white/50 text-sm">{sotdDeity?.nameHi}</p>
-                      </div>
-                    </div>
-                    <p className="text-white/60 text-sm leading-relaxed line-clamp-2">
-                      {sotdDeity?.description}
-                    </p>
-                  </div>
-
-                  {/* Two small stat cards side by side */}
-                  <div className="grid grid-cols-2 gap-4">
-                    <div className="bg-saffron/20 backdrop-blur-sm rounded-2xl border border-saffron/20 p-5">
-                      <p className="text-saffron text-3xl font-bold font-serif">{stotraOfTheDay.verseCount}</p>
-                      <p className="text-white/60 text-xs mt-1">Sacred verses</p>
-                    </div>
-                    <div className="bg-white/[0.07] backdrop-blur-sm rounded-2xl border border-white/[0.1] p-5">
-                      <p className="text-white text-3xl font-bold font-serif">{stotraOfTheDay.readingTimeMinutes}<span className="text-lg">m</span></p>
-                      <p className="text-white/60 text-xs mt-1">Reading time</p>
-                    </div>
-                  </div>
-
-                  {/* Verse preview card with testimonial-style layout */}
-                  <div className="bg-white/[0.05] backdrop-blur-sm rounded-2xl border border-white/[0.08] p-6">
-                    <p className="devanagari text-saffron/80 text-base leading-[2] italic line-clamp-4">
-                      &ldquo;{firstVerses}&rdquo;
-                    </p>
-                    <p className="text-saffron text-xs font-medium mt-3">
-                      &mdash; {stotraOfTheDay.source}
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </section>
-        );
-      })()}
+      {/* -- Stotra of the Day (client-resolved IST date to avoid SSG freeze) -- */}
+      <StotraOfTheDay stotras={sotdCandidates} />
 
       {/* -- Browse by Purpose -- */}
       <section className="py-16 bg-cream-mid/50">
