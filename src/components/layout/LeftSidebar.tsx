@@ -1,16 +1,18 @@
 import Link from "next/link";
 import { DEITIES } from "@/data/deities";
-import { getAllStotras } from "@/lib/stotras";
-import { getStotrasByDayMap } from "@/lib/today-data";
+import { getAllStotras, toStotraCard } from "@/lib/stotras";
+import { getSidebarStotrasByDayMap } from "@/lib/today-data";
 import { TodayDayBadge } from "@/components/today/TodayDayBadge";
 import { TodaysStotrasGrid } from "@/components/today/TodaysStotrasGrid";
 
 export function LeftSidebar() {
-  const byDay = getStotrasByDayMap();
-  const allStotras = getAllStotras();
-  const recentStotras = [...allStotras]
+  // Trimmed map (5 cards/day × 7 = 35) — the full map (~1,300 cards) would
+  // serialize into the RSC stream on EVERY page that mounts this sidebar.
+  const byDay = getSidebarStotrasByDayMap(5);
+  const recentStotras = [...getAllStotras()]
     .sort((a, b) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime())
-    .slice(0, 5);
+    .slice(0, 5)
+    .map(toStotraCard);
 
   return (
     <aside className="space-y-6">

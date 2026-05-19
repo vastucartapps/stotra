@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { DAYS } from "@/data/days";
-import { getStotrasByDayMap } from "@/lib/today-data";
+import { getStotrasByDay } from "@/lib/stotras";
+import { getSidebarStotrasByDayMap } from "@/lib/today-data";
 import { TodayDayBadge } from "@/components/today/TodayDayBadge";
 import { TodaysStotrasGrid } from "@/components/today/TodaysStotrasGrid";
 import { TodayDeitiesBadges } from "@/components/today/TodayDeitiesBadges";
@@ -30,13 +31,20 @@ export const metadata: Metadata = {
 };
 
 export default function TodayPage() {
-  const byDay = getStotrasByDayMap();
-  // Union of all stotras across the week, used to populate the listing schema
-  // since per-day selection is now client-side.
-  const allItems = DAYS.flatMap((d) => byDay.stotras[d.id]).map((s) => ({
-    name: s.titleEn,
-    url: `${STOTRA_BASE}/stotra/${s.slug}`,
-  }));
+  // Page-grid cap: 60 cards/day × 7 = 420 cards in RSC stream instead of
+  // ~1,300 (the full map carries duplicates across days for stotras
+  // recited on multiple weekdays). Cap covers what a visitor scrolls past
+  // in one session; the full union still seeds the ItemList schema below.
+  const byDay = getSidebarStotrasByDayMap(60);
+
+  // Full per-day union (no cap) — server-rendered into JSON-LD only.
+  // Goes into the prerendered HTML once, not the client component prop tree.
+  const allItems = DAYS.flatMap((d) =>
+    getStotrasByDay(d.id).map((s) => ({
+      name: s.titleEn,
+      url: `${STOTRA_BASE}/stotra/${s.slug}`,
+    }))
+  );
   const graph = buildHubPageGraph({
     path: "/today",
     name: "Today's Stotras",

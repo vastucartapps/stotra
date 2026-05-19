@@ -2,43 +2,41 @@
 
 import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
-import type { Stotra } from "@/types";
+import type { StotraOfTheDayCard } from "@/types";
+import type { SOTDCalendar } from "@/lib/today-data";
 import { DEITIES } from "@/data/deities";
 import { CategoryIcon } from "@/components/ui/CategoryIcon";
-import { currentISTDailySeed, seededRandom } from "@/lib/today-client";
+import { currentISTDailySeed } from "@/lib/today-client";
 
 interface Props {
-  stotras: Stotra[];
+  calendar: SOTDCalendar;
 }
 
 /**
  * Picks the daily rotating "Stotra of the Day" at runtime in the browser so
  * SSG cannot freeze the selection to the build day. Uses the same
- * `seed = YYYYMMDD-in-IST` algorithm as the server `dailySeed()` so the choice
- * is stable for everyone within the same IST day.
+ * `seed = YYYYMMDD-in-IST` algorithm as the server `dailySeed()`.
+ *
+ * Receives a pre-computed calendar (90 days of seed → card) instead of all
+ * 930 candidates. See getSOTDCalendar() in lib/today-data.ts.
  */
-export function StotraOfTheDay({ stotras }: Props) {
+export function StotraOfTheDay({ calendar }: Props) {
   const [seed, setSeed] = useState<number | null>(null);
   useEffect(() => {
     setSeed(currentISTDailySeed());
   }, []);
 
-  const sotd = useMemo<Stotra | null>(() => {
-    if (seed == null || stotras.length === 0) return null;
-    const idx = Math.floor(seededRandom(seed) * stotras.length);
-    return stotras[idx] ?? null;
-  }, [seed, stotras]);
+  const sotd = useMemo<StotraOfTheDayCard | null>(() => {
+    if (seed == null) return calendar.fallback;
+    return calendar.byDate[seed] ?? calendar.fallback;
+  }, [seed, calendar]);
 
   if (!sotd) {
     return <div className="bg-brand" style={{ minHeight: 520 }} aria-hidden suppressHydrationWarning />;
   }
 
   const sotdDeity = DEITIES.find((d) => d.id === sotd.deity);
-  const firstVerses = sotd.devanagariText
-    .split("\n")
-    .filter((l) => l.trim().length > 0)
-    .slice(0, 3)
-    .join("\n");
+  const firstVerses = sotd.firstVerses;
 
   return (
     <section className="relative overflow-hidden bg-brand" suppressHydrationWarning>
@@ -73,9 +71,9 @@ export function StotraOfTheDay({ stotras }: Props) {
               {sotd.seoDescription}
             </p>
 
-            {sotd.benefits.length > 0 && (
+            {sotd.benefitPreview.length > 0 && (
               <ul className="space-y-3 mb-10">
-                {sotd.benefits.slice(0, 3).map((benefit, i) => (
+                {sotd.benefitPreview.map((benefit, i) => (
                   <li key={i} className="flex items-start gap-3">
                     <span className="mt-1.5 w-2 h-2 rounded-full bg-saffron flex-shrink-0" />
                     <span className="text-white/80 text-sm md:text-[15px]">{benefit}</span>

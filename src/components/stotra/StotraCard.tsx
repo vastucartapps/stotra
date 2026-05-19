@@ -1,9 +1,9 @@
 import Link from "next/link";
 import { Clock, BookOpen } from "lucide-react";
-import type { Stotra } from "@/types";
+import type { StotraCardSummary } from "@/types";
 import { getDeityById } from "@/data/deities";
 
-export function StotraCard({ stotra }: { stotra: Stotra }) {
+export function StotraCard({ stotra }: { stotra: StotraCardSummary }) {
   const deity = getDeityById(stotra.deity);
 
   return (

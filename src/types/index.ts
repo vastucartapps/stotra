@@ -48,6 +48,34 @@ export interface Stotra {
   wikidataUrl?: string;
 }
 
+/**
+ * Minimal "card" shape used at every server→client component boundary that
+ * renders a list of stotras (sidebars, related-grids, today-grid, etc.).
+ *
+ * Why this exists: passing full `Stotra` objects (which carry devanagariText,
+ * transliteration, hindiMeaning, padaartha) as props to a "use client"
+ * component forces Next.js to serialize the entire object graph into the RSC
+ * stream. With 930 stotras that grows the per-page HTML to 10MB+ uncompressed
+ * and triggers Googlebot's render-budget rejection — the root cause of the
+ * 0/1,767 sitemap-indexed state.
+ */
+export interface StotraCardSummary {
+  slug: string;
+  title: string;       // Devanagari
+  titleEn: string;
+  deity: DeityId;
+  verseCount: number;
+  readingTimeMinutes: number;
+  seoDescription: string;
+}
+
+/** Extended card used by the "Stotra of the Day" hero block (homepage). */
+export interface StotraOfTheDayCard extends StotraCardSummary {
+  source: string;
+  benefitPreview: string[]; // first 3 only
+  firstVerses: string;      // first 3 non-empty devanagari lines, pre-joined
+}
+
 export interface Viniyog {
   rishi: string;
   chhand: string;

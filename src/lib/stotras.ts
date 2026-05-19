@@ -1,7 +1,46 @@
 import fs from "fs";
 import path from "path";
-import type { Stotra, DeityId, DayId, FestivalId, PurposeId } from "@/types";
+import type {
+  Stotra,
+  StotraCardSummary,
+  StotraOfTheDayCard,
+  DeityId,
+  DayId,
+  FestivalId,
+  PurposeId,
+} from "@/types";
 import { dailySeed, seededRandom, getTodayDayName } from "./utils";
+
+/**
+ * Strip a full Stotra down to the fields a card component renders.
+ * Use at EVERY server→client prop boundary (RSC payload reduction).
+ */
+export function toStotraCard(s: Stotra): StotraCardSummary {
+  return {
+    slug: s.slug,
+    title: s.title,
+    titleEn: s.titleEn,
+    deity: s.deity,
+    verseCount: s.verseCount,
+    readingTimeMinutes: s.readingTimeMinutes,
+    seoDescription: s.seoDescription,
+  };
+}
+
+/** Extended card for the homepage "Stotra of the Day" hero. */
+export function toStotraOfTheDayCard(s: Stotra): StotraOfTheDayCard {
+  const firstVerses = s.devanagariText
+    .split("\n")
+    .filter((l) => l.trim().length > 0)
+    .slice(0, 3)
+    .join("\n");
+  return {
+    ...toStotraCard(s),
+    source: s.source,
+    benefitPreview: s.benefits.slice(0, 3),
+    firstVerses,
+  };
+}
 
 const STOTRAS_DIR = path.join(process.cwd(), "src/data/stotras");
 
@@ -126,7 +165,7 @@ export function searchStotras(query: string): Stotra[] {
   });
 }
 
-export function getRelatedStotras(stotra: Stotra, limit = 12): Stotra[] {
+export function getRelatedStotras(stotra: Stotra, limit = 12): StotraCardSummary[] {
   const all = getAllStotras().filter((s) => s.slug !== stotra.slug);
 
   const scored = all.map((s) => {
@@ -159,7 +198,7 @@ export function getRelatedStotras(stotra: Stotra, limit = 12): Stotra[] {
   });
 
   scored.sort((a, b) => b.score - a.score);
-  return scored.slice(0, limit).map((s) => s.stotra);
+  return scored.slice(0, limit).map((s) => toStotraCard(s.stotra));
 }
 
 /**
@@ -177,12 +216,13 @@ const COMPANION_MAP: Record<string, string[]> = {
   "ramraksha-stotra": ["ram-stuti", "rama-kavacham"],
 };
 
-export function getCompanionStotras(slug: string): Stotra[] {
+export function getCompanionStotras(slug: string): StotraCardSummary[] {
   const companions = COMPANION_MAP[slug];
   if (!companions) return [];
   return companions
     .map((s) => getStotraBySlug(s))
-    .filter((s): s is Stotra => s !== null);
+    .filter((s): s is Stotra => s !== null)
+    .map(toStotraCard);
 }
 
 export function getTopStotrasForDeity(deityId: DeityId, limit = 5): Stotra[] {

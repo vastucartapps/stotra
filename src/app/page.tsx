@@ -4,7 +4,7 @@ import { DEITIES } from "@/data/deities";
 import { PURPOSES } from "@/data/purposes";
 import { ECOSYSTEM_SITES } from "@/data/ecosystem";
 import { getAllStotras, getStotraCountByDeity } from "@/lib/stotras";
-import { getStotrasByDayMap, getStotraOfTheDayCandidates } from "@/lib/today-data";
+import { getSidebarStotrasByDayMap, getSOTDCalendar } from "@/lib/today-data";
 import { FAQSection } from "@/components/pages/HomePage";
 import { GitaShlokaCard } from "@/components/pages/GitaShlokaCard";
 import { getGitaVerseOfTheDay } from "@/lib/gita";
@@ -40,8 +40,11 @@ export function generateMetadata(): Metadata {
 
 export default function Home() {
   const allStotras = getAllStotras();
-  const byDay = getStotrasByDayMap();
-  const sotdCandidates = getStotraOfTheDayCandidates();
+  // Trimmed map (6 cards/day × 7 = 42) — homepage card grid renders limit=6 per day.
+  // Full map (~1,300 cards) would balloon the homepage HTML to 1.6MB+.
+  const byDay = getSidebarStotrasByDayMap(6);
+  // 90-day pre-baked SOTD picks — replaces shipping all 930 candidates.
+  const sotdCalendar = getSOTDCalendar(90);
 
   const websiteSchema = buildStotraWebsiteSchema(allStotras.length);
   const deityItemListSchema = {
@@ -482,7 +485,7 @@ export default function Home() {
       </section>
 
       {/* -- Stotra of the Day (client-resolved IST date to avoid SSG freeze) -- */}
-      <StotraOfTheDay stotras={sotdCandidates} />
+      <StotraOfTheDay calendar={sotdCalendar} />
 
       {/* -- Browse by Purpose -- */}
       <section className="py-16 bg-cream-mid/50">

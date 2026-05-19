@@ -1,8 +1,8 @@
-import type { Stotra } from "@/types";
+import type { StotraCardSummary } from "@/types";
 import Link from "next/link";
 
 interface SidebarProps {
-  relatedStotras?: Stotra[];
+  relatedStotras?: StotraCardSummary[];
 }
 
 export function Sidebar({ relatedStotras }: SidebarProps) {

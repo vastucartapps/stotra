@@ -12,14 +12,18 @@ import {
   Check,
 } from "lucide-react";
 import Link from "next/link";
-import type { Stotra, Deity } from "@/types";
+import type { Stotra, Deity, StotraCardSummary } from "@/types";
 import { CategoryIcon } from "@/components/ui/CategoryIcon";
 import { PadaArtha } from "@/components/stotra/PadaArtha";
 
 interface StotraContentProps {
   stotra: Stotra;
   deity: Deity | null;
-  companionStotras?: Stotra[];
+  /**
+   * Companion stotras as minimal cards — never full Stotra objects.
+   * Full objects would 2-3x the RSC payload of every stotra page.
+   */
+  companionStotras?: StotraCardSummary[];
 }
 
 export function StotraContent({ stotra, deity, companionStotras }: StotraContentProps) {
