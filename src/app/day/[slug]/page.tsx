@@ -134,17 +134,51 @@ export default async function DayPage({
         </div>
       </div>
 
-      {stotras.length > 0 ? (
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
-          {stotras.map((stotra) => (
-            <StotraCard key={stotra.slug} stotra={stotra} />
-          ))}
-        </div>
-      ) : (
-        <div className="text-center py-16 bg-white rounded-xl border border-border-light">
-          <p className="text-text-muted">No stotras for {day.name} yet.</p>
-        </div>
-      )}
+      {(() => {
+        // Day pages had ~1.2MB avg pre-fix because each day lists 150+ stotras.
+        // Cap rich cards at 30; remainder as compact text index.
+        const FEATURED = 30;
+        const featured = stotras.slice(0, FEATURED);
+        const rest = stotras.slice(FEATURED);
+        if (stotras.length === 0) {
+          return (
+            <div className="text-center py-16 bg-white rounded-xl border border-border-light">
+              <p className="text-text-muted">No stotras for {day.name} yet.</p>
+            </div>
+          );
+        }
+        return (
+          <>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+              {featured.map((stotra) => (
+                <StotraCard key={stotra.slug} stotra={stotra} />
+              ))}
+            </div>
+            {rest.length > 0 && (
+              <section className="mt-12">
+                <h2 className="font-serif text-xl font-semibold text-brand mb-3">
+                  More {day.name} Stotras
+                </h2>
+                <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-1 text-sm">
+                  {rest.map((s) => (
+                    <li key={s.slug} className="border-b border-border-light/60 py-1.5">
+                      <Link
+                        href={`/stotra/${s.slug}`}
+                        className="block text-text hover:text-brand transition-colors"
+                      >
+                        <span>{s.titleEn}</span>
+                        <span className="devanagari-heading text-xs text-text-muted ml-2">
+                          {s.title}
+                        </span>
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              </section>
+            )}
+          </>
+        );
+      })()}
     </div>
   );
 }

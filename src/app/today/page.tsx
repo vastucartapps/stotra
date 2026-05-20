@@ -31,11 +31,12 @@ export const metadata: Metadata = {
 };
 
 export default function TodayPage() {
-  // Page-grid cap: 60 cards/day × 7 = 420 cards in RSC stream instead of
+  // Page-grid cap: 30 cards/day × 7 = 210 cards in RSC stream instead of
   // ~1,300 (the full map carries duplicates across days for stotras
-  // recited on multiple weekdays). Cap covers what a visitor scrolls past
-  // in one session; the full union still seeds the ItemList schema below.
-  const byDay = getSidebarStotrasByDayMap(60);
+  // recited on multiple weekdays). Was 60/day = 1.9MB total, now ~600KB.
+  // 30 cards covers what most visitors scroll past in one session;
+  // the full union still seeds the ItemList schema below.
+  const byDay = getSidebarStotrasByDayMap(30);
 
   // Full per-day union (no cap) — server-rendered into JSON-LD only.
   // Goes into the prerendered HTML once, not the client component prop tree.

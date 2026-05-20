@@ -99,15 +99,49 @@ export default async function PurposePage({ params }: { params: Promise<{ slug: 
           <p className="devanagari-heading text-lg text-text-muted">{purpose.nameHi}</p>
         </div>
       </div>
-      {stotras.length > 0 ? (
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
-          {stotras.map((s) => <StotraCard key={s.slug} stotra={s} />)}
-        </div>
-      ) : (
-        <div className="text-center py-16 bg-white rounded-xl border border-border-light">
-          <p className="text-text-muted">No stotras for {purpose.name} yet.</p>
-        </div>
-      )}
+      {(() => {
+        // Cap rich cards at FEATURED; emit remainder as compact text index.
+        // /purpose/devotion was 5MB before this. /purpose/protection 2.8MB.
+        const FEATURED = 30;
+        const featured = stotras.slice(0, FEATURED);
+        const rest = stotras.slice(FEATURED);
+        if (stotras.length === 0) {
+          return (
+            <div className="text-center py-16 bg-white rounded-xl border border-border-light">
+              <p className="text-text-muted">No stotras for {purpose.name} yet.</p>
+            </div>
+          );
+        }
+        return (
+          <>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+              {featured.map((s) => <StotraCard key={s.slug} stotra={s} />)}
+            </div>
+            {rest.length > 0 && (
+              <section className="mt-12">
+                <h2 className="font-serif text-xl font-semibold text-brand mb-3">
+                  More {purpose.name} Stotras
+                </h2>
+                <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-1 text-sm">
+                  {rest.map((s) => (
+                    <li key={s.slug} className="border-b border-border-light/60 py-1.5">
+                      <Link
+                        href={`/stotra/${s.slug}`}
+                        className="block text-text hover:text-brand transition-colors"
+                      >
+                        <span>{s.titleEn}</span>
+                        <span className="devanagari-heading text-xs text-text-muted ml-2">
+                          {s.title}
+                        </span>
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              </section>
+            )}
+          </>
+        );
+      })()}
     </div>
   );
 }
