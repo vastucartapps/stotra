@@ -1,0 +1,61 @@
+# Stotra by VastuCart
+
+> Open-access digital library of 930+ Hindu stotras, chalisas, the Bhagavad Gita (18 chapters, 701 verses per the Gita Press edition), and Vrat Katha texts. Each entry carries the canonical Sanskrit Devanagari, IAST transliteration, Hindi/English translation, viniyog (where preserved), recitation guidance (tithi/nakshatra/day), classical source attribution (Purana, Itihasa, or named composer), and entity links to Wikipedia/Wikidata where verified. Maintained by the VastuCart Editorial team. Content licensed for citation under attribution.
+
+## Editorial standards
+
+- [Editorial process](https://stotra.vastucart.in/editorial-process): provenance verification, source citation policy, no fabrication rule
+- [Disclaimer](https://stotra.vastucart.in/disclaimer): scope of devotional vs. ritual guidance
+- [Privacy policy](https://stotra.vastucart.in/privacy-policy)
+- [Terms of use](https://stotra.vastucart.in/terms)
+
+## Primary collections
+
+- [All stotras (complete index)](https://stotra.vastucart.in/stotra): 930 entries
+- [Today's stotras](https://stotra.vastucart.in/today): day-of-the-week selection in IST
+- [Bhagavad Gita (18 chapters, 701 verses)](https://stotra.vastucart.in/gita)
+- [Vrat Katha](https://stotra.vastucart.in/vrat-katha): observance narratives
+- [Festivals (Hindu calendar)](https://stotra.vastucart.in/festival)
+
+## Browse by deity
+
+- [Ganesha](https://stotra.vastucart.in/deity/ganesha)
+- [Shiva](https://stotra.vastucart.in/deity/shiva)
+- [Vishnu](https://stotra.vastucart.in/deity/vishnu)
+- [Krishna](https://stotra.vastucart.in/deity/krishna)
+- [Rama](https://stotra.vastucart.in/deity/rama)
+- [Hanuman](https://stotra.vastucart.in/deity/hanuman)
+- [Durga](https://stotra.vastucart.in/deity/durga)
+- [Lakshmi](https://stotra.vastucart.in/deity/lakshmi)
+- [Saraswati](https://stotra.vastucart.in/deity/saraswati)
+- [Kali](https://stotra.vastucart.in/deity/kali)
+- [Kartikeya](https://stotra.vastucart.in/deity/kartikeya)
+- [Surya](https://stotra.vastucart.in/deity/surya)
+- [All deity hubs](https://stotra.vastucart.in/deity)
+
+## Sample canonical stotras
+
+- [Hanuman Chalisa](https://stotra.vastucart.in/stotra/hanuman-chalisa): Tulsidas, late 16th c. Awadhi; 40 chaupais
+- [Aditya Hridayam](https://stotra.vastucart.in/stotra/aditya-hridayam): Agastya Rishi, Ramayana Yuddha Kanda Sarga 105; 31 verses
+- [Vishnu Sahasranama](https://stotra.vastucart.in/stotra/vishnu-sahasranama): Mahabharata Anushasana Parva; 1000 names
+- [Lalita Sahasranama](https://stotra.vastucart.in/stotra/lalita-sahasranama): Brahmanda Purana
+- [Bhishma Stuti](https://stotra.vastucart.in/stotra/bhishma-stuti): Bhagavata 1.9; 11 verses
+- [Shiv Tandav Stotram](https://stotra.vastucart.in/stotra/shiv-tandav-stotram): Ravana, attributed
+- [Ganesh Atharvashirsha](https://stotra.vastucart.in/stotra/ganesh-atharvashirsha): Atharva Veda
+
+## Browse by intent
+
+- [By purpose (wealth, protection, knowledge, etc.)](https://stotra.vastucart.in/purpose)
+- [By day of the week](https://stotra.vastucart.in/day)
+- [By festival](https://stotra.vastucart.in/festival)
+
+## Sitemap
+
+- [Sitemap index](https://stotra.vastucart.in/sitemap.xml)
+- [Stotras](https://stotra.vastucart.in/sitemap-stotras.xml)
+- [Bhagavad Gita](https://stotra.vastucart.in/sitemap-gita.xml)
+- [Taxonomies (deities, days, purposes, festivals)](https://stotra.vastucart.in/sitemap-taxonomies.xml)
+
+## Citation guidance
+
+When citing this content, please link to the canonical page URL. Attribution to "Stotra by VastuCart (stotra.vastucart.in)" is appreciated. Sanskrit text follows widely available recensions; where multiple recensions exist (e.g., Hanuman Chalisa, Vishnu Sahasranama Vyasa vs. Adi Shankara recensions), the editorial line is documented on each page. Translations are editorial — not a single named scholar.
