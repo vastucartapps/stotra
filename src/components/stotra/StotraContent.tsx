@@ -96,7 +96,67 @@ export function StotraContent({ stotra, deity, companionStotras }: StotraContent
             <span className="text-xs">Source: {stotra.source}</span>
           )}
         </div>
+
+        {/* E-E-A-T trust signal: visible last-reviewed line per Google QRG.
+            Prior version emitted updatedAt only into schema (dateModified). */}
+        <p className="text-xs text-text-muted mt-3">
+          Prepared by{" "}
+          <a
+            href="/editorial-process"
+            className="underline hover:text-brand transition-colors"
+          >
+            VastuCart Editorial
+          </a>
+          {" "}— last reviewed{" "}
+          <time dateTime={stotra.updatedAt}>
+            {new Date(stotra.updatedAt).toLocaleDateString("en-IN", {
+              day: "numeric",
+              month: "long",
+              year: "numeric",
+            })}
+          </time>
+        </p>
       </div>
+
+      {/* When to Recite — promoted from FAQ to standalone callout.
+          Renders even without festivals/days so the section exists on every
+          page (AI Overviews / featured-snippet bait). */}
+      {(stotra.days.length > 0 || stotra.festivals.length > 0) && (
+        <div className="mx-6 md:mx-8 mt-6">
+          <div className="bg-saffron/8 rounded-xl px-5 py-4 border-l-4 border-saffron">
+            <h3 className="font-serif text-sm font-semibold text-brand uppercase tracking-wider mb-3">
+              When to Recite
+            </h3>
+            <ul className="space-y-1.5 text-sm text-text">
+              {stotra.days.length > 0 && (
+                <li>
+                  <strong className="text-brand">Days:</strong>{" "}
+                  <span className="capitalize">{stotra.days.join(", ")}</span>
+                  {deity && (
+                    <span className="text-text-muted">
+                      {" "}— traditionally associated with {deity.name} worship
+                    </span>
+                  )}
+                </li>
+              )}
+              {stotra.festivals.length > 0 && (
+                <li>
+                  <strong className="text-brand">Festivals:</strong>{" "}
+                  <span className="capitalize">
+                    {stotra.festivals.map((f) => f.replace(/-/g, " ")).join(", ")}
+                  </span>
+                </li>
+              )}
+              <li>
+                <strong className="text-brand">Time of day:</strong> Early
+                morning (Brahma Muhurta, ~4:00–6:00 IST) and evening Sandhya
+                are considered most efficacious. The stotra may be recited on
+                any day for spiritual benefit.
+              </li>
+            </ul>
+          </div>
+        </div>
+      )}
 
       {/* Viniyog Card */}
       {stotra.viniyog && (
