@@ -18,8 +18,11 @@ import type { Deity, Stotra } from "@/types";
 export function buildDeityPageGraph(
   deity: Deity,
   stotras: Stotra[]
-): object | null {
-  if (stotras.length === 0) return null;
+): object {
+  // Previously returned null when stotras.length === 0 — that left
+  // /deity/yama and similar low-content deities with ZERO schema, which
+  // is worse than an empty-ItemList CollectionPage. Now always emit a
+  // CollectionPage + Thing + BreadcrumbList, even if the ItemList is empty.
 
   const pageId = `${STOTRA_BASE}/deity/${deity.slug}#page`;
   const deityId = `${STOTRA_BASE}/deity/${deity.slug}#deity`;
@@ -112,8 +115,9 @@ export interface TaxonomyPageInput {
 
 export function buildTaxonomyPageGraph(
   input: TaxonomyPageInput
-): object | null {
-  if (input.stotras.length === 0) return null;
+): object {
+  // Always emit schema even for empty taxonomies (e.g. festivals with no
+  // stotras yet) — an empty CollectionPage is better than no schema.
 
   const path = `/${input.kind}/${input.slug}`;
   const pageId = `${STOTRA_BASE}${path}#page`;

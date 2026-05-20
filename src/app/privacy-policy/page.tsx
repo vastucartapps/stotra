@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { APP_URL, siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
+import { siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
+import { buildStaticArticleGraph } from "@/lib/schema";
 
 const PAGE_TITLE = "Privacy Policy | Stotra by VastuCart";
 const PAGE_DESC = "Privacy Policy for Stotra by VastuCart. Learn how we handle your data.";
@@ -23,30 +24,19 @@ export const metadata: Metadata = {
 };
 
 export default function PrivacyPolicyPage() {
-  const breadcrumbSchema = {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    itemListElement: [
-      {
-        "@type": "ListItem",
-        position: 1,
-        name: "Home",
-        item: APP_URL,
-      },
-      {
-        "@type": "ListItem",
-        position: 2,
-        name: "Privacy Policy",
-        item: `${APP_URL}/privacy-policy`,
-      },
-    ],
-  };
+  const graph = buildStaticArticleGraph({
+    path: "/privacy-policy",
+    headline: "Privacy Policy — Stotra by VastuCart",
+    description: PAGE_DESC,
+    breadcrumbName: "Privacy Policy",
+    dateModified: "2026-05-20",
+  });
 
   return (
     <div className="mx-auto max-w-[900px] px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(graph) }}
       />
 
       <nav className="flex items-center gap-2 text-xs text-text-muted mb-8">

@@ -1,9 +1,10 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { APP_URL, siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
+import { siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
+import { buildStaticArticleGraph } from "@/lib/schema";
 
 const PAGE_TITLE = "Disclaimer | Stotra by VastuCart";
-const PAGE_DESC = "Disclaimer for Stotra by VastuCart.";
+const PAGE_DESC = "Disclaimer for Stotra by VastuCart — devotional content, religious neutrality, no professional advice.";
 
 export const metadata: Metadata = {
   title: "Disclaimer",
@@ -23,30 +24,22 @@ export const metadata: Metadata = {
 };
 
 export default function DisclaimerPage() {
-  const breadcrumbSchema = {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    itemListElement: [
-      {
-        "@type": "ListItem",
-        position: 1,
-        name: "Home",
-        item: APP_URL,
-      },
-      {
-        "@type": "ListItem",
-        position: 2,
-        name: "Disclaimer",
-        item: `${APP_URL}/disclaimer`,
-      },
-    ],
-  };
+  // Article + BreadcrumbList @graph — replaces prior breadcrumb-only schema
+  // so this page is recognized as editorial content (with Publisher,
+  // Editorial author, dateModified) rather than a bare URL.
+  const graph = buildStaticArticleGraph({
+    path: "/disclaimer",
+    headline: "Disclaimer — Stotra by VastuCart",
+    description: PAGE_DESC,
+    breadcrumbName: "Disclaimer",
+    dateModified: "2026-05-20",
+  });
 
   return (
     <div className="mx-auto max-w-[900px] px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(graph) }}
       />
 
       <nav className="flex items-center gap-2 text-xs text-text-muted mb-8">
