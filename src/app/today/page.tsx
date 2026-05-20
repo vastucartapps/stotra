@@ -43,6 +43,9 @@ export default function TodayPage() {
     getStotrasByDay(d.id).map((s) => ({
       name: s.titleEn,
       url: `${STOTRA_BASE}/stotra/${s.slug}`,
+      description: s.seoDescription,
+      deity: s.deity,
+      verseCount: s.verseCount,
     }))
   );
   const graph = buildHubPageGraph({

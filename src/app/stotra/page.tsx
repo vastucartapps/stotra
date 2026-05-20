@@ -50,7 +50,19 @@ export default function AllStotraPage() {
     items: stotras.map((s) => ({
       name: s.titleEn,
       url: `${STOTRA_BASE}/stotra/${s.slug}`,
+      description: s.seoDescription,
+      deity: s.deity,
+      verseCount: s.verseCount,
     })),
+    about: {
+      name: "Hindu Stotras (Sanskrit Devotional Hymns)",
+      description:
+        "Sanskrit and Hindi devotional verses (stotras, chalisas, ashtakams, kavachams, sahasranamas) addressed to Hindu deities. Preserved in classical traditions from Vedic Suktas through Puranas and Itihasas.",
+      sameAs: [
+        "https://en.wikipedia.org/wiki/Stotra",
+        "https://www.wikidata.org/wiki/Q2666158",
+      ],
+    },
   });
 
   return (
