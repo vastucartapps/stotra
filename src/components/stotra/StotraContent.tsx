@@ -16,6 +16,24 @@ import type { Stotra, Deity, StotraCardSummary } from "@/types";
 import { CategoryIcon } from "@/components/ui/CategoryIcon";
 import { PadaArtha } from "@/components/stotra/PadaArtha";
 
+const MONTHS_EN = [
+  "January", "February", "March", "April", "May", "June",
+  "July", "August", "September", "October", "November", "December",
+];
+
+/**
+ * Format an ISO timestamp as "13 May 2026" using UTC throughout — so the
+ * server's Node runtime and the client's browser runtime produce IDENTICAL
+ * output regardless of either's local timezone. Using
+ * Date.prototype.toLocaleDateString() here causes React error #418
+ * (hydration mismatch) because the same Date object resolves to a
+ * different day-string in UTC vs IST/PST/etc near the day boundary.
+ */
+function formatReviewedDate(iso: string): string {
+  const d = new Date(iso);
+  return `${d.getUTCDate()} ${MONTHS_EN[d.getUTCMonth()]} ${d.getUTCFullYear()}`;
+}
+
 interface StotraContentProps {
   stotra: Stotra;
   deity: Deity | null;
@@ -98,7 +116,10 @@ export function StotraContent({ stotra, deity, companionStotras }: StotraContent
         </div>
 
         {/* E-E-A-T trust signal: visible last-reviewed line per Google QRG.
-            Prior version emitted updatedAt only into schema (dateModified). */}
+            Date is formatted via formatReviewedDate() (UTC-pinned) — using
+            toLocaleDateString() here would fire React error #418 because
+            server (Node UTC) and client (browser-local TZ) produce
+            different strings for dates near a day boundary. */}
         <p className="text-xs text-text-muted mt-3">
           Prepared by{" "}
           <a
@@ -109,11 +130,7 @@ export function StotraContent({ stotra, deity, companionStotras }: StotraContent
           </a>
           {" "}— last reviewed{" "}
           <time dateTime={stotra.updatedAt}>
-            {new Date(stotra.updatedAt).toLocaleDateString("en-IN", {
-              day: "numeric",
-              month: "long",
-              year: "numeric",
-            })}
+            {formatReviewedDate(stotra.updatedAt)}
           </time>
         </p>
       </div>
