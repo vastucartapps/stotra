@@ -1,4 +1,6 @@
 import type { Metadata } from "next";
+import Link from "next/link";
+import { Search } from "lucide-react";
 import { getAllStotras } from "@/lib/stotras";
 import { StotraCard } from "@/components/stotra/StotraCard";
 import { buildHubPageGraph, STOTRA_BASE } from "@/lib/schema";
@@ -7,6 +9,14 @@ import { siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
 const PAGE_TITLE = "All Stotras — Complete Collection | Stotra by VastuCart";
 const PAGE_DESC =
   "Browse our complete collection of Hindu stotras, chalisa, and sacred hymns in Sanskrit and Hindi with transliteration and meaning.";
+
+/**
+ * Featured-card cap: a single page rendering 930+ full StotraCards weighs
+ * ~4.75MB on the wire and trips Googlebot's render budget. Cap rich cards
+ * at FEATURED_LIMIT and emit the remaining titles as a lightweight text
+ * index below — preserves crawl discoverability without 930x card chrome.
+ */
+const FEATURED_LIMIT = 60;
 
 export const metadata: Metadata = {
   title: "All Stotras - Complete Collection",
@@ -28,6 +38,8 @@ export const metadata: Metadata = {
 
 export default function AllStotraPage() {
   const stotras = getAllStotras();
+  const featured = stotras.slice(0, FEATURED_LIMIT);
+  const rest = stotras.slice(FEATURED_LIMIT);
 
   const graph = buildHubPageGraph({
     path: "/stotra",
@@ -52,11 +64,47 @@ export default function AllStotraPage() {
         <h1 className="font-serif text-4xl font-bold text-brand mb-3">All Stotras</h1>
         <p className="text-text-light">{stotras.length} sacred prayers and hymns</p>
         <div className="mt-4 mx-auto w-24 h-1 rounded-full bg-gradient-to-r from-brand via-gold to-saffron" />
+        <Link
+          href="/search"
+          className="mt-6 inline-flex items-center gap-2 bg-brand text-white text-sm font-medium px-5 py-2.5 rounded-lg hover:bg-brand-light transition-colors duration-200"
+        >
+          <Search className="w-4 h-4" />
+          Search all {stotras.length} stotras
+        </Link>
       </div>
-      {stotras.length > 0 ? (
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
-          {stotras.map((s) => <StotraCard key={s.slug} stotra={s} />)}
-        </div>
+
+      {featured.length > 0 ? (
+        <>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+            {featured.map((s) => <StotraCard key={s.slug} stotra={s} />)}
+          </div>
+
+          {rest.length > 0 && (
+            <section className="mt-16">
+              <h2 className="font-serif text-2xl font-semibold text-brand mb-2">
+                Complete Index — {rest.length} more stotras
+              </h2>
+              <p className="text-sm text-text-muted mb-6">
+                Listed alphabetically. Use search above to filter by deity, day, or purpose.
+              </p>
+              <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-1 text-sm">
+                {rest.map((s) => (
+                  <li key={s.slug} className="border-b border-border-light/60 py-1.5">
+                    <Link
+                      href={`/stotra/${s.slug}`}
+                      className="block text-text hover:text-brand transition-colors"
+                    >
+                      <span className="text-text">{s.titleEn}</span>
+                      <span className="devanagari-heading text-xs text-text-muted ml-2">
+                        {s.title}
+                      </span>
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          )}
+        </>
       ) : (
         <div className="text-center py-16 bg-white rounded-xl border border-border-light">
           <p className="text-text-muted">No stotras available yet. Check back soon!</p>
