@@ -9,7 +9,6 @@ import {
   STOTRA_WEBSITE_ID,
   EDITORIAL_AUTHOR_REF,
   ORG_PUBLISHER_REF,
-  deityConceptId,
 } from "./ids";
 import type { Stotra, Deity } from "@/types";
 
@@ -81,11 +80,29 @@ export function buildStotraPageGraph(
   if (!stotra.titleEn || !stotra.verseCount || stotra.verseCount < 1)
     return null;
 
-  const pageId = `${STOTRA_BASE}/stotra/${stotra.slug}#webpage`;
+  // Fragment matches type — was previously "#webpage" with type "Article",
+  // a semantic mismatch that Google's Rich Results Test flags as inconsistent.
+  const articleId = `${STOTRA_BASE}/stotra/${stotra.slug}#article`;
   const workId = `${STOTRA_BASE}/stotra/${stotra.slug}#work`;
   const breadcrumbId = `${STOTRA_BASE}/stotra/${stotra.slug}#breadcrumb`;
+  const deityId = `${STOTRA_BASE}/stotra/${stotra.slug}#deity`;
   const deitySlug = deity?.slug || stotra.deity;
   const deityName = deity?.name || stotra.deity;
+
+  // #deity node — replaces the prior @id reference to a non-resolving private
+  // namespace (https://www.vastucart.in/concepts/<slug>#entity). Emit an inline
+  // Thing so Google can match it to a known Knowledge Graph entity via sameAs.
+  const deitySameAs: string[] = [];
+  if (deity?.wikipediaUrl) deitySameAs.push(deity.wikipediaUrl);
+  if (deity?.wikidataUrl) deitySameAs.push(deity.wikidataUrl);
+  const deityNode: Record<string, unknown> = {
+    "@type": "Thing",
+    "@id": deityId,
+    name: deityName,
+  };
+  if (deity?.nameHi) deityNode.alternateName = deity.nameHi;
+  if (deity?.description) deityNode.description = deity.description;
+  if (deitySameAs.length) deityNode.sameAs = deitySameAs;
 
   // #work node — the ancient text
   const workNode: Record<string, unknown> = {
@@ -95,7 +112,7 @@ export function buildStotraPageGraph(
     alternateName: stotra.title,
     inLanguage: ["sa", "hi"],
     genre: "Hindu devotional hymn",
-    about: { "@id": deityConceptId(deitySlug) },
+    about: { "@id": deityId },
   };
 
   // sameAs — link the stotra entity to its Wikipedia + Wikidata records when known.
@@ -116,15 +133,18 @@ export function buildStotraPageGraph(
     };
   }
 
-  // #webpage node — the Article
+  // #article node
   // Note: `breadcrumb` is a WebPage property, not Article — BreadcrumbList
   // lives as a sibling @graph node with its own @id. Google picks it up
   // without an explicit reference on Article.
+  const articleUrl = `${STOTRA_BASE}/stotra/${stotra.slug}`;
   const articleNode = {
     "@type": "Article",
-    "@id": pageId,
-    url: `${STOTRA_BASE}/stotra/${stotra.slug}`,
-    mainEntityOfPage: pageId,
+    "@id": articleId,
+    url: articleUrl,
+    // Google's Article rich-result spec prefers the object form so the
+    // Article and its canonical page node are unambiguously the same entity.
+    mainEntityOfPage: { "@id": articleId, "@type": "WebPage", url: articleUrl },
     headline: `${stotra.titleEn} — ${stotra.title}`,
     description: stotra.seoDescription,
     image: `${STOTRA_BASE}/og-default.jpg`,
@@ -156,6 +176,6 @@ export function buildStotraPageGraph(
 
   return {
     "@context": "https://schema.org",
-    "@graph": [articleNode, workNode, breadcrumbNode],
+    "@graph": [articleNode, workNode, deityNode, breadcrumbNode],
   };
 }

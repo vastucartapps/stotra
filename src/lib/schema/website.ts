@@ -6,8 +6,8 @@ import {
   STOTRA_WEBSITE_ID,
   STOTRA_BRAND_ID,
   STOTRA_BASE,
-  ORG_ID,
   ORG_LOGO,
+  ORG_PUBLISHER_REF,
 } from "./ids";
 
 export function buildStotraWebsiteSchema(stotraCount: number): object {
@@ -26,7 +26,10 @@ export function buildStotraWebsiteSchema(stotraCount: number): object {
         name: "Stotra by VastuCart",
         description,
         inLanguage: ["sa", "hi", "en"],
-        publisher: { "@id": ORG_ID },
+        // Inline hints (name/url/logo) — was prior @id-only reference which
+        // Google's per-document validator cannot resolve without a declared
+        // entity in this graph.
+        publisher: ORG_PUBLISHER_REF,
         potentialAction: {
           "@type": "SearchAction",
           target: {

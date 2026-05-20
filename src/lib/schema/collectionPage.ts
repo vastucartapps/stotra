@@ -230,13 +230,16 @@ export interface StaticArticleInput {
 }
 
 export function buildStaticArticleGraph(input: StaticArticleInput): object {
-  const pageId = `${STOTRA_BASE}${input.path}#webpage`;
+  // Fragment matches type ("#article", not "#webpage") so Google's Rich
+  // Results Test doesn't flag the Article node as semantically inconsistent.
+  const articleId = `${STOTRA_BASE}${input.path}#article`;
   const breadcrumbId = `${STOTRA_BASE}${input.path}#breadcrumb`;
+  const articleUrl = `${STOTRA_BASE}${input.path}`;
   const articleNode: Record<string, unknown> = {
     "@type": "Article",
-    "@id": pageId,
-    url: `${STOTRA_BASE}${input.path}`,
-    mainEntityOfPage: pageId,
+    "@id": articleId,
+    url: articleUrl,
+    mainEntityOfPage: { "@id": articleId, "@type": "WebPage", url: articleUrl },
     headline: input.headline,
     description: input.description,
     image: `${STOTRA_BASE}/og-default.jpg`,

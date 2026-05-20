@@ -33,9 +33,7 @@ export const STOTRA_BRAND_ID = "https://stotra.vastucart.in/#brand";
 
 export const STOTRA_BASE = "https://stotra.vastucart.in";
 
-export const CONCEPT_BASE = "https://www.vastucart.in/concepts";
-
-/** Concept entity @id for a deity slug. Referenced via @id only. */
-export function deityConceptId(slug: string): string {
-  return `${CONCEPT_BASE}/${slug}#entity`;
-}
+// Note: prior `deityConceptId(slug)` returned a non-resolving URI under
+// `https://www.vastucart.in/concepts/...` that broke Google's entity
+// resolution on every stotra page. Removed in favour of inline `Thing` nodes
+// with sameAs to Wikipedia/Wikidata — see buildStotraPageGraph.
