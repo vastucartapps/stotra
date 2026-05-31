@@ -122,12 +122,24 @@ export interface Deity {
   name: string;
   nameHi: string;
   slug: string;
+  /** One-sentence hub-card summary. Stays short for grids. */
   description: string;
   iconName: string;
   color: string;
   image?: string;
   wikipediaUrl?: string;
   wikidataUrl?: string;
+  /**
+   * Long-form essay paragraphs rendered on /deity/[slug] above the
+   * stotra list. Brings deity hub pages above the 500-word location-page
+   * minimum that Google's QRG uses to score authority. Each entry is one
+   * paragraph; no HTML, no markdown — rendered as <p>.
+   * Sources must be classical (Puranas, Itihasas, Vedas, named acharyas)
+   * with no fabrication.
+   */
+  essay?: string[];
+  /** Optional section headings paired with essay paragraphs (parallel index). */
+  essayHeadings?: string[];
 }
 
 // ── Day ──

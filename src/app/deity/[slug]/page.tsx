@@ -115,6 +115,29 @@ export default async function DeityPage({
 
       <p className="text-text-light mb-8 max-w-2xl">{deity.description}</p>
 
+      {/* Long-form deity essay — promotes the hub from a 100-word card
+          into an authoritative entity page (Google QRG location-page
+          minimum is 500 words). Renders only when populated. */}
+      {deity.essay && deity.essay.length > 0 && (
+        <section className="bg-white rounded-2xl border border-border-light p-6 md:p-8 mb-10 max-w-3xl">
+          <h2 className="font-serif text-2xl font-semibold text-brand mb-4">
+            About {deity.name}
+          </h2>
+          <div className="prose-sm space-y-4 text-text leading-relaxed">
+            {deity.essay.map((para, i) => (
+              <div key={i}>
+                {deity.essayHeadings?.[i] && (
+                  <h3 className="font-serif text-base font-semibold text-brand mt-4 mb-2">
+                    {deity.essayHeadings[i]}
+                  </h3>
+                )}
+                <p>{para}</p>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+
       {(() => {
         // Render rich cards for the first 30; emit the remainder as a
         // lightweight text index. Vishnu's 168 stotras × full StotraCard

@@ -36,6 +36,22 @@ export const DEITIES: Deity[] = [
     color: "#2B6B8A",
     wikipediaUrl: "https://en.wikipedia.org/wiki/Vishnu",
     wikidataUrl: "https://www.wikidata.org/wiki/Q9598",
+    essayHeadings: [
+      "Cosmic Role and Identity",
+      "Principal Scriptures",
+      "Iconography",
+      "The Ten Avatars",
+      "Auspicious Days and Observances",
+      "Stotra Tradition",
+    ],
+    essay: [
+      "Vishnu (विष्णु) is one of the three principal deities of the Hindu Trimūrti, alongside Brahma the creator and Shiva the destroyer. In the Vaishnava tradition he is regarded as Para-Brahman, the Supreme, who sustains dharma across cycles of cosmic time. The Bhagavad Gita 4.7–8 records his pledge to descend in every age whenever righteousness declines and to re-establish the moral order — the foundational rationale for the avatar doctrine.",
+      "The canonical sources for Vishnu worship are extensive. The Vishnu Sahasranama, embedded in the Anushasana Parva of the Mahabharata (chapter 149), enumerates one thousand names recited daily by Vaishnavas. The Vishnu Purana — one of the eighteen Mahapuranas — narrates his cosmology and the avatars. The Bhagavata Purana, particularly its tenth canto, is the central text for the Krishna avatar. The Vishnu Suktam of the Rigveda (1.154) is the oldest Vedic invocation, praising his three strides that measured the worlds.",
+      "Vishnu is conventionally depicted with a deep blue complexion, four arms bearing the Pāñchajanya conch (shankha), the Sudarshana discus (chakra), the Kaumodaki mace (gada), and a lotus (padma). He reclines on the cosmic serpent Ananta-Shesha upon the milk-ocean Kshira Sagara, with consort Lakshmi at his feet and Brahma emerging from a lotus at his navel. His mount is Garuda, the divine eagle.",
+      "The classical list of the ten principal avatars (Dashāvatāra) — Matsya, Kurma, Varaha, Narasimha, Vamana, Parashurama, Rama, Krishna, Buddha, and the future Kalki — is enumerated in the Garuda Purana and the Bhagavata Purana. Each avatar represents a specific cosmic intervention: Matsya rescuing the Vedas from the deluge, Kurma supporting Mount Mandara during the churning of the ocean, Narasimha protecting the devotee Prahlada, and so on. Rama and Krishna remain the most widely worshipped, with vast independent devotional traditions, scriptural corpora, and stotra literatures of their own.",
+      "Vaishnava observances follow a precise calendar. Ekadashi — the eleventh lunar day of each fortnight — is observed as a fast and day of intensified Vishnu worship; Vaikuntha Ekadashi in the month of Margashirsha is the most auspicious of the year. Janmashtami marks Krishna's birth, Rama Navami marks Rama's. The four months of Chaturmasya, traditionally Ashadha Shukla Ekadashi to Kartika Shukla Ekadashi, mark the period when Vishnu reclines in cosmic sleep and devotees intensify vows and recitation.",
+      "The stotra tradition addressed to Vishnu spans the full breadth of Sanskrit devotional literature. The Vishnu Sahasranama (1,000 names) is recited daily across Vaishnava and Smarta households. The Vishnu Ashtakam, Madhurashtakam, Achyutashtakam, and the Mukundashtakam are widely chanted shorter compositions. The Bhagavata-derived Bhishma Stuti (1.9), uttered by Bhishma on his bed of arrows, is regarded as one of the most concentrated philosophical praises. For each devotional purpose — protection, liberation, prosperity, daily worship — a corresponding canonical stotra exists in the collection below.",
+    ],
   },
   {
     id: "hanuman",
