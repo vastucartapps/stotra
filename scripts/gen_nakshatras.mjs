@@ -54,6 +54,20 @@ const P = {
   ketu: { en: "Ketu (South Node)", day: "Tuesday", deity: "ganesha", stotras: ["ganesh-chalisa", "navagraha-stotra"] },
 };
 
+// Hand-written, mythology-led openers (kills the templated-skeleton tell).
+// Each leads with the star's own deity/symbol/significations; ASCII prose only.
+const WHATIS = {
+  ashwini: "Ashwini opens the wheel of nakshatras, and it opens with healers. Its presiding deities are the Ashvini Kumaras, the twin physicians of the gods, and its symbol is a horse's head — speed, fresh starts, the urge to be first. People born here often carry a pioneering, restless energy and a gift for quick recovery. Its Vimshottari lord is Ketu.",
+  bharani: "Bharani belongs to Yama, the lord of death and dharma, and its symbol is the yoni — the womb. That pairing is the whole meaning: bearing, restraint, and the hard discipline of carrying something to term. It is a star of transformation through limits rather than ease. Venus is its surprising, sensual lord.",
+  krittika: "Krittika is the flame. Its deity is Agni, fire itself, and its star-cluster is the Pleiades, the six mothers who nursed the war-god Kartikeya. The symbol is a blade or razor — cutting, purifying, burning away what is false. There is sharpness and ambition in anyone born here. The Sun rules it.",
+  rohini: "Rohini was the Moon's favourite among his wives, and the star keeps that glow of being beloved. Its deity is Brahma the creator, its symbol an ox-cart heavy with harvest — beauty, fertility, growth, the pleasures of the material world. It is often called the most charming of the nakshatras. The Moon itself is its lord.",
+  mrigashira: "The symbol of Mrigashira is a deer's head, and the image fits: a gentle, searching curiosity, always scenting the next thing. Its deity is Soma, the nectar of the moon. Natives tend to be seekers — soft-spoken, inquisitive, easily restless. Mars, unusually, is its lord, lending a quiet drive beneath the gentleness.",
+  ardra: "Ardra is the storm before the clearing. Its deity is Rudra, the howling, untamed form of Shiva, and its symbol is a single teardrop. This is a star of upheaval that washes the ground clean for something new, so lives touched by it often pass through difficulty into renewal. Rahu, the shadow node, is its lord.",
+  punarvasu: "The name means 'return of the light', and that is Punarvasu's gift — recovery, homecoming, the second chance after loss. Its deity is Aditi, the boundless mother of the gods, and its symbol is a quiver of arrows, readiness held in reserve. There is an easy optimism here. Jupiter, the great benefic, rules it.",
+  pushya: "Pushya is widely held to be the most auspicious of all 27 nakshatras. Its deity is Brihaspati, teacher of the gods, and its symbol is a cow's udder — pure nourishment freely given. It is a star of care, steadiness and spiritual feeding, the one many traditions choose to begin good work. Saturn, the disciplinarian, is its lord.",
+  ashlesha: "Ashlesha is the coiled serpent. Its deities are the Nagas, the snake-beings of the deep, and the star carries their double nature — the clinging embrace and the hidden venom, hypnotic charm and sharp insight. It is tied to kundalini, the serpent power at the base of the spine. Mercury rules it.",
+};
+
 const out = N.map(([slug, en, iast, lord]) => {
   const p = P[lord];
   const nameM = vedic[lord];   // {name_iast, name_devanagari}
