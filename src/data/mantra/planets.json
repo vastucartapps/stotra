@@ -1,0 +1,752 @@
+{
+  "_note": "Planet (Navagraha) mantra pages. Bija textDevanagari/transliteration MUST byte-match _canonical_bija.json (enforced by validate_mantra.mjs). Each planet carries up to 3 lineages: tantric bija, Vedic name, Navagraha Gayatri — labelled, never merged.",
+  "planets": [
+    {
+      "slug": "shani",
+      "type": "planet",
+      "name": { "en": "Shani (Saturn)", "hi": "शनि", "iast": "Śani" },
+      "alsoKnownAs": ["Shani Dev", "Shanaishchara", "Saturn mantra", "shani beej mantra", "shani mantra in hindi"],
+      "whatIs": "Most people meet Shani during Sade Sati — the seven-and-a-half-year passage of Saturn that tests patience like nothing else. The Shani mantra is what tradition hands you for those years. Saturn, son of Surya, is the strict examiner of the planets: he withholds, then he rewards honest effort. The seed form recorded in the Mantra Mahodadhi is \"Om Praam Preem Praum Sah Shanaischaraya Namah\". Chant it on a Saturday, face west, use an iron or black-thread mala, and pair the practice with what Shani actually values — service to the poor, sesame oil, and quiet discipline rather than shortcuts.",
+      "keyFacts": [
+        { "label": "Planet", "value": "Saturn (Shani)" },
+        { "label": "Best day", "value": "Saturday (Shanivar)" },
+        { "label": "Direction", "value": "West" },
+        { "label": "Recommended japa", "value": "23,000 (full sankalpa)" },
+        { "label": "Mala", "value": "Iron / black-thread, 108 beads" },
+        { "label": "Primary source", "value": "Mantra Mahodadhi" }
+      ],
+      "entity": { "name": "Shani", "wikipedia": "https://en.wikipedia.org/wiki/Shani", "wikidata": "https://www.wikidata.org/wiki/Q610974" },
+      "mantras": [
+        {
+          "textDevanagari": "ॐ प्रां प्रीं प्रौं सः शनैश्चराय नमः",
+          "transliteration": "Om Praam Preem Praum Sah Shanaischaraya Namah",
+          "kind": "bija",
+          "lineage": "Mantra Mahodadhi bija (tantric)",
+          "source": "Mantra Mahodadhi of Mahidhara",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The tantric seed mantra of Saturn; the bijas Praam-Preem-Praum with the bindu 'Sah' invoke Shani's disciplinary grace.",
+          "hindiExplanation": "शनि का तांत्रिक बीज मंत्र; प्रां-प्रीं-प्रौं बीजाक्षर शनि की न्यायप्रिय कृपा का आवाहन करते हैं।"
+        },
+        {
+          "textDevanagari": "ॐ शनैश्चराय नमः",
+          "transliteration": "Om Shanaischaraya Namah",
+          "kind": "naam",
+          "lineage": "Vedic name + shakti",
+          "source": "Vedic planetary mantra tradition",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The simple Vedic name mantra — a salutation to 'the slow-mover', suitable for daily practice without initiation."
+        },
+        {
+          "textDevanagari": "ॐ काकध्वजाय विद्महे खड्गहस्ताय धीमहि तन्नो मन्दः प्रचोदयात्",
+          "transliteration": "Om Kakadhwajaya Vidmahe Khadgahastaya Dhimahi Tanno Mandah Prachodayat",
+          "kind": "gayatri",
+          "lineage": "Navagraha Gayatri",
+          "source": "Navagraha Gayatri tradition (epithets variable)",
+          "authenticity": "variable by tradition",
+          "englishExplanation": "The 24-syllable Gayatri-metre invocation of Saturn. Epithets vary between compilations; the structure is classical."
+        }
+      ],
+      "vidhi": {
+        "benefits": [
+          "Traditionally chanted to ease the trials of Sade Sati and Shani dhaiya",
+          "Cultivates patience, discipline, and steady effort",
+          "Associated with relief from delays, obstacles, and chronic difficulty when Saturn is afflicted",
+          "Supports justice, honest labour, and service to the underprivileged"
+        ],
+        "impact": "Shani is the karaka of discipline and consequence. Regular japa is traditionally held to steady the mind and align the practitioner with patient, ethical effort rather than to magically remove karma.",
+        "japaCount": { "minPerDay": 108, "recommended": 108, "totalSankalpa": 23000 },
+        "mala": { "type": "Iron or black-thread (krishna) mala", "beads": 108, "why": "Iron and the colour black are traditionally associated with Saturn" },
+        "durationDays": { "minimum": 40, "recommended": 40 },
+        "bestTime": "Saturday at dusk, or during Shani hora; pradosh kaal is favoured",
+        "bestDayToStart": "Saturday (Shanivar), ideally in Krishna Paksha",
+        "direction": "Face West",
+        "asana": "Black or dark-blue woollen seat",
+        "pujaSamagri": ["Sesame (til) oil lamp", "Black sesame seeds", "Blue/black flowers", "Iron item", "Mustard oil"],
+        "pujaModes": {
+          "minimal": "108 japa of the name mantra facing west on Saturday",
+          "medium": "108 japa + sesame-oil lamp + offering to the needy",
+          "full": "Sankalpa of 23,000 over 40 days with daily til-oil lamp, Saturday Shani puja, and anna-daan"
+        },
+        "guruDiksha": { "level": "ideal", "note": "The simple name mantra needs no initiation; the tantric bija is best taken under a qualified guru." },
+        "deityImageOrIdol": "Image of Shani Dev (dark complexion, holding a staff, mounted on a crow or buffalo)",
+        "dosAndDonts": {
+          "dos": ["Begin on a Saturday", "Maintain truthfulness and humility", "Serve the elderly and the poor"],
+          "donts": ["Do not chant with anger or to harm another", "Avoid breaking the count midway without sankalpa", "Do not skip the daily practice once a vow is taken"]
+        }
+      },
+      "relatedStotraSlugs": ["shani-chalisa", "shani-stotram-dasharatha", "navagraha-stotra"],
+      "relatedDeitySlug": "shani",
+      "faqs": [
+        { "question": "What is the Shani beej mantra?", "answer": "The Shani beej (seed) mantra is \"Om Praam Preem Praum Sah Shanaischaraya Namah\", recorded in the Mantra Mahodadhi. A simpler Vedic form is \"Om Shanaischaraya Namah\"." },
+        { "question": "How many times should the Shani mantra be chanted?", "answer": "Traditionally 108 times daily, building to a sankalpa of 23,000 repetitions over 40 days for Saturn-related observances." },
+        { "question": "Which day is best for the Shani mantra?", "answer": "Saturday (Shanivar), the weekday ruled by Saturn, traditionally begun in the waning fortnight (Krishna Paksha) and chanted facing west." }
+      ],
+      "createdAt": "2026-05-31",
+      "updatedAt": "2026-05-31"
+    },
+    {
+      "slug": "surya",
+      "type": "planet",
+      "name": { "en": "Surya (Sun)", "hi": "सूर्य", "iast": "Sūrya" },
+      "alsoKnownAs": ["Surya Dev", "Sun mantra", "surya beej mantra", "aditya mantra", "surya mantra in hindi"],
+      "whatIs": "Surya is the one deity you can see. The Vedas call the Sun pratyaksha devata — God made visible — and the Surya mantra carries that directness. Where other planets work in shadow, the Sun governs what stands in plain light: health, confidence, the spine, the father, the right to lead. Its tantric seed form in the Mantra Mahodadhi is \"Om Hraam Hreem Hraum Sah Suryaya Namah\". The classic way to practise is at first light, facing east, pouring an arghya of water from a copper vessel toward the rising disc. The same lineage gives us the Aditya Hridayam and the Gayatri; copper, wheat and red flowers belong to it.",
+      "keyFacts": [
+        { "label": "Planet", "value": "Sun (Surya)" },
+        { "label": "Best day", "value": "Sunday (Ravivar)" },
+        { "label": "Direction", "value": "East" },
+        { "label": "Recommended japa", "value": "7,000 (full sankalpa)" },
+        { "label": "Mala", "value": "Ruby/red-coral or rudraksha, 108 beads" },
+        { "label": "Primary source", "value": "Mantra Mahodadhi" }
+      ],
+      "entity": { "name": "Surya", "wikipedia": "https://en.wikipedia.org/wiki/Surya", "wikidata": "https://www.wikidata.org/wiki/Q193276" },
+      "mantras": [
+        {
+          "textDevanagari": "ॐ ह्रां ह्रीं ह्रौं सः सूर्याय नमः",
+          "transliteration": "Om Hraam Hreem Hraum Sah Suryaya Namah",
+          "kind": "bija",
+          "lineage": "Mantra Mahodadhi bija (tantric)",
+          "source": "Mantra Mahodadhi of Mahidhara",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The tantric seed mantra of the Sun; Hraam-Hreem-Hraum with 'Sah' invoke Surya's life-giving radiance.",
+          "hindiExplanation": "सूर्य का तांत्रिक बीज मंत्र; ह्रां-ह्रीं-ह्रौं बीजाक्षर सूर्य की प्राणदायिनी ऊर्जा का आवाहन करते हैं।"
+        },
+        {
+          "textDevanagari": "ॐ सूर्याय नमः",
+          "transliteration": "Om Suryaya Namah",
+          "kind": "naam",
+          "lineage": "Vedic name + shakti",
+          "source": "Vedic planetary mantra tradition",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The simple Vedic name mantra of the Sun, recited at sunrise; needs no initiation."
+        },
+        {
+          "textDevanagari": "ॐ भास्कराय विद्महे महाद्युतिकराय धीमहि तन्नो आदित्यः प्रचोदयात्",
+          "transliteration": "Om Bhaskaraya Vidmahe Mahadyutikaraya Dhimahi Tanno Adityah Prachodayat",
+          "kind": "gayatri",
+          "lineage": "Navagraha Gayatri",
+          "source": "Surya Gayatri tradition",
+          "authenticity": "variable by tradition",
+          "englishExplanation": "The 24-syllable Gayatri-metre invocation of the Sun."
+        }
+      ],
+      "vidhi": {
+        "benefits": [
+          "Traditionally chanted for vitality, radiant health, and immunity",
+          "Strengthens confidence, leadership, and authority",
+          "Associated with relief from eye, heart, and bone ailments when the Sun is weak",
+          "Supports a strong, well-placed Sun in the birth chart"
+        ],
+        "impact": "Surya is the karaka of soul, vitality and authority. Sunrise japa with Arghya is traditionally held to invigorate body and will.",
+        "japaCount": { "minPerDay": 108, "recommended": 108, "totalSankalpa": 7000 },
+        "mala": { "type": "Ruby, red-coral or rudraksha mala", "beads": 108, "why": "Red and copper tones are associated with the Sun" },
+        "durationDays": { "minimum": 40, "recommended": 40 },
+        "bestTime": "Sunrise (Brahma Muhurta to early morning), during Surya hora",
+        "bestDayToStart": "Sunday (Ravivar), ideally Shukla Paksha or Ratha Saptami",
+        "direction": "Face East toward the rising sun",
+        "asana": "Red or copper-coloured woollen seat",
+        "pujaSamagri": ["Copper vessel for Arghya", "Red flowers", "Jaggery/wheat", "Ghee lamp", "Roli (red kumkum)"],
+        "pujaModes": {
+          "minimal": "108 japa of the name mantra at sunrise facing east, with water Arghya",
+          "medium": "108 japa + copper-vessel Arghya + red-flower offering",
+          "full": "Sankalpa of 7,000 over 40 days with daily sunrise Arghya and Aditya Hridayam recitation"
+        },
+        "guruDiksha": { "level": "ideal", "note": "Name mantra and Arghya need no initiation; the bija is best taken from a guru." },
+        "deityImageOrIdol": "Image of Surya Dev on a seven-horse chariot driven by Aruna",
+        "dosAndDonts": {
+          "dos": ["Chant at sunrise facing east", "Offer Arghya with a copper vessel", "Maintain cleanliness and a sattvic diet"],
+          "donts": ["Do not chant after sunset for solar practice", "Avoid offering Arghya with the water splashing on the feet", "Do not skip the daily Arghya once vowed"]
+        }
+      },
+      "relatedStotraSlugs": ["aditya-hridayam", "surya-kavacham", "surya-ashtakam", "surya-chalisa"],
+      "relatedDeitySlug": "surya",
+      "faqs": [
+        { "question": "What is the Surya beej mantra?", "answer": "The Surya beej (seed) mantra is \"Om Hraam Hreem Hraum Sah Suryaya Namah\" from the Mantra Mahodadhi. The simple Vedic form is \"Om Suryaya Namah\"." },
+        { "question": "When should the Surya mantra be chanted?", "answer": "At sunrise, facing east, ideally on a Sunday, accompanied by Arghya (a water offering to the rising sun)." },
+        { "question": "How many times should the Surya mantra be chanted?", "answer": "Traditionally 108 times daily, building toward a sankalpa of 7,000 repetitions over 40 days." }
+      ],
+      "createdAt": "2026-05-31",
+      "updatedAt": "2026-05-31"
+    },
+    {
+      "slug": "mangal",
+      "type": "planet",
+      "name": { "en": "Mangal (Mars)", "hi": "मङ्गल", "iast": "Maṅgala" },
+      "alsoKnownAs": ["Mangal Dev", "Mars mantra", "mangal beej mantra", "bhauma mantra", "kuja mantra", "mangal mantra for manglik"],
+      "whatIs": "Ask anyone arranging a Hindu marriage what they check first, and the answer is often Mangal — whether the chart is 'manglik'. That single worry sends more people to the Mars mantra than any other reason. Mangal is the army commander of the planets: raw drive, courage, blood, land, the energy of a younger brother. Handled well it builds stamina and nerve; handled badly it spills into temper and accidents. The Mantra Mahodadhi gives the seed form \"Om Kraam Kreem Kraum Sah Bhaumaya Namah\". Tuesday is its day, south its direction, and Hanuman — himself the calmer of Mars — its constant companion in worship, alongside red coral and masoor dal.",
+      "keyFacts": [
+        { "label": "Planet", "value": "Mars (Mangal / Kuja / Bhauma)" },
+        { "label": "Best day", "value": "Tuesday (Mangalvar)" },
+        { "label": "Direction", "value": "South" },
+        { "label": "Recommended japa", "value": "10,000 (full sankalpa)" },
+        { "label": "Mala", "value": "Red coral or rudraksha, 108 beads" },
+        { "label": "Primary source", "value": "Mantra Mahodadhi" }
+      ],
+      "entity": { "name": "Mangala", "wikipedia": "https://en.wikipedia.org/wiki/Mangala", "wikidata": "https://www.wikidata.org/wiki/Q842432" },
+      "mantras": [
+        {
+          "textDevanagari": "ॐ क्रां क्रीं क्रौं सः भौमाय नमः",
+          "transliteration": "Om Kraam Kreem Kraum Sah Bhaumaya Namah",
+          "kind": "bija",
+          "lineage": "Mantra Mahodadhi bija (tantric)",
+          "source": "Mantra Mahodadhi of Mahidhara",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The tantric seed mantra of Mars; Kraam-Kreem-Kraum with 'Sah' invoke Mangal's courageous energy.",
+          "hindiExplanation": "मंगल का तांत्रिक बीज मंत्र; क्रां-क्रीं-क्रौं बीजाक्षर मंगल की साहसिक ऊर्जा का आवाहन करते हैं।"
+        },
+        {
+          "textDevanagari": "ॐ भौमाय नमः",
+          "transliteration": "Om Bhaumaya Namah",
+          "kind": "naam",
+          "lineage": "Vedic name + shakti",
+          "source": "Vedic planetary mantra tradition",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The simple Vedic name mantra of Mars (Bhauma, the son of the Earth)."
+        },
+        {
+          "textDevanagari": "ॐ अङ्गारकाय विद्महे शक्तिहस्ताय धीमहि तन्नो भौमः प्रचोदयात्",
+          "transliteration": "Om Angarakaya Vidmahe Shaktihastaya Dhimahi Tanno Bhaumah Prachodayat",
+          "kind": "gayatri",
+          "lineage": "Navagraha Gayatri",
+          "source": "Mangal Gayatri tradition",
+          "authenticity": "variable by tradition",
+          "englishExplanation": "The 24-syllable Gayatri-metre invocation of Mars (Angaraka, the ember-hued one)."
+        }
+      ],
+      "vidhi": {
+        "benefits": [
+          "Traditionally chanted to address Mangal dosha (manglik) before marriage",
+          "Builds courage, stamina, drive, and decisiveness",
+          "Associated with relief from conflict, accidents, and blood-related issues when Mars is afflicted",
+          "Channels Mars's aggression into disciplined action"
+        ],
+        "impact": "Mangal is the karaka of energy and courage. Tuesday japa, often alongside Hanuman worship, is traditionally held to temper and direct Mars's force.",
+        "japaCount": { "minPerDay": 108, "recommended": 108, "totalSankalpa": 10000 },
+        "mala": { "type": "Red coral or rudraksha mala", "beads": 108, "why": "Red coral is the gemstone of Mars" },
+        "durationDays": { "minimum": 40, "recommended": 40 },
+        "bestTime": "Tuesday morning, during Mangal hora",
+        "bestDayToStart": "Tuesday (Mangalvar), ideally Shukla Paksha",
+        "direction": "Face South",
+        "asana": "Red woollen seat",
+        "pujaSamagri": ["Red flowers", "Red sandalwood", "Masoor dal", "Ghee/jaggery", "Red cloth"],
+        "pujaModes": {
+          "minimal": "108 japa of the name mantra facing south on Tuesday",
+          "medium": "108 japa + red-flower offering + Hanuman Chalisa",
+          "full": "Sankalpa of 10,000 over 40 days with Tuesday Mangal/Hanuman puja and red-item daan"
+        },
+        "guruDiksha": { "level": "ideal", "note": "Name mantra is open; the bija is best taken under a guru, especially for dosha remediation." },
+        "deityImageOrIdol": "Image of Mangal Dev (red complexion, four arms) or Hanuman for Mars remedies",
+        "dosAndDonts": {
+          "dos": ["Begin on a Tuesday", "Pair with Hanuman worship", "Direct the energy into constructive effort"],
+          "donts": ["Do not chant in anger or to dominate others", "Avoid non-vegetarian food and alcohol during the vow", "Do not abandon the count midway"]
+        }
+      },
+      "relatedStotraSlugs": ["hanuman-chalisa", "mangal-chalisa", "navagraha-stotra"],
+      "relatedDeitySlug": "hanuman",
+      "faqs": [
+        { "question": "What is the Mangal beej mantra?", "answer": "The Mangal beej (seed) mantra is \"Om Kraam Kreem Kraum Sah Bhaumaya Namah\" from the Mantra Mahodadhi. The simple Vedic form is \"Om Bhaumaya Namah\"." },
+        { "question": "Which mantra is best for Manglik dosha?", "answer": "The Mangal mantra chanted on Tuesdays, traditionally combined with Hanuman worship (Hanuman Chalisa), is the classical observance for Mangal (manglik) dosha. Consult an astrologer for chart-specific guidance." },
+        { "question": "Which day and direction for the Mangal mantra?", "answer": "Tuesday (Mangalvar), facing south, the day and direction associated with Mars." }
+      ],
+      "createdAt": "2026-05-31",
+      "updatedAt": "2026-05-31"
+    },
+    {
+      "slug": "chandra",
+      "type": "planet",
+      "name": { "en": "Chandra (Moon)", "hi": "चन्द्र", "iast": "Candra" },
+      "alsoKnownAs": ["Chandra Dev", "Moon mantra", "chandra beej mantra", "soma mantra", "chandra mantra in hindi"],
+      "whatIs": "In Jyotish the Moon rules the manas — the feeling, reacting mind — which is why a troubled Chandra shows up as anxiety, restlessness, and nights without sleep long before it shows up anywhere else. The Chandra mantra is the traditional steadying hand. It is also the mantra of the mother, of water, of everything that nourishes. The Mantra Mahodadhi records the seed form \"Om Shraam Shreem Shraum Sah Chandraya Namah\". Monday belongs to it; so does Shiva, who wears the crescent on his head. Begin in the waxing fortnight when the Moon is gaining strength, keep the offerings white — rice, milk, pearl — and let the practice be unhurried.",
+      "keyFacts": [
+        { "label": "Planet", "value": "Moon (Chandra / Soma)" },
+        { "label": "Best day", "value": "Monday (Somvar)" },
+        { "label": "Direction", "value": "North-West" },
+        { "label": "Recommended japa", "value": "11,000 (full sankalpa)" },
+        { "label": "Mala", "value": "Pearl or rudraksha, 108 beads" },
+        { "label": "Primary source", "value": "Mantra Mahodadhi" }
+      ],
+      "entity": { "name": "Chandra", "wikipedia": "https://en.wikipedia.org/wiki/Chandra", "wikidata": "https://www.wikidata.org/wiki/Q193539" },
+      "mantras": [
+        {
+          "textDevanagari": "ॐ श्रां श्रीं श्रौं सः चन्द्राय नमः",
+          "transliteration": "Om Shraam Shreem Shraum Sah Chandraya Namah",
+          "kind": "bija",
+          "lineage": "Mantra Mahodadhi bija (tantric)",
+          "source": "Mantra Mahodadhi of Mahidhara",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The tantric seed mantra of the Moon; Shraam-Shreem-Shraum with 'Sah' invoke Chandra's calming, nourishing grace.",
+          "hindiExplanation": "चन्द्र का तांत्रिक बीज मंत्र; श्रां-श्रीं-श्रौं बीजाक्षर चन्द्र की शीतल, पोषक कृपा का आवाहन करते हैं।"
+        },
+        {
+          "textDevanagari": "ॐ चन्द्राय नमः",
+          "transliteration": "Om Chandraya Namah",
+          "kind": "naam",
+          "lineage": "Vedic name + shakti",
+          "source": "Vedic planetary mantra tradition",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The simple Vedic name mantra of the Moon; suitable for daily practice without initiation."
+        },
+        {
+          "textDevanagari": "ॐ क्षीरपुत्राय विद्महे अमृततत्त्वाय धीमहि तन्नो चन्द्रः प्रचोदयात्",
+          "transliteration": "Om Kshiraputraya Vidmahe Amritatattvaya Dhimahi Tanno Chandrah Prachodayat",
+          "kind": "gayatri",
+          "lineage": "Navagraha Gayatri",
+          "source": "Chandra Gayatri tradition",
+          "authenticity": "variable by tradition",
+          "englishExplanation": "The 24-syllable Gayatri-metre invocation of the Moon (born of the milk-ocean)."
+        }
+      ],
+      "vidhi": {
+        "benefits": [
+          "Traditionally chanted to calm the mind and ease anxiety and mood swings",
+          "Strengthens emotional stability and intuition",
+          "Associated with a strong bond with the mother and domestic peace",
+          "Supports a weak or afflicted Moon in the birth chart"
+        ],
+        "impact": "Chandra is the karaka of the mind. Monday japa is traditionally held to steady the emotions and bring inner calm.",
+        "japaCount": { "minPerDay": 108, "recommended": 108, "totalSankalpa": 11000 },
+        "mala": { "type": "Pearl or rudraksha mala", "beads": 108, "why": "Pearl and the colour white are associated with the Moon" },
+        "durationDays": { "minimum": 40, "recommended": 40 },
+        "bestTime": "Monday evening, during Chandra hora",
+        "bestDayToStart": "Monday (Somvar), ideally Shukla Paksha (waxing moon)",
+        "direction": "Face North-West",
+        "asana": "White woollen seat",
+        "pujaSamagri": ["White flowers", "Rice (akshat)", "Milk", "Ghee lamp", "White sandalwood"],
+        "pujaModes": {
+          "minimal": "108 japa of the name mantra facing north-west on Monday",
+          "medium": "108 japa + white-flower and milk offering",
+          "full": "Sankalpa of 11,000 over 40 days with Monday Chandra/Shiva puja, beginning in the waxing fortnight"
+        },
+        "guruDiksha": { "level": "ideal", "note": "The name mantra is open to all; the bija is best taken under a qualified guru." },
+        "deityImageOrIdol": "Image of Chandra Dev (white complexion) on a chariot drawn by white horses or antelopes",
+        "dosAndDonts": {
+          "dos": ["Begin on a Monday in the waxing moon", "Keep the mind calm and the diet sattvic", "Offer white flowers and milk"],
+          "donts": ["Do not chant in agitation", "Avoid starting during a waning/dark moon for strengthening work", "Do not break a vowed count midway"]
+        }
+      },
+      "relatedStotraSlugs": ["chandra-kavacham", "navagraha-stotra", "shiva-chalisa"],
+      "relatedDeitySlug": "shiva",
+      "faqs": [
+        { "question": "What is the Chandra beej mantra?", "answer": "The Chandra beej (seed) mantra is \"Om Shraam Shreem Shraum Sah Chandraya Namah\" from the Mantra Mahodadhi. The simple Vedic form is \"Om Chandraya Namah\"." },
+        { "question": "Which day is best for the Chandra mantra?", "answer": "Monday (Somvar), the weekday ruled by the Moon, ideally begun in the waxing fortnight (Shukla Paksha)." },
+        { "question": "What is the Chandra mantra used for?", "answer": "It is traditionally chanted to calm the mind, ease emotional turbulence, and strengthen a weak Moon in the horoscope." }
+      ],
+      "createdAt": "2026-05-31",
+      "updatedAt": "2026-05-31"
+    },
+    {
+      "slug": "budha",
+      "type": "planet",
+      "name": { "en": "Budha (Mercury)", "hi": "बुध", "iast": "Budha" },
+      "alsoKnownAs": ["Budh Dev", "Mercury mantra", "budha beej mantra", "budh mantra in hindi"],
+      "whatIs": "Students before exams, traders before a deal, anyone who lives by words — these are the people who turn to Budha. Mercury is the quick intelligence of the chart: memory, calculation, speech, the knack for a good bargain. When it is strong, learning comes easily and the tongue finds the right words; when it falters, focus scatters. The seed form in the Mantra Mahodadhi is \"Om Braam Breem Braum Sah Budhaya Namah\". Wednesday is Mercury's day and Ganesha — remover of obstacles before any new study or venture — shares it. Green is its colour: green gram, tulsi beads, an emerald if you can.",
+      "keyFacts": [
+        { "label": "Planet", "value": "Mercury (Budha)" },
+        { "label": "Best day", "value": "Wednesday (Budhvar)" },
+        { "label": "Direction", "value": "North" },
+        { "label": "Recommended japa", "value": "9,000 (full sankalpa)" },
+        { "label": "Mala", "value": "Emerald or tulsi, 108 beads" },
+        { "label": "Primary source", "value": "Mantra Mahodadhi" }
+      ],
+      "entity": { "name": "Budha", "wikipedia": "https://en.wikipedia.org/wiki/Budha", "wikidata": "https://www.wikidata.org/wiki/Q1052930" },
+      "mantras": [
+        {
+          "textDevanagari": "ॐ ब्रां ब्रीं ब्रौं सः बुधाय नमः",
+          "transliteration": "Om Braam Breem Braum Sah Budhaya Namah",
+          "kind": "bija",
+          "lineage": "Mantra Mahodadhi bija (tantric)",
+          "source": "Mantra Mahodadhi of Mahidhara",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The tantric seed mantra of Mercury; Braam-Breem-Braum with 'Sah' invoke Budha's sharp intellect.",
+          "hindiExplanation": "बुध का तांत्रिक बीज मंत्र; ब्रां-ब्रीं-ब्रौं बीजाक्षर बुध की कुशाग्र बुद्धि का आवाहन करते हैं।"
+        },
+        {
+          "textDevanagari": "ॐ बुधाय नमः",
+          "transliteration": "Om Budhaya Namah",
+          "kind": "naam",
+          "lineage": "Vedic name + shakti",
+          "source": "Vedic planetary mantra tradition",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The simple Vedic name mantra of Mercury; suitable for daily practice."
+        },
+        {
+          "textDevanagari": "ॐ गजध्वजाय विद्महे सुखहस्ताय धीमहि तन्नो बुधः प्रचोदयात्",
+          "transliteration": "Om Gajadhwajaya Vidmahe Sukhahastaya Dhimahi Tanno Budhah Prachodayat",
+          "kind": "gayatri",
+          "lineage": "Navagraha Gayatri",
+          "source": "Budha Gayatri tradition",
+          "authenticity": "variable by tradition",
+          "englishExplanation": "The 24-syllable Gayatri-metre invocation of Mercury."
+        }
+      ],
+      "vidhi": {
+        "benefits": [
+          "Traditionally chanted to sharpen intellect, memory, and analytical skill",
+          "Improves communication, speech, and business acumen",
+          "Especially favoured by students, writers, and traders",
+          "Supports a weak or afflicted Mercury in the birth chart"
+        ],
+        "impact": "Budha is the karaka of intellect and speech. Wednesday japa is traditionally held to clarify thought and expression.",
+        "japaCount": { "minPerDay": 108, "recommended": 108, "totalSankalpa": 9000 },
+        "mala": { "type": "Emerald or tulsi mala", "beads": 108, "why": "Green and emerald are associated with Mercury" },
+        "durationDays": { "minimum": 40, "recommended": 40 },
+        "bestTime": "Wednesday morning, during Budha hora",
+        "bestDayToStart": "Wednesday (Budhvar), ideally Shukla Paksha",
+        "direction": "Face North",
+        "asana": "Green woollen seat",
+        "pujaSamagri": ["Green flowers", "Green gram (moong)", "Tulsi leaves", "Ghee lamp", "Green cloth"],
+        "pujaModes": {
+          "minimal": "108 japa of the name mantra facing north on Wednesday",
+          "medium": "108 japa + green-flower and moong offering",
+          "full": "Sankalpa of 9,000 over 40 days with Wednesday Budha/Vishnu puja and green-item daan"
+        },
+        "guruDiksha": { "level": "ideal", "note": "The name mantra is open; the bija is best taken under a qualified guru." },
+        "deityImageOrIdol": "Image of Budha Dev (green complexion, four arms) on a lion-drawn chariot",
+        "dosAndDonts": {
+          "dos": ["Begin on a Wednesday", "Maintain clarity and truthful speech", "Support students and education"],
+          "donts": ["Do not chant carelessly or hurriedly", "Avoid deceit during the vow", "Do not abandon the count midway"]
+        }
+      },
+      "relatedStotraSlugs": ["navagraha-stotra", "vishnu-sahasranama"],
+      "relatedDeitySlug": "vishnu",
+      "faqs": [
+        { "question": "What is the Budha beej mantra?", "answer": "The Budha beej (seed) mantra is \"Om Braam Breem Braum Sah Budhaya Namah\" from the Mantra Mahodadhi. The simple Vedic form is \"Om Budhaya Namah\"." },
+        { "question": "Which day is best for the Budha mantra?", "answer": "Wednesday (Budhvar), the weekday ruled by Mercury, chanted facing north." },
+        { "question": "What is the Budha mantra used for?", "answer": "It is traditionally chanted for intellect, memory, communication, and success in studies and business." }
+      ],
+      "createdAt": "2026-05-31",
+      "updatedAt": "2026-05-31"
+    },
+    {
+      "slug": "guru",
+      "type": "planet",
+      "name": { "en": "Guru / Brihaspati (Jupiter)", "hi": "गुरु / बृहस्पति", "iast": "Guru / Bṛhaspati" },
+      "alsoKnownAs": ["Brihaspati", "Jupiter mantra", "guru beej mantra", "brihaspati mantra", "guru mantra in hindi"],
+      "whatIs": "Brihaspati teaches the gods themselves — the title Devaguru says it plainly. Of all the planets, Jupiter is the one tradition treats as a benefactor first and a force second: it expands whatever it touches, which is why astrologers watch it for wisdom, wealth, children, and the timing of marriage. A strong Guru in the chart is often described as a quiet protector. The Mantra Mahodadhi gives the seed form \"Om Graam Greem Graum Sah Gurave Namah\". Thursday is its day, the north-east its corner, yellow its signature — turmeric, gram dal, a yellow sapphire — and Vishnu the deity most often invoked alongside it.",
+      "keyFacts": [
+        { "label": "Planet", "value": "Jupiter (Guru / Brihaspati)" },
+        { "label": "Best day", "value": "Thursday (Guruvar)" },
+        { "label": "Direction", "value": "North-East" },
+        { "label": "Recommended japa", "value": "19,000 (full sankalpa)" },
+        { "label": "Mala", "value": "Yellow sapphire or rudraksha, 108 beads" },
+        { "label": "Primary source", "value": "Mantra Mahodadhi" }
+      ],
+      "entity": { "name": "Brihaspati", "wikipedia": "https://en.wikipedia.org/wiki/Brihaspati", "wikidata": "https://www.wikidata.org/wiki/Q845127" },
+      "mantras": [
+        {
+          "textDevanagari": "ॐ ग्रां ग्रीं ग्रौं सः गुरवे नमः",
+          "transliteration": "Om Graam Greem Graum Sah Gurave Namah",
+          "kind": "bija",
+          "lineage": "Mantra Mahodadhi bija (tantric)",
+          "source": "Mantra Mahodadhi of Mahidhara",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The tantric seed mantra of Jupiter; Graam-Greem-Graum with 'Sah' invoke Brihaspati's wisdom and grace.",
+          "hindiExplanation": "गुरु का तांत्रिक बीज मंत्र; ग्रां-ग्रीं-ग्रौं बीजाक्षर बृहस्पति की प्रज्ञा एवं कृपा का आवाहन करते हैं।"
+        },
+        {
+          "textDevanagari": "ॐ गुरवे नमः",
+          "transliteration": "Om Gurave Namah",
+          "kind": "naam",
+          "lineage": "Vedic name + shakti",
+          "source": "Vedic planetary mantra tradition",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The simple Vedic name mantra of Jupiter, the preceptor; suitable for daily practice."
+        },
+        {
+          "textDevanagari": "ॐ वृषभध्वजाय विद्महे गृणिहस्ताय धीमहि तन्नो गुरुः प्रचोदयात्",
+          "transliteration": "Om Vrishabhadhwajaya Vidmahe Grinihastaya Dhimahi Tanno Guruh Prachodayat",
+          "kind": "gayatri",
+          "lineage": "Navagraha Gayatri",
+          "source": "Guru/Brihaspati Gayatri tradition",
+          "authenticity": "variable by tradition",
+          "englishExplanation": "The 24-syllable Gayatri-metre invocation of Jupiter."
+        }
+      ],
+      "vidhi": {
+        "benefits": [
+          "Traditionally chanted for wisdom, right guidance, and dharmic clarity",
+          "Supports success in education, knowledge, and progeny",
+          "Associated with timely marriage and financial expansion",
+          "Strengthens a weak or afflicted Jupiter in the birth chart"
+        ],
+        "impact": "Brihaspati is the karaka of wisdom and fortune. Thursday japa is traditionally held to attract guidance, growth, and grace.",
+        "japaCount": { "minPerDay": 108, "recommended": 108, "totalSankalpa": 19000 },
+        "mala": { "type": "Yellow sapphire or rudraksha mala", "beads": 108, "why": "Yellow and gold are associated with Jupiter" },
+        "durationDays": { "minimum": 40, "recommended": 40 },
+        "bestTime": "Thursday morning, during Guru hora",
+        "bestDayToStart": "Thursday (Guruvar), ideally Shukla Paksha",
+        "direction": "Face North-East",
+        "asana": "Yellow woollen seat",
+        "pujaSamagri": ["Yellow flowers", "Chana dal (gram)", "Turmeric", "Ghee lamp", "Yellow cloth"],
+        "pujaModes": {
+          "minimal": "108 japa of the name mantra facing north-east on Thursday",
+          "medium": "108 japa + yellow-flower and gram offering",
+          "full": "Sankalpa of 19,000 over 40 days with Thursday Brihaspati/Vishnu puja and yellow-item daan"
+        },
+        "guruDiksha": { "level": "ideal", "note": "The name mantra is open; the bija is best taken under a qualified guru." },
+        "deityImageOrIdol": "Image of Brihaspati (golden-yellow complexion, four arms, holding a staff and rosary)",
+        "dosAndDonts": {
+          "dos": ["Begin on a Thursday", "Honour teachers and elders", "Offer yellow flowers and gram"],
+          "donts": ["Do not chant disrespectfully", "Avoid non-vegetarian food during the vow", "Do not break a vowed count midway"]
+        }
+      },
+      "relatedStotraSlugs": ["navagraha-stotra", "vishnu-sahasranama", "guru-stotram"],
+      "relatedDeitySlug": "vishnu",
+      "faqs": [
+        { "question": "What is the Guru (Brihaspati) beej mantra?", "answer": "The Guru beej (seed) mantra is \"Om Graam Greem Graum Sah Gurave Namah\" from the Mantra Mahodadhi. The simple Vedic form is \"Om Gurave Namah\"." },
+        { "question": "Which day is best for the Brihaspati mantra?", "answer": "Thursday (Guruvar), the weekday ruled by Jupiter, chanted facing north-east." },
+        { "question": "What is the Guru mantra used for?", "answer": "It is traditionally chanted for wisdom, education, progeny, marriage, and prosperity, and to strengthen Jupiter in the chart." }
+      ],
+      "createdAt": "2026-05-31",
+      "updatedAt": "2026-05-31"
+    },
+    {
+      "slug": "shukra",
+      "type": "planet",
+      "name": { "en": "Shukra (Venus)", "hi": "शुक्र", "iast": "Śukra" },
+      "alsoKnownAs": ["Shukra Dev", "Venus mantra", "shukra beej mantra", "shukra mantra in hindi"],
+      "whatIs": "There is a neat symmetry in the heavens: Jupiter guides the gods, and Shukra guides the asuras. That makes Venus the planet of everything the world finds desirable — love, beauty, art, comfort, the pleasures of married life. Astrologers read it for the quality of a marriage and the ease of a home. The seed form in the Mantra Mahodadhi is \"Om Draam Dreem Draum Sah Shukraya Namah\". Friday carries it, and so does the Goddess in her Lakshmi form. Keep it white and sweet — rice, sugar, kheer, a crystal mala — and begin, as with all Venus work, in the waxing fortnight.",
+      "keyFacts": [
+        { "label": "Planet", "value": "Venus (Shukra)" },
+        { "label": "Best day", "value": "Friday (Shukravar)" },
+        { "label": "Direction", "value": "South-East" },
+        { "label": "Recommended japa", "value": "16,000 (full sankalpa)" },
+        { "label": "Mala", "value": "Crystal (sphatika) or diamond-substitute, 108 beads" },
+        { "label": "Primary source", "value": "Mantra Mahodadhi" }
+      ],
+      "entity": { "name": "Shukra", "wikipedia": "https://en.wikipedia.org/wiki/Shukra", "wikidata": "https://www.wikidata.org/wiki/Q1051847" },
+      "mantras": [
+        {
+          "textDevanagari": "ॐ द्रां द्रीं द्रौं सः शुक्राय नमः",
+          "transliteration": "Om Draam Dreem Draum Sah Shukraya Namah",
+          "kind": "bija",
+          "lineage": "Mantra Mahodadhi bija (tantric)",
+          "source": "Mantra Mahodadhi of Mahidhara",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The tantric seed mantra of Venus; Draam-Dreem-Draum with 'Sah' invoke Shukra's grace of love and harmony.",
+          "hindiExplanation": "शुक्र का तांत्रिक बीज मंत्र; द्रां-द्रीं-द्रौं बीजाक्षर शुक्र की प्रेम एवं सौहार्द की कृपा का आवाहन करते हैं।"
+        },
+        {
+          "textDevanagari": "ॐ शुक्राय नमः",
+          "transliteration": "Om Shukraya Namah",
+          "kind": "naam",
+          "lineage": "Vedic name + shakti",
+          "source": "Vedic planetary mantra tradition",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The simple Vedic name mantra of Venus; suitable for daily practice."
+        },
+        {
+          "textDevanagari": "ॐ अश्वध्वजाय विद्महे धनुर्हस्ताय धीमहि तन्नो शुक्रः प्रचोदयात्",
+          "transliteration": "Om Ashwadhwajaya Vidmahe Dhanurhastaya Dhimahi Tanno Shukrah Prachodayat",
+          "kind": "gayatri",
+          "lineage": "Navagraha Gayatri",
+          "source": "Shukra Gayatri tradition",
+          "authenticity": "variable by tradition",
+          "englishExplanation": "The 24-syllable Gayatri-metre invocation of Venus."
+        }
+      ],
+      "vidhi": {
+        "benefits": [
+          "Traditionally chanted for harmony in marriage and relationships",
+          "Supports artistic talent, beauty, and refinement",
+          "Associated with comfort, luxury, and material prosperity",
+          "Strengthens a weak or afflicted Venus in the birth chart"
+        ],
+        "impact": "Shukra is the karaka of love and comfort. Friday japa is traditionally held to bring harmony, beauty, and ease into life.",
+        "japaCount": { "minPerDay": 108, "recommended": 108, "totalSankalpa": 16000 },
+        "mala": { "type": "Crystal (sphatika) mala", "beads": 108, "why": "White and crystalline tones are associated with Venus" },
+        "durationDays": { "minimum": 40, "recommended": 40 },
+        "bestTime": "Friday morning, during Shukra hora",
+        "bestDayToStart": "Friday (Shukravar), ideally Shukla Paksha",
+        "direction": "Face South-East",
+        "asana": "White or silver woollen seat",
+        "pujaSamagri": ["White flowers", "Rice", "Sugar or kheer", "Ghee lamp", "White cloth"],
+        "pujaModes": {
+          "minimal": "108 japa of the name mantra facing south-east on Friday",
+          "medium": "108 japa + white-flower and sweet offering",
+          "full": "Sankalpa of 16,000 over 40 days with Friday Shukra/Lakshmi puja and white-item daan"
+        },
+        "guruDiksha": { "level": "ideal", "note": "The name mantra is open; the bija is best taken under a qualified guru." },
+        "deityImageOrIdol": "Image of Shukra Dev (white complexion, four arms) on a chariot or white horse",
+        "dosAndDonts": {
+          "dos": ["Begin on a Friday", "Cultivate harmony and gratitude", "Offer white flowers and sweets"],
+          "donts": ["Do not chant with indulgent or harmful intent", "Avoid quarrels during the vow", "Do not break a vowed count midway"]
+        }
+      },
+      "relatedStotraSlugs": ["navagraha-stotra", "lakshmi-chalisa", "mahalakshmi-ashtakam"],
+      "relatedDeitySlug": "lakshmi",
+      "faqs": [
+        { "question": "What is the Shukra beej mantra?", "answer": "The Shukra beej (seed) mantra is \"Om Draam Dreem Draum Sah Shukraya Namah\" from the Mantra Mahodadhi. The simple Vedic form is \"Om Shukraya Namah\"." },
+        { "question": "Which day is best for the Shukra mantra?", "answer": "Friday (Shukravar), the weekday ruled by Venus, chanted facing south-east." },
+        { "question": "What is the Shukra mantra used for?", "answer": "It is traditionally chanted for love, marital harmony, artistic ability, comfort, and to strengthen a weak Venus." }
+      ],
+      "createdAt": "2026-05-31",
+      "updatedAt": "2026-05-31"
+    },
+    {
+      "slug": "rahu",
+      "type": "planet",
+      "name": { "en": "Rahu (North Lunar Node)", "hi": "राहु", "iast": "Rāhu" },
+      "alsoKnownAs": ["Rahu Dev", "Rahu mantra", "rahu beej mantra", "rahu mantra in hindi", "rahu shanti mantra"],
+      "whatIs": "Rahu is not a planet you can point to. It is the severed head of an asura who stole a sip of the gods' nectar — a shadow point (chhaya graha) where the Moon's path crosses the Sun's, the place eclipses are born. In a chart it reads as hunger: ambition, obsession, the pull of foreign and unconventional things, sudden rises and sudden falls. People reach for its mantra when a Rahu mahadasha turns life confusing. The Mantra Mahodadhi gives the seed form \"Om Bhraam Bhreem Bhraum Sah Rahave Namah\". One honest caveat: classical Parashari astrology gives Rahu no sign of its own to rule. Durga is its guardian deity; do its bija only under a teacher.",
+      "keyFacts": [
+        { "label": "Graha", "value": "North Node (Rahu, chhaya graha)" },
+        { "label": "Best day", "value": "Saturday (also Rahu kaal)" },
+        { "label": "Direction", "value": "South-West" },
+        { "label": "Recommended japa", "value": "18,000 (full sankalpa)" },
+        { "label": "Mala", "value": "Hessonite (gomed) or rudraksha, 108 beads" },
+        { "label": "Primary source", "value": "Mantra Mahodadhi" }
+      ],
+      "entity": { "name": "Rahu", "wikipedia": "https://en.wikipedia.org/wiki/Rahu", "wikidata": "https://www.wikidata.org/wiki/Q830387" },
+      "mantras": [
+        {
+          "textDevanagari": "ॐ भ्रां भ्रीं भ्रौं सः राहवे नमः",
+          "transliteration": "Om Bhraam Bhreem Bhraum Sah Rahave Namah",
+          "kind": "bija",
+          "lineage": "Mantra Mahodadhi bija (tantric)",
+          "source": "Mantra Mahodadhi of Mahidhara",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The tantric seed mantra of Rahu; Bhraam-Bhreem-Bhraum with 'Sah' invoke Rahu's grace to steady desire and avert sudden harm.",
+          "hindiExplanation": "राहु का तांत्रिक बीज मंत्र; भ्रां-भ्रीं-भ्रौं बीजाक्षर राहु की कृपा का आवाहन करते हैं जो इच्छाओं को स्थिर करती है।"
+        },
+        {
+          "textDevanagari": "ॐ राहवे नमः",
+          "transliteration": "Om Rahave Namah",
+          "kind": "naam",
+          "lineage": "Vedic name + shakti",
+          "source": "Vedic planetary mantra tradition",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The simple Vedic name mantra of Rahu; suitable for daily practice."
+        },
+        {
+          "textDevanagari": "ॐ नाकध्वजाय विद्महे पद्महस्ताय धीमहि तन्नो राहुः प्रचोदयात्",
+          "transliteration": "Om Nakadhwajaya Vidmahe Padmahastaya Dhimahi Tanno Rahuh Prachodayat",
+          "kind": "gayatri",
+          "lineage": "Navagraha Gayatri",
+          "source": "Rahu Gayatri tradition",
+          "authenticity": "variable by tradition",
+          "englishExplanation": "The 24-syllable Gayatri-metre invocation of Rahu."
+        }
+      ],
+      "vidhi": {
+        "benefits": [
+          "Traditionally chanted to steady the mind during a Rahu mahadasha or antardasha",
+          "Associated with relief from confusion, fear, and sudden upheaval",
+          "Helps channel ambition and unconventional drive wisely",
+          "Chanted for protection from hidden enemies and deceit when Rahu is afflicted"
+        ],
+        "impact": "Rahu is a shadow graha of desire and disruption. Its japa is traditionally held to calm restlessness and avert sudden, unforeseen difficulty rather than to grant material gain directly.",
+        "japaCount": { "minPerDay": 108, "recommended": 108, "totalSankalpa": 18000 },
+        "mala": { "type": "Hessonite (gomed) or rudraksha mala", "beads": 108, "why": "Hessonite is the gemstone of Rahu" },
+        "durationDays": { "minimum": 40, "recommended": 40 },
+        "bestTime": "Saturday, or during Rahu kaal",
+        "bestDayToStart": "Saturday, often in Krishna Paksha",
+        "direction": "Face South-West",
+        "asana": "Grey or dark woollen seat",
+        "pujaSamagri": ["Blue/smoky flowers", "Urad dal", "Mustard oil lamp", "Coconut", "Grey or multicoloured cloth"],
+        "pujaModes": {
+          "minimal": "108 japa of the name mantra facing south-west on Saturday",
+          "medium": "108 japa + urad-dal offering and mustard-oil lamp",
+          "full": "Sankalpa of 18,000 over 40 days with Saturday Rahu puja, Durga worship, and urad/coconut daan"
+        },
+        "guruDiksha": { "level": "necessary", "note": "Rahu is a powerful shadow graha; its bija practice is best undertaken only under a qualified guru's guidance." },
+        "deityImageOrIdol": "Image of Rahu (smoky complexion, half-body on a lion or chariot drawn by eight horses); Goddess Durga is the presiding deity for Rahu remedies",
+        "dosAndDonts": {
+          "dos": ["Take guidance from a qualified guru before bija practice", "Pair with Durga worship", "Maintain humility and steadiness"],
+          "donts": ["Do not attempt the tantric bija casually without initiation", "Avoid deceit and shortcuts during the vow", "Do not break a vowed count midway"]
+        }
+      },
+      "relatedStotraSlugs": ["navagraha-stotra", "durga-kavach", "durga-chalisa"],
+      "relatedDeitySlug": "durga",
+      "faqs": [
+        { "question": "What is the Rahu beej mantra?", "answer": "The Rahu beej (seed) mantra is \"Om Bhraam Bhreem Bhraum Sah Rahave Namah\" from the Mantra Mahodadhi. The simple Vedic form is \"Om Rahave Namah\"." },
+        { "question": "Does Rahu rule any zodiac sign?", "answer": "No. In classical Brihat Parashara Hora Shastra, Rahu (a shadow node) has no sign rulership; some modern astrologers associate it with Aquarius by convention, but this is not classical." },
+        { "question": "When should the Rahu mantra be chanted?", "answer": "On Saturdays or during Rahu kaal, facing south-west, traditionally alongside Durga worship and ideally under a guru's guidance." }
+      ],
+      "createdAt": "2026-05-31",
+      "updatedAt": "2026-05-31"
+    },
+    {
+      "slug": "ketu",
+      "type": "planet",
+      "name": { "en": "Ketu (South Lunar Node)", "hi": "केतु", "iast": "Ketu" },
+      "alsoKnownAs": ["Ketu Dev", "Ketu mantra", "ketu beej mantra", "ketu mantra in hindi", "ketu shanti mantra"],
+      "whatIs": "If Rahu is the asura's head that craves, Ketu is the tail that lets go. It is the other half of the same severed body — a shadow point with no appetite for the world at all. Astrologers tie it to detachment, sudden spiritual insight, old karma surfacing, and the kind of ailment doctors struggle to name. A Ketu period can feel like the floor quietly dropping away; its mantra is meant to bring clarity rather than gain. The Mantra Mahodadhi gives the seed form \"Om Sraam Sreem Sraum Sah Ketave Namah\". Like Rahu it rules no zodiac sign in classical Parashari texts. Ganesha is its presiding deity, and its bija, too, is best taken from a guru.",
+      "keyFacts": [
+        { "label": "Graha", "value": "South Node (Ketu, chhaya graha)" },
+        { "label": "Best day", "value": "Tuesday (also Ketu period)" },
+        { "label": "Direction", "value": "South" },
+        { "label": "Recommended japa", "value": "17,000 (full sankalpa)" },
+        { "label": "Mala", "value": "Cat's eye (lehsunia) or rudraksha, 108 beads" },
+        { "label": "Primary source", "value": "Mantra Mahodadhi" }
+      ],
+      "entity": { "name": "Ketu", "wikipedia": "https://en.wikipedia.org/wiki/Ketu_(mythology)", "wikidata": "https://www.wikidata.org/wiki/Q830394" },
+      "mantras": [
+        {
+          "textDevanagari": "ॐ स्रां स्रीं स्रौं सः केतवे नमः",
+          "transliteration": "Om Sraam Sreem Sraum Sah Ketave Namah",
+          "kind": "bija",
+          "lineage": "Mantra Mahodadhi bija (tantric)",
+          "source": "Mantra Mahodadhi of Mahidhara",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The tantric seed mantra of Ketu; Sraam-Sreem-Sraum with 'Sah' invoke Ketu's grace of insight and detachment.",
+          "hindiExplanation": "केतु का तांत्रिक बीज मंत्र; स्रां-स्रीं-स्रौं बीजाक्षर केतु की अंतर्दृष्टि एवं वैराग्य की कृपा का आवाहन करते हैं।"
+        },
+        {
+          "textDevanagari": "ॐ केतवे नमः",
+          "transliteration": "Om Ketave Namah",
+          "kind": "naam",
+          "lineage": "Vedic name + shakti",
+          "source": "Vedic planetary mantra tradition",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The simple Vedic name mantra of Ketu; suitable for daily practice."
+        },
+        {
+          "textDevanagari": "ॐ अश्वध्वजाय विद्महे शूलहस्ताय धीमहि तन्नो केतुः प्रचोदयात्",
+          "transliteration": "Om Ashwadhwajaya Vidmahe Shulahastaya Dhimahi Tanno Ketuh Prachodayat",
+          "kind": "gayatri",
+          "lineage": "Navagraha Gayatri",
+          "source": "Ketu Gayatri tradition",
+          "authenticity": "variable by tradition",
+          "englishExplanation": "The 24-syllable Gayatri-metre invocation of Ketu."
+        }
+      ],
+      "vidhi": {
+        "benefits": [
+          "Traditionally chanted to ease the disorientation of a Ketu mahadasha or antardasha",
+          "Supports spiritual insight, detachment, and progress toward moksha",
+          "Associated with relief from mysterious ailments and unexplained obstacles",
+          "Chanted to resolve past-life karmic patterns when Ketu is afflicted"
+        ],
+        "impact": "Ketu is a shadow graha of detachment and liberation. Its japa is traditionally held to calm confusion and deepen spiritual clarity rather than to grant worldly gain.",
+        "japaCount": { "minPerDay": 108, "recommended": 108, "totalSankalpa": 17000 },
+        "mala": { "type": "Cat's eye (lehsunia) or rudraksha mala", "beads": 108, "why": "Cat's eye is the gemstone of Ketu" },
+        "durationDays": { "minimum": 40, "recommended": 40 },
+        "bestTime": "Tuesday, or during a Ketu period",
+        "bestDayToStart": "Tuesday, often in Krishna Paksha",
+        "direction": "Face South",
+        "asana": "Grey or multicoloured woollen seat",
+        "pujaSamagri": ["Multicoloured flowers", "Sesame (til)", "Mustard oil lamp", "Coconut", "Grey or multicoloured cloth"],
+        "pujaModes": {
+          "minimal": "108 japa of the name mantra facing south on Tuesday",
+          "medium": "108 japa + sesame offering and oil lamp",
+          "full": "Sankalpa of 17,000 over 40 days with Ketu puja, Ganesha worship, and til/coconut daan"
+        },
+        "guruDiksha": { "level": "necessary", "note": "Ketu is a powerful shadow graha; its bija practice is best undertaken only under a qualified guru's guidance." },
+        "deityImageOrIdol": "Image of Ketu (smoky/grey complexion, banner of a flag, mounted on a vulture); Lord Ganesha is the presiding deity for Ketu remedies",
+        "dosAndDonts": {
+          "dos": ["Take guidance from a qualified guru before bija practice", "Pair with Ganesha worship", "Cultivate detachment and inner steadiness"],
+          "donts": ["Do not attempt the tantric bija casually without initiation", "Avoid attachment-driven motives during the vow", "Do not break a vowed count midway"]
+        }
+      },
+      "relatedStotraSlugs": ["navagraha-stotra", "ganesh-chalisa", "ganpati-atharvashirsha"],
+      "relatedDeitySlug": "ganesha",
+      "faqs": [
+        { "question": "What is the Ketu beej mantra?", "answer": "The Ketu beej (seed) mantra is \"Om Sraam Sreem Sraum Sah Ketave Namah\" from the Mantra Mahodadhi. The simple Vedic form is \"Om Ketave Namah\"." },
+        { "question": "Does Ketu rule any zodiac sign?", "answer": "No. In classical Brihat Parashara Hora Shastra, Ketu (a shadow node) has no sign rulership; some modern astrologers associate it with Scorpio by convention, but this is not classical." },
+        { "question": "What is the Ketu mantra used for?", "answer": "It is traditionally chanted for spiritual insight and detachment, to ease a difficult Ketu period, and to relieve unexplained obstacles, ideally alongside Ganesha worship." }
+      ],
+      "createdAt": "2026-05-31",
+      "updatedAt": "2026-05-31"
+    }
+  ]
+}

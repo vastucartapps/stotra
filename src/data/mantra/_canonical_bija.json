@@ -1,0 +1,60 @@
+{
+  "_note": "CANONICAL VERIFIED ANCHOR — Navagraha bija (seed) mantras. Source: Mantra Mahodadhi of Mahidhara (16th c.), the standard tantric compendium; cross-checked against DrikPanchang Navagraha Mantras. The 'Hraam Hreem Hraum Sah' bija family is the most widely attested set. A SECOND authentic lineage (Vedic name/shakti mantras) is recorded separately in _canonical_bija_vedic.json. NEVER merge the two lineages. This file is the validation source-of-truth: every /mantra/planet/* page's bija must byte-match the entry here.",
+  "lineage": "Mantra Mahodadhi bija (tantric)",
+  "planets": {
+    "surya": {
+      "en": "Surya (Sun)",
+      "hi": "सूर्य",
+      "bija_iast": "Om Hraam Hreem Hraum Sah Suryaya Namah",
+      "bija_devanagari": "ॐ ह्रां ह्रीं ह्रौं सः सूर्याय नमः"
+    },
+    "chandra": {
+      "en": "Chandra (Moon)",
+      "hi": "चन्द्र",
+      "bija_iast": "Om Shraam Shreem Shraum Sah Chandraya Namah",
+      "bija_devanagari": "ॐ श्रां श्रीं श्रौं सः चन्द्राय नमः"
+    },
+    "mangal": {
+      "en": "Mangal (Mars)",
+      "hi": "मङ्गल",
+      "bija_iast": "Om Kraam Kreem Kraum Sah Bhaumaya Namah",
+      "bija_devanagari": "ॐ क्रां क्रीं क्रौं सः भौमाय नमः"
+    },
+    "budha": {
+      "en": "Budha (Mercury)",
+      "hi": "बुध",
+      "bija_iast": "Om Braam Breem Braum Sah Budhaya Namah",
+      "bija_devanagari": "ॐ ब्रां ब्रीं ब्रौं सः बुधाय नमः"
+    },
+    "guru": {
+      "en": "Guru / Brihaspati (Jupiter)",
+      "hi": "गुरु / बृहस्पति",
+      "bija_iast": "Om Graam Greem Graum Sah Gurave Namah",
+      "bija_devanagari": "ॐ ग्रां ग्रीं ग्रौं सः गुरवे नमः"
+    },
+    "shukra": {
+      "en": "Shukra (Venus)",
+      "hi": "शुक्र",
+      "bija_iast": "Om Draam Dreem Draum Sah Shukraya Namah",
+      "bija_devanagari": "ॐ द्रां द्रीं द्रौं सः शुक्राय नमः"
+    },
+    "shani": {
+      "en": "Shani (Saturn)",
+      "hi": "शनि",
+      "bija_iast": "Om Praam Preem Praum Sah Shanaischaraya Namah",
+      "bija_devanagari": "ॐ प्रां प्रीं प्रौं सः शनैश्चराय नमः"
+    },
+    "rahu": {
+      "en": "Rahu (North Node)",
+      "hi": "राहु",
+      "bija_iast": "Om Bhraam Bhreem Bhraum Sah Rahave Namah",
+      "bija_devanagari": "ॐ भ्रां भ्रीं भ्रौं सः राहवे नमः"
+    },
+    "ketu": {
+      "en": "Ketu (South Node)",
+      "hi": "केतु",
+      "bija_iast": "Om Sraam Sreem Sraum Sah Ketave Namah",
+      "bija_devanagari": "ॐ स्रां स्रीं स्रौं सः केतवे नमः"
+    }
+  }
+}

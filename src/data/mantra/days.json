@@ -1,0 +1,358 @@
+{
+  "_note": "Weekday (vara) mantra pages. Weekday→planet is [confirmed classical] (Surya Siddhanta vara order). Weekday→deity is [variable by tradition]. Each day's primary mantra references the ruling planet's name mantra (see planets.json / _canonical_bija_vedic.json) plus the presiding deity's salutation. Devanagari is homoglyph-gated by validate_mantra.mjs.",
+  "days": [
+    {
+      "slug": "sunday",
+      "type": "day",
+      "name": { "en": "Sunday (Ravivar)", "hi": "रविवार", "iast": "Ravivāra" },
+      "alsoKnownAs": ["Ravivar", "Sunday mantra", "ravivar mantra", "sunday vrat mantra"],
+      "whatIs": "The week begins, fittingly, with the Sun. Ravivar belongs to Surya, and tradition turns it toward everything the Sun governs — health, vitality, and standing in the world. Many keep a Ravivar vrat with a single saltless meal, and recite the Surya mantra \"Om Suryaya Namah\" at first light, facing east. By regional custom the day also honours Vishnu in his Surya-Narayana form. If you are starting solar practice, this is the day to start it.",
+      "keyFacts": [
+        { "label": "Ruling planet", "value": "Surya (Sun) — classical" },
+        { "label": "Presiding deity", "value": "Surya / Vishnu — by tradition" },
+        { "label": "Direction", "value": "East" },
+        { "label": "Colour", "value": "Red / copper" },
+        { "label": "Vrat custom", "value": "Single meal, avoid salt" }
+      ],
+      "entity": { "name": "Surya", "wikipedia": "https://en.wikipedia.org/wiki/Surya", "wikidata": "https://www.wikidata.org/wiki/Q193276" },
+      "mantras": [
+        {
+          "textDevanagari": "ॐ सूर्याय नमः",
+          "transliteration": "Om Suryaya Namah",
+          "kind": "naam",
+          "lineage": "Vedic name + shakti",
+          "source": "Vedic planetary mantra tradition; vara = Surya Siddhanta",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The name mantra of the Sun, the ruler of Sunday; recited at sunrise facing east."
+        }
+      ],
+      "vidhi": {
+        "benefits": ["Traditionally chanted for vitality, health, and confidence", "Favoured for matters of authority and self-discipline"],
+        "impact": "Sunday practice aligns the week's start with solar significations — vigour and clarity of purpose.",
+        "japaCount": { "minPerDay": 108, "recommended": 108 },
+        "bestTime": "Sunrise",
+        "direction": "Face East",
+        "pujaModes": { "minimal": "108 japa of Om Suryaya Namah at sunrise with water Arghya", "medium": "Japa + Aditya Hridayam recitation", "full": "Ravivar vrat with Surya puja and Aditya Hridayam" },
+        "guruDiksha": { "level": "not-required", "note": "The name mantra is open to all." }
+      },
+      "relatedStotraSlugs": ["aditya-hridayam", "surya-kavacham", "ravivar-vrat-katha"],
+      "relatedDeitySlug": "surya",
+      "links": [{ "label": "Surya planet mantra (full vidhi)", "url": "/mantra/planet/surya", "rel": "internal" }],
+      "faqs": [
+        { "question": "Which mantra is chanted on Sunday?", "answer": "The Surya (Sun) mantra \"Om Suryaya Namah\", since Sunday (Ravivar) is ruled by the Sun. It is chanted at sunrise facing east." },
+        { "question": "Which god is worshipped on Sunday?", "answer": "Surya the Sun-god is the classical ruler of Sunday; by regional tradition, forms of Vishnu and Surya-Narayana are also worshipped." }
+      ],
+      "createdAt": "2026-05-31",
+      "updatedAt": "2026-05-31"
+    },
+    {
+      "slug": "monday",
+      "type": "day",
+      "name": { "en": "Monday (Somvar)", "hi": "सोमवार", "iast": "Somavāra" },
+      "alsoKnownAs": ["Somvar", "Monday mantra", "somvar mantra", "monday shiva mantra", "somvar vrat mantra"],
+      "whatIs": "Ask any devotee which day belongs to Shiva and the answer is instant: Monday. The vara is ruled by the Moon, which Shiva wears on his brow, and that link makes Somvar one of the busiest days in the Hindu week — Shravan Mondays and the Solah Somvar vrat fill temples across the country. Some chant the Moon mantra \"Om Chandraya Namah\" for a calm mind; most chant \"Om Namah Shivaya\". The day leans toward peace, the emotions, and devotion.",
+      "keyFacts": [
+        { "label": "Ruling planet", "value": "Chandra (Moon) — classical" },
+        { "label": "Presiding deity", "value": "Shiva — by tradition" },
+        { "label": "Direction", "value": "North-West" },
+        { "label": "Colour", "value": "White" },
+        { "label": "Vrat custom", "value": "Solah Somvar, Shravan Mondays" }
+      ],
+      "entity": { "name": "Chandra", "wikipedia": "https://en.wikipedia.org/wiki/Chandra", "wikidata": "https://www.wikidata.org/wiki/Q193539" },
+      "mantras": [
+        {
+          "textDevanagari": "ॐ चन्द्राय नमः",
+          "transliteration": "Om Chandraya Namah",
+          "kind": "naam",
+          "lineage": "Vedic name + shakti",
+          "source": "Vedic planetary mantra tradition; vara = Surya Siddhanta",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The name mantra of the Moon, the ruler of Monday; chanted for calm of mind."
+        },
+        {
+          "textDevanagari": "ॐ नमः शिवाय",
+          "transliteration": "Om Namah Shivaya",
+          "kind": "naam",
+          "lineage": "Shaiva Panchakshara",
+          "source": "Krishna Yajurveda, Shri Rudram (Namakam)",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The five-syllable mantra of Shiva, the presiding deity of Monday worship."
+        }
+      ],
+      "vidhi": {
+        "benefits": ["Traditionally chanted for peace of mind and emotional balance", "Favoured for Shiva devotion, marriage, and well-being"],
+        "impact": "Monday practice steadies the mind (Moon) and invokes Shiva's grace.",
+        "japaCount": { "minPerDay": 108, "recommended": 108 },
+        "bestTime": "Morning or pradosh",
+        "direction": "Face North-West (Moon) or North-East (Shiva)",
+        "pujaModes": { "minimal": "108 japa of Om Namah Shivaya", "medium": "Japa + jalabhishek of the Shiva linga", "full": "Somvar vrat with Rudrabhishek and Shiva Chalisa" },
+        "guruDiksha": { "level": "not-required", "note": "Both name mantras are open to all." }
+      },
+      "relatedStotraSlugs": ["shiv-tandav-stotram", "shiva-chalisa", "lingashtakam", "somvar-vrat-katha"],
+      "relatedDeitySlug": "shiva",
+      "links": [{ "label": "Chandra planet mantra (full vidhi)", "url": "/mantra/planet/chandra", "rel": "internal" }],
+      "faqs": [
+        { "question": "Which mantra is chanted on Monday?", "answer": "Monday (Somvar) is ruled by the Moon, so \"Om Chandraya Namah\" is chanted for the planet; most devotees also chant Shiva's \"Om Namah Shivaya\", as Monday is Shiva's day." },
+        { "question": "Why is Monday dedicated to Shiva?", "answer": "By long tradition Monday is Shiva's day; the Moon (which rules Monday) adorns Shiva's head, linking the planet and the deity. Shravan Mondays and Solah Somvar vrats are especially observed." }
+      ],
+      "createdAt": "2026-05-31",
+      "updatedAt": "2026-05-31"
+    },
+    {
+      "slug": "tuesday",
+      "type": "day",
+      "name": { "en": "Tuesday (Mangalvar)", "hi": "मङ्गलवार", "iast": "Maṅgalavāra" },
+      "alsoKnownAs": ["Mangalvar", "Tuesday mantra", "mangalvar mantra", "tuesday hanuman mantra"],
+      "whatIs": "Tuesday is Hanuman's day, and the temples show it — queues for the Hanuman Chalisa, red flags, offerings of boondi and sindoor. The vara is ruled by Mars, planet of courage and conflict, and Hanuman is the one who masters that force, which is why Mangalvar is also the day to address manglik dosha. Chant the Mars mantra \"Om Bhaumaya Namah\", or turn to Hanuman directly. In some regions Devi and Kartikeya share the day. Its themes: strength, protection, nerve.",
+      "keyFacts": [
+        { "label": "Ruling planet", "value": "Mangal (Mars) — classical" },
+        { "label": "Presiding deity", "value": "Hanuman (also Devi/Kartikeya) — by tradition" },
+        { "label": "Direction", "value": "South" },
+        { "label": "Colour", "value": "Red" },
+        { "label": "Vrat custom", "value": "Tuesday Hanuman vrat" }
+      ],
+      "entity": { "name": "Mangala", "wikipedia": "https://en.wikipedia.org/wiki/Mangala", "wikidata": "https://www.wikidata.org/wiki/Q842432" },
+      "mantras": [
+        {
+          "textDevanagari": "ॐ भौमाय नमः",
+          "transliteration": "Om Bhaumaya Namah",
+          "kind": "naam",
+          "lineage": "Vedic name + shakti",
+          "source": "Vedic planetary mantra tradition; vara = Surya Siddhanta",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The name mantra of Mars, the ruler of Tuesday; chanted for courage and energy."
+        },
+        {
+          "textDevanagari": "ॐ हं हनुमते नमः",
+          "transliteration": "Om Ham Hanumate Namah",
+          "kind": "bija",
+          "lineage": "Hanuman bija",
+          "source": "Hanuman upasana tradition",
+          "authenticity": "variable by tradition",
+          "englishExplanation": "A widely-used Hanuman seed mantra for Tuesday, the day of Hanuman worship."
+        }
+      ],
+      "vidhi": {
+        "benefits": ["Traditionally chanted for courage, strength, and protection", "Favoured for Hanuman devotion and Mangal-dosha remedies"],
+        "impact": "Tuesday practice channels Mars's energy and invokes Hanuman's protection.",
+        "japaCount": { "minPerDay": 108, "recommended": 108 },
+        "bestTime": "Morning",
+        "direction": "Face South",
+        "pujaModes": { "minimal": "Hanuman Chalisa once", "medium": "Hanuman Chalisa + 108 japa", "full": "Tuesday vrat with Sundarkand and Hanuman puja" },
+        "guruDiksha": { "level": "not-required", "note": "Name mantra and Hanuman Chalisa are open to all." }
+      },
+      "relatedStotraSlugs": ["hanuman-chalisa", "bajrang-baan", "sankat-mochan-hanuman-ashtak", "mangalvar-vrat-katha"],
+      "relatedDeitySlug": "hanuman",
+      "links": [{ "label": "Mangal planet mantra (full vidhi)", "url": "/mantra/planet/mangal", "rel": "internal" }],
+      "faqs": [
+        { "question": "Which mantra is chanted on Tuesday?", "answer": "Tuesday (Mangalvar) is ruled by Mars, so \"Om Bhaumaya Namah\" is chanted; most devotees also recite the Hanuman Chalisa and Hanuman mantra, as Tuesday is Hanuman's day." },
+        { "question": "Why is Tuesday dedicated to Hanuman?", "answer": "Hanuman embodies the courage and strength signified by Mars, the ruler of Tuesday; the day is the principal weekly observance for Hanuman across North India." }
+      ],
+      "createdAt": "2026-05-31",
+      "updatedAt": "2026-05-31"
+    },
+    {
+      "slug": "wednesday",
+      "type": "day",
+      "name": { "en": "Wednesday (Budhvar)", "hi": "बुधवार", "iast": "Budhavāra" },
+      "alsoKnownAs": ["Budhvar", "Wednesday mantra", "budhvar mantra", "wednesday ganesha mantra"],
+      "whatIs": "Wednesday sits quietly in the middle of the week, and its character is much the same — clever, adaptable, good for getting things done. The vara belongs to Mercury, planet of intellect and trade, and to Ganesha, the remover of obstacles invoked before any new beginning. Chant the Mercury mantra \"Om Budhaya Namah\" for a sharp mind, or Ganesha's \"Om Gam Ganapataye Namah\". Students, writers and traders find Budhvar especially their own; the Vaishnava tradition also gives it to Krishna.",
+      "keyFacts": [
+        { "label": "Ruling planet", "value": "Budha (Mercury) — classical" },
+        { "label": "Presiding deity", "value": "Ganesha / Vishnu — by tradition" },
+        { "label": "Direction", "value": "North" },
+        { "label": "Colour", "value": "Green" },
+        { "label": "Vrat custom", "value": "Budhvar vrat for harmony" }
+      ],
+      "entity": { "name": "Budha", "wikipedia": "https://en.wikipedia.org/wiki/Budha", "wikidata": "https://www.wikidata.org/wiki/Q1052930" },
+      "mantras": [
+        {
+          "textDevanagari": "ॐ बुधाय नमः",
+          "transliteration": "Om Budhaya Namah",
+          "kind": "naam",
+          "lineage": "Vedic name + shakti",
+          "source": "Vedic planetary mantra tradition; vara = Surya Siddhanta",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The name mantra of Mercury, the ruler of Wednesday; chanted for intellect and speech."
+        },
+        {
+          "textDevanagari": "ॐ गं गणपतये नमः",
+          "transliteration": "Om Gam Ganapataye Namah",
+          "kind": "bija",
+          "lineage": "Ganapati bija",
+          "source": "Ganapati upasana; Ganapati Atharvashirsha tradition",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The seed mantra of Ganesha, presiding deity of Wednesday, invoked to remove obstacles."
+        }
+      ],
+      "vidhi": {
+        "benefits": ["Traditionally chanted for intellect, learning, and communication", "Favoured for Ganesha worship and the removal of obstacles"],
+        "impact": "Wednesday practice sharpens Mercury's intellect and invokes Ganesha's grace before new ventures.",
+        "japaCount": { "minPerDay": 108, "recommended": 108 },
+        "bestTime": "Morning",
+        "direction": "Face North",
+        "pujaModes": { "minimal": "108 japa of Om Gam Ganapataye Namah", "medium": "Japa + Ganesha Chalisa", "full": "Budhvar vrat with Ganapati Atharvashirsha" },
+        "guruDiksha": { "level": "not-required", "note": "Both mantras are open to all." }
+      },
+      "relatedStotraSlugs": ["ganesh-atharvashirsha", "ganesh-chalisa", "sankat-nashan-ganesh-stotra"],
+      "relatedDeitySlug": "ganesha",
+      "links": [{ "label": "Budha planet mantra (full vidhi)", "url": "/mantra/planet/budha", "rel": "internal" }],
+      "faqs": [
+        { "question": "Which mantra is chanted on Wednesday?", "answer": "Wednesday (Budhvar) is ruled by Mercury, so \"Om Budhaya Namah\" is chanted; many devotees also chant Ganesha's \"Om Gam Ganapataye Namah\", as Wednesday is Ganesha's day." },
+        { "question": "Which god is worshipped on Wednesday?", "answer": "Ganesha is the most widely worshipped deity on Wednesday; the Vaishnava tradition also dedicates the day to Vishnu and Krishna." }
+      ],
+      "createdAt": "2026-05-31",
+      "updatedAt": "2026-05-31"
+    },
+    {
+      "slug": "thursday",
+      "type": "day",
+      "name": { "en": "Thursday (Guruvar)", "hi": "गुरुवार", "iast": "Guruvāra" },
+      "alsoKnownAs": ["Guruvar", "Brihaspativar", "Thursday mantra", "guruvar mantra", "thursday vishnu mantra"],
+      "whatIs": "Guruvar carries the name of the teacher. The day belongs to Brihaspati — Jupiter, preceptor of the gods — and so it gathers everything Jupiter blesses: wisdom, learning, children, the timing of a marriage, the slow growth of fortune. Yellow is its colour; turmeric and gram its offerings. Devotees chant the Jupiter mantra \"Om Gurave Namah\", or Vishnu's \"Om Namo Bhagavate Vasudevaya\", and in their own lineages honour Dattatreya or Sai Baba. A day for guidance over haste.",
+      "keyFacts": [
+        { "label": "Ruling planet", "value": "Guru / Brihaspati (Jupiter) — classical" },
+        { "label": "Presiding deity", "value": "Vishnu / Dattatreya — by tradition" },
+        { "label": "Direction", "value": "North-East" },
+        { "label": "Colour", "value": "Yellow" },
+        { "label": "Vrat custom", "value": "Guruvar vrat, yellow offerings" }
+      ],
+      "entity": { "name": "Brihaspati", "wikipedia": "https://en.wikipedia.org/wiki/Brihaspati", "wikidata": "https://www.wikidata.org/wiki/Q845127" },
+      "mantras": [
+        {
+          "textDevanagari": "ॐ गुरवे नमः",
+          "transliteration": "Om Gurave Namah",
+          "kind": "naam",
+          "lineage": "Vedic name + shakti",
+          "source": "Vedic planetary mantra tradition; vara = Surya Siddhanta",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The name mantra of Jupiter, the ruler of Thursday; chanted for wisdom and fortune."
+        },
+        {
+          "textDevanagari": "ॐ नमो भगवते वासुदेवाय",
+          "transliteration": "Om Namo Bhagavate Vasudevaya",
+          "kind": "naam",
+          "lineage": "Vaishnava Dwadashakshara",
+          "source": "Bhagavata Purana; Vishnu upasana",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The twelve-syllable mantra of Vishnu, presiding deity of Thursday."
+        }
+      ],
+      "vidhi": {
+        "benefits": ["Traditionally chanted for wisdom, education, and prosperity", "Favoured for Vishnu devotion, marriage, and progeny"],
+        "impact": "Thursday practice draws Jupiter's wisdom and Vishnu's grace for growth and good fortune.",
+        "japaCount": { "minPerDay": 108, "recommended": 108 },
+        "bestTime": "Morning",
+        "direction": "Face North-East",
+        "pujaModes": { "minimal": "108 japa of Om Namo Bhagavate Vasudevaya", "medium": "Japa + Vishnu Sahasranama", "full": "Guruvar vrat with Vishnu/Brihaspati puja and yellow offerings" },
+        "guruDiksha": { "level": "not-required", "note": "Both mantras are open to all." }
+      },
+      "relatedStotraSlugs": ["vishnu-sahasranama", "vishnu-mangalashtakam", "guruvar-vrat-katha"],
+      "relatedDeitySlug": "vishnu",
+      "links": [{ "label": "Guru planet mantra (full vidhi)", "url": "/mantra/planet/guru", "rel": "internal" }],
+      "faqs": [
+        { "question": "Which mantra is chanted on Thursday?", "answer": "Thursday (Guruvar) is ruled by Jupiter, so \"Om Gurave Namah\" is chanted; most devotees also chant Vishnu's \"Om Namo Bhagavate Vasudevaya\", as Thursday is Vishnu's day." },
+        { "question": "Which god is worshipped on Thursday?", "answer": "Vishnu is the most widely worshipped deity on Thursday; Dattatreya and Sai Baba are also venerated in their respective traditions." }
+      ],
+      "createdAt": "2026-05-31",
+      "updatedAt": "2026-05-31"
+    },
+    {
+      "slug": "friday",
+      "type": "day",
+      "name": { "en": "Friday (Shukravar)", "hi": "शुक्रवार", "iast": "Śukravāra" },
+      "alsoKnownAs": ["Shukravar", "Friday mantra", "shukravar mantra", "friday lakshmi mantra", "friday durga mantra"],
+      "whatIs": "Friday belongs to the Goddess. The vara is ruled by Venus — planet of love, beauty and abundance — and households turn it toward Lakshmi for wealth, Santoshi Maa and Durga in their vrat traditions. The Vaibhav Lakshmi vrat falls on this day. Chant the Venus mantra \"Om Shukraya Namah\" for harmony, or Lakshmi's seed mantra \"Om Shreem Mahalakshmyai Namah\". Shukravar favours what makes life sweet: prosperity, marriage, beauty, comfort.",
+      "keyFacts": [
+        { "label": "Ruling planet", "value": "Shukra (Venus) — classical" },
+        { "label": "Presiding deity", "value": "Lakshmi / Durga — by tradition" },
+        { "label": "Direction", "value": "South-East" },
+        { "label": "Colour", "value": "White" },
+        { "label": "Vrat custom", "value": "Santoshi Maa / Vaibhav Lakshmi vrat" }
+      ],
+      "entity": { "name": "Shukra", "wikipedia": "https://en.wikipedia.org/wiki/Shukra", "wikidata": "https://www.wikidata.org/wiki/Q1051847" },
+      "mantras": [
+        {
+          "textDevanagari": "ॐ शुक्राय नमः",
+          "transliteration": "Om Shukraya Namah",
+          "kind": "naam",
+          "lineage": "Vedic name + shakti",
+          "source": "Vedic planetary mantra tradition; vara = Surya Siddhanta",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The name mantra of Venus, the ruler of Friday; chanted for harmony and comfort."
+        },
+        {
+          "textDevanagari": "ॐ श्रीं महालक्ष्म्यै नमः",
+          "transliteration": "Om Shreem Mahalakshmyai Namah",
+          "kind": "bija",
+          "lineage": "Shri / Lakshmi bija",
+          "source": "Lakshmi upasana; Shri Suktam tradition",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The seed mantra of Mahalakshmi, presiding goddess of Friday, invoked for wealth and abundance."
+        }
+      ],
+      "vidhi": {
+        "benefits": ["Traditionally chanted for wealth, harmony, and marital happiness", "Favoured for Lakshmi and Durga worship"],
+        "impact": "Friday practice invokes Venus's grace of harmony and the Goddess's blessings of abundance.",
+        "japaCount": { "minPerDay": 108, "recommended": 108 },
+        "bestTime": "Morning or evening",
+        "direction": "Face South-East",
+        "pujaModes": { "minimal": "108 japa of Om Shreem Mahalakshmyai Namah", "medium": "Japa + Lakshmi Chalisa", "full": "Friday vrat with Shri Suktam and Lakshmi puja" },
+        "guruDiksha": { "level": "not-required", "note": "Both mantras are open to all." }
+      },
+      "relatedStotraSlugs": ["mahalakshmi-ashtakam", "lakshmi-chalisa", "kanakadhara-stotram", "santoshi-mata-vrat-katha"],
+      "relatedDeitySlug": "lakshmi",
+      "links": [{ "label": "Shukra planet mantra (full vidhi)", "url": "/mantra/planet/shukra", "rel": "internal" }],
+      "faqs": [
+        { "question": "Which mantra is chanted on Friday?", "answer": "Friday (Shukravar) is ruled by Venus, so \"Om Shukraya Namah\" is chanted; most devotees also chant Lakshmi's \"Om Shreem Mahalakshmyai Namah\", as Friday is the Goddess's day." },
+        { "question": "Which goddess is worshipped on Friday?", "answer": "Lakshmi (for wealth) is the most widely worshipped on Friday; Durga, Santoshi Maa and other Devi forms are also venerated in their vrat traditions." }
+      ],
+      "createdAt": "2026-05-31",
+      "updatedAt": "2026-05-31"
+    },
+    {
+      "slug": "saturday",
+      "type": "day",
+      "name": { "en": "Saturday (Shanivar)", "hi": "शनिवार", "iast": "Śanivāra" },
+      "alsoKnownAs": ["Shanivar", "Saturday mantra", "shanivar mantra", "saturday shani mantra", "saturday hanuman mantra"],
+      "whatIs": "Saturday is the day people watch most warily, and the most carefully observed. It belongs to Shani — Saturn — and those passing through Sade Sati come to the temple to light a sesame-oil lamp, drop a coin for the needy, and chant \"Om Shanaischaraya Namah\". Hanuman shares Shanivar too, since he is held to soften Saturn's hand. The day rewards exactly what Saturn rewards: patience, honesty, and quiet, steady work rather than shortcuts.",
+      "keyFacts": [
+        { "label": "Ruling planet", "value": "Shani (Saturn) — classical" },
+        { "label": "Presiding deity", "value": "Shani / Hanuman — by tradition" },
+        { "label": "Direction", "value": "West" },
+        { "label": "Colour", "value": "Black / dark blue" },
+        { "label": "Vrat custom", "value": "Shanivar vrat, til-oil lamp" }
+      ],
+      "entity": { "name": "Shani", "wikipedia": "https://en.wikipedia.org/wiki/Shani", "wikidata": "https://www.wikidata.org/wiki/Q610974" },
+      "mantras": [
+        {
+          "textDevanagari": "ॐ शनैश्चराय नमः",
+          "transliteration": "Om Shanaischaraya Namah",
+          "kind": "naam",
+          "lineage": "Vedic name + shakti",
+          "source": "Vedic planetary mantra tradition; vara = Surya Siddhanta",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The name mantra of Saturn, the ruler of Saturday; chanted for patience and relief from hardship."
+        }
+      ],
+      "vidhi": {
+        "benefits": ["Traditionally chanted for relief during Sade Sati and Saturn periods", "Favoured for discipline, patience, and Hanuman worship"],
+        "impact": "Saturday practice steadies the mind under Saturn's trials and invokes Hanuman's protection.",
+        "japaCount": { "minPerDay": 108, "recommended": 108 },
+        "bestTime": "Evening / pradosh",
+        "direction": "Face West",
+        "pujaModes": { "minimal": "108 japa of Om Shanaischaraya Namah + til-oil lamp", "medium": "Japa + Shani Chalisa + Hanuman Chalisa", "full": "Shanivar vrat with Shani puja, til-oil lamp, and anna-daan" },
+        "guruDiksha": { "level": "not-required", "note": "The name mantra is open to all." }
+      },
+      "relatedStotraSlugs": ["shani-chalisa", "hanuman-chalisa", "shanivar-vrat-katha"],
+      "relatedDeitySlug": "shani",
+      "links": [{ "label": "Shani planet mantra (full vidhi)", "url": "/mantra/planet/shani", "rel": "internal" }],
+      "faqs": [
+        { "question": "Which mantra is chanted on Saturday?", "answer": "Saturday (Shanivar) is ruled by Saturn, so \"Om Shanaischaraya Namah\" is chanted; many devotees also recite the Hanuman Chalisa, as Hanuman is held to relieve Saturn's troubles." },
+        { "question": "Which god is worshipped on Saturday?", "answer": "Shani Dev (Saturn) is the principal deity of Saturday; Hanuman is also widely worshipped on this day for protection from Saturn's hardships." }
+      ],
+      "createdAt": "2026-05-31",
+      "updatedAt": "2026-05-31"
+    }
+  ]
+}
