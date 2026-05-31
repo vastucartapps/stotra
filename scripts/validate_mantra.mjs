@@ -41,14 +41,26 @@ for (const p of PLANETS) {
 }
 
 // --- Member data files (planet/day/rashi/nakshatra) cross-checked vs anchors ---
+// Files may be a single record OR a collection wrapper
+// ({ planets:[] } / { days:[] } / { rashis:[] } / { nakshatras:[] }).
 const memberFiles = fs.existsSync(DIR)
   ? fs.readdirSync(DIR).filter((f) => f.endsWith(".json") && !f.startsWith("_"))
   : [];
 
+function recordsOf(obj, f) {
+  for (const key of ["planets", "days", "rashis", "nakshatras", "members"]) {
+    if (Array.isArray(obj[key])) return obj[key].map((r) => [r, `${f}#${r.slug || "?"}`]);
+  }
+  return [[obj, f]]; // single-record file
+}
+
 let memberCount = 0;
-for (const f of memberFiles) {
+const allRecords = [];
+for (const f of memberFiles) allRecords.push(...recordsOf(read(f), f));
+
+for (const [rec, label] of allRecords) {
+  const f = label;
   memberCount++;
-  const rec = read(f);
   ok(rec.slug, `${f}: no slug`);
   ok(rec.type, `${f}: no type`);
   ok(rec.name?.en, `${f}: no name.en`);
