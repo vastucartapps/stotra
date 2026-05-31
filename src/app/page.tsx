@@ -5,6 +5,7 @@ import { PURPOSES } from "@/data/purposes";
 import { ECOSYSTEM_SITES } from "@/data/ecosystem";
 import { getAllStotras, getStotraCountByDeity } from "@/lib/stotras";
 import { getSidebarStotrasByDayMap, getSOTDCalendar } from "@/lib/today-data";
+import { getMantraCount } from "@/lib/mantra";
 import { FAQSection } from "@/components/pages/HomePage";
 import { GitaShlokaCard } from "@/components/pages/GitaShlokaCard";
 import { getGitaVerseOfTheDay } from "@/lib/gita";
@@ -40,6 +41,7 @@ export function generateMetadata(): Metadata {
 
 export default function Home() {
   const allStotras = getAllStotras();
+  const mantraCount = getMantraCount();
   // Trimmed map (6 cards/day × 7 = 42) — homepage card grid renders limit=6 per day.
   // Full map (~1,300 cards) would balloon the homepage HTML to 1.6MB+.
   const byDay = getSidebarStotrasByDayMap(6);
@@ -117,7 +119,7 @@ export default function Home() {
             </div>
             {allStotras.length > 0 && (
               <p className="mt-6 text-sm text-white/40">
-                {allStotras.length} stotras across {DEITIES.length} deities
+                {allStotras.length} stotras + {mantraCount} mantras across {DEITIES.length} deities
               </p>
             )}
           </div>

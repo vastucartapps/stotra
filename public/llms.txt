@@ -43,6 +43,16 @@
 - [Shiv Tandav Stotram](https://stotra.vastucart.in/stotra/shiv-tandav-stotram): Ravana, attributed
 - [Ganesh Atharvashirsha](https://stotra.vastucart.in/stotra/ganesh-atharvashirsha): Atharva Veda
 
+## Mantras (by planet, rashi, nakshatra, day)
+
+Bija (seed), Gayatri, and naam mantras with Sanskrit Devanagari, transliteration, classical source (Mantra Mahodadhi / Brihat Parashara Hora Shastra), and step-by-step vidhi. Lineages (tantric bija vs Vedic name) are shown separately, never merged.
+
+- [All mantras](https://stotra.vastucart.in/mantra)
+- [Planet (Navagraha) mantras](https://stotra.vastucart.in/mantra/planet): 9 — Surya, Chandra, Mangal, Budha, Guru, Shukra, Shani, Rahu, Ketu
+- [Rashi (zodiac) mantras](https://stotra.vastucart.in/mantra/rashi): 12 signs, remedial mantra by ruling planet
+- [Nakshatra (birth star) mantras](https://stotra.vastucart.in/mantra/nakshatra): 27 lunar mansions by Vimshottari lord
+- [Weekday mantras](https://stotra.vastucart.in/mantra/day): 7 days, ruling planet + presiding deity
+
 ## Browse by intent
 
 - [By purpose (wealth, protection, knowledge, etc.)](https://stotra.vastucart.in/purpose)

@@ -8,6 +8,7 @@ const EXPLORE_LINKS = [
   { label: "By Day", href: "/day" },
   { label: "By Festival", href: "/festival" },
   { label: "By Purpose", href: "/purpose" },
+  { label: "Mantras", href: "/mantra" },
   { label: "Today's Stotras", href: "/today" },
   { label: "All Stotras", href: "/stotra" },
   { label: "Search", href: "/search" },
