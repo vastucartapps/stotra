@@ -1,0 +1,15 @@
+{
+  "_note": "CANONICAL VERIFIED ANCHOR — Navagraha Vedic name/shakti mantras. This is the SECOND authentic lineage (distinct from the tantric Mantra Mahodadhi bija set in _canonical_bija.json). Source: widely-taught Vedic planetary mantra tradition (name mantra = simple namaskara; shakti mantra adds the seed). Cross-checked against Vedanet (David Frawley) planetary mantras. NEVER merge with the tantric lineage — present side by side, each labelled.",
+  "lineage": "Vedic name + shakti",
+  "planets": {
+    "surya": { "name_iast": "Om Suryaya Namah", "name_devanagari": "ॐ सूर्याय नमः" },
+    "chandra": { "name_iast": "Om Chandraya Namah", "name_devanagari": "ॐ चन्द्राय नमः" },
+    "mangal": { "name_iast": "Om Bhaumaya Namah", "name_devanagari": "ॐ भौमाय नमः" },
+    "budha": { "name_iast": "Om Budhaya Namah", "name_devanagari": "ॐ बुधाय नमः" },
+    "guru": { "name_iast": "Om Gurave Namah", "name_devanagari": "ॐ गुरवे नमः" },
+    "shukra": { "name_iast": "Om Shukraya Namah", "name_devanagari": "ॐ शुक्राय नमः" },
+    "shani": { "name_iast": "Om Shanaischaraya Namah", "name_devanagari": "ॐ शनैश्चराय नमः" },
+    "rahu": { "name_iast": "Om Rahave Namah", "name_devanagari": "ॐ राहवे नमः" },
+    "ketu": { "name_iast": "Om Ketave Namah", "name_devanagari": "ॐ केतवे नमः" }
+  }
+}

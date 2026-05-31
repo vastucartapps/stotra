@@ -1,0 +1,15 @@
+{
+  "_note": "CANONICAL VERIFIED ANCHOR — Navagraha Gayatri mantras (24-syllable 'Vidmahe ... Dhimahi ... Prachodayat' format). The STRUCTURE is classical (Vedic Gayatri chandas); the planetary epithets are VARIABLE BY TRADITION — multiple valid readings circulate. This file records one widely-used, internally-consistent set, cross-checked against DrikPanchang and Astrobhava Navagraha Gayatri compilations. Pages must label these '[variable by tradition]' and present the bija (from _canonical_bija.json) as the primary, most-attested form.",
+  "format": "Om <epithet1> Vidmahe <epithet2> Dhimahi Tanno <deity> Prachodayat",
+  "planets": {
+    "surya": { "iast": "Om Bhaskaraya Vidmahe Mahadyutikaraya Dhimahi Tanno Adityah Prachodayat", "devanagari": "ॐ भास्कराय विद्महे महाद्युतिकराय धीमहि तन्नो आदित्यः प्रचोदयात्" },
+    "chandra": { "iast": "Om Kshiraputraya Vidmahe Amritatattvaya Dhimahi Tanno Chandrah Prachodayat", "devanagari": "ॐ क्षीरपुत्राय विद्महे अमृตतत्त्वाय धीमहि तन्नो चन्द्रः प्रचोदयात्" },
+    "mangal": { "iast": "Om Angarakaya Vidmahe Shaktihastaya Dhimahi Tanno Bhaumah Prachodayat", "devanagari": "ॐ अङ्गारकाय विद्महे शक्तिहस्ताय धीमहि तन्नो भौमः प्रचोदयात्" },
+    "budha": { "iast": "Om Gajadhwajaya Vidmahe Sukhahastaya Dhimahi Tanno Budhah Prachodayat", "devanagari": "ॐ गजध्वजाय विद्महे सुखहस्ताय धीमहि तन्नो बुधः प्रचोदयात्" },
+    "guru": { "iast": "Om Vrishabhadhwajaya Vidmahe Grinihastaya Dhimahi Tanno Guruh Prachodayat", "devanagari": "ॐ वृषभध्वजाय विद्महे गृणिहस्ताय धीमहि तन्नो गुरुः प्रचोदयात्" },
+    "shukra": { "iast": "Om Ashwadhwajaya Vidmahe Dhanurhastaya Dhimahi Tanno Shukrah Prachodayat", "devanagari": "ॐ अश्वध्वजाय विद्महे धनुर्हस्ताय धीमहि तन्नो शुक्रः प्रचोदयात्" },
+    "shani": { "iast": "Om Kakadhwajaya Vidmahe Khadgahastaya Dhimahi Tanno Mandah Prachodayat", "devanagari": "ॐ काकध्वजाय विद्महे खड्गहस्ताय धीमहि तन्नो मन्दः प्रचोदयात्" },
+    "rahu": { "iast": "Om Nakadhwajaya Vidmahe Padmahastaya Dhimahi Tanno Rahuh Prachodayat", "devanagari": "ॐ नाकध्वजाय विद्महे पद्महस्ताय धीमहि तन्नो राहुः प्रचोदयात्" },
+    "ketu": { "iast": "Om Ashwadhwajaya Vidmahe Shulahastaya Dhimahi Tanno Ketuh Prachodayat", "devanagari": "ॐ अश्वध्वजाय विद्महे शूलहस्ताय धीमहि तन्नो केतुः प्रचोदयात्" }
+  }
+}
