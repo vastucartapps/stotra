@@ -1,9 +1,9 @@
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getMantra, allMantraParams, getMantrasByAxis, MANTRA_AXES } from "@/lib/mantra";
+import { getMantra, allMantraParams, getMantrasByAxis, MANTRA_AXES, buildMantraFaqs } from "@/lib/mantra";
 import type { MantraAxis } from "@/types";
-import { buildMantraPageGraph, buildFaqPageSchema, STOTRA_BASE } from "@/lib/schema";
+import { buildMantraPageGraph } from "@/lib/schema";
 import { siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
 
 const AXES = new Set<string>(MANTRA_AXES.map((a) => a.axis));
@@ -45,9 +45,8 @@ export default async function MantraMemberPage({
   const m = getMantra(axis as MantraAxis, slug);
   if (!m) notFound();
 
-  const path = `/mantra/${axis}/${slug}`;
-  const graph = buildMantraPageGraph(m);
-  const faqSchema = m.faqs && m.faqs.length ? buildFaqPageSchema(m.faqs, `${STOTRA_BASE}${path}`) : null;
+  const faqs = buildMantraFaqs(m);
+  const graph = buildMantraPageGraph(m, faqs);
   const axisMeta = MANTRA_AXES.find((a) => a.axis === axis);
   const siblings = getMantrasByAxis(axis as MantraAxis).filter((s) => s.slug !== slug);
   const reviewed = new Date(m.updatedAt);
@@ -56,9 +55,6 @@ export default async function MantraMemberPage({
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(graph) }} />
-      {faqSchema && (
-        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
-      )}
 
       <div className="bg-cream-dark/50 border-b border-border-light">
         <div className="mx-auto max-w-[1100px] px-4 sm:px-6 lg:px-8 py-3">
@@ -103,9 +99,9 @@ export default async function MantraMemberPage({
             {m.keyFacts.length > 0 && (
               <section className="mb-6">
                 <h2 className="font-serif text-sm font-semibold text-brand uppercase tracking-wider mb-3">Key Facts</h2>
-                <dl className="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 bg-cream-mid/40 rounded-xl p-5 border border-gold/15">
+                <dl className="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 bg-cream-mid rounded-xl p-5 border border-gold/20">
                   {m.keyFacts.map((kf) => (
-                    <div key={kf.label} className="flex justify-between gap-3 text-sm border-b border-border-light/50 py-1">
+                    <div key={kf.label} className="flex justify-between gap-3 text-sm border-b border-border-light/70 py-1">
                       <dt className="text-text-muted">{kf.label}</dt>
                       <dd className="text-text font-medium text-right">{kf.value}</dd>
                     </div>
@@ -118,11 +114,11 @@ export default async function MantraMemberPage({
               <h2 className="font-serif text-xl font-semibold text-brand mb-4">The Mantra{m.mantras.length > 1 ? "s" : ""}</h2>
               <div className="space-y-4">
                 {m.mantras.map((mn, i) => (
-                  <div key={i} className="rounded-xl border border-border-light p-5">
+                  <div key={i} className="rounded-xl border border-gold/25 bg-cream-mid p-5">
                     <div className="flex items-center gap-2 mb-3 flex-wrap">
-                      <span className="text-xs font-medium px-2.5 py-1 rounded-full bg-brand/10 text-brand capitalize">{mn.kind}</span>
+                      <span className="text-xs font-medium px-2.5 py-1 rounded-full bg-brand text-white capitalize">{mn.kind}</span>
                       <span className="text-xs text-text-muted">{mn.lineage}</span>
-                      <span className="text-[10px] uppercase tracking-wide px-2 py-0.5 rounded-full bg-cream-mid text-text-muted">{mn.authenticity}</span>
+                      <span className="text-[10px] uppercase tracking-wide px-2 py-0.5 rounded-full bg-white border border-border-light text-text-muted">{mn.authenticity}</span>
                     </div>
                     <p className="devanagari text-xl text-brand leading-[1.9]">{mn.textDevanagari}</p>
                     <p className="text-sm text-text-light italic mt-2">{mn.transliteration}</p>
@@ -137,7 +133,7 @@ export default async function MantraMemberPage({
             {m.vidhi && (
               <section className="mb-6">
                 <h2 className="font-serif text-xl font-semibold text-brand mb-4">How to Practise (Vidhi)</h2>
-                <div className="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 text-sm">
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 text-sm bg-cream-mid rounded-xl p-5 border border-gold/20">
                   {m.vidhi.bestDayToStart && <Fact label="Best day to begin" value={m.vidhi.bestDayToStart} />}
                   {m.vidhi.bestTime && <Fact label="Best time" value={m.vidhi.bestTime} />}
                   {m.vidhi.direction && <Fact label="Direction" value={m.vidhi.direction} />}
@@ -166,7 +162,7 @@ export default async function MantraMemberPage({
                   <div className="mt-5 grid grid-cols-1 sm:grid-cols-3 gap-3">
                     {(["minimal", "medium", "full"] as const).map((tier) =>
                       m.vidhi?.pujaModes?.[tier] ? (
-                        <div key={tier} className="rounded-xl bg-cream-mid/40 p-4 border border-border-light">
+                        <div key={tier} className="rounded-xl bg-cream-mid p-4 border border-border-light">
                           <p className="text-xs font-semibold text-brand uppercase tracking-wide mb-1">{tier}</p>
                           <p className="text-sm text-text-muted">{m.vidhi.pujaModes[tier]}</p>
                         </div>
@@ -176,11 +172,11 @@ export default async function MantraMemberPage({
                 )}
                 {m.vidhi.dosAndDonts && (
                   <div className="mt-5 grid grid-cols-1 sm:grid-cols-2 gap-4">
-                    <div>
+                    <div className="rounded-xl bg-cream-mid p-4 border border-border-light">
                       <h3 className="font-serif text-sm font-semibold text-green-700 mb-2">Do</h3>
                       <ul className="space-y-1 text-sm text-text">{m.vidhi.dosAndDonts.dos.map((d, i) => <li key={i}>• {d}</li>)}</ul>
                     </div>
-                    <div>
+                    <div className="rounded-xl bg-cream-mid p-4 border border-border-light">
                       <h3 className="font-serif text-sm font-semibold text-orange mb-2">Avoid</h3>
                       <ul className="space-y-1 text-sm text-text">{m.vidhi.dosAndDonts.donts.map((d, i) => <li key={i}>• {d}</li>)}</ul>
                     </div>
@@ -189,12 +185,12 @@ export default async function MantraMemberPage({
               </section>
             )}
 
-            {m.faqs && m.faqs.length > 0 && (
+            {faqs.length > 0 && (
               <section className="mb-2">
                 <h2 className="font-serif text-xl font-semibold text-brand mb-4">Frequently Asked Questions</h2>
-                <div className="space-y-4">
-                  {m.faqs.map((f, i) => (
-                    <div key={i}>
+                <div className="space-y-3">
+                  {faqs.map((f, i) => (
+                    <div key={i} className="rounded-xl bg-cream-mid p-4 border border-border-light">
                       <h3 className="font-medium text-text">{f.question}</h3>
                       <p className="text-sm text-text-muted mt-1">{f.answer}</p>
                     </div>
@@ -218,10 +214,15 @@ export default async function MantraMemberPage({
         {siblings.length > 0 && (
           <section className="mt-8">
             <h2 className="font-serif text-lg font-semibold text-brand mb-3 capitalize">Other {axis} mantras</h2>
-            <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-1 text-sm">
+            <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
               {siblings.map((s) => (
-                <li key={s.slug} className="border-b border-border-light/60 py-1.5">
-                  <Link href={`/mantra/${axis}/${s.slug}`} className="text-text hover:text-brand transition-colors">{s.name.en}</Link>
+                <li key={s.slug}>
+                  <Link
+                    href={`/mantra/${axis}/${s.slug}`}
+                    className="block bg-white rounded-xl border border-border-light p-3 text-sm text-text hover:border-gold/40 hover:text-brand transition-colors"
+                  >
+                    {s.name.en}
+                  </Link>
                 </li>
               ))}
             </ul>
@@ -234,7 +235,7 @@ export default async function MantraMemberPage({
 
 function Fact({ label, value }: { label: string; value: string }) {
   return (
-    <div className="flex justify-between gap-3 border-b border-border-light/50 py-1">
+    <div className="flex justify-between gap-3 border-b border-border-light/70 py-1">
       <span className="text-text-muted">{label}</span>
       <span className="text-text font-medium text-right">{value}</span>
     </div>
