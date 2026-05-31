@@ -77,7 +77,7 @@ export default function MantraPillar() {
         })}
       </div>
 
-      <section className="mt-10 bg-cream-mid/40 rounded-2xl p-6 border border-gold/15">
+      <section className="mt-10 bg-cream-mid rounded-2xl p-6 border border-gold/20">
         <h2 className="font-serif text-lg font-semibold text-brand mb-2">A note on authenticity</h2>
         <p className="text-sm text-text-muted leading-relaxed">
           Seed mantras here follow the Mantra Mahodadhi; the parallel Vedic name mantras are shown alongside, never merged.
