@@ -99,7 +99,7 @@ export default function AdminDashboard() {
                     (s) => s.deity === deity.id || s.secondaryDeities?.includes(deity.id)
                   ).length;
                   return (
-                    <div key={deity.id} className="flex items-center justify-between bg-cream-mid/50 rounded-lg px-3 py-2">
+                    <div key={deity.id} className="flex items-center justify-between bg-cream-mid rounded-lg px-3 py-2">
                       <span className="text-sm text-text">{deity.name}</span>
                       <span className="text-sm font-semibold text-brand">{count}</span>
                     </div>

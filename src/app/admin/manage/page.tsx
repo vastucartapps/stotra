@@ -54,7 +54,7 @@ export default function ManageStotraPage() {
           <div className="bg-white rounded-xl border border-border-light overflow-hidden">
             <table className="w-full">
               <thead>
-                <tr className="border-b border-border-light bg-cream-mid/30">
+                <tr className="border-b border-border-light bg-cream-mid">
                   <th className="text-left px-4 py-3 text-xs font-semibold text-text-muted uppercase tracking-wider">Title</th>
                   <th className="text-left px-4 py-3 text-xs font-semibold text-text-muted uppercase tracking-wider hidden md:table-cell">Deity</th>
                   <th className="text-left px-4 py-3 text-xs font-semibold text-text-muted uppercase tracking-wider hidden sm:table-cell">Status</th>
@@ -64,7 +64,7 @@ export default function ManageStotraPage() {
               </thead>
               <tbody>
                 {stotras.map((stotra) => (
-                  <tr key={stotra.slug} className="border-b border-border-light last:border-0 hover:bg-cream-mid/20 transition-colors">
+                  <tr key={stotra.slug} className="border-b border-border-light last:border-0 hover:bg-cream-mid transition-colors">
                     <td className="px-4 py-3">
                       <p className="font-medium text-sm text-text">{stotra.titleEn}</p>
                       <p className="devanagari-heading text-xs text-text-muted">{stotra.title}</p>
