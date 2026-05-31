@@ -23,3 +23,4 @@ export {
   buildGitaVerseGraph,
 } from "./book";
 export { buildVratKathaGraph } from "./recipe";
+export { buildMantraPageGraph } from "./mantra";
