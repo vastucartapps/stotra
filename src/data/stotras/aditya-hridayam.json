@@ -1,97 +1,101 @@
 {
-    "id": "2",
-    "title": "आदित्य हृदयम्",
-    "titleEn": "Aditya Hridayam",
-    "slug": "aditya-hridayam",
-    "devanagariText": "॥ श्री आदित्यहृदयम् ॥\n\nततो युद्धपरिश्रान्तं समरे चिन्तया स्थितम्।\nरावणं चाग्रतो दृष्ट्वा युद्धाय समुपस्थितम्॥१॥\n\nदैवतैश्च समागम्य द्रष्टुमभ्यागतो रणम्।\nउपागम्याब्रवीद्रामं अगस्त्यो भगवान् ऋषिः॥२॥\n\nराम राम महाबाहो शृणु गुह्यं सनातनम्।\nयेन सर्वानरीन् वत्स समरे विजयिष्यसि॥३॥\n\nआदित्यहृदयं पुण्यं सर्वशत्रुविनाशनम्।\nजयावहं जपेन्नित्यं अक्षय्यं परमं शिवम्॥४॥\n\nसर्वमङ्गलमाङ्गल्यं सर्वपापप्रणाशनम्।\nचिन्ताशोकप्रशमनं आयुर्वर्धनमुत्तमम्॥५॥\n\nरश्मिमन्तं समुद्यन्तं देवासुरनमस्कृतम्।\nपूजयस्व विवस्वन्तं भास्करं भुवनेश्वरम्॥६॥\n\nसर्वदेवात्मको ह्येष तेजस्वी रश्मिभावनः।\nएष देवासुरगणान् लोकान् पाति गभस्तिभिः॥७॥\n\nएष ब्रह्मा च विष्णुश्च शिवः स्कन्दः प्रजापतिः।\nमहेन्द्रो धनदः कालो यमः सोमो ह्यपां पतिः॥८॥\n\nपितरो वसवः साध्या ह्यश्विनौ मरुतो मनुः।\nवायुर्वह्निः प्रजाप्राणा ऋतुकर्ता प्रभाकरः॥९॥\n\nआदित्यः सविता सूर्यः खगः पूषा गभस्तिमान्।\nसुवर्णसदृशो भानुर्हिरण्यरेता दिवाकरः॥१०॥\n\nहरिदश्वः सहस्रार्चिः सप्तसप्तिर्मरीचिमान्।\nतिमिरोन्मथनः शम्भुस्त्वष्टा मार्ताण्ड अंशुमान्॥११॥\n\nहिरण्यगर्भः शिशिरस्तपनो भास्करो रविः।\nअग्निगर्भोऽदितेः पुत्रः शङ्खः शिशिरनाशनः॥१२॥\n\nव्योमनाथस्तमोभेदी ऋग्यजुःसामपारगः।\nघनवृष्टिरपां मित्रो विन्ध्यवीथीप्लवङ्गमः॥१३॥\n\nआतपी मण्डली मृत्युः पिङ्गलः सर्वतापनः।\nकविर्विश्वो महातेजाः रक्तः सर्वभवोद्भवः॥१४॥\n\nनक्षत्रग्रहताराणां अधिपो विश्वभावनः।\nतेजसामपि तेजस्वी द्वादशात्मन् नमोऽस्तु ते॥१५॥\n\nनमः पूर्वाय गिरये पश्चिमायाद्रये नमः।\nज्योतिर्गणानां पतये दिनाधिपतये नमः॥१६॥\n\nजयाय जयभद्राय हर्यश्वाय नमो नमः।\nनमो नमः सहस्रांशो आदित्याय नमो नमः॥१७॥\n\nनम उग्राय वीराय सारङ्गाय नमो नमः।\nनमः पद्मप्रबोधाय मार्ताण्डाय नमो नमः॥१८॥\n\nब्रह्मेशानाच्युतेशाय सूर्यायादित्यवर्चसे।\nभास्वते सर्वभक्षाय रौद्राय वपुषे नमः॥१९॥\n\nतमोघ्नाय हिमघ्नाय शत्रुघ्नायामितात्मने।\nकृतघ्नघ्नाय देवाय ज्योतिषां पतये नमः॥२०॥\n\nतप्तचामीकराभाय वह्नये विश्वकर्मणे।\nनमस्तमोऽभिनिघ्नाय रुचये लोकसाक्षिणे॥२१॥\n\nनाशयत्येष वै भूतं तदेव सृजति प्रभुः।\nपायत्येष तपत्येष वर्षत्येष गभस्तिभिः॥२२॥\n\nएष सुप्तेषु जागर्ति भूतेषु परिनिष्ठितः।\nएष एवाग्निहोत्रं च फलं चैवाग्निहोत्रिणाम्॥२३॥\n\nवेदाश्च क्रतवश्चैव क्रतूनां फलमेव च।\nयानि कृत्यानि लोकेषु सर्व एष रविः प्रभुः॥२४॥\n\nएनमापत्सु कृच्छ्रेषु कान्तारेषु भयेषु च।\nकीर्तयन् पुरुषः कश्चिन्नावसीदति राघव॥२५॥\n\nपूजयस्वैनमेकाग्रो देवदेवं जगत्पतिम्।\nएतत् त्रिगुणितं जप्त्वा युद्धेषु विजयिष्यसि॥२६॥\n\nअस्मिन् क्षणे महाबाहो रावणं त्वं वधिष्यसि।\nएवमुक्त्वा ततोऽगस्त्यो जगाम च यथागतम्॥२७॥\n\nएतच्छ्रुत्वा महातेजाः नष्टशोकोऽभवत्तदा।\nधारयामास सुप्रीतो राघवः प्रयतात्मवान्॥२८॥\n\nआदित्यं प्रेक्ष्य जप्त्वा तु परं हर्षमवाप्तवान्।\nत्रिराचम्य शुचिर्भूत्वा धनुरादाय वीर्यवान्॥२९॥\n\nरावणं प्रेक्ष्य हृष्टात्मा युद्धाय समुपागमत्।\nसर्वयत्नेन महता वधे तस्य धृतोऽभवत्॥३०॥\n\nअथ रविरवदन्निरीक्ष्य रामं\nमुदितमनाः परमं प्रहृष्यमाणः।\nनिशिचरपतिसंक्षयं विदित्वा\nसुरगणमध्यगतो वचस्त्वरेति॥३१॥\n\n॥ इति आदित्यहृदयं सम्पूर्णम् ॥",
-    "transliteration": "|| Shrī Ādityahṛdayam ||\n\nTato yuddhaparishrāntaṁ samare chintayā sthitam.\nRāvaṇaṁ chāgrato dṛṣṭvā yuddhāya samupasthitam.||1||\n\nDaivataiścha samāgamya draṣṭumabhyāgato raṇam.\nUpāgamyābravīdrāmaṁ Agastyo bhagavān ṛṣiḥ.||2||\n\nRāma Rāma mahābāho śṛṇu guhyaṁ sanātanam.\nYena sarvānarīn vatsa samare vijayiṣyasi.||3||\n\nĀdityahṛdayaṁ puṇyaṁ sarvaśatruvināśanam.\nJayāvahaṁ japennityaṁ akṣayyaṁ paramaṁ śivam.||4||\n\nSarvamaṅgalamāṅgalyaṁ sarvapāpapraṇāśanam.\nChintāśokapraśamanaṁ āyurvardhanaṁ uttamam.||5||\n\nRaśmimantaṁ samudyantaṁ devāsuranamaskṛtam.\nPūjayasva vivasvantaṁ bhāskaraṁ bhuvaneśvaram.||6||\n\nSarvadevātmako hyeṣa tejasvī raśmibhāvanaḥ.\nEṣa devāsuragaṇān lokān pāti gabhastibhiḥ.||7||\n\nEṣa Brahmā cha Viṣṇuścha Śivaḥ Skandaḥ Prajāpatiḥ.\nMahendro Dhanadaḥ Kālo Yamaḥ Somo hyapāṁ patiḥ.||8||\n\nPitaro Vasavaḥ Sādhyā hyaśvinau Maruto Manuḥ.\nVāyurvahniḥ prajāprāṇā ṛtukartā prabhākaraḥ.||9||\n\nĀdityaḥ Savitā Sūryaḥ Khagaḥ Pūṣā Gabhastimān.\nSuvarṇasadṛśo Bhānurhiraṇyaretā Divākaraḥ.||10||\n\nHaridaśvaḥ sahasrārchiḥ saptasaptirmarīchimān.\nTimironmathanaḥ Śambhustvāṣṭā Mārtāṇḍa Aṁśumān.||11||\n\nHiraṇyagarbhaḥ Śiśirastapaano Bhāskaro Raviḥ.\nAgnigarbho'diteḥ putraḥ Śaṅkhaḥ Śiśiranāśanaḥ.||12||\n\nVyomanāthastamobhedī ṛgyajuḥsāmapāragaḥ.\nGhanavṛṣṭirapāṁ mitro Vindhyavīthīplavaṅgamaḥ.||13||\n\nĀtapī Maṇḍalī Mṛtyuḥ Piṅgalaḥ Sarvatāpanaḥ.\nKavirviśvo Mahātejāḥ Raktaḥ Sarvabhavodbhavaḥ.||14||\n\nNakṣatragrahatārāṇāṁ adhipo viśvabhāvanaḥ.\nTejasāmapi tejasvī dvādaśātman namo'stu te.||15||\n\nNamaḥ pūrvāya giraye paścimāyādraye namaḥ.\nJyotirgaṇānāṁ pataye dinādhipataye namaḥ.||16||\n\nJayāya jayabhadrāya haryaśvāya namo namaḥ.\nNamo namaḥ sahasrāṁśo Ādityāya namo namaḥ.||17||\n\nNama ugrāya vīrāya sāraṅgāya namo namaḥ.\nNamaḥ padmaprabodhāya Mārtāṇḍāya namo namaḥ.||18||\n\nBrahmeśānāchyuteśāya Sūryāyādityavarchase.\nBhāsvate sarvabhakṣāya Raudrāya vapuṣe namaḥ.||19||\n\nTamoghnāya himaghnāya śatrughnāyāmitātmane.\nKṛtaghna ghnāya devāya jyotiṣāṁ pataye namaḥ.||20||\n\nTaptachāmīkarābhāya vahnaye viśvakarmaṇe.\nNamastamo'bhinighnāya ruchaye lokasākṣiṇe.||21||\n\nNāśayatyeṣa vai bhūtaṁ tadeva sṛjati prabhuḥ.\nPāyatyeṣa tapatyeṣa varṣatyeṣa gabhastibhiḥ.||22||\n\nEṣa supteṣu jāgarti bhūteṣu pariniṣṭhitaḥ.\nEṣa evāgnihotraṁ cha phalaṁ chaivāgnihotriṇām.||23||\n\nVedāścha kratavaśchaiva kratūnāṁ phalameva cha.\nYāni kṛtyāni lokeṣu sarva eṣa Raviḥ prabhuḥ.||24||\n\nEnamāpatsu kṛcchreṣu kāntāreṣu bhayeṣu cha.\nKīrtayan puruṣaḥ kaśchinnāvasīdati Rāghava.||25||\n\nPūjayasvainamekāgro devadevaṁ jagatpatim.\nEtat triguṇitaṁ japtvā yuddheṣu vijayiṣyasi.||26||\n\nAsmin kṣaṇe mahābāho Rāvaṇaṁ tvaṁ vadhiṣyasi.\nEvamuktvā tato'gastyo jagāma cha yathāgatam.||27||\n\nEtachchhrutvā mahātejāḥ naṣṭaśoko'bhavattadā.\nDhārayāmāsa suprīto Rāghavaḥ prayatātmavān.||28||\n\nĀdityaṁ prekṣya japtvā tu paraṁ harṣamavāptavān.\nTrirāchamya śuchirbhūtvā dhanurādāya vīryavān.||29||\n\nRāvaṇaṁ prekṣya hṛṣṭātmā yuddhāya samupāgamat.\nSarvayatnena mahatā vadhe tasya dhṛto'bhavat.||30||\n\nAtha raviravadannirīkṣya Rāmaṁ\nmuditamanāḥ paramaṁ prahṛṣyamāṇaḥ.\nNiśicharapatisaṅkṣayaṁ viditvā\nsuragaṇamadhyagato vachastvareti.||31||\n\n|| Iti Ādityahṛdayaṁ sampūrṇam ||",
-    "hindiMeaning": "युद्ध से थके हुए और चिन्ता में खड़े श्रीराम के सामने रावण युद्ध के लिए आ गया। तब देवताओं के साथ युद्ध देखने आए भगवान अगस्त्य ऋषि ने राम से कहा - हे राम! यह सनातन गोपनीय स्तोत्र सुनो, जिसके जप से तुम समरभूमि में सभी शत्रुओं पर विजय पाओगे। यह आदित्यहृदय परम पवित्र, सभी शत्रुओं का नाश करने वाला, विजय देने वाला, नित्य अक्षय और परम कल्याणकारी है। यह सब मंगलों का मंगल, सब पापों का नाश करने वाला, चिन्ता और शोक को शान्त करने वाला तथा आयु बढ़ाने वाला उत्तम स्तोत्र है।",
-    "viniyog": {
-        "rishi": "अगस्त्य",
-        "chhand": "अनुष्टुप्",
-        "devata": "श्री सूर्यनारायण",
-        "beej": "ह्रां",
-        "shakti": "ह्रीं",
-        "kilak": "सर्वशत्रुविनाशने विनियोगः",
-        "shloka": "ॐ अस्य श्रीआदित्यहृदयस्तोत्रमन्त्रस्य अगस्त्य ऋषिः। अनुष्टुप् छन्दः। श्रीसूर्यनारायणो देवता। ह्रां बीजम्। ह्रीं शक्तिः। सर्वशत्रुविनाशने विनियोगः॥"
+  "id": "2",
+  "title": "आदित्य हृदयम्",
+  "titleEn": "Aditya Hridayam",
+  "slug": "aditya-hridayam",
+  "devanagariText": "॥ श्री आदित्यहृदयम् ॥\n\nततो युद्धपरिश्रान्तं समरे चिन्तया स्थितम्।\nरावणं चाग्रतो दृष्ट्वा युद्धाय समुपस्थितम्॥१॥\n\nदैवतैश्च समागम्य द्रष्टुमभ्यागतो रणम्।\nउपागम्याब्रवीद्रामं अगस्त्यो भगवान् ऋषिः॥२॥\n\nराम राम महाबाहो शृणु गुह्यं सनातनम्।\nयेन सर्वानरीन् वत्स समरे विजयिष्यसि॥३॥\n\nआदित्यहृदयं पुण्यं सर्वशत्रुविनाशनम्।\nजयावहं जपेन्नित्यं अक्षय्यं परमं शिवम्॥४॥\n\nसर्वमङ्गलमाङ्गल्यं सर्वपापप्रणाशनम्।\nचिन्ताशोकप्रशमनं आयुर्वर्धनमुत्तमम्॥५॥\n\nरश्मिमन्तं समुद्यन्तं देवासुरनमस्कृतम्।\nपूजयस्व विवस्वन्तं भास्करं भुवनेश्वरम्॥६॥\n\nसर्वदेवात्मको ह्येष तेजस्वी रश्मिभावनः।\nएष देवासुरगणान् लोकान् पाति गभस्तिभिः॥७॥\n\nएष ब्रह्मा च विष्णुश्च शिवः स्कन्दः प्रजापतिः।\nमहेन्द्रो धनदः कालो यमः सोमो ह्यपां पतिः॥८॥\n\nपितरो वसवः साध्या ह्यश्विनौ मरुतो मनुः।\nवायुर्वह्निः प्रजाप्राणा ऋतुकर्ता प्रभाकरः॥९॥\n\nआदित्यः सविता सूर्यः खगः पूषा गभस्तिमान्।\nसुवर्णसदृशो भानुर्हिरण्यरेता दिवाकरः॥१०॥\n\nहरिदश्वः सहस्रार्चिः सप्तसप्तिर्मरीचिमान्।\nतिमिरोन्मथनः शम्भुस्त्वष्टा मार्ताण्ड अंशुमान्॥११॥\n\nहिरण्यगर्भः शिशिरस्तपनो भास्करो रविः।\nअग्निगर्भोऽदितेः पुत्रः शङ्खः शिशिरनाशनः॥१२॥\n\nव्योमनाथस्तमोभेदी ऋग्यजुःसामपारगः।\nघनवृष्टिरपां मित्रो विन्ध्यवीथीप्लवङ्गमः॥१३॥\n\nआतपी मण्डली मृत्युः पिङ्गलः सर्वतापनः।\nकविर्विश्वो महातेजाः रक्तः सर्वभवोद्भवः॥१४॥\n\nनक्षत्रग्रहताराणां अधिपो विश्वभावनः।\nतेजसामपि तेजस्वी द्वादशात्मन् नमोऽस्तु ते॥१५॥\n\nनमः पूर्वाय गिरये पश्चिमायाद्रये नमः।\nज्योतिर्गणानां पतये दिनाधिपतये नमः॥१६॥\n\nजयाय जयभद्राय हर्यश्वाय नमो नमः।\nनमो नमः सहस्रांशो आदित्याय नमो नमः॥१७॥\n\nनम उग्राय वीराय सारङ्गाय नमो नमः।\nनमः पद्मप्रबोधाय मार्ताण्डाय नमो नमः॥१८॥\n\nब्रह्मेशानाच्युतेशाय सूर्यायादित्यवर्चसे।\nभास्वते सर्वभक्षाय रौद्राय वपुषे नमः॥१९॥\n\nतमोघ्नाय हिमघ्नाय शत्रुघ्नायामितात्मने।\nकृतघ्नघ्नाय देवाय ज्योतिषां पतये नमः॥२०॥\n\nतप्तचामीकराभाय वह्नये विश्वकर्मणे।\nनमस्तमोऽभिनिघ्नाय रुचये लोकसाक्षिणे॥२१॥\n\nनाशयत्येष वै भूतं तदेव सृजति प्रभुः।\nपायत्येष तपत्येष वर्षत्येष गभस्तिभिः॥२२॥\n\nएष सुप्तेषु जागर्ति भूतेषु परिनिष्ठितः।\nएष एवाग्निहोत्रं च फलं चैवाग्निहोत्रिणाम्॥२३॥\n\nवेदाश्च क्रतवश्चैव क्रतूनां फलमेव च।\nयानि कृत्यानि लोकेषु सर्व एष रविः प्रभुः॥२४॥\n\nएनमापत्सु कृच्छ्रेषु कान्तारेषु भयेषु च।\nकीर्तयन् पुरुषः कश्चिन्नावसीदति राघव॥२५॥\n\nपूजयस्वैनमेकाग्रो देवदेवं जगत्पतिम्।\nएतत् त्रिगुणितं जप्त्वा युद्धेषु विजयिष्यसि॥२६॥\n\nअस्मिन् क्षणे महाबाहो रावणं त्वं वधिष्यसि।\nएवमुक्त्वा ततोऽगस्त्यो जगाम च यथागतम्॥२७॥\n\nएतच्छ्रुत्वा महातेजाः नष्टशोकोऽभवत्तदा।\nधारयामास सुप्रीतो राघवः प्रयतात्मवान्॥२८॥\n\nआदित्यं प्रेक्ष्य जप्त्वा तु परं हर्षमवाप्तवान्।\nत्रिराचम्य शुचिर्भूत्वा धनुरादाय वीर्यवान्॥२९॥\n\nरावणं प्रेक्ष्य हृष्टात्मा युद्धाय समुपागमत्।\nसर्वयत्नेन महता वधे तस्य धृतोऽभवत्॥३०॥\n\nअथ रविरवदन्निरीक्ष्य रामं\nमुदितमनाः परमं प्रहृष्यमाणः।\nनिशिचरपतिसंक्षयं विदित्वा\nसुरगणमध्यगतो वचस्त्वरेति॥३१॥\n\n॥ इति आदित्यहृदयं सम्पूर्णम् ॥",
+  "transliteration": "|| Shrī Ādityahṛdayam ||\n\nTato yuddhaparishrāntaṁ samare chintayā sthitam.\nRāvaṇaṁ chāgrato dṛṣṭvā yuddhāya samupasthitam.||1||\n\nDaivataiścha samāgamya draṣṭumabhyāgato raṇam.\nUpāgamyābravīdrāmaṁ Agastyo bhagavān ṛṣiḥ.||2||\n\nRāma Rāma mahābāho śṛṇu guhyaṁ sanātanam.\nYena sarvānarīn vatsa samare vijayiṣyasi.||3||\n\nĀdityahṛdayaṁ puṇyaṁ sarvaśatruvināśanam.\nJayāvahaṁ japennityaṁ akṣayyaṁ paramaṁ śivam.||4||\n\nSarvamaṅgalamāṅgalyaṁ sarvapāpapraṇāśanam.\nChintāśokapraśamanaṁ āyurvardhanaṁ uttamam.||5||\n\nRaśmimantaṁ samudyantaṁ devāsuranamaskṛtam.\nPūjayasva vivasvantaṁ bhāskaraṁ bhuvaneśvaram.||6||\n\nSarvadevātmako hyeṣa tejasvī raśmibhāvanaḥ.\nEṣa devāsuragaṇān lokān pāti gabhastibhiḥ.||7||\n\nEṣa Brahmā cha Viṣṇuścha Śivaḥ Skandaḥ Prajāpatiḥ.\nMahendro Dhanadaḥ Kālo Yamaḥ Somo hyapāṁ patiḥ.||8||\n\nPitaro Vasavaḥ Sādhyā hyaśvinau Maruto Manuḥ.\nVāyurvahniḥ prajāprāṇā ṛtukartā prabhākaraḥ.||9||\n\nĀdityaḥ Savitā Sūryaḥ Khagaḥ Pūṣā Gabhastimān.\nSuvarṇasadṛśo Bhānurhiraṇyaretā Divākaraḥ.||10||\n\nHaridaśvaḥ sahasrārchiḥ saptasaptirmarīchimān.\nTimironmathanaḥ Śambhustvāṣṭā Mārtāṇḍa Aṁśumān.||11||\n\nHiraṇyagarbhaḥ Śiśirastapaano Bhāskaro Raviḥ.\nAgnigarbho'diteḥ putraḥ Śaṅkhaḥ Śiśiranāśanaḥ.||12||\n\nVyomanāthastamobhedī ṛgyajuḥsāmapāragaḥ.\nGhanavṛṣṭirapāṁ mitro Vindhyavīthīplavaṅgamaḥ.||13||\n\nĀtapī Maṇḍalī Mṛtyuḥ Piṅgalaḥ Sarvatāpanaḥ.\nKavirviśvo Mahātejāḥ Raktaḥ Sarvabhavodbhavaḥ.||14||\n\nNakṣatragrahatārāṇāṁ adhipo viśvabhāvanaḥ.\nTejasāmapi tejasvī dvādaśātman namo'stu te.||15||\n\nNamaḥ pūrvāya giraye paścimāyādraye namaḥ.\nJyotirgaṇānāṁ pataye dinādhipataye namaḥ.||16||\n\nJayāya jayabhadrāya haryaśvāya namo namaḥ.\nNamo namaḥ sahasrāṁśo Ādityāya namo namaḥ.||17||\n\nNama ugrāya vīrāya sāraṅgāya namo namaḥ.\nNamaḥ padmaprabodhāya Mārtāṇḍāya namo namaḥ.||18||\n\nBrahmeśānāchyuteśāya Sūryāyādityavarchase.\nBhāsvate sarvabhakṣāya Raudrāya vapuṣe namaḥ.||19||\n\nTamoghnāya himaghnāya śatrughnāyāmitātmane.\nKṛtaghna ghnāya devāya jyotiṣāṁ pataye namaḥ.||20||\n\nTaptachāmīkarābhāya vahnaye viśvakarmaṇe.\nNamastamo'bhinighnāya ruchaye lokasākṣiṇe.||21||\n\nNāśayatyeṣa vai bhūtaṁ tadeva sṛjati prabhuḥ.\nPāyatyeṣa tapatyeṣa varṣatyeṣa gabhastibhiḥ.||22||\n\nEṣa supteṣu jāgarti bhūteṣu pariniṣṭhitaḥ.\nEṣa evāgnihotraṁ cha phalaṁ chaivāgnihotriṇām.||23||\n\nVedāścha kratavaśchaiva kratūnāṁ phalameva cha.\nYāni kṛtyāni lokeṣu sarva eṣa Raviḥ prabhuḥ.||24||\n\nEnamāpatsu kṛcchreṣu kāntāreṣu bhayeṣu cha.\nKīrtayan puruṣaḥ kaśchinnāvasīdati Rāghava.||25||\n\nPūjayasvainamekāgro devadevaṁ jagatpatim.\nEtat triguṇitaṁ japtvā yuddheṣu vijayiṣyasi.||26||\n\nAsmin kṣaṇe mahābāho Rāvaṇaṁ tvaṁ vadhiṣyasi.\nEvamuktvā tato'gastyo jagāma cha yathāgatam.||27||\n\nEtachchhrutvā mahātejāḥ naṣṭaśoko'bhavattadā.\nDhārayāmāsa suprīto Rāghavaḥ prayatātmavān.||28||\n\nĀdityaṁ prekṣya japtvā tu paraṁ harṣamavāptavān.\nTrirāchamya śuchirbhūtvā dhanurādāya vīryavān.||29||\n\nRāvaṇaṁ prekṣya hṛṣṭātmā yuddhāya samupāgamat.\nSarvayatnena mahatā vadhe tasya dhṛto'bhavat.||30||\n\nAtha raviravadannirīkṣya Rāmaṁ\nmuditamanāḥ paramaṁ prahṛṣyamāṇaḥ.\nNiśicharapatisaṅkṣayaṁ viditvā\nsuragaṇamadhyagato vachastvareti.||31||\n\n|| Iti Ādityahṛdayaṁ sampūrṇam ||",
+  "hindiMeaning": "युद्ध से थके हुए और चिन्ता में खड़े श्रीराम के सामने रावण युद्ध के लिए आ गया। तब देवताओं के साथ युद्ध देखने आए भगवान अगस्त्य ऋषि ने राम से कहा - हे राम! यह सनातन गोपनीय स्तोत्र सुनो, जिसके जप से तुम समरभूमि में सभी शत्रुओं पर विजय पाओगे। यह आदित्यहृदय परम पवित्र, सभी शत्रुओं का नाश करने वाला, विजय देने वाला, नित्य अक्षय और परम कल्याणकारी है। यह सब मंगलों का मंगल, सब पापों का नाश करने वाला, चिन्ता और शोक को शान्त करने वाला तथा आयु बढ़ाने वाला उत्तम स्तोत्र है।",
+  "viniyog": {
+    "rishi": "अगस्त्य",
+    "chhand": "अनुष्टुप्",
+    "devata": "श्री सूर्यनारायण",
+    "beej": "ह्रां",
+    "shakti": "ह्रीं",
+    "kilak": "सर्वशत्रुविनाशने विनियोगः",
+    "shloka": "ॐ अस्य श्रीआदित्यहृदयस्तोत्रमन्त्रस्य अगस्त्य ऋषिः। अनुष्टुप् छन्दः। श्रीसूर्यनारायणो देवता। ह्रां बीजम्। ह्रीं शक्तिः। सर्वशत्रुविनाशने विनियोगः॥"
+  },
+  "benefits": [
+    "Traditionally recited for removal of all enemies and grants victory in all endeavors",
+    "Traditionally recited for removal of sins, worries, grief, and fear",
+    "Increases lifespan and bestows good health",
+    "Invokes supreme auspiciousness and divine protection",
+    "Traditionally associated with success in difficult situations and challenges",
+    "Invokes the blessing of radiance, energy, and spiritual power"
+  ],
+  "description": "The Aditya Hridayam, known in Sanskrit as आदित्य हृदयम्, is a heart-essence prayer in praise of Sun God Surya. Drawn from Valmiki Ramayana - Yuddha Kanda, this text has been cherished by devotees for centuries. Devotees recite this prayer to grant supreme auspiciousness and divine protection and destroy all enemies and grant victory in all endeavors. It is also said to remove sins, worries, grief, and fear. This prayer is traditionally recited on Sunday (Ravivar) and during Makar Sankranti to invoke divine grace. With 31 verses and a reading time of about 15 minutes, this prayer is ideal for both daily worship and special occasions. On this page, you can read the complete Aditya Hridayam in Devanagari Sanskrit with English transliteration, Hindi meaning (arth), and free PDF download for offline recitation.",
+  "deity": "surya",
+  "secondaryDeities": [
+    "rama",
+    "agastya"
+  ],
+  "days": [
+    "sunday"
+  ],
+  "festivals": [
+    "makar-sankranti"
+  ],
+  "purposes": [
+    "protection",
+    "health",
+    "peace",
+    "planetary-remedy",
+    "devotion"
+  ],
+  "readingTimeMinutes": 15,
+  "seoDescription": "Read Aditya Hridayam stotra in Sanskrit with Hindi meaning and transliteration. Powerful Surya hymn from Ramayana taught by Sage Agastya to Lord Rama.",
+  "verseCount": 31,
+  "source": "Valmiki Ramayana - Yuddha Kanda",
+  "createdAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-05-31",
+  "isPublished": true,
+  "alsoKnownAs": [
+    "Aditya Hridaya Stotram",
+    "Aditya Hrudayam",
+    "Surya Hridaya Stotra",
+    "adityahridayam",
+    "adityahridayam stotram",
+    "aditya hridaya",
+    "adityahridayam stotra"
+  ],
+  "relatedSearches": [
+    "aditya hridayam lyrics",
+    "aditya hridayam in sanskrit",
+    "aditya hridayam in hindi",
+    "aditya hridayam meaning",
+    "aditya hridayam benefits",
+    "aditya hridayam pdf",
+    "aditya hridayam in english",
+    "aditya hridayam stotra",
+    "aditya hridayam mp3",
+    "aditya hridayam Valmiki Ramayana"
+  ],
+  "seoFaqs": [
+    {
+      "question": "Who composed Aditya Hridayam?",
+      "answer": "Aditya Hridayam was taught by Sage Agastya to Lord Rama on the battlefield of Lanka, as recorded in the Yuddha Kanda (Book 6, Sarga 105) of Valmiki's Ramayana. Agastya imparted it as a divine revelation so Rama could regain strength to defeat Ravana."
     },
-    "benefits": [
-        "Traditionally recited for removal of all enemies and grants victory in all endeavors",
-        "Traditionally recited for removal of sins, worries, grief, and fear",
-        "Increases lifespan and bestows good health",
-        "Invokes supreme auspiciousness and divine protection",
-        "Traditionally associated with success in difficult situations and challenges",
-        "Invokes the blessing of radiance, energy, and spiritual power"
-    ],
-    "description": "The Aditya Hridayam, known in Sanskrit as आदित्य हृदयम्, is a heart-essence prayer in praise of Sun God Surya. Drawn from Valmiki Ramayana - Yuddha Kanda, this text has been cherished by devotees for centuries. Devotees recite this prayer to grant supreme auspiciousness and divine protection and destroy all enemies and grant victory in all endeavors. It is also said to remove sins, worries, grief, and fear. This prayer is traditionally recited on Sunday (Ravivar) and during Makar Sankranti to invoke divine grace. With 31 verses and a reading time of about 15 minutes, this prayer is ideal for both daily worship and special occasions. On this page, you can read the complete Aditya Hridayam in Devanagari Sanskrit with English transliteration, Hindi meaning (arth), and free PDF download for offline recitation.",
-    "deity": "surya",
-    "secondaryDeities": [
-        "rama",
-        "agastya"
-    ],
-    "days": [
-        "sunday"
-    ],
-    "festivals": [
-        "makar-sankranti"
-    ],
-    "purposes": [
-        "protection",
-        "health",
-        "peace",
-        "planetary-remedy",
-        "devotion"
-    ],
-    "readingTimeMinutes": 15,
-    "seoDescription": "Read Aditya Hridayam stotra in Sanskrit with Hindi meaning and transliteration. Powerful Surya hymn from Ramayana taught by Sage Agastya to Lord Rama.",
-    "verseCount": 31,
-    "source": "Valmiki Ramayana - Yuddha Kanda",
-    "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-13T00:00:00Z",
-    "isPublished": true,
-    "alsoKnownAs": [
-        "Aditya Hridaya Stotram",
-        "Aditya Hrudayam",
-        "Surya Hridaya Stotra"
-    ],
-    "relatedSearches": [
-        "aditya hridayam lyrics",
-        "aditya hridayam in sanskrit",
-        "aditya hridayam in hindi",
-        "aditya hridayam meaning",
-        "aditya hridayam benefits",
-        "aditya hridayam pdf",
-        "aditya hridayam in english",
-        "aditya hridayam stotra",
-        "aditya hridayam mp3",
-        "aditya hridayam Valmiki Ramayana"
-    ],
-    "seoFaqs": [
-        {
-            "question": "Who composed Aditya Hridayam?",
-            "answer": "Aditya Hridayam was taught by Sage Agastya to Lord Rama on the battlefield of Lanka, as recorded in the Yuddha Kanda (Book 6, Sarga 105) of Valmiki's Ramayana. Agastya imparted it as a divine revelation so Rama could regain strength to defeat Ravana."
-        },
-        {
-            "question": "How many verses are in Aditya Hridayam?",
-            "answer": "The Aditya Hridayam contains 31 verses, with the first 30 set in the 32-syllable Anushtup chhandas. The hymn invokes the various names and forms of Surya and concludes with a phalashruti describing the merits of regular recitation."
-        },
-        {
-            "question": "What are the benefits of chanting Aditya Hridayam?",
-            "answer": "According to the phalashruti given by Sage Agastya, regular recitation grants victory over enemies, removal of fear and anxiety, sound health, longevity, peace of mind, and destruction of all sins. It is considered especially powerful for those facing seemingly insurmountable challenges."
-        },
-        {
-            "question": "What is the best time to chant Aditya Hridayam?",
-            "answer": "Aditya Hridayam is traditionally chanted at sunrise facing east, especially on Sundays — the day associated with Surya. It is also recited during Ratha Saptami, Makar Sankranti, and on the seventh tithi of any month, when Sun worship is considered most auspicious."
-        },
-        {
-            "question": "What is the meaning of Aditya Hridayam?",
-            "answer": "Aditya means the Sun God (son of Aditi) and Hridaya means heart. The title is interpreted both as 'the prayer that pleases the heart of Surya' and as 'the prayer that nourishes and heals the heart of the devotee', as explained by the commentator Govindaraja."
-        },
-        {
-            "question": "Why did Agastya teach Aditya Hridayam to Rama?",
-            "answer": "On the battlefield, Rama was exhausted and anxious facing Ravana. Sage Agastya appeared and taught Rama this hymn to Surya, instructing him to chant it three times facing the Sun. After doing so, Rama's strength and resolve were restored, and he defeated Ravana that day."
-        }
-    ],
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Aditya_Hridayam",
-    "wikidataUrl": "https://www.wikidata.org/wiki/Q4683094"
+    {
+      "question": "How many verses are in Aditya Hridayam?",
+      "answer": "The Aditya Hridayam contains 31 verses, with the first 30 set in the 32-syllable Anushtup chhandas. The hymn invokes the various names and forms of Surya and concludes with a phalashruti describing the merits of regular recitation."
+    },
+    {
+      "question": "What are the benefits of chanting Aditya Hridayam?",
+      "answer": "According to the phalashruti given by Sage Agastya, regular recitation grants victory over enemies, removal of fear and anxiety, sound health, longevity, peace of mind, and destruction of all sins. It is considered especially powerful for those facing seemingly insurmountable challenges."
+    },
+    {
+      "question": "What is the best time to chant Aditya Hridayam?",
+      "answer": "Aditya Hridayam is traditionally chanted at sunrise facing east, especially on Sundays — the day associated with Surya. It is also recited during Ratha Saptami, Makar Sankranti, and on the seventh tithi of any month, when Sun worship is considered most auspicious."
+    },
+    {
+      "question": "What is the meaning of Aditya Hridayam?",
+      "answer": "Aditya means the Sun God (son of Aditi) and Hridaya means heart. The title is interpreted both as 'the prayer that pleases the heart of Surya' and as 'the prayer that nourishes and heals the heart of the devotee', as explained by the commentator Govindaraja."
+    },
+    {
+      "question": "Why did Agastya teach Aditya Hridayam to Rama?",
+      "answer": "On the battlefield, Rama was exhausted and anxious facing Ravana. Sage Agastya appeared and taught Rama this hymn to Surya, instructing him to chant it three times facing the Sun. After doing so, Rama's strength and resolve were restored, and he defeated Ravana that day."
+    }
+  ],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Aditya_Hridayam",
+  "wikidataUrl": "https://www.wikidata.org/wiki/Q4683094"
 }
