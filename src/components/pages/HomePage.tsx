@@ -2,7 +2,7 @@ import { HOME_FAQS } from "@/data/faqs";
 
 export function FAQSection() {
   return (
-    <section className="py-16 bg-cream-mid/50">
+    <section className="py-16 bg-cream-mid">
       <div className="mx-auto max-w-3xl px-4">
         <div className="text-center mb-10">
           <h2 className="font-serif text-3xl font-bold text-brand mb-3">
@@ -18,7 +18,7 @@ export function FAQSection() {
               key={index}
               className="group bg-white rounded-xl border border-border-light overflow-hidden"
             >
-              <summary className="flex items-center justify-between gap-4 px-6 py-4 cursor-pointer list-none hover:bg-cream-mid/30 transition-colors duration-200">
+              <summary className="flex items-center justify-between gap-4 px-6 py-4 cursor-pointer list-none hover:bg-cream-mid transition-colors duration-200">
                 <span className="font-medium text-sm text-text">{faq.question}</span>
                 <svg
                   className="w-4 h-4 text-text-muted flex-shrink-0 transition-transform duration-300 group-open:rotate-180"

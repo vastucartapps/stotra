@@ -138,7 +138,7 @@ export default async function GitaVersePage({
           <h2 className="font-serif text-sm font-semibold text-brand uppercase tracking-wider mb-4">
             Sanskrit Shloka (श्लोक)
           </h2>
-          <div className="devanagari text-xl md:text-2xl leading-[2.2] text-text bg-cream/50 rounded-xl p-6 border border-border-light text-center">
+          <div className="devanagari text-xl md:text-2xl leading-[2.2] text-text bg-cream rounded-xl p-6 border border-border-light text-center">
             {verse.devanagari.split("\n").map((line, i) => (
               <p key={i} className={line.trim() === "" ? "h-4" : ""}>{line}</p>
             ))}
@@ -150,7 +150,7 @@ export default async function GitaVersePage({
           <h2 className="font-serif text-sm font-semibold text-brand uppercase tracking-wider mb-3">
             Transliteration
           </h2>
-          <div className="text-base leading-[2] text-text-light italic bg-cream-mid/30 rounded-xl p-5 border border-border-light">
+          <div className="text-base leading-[2] text-text-light italic bg-cream-mid rounded-xl p-5 border border-border-light">
             {verse.transliteration.split("\n").map((line, i) => (
               <p key={i} className={line.trim() === "" ? "h-4" : ""}>{line}</p>
             ))}
@@ -166,7 +166,7 @@ export default async function GitaVersePage({
             <div className="bg-white rounded-xl border border-border-light overflow-hidden">
               <div className="divide-y divide-border-light">
                 {verse.wordByWord.map((w, i) => (
-                  <div key={i} className="flex items-center gap-4 px-4 py-3 even:bg-cream/30">
+                  <div key={i} className="flex items-center gap-4 px-4 py-3 even:bg-cream">
                     <span className="devanagari text-sm text-brand font-semibold min-w-[80px]">{w.word}</span>
                     <span className="text-xs text-text-muted italic min-w-[100px]">{w.transliteration}</span>
                     <span className="text-sm text-text-light flex-1">{w.meaning}</span>
@@ -182,7 +182,7 @@ export default async function GitaVersePage({
           <h2 className="font-serif text-sm font-semibold text-brand uppercase tracking-wider mb-3">
             Hindi Translation (हिन्दी अर्थ)
           </h2>
-          <div className="devanagari text-base leading-[1.9] text-text-light bg-cream-mid/30 rounded-xl p-5 border border-border-light">
+          <div className="devanagari text-base leading-[1.9] text-text-light bg-cream-mid rounded-xl p-5 border border-border-light">
             {verse.hindiTranslation}
           </div>
         </div>
@@ -192,7 +192,7 @@ export default async function GitaVersePage({
           <h2 className="font-serif text-sm font-semibold text-brand uppercase tracking-wider mb-3">
             English Translation
           </h2>
-          <div className="text-base leading-relaxed text-text-light bg-cream-mid/30 rounded-xl p-5 border border-border-light">
+          <div className="text-base leading-relaxed text-text-light bg-cream-mid rounded-xl p-5 border border-border-light">
             {verse.englishTranslation}
           </div>
         </div>

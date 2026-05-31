@@ -83,7 +83,7 @@ export default async function GitaChapterPage({
         </div>
         <p className="text-text-light max-w-3xl leading-relaxed">{chapter.description}</p>
         {chapter.chapterNumber === 13 && (
-          <p className="mt-4 text-xs bg-cream/60 border border-border-light rounded-lg p-4 italic max-w-3xl">
+          <p className="mt-4 text-xs bg-cream border border-border-light rounded-lg p-4 italic max-w-3xl">
             <strong>Editorial note:</strong> This site follows the Gita Press (Gorakhpur) enumeration,
             which counts 35 verses in chapter 13. The Adi Shankaracharya commentary tradition counts 34,
             combining the opening verse with the first regular verse. The total across 18 chapters is

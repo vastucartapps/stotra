@@ -168,7 +168,7 @@ export default function GitaPage() {
 
       {/* Supporting Texts */}
       {supportingTexts.length > 0 && (
-        <section className="py-16 bg-cream-mid/50">
+        <section className="py-16 bg-cream-mid">
           <div className="mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8">
             <div className="text-center mb-10">
               <h2 className="font-serif text-3xl font-bold text-brand mb-3">Supporting Texts</h2>
@@ -207,7 +207,7 @@ export default function GitaPage() {
                 It is a dialogue between Prince Arjuna and Lord Krishna, who serves as his charioteer on
                 the battlefield of Kurukshetra.
               </p>
-              <p className="text-xs bg-cream/60 border border-border-light rounded-lg p-4 italic">
+              <p className="text-xs bg-cream border border-border-light rounded-lg p-4 italic">
                 <strong>Editorial note on verse count:</strong> This site follows the Gita Press (Gorakhpur)
                 enumeration of <strong>701 verses</strong>. The Adi Shankaracharya commentary tradition
                 counts 700 verses, treating the opening verse of chapter 13 as combined with the first

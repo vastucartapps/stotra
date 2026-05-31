@@ -143,7 +143,7 @@ export default function VratKathaPage() {
       </section>
 
       {/* 12-Month Grid */}
-      <section className="py-16 bg-cream-mid/50">
+      <section className="py-16 bg-cream-mid">
         <div className="mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <h2 className="font-serif text-3xl md:text-4xl font-bold text-brand mb-3">
@@ -167,7 +167,7 @@ export default function VratKathaPage() {
                   className="bg-white rounded-xl border border-border-light overflow-hidden"
                 >
                   {/* Month Header */}
-                  <div className="flex items-center gap-4 p-5 border-b border-border-light bg-cream/50">
+                  <div className="flex items-center gap-4 p-5 border-b border-border-light bg-cream">
                     <div className="w-12 h-12 rounded-xl bg-brand/10 flex items-center justify-center flex-shrink-0">
                       <span className="text-brand font-serif text-xl font-bold">{idx + 1}</span>
                     </div>
@@ -193,7 +193,7 @@ export default function VratKathaPage() {
                       <Link
                         key={katha!.slug}
                         href={`/stotra/${katha!.slug}`}
-                        className="group flex items-center gap-4 p-4 hover:bg-cream/30 transition-colors duration-200"
+                        className="group flex items-center gap-4 p-4 hover:bg-cream transition-colors duration-200"
                       >
                         <div className="flex-1 min-w-0">
                           <p className="devanagari-heading text-base text-brand group-hover:text-brand-light transition-colors">

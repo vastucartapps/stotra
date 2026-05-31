@@ -236,7 +236,7 @@ export default function Home() {
       </section>
 
       {/* -- Types of Hindu Stotras -- */}
-      <section className="py-16 md:py-20 bg-white/40">
+      <section className="py-16 md:py-20 bg-white">
         <div className="mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <h2 className="font-serif text-3xl md:text-4xl font-bold text-brand mb-3">
@@ -324,7 +324,7 @@ export default function Home() {
       </section>
 
       {/* -- Featured: Bhagavad Gita + Vrat Katha -- */}
-      <section className="py-12 md:py-16 bg-cream-mid/50">
+      <section className="py-12 md:py-16 bg-cream-mid">
         <div className="mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
             {/* Bhagavad Gita Card */}
@@ -461,7 +461,7 @@ export default function Home() {
       </section>
 
       {/* -- Today's Stotras (client-resolved IST day to avoid SSG freeze) -- */}
-      <section className="py-16 bg-cream-mid/50">
+      <section className="py-16 bg-cream-mid">
         <div className="mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-10">
             <TodayDayBadge
@@ -488,7 +488,7 @@ export default function Home() {
       <StotraOfTheDay calendar={sotdCalendar} />
 
       {/* -- Browse by Purpose -- */}
-      <section className="py-16 bg-cream-mid/50">
+      <section className="py-16 bg-cream-mid">
         <div className="mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-10">
             <h2 className="font-serif text-3xl font-bold text-brand mb-3">

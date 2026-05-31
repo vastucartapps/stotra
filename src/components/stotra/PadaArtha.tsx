@@ -21,7 +21,7 @@ export function PadaArtha({ padaartha }: PadaArthaProps) {
                 {v.words.map((w, i) => (
                   <div
                     key={i}
-                    className="bg-cream/50 rounded-lg border border-border-light p-3 text-center"
+                    className="bg-cream rounded-lg border border-border-light p-3 text-center"
                   >
                     <span className="devanagari text-base text-brand font-semibold block">
                       {w.word}

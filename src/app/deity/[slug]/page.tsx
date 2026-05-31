@@ -220,7 +220,7 @@ export default async function DeityPage({
                 <Link
                   key={s.slug}
                   href={`/stotra/${s.slug}`}
-                  className="group flex items-center gap-3 px-4 py-3 bg-cream/50 rounded-xl border border-border-light hover:border-gold/30 hover:shadow-card transition-all duration-200"
+                  className="group flex items-center gap-3 px-4 py-3 bg-cream rounded-xl border border-border-light hover:border-gold/30 hover:shadow-card transition-all duration-200"
                 >
                   <span className="w-9 h-9 rounded-lg bg-brand/10 flex items-center justify-center flex-shrink-0">
                     <span className="text-brand text-xs font-serif font-bold">&#x0950;</span>

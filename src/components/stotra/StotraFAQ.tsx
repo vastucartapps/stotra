@@ -24,9 +24,9 @@ export function StotraFAQ({ faqs, stotraTitle }: StotraFAQProps) {
             <details
               key={index}
               open={index === 0}
-              className="group bg-cream/50 rounded-xl border border-border-light overflow-hidden"
+              className="group bg-cream rounded-xl border border-border-light overflow-hidden"
             >
-              <summary className="flex items-center justify-between gap-4 px-5 py-4 cursor-pointer list-none hover:bg-cream-mid/30 transition-colors duration-200">
+              <summary className="flex items-center justify-between gap-4 px-5 py-4 cursor-pointer list-none hover:bg-cream-mid transition-colors duration-200">
                 <span className="font-medium text-sm text-text">{faq.question}</span>
                 <svg
                   className="w-4 h-4 text-text-muted flex-shrink-0 transition-transform duration-300 group-open:rotate-180"

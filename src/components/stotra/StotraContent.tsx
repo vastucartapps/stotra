@@ -180,7 +180,7 @@ export function StotraContent({ stotra, deity, companionStotras }: StotraContent
         <div className="mx-6 md:mx-8 mt-6">
           <button
             onClick={() => setViniyogOpen(!viniyogOpen)}
-            className="w-full flex items-center justify-between bg-cream-mid/60 rounded-xl px-5 py-4 border border-gold/20 hover:border-gold/40 transition-colors duration-200"
+            className="w-full flex items-center justify-between bg-cream-mid rounded-xl px-5 py-4 border border-gold/20 hover:border-gold/40 transition-colors duration-200"
           >
             <div className="flex items-center gap-3">
               <span className="w-8 h-8 rounded-lg bg-gold/10 flex items-center justify-center text-gold font-serif font-bold text-sm">
@@ -197,7 +197,7 @@ export function StotraContent({ stotra, deity, companionStotras }: StotraContent
             )}
           </button>
           {viniyogOpen && (
-            <div className="bg-cream-mid/30 rounded-b-xl px-5 py-4 border-x border-b border-gold/20 animate-slide-down">
+            <div className="bg-cream-mid rounded-b-xl px-5 py-4 border-x border-b border-gold/20 animate-slide-down">
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
                 {[
                   { label: "ऋषि (Rishi)", value: stotra.viniyog.rishi },
@@ -250,7 +250,7 @@ export function StotraContent({ stotra, deity, companionStotras }: StotraContent
       {/* About This Stotra */}
       {stotra.description && (
         <div className="mx-6 md:mx-8 mt-6">
-          <div className="bg-cream/50 rounded-xl border border-border-light p-5 md:p-6">
+          <div className="bg-cream rounded-xl border border-border-light p-5 md:p-6">
             <h2 className="font-serif text-sm font-semibold text-brand uppercase tracking-wider mb-3">
               About {stotra.titleEn}
             </h2>
@@ -276,7 +276,7 @@ export function StotraContent({ stotra, deity, companionStotras }: StotraContent
         <h3 className="font-serif text-sm font-semibold text-brand uppercase tracking-wider mb-4">
           Stotra Path (स्तोत्र पाठ)
         </h3>
-        <div className="devanagari text-xl md:text-2xl lg:text-[1.75rem] xl:text-3xl leading-[2] md:leading-[2.2] lg:leading-[2.3] text-text bg-cream/50 rounded-xl p-5 md:p-6 border border-border-light text-center">
+        <div className="devanagari text-xl md:text-2xl lg:text-[1.75rem] xl:text-3xl leading-[2] md:leading-[2.2] lg:leading-[2.3] text-text bg-cream rounded-xl p-5 md:p-6 border border-border-light text-center">
           {stotra.devanagariText.split("\n").map((line, i) => (
             <p key={i} className={line.trim() === "" ? "h-4" : ""}>
               {line}
@@ -302,7 +302,7 @@ export function StotraContent({ stotra, deity, companionStotras }: StotraContent
         </button>
         {showTransliteration && (
           <div className="pb-4 animate-slide-down">
-            <div className="text-base leading-[2] text-text-light italic bg-cream-mid/30 rounded-xl p-6">
+            <div className="text-base leading-[2] text-text-light italic bg-cream-mid rounded-xl p-6">
               {stotra.transliteration.split("\n").map((line, i) => (
                 <p key={i} className={line.trim() === "" ? "h-4" : ""}>
                   {line}
@@ -330,7 +330,7 @@ export function StotraContent({ stotra, deity, companionStotras }: StotraContent
         </button>
         {showMeaning && (
           <div className="pb-4 animate-slide-down">
-            <div className="devanagari text-base leading-[1.9] text-text-light bg-cream-mid/30 rounded-xl p-6">
+            <div className="devanagari text-base leading-[1.9] text-text-light bg-cream-mid rounded-xl p-6">
               {stotra.hindiMeaning.split("\n").map((line, i) => (
                 <p key={i} className={line.trim() === "" ? "h-4" : ""}>
                   {line}
@@ -377,7 +377,7 @@ export function StotraContent({ stotra, deity, companionStotras }: StotraContent
                 <Link
                   key={cs.slug}
                   href={`/stotra/${cs.slug}`}
-                  className="flex items-center gap-3 px-4 py-3 bg-cream/50 rounded-xl border border-border-light hover:border-gold/30 hover:shadow-card transition-all duration-200"
+                  className="flex items-center gap-3 px-4 py-3 bg-cream rounded-xl border border-border-light hover:border-gold/30 hover:shadow-card transition-all duration-200"
                 >
                   <span className="w-8 h-8 rounded-lg bg-brand/10 flex items-center justify-center flex-shrink-0">
                     <span className="text-brand text-xs font-serif font-bold">&#x0950;</span>
@@ -398,7 +398,7 @@ export function StotraContent({ stotra, deity, companionStotras }: StotraContent
       )}
 
       {/* Action Bar */}
-      <div className="p-6 md:p-8 bg-cream-mid/30 border-t border-border-light">
+      <div className="p-6 md:p-8 bg-cream-mid border-t border-border-light">
         <div className="flex flex-wrap items-center gap-3">
           {/* PDF Download */}
           <a

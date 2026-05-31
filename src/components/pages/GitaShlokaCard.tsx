@@ -102,7 +102,7 @@ export function GitaShlokaCard({
             {/* ── Row 3: Three balanced columns */}
             <div className="grid grid-cols-1 md:grid-cols-3 gap-5 mb-8">
               {/* English Translation */}
-              <div className="bg-cream/50 rounded-xl border border-border-light p-5">
+              <div className="bg-cream rounded-xl border border-border-light p-5">
                 <p className="text-xs font-semibold text-text-muted uppercase tracking-wider mb-2.5">English Translation</p>
                 <p className="text-sm text-text-light leading-relaxed">
                   {englishTranslation}
