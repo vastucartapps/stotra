@@ -87,6 +87,86 @@ export interface Viniyog {
   shloka?: string;
 }
 
+// ── Mantra section ──
+export type MantraAxis = "planet" | "rashi" | "nakshatra" | "day" | "deity" | "purpose";
+
+/** Provenance tag — NEVER fabricate; every mantra must carry one. */
+export type MantraAuthenticity =
+  | "confirmed classical"   // stated in a named primary text
+  | "modern convention"     // post-classical compiled/popular usage
+  | "variable by tradition"; // authentic but sampradaya/region-dependent
+
+export interface MantraEntry {
+  /** Devanagari text — validated byte-for-byte against canonical anchors. */
+  textDevanagari: string;
+  /** IAST/roman transliteration. */
+  transliteration: string;
+  /** bija | gayatri | naam | dhyana | beej-with-shakti */
+  kind: string;
+  /** e.g. "Mantra Mahodadhi bija (tantric)" | "Vedic name + shakti" | "Navagraha Gayatri". Lineages are shown side-by-side, never merged. */
+  lineage: string;
+  /** Named primary/secondary source — required (no fabrication). */
+  source: string;
+  authenticity: MantraAuthenticity;
+  /** Optional syllable → meaning breakdown. */
+  syllableMeaning?: { syllable: string; meaning: string }[];
+  hindiExplanation?: string;
+  englishExplanation?: string;
+  /** Full meaning paragraph. */
+  meaning?: string;
+}
+
+/** How to practise — the prayoga/vidhi block. All optional; render what exists. */
+export interface MantraVidhi {
+  benefits?: string[];
+  /** What realistically changes — framed as traditional purpose, not a guarantee. */
+  impact?: string;
+  japaCount?: { minPerDay?: number; recommended?: number; totalSankalpa?: number };
+  mala?: { type: string; beads: number; why?: string };
+  durationDays?: { minimum?: number; recommended?: number };
+  bestTime?: string;
+  bestDayToStart?: string;
+  direction?: string;
+  asana?: string;
+  pujaSamagri?: string[];
+  pujaModes?: { minimal?: string; medium?: string; full?: string };
+  guruDiksha?: { level: "ideal" | "necessary" | "not-required"; note?: string };
+  deityImageOrIdol?: string;
+  dosAndDonts?: { dos: string[]; donts: string[] };
+}
+
+/** A commerce/consultation/ecosystem outbound link (phase-2-ready). */
+export interface MantraLink {
+  label: string;
+  url: string;
+  /** product | consultation | ecosystem */
+  rel: string;
+}
+
+export interface MantraPage {
+  slug: string;
+  type: MantraAxis;
+  name: { en: string; hi: string; iast?: string };
+  alsoKnownAs?: string[];
+  /** Short self-contained "what is" passage (~150 words) — the AI-citation unit. */
+  whatIs: string;
+  /** TL;DR / key-facts lines for the summary box. */
+  keyFacts: { label: string; value: string }[];
+  /** Ruling/associated entity for schema sameAs grounding. */
+  entity?: { name: string; wikipedia?: string; wikidata?: string };
+  /** The verified mantra(s) — multiple lineages allowed, each labelled. */
+  mantras: MantraEntry[];
+  vidhi?: MantraVidhi;
+  faqs?: FAQItem[];
+  /** Cross-links to existing stotra/deity pages (no content duplication). */
+  relatedStotraSlugs?: string[];
+  relatedDeitySlug?: string;
+  /** Outbound ecosystem/commerce/consultation links. */
+  links?: MantraLink[];
+  createdAt: string;
+  updatedAt: string;
+}
+
 // ── Deity ──
 export type DeityId =
   // Trinity & primary devas

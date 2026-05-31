@@ -1,0 +1,254 @@
+{
+  "_note": "Planet (Navagraha) mantra pages. Bija textDevanagari/transliteration MUST byte-match _canonical_bija.json (enforced by validate_mantra.mjs). Each planet carries up to 3 lineages: tantric bija, Vedic name, Navagraha Gayatri — labelled, never merged.",
+  "planets": [
+    {
+      "slug": "shani",
+      "type": "planet",
+      "name": { "en": "Shani (Saturn)", "hi": "शनि", "iast": "Śani" },
+      "alsoKnownAs": ["Shani Dev", "Shanaishchara", "Saturn mantra", "shani beej mantra", "shani mantra in hindi"],
+      "whatIs": "The Shani mantra is the seed (bija) invocation of Shani, the planet Saturn and son of Surya, the great teacher of discipline, justice and karmic consequence in Vedic astrology. Its principal tantric form, recorded in the Mantra Mahodadhi, is \"Om Praam Preem Praum Sah Shanaischaraya Namah.\" Devotees chant it to steady the mind during Sade Sati and the dhaiya, to reduce the hardships Saturn brings when afflicted, and to earn the patience, endurance and honest labour Shani rewards. It is traditionally begun on a Saturday, faced toward the west, using an iron or blue-sapphire-substitute mala, and is associated with service to the needy, sesame oil, and the colour black.",
+      "keyFacts": [
+        { "label": "Planet", "value": "Saturn (Shani)" },
+        { "label": "Best day", "value": "Saturday (Shanivar)" },
+        { "label": "Direction", "value": "West" },
+        { "label": "Recommended japa", "value": "23,000 (full sankalpa)" },
+        { "label": "Mala", "value": "Iron / black-thread, 108 beads" },
+        { "label": "Primary source", "value": "Mantra Mahodadhi" }
+      ],
+      "entity": { "name": "Shani", "wikipedia": "https://en.wikipedia.org/wiki/Shani", "wikidata": "https://www.wikidata.org/wiki/Q610974" },
+      "mantras": [
+        {
+          "textDevanagari": "ॐ प्रां प्रीं प्रौं सः शनैश्चराय नमः",
+          "transliteration": "Om Praam Preem Praum Sah Shanaischaraya Namah",
+          "kind": "bija",
+          "lineage": "Mantra Mahodadhi bija (tantric)",
+          "source": "Mantra Mahodadhi of Mahidhara",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The tantric seed mantra of Saturn; the bijas Praam-Preem-Praum with the bindu 'Sah' invoke Shani's disciplinary grace.",
+          "hindiExplanation": "शनि का तांत्रिक बीज मंत्र; प्रां-प्रीं-प्रौं बीजाक्षर शनि की न्यायप्रिय कृपा का आवाहन करते हैं।"
+        },
+        {
+          "textDevanagari": "ॐ शनैश्चराय नमः",
+          "transliteration": "Om Shanaischaraya Namah",
+          "kind": "naam",
+          "lineage": "Vedic name + shakti",
+          "source": "Vedic planetary mantra tradition",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The simple Vedic name mantra — a salutation to 'the slow-mover', suitable for daily practice without initiation."
+        },
+        {
+          "textDevanagari": "ॐ काकध्वजाय विद्महे खड्गहस्ताय धीमहि तन्नो मन्दः प्रचोदयात्",
+          "transliteration": "Om Kakadhwajaya Vidmahe Khadgahastaya Dhimahi Tanno Mandah Prachodayat",
+          "kind": "gayatri",
+          "lineage": "Navagraha Gayatri",
+          "source": "Navagraha Gayatri tradition (epithets variable)",
+          "authenticity": "variable by tradition",
+          "englishExplanation": "The 24-syllable Gayatri-metre invocation of Saturn. Epithets vary between compilations; the structure is classical."
+        }
+      ],
+      "vidhi": {
+        "benefits": [
+          "Traditionally chanted to ease the trials of Sade Sati and Shani dhaiya",
+          "Cultivates patience, discipline, and steady effort",
+          "Associated with relief from delays, obstacles, and chronic difficulty when Saturn is afflicted",
+          "Supports justice, honest labour, and service to the underprivileged"
+        ],
+        "impact": "Shani is the karaka of discipline and consequence. Regular japa is traditionally held to steady the mind and align the practitioner with patient, ethical effort rather than to magically remove karma.",
+        "japaCount": { "minPerDay": 108, "recommended": 108, "totalSankalpa": 23000 },
+        "mala": { "type": "Iron or black-thread (krishna) mala", "beads": 108, "why": "Iron and the colour black are traditionally associated with Saturn" },
+        "durationDays": { "minimum": 40, "recommended": 40 },
+        "bestTime": "Saturday at dusk, or during Shani hora; pradosh kaal is favoured",
+        "bestDayToStart": "Saturday (Shanivar), ideally in Krishna Paksha",
+        "direction": "Face West",
+        "asana": "Black or dark-blue woollen seat",
+        "pujaSamagri": ["Sesame (til) oil lamp", "Black sesame seeds", "Blue/black flowers", "Iron item", "Mustard oil"],
+        "pujaModes": {
+          "minimal": "108 japa of the name mantra facing west on Saturday",
+          "medium": "108 japa + sesame-oil lamp + offering to the needy",
+          "full": "Sankalpa of 23,000 over 40 days with daily til-oil lamp, Saturday Shani puja, and anna-daan"
+        },
+        "guruDiksha": { "level": "ideal", "note": "The simple name mantra needs no initiation; the tantric bija is best taken under a qualified guru." },
+        "deityImageOrIdol": "Image of Shani Dev (dark complexion, holding a staff, mounted on a crow or buffalo)",
+        "dosAndDonts": {
+          "dos": ["Begin on a Saturday", "Maintain truthfulness and humility", "Serve the elderly and the poor"],
+          "donts": ["Do not chant with anger or to harm another", "Avoid breaking the count midway without sankalpa", "Do not skip the daily practice once a vow is taken"]
+        }
+      },
+      "relatedStotraSlugs": ["shani-chalisa", "shani-stotram-dasharatha", "navagraha-stotra"],
+      "relatedDeitySlug": "shani",
+      "faqs": [
+        { "question": "What is the Shani beej mantra?", "answer": "The Shani beej (seed) mantra is \"Om Praam Preem Praum Sah Shanaischaraya Namah\", recorded in the Mantra Mahodadhi. A simpler Vedic form is \"Om Shanaischaraya Namah\"." },
+        { "question": "How many times should the Shani mantra be chanted?", "answer": "Traditionally 108 times daily, building to a sankalpa of 23,000 repetitions over 40 days for Saturn-related observances." },
+        { "question": "Which day is best for the Shani mantra?", "answer": "Saturday (Shanivar), the weekday ruled by Saturn, traditionally begun in the waning fortnight (Krishna Paksha) and chanted facing west." }
+      ],
+      "createdAt": "2026-05-31",
+      "updatedAt": "2026-05-31"
+    },
+    {
+      "slug": "surya",
+      "type": "planet",
+      "name": { "en": "Surya (Sun)", "hi": "सूर्य", "iast": "Sūrya" },
+      "alsoKnownAs": ["Surya Dev", "Sun mantra", "surya beej mantra", "aditya mantra", "surya mantra in hindi"],
+      "whatIs": "The Surya mantra is the seed (bija) invocation of Surya, the Sun, the visible soul of the cosmos (pratyaksha devata) and source of vitality, health and authority in Vedic astrology. Its tantric form from the Mantra Mahodadhi is \"Om Hraam Hreem Hraum Sah Suryaya Namah.\" Chanted at sunrise facing east, often with Arghya (a water offering to the rising sun), it is traditionally practised for radiant health, confidence, leadership, relief from eye and bone ailments, and the strengthening of a weak Sun in the birth chart. It belongs to the same Surya tradition as the Aditya Hridayam and the Gayatri, and is associated with copper, red flowers, wheat and the colour gold.",
+      "keyFacts": [
+        { "label": "Planet", "value": "Sun (Surya)" },
+        { "label": "Best day", "value": "Sunday (Ravivar)" },
+        { "label": "Direction", "value": "East" },
+        { "label": "Recommended japa", "value": "7,000 (full sankalpa)" },
+        { "label": "Mala", "value": "Ruby/red-coral or rudraksha, 108 beads" },
+        { "label": "Primary source", "value": "Mantra Mahodadhi" }
+      ],
+      "entity": { "name": "Surya", "wikipedia": "https://en.wikipedia.org/wiki/Surya", "wikidata": "https://www.wikidata.org/wiki/Q193276" },
+      "mantras": [
+        {
+          "textDevanagari": "ॐ ह्रां ह्रीं ह्रौं सः सूर्याय नमः",
+          "transliteration": "Om Hraam Hreem Hraum Sah Suryaya Namah",
+          "kind": "bija",
+          "lineage": "Mantra Mahodadhi bija (tantric)",
+          "source": "Mantra Mahodadhi of Mahidhara",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The tantric seed mantra of the Sun; Hraam-Hreem-Hraum with 'Sah' invoke Surya's life-giving radiance.",
+          "hindiExplanation": "सूर्य का तांत्रिक बीज मंत्र; ह्रां-ह्रीं-ह्रौं बीजाक्षर सूर्य की प्राणदायिनी ऊर्जा का आवाहन करते हैं।"
+        },
+        {
+          "textDevanagari": "ॐ सूर्याय नमः",
+          "transliteration": "Om Suryaya Namah",
+          "kind": "naam",
+          "lineage": "Vedic name + shakti",
+          "source": "Vedic planetary mantra tradition",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The simple Vedic name mantra of the Sun, recited at sunrise; needs no initiation."
+        },
+        {
+          "textDevanagari": "ॐ भास्कराय विद्महे महाद्युतिकराय धीमहि तन्नो आदित्यः प्रचोदयात्",
+          "transliteration": "Om Bhaskaraya Vidmahe Mahadyutikaraya Dhimahi Tanno Adityah Prachodayat",
+          "kind": "gayatri",
+          "lineage": "Navagraha Gayatri",
+          "source": "Surya Gayatri tradition",
+          "authenticity": "variable by tradition",
+          "englishExplanation": "The 24-syllable Gayatri-metre invocation of the Sun."
+        }
+      ],
+      "vidhi": {
+        "benefits": [
+          "Traditionally chanted for vitality, radiant health, and immunity",
+          "Strengthens confidence, leadership, and authority",
+          "Associated with relief from eye, heart, and bone ailments when the Sun is weak",
+          "Supports a strong, well-placed Sun in the birth chart"
+        ],
+        "impact": "Surya is the karaka of soul, vitality and authority. Sunrise japa with Arghya is traditionally held to invigorate body and will.",
+        "japaCount": { "minPerDay": 108, "recommended": 108, "totalSankalpa": 7000 },
+        "mala": { "type": "Ruby, red-coral or rudraksha mala", "beads": 108, "why": "Red and copper tones are associated with the Sun" },
+        "durationDays": { "minimum": 40, "recommended": 40 },
+        "bestTime": "Sunrise (Brahma Muhurta to early morning), during Surya hora",
+        "bestDayToStart": "Sunday (Ravivar), ideally Shukla Paksha or Ratha Saptami",
+        "direction": "Face East toward the rising sun",
+        "asana": "Red or copper-coloured woollen seat",
+        "pujaSamagri": ["Copper vessel for Arghya", "Red flowers", "Jaggery/wheat", "Ghee lamp", "Roli (red kumkum)"],
+        "pujaModes": {
+          "minimal": "108 japa of the name mantra at sunrise facing east, with water Arghya",
+          "medium": "108 japa + copper-vessel Arghya + red-flower offering",
+          "full": "Sankalpa of 7,000 over 40 days with daily sunrise Arghya and Aditya Hridayam recitation"
+        },
+        "guruDiksha": { "level": "ideal", "note": "Name mantra and Arghya need no initiation; the bija is best taken from a guru." },
+        "deityImageOrIdol": "Image of Surya Dev on a seven-horse chariot driven by Aruna",
+        "dosAndDonts": {
+          "dos": ["Chant at sunrise facing east", "Offer Arghya with a copper vessel", "Maintain cleanliness and a sattvic diet"],
+          "donts": ["Do not chant after sunset for solar practice", "Avoid offering Arghya with the water splashing on the feet", "Do not skip the daily Arghya once vowed"]
+        }
+      },
+      "relatedStotraSlugs": ["aditya-hridayam", "surya-kavacham", "surya-ashtakam", "surya-chalisa"],
+      "relatedDeitySlug": "surya",
+      "faqs": [
+        { "question": "What is the Surya beej mantra?", "answer": "The Surya beej (seed) mantra is \"Om Hraam Hreem Hraum Sah Suryaya Namah\" from the Mantra Mahodadhi. The simple Vedic form is \"Om Suryaya Namah\"." },
+        { "question": "When should the Surya mantra be chanted?", "answer": "At sunrise, facing east, ideally on a Sunday, accompanied by Arghya (a water offering to the rising sun)." },
+        { "question": "How many times should the Surya mantra be chanted?", "answer": "Traditionally 108 times daily, building toward a sankalpa of 7,000 repetitions over 40 days." }
+      ],
+      "createdAt": "2026-05-31",
+      "updatedAt": "2026-05-31"
+    },
+    {
+      "slug": "mangal",
+      "type": "planet",
+      "name": { "en": "Mangal (Mars)", "hi": "मङ्गल", "iast": "Maṅgala" },
+      "alsoKnownAs": ["Mangal Dev", "Mars mantra", "mangal beej mantra", "bhauma mantra", "kuja mantra", "mangal mantra for manglik"],
+      "whatIs": "The Mangal mantra is the seed (bija) invocation of Mangal, the planet Mars, the commander of the celestial assembly and karaka of energy, courage, land and brothers in Vedic astrology. Its tantric form from the Mantra Mahodadhi is \"Om Kraam Kreem Kraum Sah Bhaumaya Namah.\" It is chanted on Tuesdays facing south to channel Mars's drive constructively, to address Mangal dosha (the 'manglik' affliction) before marriage, to build courage and stamina, and to ease conflict, accidents and blood-related ailments when Mars is afflicted. It is closely linked with Hanuman worship and associated with red coral, red flowers, masoor dal and the colour red.",
+      "keyFacts": [
+        { "label": "Planet", "value": "Mars (Mangal / Kuja / Bhauma)" },
+        { "label": "Best day", "value": "Tuesday (Mangalvar)" },
+        { "label": "Direction", "value": "South" },
+        { "label": "Recommended japa", "value": "10,000 (full sankalpa)" },
+        { "label": "Mala", "value": "Red coral or rudraksha, 108 beads" },
+        { "label": "Primary source", "value": "Mantra Mahodadhi" }
+      ],
+      "entity": { "name": "Mangala", "wikipedia": "https://en.wikipedia.org/wiki/Mangala", "wikidata": "https://www.wikidata.org/wiki/Q842432" },
+      "mantras": [
+        {
+          "textDevanagari": "ॐ क्रां क्रीं क्रौं सः भौमाय नमः",
+          "transliteration": "Om Kraam Kreem Kraum Sah Bhaumaya Namah",
+          "kind": "bija",
+          "lineage": "Mantra Mahodadhi bija (tantric)",
+          "source": "Mantra Mahodadhi of Mahidhara",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The tantric seed mantra of Mars; Kraam-Kreem-Kraum with 'Sah' invoke Mangal's courageous energy.",
+          "hindiExplanation": "मंगल का तांत्रिक बीज मंत्र; क्रां-क्रीं-क्रौं बीजाक्षर मंगल की साहसिक ऊर्जा का आवाहन करते हैं।"
+        },
+        {
+          "textDevanagari": "ॐ भौमाय नमः",
+          "transliteration": "Om Bhaumaya Namah",
+          "kind": "naam",
+          "lineage": "Vedic name + shakti",
+          "source": "Vedic planetary mantra tradition",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The simple Vedic name mantra of Mars (Bhauma, the son of the Earth)."
+        },
+        {
+          "textDevanagari": "ॐ अङ्गारकाय विद्महे शक्तिहस्ताय धीमहि तन्नो भौमः प्रचोदयात्",
+          "transliteration": "Om Angarakaya Vidmahe Shaktihastaya Dhimahi Tanno Bhaumah Prachodayat",
+          "kind": "gayatri",
+          "lineage": "Navagraha Gayatri",
+          "source": "Mangal Gayatri tradition",
+          "authenticity": "variable by tradition",
+          "englishExplanation": "The 24-syllable Gayatri-metre invocation of Mars (Angaraka, the ember-hued one)."
+        }
+      ],
+      "vidhi": {
+        "benefits": [
+          "Traditionally chanted to address Mangal dosha (manglik) before marriage",
+          "Builds courage, stamina, drive, and decisiveness",
+          "Associated with relief from conflict, accidents, and blood-related issues when Mars is afflicted",
+          "Channels Mars's aggression into disciplined action"
+        ],
+        "impact": "Mangal is the karaka of energy and courage. Tuesday japa, often alongside Hanuman worship, is traditionally held to temper and direct Mars's force.",
+        "japaCount": { "minPerDay": 108, "recommended": 108, "totalSankalpa": 10000 },
+        "mala": { "type": "Red coral or rudraksha mala", "beads": 108, "why": "Red coral is the gemstone of Mars" },
+        "durationDays": { "minimum": 40, "recommended": 40 },
+        "bestTime": "Tuesday morning, during Mangal hora",
+        "bestDayToStart": "Tuesday (Mangalvar), ideally Shukla Paksha",
+        "direction": "Face South",
+        "asana": "Red woollen seat",
+        "pujaSamagri": ["Red flowers", "Red sandalwood", "Masoor dal", "Ghee/jaggery", "Red cloth"],
+        "pujaModes": {
+          "minimal": "108 japa of the name mantra facing south on Tuesday",
+          "medium": "108 japa + red-flower offering + Hanuman Chalisa",
+          "full": "Sankalpa of 10,000 over 40 days with Tuesday Mangal/Hanuman puja and red-item daan"
+        },
+        "guruDiksha": { "level": "ideal", "note": "Name mantra is open; the bija is best taken under a guru, especially for dosha remediation." },
+        "deityImageOrIdol": "Image of Mangal Dev (red complexion, four arms) or Hanuman for Mars remedies",
+        "dosAndDonts": {
+          "dos": ["Begin on a Tuesday", "Pair with Hanuman worship", "Direct the energy into constructive effort"],
+          "donts": ["Do not chant in anger or to dominate others", "Avoid non-vegetarian food and alcohol during the vow", "Do not abandon the count midway"]
+        }
+      },
+      "relatedStotraSlugs": ["hanuman-chalisa", "mangal-chalisa", "navagraha-stotra"],
+      "relatedDeitySlug": "hanuman",
+      "faqs": [
+        { "question": "What is the Mangal beej mantra?", "answer": "The Mangal beej (seed) mantra is \"Om Kraam Kreem Kraum Sah Bhaumaya Namah\" from the Mantra Mahodadhi. The simple Vedic form is \"Om Bhaumaya Namah\"." },
+        { "question": "Which mantra is best for Manglik dosha?", "answer": "The Mangal mantra chanted on Tuesdays, traditionally combined with Hanuman worship (Hanuman Chalisa), is the classical observance for Mangal (manglik) dosha. Consult an astrologer for chart-specific guidance." },
+        { "question": "Which day and direction for the Mangal mantra?", "answer": "Tuesday (Mangalvar), facing south, the day and direction associated with Mars." }
+      ],
+      "createdAt": "2026-05-31",
+      "updatedAt": "2026-05-31"
+    }
+  ]
+}
