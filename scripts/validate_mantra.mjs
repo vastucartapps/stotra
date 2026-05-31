@@ -17,6 +17,25 @@ const ok = (c, m) => { if (!c) errs.push(m); };
 
 const read = (f) => JSON.parse(fs.readFileSync(path.join(DIR, f), "utf8"));
 
+/**
+ * Reject homoglyph corruption: any codepoint inside a Devanagari string that
+ * is NOT Devanagari (U+0900–U+097F), ASCII, or allowed punctuation/space.
+ * This catches the Thai/Latin look-alikes the display layer can inject
+ * (e.g. Thai U+0E15 ต masquerading as Devanagari त).
+ */
+function devanagariStray(s) {
+  if (typeof s !== "string") return [];
+  const out = [];
+  for (let i = 0; i < s.length; i++) {
+    const cp = s.codePointAt(i);
+    if (cp < 0x80) continue;
+    if (cp >= 0x0900 && cp <= 0x097f) continue;
+    if ([0x2014, 0x2013, 0x2018, 0x2019, 0x201c, 0x201d, 0x2026].includes(cp)) continue;
+    out.push("U+" + cp.toString(16));
+  }
+  return out;
+}
+
 // --- Anchors ---
 const bija = read("_canonical_bija.json");
 const vedic = read("_canonical_bija_vedic.json");
@@ -65,24 +84,39 @@ for (const [rec, label] of allRecords) {
   ok(rec.type, `${f}: no type`);
   ok(rec.name?.en, `${f}: no name.en`);
   ok(Array.isArray(rec.mantras) && rec.mantras.length > 0, `${f}: no mantras[]`);
-  // If a planet page, its primary bija MUST byte-match the anchor.
+  // If a planet page, its bija AND gayatri MUST byte-match the anchors.
   if (rec.type === "planet") {
-    const anchor = bija.planets[rec.slug];
-    ok(anchor, `${f}: planet slug '${rec.slug}' not in bija anchor`);
-    if (anchor) {
-      const hasBija = rec.mantras.some(
-        (m) => m.textDevanagari === anchor.bija_devanagari && m.transliteration === anchor.bija_iast
-      );
-      ok(hasBija, `${f}: bija does NOT byte-match canonical anchor for ${rec.slug}`);
+    const ab = bija.planets[rec.slug];
+    const ag = gayatri.planets[rec.slug];
+    ok(ab, `${f}: planet slug '${rec.slug}' not in bija anchor`);
+    if (ab) {
+      ok(rec.mantras.some((m) => m.kind === "bija" && m.textDevanagari === ab.bija_devanagari && m.transliteration === ab.bija_iast),
+        `${f}: bija does NOT byte-match canonical anchor for ${rec.slug}`);
+    }
+    const mg = rec.mantras.find((m) => m.kind === "gayatri");
+    if (mg && ag) {
+      ok(mg.textDevanagari === ag.devanagari, `${f}: gayatri devanagari does NOT byte-match anchor for ${rec.slug}`);
+      ok(mg.transliteration === ag.iast, `${f}: gayatri iast does NOT byte-match anchor for ${rec.slug}`);
     }
   }
-  // Every mantra must carry a lineage label + source (no fabrication).
+  // Every mantra must carry a lineage label + source (no fabrication) and
+  // contain NO homoglyph corruption in its Devanagari.
   for (const [i, m] of (rec.mantras || []).entries()) {
     ok(m.textDevanagari, `${f}: mantra[${i}] no textDevanagari`);
     ok(m.transliteration, `${f}: mantra[${i}] no transliteration`);
     ok(m.lineage, `${f}: mantra[${i}] no lineage label`);
     ok(m.source, `${f}: mantra[${i}] no source citation`);
     ok(m.authenticity, `${f}: mantra[${i}] no authenticity tag`);
+    const stray = devanagariStray(m.textDevanagari);
+    ok(stray.length === 0, `${f}: mantra[${i}] homoglyph/foreign char(s) in Devanagari: ${stray.join(",")}`);
+  }
+}
+
+// Anchors themselves must be homoglyph-clean.
+for (const p of PLANETS) {
+  for (const [src, val] of [["bija", bija.planets[p]?.bija_devanagari], ["vedic", vedic.planets[p]?.name_devanagari], ["gayatri", gayatri.planets[p]?.devanagari]]) {
+    const stray = devanagariStray(val);
+    ok(stray.length === 0, `anchor ${src}.${p} homoglyph(s): ${stray.join(",")}`);
   }
 }
 
