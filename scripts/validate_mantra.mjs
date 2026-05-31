@@ -110,6 +110,15 @@ for (const [rec, label] of allRecords) {
     const stray = devanagariStray(m.textDevanagari);
     ok(stray.length === 0, `${f}: mantra[${i}] homoglyph/foreign char(s) in Devanagari: ${stray.join(",")}`);
   }
+  // Entity URLs must be well-formed (catches display-corrupted QIDs like "Q102ioned").
+  if (rec.entity?.wikidata) {
+    ok(/^https:\/\/www\.wikidata\.org\/wiki\/Q\d+$/.test(rec.entity.wikidata),
+      `${f}: malformed wikidata URL: ${rec.entity.wikidata}`);
+  }
+  if (rec.entity?.wikipedia) {
+    ok(/^https:\/\/en\.wikipedia\.org\/wiki\/\S+$/.test(rec.entity.wikipedia),
+      `${f}: malformed wikipedia URL: ${rec.entity.wikipedia}`);
+  }
 }
 
 // Anchors themselves must be homoglyph-clean.

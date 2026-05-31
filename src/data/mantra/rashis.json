@@ -1,0 +1,1267 @@
+{
+  "_note": "Rashi (zodiac sign) mantra pages. Rashi->ruling planet is [confirmed classical] (BPHS Ch.4). The remedial mantra = the ruling planet's mantra; mapping rashi to that remedy is [modern convention] built on confirmed rulership (NOT a verbatim scriptural prescription — stated on-page). Mantra Devanagari copied from anchors; homoglyph-gated. Lagna shares the same ruler, so Lagna gets ONE explainer page, not 12.",
+  "rashis": [
+    {
+      "slug": "mesha",
+      "type": "rashi",
+      "name": {
+        "en": "Mesha (Aries)",
+        "hi": "मेष",
+        "iast": "Meṣa"
+      },
+      "alsoKnownAs": [
+        "Aries",
+        "Mesha rashi",
+        "mesha rashi mantra",
+        "aries remedy mantra",
+        "mesh rashi mantra"
+      ],
+      "whatIs": "Mesha (Aries) is the first sign of the zodiac, ruled by Mangal (Mars) in classical Vedic astrology (Brihat Parashara Hora Shastra). For those with the Moon or ascendant in Mesha, the traditional remedial practice is the Mangal (Mars) mantra, chanted to strengthen and harmonise the sign's ruling planet. The widely-used form is \"Om Bhaumaya Namah\" (Vedic) or the tantric bija \"Om Kraam Kreem Kraum Sah Bhaumaya Namah.\" Note: associating a rashi with its ruler's mantra is a traditional convention derived from classical rulership, not a verbatim scriptural prescription.",
+      "keyFacts": [
+        {
+          "label": "Sign",
+          "value": "Aries (1st)"
+        },
+        {
+          "label": "Ruling planet",
+          "value": "Mangal (Mars)"
+        },
+        {
+          "label": "Element",
+          "value": "Fire (Agni)"
+        },
+        {
+          "label": "Remedial mantra",
+          "value": "Mars / Mangal mantra"
+        },
+        {
+          "label": "Basis",
+          "value": "BPHS rulership (convention)"
+        }
+      ],
+      "entity": {
+        "name": "Aries",
+        "wikipedia": "https://en.wikipedia.org/wiki/Aries_(astrology)",
+        "wikidata": "https://www.wikidata.org/wiki/Q101187"
+      },
+      "mantras": [
+        {
+          "textDevanagari": "ॐ भौमाय नमः",
+          "transliteration": "Om Bhaumaya Namah",
+          "kind": "naam",
+          "lineage": "Vedic name + shakti",
+          "source": "Ruling planet Mangal (BPHS rulership of Mesha)",
+          "authenticity": "modern convention",
+          "englishExplanation": "The Mars name mantra, ruler of Mesha; chanted to strengthen the sign's lord."
+        },
+        {
+          "textDevanagari": "ॐ क्रां क्रीं क्रौं सः भौमाय नमः",
+          "transliteration": "Om Kraam Kreem Kraum Sah Bhaumaya Namah",
+          "kind": "bija",
+          "lineage": "Mantra Mahodadhi bija (tantric)",
+          "source": "Mantra Mahodadhi (Mangal bija)",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The tantric Mars bija for Mesha natives, best under a guru."
+        }
+      ],
+      "vidhi": {
+        "benefits": [
+          "Strengthens the sign-lord Mars",
+          "Traditionally for courage, drive, and Mangal-related concerns"
+        ],
+        "bestDayToStart": "Tuesday (Mars's day)",
+        "japaCount": {
+          "recommended": 108
+        },
+        "guruDiksha": {
+          "level": "ideal",
+          "note": "Name mantra open; bija under a guru."
+        }
+      },
+      "relatedStotraSlugs": [
+        "hanuman-chalisa",
+        "mangal-chalisa"
+      ],
+      "relatedDeitySlug": "hanuman",
+      "links": [
+        {
+          "label": "Full Mangal (Mars) mantra & vidhi",
+          "url": "/mantra/planet/mangal",
+          "rel": "internal"
+        },
+        {
+          "label": "Find your rashi (Kundali)",
+          "url": "https://kundali.vastucart.in",
+          "rel": "consultation"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Which mantra is for Mesha (Aries) rashi?",
+          "answer": "Mesha is ruled by Mars, so the Mars mantra is used: \"Om Bhaumaya Namah\", or the bija \"Om Kraam Kreem Kraum Sah Bhaumaya Namah\". This follows the planet that rules the sign."
+        },
+        {
+          "question": "Which planet rules Aries?",
+          "answer": "Mars (Mangal) rules Aries (Mesha) in classical Vedic astrology per the Brihat Parashara Hora Shastra."
+        }
+      ],
+      "createdAt": "2026-05-31",
+      "updatedAt": "2026-05-31"
+    },
+    {
+      "slug": "vrishabha",
+      "type": "rashi",
+      "name": {
+        "en": "Vrishabha (Taurus)",
+        "hi": "वृषभ",
+        "iast": "Vṛṣabha"
+      },
+      "alsoKnownAs": [
+        "Taurus",
+        "Vrishabha rashi",
+        "vrishabh rashi mantra",
+        "taurus remedy mantra",
+        "vrushabha mantra"
+      ],
+      "whatIs": "Vrishabha (Taurus) is the second sign of the zodiac, ruled by Shukra (Venus) in classical Vedic astrology. For those with the Moon or ascendant in Vrishabha, the traditional remedial practice is the Shukra (Venus) mantra to strengthen the sign's ruling planet — \"Om Shukraya Namah\" (Vedic) or the bija \"Om Draam Dreem Draum Sah Shukraya Namah.\" Associating a rashi with its ruler's mantra is a traditional convention derived from classical rulership, not a verbatim scriptural prescription.",
+      "keyFacts": [
+        {
+          "label": "Sign",
+          "value": "Taurus (2nd)"
+        },
+        {
+          "label": "Ruling planet",
+          "value": "Shukra (Venus)"
+        },
+        {
+          "label": "Element",
+          "value": "Earth (Prithvi)"
+        },
+        {
+          "label": "Remedial mantra",
+          "value": "Venus / Shukra mantra"
+        },
+        {
+          "label": "Basis",
+          "value": "BPHS rulership (convention)"
+        }
+      ],
+      "entity": {
+        "name": "Taurus",
+        "wikipedia": "https://en.wikipedia.org/wiki/Taurus_(astrology)",
+        "wikidata": "https://www.wikidata.org/wiki/Q100962"
+      },
+      "mantras": [
+        {
+          "textDevanagari": "ॐ शुक्राय नमः",
+          "transliteration": "Om Shukraya Namah",
+          "kind": "naam",
+          "lineage": "Vedic name + shakti",
+          "source": "Ruling planet Shukra (BPHS rulership of Vrishabha)",
+          "authenticity": "modern convention",
+          "englishExplanation": "The Venus name mantra, ruler of Vrishabha."
+        },
+        {
+          "textDevanagari": "ॐ द्रां द्रीं द्रौं सः शुक्राय नमः",
+          "transliteration": "Om Draam Dreem Draum Sah Shukraya Namah",
+          "kind": "bija",
+          "lineage": "Mantra Mahodadhi bija (tantric)",
+          "source": "Mantra Mahodadhi (Shukra bija)",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The tantric Venus bija for Vrishabha natives."
+        }
+      ],
+      "vidhi": {
+        "benefits": [
+          "Strengthens the sign-lord Venus",
+          "Traditionally for harmony, comfort, and relationships"
+        ],
+        "bestDayToStart": "Friday (Venus's day)",
+        "japaCount": {
+          "recommended": 108
+        },
+        "guruDiksha": {
+          "level": "ideal"
+        }
+      },
+      "relatedStotraSlugs": [
+        "mahalakshmi-ashtakam",
+        "lakshmi-chalisa"
+      ],
+      "relatedDeitySlug": "lakshmi",
+      "links": [
+        {
+          "label": "Full Shukra (Venus) mantra & vidhi",
+          "url": "/mantra/planet/shukra",
+          "rel": "internal"
+        },
+        {
+          "label": "Find your rashi (Kundali)",
+          "url": "https://kundali.vastucart.in",
+          "rel": "consultation"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Which mantra is for Vrishabha (Taurus) rashi?",
+          "answer": "Vrishabha is ruled by Venus, so the Venus mantra is used: \"Om Shukraya Namah\", or the bija \"Om Draam Dreem Draum Sah Shukraya Namah\"."
+        },
+        {
+          "question": "Which planet rules Taurus?",
+          "answer": "Venus (Shukra) rules Taurus (Vrishabha) in classical Vedic astrology."
+        }
+      ],
+      "createdAt": "2026-05-31",
+      "updatedAt": "2026-05-31"
+    },
+    {
+      "slug": "mithuna",
+      "type": "rashi",
+      "name": {
+        "en": "Mithuna (Gemini)",
+        "hi": "मिथुन",
+        "iast": "Mithuna"
+      },
+      "alsoKnownAs": [
+        "Gemini",
+        "Mithuna rashi",
+        "mithun rashi mantra",
+        "gemini remedy mantra"
+      ],
+      "whatIs": "Mithuna (Gemini) is the third sign of the zodiac, ruled by Budha (Mercury) in classical Vedic astrology. For those with the Moon or ascendant in Mithuna, the traditional remedial practice is the Budha (Mercury) mantra — \"Om Budhaya Namah\" (Vedic) or the bija \"Om Braam Breem Braum Sah Budhaya Namah.\" Associating a rashi with its ruler's mantra is a traditional convention derived from classical rulership.",
+      "keyFacts": [
+        {
+          "label": "Sign",
+          "value": "Gemini (3rd)"
+        },
+        {
+          "label": "Ruling planet",
+          "value": "Budha (Mercury)"
+        },
+        {
+          "label": "Element",
+          "value": "Air (Vayu)"
+        },
+        {
+          "label": "Remedial mantra",
+          "value": "Mercury / Budha mantra"
+        },
+        {
+          "label": "Basis",
+          "value": "BPHS rulership (convention)"
+        }
+      ],
+      "entity": {
+        "name": "Gemini",
+        "wikipedia": "https://en.wikipedia.org/wiki/Gemini_(astrology)",
+        "wikidata": "https://www.wikidata.org/wiki/Q108411"
+      },
+      "mantras": [
+        {
+          "textDevanagari": "ॐ बुधाय नमः",
+          "transliteration": "Om Budhaya Namah",
+          "kind": "naam",
+          "lineage": "Vedic name + shakti",
+          "source": "Ruling planet Budha (BPHS rulership of Mithuna)",
+          "authenticity": "modern convention",
+          "englishExplanation": "The Mercury name mantra, ruler of Mithuna."
+        },
+        {
+          "textDevanagari": "ॐ ब्रां ब्रीं ब्रौं सः बुधाय नमः",
+          "transliteration": "Om Braam Breem Braum Sah Budhaya Namah",
+          "kind": "bija",
+          "lineage": "Mantra Mahodadhi bija (tantric)",
+          "source": "Mantra Mahodadhi (Budha bija)",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The tantric Mercury bija for Mithuna natives."
+        }
+      ],
+      "vidhi": {
+        "benefits": [
+          "Strengthens the sign-lord Mercury",
+          "Traditionally for intellect, communication, and learning"
+        ],
+        "bestDayToStart": "Wednesday (Mercury's day)",
+        "japaCount": {
+          "recommended": 108
+        },
+        "guruDiksha": {
+          "level": "ideal"
+        }
+      },
+      "relatedStotraSlugs": [
+        "vishnu-sahasranama",
+        "ganesh-chalisa"
+      ],
+      "relatedDeitySlug": "vishnu",
+      "links": [
+        {
+          "label": "Full Budha (Mercury) mantra & vidhi",
+          "url": "/mantra/planet/budha",
+          "rel": "internal"
+        },
+        {
+          "label": "Find your rashi (Kundali)",
+          "url": "https://kundali.vastucart.in",
+          "rel": "consultation"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Which mantra is for Mithuna (Gemini) rashi?",
+          "answer": "Mithuna is ruled by Mercury, so the Mercury mantra is used: \"Om Budhaya Namah\", or the bija \"Om Braam Breem Braum Sah Budhaya Namah\"."
+        },
+        {
+          "question": "Which planet rules Gemini?",
+          "answer": "Mercury (Budha) rules Gemini (Mithuna) in classical Vedic astrology."
+        }
+      ],
+      "createdAt": "2026-05-31",
+      "updatedAt": "2026-05-31"
+    },
+    {
+      "slug": "karka",
+      "type": "rashi",
+      "name": {
+        "en": "Karka (Cancer)",
+        "hi": "कर्क",
+        "iast": "Karka"
+      },
+      "alsoKnownAs": [
+        "Cancer",
+        "Karka rashi",
+        "kark rashi mantra",
+        "cancer remedy mantra"
+      ],
+      "whatIs": "Karka (Cancer) is the fourth sign of the zodiac, ruled by Chandra (the Moon) in classical Vedic astrology. For those with the Moon or ascendant in Karka, the traditional remedial practice is the Chandra (Moon) mantra — \"Om Chandraya Namah\" (Vedic) or the bija \"Om Shraam Shreem Shraum Sah Chandraya Namah.\" Associating a rashi with its ruler's mantra is a traditional convention derived from classical rulership.",
+      "keyFacts": [
+        {
+          "label": "Sign",
+          "value": "Cancer (4th)"
+        },
+        {
+          "label": "Ruling planet",
+          "value": "Chandra (Moon)"
+        },
+        {
+          "label": "Element",
+          "value": "Water (Jala)"
+        },
+        {
+          "label": "Remedial mantra",
+          "value": "Moon / Chandra mantra"
+        },
+        {
+          "label": "Basis",
+          "value": "BPHS rulership (convention)"
+        }
+      ],
+      "entity": {
+        "name": "Cancer",
+        "wikipedia": "https://en.wikipedia.org/wiki/Cancer_(astrology)",
+        "wikidata": "https://www.wikidata.org/wiki/Q101101"
+      },
+      "mantras": [
+        {
+          "textDevanagari": "ॐ चन्द्राय नमः",
+          "transliteration": "Om Chandraya Namah",
+          "kind": "naam",
+          "lineage": "Vedic name + shakti",
+          "source": "Ruling planet Chandra (BPHS rulership of Karka)",
+          "authenticity": "modern convention",
+          "englishExplanation": "The Moon name mantra, ruler of Karka."
+        },
+        {
+          "textDevanagari": "ॐ श्रां श्रीं श्रौं सः चन्द्राय नमः",
+          "transliteration": "Om Shraam Shreem Shraum Sah Chandraya Namah",
+          "kind": "bija",
+          "lineage": "Mantra Mahodadhi bija (tantric)",
+          "source": "Mantra Mahodadhi (Chandra bija)",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The tantric Moon bija for Karka natives."
+        }
+      ],
+      "vidhi": {
+        "benefits": [
+          "Strengthens the sign-lord Moon",
+          "Traditionally for emotional calm and intuition"
+        ],
+        "bestDayToStart": "Monday (Moon's day)",
+        "japaCount": {
+          "recommended": 108
+        },
+        "guruDiksha": {
+          "level": "ideal"
+        }
+      },
+      "relatedStotraSlugs": [
+        "shiva-chalisa",
+        "chandra-kavacham"
+      ],
+      "relatedDeitySlug": "shiva",
+      "links": [
+        {
+          "label": "Full Chandra (Moon) mantra & vidhi",
+          "url": "/mantra/planet/chandra",
+          "rel": "internal"
+        },
+        {
+          "label": "Find your rashi (Kundali)",
+          "url": "https://kundali.vastucart.in",
+          "rel": "consultation"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Which mantra is for Karka (Cancer) rashi?",
+          "answer": "Karka is ruled by the Moon, so the Moon mantra is used: \"Om Chandraya Namah\", or the bija \"Om Shraam Shreem Shraum Sah Chandraya Namah\"."
+        },
+        {
+          "question": "Which planet rules Cancer?",
+          "answer": "The Moon (Chandra) rules Cancer (Karka) in classical Vedic astrology."
+        }
+      ],
+      "createdAt": "2026-05-31",
+      "updatedAt": "2026-05-31"
+    },
+    {
+      "slug": "simha",
+      "type": "rashi",
+      "name": {
+        "en": "Simha (Leo)",
+        "hi": "सिंह",
+        "iast": "Siṃha"
+      },
+      "alsoKnownAs": [
+        "Leo",
+        "Simha rashi",
+        "sinh rashi mantra",
+        "leo remedy mantra"
+      ],
+      "whatIs": "Simha (Leo) is the fifth sign of the zodiac, ruled by Surya (the Sun) in classical Vedic astrology. For those with the Moon or ascendant in Simha, the traditional remedial practice is the Surya (Sun) mantra — \"Om Suryaya Namah\" (Vedic) or the bija \"Om Hraam Hreem Hraum Sah Suryaya Namah.\" Associating a rashi with its ruler's mantra is a traditional convention derived from classical rulership.",
+      "keyFacts": [
+        {
+          "label": "Sign",
+          "value": "Leo (5th)"
+        },
+        {
+          "label": "Ruling planet",
+          "value": "Surya (Sun)"
+        },
+        {
+          "label": "Element",
+          "value": "Fire (Agni)"
+        },
+        {
+          "label": "Remedial mantra",
+          "value": "Sun / Surya mantra"
+        },
+        {
+          "label": "Basis",
+          "value": "BPHS rulership (convention)"
+        }
+      ],
+      "entity": {
+        "name": "Leo",
+        "wikipedia": "https://en.wikipedia.org/wiki/Leo_(astrology)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1108967"
+      },
+      "mantras": [
+        {
+          "textDevanagari": "ॐ सूर्याय नमः",
+          "transliteration": "Om Suryaya Namah",
+          "kind": "naam",
+          "lineage": "Vedic name + shakti",
+          "source": "Ruling planet Surya (BPHS rulership of Simha)",
+          "authenticity": "modern convention",
+          "englishExplanation": "The Sun name mantra, ruler of Simha."
+        },
+        {
+          "textDevanagari": "ॐ ह्रां ह्रीं ह्रौं सः सूर्याय नमः",
+          "transliteration": "Om Hraam Hreem Hraum Sah Suryaya Namah",
+          "kind": "bija",
+          "lineage": "Mantra Mahodadhi bija (tantric)",
+          "source": "Mantra Mahodadhi (Surya bija)",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The tantric Sun bija for Simha natives."
+        }
+      ],
+      "vidhi": {
+        "benefits": [
+          "Strengthens the sign-lord Sun",
+          "Traditionally for vitality, authority, and confidence"
+        ],
+        "bestDayToStart": "Sunday (Sun's day)",
+        "japaCount": {
+          "recommended": 108
+        },
+        "guruDiksha": {
+          "level": "ideal"
+        }
+      },
+      "relatedStotraSlugs": [
+        "aditya-hridayam",
+        "surya-kavacham"
+      ],
+      "relatedDeitySlug": "surya",
+      "links": [
+        {
+          "label": "Full Surya (Sun) mantra & vidhi",
+          "url": "/mantra/planet/surya",
+          "rel": "internal"
+        },
+        {
+          "label": "Find your rashi (Kundali)",
+          "url": "https://kundali.vastucart.in",
+          "rel": "consultation"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Which mantra is for Simha (Leo) rashi?",
+          "answer": "Simha is ruled by the Sun, so the Sun mantra is used: \"Om Suryaya Namah\", or the bija \"Om Hraam Hreem Hraum Sah Suryaya Namah\"."
+        },
+        {
+          "question": "Which planet rules Leo?",
+          "answer": "The Sun (Surya) rules Leo (Simha) in classical Vedic astrology."
+        }
+      ],
+      "createdAt": "2026-05-31",
+      "updatedAt": "2026-05-31"
+    },
+    {
+      "slug": "kanya",
+      "type": "rashi",
+      "name": {
+        "en": "Kanya (Virgo)",
+        "hi": "कन्या",
+        "iast": "Kanyā"
+      },
+      "alsoKnownAs": [
+        "Virgo",
+        "Kanya rashi",
+        "kanya rashi mantra",
+        "virgo remedy mantra"
+      ],
+      "whatIs": "Kanya (Virgo) is the sixth sign of the zodiac, ruled by Budha (Mercury) in classical Vedic astrology. For those with the Moon or ascendant in Kanya, the traditional remedial practice is the Budha (Mercury) mantra — \"Om Budhaya Namah\" (Vedic) or the bija \"Om Braam Breem Braum Sah Budhaya Namah.\" Associating a rashi with its ruler's mantra is a traditional convention derived from classical rulership.",
+      "keyFacts": [
+        {
+          "label": "Sign",
+          "value": "Virgo (6th)"
+        },
+        {
+          "label": "Ruling planet",
+          "value": "Budha (Mercury)"
+        },
+        {
+          "label": "Element",
+          "value": "Earth (Prithvi)"
+        },
+        {
+          "label": "Remedial mantra",
+          "value": "Mercury / Budha mantra"
+        },
+        {
+          "label": "Basis",
+          "value": "BPHS rulership (convention)"
+        }
+      ],
+      "entity": {
+        "name": "Virgo",
+        "wikipedia": "https://en.wikipedia.org/wiki/Virgo_(astrology)",
+        "wikidata": "https://www.wikidata.org/wiki/Q102000"
+      },
+      "mantras": [
+        {
+          "textDevanagari": "ॐ बुधाय नमः",
+          "transliteration": "Om Budhaya Namah",
+          "kind": "naam",
+          "lineage": "Vedic name + shakti",
+          "source": "Ruling planet Budha (BPHS rulership of Kanya)",
+          "authenticity": "modern convention",
+          "englishExplanation": "The Mercury name mantra, ruler of Kanya."
+        },
+        {
+          "textDevanagari": "ॐ ब्रां ब्रीं ब्रौं सः बुधाय नमः",
+          "transliteration": "Om Braam Breem Braum Sah Budhaya Namah",
+          "kind": "bija",
+          "lineage": "Mantra Mahodadhi bija (tantric)",
+          "source": "Mantra Mahodadhi (Budha bija)",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The tantric Mercury bija for Kanya natives."
+        }
+      ],
+      "vidhi": {
+        "benefits": [
+          "Strengthens the sign-lord Mercury",
+          "Traditionally for intellect, analysis, and skill"
+        ],
+        "bestDayToStart": "Wednesday (Mercury's day)",
+        "japaCount": {
+          "recommended": 108
+        },
+        "guruDiksha": {
+          "level": "ideal"
+        }
+      },
+      "relatedStotraSlugs": [
+        "vishnu-sahasranama",
+        "ganesh-chalisa"
+      ],
+      "relatedDeitySlug": "vishnu",
+      "links": [
+        {
+          "label": "Full Budha (Mercury) mantra & vidhi",
+          "url": "/mantra/planet/budha",
+          "rel": "internal"
+        },
+        {
+          "label": "Find your rashi (Kundali)",
+          "url": "https://kundali.vastucart.in",
+          "rel": "consultation"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Which mantra is for Kanya (Virgo) rashi?",
+          "answer": "Kanya is ruled by Mercury, so the Mercury mantra is used: \"Om Budhaya Namah\", or the bija \"Om Braam Breem Braum Sah Budhaya Namah\"."
+        },
+        {
+          "question": "Which planet rules Virgo?",
+          "answer": "Mercury (Budha) rules Virgo (Kanya) in classical Vedic astrology."
+        }
+      ],
+      "createdAt": "2026-05-31",
+      "updatedAt": "2026-05-31"
+    },
+    {
+      "slug": "tula",
+      "type": "rashi",
+      "name": {
+        "en": "Tula (Libra)",
+        "hi": "तुला",
+        "iast": "Tulā"
+      },
+      "alsoKnownAs": [
+        "Libra",
+        "Tula rashi",
+        "tula rashi mantra",
+        "libra remedy mantra"
+      ],
+      "whatIs": "Tula (Libra) is the seventh sign of the zodiac, ruled by Shukra (Venus) in classical Vedic astrology. For those with the Moon or ascendant in Tula, the traditional remedial practice is the Shukra (Venus) mantra — \"Om Shukraya Namah\" (Vedic) or the bija \"Om Draam Dreem Draum Sah Shukraya Namah.\" Associating a rashi with its ruler's mantra is a traditional convention derived from classical rulership.",
+      "keyFacts": [
+        {
+          "label": "Sign",
+          "value": "Libra (7th)"
+        },
+        {
+          "label": "Ruling planet",
+          "value": "Shukra (Venus)"
+        },
+        {
+          "label": "Element",
+          "value": "Air (Vayu)"
+        },
+        {
+          "label": "Remedial mantra",
+          "value": "Venus / Shukra mantra"
+        },
+        {
+          "label": "Basis",
+          "value": "BPHS rulership (convention)"
+        }
+      ],
+      "entity": {
+        "name": "Libra",
+        "wikipedia": "https://en.wikipedia.org/wiki/Libra_(astrology)",
+        "wikidata": "https://www.wikidata.org/wiki/Q103091"
+      },
+      "mantras": [
+        {
+          "textDevanagari": "ॐ शुक्राय नमः",
+          "transliteration": "Om Shukraya Namah",
+          "kind": "naam",
+          "lineage": "Vedic name + shakti",
+          "source": "Ruling planet Shukra (BPHS rulership of Tula)",
+          "authenticity": "modern convention",
+          "englishExplanation": "The Venus name mantra, ruler of Tula."
+        },
+        {
+          "textDevanagari": "ॐ द्रां द्रीं द्रौं सः शुक्राय नमः",
+          "transliteration": "Om Draam Dreem Draum Sah Shukraya Namah",
+          "kind": "bija",
+          "lineage": "Mantra Mahodadhi bija (tantric)",
+          "source": "Mantra Mahodadhi (Shukra bija)",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The tantric Venus bija for Tula natives."
+        }
+      ],
+      "vidhi": {
+        "benefits": [
+          "Strengthens the sign-lord Venus",
+          "Traditionally for harmony, partnership, and balance"
+        ],
+        "bestDayToStart": "Friday (Venus's day)",
+        "japaCount": {
+          "recommended": 108
+        },
+        "guruDiksha": {
+          "level": "ideal"
+        }
+      },
+      "relatedStotraSlugs": [
+        "mahalakshmi-ashtakam",
+        "lakshmi-chalisa"
+      ],
+      "relatedDeitySlug": "lakshmi",
+      "links": [
+        {
+          "label": "Full Shukra (Venus) mantra & vidhi",
+          "url": "/mantra/planet/shukra",
+          "rel": "internal"
+        },
+        {
+          "label": "Find your rashi (Kundali)",
+          "url": "https://kundali.vastucart.in",
+          "rel": "consultation"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Which mantra is for Tula (Libra) rashi?",
+          "answer": "Tula is ruled by Venus, so the Venus mantra is used: \"Om Shukraya Namah\", or the bija \"Om Draam Dreem Draum Sah Shukraya Namah\"."
+        },
+        {
+          "question": "Which planet rules Libra?",
+          "answer": "Venus (Shukra) rules Libra (Tula) in classical Vedic astrology."
+        }
+      ],
+      "createdAt": "2026-05-31",
+      "updatedAt": "2026-05-31"
+    },
+    {
+      "slug": "vrishchika",
+      "type": "rashi",
+      "name": {
+        "en": "Vrishchika (Scorpio)",
+        "hi": "वृश्चिक",
+        "iast": "Vṛścika"
+      },
+      "alsoKnownAs": [
+        "Scorpio",
+        "Vrishchika rashi",
+        "vrishchik rashi mantra",
+        "scorpio remedy mantra"
+      ],
+      "whatIs": "Vrishchika (Scorpio) is the eighth sign of the zodiac, ruled by Mangal (Mars) in classical Vedic astrology. For those with the Moon or ascendant in Vrishchika, the traditional remedial practice is the Mangal (Mars) mantra — \"Om Bhaumaya Namah\" (Vedic) or the bija \"Om Kraam Kreem Kraum Sah Bhaumaya Namah.\" Associating a rashi with its ruler's mantra is a traditional convention derived from classical rulership.",
+      "keyFacts": [
+        {
+          "label": "Sign",
+          "value": "Scorpio (8th)"
+        },
+        {
+          "label": "Ruling planet",
+          "value": "Mangal (Mars)"
+        },
+        {
+          "label": "Element",
+          "value": "Water (Jala)"
+        },
+        {
+          "label": "Remedial mantra",
+          "value": "Mars / Mangal mantra"
+        },
+        {
+          "label": "Basis",
+          "value": "BPHS rulership (convention)"
+        }
+      ],
+      "entity": {
+        "name": "Scorpio",
+        "wikipedia": "https://en.wikipedia.org/wiki/Scorpio_(astrology)",
+        "wikidata": "https://www.wikidata.org/wiki/Q102448"
+      },
+      "mantras": [
+        {
+          "textDevanagari": "ॐ भौमाय नमः",
+          "transliteration": "Om Bhaumaya Namah",
+          "kind": "naam",
+          "lineage": "Vedic name + shakti",
+          "source": "Ruling planet Mangal (BPHS rulership of Vrishchika)",
+          "authenticity": "modern convention",
+          "englishExplanation": "The Mars name mantra, ruler of Vrishchika."
+        },
+        {
+          "textDevanagari": "ॐ क्रां क्रीं क्रौं सः भौमाय नमः",
+          "transliteration": "Om Kraam Kreem Kraum Sah Bhaumaya Namah",
+          "kind": "bija",
+          "lineage": "Mantra Mahodadhi bija (tantric)",
+          "source": "Mantra Mahodadhi (Mangal bija)",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The tantric Mars bija for Vrishchika natives."
+        }
+      ],
+      "vidhi": {
+        "benefits": [
+          "Strengthens the sign-lord Mars",
+          "Traditionally for courage, resilience, and transformation"
+        ],
+        "bestDayToStart": "Tuesday (Mars's day)",
+        "japaCount": {
+          "recommended": 108
+        },
+        "guruDiksha": {
+          "level": "ideal"
+        }
+      },
+      "relatedStotraSlugs": [
+        "hanuman-chalisa",
+        "mangal-chalisa"
+      ],
+      "relatedDeitySlug": "hanuman",
+      "links": [
+        {
+          "label": "Full Mangal (Mars) mantra & vidhi",
+          "url": "/mantra/planet/mangal",
+          "rel": "internal"
+        },
+        {
+          "label": "Find your rashi (Kundali)",
+          "url": "https://kundali.vastucart.in",
+          "rel": "consultation"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Which mantra is for Vrishchika (Scorpio) rashi?",
+          "answer": "Vrishchika is ruled by Mars, so the Mars mantra is used: \"Om Bhaumaya Namah\", or the bija \"Om Kraam Kreem Kraum Sah Bhaumaya Namah\"."
+        },
+        {
+          "question": "Which planet rules Scorpio?",
+          "answer": "Mars (Mangal) rules Scorpio (Vrishchika) in classical Vedic astrology (Ketu is a modern co-ruler convention)."
+        }
+      ],
+      "createdAt": "2026-05-31",
+      "updatedAt": "2026-05-31"
+    },
+    {
+      "slug": "dhanu",
+      "type": "rashi",
+      "name": {
+        "en": "Dhanu (Sagittarius)",
+        "hi": "धनु",
+        "iast": "Dhanu"
+      },
+      "alsoKnownAs": [
+        "Sagittarius",
+        "Dhanu rashi",
+        "dhanu rashi mantra",
+        "sagittarius remedy mantra"
+      ],
+      "whatIs": "Dhanu (Sagittarius) is the ninth sign of the zodiac, ruled by Guru (Jupiter) in classical Vedic astrology. For those with the Moon or ascendant in Dhanu, the traditional remedial practice is the Guru (Jupiter) mantra — \"Om Gurave Namah\" (Vedic) or the bija \"Om Graam Greem Graum Sah Gurave Namah.\" Associating a rashi with its ruler's mantra is a traditional convention derived from classical rulership.",
+      "keyFacts": [
+        {
+          "label": "Sign",
+          "value": "Sagittarius (9th)"
+        },
+        {
+          "label": "Ruling planet",
+          "value": "Guru (Jupiter)"
+        },
+        {
+          "label": "Element",
+          "value": "Fire (Agni)"
+        },
+        {
+          "label": "Remedial mantra",
+          "value": "Jupiter / Guru mantra"
+        },
+        {
+          "label": "Basis",
+          "value": "BPHS rulership (convention)"
+        }
+      ],
+      "entity": {
+        "name": "Sagittarius",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sagittarius_(astrology)",
+        "wikidata": "https://www.wikidata.org/wiki/Q101998"
+      },
+      "mantras": [
+        {
+          "textDevanagari": "ॐ गुरवे नमः",
+          "transliteration": "Om Gurave Namah",
+          "kind": "naam",
+          "lineage": "Vedic name + shakti",
+          "source": "Ruling planet Guru (BPHS rulership of Dhanu)",
+          "authenticity": "modern convention",
+          "englishExplanation": "The Jupiter name mantra, ruler of Dhanu."
+        },
+        {
+          "textDevanagari": "ॐ ग्रां ग्रीं ग्रौं सः गुरवे नमः",
+          "transliteration": "Om Graam Greem Graum Sah Gurave Namah",
+          "kind": "bija",
+          "lineage": "Mantra Mahodadhi bija (tantric)",
+          "source": "Mantra Mahodadhi (Guru bija)",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The tantric Jupiter bija for Dhanu natives."
+        }
+      ],
+      "vidhi": {
+        "benefits": [
+          "Strengthens the sign-lord Jupiter",
+          "Traditionally for wisdom, dharma, and fortune"
+        ],
+        "bestDayToStart": "Thursday (Jupiter's day)",
+        "japaCount": {
+          "recommended": 108
+        },
+        "guruDiksha": {
+          "level": "ideal"
+        }
+      },
+      "relatedStotraSlugs": [
+        "vishnu-sahasranama",
+        "vishnu-mangalashtakam"
+      ],
+      "relatedDeitySlug": "vishnu",
+      "links": [
+        {
+          "label": "Full Guru (Jupiter) mantra & vidhi",
+          "url": "/mantra/planet/guru",
+          "rel": "internal"
+        },
+        {
+          "label": "Find your rashi (Kundali)",
+          "url": "https://kundali.vastucart.in",
+          "rel": "consultation"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Which mantra is for Dhanu (Sagittarius) rashi?",
+          "answer": "Dhanu is ruled by Jupiter, so the Jupiter mantra is used: \"Om Gurave Namah\", or the bija \"Om Graam Greem Graum Sah Gurave Namah\"."
+        },
+        {
+          "question": "Which planet rules Sagittarius?",
+          "answer": "Jupiter (Guru/Brihaspati) rules Sagittarius (Dhanu) in classical Vedic astrology."
+        }
+      ],
+      "createdAt": "2026-05-31",
+      "updatedAt": "2026-05-31"
+    },
+    {
+      "slug": "makara",
+      "type": "rashi",
+      "name": {
+        "en": "Makara (Capricorn)",
+        "hi": "मकर",
+        "iast": "Makara"
+      },
+      "alsoKnownAs": [
+        "Capricorn",
+        "Makara rashi",
+        "makar rashi mantra",
+        "capricorn remedy mantra"
+      ],
+      "whatIs": "Makara (Capricorn) is the tenth sign of the zodiac, ruled by Shani (Saturn) in classical Vedic astrology. For those with the Moon or ascendant in Makara, the traditional remedial practice is the Shani (Saturn) mantra — \"Om Shanaischaraya Namah\" (Vedic) or the bija \"Om Praam Preem Praum Sah Shanaischaraya Namah.\" Associating a rashi with its ruler's mantra is a traditional convention derived from classical rulership.",
+      "keyFacts": [
+        {
+          "label": "Sign",
+          "value": "Capricorn (10th)"
+        },
+        {
+          "label": "Ruling planet",
+          "value": "Shani (Saturn)"
+        },
+        {
+          "label": "Element",
+          "value": "Earth (Prithvi)"
+        },
+        {
+          "label": "Remedial mantra",
+          "value": "Saturn / Shani mantra"
+        },
+        {
+          "label": "Basis",
+          "value": "BPHS rulership (convention)"
+        }
+      ],
+      "entity": {
+        "name": "Capricorn",
+        "wikipedia": "https://en.wikipedia.org/wiki/Capricorn_(astrology)",
+        "wikidata": "https://www.wikidata.org/wiki/Q102140"
+      },
+      "mantras": [
+        {
+          "textDevanagari": "ॐ शनैश्चराय नमः",
+          "transliteration": "Om Shanaischaraya Namah",
+          "kind": "naam",
+          "lineage": "Vedic name + shakti",
+          "source": "Ruling planet Shani (BPHS rulership of Makara)",
+          "authenticity": "modern convention",
+          "englishExplanation": "The Saturn name mantra, ruler of Makara."
+        },
+        {
+          "textDevanagari": "ॐ प्रां प्रीं प्रौं सः शनैश्चराय नमः",
+          "transliteration": "Om Praam Preem Praum Sah Shanaischaraya Namah",
+          "kind": "bija",
+          "lineage": "Mantra Mahodadhi bija (tantric)",
+          "source": "Mantra Mahodadhi (Shani bija)",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The tantric Saturn bija for Makara natives."
+        }
+      ],
+      "vidhi": {
+        "benefits": [
+          "Strengthens the sign-lord Saturn",
+          "Traditionally for discipline, patience, and steady progress"
+        ],
+        "bestDayToStart": "Saturday (Saturn's day)",
+        "japaCount": {
+          "recommended": 108
+        },
+        "guruDiksha": {
+          "level": "ideal"
+        }
+      },
+      "relatedStotraSlugs": [
+        "shani-chalisa",
+        "hanuman-chalisa"
+      ],
+      "relatedDeitySlug": "shani",
+      "links": [
+        {
+          "label": "Full Shani (Saturn) mantra & vidhi",
+          "url": "/mantra/planet/shani",
+          "rel": "internal"
+        },
+        {
+          "label": "Find your rashi (Kundali)",
+          "url": "https://kundali.vastucart.in",
+          "rel": "consultation"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Which mantra is for Makara (Capricorn) rashi?",
+          "answer": "Makara is ruled by Saturn, so the Saturn mantra is used: \"Om Shanaischaraya Namah\", or the bija \"Om Praam Preem Praum Sah Shanaischaraya Namah\"."
+        },
+        {
+          "question": "Which planet rules Capricorn?",
+          "answer": "Saturn (Shani) rules Capricorn (Makara) in classical Vedic astrology."
+        }
+      ],
+      "createdAt": "2026-05-31",
+      "updatedAt": "2026-05-31"
+    },
+    {
+      "slug": "kumbha",
+      "type": "rashi",
+      "name": {
+        "en": "Kumbha (Aquarius)",
+        "hi": "कुम्भ",
+        "iast": "Kumbha"
+      },
+      "alsoKnownAs": [
+        "Aquarius",
+        "Kumbha rashi",
+        "kumbh rashi mantra",
+        "aquarius remedy mantra"
+      ],
+      "whatIs": "Kumbha (Aquarius) is the eleventh sign of the zodiac, ruled by Shani (Saturn) in classical Vedic astrology. For those with the Moon or ascendant in Kumbha, the traditional remedial practice is the Shani (Saturn) mantra — \"Om Shanaischaraya Namah\" (Vedic) or the bija \"Om Praam Preem Praum Sah Shanaischaraya Namah.\" Associating a rashi with its ruler's mantra is a traditional convention derived from classical rulership.",
+      "keyFacts": [
+        {
+          "label": "Sign",
+          "value": "Aquarius (11th)"
+        },
+        {
+          "label": "Ruling planet",
+          "value": "Shani (Saturn)"
+        },
+        {
+          "label": "Element",
+          "value": "Air (Vayu)"
+        },
+        {
+          "label": "Remedial mantra",
+          "value": "Saturn / Shani mantra"
+        },
+        {
+          "label": "Basis",
+          "value": "BPHS rulership (convention)"
+        }
+      ],
+      "entity": {
+        "name": "Aquarius",
+        "wikipedia": "https://en.wikipedia.org/wiki/Aquarius_(astrology)",
+        "wikidata": "https://www.wikidata.org/wiki/Q101186"
+      },
+      "mantras": [
+        {
+          "textDevanagari": "ॐ शनैश्चराय नमः",
+          "transliteration": "Om Shanaischaraya Namah",
+          "kind": "naam",
+          "lineage": "Vedic name + shakti",
+          "source": "Ruling planet Shani (BPHS rulership of Kumbha)",
+          "authenticity": "modern convention",
+          "englishExplanation": "The Saturn name mantra, ruler of Kumbha."
+        },
+        {
+          "textDevanagari": "ॐ प्रां प्रीं प्रौं सः शनैश्चराय नमः",
+          "transliteration": "Om Praam Preem Praum Sah Shanaischaraya Namah",
+          "kind": "bija",
+          "lineage": "Mantra Mahodadhi bija (tantric)",
+          "source": "Mantra Mahodadhi (Shani bija)",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The tantric Saturn bija for Kumbha natives."
+        }
+      ],
+      "vidhi": {
+        "benefits": [
+          "Strengthens the sign-lord Saturn",
+          "Traditionally for perseverance, vision, and steady effort"
+        ],
+        "bestDayToStart": "Saturday (Saturn's day)",
+        "japaCount": {
+          "recommended": 108
+        },
+        "guruDiksha": {
+          "level": "ideal"
+        }
+      },
+      "relatedStotraSlugs": [
+        "shani-chalisa",
+        "hanuman-chalisa"
+      ],
+      "relatedDeitySlug": "shani",
+      "links": [
+        {
+          "label": "Full Shani (Saturn) mantra & vidhi",
+          "url": "/mantra/planet/shani",
+          "rel": "internal"
+        },
+        {
+          "label": "Find your rashi (Kundali)",
+          "url": "https://kundali.vastucart.in",
+          "rel": "consultation"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Which mantra is for Kumbha (Aquarius) rashi?",
+          "answer": "Kumbha is ruled by Saturn, so the Saturn mantra is used: \"Om Shanaischaraya Namah\", or the bija \"Om Praam Preem Praum Sah Shanaischaraya Namah\"."
+        },
+        {
+          "question": "Which planet rules Aquarius?",
+          "answer": "Saturn (Shani) rules Aquarius (Kumbha) in classical Vedic astrology (Rahu is a modern co-ruler convention)."
+        }
+      ],
+      "createdAt": "2026-05-31",
+      "updatedAt": "2026-05-31"
+    },
+    {
+      "slug": "meena",
+      "type": "rashi",
+      "name": {
+        "en": "Meena (Pisces)",
+        "hi": "मीन",
+        "iast": "Mīna"
+      },
+      "alsoKnownAs": [
+        "Pisces",
+        "Meena rashi",
+        "meen rashi mantra",
+        "pisces remedy mantra"
+      ],
+      "whatIs": "Meena (Pisces) is the twelfth sign of the zodiac, ruled by Guru (Jupiter) in classical Vedic astrology. For those with the Moon or ascendant in Meena, the traditional remedial practice is the Guru (Jupiter) mantra — \"Om Gurave Namah\" (Vedic) or the bija \"Om Graam Greem Graum Sah Gurave Namah.\" Associating a rashi with its ruler's mantra is a traditional convention derived from classical rulership.",
+      "keyFacts": [
+        {
+          "label": "Sign",
+          "value": "Pisces (12th)"
+        },
+        {
+          "label": "Ruling planet",
+          "value": "Guru (Jupiter)"
+        },
+        {
+          "label": "Element",
+          "value": "Water (Jala)"
+        },
+        {
+          "label": "Remedial mantra",
+          "value": "Jupiter / Guru mantra"
+        },
+        {
+          "label": "Basis",
+          "value": "BPHS rulership (convention)"
+        }
+      ],
+      "entity": {
+        "name": "Pisces",
+        "wikipedia": "https://en.wikipedia.org/wiki/Pisces_(astrology)"
+      },
+      "mantras": [
+        {
+          "textDevanagari": "ॐ गुरवे नमः",
+          "transliteration": "Om Gurave Namah",
+          "kind": "naam",
+          "lineage": "Vedic name + shakti",
+          "source": "Ruling planet Guru (BPHS rulership of Meena)",
+          "authenticity": "modern convention",
+          "englishExplanation": "The Jupiter name mantra, ruler of Meena."
+        },
+        {
+          "textDevanagari": "ॐ ग्रां ग्रीं ग्रौं सः गुरवे नमः",
+          "transliteration": "Om Graam Greem Graum Sah Gurave Namah",
+          "kind": "bija",
+          "lineage": "Mantra Mahodadhi bija (tantric)",
+          "source": "Mantra Mahodadhi (Guru bija)",
+          "authenticity": "confirmed classical",
+          "englishExplanation": "The tantric Jupiter bija for Meena natives."
+        }
+      ],
+      "vidhi": {
+        "benefits": [
+          "Strengthens the sign-lord Jupiter",
+          "Traditionally for wisdom, devotion, and spiritual growth"
+        ],
+        "bestDayToStart": "Thursday (Jupiter's day)",
+        "japaCount": {
+          "recommended": 108
+        },
+        "guruDiksha": {
+          "level": "ideal"
+        }
+      },
+      "relatedStotraSlugs": [
+        "vishnu-sahasranama",
+        "vishnu-mangalashtakam"
+      ],
+      "relatedDeitySlug": "vishnu",
+      "links": [
+        {
+          "label": "Full Guru (Jupiter) mantra & vidhi",
+          "url": "/mantra/planet/guru",
+          "rel": "internal"
+        },
+        {
+          "label": "Find your rashi (Kundali)",
+          "url": "https://kundali.vastucart.in",
+          "rel": "consultation"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Which mantra is for Meena (Pisces) rashi?",
+          "answer": "Meena is ruled by Jupiter, so the Jupiter mantra is used: \"Om Gurave Namah\", or the bija \"Om Graam Greem Graum Sah Gurave Namah\"."
+        },
+        {
+          "question": "Which planet rules Pisces?",
+          "answer": "Jupiter (Guru/Brihaspati) rules Pisces (Meena) in classical Vedic astrology."
+        }
+      ],
+      "createdAt": "2026-05-31",
+      "updatedAt": "2026-05-31"
+    }
+  ]
+}
