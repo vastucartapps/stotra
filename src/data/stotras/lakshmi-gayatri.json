@@ -1,103 +1,103 @@
 {
-    "id": "447",
-    "title": "लक्ष्मी गायत्री मन्त्र",
-    "titleEn": "Lakshmi Gayatri Mantra",
-    "slug": "lakshmi-gayatri",
-    "devanagariText": "॥ श्री लक्ष्मी गायत्री मन्त्रः ॥\n\n॥ ध्यानम् ॥\nसिद्धलक्ष्मीर्मोक्षलक्ष्मीर्जयलक्ष्मीः सरस्वती।\nश्रीलक्ष्मीर्वरलक्ष्मीश्च प्रसन्ना मम सर्वदा॥\n\nपद्मासनस्थिते देवि परब्रह्मस्वरूपिणि।\nपरमेशि जगन्मातर्महालक्ष्मि नमोऽस्तु ते॥\n\n॥ लक्ष्मी गायत्री ॥\nॐ महालक्ष्म्यै च विद्महे\nविष्णुपत्न्यै च धीमहि।\nतन्नो लक्ष्मीः प्रचोदयात्॥\n\n॥ अपर लक्ष्मी गायत्री ॥\nॐ श्रीमहालक्ष्म्यै विद्महे\nक्षीरसागरसम्भवायै धीमहि।\nतन्नो लक्ष्मीः प्रचोदयात्॥\n\n॥ फलश्रुति ॥\nलक्ष्मीगायत्रीमेतां यः पठेत् सततं नरः।\nधनधान्यसमृद्धिः स्याल्लक्ष्मीस्तस्य वसेद्गृहे॥\n\n॥ इति श्री लक्ष्मी गायत्री मन्त्रः सम्पूर्णः ॥",
-    "transliteration": "|| Shri Lakshmi Gayatri Mantrah ||\n\n|| Dhyanam ||\nSiddha-lakshmir-moksha-lakshmir-jaya-lakshmih Saraswati.\nShri-lakshmir-vara-lakshmish-cha Prasanna Mama Sarvada.\n\nPadmasana-sthite Devi Parabrahma-svaroopini.\nParameshi Jaganmatar-Mahalakshmi Namostu Te.\n\n|| Lakshmi Gayatri ||\nOm Mahalakshmyai Cha Vidmahe\nVishnu-patnyai Cha Dheemahi.\nTanno Lakshmih Prachodayat.\n\n|| Apara Lakshmi Gayatri ||\nOm Shri Mahalakshmyai Vidmahe\nKshira-sagara-sambhavayai Dheemahi.\nTanno Lakshmih Prachodayat.\n\n|| Phalashruti ||\nLakshmi-gayatrim-etam Yah Pathet Satatam Narah.\nDhana-dhanya-samriddhih Syal-Lakshmis-tasya Vased-grihe.\n\n|| Iti Shri Lakshmi Gayatri Mantrah Sampurnah ||",
-    "hindiMeaning": "ध्यान: सिद्धलक्ष्मी, मोक्षलक्ष्मी, जयलक्ष्मी, सरस्वती, श्रीलक्ष्मी, वरलक्ष्मी मुझ पर सदा प्रसन्न हों। पद्मासन पर विराजमान, परब्रह्मस्वरूपिणी, परमेशी, जगन्माता महालक्ष्मी को नमस्कार।\n\nलक्ष्मी गायत्री: हम महालक्ष्मी को जानते हैं, विष्णुपत्नी का ध्यान करते हैं। वे लक्ष्मी हमारी बुद्धि को प्रेरित करें।\n\nअपर गायत्री: हम श्री महालक्ष्मी को जानते हैं, क्षीरसागर से उत्पन्न देवी का ध्यान करते हैं। वे लक्ष्मी हमें प्रेरित करें।\n\nजो इस लक्ष्मी गायत्री का सतत पाठ करता है, उसे धन-धान्य की समृद्धि होती है और लक्ष्मी उसके गृह में वास करती हैं।",
-    "viniyog": {
-        "rishi": "इन्द्र ऋषि",
-        "chhand": "गायत्री",
-        "devata": "श्री महालक्ष्मी",
-        "beej": "ॐ श्रीं",
-        "shakti": "लक्ष्मी शक्ति",
-        "kilak": "धनसम्पत्ति प्राप्ति",
-        "shloka": "अस्य श्रीलक्ष्मीगायत्रीमन्त्रस्य इन्द्र ऋषिः। गायत्री छन्दः। श्री महालक्ष्मी देवता। ॐ श्रीं बीजम्। लक्ष्मी शक्तिः। धनसम्पत्ति प्राप्ति कीलकम्। श्रीमहालक्ष्मीप्रीत्यर्थे जपे विनियोगः॥"
+  "id": "447",
+  "title": "लक्ष्मी गायत्री मन्त्र",
+  "titleEn": "Lakshmi Gayatri Mantra",
+  "slug": "lakshmi-gayatri",
+  "devanagariText": "॥ श्री लक्ष्मी गायत्री मन्त्रः ॥\n\n॥ ध्यानम् ॥\nसिद्धलक्ष्मीर्मोक्षलक्ष्मीर्जयलक्ष्मीः सरस्वती।\nश्रीलक्ष्मीर्वरलक्ष्मीश्च प्रसन्ना मम सर्वदा॥\n\nपद्मासनस्थिते देवि परब्रह्मस्वरूपिणि।\nपरमेशि जगन्मातर्महालक्ष्मि नमोऽस्तु ते॥\n\n॥ लक्ष्मी गायत्री ॥\nॐ महालक्ष्म्यै च विद्महे\nविष्णुपत्न्यै च धीमहि।\nतन्नो लक्ष्मीः प्रचोदयात्॥\n\n॥ अपर लक्ष्मी गायत्री ॥\nॐ श्रीमहालक्ष्म्यै विद्महे\nक्षीरसागरसम्भवायै धीमहि।\nतन्नो लक्ष्मीः प्रचोदयात्॥\n\n॥ फलश्रुति ॥\nलक्ष्मीगायत्रीमेतां यः पठेत् सततं नरः।\nधनधान्यसमृद्धिः स्याल्लक्ष्मीस्तस्य वसेद्गृहे॥\n\n॥ इति श्री लक्ष्मी गायत्री मन्त्रः सम्पूर्णः ॥",
+  "transliteration": "|| Shri Lakshmi Gayatri Mantrah ||\n\n|| Dhyanam ||\nSiddha-lakshmir-moksha-lakshmir-jaya-lakshmih Saraswati.\nShri-lakshmir-vara-lakshmish-cha Prasanna Mama Sarvada.\n\nPadmasana-sthite Devi Parabrahma-svaroopini.\nParameshi Jaganmatar-Mahalakshmi Namostu Te.\n\n|| Lakshmi Gayatri ||\nOm Mahalakshmyai Cha Vidmahe\nVishnu-patnyai Cha Dheemahi.\nTanno Lakshmih Prachodayat.\n\n|| Apara Lakshmi Gayatri ||\nOm Shri Mahalakshmyai Vidmahe\nKshira-sagara-sambhavayai Dheemahi.\nTanno Lakshmih Prachodayat.\n\n|| Phalashruti ||\nLakshmi-gayatrim-etam Yah Pathet Satatam Narah.\nDhana-dhanya-samriddhih Syal-Lakshmis-tasya Vased-grihe.\n\n|| Iti Shri Lakshmi Gayatri Mantrah Sampurnah ||",
+  "hindiMeaning": "ध्यान: सिद्धलक्ष्मी, मोक्षलक्ष्मी, जयलक्ष्मी, सरस्वती, श्रीलक्ष्मी, वरलक्ष्मी मुझ पर सदा प्रसन्न हों। पद्मासन पर विराजमान, परब्रह्मस्वरूपिणी, परमेशी, जगन्माता महालक्ष्मी को नमस्कार।\n\nलक्ष्मी गायत्री: हम महालक्ष्मी को जानते हैं, विष्णुपत्नी का ध्यान करते हैं। वे लक्ष्मी हमारी बुद्धि को प्रेरित करें।\n\nअपर गायत्री: हम श्री महालक्ष्मी को जानते हैं, क्षीरसागर से उत्पन्न देवी का ध्यान करते हैं। वे लक्ष्मी हमें प्रेरित करें।\n\nजो इस लक्ष्मी गायत्री का सतत पाठ करता है, उसे धन-धान्य की समृद्धि होती है और लक्ष्मी उसके गृह में वास करती हैं।",
+  "viniyog": {
+    "rishi": "इन्द्र ऋषि",
+    "chhand": "गायत्री",
+    "devata": "श्री महालक्ष्मी",
+    "beej": "ॐ श्रीं",
+    "shakti": "लक्ष्मी शक्ति",
+    "kilak": "धनसम्पत्ति प्राप्ति",
+    "shloka": "अस्य श्रीलक्ष्मीगायत्रीमन्त्रस्य इन्द्र ऋषिः। गायत्री छन्दः। श्री महालक्ष्मी देवता। ॐ श्रीं बीजम्। लक्ष्मी शक्तिः। धनसम्पत्ति प्राप्ति कीलकम्। श्रीमहालक्ष्मीप्रीत्यर्थे जपे विनियोगः॥"
+  },
+  "benefits": [
+    "Invokes Mahalakshmi for wealth and abundance",
+    "Japa believed to settle Lakshmi permanently in the devotee's home",
+    "Invokes dhana-dhanya samriddhi — prosperity in wealth and grains",
+    "Powerful for Fridays, Diwali, and Varalakshmi Vrata",
+    "Two variations covering Vishnu-patni and Kshirasagara aspects",
+    "Recited to dispel poverty and steady the household's finances"
+  ],
+  "description": "Lakshmi Gayatri Mantra (लक्ष्मी गायत्री मन्त्र) is a powerful Vedic meditation mantra dedicated to Goddess Lakshmi. Attributed to Sri Sukta / Lakshmi Tantra, this prayer holds a special place in Hindu devotional literature. Chanting this stotra with devotion is said to grant Dhana-Dhanya Samriddhi — prosperity in wealth and grains as well as invoke Mahalakshmi for wealth and abundance. Additionally, it is known to ensure permanent residence of Lakshmi in the devotee's home. This prayer is traditionally recited on Friday (Shukravar) and during Diwali, Varalakshmi Vrata, and Sharad Purnima to invoke divine grace. At 4 verses long, the recitation takes roughly 3 minutes, making it accessible for regular devotional use. On this page, you can read the complete Lakshmi Gayatri Mantra in Devanagari Sanskrit with English transliteration, Hindi meaning (arth), and free PDF download for offline recitation.",
+  "deity": "lakshmi",
+  "secondaryDeities": [
+    "vishnu"
+  ],
+  "days": [
+    "friday"
+  ],
+  "festivals": [
+    "diwali",
+    "varalakshmi-vrata",
+    "sharad-purnima"
+  ],
+  "purposes": [
+    "wealth",
+    "prosperity",
+    "devotion",
+    "spiritual-growth",
+    "japa"
+  ],
+  "readingTimeMinutes": 3,
+  "seoDescription": "Read Lakshmi Gayatri Mantra with dhyanam in Sanskrit and Hindi meaning. Invoke Goddess Lakshmi for wealth, prosperity, and abundance.",
+  "verseCount": 4,
+  "source": "Sri Sukta / Lakshmi Tantra",
+  "createdAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-06-02T00:00:00Z",
+  "isPublished": true,
+  "alsoKnownAs": [
+    "Sri Mahalakshmi Gayatri Mantra",
+    "Lakshmi Gayatri Mantra",
+    "लक्ष्मी गायत्री मन्त्र",
+    "Mahalakshmi Vidmahe Mantra",
+    "Sri Sukta Gayatri",
+    "Wealth Gayatri Mantra Lakshmi"
+  ],
+  "relatedSearches": [
+    "Lakshmi Gayatri mantra lyrics meaning Sanskrit Hindi",
+    "Mahalakshmi Vidmahe Vishnupatnyai Dhimahi mantra",
+    "Lakshmi Gayatri 108 times benefits chanting",
+    "Friday Lakshmi puja Gayatri mantra recitation",
+    "Lakshmi mantra for wealth prosperity attraction",
+    "Sri Sukta Lakshmi Gayatri difference comparison",
+    "Diwali Lakshmi puja mantra Gayatri 1008 japa",
+    "Ashta Lakshmi eight forms Gayatri mantra each",
+    "Varalakshmi vrat mantra Friday Shravana month",
+    "Sri Yantra Lakshmi Gayatri sadhana sankalpa"
+  ],
+  "seoFaqs": [
+    {
+      "question": "What is the Lakshmi Gayatri Mantra and what does it mean?",
+      "answer": "The Lakshmi Gayatri Mantra is the Gayatri-chhandas (twenty-four-syllable) prayer dedicated to Goddess Mahalakshmi, the divine consort of Vishnu and the giver of wealth, prosperity, abundance and auspiciousness. The most widely chanted form is Om Mahalakshmyai cha Vidmahe Vishnu-Patnyai cha Dhimahi, Tanno Lakshmih Prachodayat — meaning 'Om, may we know Mahalakshmi, may we meditate upon the consort of Vishnu, may that Lakshmi inspire and illumine us'. Following the structure of the original Savitri Gayatri (vidmahe-dhimahi-prachodayat), it is regarded as the bija-mantra invocation of Lakshmi suitable for daily japa, sandhya upasana and auspicious ceremonies. (Sources: Sri Sukta tradition; Hindupedia Lakshmi Gayatri; Stotra Nidhi.)"
     },
-    "benefits": [
-        "Invokes Mahalakshmi for wealth and abundance",
-        "Traditionally recited to invoke permanent residence of lakshmi in the devotee's home",
-        "Invokes dhana-dhanya samriddhi — prosperity in wealth and grains",
-        "Powerful for Fridays, Diwali, and Varalakshmi Vrata",
-        "Two variations covering Vishnu-patni and Kshirasagara aspects",
-        "Traditionally recited for removal of poverty and financial difficulties"
-    ],
-    "description": "Lakshmi Gayatri Mantra (लक्ष्मी गायत्री मन्त्र) is a powerful Vedic meditation mantra dedicated to Goddess Lakshmi. Attributed to Sri Sukta / Lakshmi Tantra, this prayer holds a special place in Hindu devotional literature. Chanting this stotra with devotion is said to grant Dhana-Dhanya Samriddhi — prosperity in wealth and grains as well as invoke Mahalakshmi for wealth and abundance. Additionally, it is known to ensure permanent residence of Lakshmi in the devotee's home. This prayer is traditionally recited on Friday (Shukravar) and during Diwali, Varalakshmi Vrata, and Sharad Purnima to invoke divine grace. At 4 verses long, the recitation takes roughly 3 minutes, making it accessible for regular devotional use. On this page, you can read the complete Lakshmi Gayatri Mantra in Devanagari Sanskrit with English transliteration, Hindi meaning (arth), and free PDF download for offline recitation.",
-    "deity": "lakshmi",
-    "secondaryDeities": [
-        "vishnu"
-    ],
-    "days": [
-        "friday"
-    ],
-    "festivals": [
-        "diwali",
-        "varalakshmi-vrata",
-        "sharad-purnima"
-    ],
-    "purposes": [
-        "wealth",
-        "prosperity",
-        "devotion",
-        "spiritual-growth",
-        "japa"
-    ],
-    "readingTimeMinutes": 3,
-    "seoDescription": "Read Lakshmi Gayatri Mantra with dhyanam in Sanskrit and Hindi meaning. Invoke Goddess Lakshmi for wealth, prosperity, and abundance.",
-    "verseCount": 4,
-    "source": "Sri Sukta / Lakshmi Tantra",
-    "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
-    "isPublished": true,
-    "alsoKnownAs": [
-        "Sri Mahalakshmi Gayatri Mantra",
-        "Lakshmi Gayatri Mantra",
-        "लक्ष्मी गायत्री मन्त्र",
-        "Mahalakshmi Vidmahe Mantra",
-        "Sri Sukta Gayatri",
-        "Wealth Gayatri Mantra Lakshmi"
-    ],
-    "relatedSearches": [
-        "Lakshmi Gayatri mantra lyrics meaning Sanskrit Hindi",
-        "Mahalakshmi Vidmahe Vishnupatnyai Dhimahi mantra",
-        "Lakshmi Gayatri 108 times benefits chanting",
-        "Friday Lakshmi puja Gayatri mantra recitation",
-        "Lakshmi mantra for wealth prosperity attraction",
-        "Sri Sukta Lakshmi Gayatri difference comparison",
-        "Diwali Lakshmi puja mantra Gayatri 1008 japa",
-        "Ashta Lakshmi eight forms Gayatri mantra each",
-        "Varalakshmi vrat mantra Friday Shravana month",
-        "Sri Yantra Lakshmi Gayatri sadhana sankalpa"
-    ],
-    "seoFaqs": [
-        {
-            "question": "What is the Lakshmi Gayatri Mantra and what does it mean?",
-            "answer": "The Lakshmi Gayatri Mantra is the Gayatri-chhandas (twenty-four-syllable) prayer dedicated to Goddess Mahalakshmi, the divine consort of Vishnu and the giver of wealth, prosperity, abundance and auspiciousness. The most widely chanted form is Om Mahalakshmyai cha Vidmahe Vishnu-Patnyai cha Dhimahi, Tanno Lakshmih Prachodayat — meaning 'Om, may we know Mahalakshmi, may we meditate upon the consort of Vishnu, may that Lakshmi inspire and illumine us'. Following the structure of the original Savitri Gayatri (vidmahe-dhimahi-prachodayat), it is regarded as the bija-mantra invocation of Lakshmi suitable for daily japa, sandhya upasana and auspicious ceremonies. (Sources: Sri Sukta tradition; Hindupedia Lakshmi Gayatri; Stotra Nidhi.)"
-        },
-        {
-            "question": "Who is Mahalakshmi and what does she bestow?",
-            "answer": "Mahalakshmi is the supreme goddess of wealth, prosperity, beauty, auspiciousness, fertility, sovereignty and ultimately of liberation, regarded as the eternal consort of Vishnu (Vishnu-Patni) who descends with him in each avatara — as Sita with Rama, as Rukmini and Radha with Krishna, as Padmavati with Venkateshwara. She manifests in the Ashta-Lakshmi (eight forms): Adi Lakshmi (primordial), Dhana Lakshmi (wealth), Dhanya Lakshmi (grain), Gaja Lakshmi (royal), Santana Lakshmi (progeny), Veera Lakshmi (valour), Vidya Lakshmi (knowledge) and Vijaya Lakshmi (victory). She is depicted seated on a lotus, with elephants showering water, golden-complexioned, holding lotuses and showering coins. (Sources: Vishnu Purana; Sri Sukta Rigveda; Hindupedia Ashta-Lakshmi.)"
-        },
-        {
-            "question": "How is the Lakshmi Gayatri different from the standard Gayatri Mantra?",
-            "answer": "The standard Gayatri Mantra (Om Bhur Bhuvah Svah Tat Savitur Varenyam Bhargo Devasya Dhimahi Dhiyo Yo Nah Prachodayat) from Rigveda 3.62.10 invokes Savitri-Surya, the solar deity, as the universal illuminator of intellect. The Lakshmi Gayatri uses the same Gayatri-chhandas structure but substitutes the deity invocation with Mahalakshmi-Vishnu-Patni, addressing the goddess of prosperity rather than the solar principle. There are similar deity-specific Gayatri mantras for every major deity (Ganesha Gayatri, Shiva Gayatri, Durga Gayatri, Krishna Gayatri, Hanuman Gayatri), all preserving the vidmahe-dhimahi-prachodayat formula. The Lakshmi version is recited specifically for material and spiritual abundance. (Sources: Rigveda 3.62.10; Vedic Gayatri tradition; Hindupedia.)"
-        },
-        {
-            "question": "When should the Lakshmi Gayatri Mantra be chanted?",
-            "answer": "The most powerful times are Friday (Shukravar — Lakshmi's day), the brahma-muhurta (4-6 AM) and pradosha (twilight), the Sandhya hours, and during all Lakshmi festivals: Diwali Lakshmi Puja (Kartika Amavasya), Sharad Purnima (Kojagiri), Varalakshmi Vrata (Friday before Shravana Purnima), Akshaya Tritiya, Dhanteras, every Pushya nakshatra, and the entire Margashirsha month. The mantra is also chanted at the start of new ventures, when entering a new home (Griha Pravesh), and during Kalyana ceremonies. Recitation in multiples of 108 (one mala) — eleven malas, twenty-one malas or one mandala of forty days for 108 daily — is the prescribed sadhana. (Sources: Drikpanchang Lakshmi Vrata; Hindupedia Lakshmi sadhana; Mahalakshmi Tantra.)"
-        },
-        {
-            "question": "What is the prescribed vidhi for Lakshmi Gayatri japa?",
-            "answer": "Bathe early on Friday morning, sit on a yellow or red asana facing east or north, light a ghee lamp before a Lakshmi image, Sri Yantra or kalasha. Offer haldi-kumkum, akshata, lotus or red flowers, dhoop and naivedya of kheer, sweets and fruits. Perform achamana, pranayama and Sankalpa. Then take a kamala-gatta or sphatika japa-mala (108 beads) and chant the Lakshmi Gayatri 108 times (one mala) minimum, ideally eleven malas. Conclude with the Sri Sukta, Mahalakshmi Ashtakam, Kanakadhara Stotram or Lakshmi Ashtottara, then aarti and pradakshina. The forty-day mandala (108 daily) is regarded as one full upasana cycle. (Sources: Mahalakshmi Tantra; Hindupedia Lakshmi vidhi; Stotra Nidhi.)"
-        },
-        {
-            "question": "Which other Lakshmi mantras pair well with the Lakshmi Gayatri?",
-            "answer": "The Lakshmi Gayatri is most often paired with: the Sri Sukta (Rigveda khila, fifteen verses, the Vedic source of all Lakshmi worship); the Mahalakshmi Mool Mantra (Om Shreem Mahalakshmyai Namah); the Sri Lakshmi Bija Mantra (Om Shreem); the Kanakadhara Stotram of Adi Shankara (which made gold rain for a poor brahmin's home); the Mahalakshmi Ashtakam from the Padma Purana; the Ashta-Lakshmi Stotra (invoking all eight forms); and the Vedic Vishnu Sukta. Many devotees recite Sri Sukta first, then Lakshmi Gayatri 108 times, then conclude with Kanakadhara — a complete Lakshmi sadhana sequence. (Sources: Rigveda Sri Sukta; Adi Shankara Kanakadhara; Hindupedia Lakshmi sadhana.)"
-        },
-        {
-            "question": "What benefits does the Lakshmi Gayatri promise?",
-            "answer": "Tradition holds that regular chanting grants the eight forms of prosperity: material wealth (dhana), grain and food security (dhanya), gold and ornaments (suvarna), elephants and luxury (gaja), progeny (santana), courage (veerya), knowledge (vidya) and victory in all undertakings (vijaya). Beyond material gain, it cultivates the inner virtues of generosity (dana), grace (saumya), fairness (samya) and spiritual abundance (sat-chit-ananda-aishvarya). Daily recitation through one mandala (forty days, 108 daily) is said to remove poverty karma, attract the Ashta-Lakshmi to the household, bless business with steady growth, and ultimately lead to Vaikuntha-prapti at the lotus feet of Vishnu-Lakshmi. (Sources: Hindupedia Lakshmi phalashruti; Mahalakshmi Tantra; Sri Sukta phalashruti.)"
-        }
-    ]
+    {
+      "question": "Who is Mahalakshmi and what does she bestow?",
+      "answer": "Mahalakshmi is the supreme goddess of wealth, prosperity, beauty, auspiciousness, fertility, sovereignty and ultimately of liberation, regarded as the eternal consort of Vishnu (Vishnu-Patni) who descends with him in each avatara — as Sita with Rama, as Rukmini and Radha with Krishna, as Padmavati with Venkateshwara. She manifests in the Ashta-Lakshmi (eight forms): Adi Lakshmi (primordial), Dhana Lakshmi (wealth), Dhanya Lakshmi (grain), Gaja Lakshmi (royal), Santana Lakshmi (progeny), Veera Lakshmi (valour), Vidya Lakshmi (knowledge) and Vijaya Lakshmi (victory). She is depicted seated on a lotus, with elephants showering water, golden-complexioned, holding lotuses and showering coins. (Sources: Vishnu Purana; Sri Sukta Rigveda; Hindupedia Ashta-Lakshmi.)"
+    },
+    {
+      "question": "How is the Lakshmi Gayatri different from the standard Gayatri Mantra?",
+      "answer": "The standard Gayatri Mantra (Om Bhur Bhuvah Svah Tat Savitur Varenyam Bhargo Devasya Dhimahi Dhiyo Yo Nah Prachodayat) from Rigveda 3.62.10 invokes Savitri-Surya, the solar deity, as the universal illuminator of intellect. The Lakshmi Gayatri uses the same Gayatri-chhandas structure but substitutes the deity invocation with Mahalakshmi-Vishnu-Patni, addressing the goddess of prosperity rather than the solar principle. There are similar deity-specific Gayatri mantras for every major deity (Ganesha Gayatri, Shiva Gayatri, Durga Gayatri, Krishna Gayatri, Hanuman Gayatri), all preserving the vidmahe-dhimahi-prachodayat formula. The Lakshmi version is recited specifically for material and spiritual abundance. (Sources: Rigveda 3.62.10; Vedic Gayatri tradition; Hindupedia.)"
+    },
+    {
+      "question": "When should the Lakshmi Gayatri Mantra be chanted?",
+      "answer": "The most powerful times are Friday (Shukravar — Lakshmi's day), the brahma-muhurta (4-6 AM) and pradosha (twilight), the Sandhya hours, and during all Lakshmi festivals: Diwali Lakshmi Puja (Kartika Amavasya), Sharad Purnima (Kojagiri), Varalakshmi Vrata (Friday before Shravana Purnima), Akshaya Tritiya, Dhanteras, every Pushya nakshatra, and the entire Margashirsha month. The mantra is also chanted at the start of new ventures, when entering a new home (Griha Pravesh), and during Kalyana ceremonies. Recitation in multiples of 108 (one mala) — eleven malas, twenty-one malas or one mandala of forty days for 108 daily — is the prescribed sadhana. (Sources: Drikpanchang Lakshmi Vrata; Hindupedia Lakshmi sadhana; Mahalakshmi Tantra.)"
+    },
+    {
+      "question": "What is the prescribed vidhi for Lakshmi Gayatri japa?",
+      "answer": "Bathe early on Friday morning, sit on a yellow or red asana facing east or north, light a ghee lamp before a Lakshmi image, Sri Yantra or kalasha. Offer haldi-kumkum, akshata, lotus or red flowers, dhoop and naivedya of kheer, sweets and fruits. Perform achamana, pranayama and Sankalpa. Then take a kamala-gatta or sphatika japa-mala (108 beads) and chant the Lakshmi Gayatri 108 times (one mala) minimum, ideally eleven malas. Conclude with the Sri Sukta, Mahalakshmi Ashtakam, Kanakadhara Stotram or Lakshmi Ashtottara, then aarti and pradakshina. The forty-day mandala (108 daily) is regarded as one full upasana cycle. (Sources: Mahalakshmi Tantra; Hindupedia Lakshmi vidhi; Stotra Nidhi.)"
+    },
+    {
+      "question": "Which other Lakshmi mantras pair well with the Lakshmi Gayatri?",
+      "answer": "The Lakshmi Gayatri is most often paired with: the Sri Sukta (Rigveda khila, fifteen verses, the Vedic source of all Lakshmi worship); the Mahalakshmi Mool Mantra (Om Shreem Mahalakshmyai Namah); the Sri Lakshmi Bija Mantra (Om Shreem); the Kanakadhara Stotram of Adi Shankara (which made gold rain for a poor brahmin's home); the Mahalakshmi Ashtakam from the Padma Purana; the Ashta-Lakshmi Stotra (invoking all eight forms); and the Vedic Vishnu Sukta. Many devotees recite Sri Sukta first, then Lakshmi Gayatri 108 times, then conclude with Kanakadhara — a complete Lakshmi sadhana sequence. (Sources: Rigveda Sri Sukta; Adi Shankara Kanakadhara; Hindupedia Lakshmi sadhana.)"
+    },
+    {
+      "question": "What benefits does the Lakshmi Gayatri promise?",
+      "answer": "Tradition holds that regular chanting grants the eight forms of prosperity: material wealth (dhana), grain and food security (dhanya), gold and ornaments (suvarna), elephants and luxury (gaja), progeny (santana), courage (veerya), knowledge (vidya) and victory in all undertakings (vijaya). Beyond material gain, it cultivates the inner virtues of generosity (dana), grace (saumya), fairness (samya) and spiritual abundance (sat-chit-ananda-aishvarya). Daily recitation through one mandala (forty days, 108 daily) is said to remove poverty karma, attract the Ashta-Lakshmi to the household, bless business with steady growth, and ultimately lead to Vaikuntha-prapti at the lotus feet of Vishnu-Lakshmi. (Sources: Hindupedia Lakshmi phalashruti; Mahalakshmi Tantra; Sri Sukta phalashruti.)"
+    }
+  ]
 }
