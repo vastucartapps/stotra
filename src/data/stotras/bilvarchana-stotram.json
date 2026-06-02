@@ -1,83 +1,83 @@
 {
-    "id": "102",
-    "title": "बिल्वार्चन स्तोत्रम्",
-    "titleEn": "Bilvarchana Stotram",
-    "slug": "bilvarchana-stotram",
-    "devanagariText": "॥ श्री बिल्वार्चन स्तोत्रम् ॥\n\nत्रिदलं त्रिगुणाकारं त्रिनेत्रं च त्रिधायुधम्।\nत्रिजन्मपापसंहारं एकबिल्वं शिवार्पणम्॥ १॥\n\nत्रिशाखैर्बिल्वपत्रैश्च अच्छिद्रैः कोमलैः शुभैः।\nतव पूजां करिष्यामि एकबिल्वं शिवार्पणम्॥ २॥\n\nकोटिकन्यामहादानं तिलपर्वतकोटयः।\nकाञ्चनं क्षीरदानं च एकबिल्वं शिवार्पणम्॥ ३॥\n\nकाशीक्षेत्रनिवासं च कालभैरवदर्शनम्।\nप्रयागे माधवं दृष्ट्वा एकबिल्वं शिवार्पणम्॥ ४॥\n\nइन्दुवारे व्रतं स्थित्वा निराहारो महेश्वरः।\nनक्तं हौष्यामि देवेश एकबिल्वं शिवार्पणम्॥ ५॥\n\nरामलिंगसहस्राणि उमालिंगायुतानि च।\nकोटिलिंगशतं चैव एकबिल्वं शिवार्पणम्॥ ६॥\n\nदर्शनं बिल्ववृक्षस्य स्पर्शनं पापनाशनम्।\nअघोरपापसंहारं एकबिल्वं शिवार्पणम्॥ ७॥\n\nसालग्रामेषु विप्राणां तुलसीवनसेवने।\nसहस्रवेदपाठेषु एकबिल्वं शिवार्पणम्॥ ८॥\n\nदन्तिकोटिसहस्रेषु अश्वमेधशतक्रतौ।\nकोटिकन्यामहादानं एकबिल्वं शिवार्पणम्॥ ९॥\n\nबिल्वाणां दर्शनं पुण्यं स्पर्शनं पापनाशनम्।\nअघोरपापसंहारं एकबिल्वं शिवार्पणम्॥ १०॥\n\nसहस्रवेदपाठेषु ब्रह्मस्थापनमुच्यते।\nअनेककव्रतं चैव एकबिल्वं शिवार्पणम्॥ ११॥\n\nअखण्डबिल्वपत्रं च शिवलिंगे प्रपूजयेत्।\nशिवलोकमवाप्नोति एकबिल्वं शिवार्पणम्॥ १२॥\n\n॥ इति श्री बिल्वार्चन स्तोत्रम् सम्पूर्णम् ॥",
-    "transliteration": "|| Shri Bilvarchana Stotram ||\n\nTridalam Triguna-akaram Trinetram cha Tri-dhayudham |\nTrijanma-papa-samharam Eka-bilvam Shivaarpanam || 1 ||\n\nTrishakhair-bilva-patraish-cha achchhidraih komalaiah shubhaih |\nTava pujam karishyami Eka-bilvam Shivaarpanam || 2 ||\n\nKoti-kanya-maha-danam tila-parvata-kotayah |\nKanchanam kshira-danam cha Eka-bilvam Shivaarpanam || 3 ||\n\nKashi-kshetra-nivasam cha Kala-Bhairava-darshanam |\nPrayage Madhavam drishtva Eka-bilvam Shivaarpanam || 4 ||\n\nIndu-vare vratam sthitva niraharo Maheshvarah |\nNaktam haushyami Devesha Eka-bilvam Shivaarpanam || 5 ||\n\nRama-linga-sahasrani Uma-linga-ayutani cha |\nKoti-linga-shatam chaiva Eka-bilvam Shivaarpanam || 6 ||\n\nDarshanam Bilva-vrikshasya sparshanam papa-nashanam |\nAghora-papa-samharam Eka-bilvam Shivaarpanam || 7 ||\n\nShalagrameshu vipranam Tulasi-vana-sevane |\nSahasra-Veda-patheshu Eka-bilvam Shivaarpanam || 8 ||\n\nDanti-koti-sahasreshu Ashvamedha-shata-kratau |\nKoti-kanya-maha-danam Eka-bilvam Shivaarpanam || 9 ||\n\nBilvanam darshanam punyam sparshanam papa-nashanam |\nAghora-papa-samharam Eka-bilvam Shivaarpanam || 10 ||\n\nSahasra-Veda-patheshu Brahma-sthapanam-uchyate |\nAneka-kavratam chaiva Eka-bilvam Shivaarpanam || 11 ||\n\nAkhanda-bilva-patram cha Shiva-linge prapujayet |\nShiva-lokam-avapnoti Eka-bilvam Shivaarpanam || 12 ||\n\n|| Iti Shri Bilvarchana Stotram Sampurnam ||",
-    "hindiMeaning": "तीन दल वाला, त्रिगुणाकार, त्रिनेत्र, त्रिधा आयुध — तीन जन्मों के पाप का संहार करने वाला — एक बिल्वपत्र शिव को अर्पण॥ १॥\n\nतीन शाखाओं वाले, अच्छिद्र, कोमल, शुभ बिल्वपत्रों से आपकी पूजा करूँगा — एक बिल्वपत्र शिव को अर्पण॥ २॥\n\nकोटि कन्यादान, तिलपर्वत कोटि, काञ्चन और क्षीरदान — एक बिल्वपत्र शिव को अर्पण इन सबके समान है॥ ३॥\n\nकाशीक्षेत्र में निवास, कालभैरव के दर्शन, प्रयाग में माधव के दर्शन — एक बिल्वपत्र शिव को अर्पण॥ ४॥\n\nसोमवार को निराहार व्रत रखकर — हे देवेश! रात को हवन करूँगा — एक बिल्वपत्र शिव को अर्पण॥ ५॥\n\nसहस्र रामलिंग, अयुत उमालिंग, शत कोटि लिंग — एक बिल्वपत्र शिव को अर्पण इन सबके तुल्य है॥ ६॥\n\nबिल्ववृक्ष का दर्शन पुण्यकारी, स्पर्श पापनाशक — अघोर पाप का संहार — एक बिल्वपत्र शिव को अर्पण॥ ७॥\n\nशालग्राम पूजा, विप्रों की तुलसीवन सेवा, सहस्र वेदपाठ — एक बिल्वपत्र शिव को अर्पण॥ ८॥\n\nकोटि सहस्र दन्ती (हाथी) दान, सौ अश्वमेध यज्ञ, कोटि कन्यादान — एक बिल्वपत्र शिव को अर्पण॥ ९॥\n\nबिल्व का दर्शन पुण्यकारी, स्पर्श पापनाशक — अघोर पाप का संहार — एक बिल्वपत्र शिव को अर्पण॥ १०॥\n\nसहस्र वेदपाठ, ब्रह्मस्थापन, अनेक व्रत — एक बिल्वपत्र शिव को अर्पण॥ ११॥\n\nअखण्ड बिल्वपत्र से शिवलिंग की पूजा करे — शिवलोक प्राप्त होता है — एक बिल्वपत्र शिव को अर्पण॥ १२॥",
-    "viniyog": null,
-    "benefits": [
-        "Glorifies the supreme merit of offering Bilva leaves to Shiva",
-        "One Bilva leaf offering equals crores of Kanyadaan",
-        "Traditionally recited for removal of sins of three lifetimes",
-        "Invokes the fruit of visiting kashi and prayag",
-        "Invokes the blessing of shivaloka (abode of shiva) upon the devotee",
-        "Especially powerful during Shravan month and Maha Shivaratri"
-    ],
-    "description": "Dedicated to Lord Shiva, the Bilvarchana Stotram (बिल्वार्चन स्तोत्रम्) is a devotional hymn of praise revered in Hindu tradition. This sacred composition is sourced from Shiva Rahasya - Traditional and continues to inspire devotees worldwide. Regular recitation is believed to grant the fruit of visiting Kashi and Prayag, glorify the supreme merit of offering Bilva leaves to Shiva, and destroy sins of three lifetimes. For best results, devotees chant this on Monday (Somvar) and during Maha Shivaratri and Shravan Somvar. At 12 verses long, the recitation takes roughly 7 minutes, making it accessible for regular devotional use. On this page, you can read the complete Bilvarchana Stotram in Devanagari Sanskrit with English transliteration, Hindi meaning (arth), and free PDF download for offline recitation.",
-    "deity": "shiva",
-    "secondaryDeities": [],
-    "days": [
-        "monday"
-    ],
-    "festivals": [
-        "maha-shivaratri",
-        "shravan-somvar"
-    ],
-    "purposes": [
-        "devotion",
-        "spiritual-growth"
-    ],
-    "readingTimeMinutes": 7,
-    "seoDescription": "Read Bilvarchana Stotram in Sanskrit with Hindi meaning. Sacred hymn glorifying the offering of Bilva leaves to Lord Shiva for supreme spiritual merit.",
-    "verseCount": 12,
-    "source": "Shiva Rahasya - Traditional",
-    "createdAt": "2026-03-29T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
-    "isPublished": true,
-    "alsoKnownAs": [
-        "Bilvashtakam",
-        "Bilva Stotram",
-        "Shiva Bilvarchana",
-        "Bilva Patra Stotram"
-    ],
-    "relatedSearches": [
-        "bilvarchana stotram lyrics sanskrit",
-        "bilvashtakam meaning english",
-        "bilva leaf offering shiva benefits",
-        "tridalam triguna karam mantra",
-        "bilvashtakam adi shankaracharya pdf",
-        "bilva patra rules shiva puja",
-        "bilvashtakam telugu lyrics",
-        "bilva stotram audio mp3",
-        "why three bilva leaves to shiva",
-        "bilvarchana on shivaratri"
-    ],
-    "seoFaqs": [
-        {
-            "question": "What is the difference between Bilvarchana Stotram and the Bilvashtakam?",
-            "answer": "Bilvarchana literally means 'worship by means of the bilva leaf' and refers to the entire ritual of arranging bilva (Aegle marmelos) tri-foliate leaves on a Shivalinga, while Bilvashtakam is the specific eight-verse Sanskrit hymn (composed by Adi Shankaracharya) that is chanted during this offering. In most temple manuals the two terms are used interchangeably for the same liturgy, with the printed text usually titled 'Bilvashtakam' but the practice referenced as 'Bilvarchana.' Some longer South Indian recensions add a phalashruti and a closing 'Bilvashtottara-shata-namavali' (108 names of the bilva tree) to extend the basic ashtaka into a full Bilvarchana Vidhana."
-        },
-        {
-            "question": "Why is the bilva leaf considered sacred to Lord Shiva?",
-            "answer": "The Skanda Purana records that the bilva tree sprang from drops of perspiration of Goddess Parvati that fell on Mount Mandara, making the leaf intrinsically connected to Shakti. The tri-foliate leaf is interpreted in the opening verse 'tridalam triguna-akaram' as embodying the three gunas (sattva, rajas, tamas), the three syllables of OM (a-u-m), and the three eyes of Shiva. The Shiva Purana and the Linga Purana further declare that one bilva leaf offered with devotion equals the merit of a thousand lotuses or one crore golden flowers, which is why even minimal bilva-puja is treated as a complete Rudrabhishekam substitute when materials are scarce."
-        },
-        {
-            "question": "What does the opening shloka 'tridalam trigunakaram' actually mean?",
-            "answer": "The opening verse reads: 'Tridalam triguna-akaram tri-netram cha tri-ayudham, trijanma-papa-samharam eka-bilvam shivarpanam' which translates as: 'O Shiva, I offer this single bilva leaf which has three petals, embodies the three gunas, represents your three eyes and your three weapons (trishul, damaru, akshamala), and which destroys sins accumulated across three lifetimes.' Each subsequent verse repeats the refrain 'eka-bilvam shivarpanam' ('this one bilva I offer to Shiva') after listing one more aspect of cosmological symbolism, building a complete tattvic offering inside an eight-verse frame."
-        },
-        {
-            "question": "When and how is Bilvarchana traditionally performed?",
-            "answer": "Bilvarchana is performed every Monday (Somavara) sacred to Shiva, on every Pradosham (the 13th lunar day, twice a month), on Maha Shivaratri, and through every Monday of Shravana month. The leaves must be plucked with the stalk intact, washed, and offered with the smooth side touching the linga. The sthapati manuals of South India insist on offering at least 11 leaves for daily worship, 108 for sankalpa-puja, 1,008 for a Laghu Rudra, and 1,25,000 for an Ati-Rudra mahayajna, with the Bilvashtakam recited continuously through the offering. Leaves should never be torn, dropped, or offered after sunset on Sundays."
-        },
-        {
-            "question": "Are there bilva leaves that should not be offered to Shiva?",
-            "answer": "Yes. The Shiva Purana and the Skanda Purana both prescribe that bilva leaves with chakra-marks (insect bites), broken petals, holes, dried edges, leaves plucked at midnight or during eclipses, and leaves fallen on the ground are unfit for offering. Single-petal or two-petal leaves are also rejected because the tri-foliate symbolism is the basis of the entire Bilvarchana liturgy. However, classical compendia note an important concession: previously offered bilva leaves can be washed and re-offered, since 'bilva-patra and Ganga-jal never become impure' once consecrated to Shiva, a unique ritual relaxation not granted to flowers or tulasi."
-        },
-        {
-            "question": "Can Bilvarchana be performed without an actual Shivalinga?",
-            "answer": "Yes. The Shaiva Agamas allow Bilvarchana to be performed in three substitute modes when a stone or metal linga is unavailable: on a parthiva-linga moulded fresh from clean river clay (most popular for Maha Shivaratri at home), on a bana-linga or sphatika-linga installed on a small panchapatra, or in the manasika-puja mode where the entire Bilvashtakam is chanted while visualising the offering on the Shivalinga at one's family kuladevata temple. The phalashruti at the end of the Bilvashtakam declares all three modes equally valid, provided the eight verses are chanted with attention and the refrain 'eka-bilvam shivarpanam' is treated as a complete sankalpa in itself."
-        }
-    ]
+  "id": "102",
+  "title": "बिल्वार्चन स्तोत्रम्",
+  "titleEn": "Bilvarchana Stotram",
+  "slug": "bilvarchana-stotram",
+  "devanagariText": "॥ श्री बिल्वार्चन स्तोत्रम् ॥\n\nत्रिदलं त्रिगुणाकारं त्रिनेत्रं च त्रिधायुधम्।\nत्रिजन्मपापसंहारं एकबिल्वं शिवार्पणम्॥ १॥\n\nत्रिशाखैर्बिल्वपत्रैश्च अच्छिद्रैः कोमलैः शुभैः।\nतव पूजां करिष्यामि एकबिल्वं शिवार्पणम्॥ २॥\n\nकोटिकन्यामहादानं तिलपर्वतकोटयः।\nकाञ्चनं क्षीरदानं च एकबिल्वं शिवार्पणम्॥ ३॥\n\nकाशीक्षेत्रनिवासं च कालभैरवदर्शनम्।\nप्रयागे माधवं दृष्ट्वा एकबिल्वं शिवार्पणम्॥ ४॥\n\nइन्दुवारे व्रतं स्थित्वा निराहारो महेश्वरः।\nनक्तं हौष्यामि देवेश एकबिल्वं शिवार्पणम्॥ ५॥\n\nरामलिंगसहस्राणि उमालिंगायुतानि च।\nकोटिलिंगशतं चैव एकबिल्वं शिवार्पणम्॥ ६॥\n\nदर्शनं बिल्ववृक्षस्य स्पर्शनं पापनाशनम्।\nअघोरपापसंहारं एकबिल्वं शिवार्पणम्॥ ७॥\n\nसालग्रामेषु विप्राणां तुलसीवनसेवने।\nसहस्रवेदपाठेषु एकबिल्वं शिवार्पणम्॥ ८॥\n\nदन्तिकोटिसहस्रेषु अश्वमेधशतक्रतौ।\nकोटिकन्यामहादानं एकबिल्वं शिवार्पणम्॥ ९॥\n\nबिल्वाणां दर्शनं पुण्यं स्पर्शनं पापनाशनम्।\nअघोरपापसंहारं एकबिल्वं शिवार्पणम्॥ १०॥\n\nसहस्रवेदपाठेषु ब्रह्मस्थापनमुच्यते।\nअनेककव्रतं चैव एकबिल्वं शिवार्पणम्॥ ११॥\n\nअखण्डबिल्वपत्रं च शिवलिंगे प्रपूजयेत्।\nशिवलोकमवाप्नोति एकबिल्वं शिवार्पणम्॥ १२॥\n\n॥ इति श्री बिल्वार्चन स्तोत्रम् सम्पूर्णम् ॥",
+  "transliteration": "|| Shri Bilvarchana Stotram ||\n\nTridalam Triguna-akaram Trinetram cha Tri-dhayudham |\nTrijanma-papa-samharam Eka-bilvam Shivaarpanam || 1 ||\n\nTrishakhair-bilva-patraish-cha achchhidraih komalaiah shubhaih |\nTava pujam karishyami Eka-bilvam Shivaarpanam || 2 ||\n\nKoti-kanya-maha-danam tila-parvata-kotayah |\nKanchanam kshira-danam cha Eka-bilvam Shivaarpanam || 3 ||\n\nKashi-kshetra-nivasam cha Kala-Bhairava-darshanam |\nPrayage Madhavam drishtva Eka-bilvam Shivaarpanam || 4 ||\n\nIndu-vare vratam sthitva niraharo Maheshvarah |\nNaktam haushyami Devesha Eka-bilvam Shivaarpanam || 5 ||\n\nRama-linga-sahasrani Uma-linga-ayutani cha |\nKoti-linga-shatam chaiva Eka-bilvam Shivaarpanam || 6 ||\n\nDarshanam Bilva-vrikshasya sparshanam papa-nashanam |\nAghora-papa-samharam Eka-bilvam Shivaarpanam || 7 ||\n\nShalagrameshu vipranam Tulasi-vana-sevane |\nSahasra-Veda-patheshu Eka-bilvam Shivaarpanam || 8 ||\n\nDanti-koti-sahasreshu Ashvamedha-shata-kratau |\nKoti-kanya-maha-danam Eka-bilvam Shivaarpanam || 9 ||\n\nBilvanam darshanam punyam sparshanam papa-nashanam |\nAghora-papa-samharam Eka-bilvam Shivaarpanam || 10 ||\n\nSahasra-Veda-patheshu Brahma-sthapanam-uchyate |\nAneka-kavratam chaiva Eka-bilvam Shivaarpanam || 11 ||\n\nAkhanda-bilva-patram cha Shiva-linge prapujayet |\nShiva-lokam-avapnoti Eka-bilvam Shivaarpanam || 12 ||\n\n|| Iti Shri Bilvarchana Stotram Sampurnam ||",
+  "hindiMeaning": "तीन दल वाला, त्रिगुणाकार, त्रिनेत्र, त्रिधा आयुध — तीन जन्मों के पाप का संहार करने वाला — एक बिल्वपत्र शिव को अर्पण॥ १॥\n\nतीन शाखाओं वाले, अच्छिद्र, कोमल, शुभ बिल्वपत्रों से आपकी पूजा करूँगा — एक बिल्वपत्र शिव को अर्पण॥ २॥\n\nकोटि कन्यादान, तिलपर्वत कोटि, काञ्चन और क्षीरदान — एक बिल्वपत्र शिव को अर्पण इन सबके समान है॥ ३॥\n\nकाशीक्षेत्र में निवास, कालभैरव के दर्शन, प्रयाग में माधव के दर्शन — एक बिल्वपत्र शिव को अर्पण॥ ४॥\n\nसोमवार को निराहार व्रत रखकर — हे देवेश! रात को हवन करूँगा — एक बिल्वपत्र शिव को अर्पण॥ ५॥\n\nसहस्र रामलिंग, अयुत उमालिंग, शत कोटि लिंग — एक बिल्वपत्र शिव को अर्पण इन सबके तुल्य है॥ ६॥\n\nबिल्ववृक्ष का दर्शन पुण्यकारी, स्पर्श पापनाशक — अघोर पाप का संहार — एक बिल्वपत्र शिव को अर्पण॥ ७॥\n\nशालग्राम पूजा, विप्रों की तुलसीवन सेवा, सहस्र वेदपाठ — एक बिल्वपत्र शिव को अर्पण॥ ८॥\n\nकोटि सहस्र दन्ती (हाथी) दान, सौ अश्वमेध यज्ञ, कोटि कन्यादान — एक बिल्वपत्र शिव को अर्पण॥ ९॥\n\nबिल्व का दर्शन पुण्यकारी, स्पर्श पापनाशक — अघोर पाप का संहार — एक बिल्वपत्र शिव को अर्पण॥ १०॥\n\nसहस्र वेदपाठ, ब्रह्मस्थापन, अनेक व्रत — एक बिल्वपत्र शिव को अर्पण॥ ११॥\n\nअखण्ड बिल्वपत्र से शिवलिंग की पूजा करे — शिवलोक प्राप्त होता है — एक बिल्वपत्र शिव को अर्पण॥ १२॥",
+  "viniyog": null,
+  "benefits": [
+    "Glorifies the supreme merit of offering Bilva leaves to Shiva",
+    "One Bilva leaf offering equals crores of Kanyadaan",
+    "Traditionally recited for removal of sins of three lifetimes",
+    "Invokes the fruit of visiting kashi and prayag",
+    "Invokes the blessing of shivaloka (abode of shiva) upon the devotee",
+    "Especially powerful during Shravan month and Maha Shivaratri"
+  ],
+  "description": "Few offerings please Shiva like a single bilva leaf, and this hymn from the Shiva Rahasya tradition spends twelve verses explaining why. The Bilvarchana Stotram glorifies the supreme merit of that humble leaf laid at Shiva's feet, declaring that one bilva offering equals crores of Kanyadaan and yields the fruit of a pilgrimage to Kashi and Prayag. Recited with faith, it is held to burn away the sins of three lifetimes. Monday is the day kept for it, and it deepens during Maha Shivaratri and on the Shravan Mondays. The twelve verses take about seven minutes to read. On this page the complete text appears in Devanagari, paired with an English transliteration, the Hindi arth, and a free PDF you can keep for offline recitation.",
+  "deity": "shiva",
+  "secondaryDeities": [],
+  "days": [
+    "monday"
+  ],
+  "festivals": [
+    "maha-shivaratri",
+    "shravan-somvar"
+  ],
+  "purposes": [
+    "devotion",
+    "spiritual-growth"
+  ],
+  "readingTimeMinutes": 7,
+  "seoDescription": "Read Bilvarchana Stotram in Sanskrit with Hindi meaning. Sacred hymn glorifying the offering of Bilva leaves to Lord Shiva for supreme spiritual merit.",
+  "verseCount": 12,
+  "source": "Shiva Rahasya - Traditional",
+  "createdAt": "2026-03-29T00:00:00Z",
+  "updatedAt": "2026-06-01",
+  "isPublished": true,
+  "alsoKnownAs": [
+    "Bilvashtakam",
+    "Bilva Stotram",
+    "Shiva Bilvarchana",
+    "Bilva Patra Stotram"
+  ],
+  "relatedSearches": [
+    "bilvarchana stotram lyrics sanskrit",
+    "bilvashtakam meaning english",
+    "bilva leaf offering shiva benefits",
+    "tridalam triguna karam mantra",
+    "bilvashtakam adi shankaracharya pdf",
+    "bilva patra rules shiva puja",
+    "bilvashtakam telugu lyrics",
+    "bilva stotram audio mp3",
+    "why three bilva leaves to shiva",
+    "bilvarchana on shivaratri"
+  ],
+  "seoFaqs": [
+    {
+      "question": "What is the difference between Bilvarchana Stotram and the Bilvashtakam?",
+      "answer": "Bilvarchana literally means 'worship by means of the bilva leaf' and refers to the entire ritual of arranging bilva (Aegle marmelos) tri-foliate leaves on a Shivalinga, while Bilvashtakam is the specific eight-verse Sanskrit hymn (composed by Adi Shankaracharya) that is chanted during this offering. In most temple manuals the two terms are used interchangeably for the same liturgy, with the printed text usually titled 'Bilvashtakam' but the practice referenced as 'Bilvarchana.' Some longer South Indian recensions add a phalashruti and a closing 'Bilvashtottara-shata-namavali' (108 names of the bilva tree) to extend the basic ashtaka into a full Bilvarchana Vidhana."
+    },
+    {
+      "question": "Why is the bilva leaf considered sacred to Lord Shiva?",
+      "answer": "The Skanda Purana records that the bilva tree sprang from drops of perspiration of Goddess Parvati that fell on Mount Mandara, making the leaf intrinsically connected to Shakti. The tri-foliate leaf is interpreted in the opening verse 'tridalam triguna-akaram' as embodying the three gunas (sattva, rajas, tamas), the three syllables of OM (a-u-m), and the three eyes of Shiva. The Shiva Purana and the Linga Purana further declare that one bilva leaf offered with devotion equals the merit of a thousand lotuses or one crore golden flowers, which is why even minimal bilva-puja is treated as a complete Rudrabhishekam substitute when materials are scarce."
+    },
+    {
+      "question": "What does the opening shloka 'tridalam trigunakaram' actually mean?",
+      "answer": "The opening verse reads: 'Tridalam triguna-akaram tri-netram cha tri-ayudham, trijanma-papa-samharam eka-bilvam shivarpanam' which translates as: 'O Shiva, I offer this single bilva leaf which has three petals, embodies the three gunas, represents your three eyes and your three weapons (trishul, damaru, akshamala), and which destroys sins accumulated across three lifetimes.' Each subsequent verse repeats the refrain 'eka-bilvam shivarpanam' ('this one bilva I offer to Shiva') after listing one more aspect of cosmological symbolism, building a complete tattvic offering inside an eight-verse frame."
+    },
+    {
+      "question": "When and how is Bilvarchana traditionally performed?",
+      "answer": "Bilvarchana is performed every Monday (Somavara) sacred to Shiva, on every Pradosham (the 13th lunar day, twice a month), on Maha Shivaratri, and through every Monday of Shravana month. The leaves must be plucked with the stalk intact, washed, and offered with the smooth side touching the linga. The sthapati manuals of South India insist on offering at least 11 leaves for daily worship, 108 for sankalpa-puja, 1,008 for a Laghu Rudra, and 1,25,000 for an Ati-Rudra mahayajna, with the Bilvashtakam recited continuously through the offering. Leaves should never be torn, dropped, or offered after sunset on Sundays."
+    },
+    {
+      "question": "Are there bilva leaves that should not be offered to Shiva?",
+      "answer": "Yes. The Shiva Purana and the Skanda Purana both prescribe that bilva leaves with chakra-marks (insect bites), broken petals, holes, dried edges, leaves plucked at midnight or during eclipses, and leaves fallen on the ground are unfit for offering. Single-petal or two-petal leaves are also rejected because the tri-foliate symbolism is the basis of the entire Bilvarchana liturgy. However, classical compendia note an important concession: previously offered bilva leaves can be washed and re-offered, since 'bilva-patra and Ganga-jal never become impure' once consecrated to Shiva, a unique ritual relaxation not granted to flowers or tulasi."
+    },
+    {
+      "question": "Can Bilvarchana be performed without an actual Shivalinga?",
+      "answer": "Yes. The Shaiva Agamas allow Bilvarchana to be performed in three substitute modes when a stone or metal linga is unavailable: on a parthiva-linga moulded fresh from clean river clay (most popular for Maha Shivaratri at home), on a bana-linga or sphatika-linga installed on a small panchapatra, or in the manasika-puja mode where the entire Bilvashtakam is chanted while visualising the offering on the Shivalinga at one's family kuladevata temple. The phalashruti at the end of the Bilvashtakam declares all three modes equally valid, provided the eight verses are chanted with attention and the refrain 'eka-bilvam shivarpanam' is treated as a complete sankalpa in itself."
+    }
+  ]
 }

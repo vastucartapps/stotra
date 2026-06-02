@@ -1,101 +1,101 @@
 {
-    "id": "595",
-    "title": "पुरुष सूक्तम्",
-    "titleEn": "Purusha Suktam",
-    "slug": "purusha-suktam",
-    "devanagariText": "॥ श्री पुरुष सूक्तम् ॥\n\nॐ तच्छं योरावृणीमहे। गातुं यज्ञाय। गातुं यज्ञपतये। दैवी स्वस्तिरस्तु नः।\nस्वस्तिर्मानुषेभ्यः। ऊर्ध्वं जिगातु भेषजम्। शं नो अस्तु द्विपदे। शं चतुष्पदे।\nॐ शान्तिः शान्तिः शान्तिः॥\n\nसहस्रशीर्षा पुरुषः सहस्राक्षः सहस्रपात्।\nस भूमिं विश्वतो वृत्वाऽत्यतिष्ठद्दशाङ्गुलम्॥ १॥\n\nपुरुष एवेदं सर्वं यद्भूतं यच्च भव्यम्।\nउतामृतत्वस्येशानो यदन्नेनातिरोहति॥ २॥\n\nएतावानस्य महिमाऽतो ज्यायाँश्च पूरुषः।\nपादोऽस्य विश्वा भूतानि त्रिपादस्यामृतं दिवि॥ ३॥\n\nत्रिपादूर्ध्व उदैत्पुरुषः पादोऽस्येहाभवत्पुनः।\nततो विष्वङ्व्यक्रामत्साशनानशने अभि॥ ४॥\n\nतस्माद्विराडजायत विराजो अधि पूरुषः।\nस जातो अत्यरिच्यत पश्चाद्भूमिमथो पुरः॥ ५॥\n\nयत्पुरुषेण हविषा देवा यज्ञमतन्वत।\nवसन्तो अस्यासीदाज्यं ग्रीष्म इध्मः शरद्धविः॥ ६॥\n\nसप्तास्यासन्परिधयस्त्रिः सप्त समिधः कृताः।\nदेवा यद्यज्ञं तन्वाना अबध्नन्पुरुषं पशुम्॥ ७॥\n\nतं यज्ञं बर्हिषि प्रौक्षन्पुरुषं जातमग्रतः।\nतेन देवा अयजन्त साध्या ऋषयश्च ये॥ ८॥\n\nतस्माद्यज्ञात्सर्वहुतः सम्भृतं पृषदाज्यम्।\nपशूँस्ताँश्चक्रे वायव्यानारण्यान्ग्राम्याश्च ये॥ ९॥\n\nतस्माद्यज्ञात्सर्वहुत ऋचः सामानि जज्ञिरे।\nछन्दांसि जज्ञिरे तस्माद्यजुस्तस्मादजायत॥ १०॥\n\nतस्मादश्वा अजायन्त ये के चोभयादतः।\nगावो ह जज्ञिरे तस्मात्तस्माज्जाता अजावयः॥ ११॥\n\nयत्पुरुषं व्यदधुः कतिधा व्यकल्पयन्।\nमुखं किमस्य कौ बाहू का ऊरू पादा उच्येते॥ १२॥\n\nब्राह्मणोऽस्य मुखमासीद्बाहू राजन्यः कृतः।\nऊरू तदस्य यद्वैश्यः पद्भ्यां शूद्रो अजायत॥ १३॥\n\nचन्द्रमा मनसो जातश्चक्षोः सूर्यो अजायत।\nमुखादिन्द्रश्चाग्निश्च प्राणाद्वायुरजायत॥ १४॥\n\nनाभ्या आसीदन्तरिक्षं शीर्ष्णो द्यौः समवर्तत।\nपद्भ्यां भूमिर्दिशः श्रोत्रात्तथा लोकाँ अकल्पयन्॥ १५॥\n\nवेदाहमेतं पुरुषं महान्तमादित्यवर्णं तमसस्तु पारे।\nसर्वाणि रूपाणि विचित्य धीरः नामानि कृत्वाऽभिवदन्यदास्ते॥ १६॥\n\nधाता पुरस्ताद्यमुदाजहार शक्रः प्रविद्वान्प्रदिशश्चतस्रः।\nतमेवं विद्वानमृत इह भवति नान्यः पन्था अयनाय विद्यते॥ १७॥\n\nयज्ञेन यज्ञमयजन्त देवास्तानि धर्माणि प्रथमान्यासन्।\nते ह नाकं महिमानः सचन्ते यत्र पूर्वे साध्याः सन्ति देवाः॥ १८॥\n\nॐ तच्छं योरावृणीमहे। गातुं यज्ञाय। गातुं यज्ञपतये। दैवी स्वस्तिरस्तु नः।\nस्वस्तिर्मानुषेभ्यः। ऊर्ध्वं जिगातु भेषजम्। शं नो अस्तु द्विपदे। शं चतुष्पदे।\nॐ शान्तिः शान्तिः शान्तिः॥",
-    "transliteration": "|| Shri Purusha Suktam ||\n\nOm tachchham yoravrinmahe | Gatum yajnaya | Gatum yajnapataye | Daivi svastirastu nah |\nSvastir-manushebhyah | Urdhvam jigatu bheshajam | Sham no astu dvipade | Sham chatushpade |\nOm Shantih Shantih Shantih ||\n\nSahasra-shirsha Purushah sahasrakshah sahasrapat |\nSa bhumim vishvato vritva-atyatishthad-dashangulam || 1 ||\n\nPurusha evedam sarvam yad-bhutam yachcha bhavyam |\nUta-amritatvasyeshano yad-annena-atirohati || 2 ||\n\nEtavanasya mahima-ato jyayamshcha Purushah |\nPado-asya vishva bhutani tripad-asyamritam divi || 3 ||\n\nTripad-urdhva udait-Purushah pado-asyeha-abhavat-punah |\nTato vishvang-vyakramat-sashananashane abhi || 4 ||\n\nTasmad-virad-ajayata virajo adhi Purushah |\nSa jato atyarichyata pashchad-bhumim-atho purah || 5 ||\n\nYat-Purushena havisha deva yajnam-atanvata |\nVasanto asyasid-ajyam grishma idhmah sharad-dhavih || 6 ||\n\nSaptasyasan-paridhayah trih sapta samidhah kritah |\nDeva yad-yajnam tanvana abadhnan-Purusham pashum || 7 ||\n\nTam yajnam barhishi praukshan-Purusham jatam-agratah |\nTena deva ayajanta sadhya rishayashcha ye || 8 ||\n\nTasmad-yajnat-sarvahutah sambhritam prishadajyam |\nPashum-stamsh-chakre vayavyan-aranyaan-gramyashcha ye || 9 ||\n\nTasmad-yajnat-sarvahuta richah samani jajnire |\nChhandamsi jajnire tasmad-yajus-tasmad-ajayata || 10 ||\n\nTasmad-ashva ajayanta ye ke chobhayadatah |\nGavo ha jajnire tasmat-tasmaj-jata ajavayah || 11 ||\n\nYat-Purusham vyadadhuh katidha vyakalpayan |\nMukham kimasya kau bahu ka uru pada uchyete || 12 ||\n\nBrahmano-asya mukham-asid-bahu Rajanyah kritah |\nUru tadasya yad-Vaishyah padbhyam Shudro ajayata || 13 ||\n\nChandrama manaso jatash-chakshoh Suryo ajayata |\nMukhad-Indrash-cha-Agnishcha pranad-Vayur-ajayata || 14 ||\n\nNabhya asid-antarksham shirshno dyauh samavartata |\nPadbhyam bhumir-dishah shrotrat-tatha lokan akalpayan || 15 ||\n\nVedaham-etam Purusham mahantam-Aditya-varnam tamasas-tu pare |\nSarvani rupani vichitya dhirah namani kritva-abhivadan-yad-aste || 16 ||\n\nDhata purastadyam-udajahara Shakrah pravidvan-pradishash-chatasrah |\nTam-evam vidvan-amrita iha bhavati na-anyah pantha ayanaya vidyate || 17 ||\n\nYajnena yajnam-ayajanta devah tani dharmani prathamany-asan |\nTe ha nakam mahimanah sachante yatra purve sadhyah santi devah || 18 ||\n\nOm tachchham yoravrinmahe | Gatum yajnaya | Gatum yajnapataye | Daivi svastirastu nah |\nSvastir-manushebhyah | Urdhvam jigatu bheshajam | Sham no astu dvipade | Sham chatushpade |\nOm Shantih Shantih Shantih ||",
-    "hindiMeaning": "वह पुरुष (विराट ब्रह्म) सहस्र (अनन्त) शीर्ष वाला, सहस्र नेत्रों वाला, सहस्र पैरों वाला है। वह पृथ्वी को सब ओर से व्याप्त करके दस अंगुल (सीमा से परे) तक फैला हुआ है॥ १॥\n\nयह सब कुछ जो हो चुका है और जो होने वाला है, वह पुरुष ही है। वह अमरत्व का भी स्वामी है और जो अन्न द्वारा बढ़ता है उसका भी॥ २॥\n\nउसकी इतनी ही महिमा है, इससे भी बड़ा पुरुष है। उसका एक चौथाई (पाद) ये सब प्राणी हैं, उसके तीन चौथाई (त्रिपाद) दिव्य लोक में अमर हैं॥ ३॥\n\nतीन पाद से ऊपर उठा पुरुष, एक पाद यहाँ पुनः प्रकट हुआ। फिर वह सब ओर फैल गया — चेतन और जड़ में॥ ४॥\n\nउससे विराट उत्पन्न हुआ, विराट से पुरुष। उत्पन्न होकर वह पृथ्वी से आगे और पीछे सब ओर व्याप्त हो गया॥ ५॥\n\nजब देवताओं ने पुरुष को हवि बनाकर यज्ञ फैलाया, वसन्त उसका घी था, ग्रीष्म ईंधन था, शरद हवि थी॥ ६॥\n\nचन्द्रमा उसके मन से उत्पन्न हुआ, नेत्रों से सूर्य, मुख से इन्द्र और अग्नि, प्राण से वायु उत्पन्न हुआ॥ १४॥\n\nनाभि से अन्तरिक्ष, शीर्ष से द्युलोक, पैरों से भूमि, कानों से दिशाएँ — इस प्रकार लोकों की रचना हुई॥ १५॥",
-    "viniyog": {
-        "rishi": "नारायण",
-        "chhand": "अनुष्टुप् एवं त्रिष्टुप्",
-        "devata": "पुरुष (नारायण / विष्णु)",
-        "beej": "ॐ",
-        "shakti": "पुरुष शक्ति",
-        "kilak": "श्री पुरुष प्रीत्यर्थे जपे विनियोगः",
-        "shloka": "ॐ अस्य श्रीपुरुषसूक्तमहामन्त्रस्य नारायण ऋषिः। अनुष्टुप् एवं त्रिष्टुप् छन्दः। पुरुषः (श्रीमन्नारायणः) देवता। ॐ बीजम्। पुरुषशक्तिः शक्तिः। श्रीपुरुषप्रीत्यर्थे पुरुषसूक्तजपे विनियोगः॥"
+  "id": "595",
+  "title": "पुरुष सूक्तम्",
+  "titleEn": "Purusha Suktam",
+  "slug": "purusha-suktam",
+  "devanagariText": "॥ श्री पुरुष सूक्तम् ॥\n\nॐ तच्छं योरावृणीमहे। गातुं यज्ञाय। गातुं यज्ञपतये। दैवी स्वस्तिरस्तु नः।\nस्वस्तिर्मानुषेभ्यः। ऊर्ध्वं जिगातु भेषजम्। शं नो अस्तु द्विपदे। शं चतुष्पदे।\nॐ शान्तिः शान्तिः शान्तिः॥\n\nसहस्रशीर्षा पुरुषः सहस्राक्षः सहस्रपात्।\nस भूमिं विश्वतो वृत्वाऽत्यतिष्ठद्दशाङ्गुलम्॥ १॥\n\nपुरुष एवेदं सर्वं यद्भूतं यच्च भव्यम्।\nउतामृतत्वस्येशानो यदन्नेनातिरोहति॥ २॥\n\nएतावानस्य महिमाऽतो ज्यायाँश्च पूरुषः।\nपादोऽस्य विश्वा भूतानि त्रिपादस्यामृतं दिवि॥ ३॥\n\nत्रिपादूर्ध्व उदैत्पुरुषः पादोऽस्येहाभवत्पुनः।\nततो विष्वङ्व्यक्रामत्साशनानशने अभि॥ ४॥\n\nतस्माद्विराडजायत विराजो अधि पूरुषः।\nस जातो अत्यरिच्यत पश्चाद्भूमिमथो पुरः॥ ५॥\n\nयत्पुरुषेण हविषा देवा यज्ञमतन्वत।\nवसन्तो अस्यासीदाज्यं ग्रीष्म इध्मः शरद्धविः॥ ६॥\n\nसप्तास्यासन्परिधयस्त्रिः सप्त समिधः कृताः।\nदेवा यद्यज्ञं तन्वाना अबध्नन्पुरुषं पशुम्॥ ७॥\n\nतं यज्ञं बर्हिषि प्रौक्षन्पुरुषं जातमग्रतः।\nतेन देवा अयजन्त साध्या ऋषयश्च ये॥ ८॥\n\nतस्माद्यज्ञात्सर्वहुतः सम्भृतं पृषदाज्यम्।\nपशूँस्ताँश्चक्रे वायव्यानारण्यान्ग्राम्याश्च ये॥ ९॥\n\nतस्माद्यज्ञात्सर्वहुत ऋचः सामानि जज्ञिरे।\nछन्दांसि जज्ञिरे तस्माद्यजुस्तस्मादजायत॥ १०॥\n\nतस्मादश्वा अजायन्त ये के चोभयादतः।\nगावो ह जज्ञिरे तस्मात्तस्माज्जाता अजावयः॥ ११॥\n\nयत्पुरुषं व्यदधुः कतिधा व्यकल्पयन्।\nमुखं किमस्य कौ बाहू का ऊरू पादा उच्येते॥ १२॥\n\nब्राह्मणोऽस्य मुखमासीद्बाहू राजन्यः कृतः।\nऊरू तदस्य यद्वैश्यः पद्भ्यां शूद्रो अजायत॥ १३॥\n\nचन्द्रमा मनसो जातश्चक्षोः सूर्यो अजायत।\nमुखादिन्द्रश्चाग्निश्च प्राणाद्वायुरजायत॥ १४॥\n\nनाभ्या आसीदन्तरिक्षं शीर्ष्णो द्यौः समवर्तत।\nपद्भ्यां भूमिर्दिशः श्रोत्रात्तथा लोकाँ अकल्पयन्॥ १५॥\n\nवेदाहमेतं पुरुषं महान्तमादित्यवर्णं तमसस्तु पारे।\nसर्वाणि रूपाणि विचित्य धीरः नामानि कृत्वाऽभिवदन्यदास्ते॥ १६॥\n\nधाता पुरस्ताद्यमुदाजहार शक्रः प्रविद्वान्प्रदिशश्चतस्रः।\nतमेवं विद्वानमृत इह भवति नान्यः पन्था अयनाय विद्यते॥ १७॥\n\nयज्ञेन यज्ञमयजन्त देवास्तानि धर्माणि प्रथमान्यासन्।\nते ह नाकं महिमानः सचन्ते यत्र पूर्वे साध्याः सन्ति देवाः॥ १८॥\n\nॐ तच्छं योरावृणीमहे। गातुं यज्ञाय। गातुं यज्ञपतये। दैवी स्वस्तिरस्तु नः।\nस्वस्तिर्मानुषेभ्यः। ऊर्ध्वं जिगातु भेषजम्। शं नो अस्तु द्विपदे। शं चतुष्पदे।\nॐ शान्तिः शान्तिः शान्तिः॥",
+  "transliteration": "|| Shri Purusha Suktam ||\n\nOm tachchham yoravrinmahe | Gatum yajnaya | Gatum yajnapataye | Daivi svastirastu nah |\nSvastir-manushebhyah | Urdhvam jigatu bheshajam | Sham no astu dvipade | Sham chatushpade |\nOm Shantih Shantih Shantih ||\n\nSahasra-shirsha Purushah sahasrakshah sahasrapat |\nSa bhumim vishvato vritva-atyatishthad-dashangulam || 1 ||\n\nPurusha evedam sarvam yad-bhutam yachcha bhavyam |\nUta-amritatvasyeshano yad-annena-atirohati || 2 ||\n\nEtavanasya mahima-ato jyayamshcha Purushah |\nPado-asya vishva bhutani tripad-asyamritam divi || 3 ||\n\nTripad-urdhva udait-Purushah pado-asyeha-abhavat-punah |\nTato vishvang-vyakramat-sashananashane abhi || 4 ||\n\nTasmad-virad-ajayata virajo adhi Purushah |\nSa jato atyarichyata pashchad-bhumim-atho purah || 5 ||\n\nYat-Purushena havisha deva yajnam-atanvata |\nVasanto asyasid-ajyam grishma idhmah sharad-dhavih || 6 ||\n\nSaptasyasan-paridhayah trih sapta samidhah kritah |\nDeva yad-yajnam tanvana abadhnan-Purusham pashum || 7 ||\n\nTam yajnam barhishi praukshan-Purusham jatam-agratah |\nTena deva ayajanta sadhya rishayashcha ye || 8 ||\n\nTasmad-yajnat-sarvahutah sambhritam prishadajyam |\nPashum-stamsh-chakre vayavyan-aranyaan-gramyashcha ye || 9 ||\n\nTasmad-yajnat-sarvahuta richah samani jajnire |\nChhandamsi jajnire tasmad-yajus-tasmad-ajayata || 10 ||\n\nTasmad-ashva ajayanta ye ke chobhayadatah |\nGavo ha jajnire tasmat-tasmaj-jata ajavayah || 11 ||\n\nYat-Purusham vyadadhuh katidha vyakalpayan |\nMukham kimasya kau bahu ka uru pada uchyete || 12 ||\n\nBrahmano-asya mukham-asid-bahu Rajanyah kritah |\nUru tadasya yad-Vaishyah padbhyam Shudro ajayata || 13 ||\n\nChandrama manaso jatash-chakshoh Suryo ajayata |\nMukhad-Indrash-cha-Agnishcha pranad-Vayur-ajayata || 14 ||\n\nNabhya asid-antarksham shirshno dyauh samavartata |\nPadbhyam bhumir-dishah shrotrat-tatha lokan akalpayan || 15 ||\n\nVedaham-etam Purusham mahantam-Aditya-varnam tamasas-tu pare |\nSarvani rupani vichitya dhirah namani kritva-abhivadan-yad-aste || 16 ||\n\nDhata purastadyam-udajahara Shakrah pravidvan-pradishash-chatasrah |\nTam-evam vidvan-amrita iha bhavati na-anyah pantha ayanaya vidyate || 17 ||\n\nYajnena yajnam-ayajanta devah tani dharmani prathamany-asan |\nTe ha nakam mahimanah sachante yatra purve sadhyah santi devah || 18 ||\n\nOm tachchham yoravrinmahe | Gatum yajnaya | Gatum yajnapataye | Daivi svastirastu nah |\nSvastir-manushebhyah | Urdhvam jigatu bheshajam | Sham no astu dvipade | Sham chatushpade |\nOm Shantih Shantih Shantih ||",
+  "hindiMeaning": "वह पुरुष (विराट ब्रह्म) सहस्र (अनन्त) शीर्ष वाला, सहस्र नेत्रों वाला, सहस्र पैरों वाला है। वह पृथ्वी को सब ओर से व्याप्त करके दस अंगुल (सीमा से परे) तक फैला हुआ है॥ १॥\n\nयह सब कुछ जो हो चुका है और जो होने वाला है, वह पुरुष ही है। वह अमरत्व का भी स्वामी है और जो अन्न द्वारा बढ़ता है उसका भी॥ २॥\n\nउसकी इतनी ही महिमा है, इससे भी बड़ा पुरुष है। उसका एक चौथाई (पाद) ये सब प्राणी हैं, उसके तीन चौथाई (त्रिपाद) दिव्य लोक में अमर हैं॥ ३॥\n\nतीन पाद से ऊपर उठा पुरुष, एक पाद यहाँ पुनः प्रकट हुआ। फिर वह सब ओर फैल गया — चेतन और जड़ में॥ ४॥\n\nउससे विराट उत्पन्न हुआ, विराट से पुरुष। उत्पन्न होकर वह पृथ्वी से आगे और पीछे सब ओर व्याप्त हो गया॥ ५॥\n\nजब देवताओं ने पुरुष को हवि बनाकर यज्ञ फैलाया, वसन्त उसका घी था, ग्रीष्म ईंधन था, शरद हवि थी॥ ६॥\n\nचन्द्रमा उसके मन से उत्पन्न हुआ, नेत्रों से सूर्य, मुख से इन्द्र और अग्नि, प्राण से वायु उत्पन्न हुआ॥ १४॥\n\nनाभि से अन्तरिक्ष, शीर्ष से द्युलोक, पैरों से भूमि, कानों से दिशाएँ — इस प्रकार लोकों की रचना हुई॥ १५॥",
+  "viniyog": {
+    "rishi": "नारायण",
+    "chhand": "अनुष्टुप् एवं त्रिष्टुप्",
+    "devata": "पुरुष (नारायण / विष्णु)",
+    "beej": "ॐ",
+    "shakti": "पुरुष शक्ति",
+    "kilak": "श्री पुरुष प्रीत्यर्थे जपे विनियोगः",
+    "shloka": "ॐ अस्य श्रीपुरुषसूक्तमहामन्त्रस्य नारायण ऋषिः। अनुष्टुप् एवं त्रिष्टुप् छन्दः। पुरुषः (श्रीमन्नारायणः) देवता। ॐ बीजम्। पुरुषशक्तिः शक्तिः। श्रीपुरुषप्रीत्यर्थे पुरुषसूक्तजपे विनियोगः॥"
+  },
+  "benefits": [
+    "Invokes the blessing of knowledge of the cosmic creation and supreme being",
+    "Purifies the atmosphere and removes negativity",
+    "Traditionally associated with prosperity and auspiciousness to homes and workplaces",
+    "Invokes spiritual knowledge and self-realization",
+    "Classical tradition invokes this for removal of types of sins and negative karma",
+    "Highly meritorious when chanted during Vedic rituals and yajnas",
+    "Traditionally associated with blessings of all deities simultaneously"
+  ],
+  "description": "The cosmic Person sacrificed so that the worlds might come to be, and from that sacrifice the seasons, the Vedas, and the four orders of society arose, this is what the Purusha Suktam sings. Found in the Rigveda at Mandala 10, Sukta 90, its eighteen verses praise Vishnu as that supreme being and carry knowledge of the cosmic creation itself. Recited at home or work, the hymn is held to purify the atmosphere and clear negativity, to draw prosperity and auspiciousness into a place, and to open the way to spiritual knowledge and self-realisation. Thursday and Sunday are its days, with Ekadashi its festival. The eighteen verses take about twelve minutes. The page gives the full Devanagari text, English transliteration, Hindi arth, and a free PDF.",
+  "deity": "vishnu",
+  "secondaryDeities": [],
+  "days": [
+    "thursday",
+    "sunday"
+  ],
+  "festivals": [
+    "ekadashi"
+  ],
+  "purposes": [
+    "spiritual-growth",
+    "knowledge",
+    "peace",
+    "devotion",
+    "wealth",
+    "protection",
+    "worship"
+  ],
+  "readingTimeMinutes": 12,
+  "seoDescription": "Read Purusha Suktam from Rigveda in Sanskrit with English transliteration and Hindi meaning. Ancient Vedic hymn describing cosmic creation.",
+  "verseCount": 18,
+  "source": "Rigveda - Mandala 10, Sukta 90",
+  "createdAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-06-01",
+  "isPublished": true,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Purusha_Sukta",
+  "wikidataUrl": "https://www.wikidata.org/wiki/Q1764411",
+  "alsoKnownAs": [
+    "Sri Purusha Suktam",
+    "पुरुष सूक्तम्",
+    "Hymn of the Cosmic Person",
+    "Sahasra-shirsha Purusha Sukta",
+    "Rigveda 10.90 Purusha Sukta",
+    "Vedic Cosmic Sacrifice Hymn"
+  ],
+  "relatedSearches": [
+    "Purusha Suktam lyrics in Sanskrit Tamil Telugu PDF",
+    "Sahasra-shirsha purusha sahasrakshah sahasrapat meaning",
+    "Purusha Sukta Rigveda 10.90 translation",
+    "Purusha Suktam vs Narayana Suktam difference",
+    "Purusha Suktam meaning verse by verse explanation",
+    "Brahmano asya mukham asid varna verse caste",
+    "Purusha Suktam audio MP3 chant download",
+    "Purusha Suktam parayanam Vishnu temple abhisheka",
+    "Purusha Sukta cosmic creation hymn philosophy",
+    "Purusha Suktam Pancha Suktam first hymn"
+  ],
+  "seoFaqs": [
+    {
+      "question": "What is the Purusha Suktam and what is its source in the Vedas?",
+      "answer": "The Purusha Suktam (पुरुष सूक्तम् — purusha = the cosmic Person) is the most celebrated Vedic hymn of cosmic creation, drawn from the Rigveda — Mandala 10, Sukta 90, comprising 16 verses (with 2 additional shanti-verses bookending it in liturgical recitation, totalling 18 in the temple version). It is the foundational Vedic creation hymn describing the cosmic Purusha — the thousand-headed, thousand-eyed, thousand-footed cosmic Person — from whose primal sacrificial dismemberment by the gods the entire universe (sun, moon, sky, earth, gods, beings and the four varnas) emerged. The Purusha Suktam is also preserved in the Taittiriya Aranyaka, the Vajasaneyi Samhita and the Atharva Veda, and is the most-recited Vedic hymn in living Hindu tradition. (Sources: Rigveda 10.90; Taittiriya Aranyaka 3.12; Vajasaneyi Samhita 31.)"
     },
-    "benefits": [
-        "Invokes the blessing of knowledge of the cosmic creation and supreme being",
-        "Purifies the atmosphere and removes negativity",
-        "Traditionally associated with prosperity and auspiciousness to homes and workplaces",
-        "Invokes spiritual knowledge and self-realization",
-        "Classical tradition invokes this for removal of types of sins and negative karma",
-        "Highly meritorious when chanted during Vedic rituals and yajnas",
-        "Traditionally associated with blessings of all deities simultaneously"
-    ],
-    "description": "The Purusha Suktam, known in Sanskrit as पुरुष सूक्तम्, is a Vedic hymn in praise of Lord Vishnu. This sacred composition is sourced from Rigveda - Mandala 10, Sukta 90 and continues to inspire devotees worldwide. Devotees recite this prayer to bring blessings of all deities simultaneously and bring prosperity and auspiciousness to homes and workplaces. It is also said to purify the atmosphere and remove negativity. This prayer is traditionally recited on Thursday (Guruvar) and Sunday (Ravivar) and during Ekadashi to invoke divine grace. With 18 verses and a reading time of about 12 minutes, this prayer is ideal for both daily worship and special occasions. On this page, you can read the complete Purusha Suktam in Devanagari Sanskrit with English transliteration, Hindi meaning (arth), and free PDF download for offline recitation.",
-    "deity": "vishnu",
-    "secondaryDeities": [],
-    "days": [
-        "thursday",
-        "sunday"
-    ],
-    "festivals": [
-        "ekadashi"
-    ],
-    "purposes": [
-        "spiritual-growth",
-        "knowledge",
-        "peace",
-        "devotion",
-        "wealth",
-        "protection",
-        "worship"
-    ],
-    "readingTimeMinutes": 12,
-    "seoDescription": "Read Purusha Suktam from Rigveda in Sanskrit with English transliteration and Hindi meaning. Ancient Vedic hymn describing cosmic creation.",
-    "verseCount": 18,
-    "source": "Rigveda - Mandala 10, Sukta 90",
-    "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
-    "isPublished": true,
-    "wikipediaUrl": "https://en.wikipedia.org/wiki/Purusha_Sukta",
-    "wikidataUrl": "https://www.wikidata.org/wiki/Q1764411",
-    "alsoKnownAs": [
-        "Sri Purusha Suktam",
-        "पुरुष सूक्तम्",
-        "Hymn of the Cosmic Person",
-        "Sahasra-shirsha Purusha Sukta",
-        "Rigveda 10.90 Purusha Sukta",
-        "Vedic Cosmic Sacrifice Hymn"
-    ],
-    "relatedSearches": [
-        "Purusha Suktam lyrics in Sanskrit Tamil Telugu PDF",
-        "Sahasra-shirsha purusha sahasrakshah sahasrapat meaning",
-        "Purusha Sukta Rigveda 10.90 translation",
-        "Purusha Suktam vs Narayana Suktam difference",
-        "Purusha Suktam meaning verse by verse explanation",
-        "Brahmano asya mukham asid varna verse caste",
-        "Purusha Suktam audio MP3 chant download",
-        "Purusha Suktam parayanam Vishnu temple abhisheka",
-        "Purusha Sukta cosmic creation hymn philosophy",
-        "Purusha Suktam Pancha Suktam first hymn"
-    ],
-    "seoFaqs": [
-        {
-            "question": "What is the Purusha Suktam and what is its source in the Vedas?",
-            "answer": "The Purusha Suktam (पुरुष सूक्तम् — purusha = the cosmic Person) is the most celebrated Vedic hymn of cosmic creation, drawn from the Rigveda — Mandala 10, Sukta 90, comprising 16 verses (with 2 additional shanti-verses bookending it in liturgical recitation, totalling 18 in the temple version). It is the foundational Vedic creation hymn describing the cosmic Purusha — the thousand-headed, thousand-eyed, thousand-footed cosmic Person — from whose primal sacrificial dismemberment by the gods the entire universe (sun, moon, sky, earth, gods, beings and the four varnas) emerged. The Purusha Suktam is also preserved in the Taittiriya Aranyaka, the Vajasaneyi Samhita and the Atharva Veda, and is the most-recited Vedic hymn in living Hindu tradition. (Sources: Rigveda 10.90; Taittiriya Aranyaka 3.12; Vajasaneyi Samhita 31.)"
-        },
-        {
-            "question": "What is the meaning of Sahasra-shirsha Purushah Sahasrakshah Sahasrapat?",
-            "answer": "This celebrated opening verse of the Purusha Suktam declares: Sahasra-shirsha Purushah sahasrakshah sahasrapat — The Purusha (cosmic Person) has thousand heads, thousand eyes, thousand feet (sahasra here is symbolic for innumerable, infinite); sa bhumim vishvato vritva atyatishthad dashangulam — He pervaded the earth on every side and extended ten fingers beyond. The verse establishes Purusha as the infinite cosmic being who pervades the entire universe and yet transcends it — the within-and-beyond reality. The image of the cosmic Person with infinite heads, eyes and feet symbolises that all heads, all eyes, all feet of every being in the universe are his — there is no consciousness, vision or movement anywhere that is not the Purusha. (Sources: Rigveda 10.90.1; Sayana Bhashya; Hindupedia Purusha Sukta.)"
-        },
-        {
-            "question": "What is the cosmic creation story narrated in the Purusha Suktam?",
-            "answer": "The Purusha Suktam narrates the great Vedic cosmogony: in the beginning, the gods (devas), sadhyas and rishis performed the cosmic yajna with the Purusha himself as the sacrificial offering. From this primal cosmic sacrifice, every component of the manifest universe emerged. From his mind came the moon (chandrama manaso jatah), from his eye came the sun (chakshoh suryo ajayata), from his mouth came Indra and Agni, from his breath came Vayu (the wind), from his navel came the antariksha (mid-region), from his head came the heavens (dyauh), from his feet came the earth (bhumih), from his ears came the directions, and from his very body emerged the four varnas — Brahmana from his mouth, Rajanya/Kshatriya from his arms, Vaishya from his thighs, Shudra from his feet. Thus all of cosmic and social order is the body of the cosmic Purusha. (Sources: Rigveda 10.90.13-14; Sayana Bhashya.)"
-        },
-        {
-            "question": "When is the Purusha Suktam traditionally recited?",
-            "answer": "The Purusha Suktam is recited daily by Vaishnavas, Smartas and orthodox Hindus during the morning sandhya, during every Vishnu abhisheka in temples, on every Ekadashi (especially Vaikuntha Ekadashi), every Thursday (Guruvar — the day of Brihaspati and Vishnu), every Sunday (Ravivar — surya and Vishnu), all major Vishnu festivals (Rama Navami, Krishna Janmashtami, Narasimha Jayanti, Vamana Jayanti), Vishnu Sahasranama parayanam preliminaries, all major yajnas (Soma yaga, Putrakameshti, Vajapeya, Rajasuya), temple kumbhabhishekam and Brahmotsavam, and as the first of the Pancha Suktam during pancha-suktabhishekam. Daily recitation in the Brahma muhurta facing east is the classical Smarta-Vaishnava prescription. (Sources: Vaishnava sandhya paddhati; Drikpanchang Vaishnava calendar; temple liturgy.)"
-        },
-        {
-            "question": "What is the philosophical significance of the Purusha Suktam?",
-            "answer": "The Purusha Suktam is the foundational text of three of the most important streams of Hindu philosophy: (1) Sankhya — the dualism of Purusha (consciousness) and Prakriti (matter) is rooted in this Sukta's contrast between the cosmic Person and the manifest world; (2) Vedanta — the identification of Purusha with the supreme Brahman, with Atman, and with Narayana (in the parallel Narayana Sukta) provides the foundation for Advaita and Vishishtadvaita; (3) Mimamsa — the ritual cosmogony of cosmic sacrifice provides the theological foundation for the entire Vedic yajna system. The Sukta also provides the only Vedic source for the four-varna model, though its interpretation has been deeply debated for centuries with classical commentators emphasising the symbolic-organic nature of the imagery. (Sources: Rigveda 10.90; Sayana Bhashya; Aurobindo's Secret of the Veda.)"
-        },
-        {
-            "question": "What benefits are attributed to regular Purusha Suktam parayanam?",
-            "answer": "Tradition attributes the following benefits to regular Purusha Suktam parayanam: invocation of the blessings of all deities simultaneously (since all devas are facets of the cosmic Purusha), purification of the atmosphere and removal of negative energies, prosperity and auspiciousness in homes and workplaces, spiritual knowledge (jnana) of the cosmic creation and the supreme being, removal of all sins committed knowingly or unknowingly through the highest yajna-karma, success in any new venture (since it is the cosmogonic seed-mantra), blessings during all Vedic yajnas making them complete and fruitful, promotion of cosmic and social order in the reciter's life, the four purusharthas (Dharma, Artha, Kama, Moksha), and the supreme phala — knowledge that one is the Purusha himself, leading to liberation. The phalashruti declares that one who knows the Purusha Sukta becomes immortal. (Sources: Rigveda 10.90 phalashruti; Vaishnava paddhati; Sayana Bhashya.)"
-        }
-    ]
+    {
+      "question": "What is the meaning of Sahasra-shirsha Purushah Sahasrakshah Sahasrapat?",
+      "answer": "This celebrated opening verse of the Purusha Suktam declares: Sahasra-shirsha Purushah sahasrakshah sahasrapat — The Purusha (cosmic Person) has thousand heads, thousand eyes, thousand feet (sahasra here is symbolic for innumerable, infinite); sa bhumim vishvato vritva atyatishthad dashangulam — He pervaded the earth on every side and extended ten fingers beyond. The verse establishes Purusha as the infinite cosmic being who pervades the entire universe and yet transcends it — the within-and-beyond reality. The image of the cosmic Person with infinite heads, eyes and feet symbolises that all heads, all eyes, all feet of every being in the universe are his — there is no consciousness, vision or movement anywhere that is not the Purusha. (Sources: Rigveda 10.90.1; Sayana Bhashya; Hindupedia Purusha Sukta.)"
+    },
+    {
+      "question": "What is the cosmic creation story narrated in the Purusha Suktam?",
+      "answer": "The Purusha Suktam narrates the great Vedic cosmogony: in the beginning, the gods (devas), sadhyas and rishis performed the cosmic yajna with the Purusha himself as the sacrificial offering. From this primal cosmic sacrifice, every component of the manifest universe emerged. From his mind came the moon (chandrama manaso jatah), from his eye came the sun (chakshoh suryo ajayata), from his mouth came Indra and Agni, from his breath came Vayu (the wind), from his navel came the antariksha (mid-region), from his head came the heavens (dyauh), from his feet came the earth (bhumih), from his ears came the directions, and from his very body emerged the four varnas — Brahmana from his mouth, Rajanya/Kshatriya from his arms, Vaishya from his thighs, Shudra from his feet. Thus all of cosmic and social order is the body of the cosmic Purusha. (Sources: Rigveda 10.90.13-14; Sayana Bhashya.)"
+    },
+    {
+      "question": "When is the Purusha Suktam traditionally recited?",
+      "answer": "The Purusha Suktam is recited daily by Vaishnavas, Smartas and orthodox Hindus during the morning sandhya, during every Vishnu abhisheka in temples, on every Ekadashi (especially Vaikuntha Ekadashi), every Thursday (Guruvar — the day of Brihaspati and Vishnu), every Sunday (Ravivar — surya and Vishnu), all major Vishnu festivals (Rama Navami, Krishna Janmashtami, Narasimha Jayanti, Vamana Jayanti), Vishnu Sahasranama parayanam preliminaries, all major yajnas (Soma yaga, Putrakameshti, Vajapeya, Rajasuya), temple kumbhabhishekam and Brahmotsavam, and as the first of the Pancha Suktam during pancha-suktabhishekam. Daily recitation in the Brahma muhurta facing east is the classical Smarta-Vaishnava prescription. (Sources: Vaishnava sandhya paddhati; Drikpanchang Vaishnava calendar; temple liturgy.)"
+    },
+    {
+      "question": "What is the philosophical significance of the Purusha Suktam?",
+      "answer": "The Purusha Suktam is the foundational text of three of the most important streams of Hindu philosophy: (1) Sankhya — the dualism of Purusha (consciousness) and Prakriti (matter) is rooted in this Sukta's contrast between the cosmic Person and the manifest world; (2) Vedanta — the identification of Purusha with the supreme Brahman, with Atman, and with Narayana (in the parallel Narayana Sukta) provides the foundation for Advaita and Vishishtadvaita; (3) Mimamsa — the ritual cosmogony of cosmic sacrifice provides the theological foundation for the entire Vedic yajna system. The Sukta also provides the only Vedic source for the four-varna model, though its interpretation has been deeply debated for centuries with classical commentators emphasising the symbolic-organic nature of the imagery. (Sources: Rigveda 10.90; Sayana Bhashya; Aurobindo's Secret of the Veda.)"
+    },
+    {
+      "question": "What benefits are attributed to regular Purusha Suktam parayanam?",
+      "answer": "Tradition attributes the following benefits to regular Purusha Suktam parayanam: invocation of the blessings of all deities simultaneously (since all devas are facets of the cosmic Purusha), purification of the atmosphere and removal of negative energies, prosperity and auspiciousness in homes and workplaces, spiritual knowledge (jnana) of the cosmic creation and the supreme being, removal of all sins committed knowingly or unknowingly through the highest yajna-karma, success in any new venture (since it is the cosmogonic seed-mantra), blessings during all Vedic yajnas making them complete and fruitful, promotion of cosmic and social order in the reciter's life, the four purusharthas (Dharma, Artha, Kama, Moksha), and the supreme phala — knowledge that one is the Purusha himself, leading to liberation. The phalashruti declares that one who knows the Purusha Sukta becomes immortal. (Sources: Rigveda 10.90 phalashruti; Vaishnava paddhati; Sayana Bhashya.)"
+    }
+  ]
 }

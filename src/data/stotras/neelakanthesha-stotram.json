@@ -1,95 +1,95 @@
 {
-    "id": "560",
-    "title": "श्री नीलकण्ठेश स्तोत्रम्",
-    "titleEn": "Neelakanthesha Stotram",
-    "slug": "neelakanthesha-stotram",
-    "devanagariText": "नीलकण्ठं नमामीशं विषधारिणमव्ययम्।\nसमुद्रमन्थनोद्भूतं हालाहलधरं शिवम्॥१॥\n\nदेवानां रक्षणार्थाय जगतां हितकाम्यया।\nविषं सन्धारयामास कण्ठे यो लोकशंकरः॥२॥\n\nकालकूटविषं घोरं सर्वलोकभयङ्करम्।\nकण्ठे धृत्वा कृपासिन्धुं नीलकण्ठं नमाम्यहम्॥३॥\n\nदेवासुरैस्तदा मन्थे समुद्रे क्षीरसागरे।\nहालाहलं समुत्पन्नं जगद्दाहकरं विषम्॥४॥\n\nत्रस्ता देवाश्च गन्धर्वा ऋषयो मुनयस्तथा।\nशरणं जग्मुरीशानं विषनाशाय शंकरम्॥५॥\n\nपार्वत्या सहितः शम्भुः करुणार्द्रेण चेतसा।\nगृहीत्वा पाणिना विषं पपौ कण्ठे धृतं तदा॥६॥\n\nनैव मृत्युर्न चालस्यं विषं कण्ठे स्थितं यतः।\nनीलवर्णं बभूवाथ कण्ठं तस्य महात्मनः॥७॥\n\nनीलकण्ठ महादेव कृपासागर शंकर।\nत्राहि मां सर्वपापेभ्यो विषदुःखाच्च रक्ष माम्॥८॥\n\nयः पठेत् प्रातरुत्थाय नीलकण्ठस्तवं शुभम्।\nविषबाधा न तस्यास्ति सर्वरोगविनाशनम्॥\n\n॥ इति श्री नीलकण्ठेश स्तोत्रं सम्पूर्णम् ॥",
-    "transliteration": "Nilakantham Namamiisham Vishadharinam Avyayam.\nSamudramanthanodbhutam Halahaladharam Shivam.||1||\n\nDevanam Rakshanarthaya Jagatam Hitakamyaya.\nVisham Sandharayamasa Kanthe Yo Lokashankarah.||2||\n\nKalakutavisham Ghoram Sarvalokabhayankaram.\nKanthe Dhritva Kripasindhum Nilakantham Namamyaham.||3||\n\nDevasurais Tada Manthe Samudre Kshirasagare.\nHalahalam Samutpannam Jagaddahakaram Visham.||4||\n\nTrasta Devashcha Gandharva Rishayo Munayastatha.\nSharanam Jagmur Ishanam Vishanashaya Shankaram.||5||\n\nParvatya Sahitah Shambhuh Karunardrena Chetasa.\nGrihitva Panina Visham Papau Kanthe Dhritam Tada.||6||\n\nNaiva Mrityur Na Chalasyam Visham Kanthe Sthitam Yatah.\nNilavarnam Babhuvatha Kantham Tasya Mahatmanah.||7||\n\nNilakantha Mahadeva Kripasagara Shankara.\nTrahi Mam Sarvapapebhyo Vishaduhkhachcha Raksha Mam.||8||\n\nYah Pathet Pratar-Utthaya Nilakanthastavam Shubham.\nVishabadha Na Tasyasti Sarvarogavinashanam.\n\n|| Iti Shri Neelakanthesha Stotram Sampurnam ||",
-    "hindiMeaning": "विष धारण करने वाले, अव्यय, समुद्र मंथन से उत्पन्न हालाहल को धारण करने वाले नीलकण्ठ ईश शिव को मैं नमन करता हूँ।\n\nदेवताओं की रक्षा और जगत की हित कामना से जिन्होंने विष को कण्ठ में धारण किया, उन लोकशंकर को नमस्कार।\n\nसर्व लोकों को भयभीत करने वाले घोर कालकूट विष को कण्ठ में धारण करने वाले कृपासिन्धु नीलकण्ठ को मैं नमस्कार करता हूँ।\n\nजब देवासुरों ने क्षीरसागर का मंथन किया तब जगत को दग्ध करने वाला हालाहल विष उत्पन्न हुआ।\n\nभयभीत देव, गन्धर्व, ऋषि और मुनि विष-नाश के लिए ईशान शंकर की शरण में गए।\n\nपार्वती सहित शम्भु ने करुणार्द्र हृदय से हाथ में विष लेकर पान किया और कण्ठ में धारण किया।\n\nन मृत्यु हुई न आलस्य — विष कण्ठ में स्थित रहा, जिससे उस महात्मा का कण्ठ नीलवर्ण हो गया।\n\nहे नीलकण्ठ महादेव, कृपासागर शंकर! सर्व पापों और विषजन्य दुःखों से मेरी रक्षा करें।\n\nजो प्रातःकाल उठकर नीलकण्ठ स्तव का पाठ करता है, उसे विषबाधा नहीं होती और सर्व रोगों का नाश होता है।",
-    "viniyog": {
-        "rishi": "मार्कण्डेय",
-        "chhand": "अनुष्टुप्",
-        "devata": "श्री नीलकण्ठ शिव",
-        "beej": "ॐ नमः शिवाय",
-        "shakti": "विषनाशिनी शक्ति",
-        "kilak": "सर्वरोग निवारण",
-        "shloka": "अस्य श्रीनीलकण्ठेशस्तोत्रमन्त्रस्य मार्कण्डेय ऋषिः। अनुष्टुप् छन्दः। श्रीनीलकण्ठशिव देवता। ॐ नमः शिवाय बीजम्। विषनाशिनीशक्तिः। सर्वरोगनिवारणं कीलकम्। श्रीशिवप्रीत्यर्थे पाठे विनियोगः॥"
+  "id": "560",
+  "title": "श्री नीलकण्ठेश स्तोत्रम्",
+  "titleEn": "Neelakanthesha Stotram",
+  "slug": "neelakanthesha-stotram",
+  "devanagariText": "नीलकण्ठं नमामीशं विषधारिणमव्ययम्।\nसमुद्रमन्थनोद्भूतं हालाहलधरं शिवम्॥१॥\n\nदेवानां रक्षणार्थाय जगतां हितकाम्यया।\nविषं सन्धारयामास कण्ठे यो लोकशंकरः॥२॥\n\nकालकूटविषं घोरं सर्वलोकभयङ्करम्।\nकण्ठे धृत्वा कृपासिन्धुं नीलकण्ठं नमाम्यहम्॥३॥\n\nदेवासुरैस्तदा मन्थे समुद्रे क्षीरसागरे।\nहालाहलं समुत्पन्नं जगद्दाहकरं विषम्॥४॥\n\nत्रस्ता देवाश्च गन्धर्वा ऋषयो मुनयस्तथा।\nशरणं जग्मुरीशानं विषनाशाय शंकरम्॥५॥\n\nपार्वत्या सहितः शम्भुः करुणार्द्रेण चेतसा।\nगृहीत्वा पाणिना विषं पपौ कण्ठे धृतं तदा॥६॥\n\nनैव मृत्युर्न चालस्यं विषं कण्ठे स्थितं यतः।\nनीलवर्णं बभूवाथ कण्ठं तस्य महात्मनः॥७॥\n\nनीलकण्ठ महादेव कृपासागर शंकर।\nत्राहि मां सर्वपापेभ्यो विषदुःखाच्च रक्ष माम्॥८॥\n\nयः पठेत् प्रातरुत्थाय नीलकण्ठस्तवं शुभम्।\nविषबाधा न तस्यास्ति सर्वरोगविनाशनम्॥\n\n॥ इति श्री नीलकण्ठेश स्तोत्रं सम्पूर्णम् ॥",
+  "transliteration": "Nilakantham Namamiisham Vishadharinam Avyayam.\nSamudramanthanodbhutam Halahaladharam Shivam.||1||\n\nDevanam Rakshanarthaya Jagatam Hitakamyaya.\nVisham Sandharayamasa Kanthe Yo Lokashankarah.||2||\n\nKalakutavisham Ghoram Sarvalokabhayankaram.\nKanthe Dhritva Kripasindhum Nilakantham Namamyaham.||3||\n\nDevasurais Tada Manthe Samudre Kshirasagare.\nHalahalam Samutpannam Jagaddahakaram Visham.||4||\n\nTrasta Devashcha Gandharva Rishayo Munayastatha.\nSharanam Jagmur Ishanam Vishanashaya Shankaram.||5||\n\nParvatya Sahitah Shambhuh Karunardrena Chetasa.\nGrihitva Panina Visham Papau Kanthe Dhritam Tada.||6||\n\nNaiva Mrityur Na Chalasyam Visham Kanthe Sthitam Yatah.\nNilavarnam Babhuvatha Kantham Tasya Mahatmanah.||7||\n\nNilakantha Mahadeva Kripasagara Shankara.\nTrahi Mam Sarvapapebhyo Vishaduhkhachcha Raksha Mam.||8||\n\nYah Pathet Pratar-Utthaya Nilakanthastavam Shubham.\nVishabadha Na Tasyasti Sarvarogavinashanam.\n\n|| Iti Shri Neelakanthesha Stotram Sampurnam ||",
+  "hindiMeaning": "विष धारण करने वाले, अव्यय, समुद्र मंथन से उत्पन्न हालाहल को धारण करने वाले नीलकण्ठ ईश शिव को मैं नमन करता हूँ।\n\nदेवताओं की रक्षा और जगत की हित कामना से जिन्होंने विष को कण्ठ में धारण किया, उन लोकशंकर को नमस्कार।\n\nसर्व लोकों को भयभीत करने वाले घोर कालकूट विष को कण्ठ में धारण करने वाले कृपासिन्धु नीलकण्ठ को मैं नमस्कार करता हूँ।\n\nजब देवासुरों ने क्षीरसागर का मंथन किया तब जगत को दग्ध करने वाला हालाहल विष उत्पन्न हुआ।\n\nभयभीत देव, गन्धर्व, ऋषि और मुनि विष-नाश के लिए ईशान शंकर की शरण में गए।\n\nपार्वती सहित शम्भु ने करुणार्द्र हृदय से हाथ में विष लेकर पान किया और कण्ठ में धारण किया।\n\nन मृत्यु हुई न आलस्य — विष कण्ठ में स्थित रहा, जिससे उस महात्मा का कण्ठ नीलवर्ण हो गया।\n\nहे नीलकण्ठ महादेव, कृपासागर शंकर! सर्व पापों और विषजन्य दुःखों से मेरी रक्षा करें।\n\nजो प्रातःकाल उठकर नीलकण्ठ स्तव का पाठ करता है, उसे विषबाधा नहीं होती और सर्व रोगों का नाश होता है।",
+  "viniyog": {
+    "rishi": "मार्कण्डेय",
+    "chhand": "अनुष्टुप्",
+    "devata": "श्री नीलकण्ठ शिव",
+    "beej": "ॐ नमः शिवाय",
+    "shakti": "विषनाशिनी शक्ति",
+    "kilak": "सर्वरोग निवारण",
+    "shloka": "अस्य श्रीनीलकण्ठेशस्तोत्रमन्त्रस्य मार्कण्डेय ऋषिः। अनुष्टुप् छन्दः। श्रीनीलकण्ठशिव देवता। ॐ नमः शिवाय बीजम्। विषनाशिनीशक्तिः। सर्वरोगनिवारणं कीलकम्। श्रीशिवप्रीत्यर्थे पाठे विनियोगः॥"
+  },
+  "benefits": [
+    "Traditionally invoked for protection from all forms of poison and toxicity",
+    "Traditionally recited for removal of diseases and grants health",
+    "Traditionally recited for removal of all sins through shiva's infinite compassion",
+    "Teaches the supreme sacrifice of Lord Shiva for the world",
+    "Powerful remedy for Nag Panchami and Maha Shivaratri",
+    "Invokes fearlessness and divine protection"
+  ],
+  "description": "When the ocean was churned, poison rose before the nectar, and Shiva drank it to save the worlds, holding it in his throat until it turned blue. The Shiva Purana tells the story, and the Neelakanthesha Stotram, eight verses, sings to that blue-throated lord. Because of what he swallowed, the hymn is invoked for protection from every poison and toxicity, and reciters turn to it to clear disease and grant health, and through Shiva's boundless compassion, to remove all sins. It carries the memory of his supreme sacrifice. Monday is its day, with Maha Shivaratri and Nag Panchami its festivals. Five minutes covers the reading. Here the stotram is set in Devanagari, with an English transliteration, the meaning in Hindi, and a downloadable PDF.",
+  "deity": "shiva",
+  "secondaryDeities": [
+    "parvati"
+  ],
+  "days": [
+    "monday"
+  ],
+  "festivals": [
+    "maha-shivaratri",
+    "nag-panchami"
+  ],
+  "purposes": [
+    "health",
+    "protection",
+    "fear-removal",
+    "devotion"
+  ],
+  "readingTimeMinutes": 5,
+  "seoDescription": "Read Neelakanthesha Stotram in Sanskrit with Hindi meaning. Prayer to Shiva as Neelakantha, who drank poison to save the world. For health and protection.",
+  "verseCount": 8,
+  "source": "Shiva Purana (Samudra Manthana Katha)",
+  "createdAt": "2026-03-29T00:00:00Z",
+  "updatedAt": "2026-06-01",
+  "isPublished": true,
+  "alsoKnownAs": [
+    "Neelakantha Stotram",
+    "Nilakantha Stuti",
+    "Neelkanth Mahadev Stotra",
+    "Vishapaharaka Shiva Stotram"
+  ],
+  "relatedSearches": [
+    "Neelakantha Stotram Sanskrit lyrics",
+    "Why Shiva is called Neelkanth",
+    "Halahala poison Samudra Manthan story",
+    "Neelkanth Mahadev Rishikesh temple",
+    "Shiva drank poison stotra benefits",
+    "Neelkanth mantra for fear removal",
+    "Neelakantha Ashtakam meaning",
+    "Sawan Shravan Neelkanth puja",
+    "Bhagavata Purana ocean churning",
+    "Neelkanth Mahadev Uttarakhand pilgrimage"
+  ],
+  "seoFaqs": [
+    {
+      "question": "Why is Shiva called Neelakantha in this stotra?",
+      "answer": "Neelakantha literally means 'the blue-throated one' (neela = blue, kantha = throat). The name commemorates the Samudra Manthana episode narrated in the Bhagavata Purana (Canto 8), the Mahabharata, and the Vishnu Purana, in which the gods and demons churned the Cosmic Ocean and the deadly halahala poison emerged first. To save creation, Shiva drank the poison; Parvati pressed his throat to prevent it descending further, and the poison stained his neck a permanent blue. The Neelakanthesha Stotram is a hymn of gratitude for this supreme act of compassion. (Source: Bhagavata Purana 8.7; JKYog India.)"
     },
-    "benefits": [
-        "Traditionally invoked for protection from all forms of poison and toxicity",
-        "Traditionally recited for removal of diseases and grants health",
-        "Traditionally recited for removal of all sins through shiva's infinite compassion",
-        "Teaches the supreme sacrifice of Lord Shiva for the world",
-        "Powerful remedy for Nag Panchami and Maha Shivaratri",
-        "Invokes fearlessness and divine protection"
-    ],
-    "description": "Among the most cherished prayers to Lord Shiva, Neelakanthesha Stotram (श्री नीलकण्ठेश स्तोत्रम्) stands as a devotional hymn of praise. This revered text originates from Shiva Purana (Samudra Manthana Katha). Devotees recite this prayer to destroy all sins through Shiva's infinite compassion and protect from all forms of poison and toxicity. It is also said to grant fearlessness and divine protection. Recitation is particularly auspicious on Monday (Somvar) and during Maha Shivaratri and Nag Panchami. The text contains 8 verses and takes around 5 minutes to recite, fitting conveniently into a daily spiritual routine. On this page, you can read the complete Neelakanthesha Stotram in Devanagari Sanskrit with English transliteration, Hindi meaning (arth), and free PDF download for offline recitation.",
-    "deity": "shiva",
-    "secondaryDeities": [
-        "parvati"
-    ],
-    "days": [
-        "monday"
-    ],
-    "festivals": [
-        "maha-shivaratri",
-        "nag-panchami"
-    ],
-    "purposes": [
-        "health",
-        "protection",
-        "fear-removal",
-        "devotion"
-    ],
-    "readingTimeMinutes": 5,
-    "seoDescription": "Read Neelakanthesha Stotram in Sanskrit with Hindi meaning. Prayer to Shiva as Neelakantha, who drank poison to save the world. For health and protection.",
-    "verseCount": 8,
-    "source": "Shiva Purana (Samudra Manthana Katha)",
-    "createdAt": "2026-03-29T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
-    "isPublished": true,
-    "alsoKnownAs": [
-        "Neelakantha Stotram",
-        "Nilakantha Stuti",
-        "Neelkanth Mahadev Stotra",
-        "Vishapaharaka Shiva Stotram"
-    ],
-    "relatedSearches": [
-        "Neelakantha Stotram Sanskrit lyrics",
-        "Why Shiva is called Neelkanth",
-        "Halahala poison Samudra Manthan story",
-        "Neelkanth Mahadev Rishikesh temple",
-        "Shiva drank poison stotra benefits",
-        "Neelkanth mantra for fear removal",
-        "Neelakantha Ashtakam meaning",
-        "Sawan Shravan Neelkanth puja",
-        "Bhagavata Purana ocean churning",
-        "Neelkanth Mahadev Uttarakhand pilgrimage"
-    ],
-    "seoFaqs": [
-        {
-            "question": "Why is Shiva called Neelakantha in this stotra?",
-            "answer": "Neelakantha literally means 'the blue-throated one' (neela = blue, kantha = throat). The name commemorates the Samudra Manthana episode narrated in the Bhagavata Purana (Canto 8), the Mahabharata, and the Vishnu Purana, in which the gods and demons churned the Cosmic Ocean and the deadly halahala poison emerged first. To save creation, Shiva drank the poison; Parvati pressed his throat to prevent it descending further, and the poison stained his neck a permanent blue. The Neelakanthesha Stotram is a hymn of gratitude for this supreme act of compassion. (Source: Bhagavata Purana 8.7; JKYog India.)"
-        },
-        {
-            "question": "What is the scriptural source of the Neelakanthesha Stotram?",
-            "answer": "Verses praising Shiva as Neelakantha appear across multiple texts. The Shiva Purana includes hymns celebrating his role as Vishapaharaka, the destroyer of poison. The Bhagavata Purana's Samudra Manthana narrative supplies the theological foundation, while the Skanda Purana includes specific Neelakantha stutis recited at pilgrimage sites such as Neelkanth Mahadev near Rishikesh and Mandi in Himachal Pradesh. Multiple regional ashtakams and pancharatnams bearing the name Neelakantha have been compiled by acharyas over centuries. (Source: Shiva Purana; Bhagavata Purana 8.7; Skanda Purana sthala-mahatmyas.)"
-        },
-        {
-            "question": "What benefits does reciting the Neelakanthesha Stotram offer?",
-            "answer": "Traditional commentaries state that devotees who chant this stotra are protected from visha (poison) in all its forms: literal toxins, betrayal by trusted persons, snake-bite, planetary afflictions (especially Rahu-Ketu and Saturn), and the venom of negative thoughts. Because Shiva willingly accepted what no other deity could endure, the Neelakanth form is invoked for emotional resilience and the capacity to absorb suffering without being destroyed by it. The stotra is also chanted before snake-related rituals during Nag Panchami. (Source: Shiva Purana; Sawan Mahatmya.)"
-        },
-        {
-            "question": "When is the most auspicious time to chant this stotra?",
-            "answer": "The entire Shravan month (July to August), and especially the Mondays of Shravan, is the peak season for Neelakantha worship, since the Samudra Manthana is traditionally believed to have occurred during this period. Pradosha evenings, Mahashivaratri, and Nag Panchami are also prescribed times. Devotees travelling to Neelkanth Mahadev temple near Rishikesh, where Shiva is said to have rested after drinking the halahala, recite the stotra during the trek to the shrine. (Source: Drik Panchang Shravan calendar; Neelkanth Mahadev temple traditions.)"
-        },
-        {
-            "question": "How does the Neelakantha story teach a spiritual lesson?",
-            "answer": "Commentators on the Bhagavata read the halahala episode as a metaphor for the spiritual seeker's path. When the mind is churned in sustained sadhana, latent negativities, fears, and karmic poisons surface first, before the nectar of self-realisation. The seeker must, like Shiva, neither swallow the poison fully (suppression) nor spit it out (projection on others) but hold it consciously in the throat (vishuddha chakra) where speech and emotion are purified. Reciting the Neelakanthesha Stotram is therefore considered a meditation on transmutation. (Source: Glorious Hinduism; Exotic India Art article on Samudra Manthan.)"
-        },
-        {
-            "question": "What is the connection between Neelkanth and the Mrityunjaya mantra?",
-            "answer": "Both invocations address Shiva as the conqueror of death. The Mahamrityunjaya mantra (Rig Veda 7.59.12) calls upon Tryambaka who liberates from death like a ripe cucumber from its vine, while the Neelakantha form embodies that same conquest in narrative form: by absorbing the world-ending poison, Shiva proved that he stands beyond death itself. Devotees often pair the Neelakanthesha Stotram with Mahamrityunjaya japa during illness, surgery, or grief, treating them as complementary expressions of Shiva's grace as Vishapaharaka. (Source: Rig Veda 7.59.12; Shiva Purana.)"
-        }
-    ]
+    {
+      "question": "What is the scriptural source of the Neelakanthesha Stotram?",
+      "answer": "Verses praising Shiva as Neelakantha appear across multiple texts. The Shiva Purana includes hymns celebrating his role as Vishapaharaka, the destroyer of poison. The Bhagavata Purana's Samudra Manthana narrative supplies the theological foundation, while the Skanda Purana includes specific Neelakantha stutis recited at pilgrimage sites such as Neelkanth Mahadev near Rishikesh and Mandi in Himachal Pradesh. Multiple regional ashtakams and pancharatnams bearing the name Neelakantha have been compiled by acharyas over centuries. (Source: Shiva Purana; Bhagavata Purana 8.7; Skanda Purana sthala-mahatmyas.)"
+    },
+    {
+      "question": "What benefits does reciting the Neelakanthesha Stotram offer?",
+      "answer": "Traditional commentaries state that devotees who chant this stotra are protected from visha (poison) in all its forms: literal toxins, betrayal by trusted persons, snake-bite, planetary afflictions (especially Rahu-Ketu and Saturn), and the venom of negative thoughts. Because Shiva willingly accepted what no other deity could endure, the Neelakanth form is invoked for emotional resilience and the capacity to absorb suffering without being destroyed by it. The stotra is also chanted before snake-related rituals during Nag Panchami. (Source: Shiva Purana; Sawan Mahatmya.)"
+    },
+    {
+      "question": "When is the most auspicious time to chant this stotra?",
+      "answer": "The entire Shravan month (July to August), and especially the Mondays of Shravan, is the peak season for Neelakantha worship, since the Samudra Manthana is traditionally believed to have occurred during this period. Pradosha evenings, Mahashivaratri, and Nag Panchami are also prescribed times. Devotees travelling to Neelkanth Mahadev temple near Rishikesh, where Shiva is said to have rested after drinking the halahala, recite the stotra during the trek to the shrine. (Source: Drik Panchang Shravan calendar; Neelkanth Mahadev temple traditions.)"
+    },
+    {
+      "question": "How does the Neelakantha story teach a spiritual lesson?",
+      "answer": "Commentators on the Bhagavata read the halahala episode as a metaphor for the spiritual seeker's path. When the mind is churned in sustained sadhana, latent negativities, fears, and karmic poisons surface first, before the nectar of self-realisation. The seeker must, like Shiva, neither swallow the poison fully (suppression) nor spit it out (projection on others) but hold it consciously in the throat (vishuddha chakra) where speech and emotion are purified. Reciting the Neelakanthesha Stotram is therefore considered a meditation on transmutation. (Source: Glorious Hinduism; Exotic India Art article on Samudra Manthan.)"
+    },
+    {
+      "question": "What is the connection between Neelkanth and the Mrityunjaya mantra?",
+      "answer": "Both invocations address Shiva as the conqueror of death. The Mahamrityunjaya mantra (Rig Veda 7.59.12) calls upon Tryambaka who liberates from death like a ripe cucumber from its vine, while the Neelakantha form embodies that same conquest in narrative form: by absorbing the world-ending poison, Shiva proved that he stands beyond death itself. Devotees often pair the Neelakanthesha Stotram with Mahamrityunjaya japa during illness, surgery, or grief, treating them as complementary expressions of Shiva's grace as Vishapaharaka. (Source: Rig Veda 7.59.12; Shiva Purana.)"
+    }
+  ]
 }

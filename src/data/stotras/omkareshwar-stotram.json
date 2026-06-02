@@ -1,88 +1,88 @@
 {
-    "id": "564",
-    "title": "श्री ओंकारेश्वर स्तोत्रम्",
-    "titleEn": "Omkareshwar Stotram",
-    "slug": "omkareshwar-stotram",
-    "devanagariText": "॥ श्री ओंकारेश्वर स्तोत्रम् ॥\n\nॐ नमः शिवाय ओंकारेश्वराय।\nनर्मदातीरवासिने महेश्वराय॥\n\nओंकाररूपमजमव्ययमीश्वरं तं\nनर्मदया परिवृतं शिवमोंकृतीशम्।\nमान्धातृपूजितपदं जगदेकनाथं\nओंकारमीश्वरमहं प्रणमामि नित्यम्॥ १॥\n\nद्वीपे शिवाकृतिसमे नरनाथसेव्ये\nनर्मोदकल्लोलपरिप्लुतमण्डलस्थम्।\nज्योतिर्मयं गिरिवरे विमले विभान्तं\nओंकारमीश्वरमहं प्रणमामि शम्भुम्॥ २॥\n\nओंकारबीजमखिलस्य जगत्प्रसूतिं\nआद्यक्षरं परमशिल्पिविनिर्मिताङ्गम्।\nप्रत्यक्षमीश्वरपदं गगनोपमानं\nओंकारमीश्वरमहं प्रणमामि देवम्॥ ३॥\n\nमान्धाता नृपतिर्धीमान् यत्र तेपे तपो महत्।\nशिवं प्रसाद्य वरदं प्राप लोकत्रयं यशः॥ ४॥\n\nविन्ध्यपर्वतसानूनां मध्ये नर्मदयोर्जले।\nओंकारलिङ्गमुद्भूतं चतुर्थं ज्योतिरात्मकम्॥ ५॥\n\nनर्मदायास्तटे पुण्ये मङ्गलद्वीपमध्यगम्।\nओंकारलिङ्गमासाद्य मुच्यते सर्वपातकैः॥ ६॥\n\nप्रणवस्वरूपं परमेश्वरं तं\nत्र्यम्बकं चन्द्रकलावतंसम्।\nभस्मोद्धूलितसर्वाङ्गं\nओंकारेश्वरमाश्रये॥ ७॥\n\nविन्ध्यपृष्ठे महापुण्ये सिद्धक्षेत्रे सुशोभने।\nस्नात्वा नर्मदया साक्षात् पूजयित्वा महेश्वरम्॥ ८॥\n\nओंकारेशं शिवं शान्तं शाश्वतं वरदं हरम्।\nनमामि शिरसा भक्त्या लिङ्गरूपं सदाशिवम्॥ ९॥\n\nओंकारेश्वरमाहात्म्यं यः पठेच्छृणुयादपि।\nसर्वपापविनिर्मुक्तः शिवसायुज्यमाप्नुयात्॥ १०॥\n\n॥ इति श्री ओंकारेश्वर स्तोत्रम् सम्पूर्णम् ॥",
-    "transliteration": "|| Shri Omkareshwar Stotram ||\n\nOm Namah Shivaya Omkareshwaraya |\nNarmada-tira-vasine Maheshwaraya ||\n\nOmkara-rupam-ajam-avyayam-Ishwaram tam\nNarmadaya parivritam Shivam-Omkritisham |\nMandhatra-pujita-padam jagad-eka-natham\nOmkaram-Ishwaram-aham pranamami nityam || 1 ||\n\nDvipe Shiva-akriti-same nara-natha-sevye\nNarmodaka-allola-paripluta-mandala-stham |\nJyotirmayam girivare vimale vibhantam\nOmkaram-Ishwaram-aham pranamami Shambhum || 2 ||\n\nOmkara-bijam-akhilasya jagat-prasutim\nAdya-aksharam parama-shilpi-vinirmitangam |\nPratyaksham-Ishwara-padam gaganopamanam\nOmkaram-Ishwaram-aham pranamami Devam || 3 ||\n\nMandhata nripatir-dhiman yatra tepe tapo mahat |\nShivam prasadya varadam prapa loka-trayam yashah || 4 ||\n\nVindhya-parvata-sanoonam madhye Narmadayor-jale |\nOmkara-lingam-udbhutam chaturtham jyotir-atmakam || 5 ||\n\nNarmadayas-tate punye Mangala-dvipa-madhyagam |\nOmkara-lingam-asadya muchyate sarva-patakaih || 6 ||\n\nPranava-svarupam Parameshwaram tam\nTryambakam Chandrakala-avatamsam |\nBhasmoddulita-sarvangam\nOmkareshwaram-ashraye || 7 ||\n\nVindhya-prishtthe maha-punye Siddha-kshetre sushobhane |\nSnatva Narmadaya sakshat pujayitva Maheshwaram || 8 ||\n\nOmkaresham Shivam Shantam shashvatam varadam Haram |\nNamami shirasa bhaktya linga-rupam Sadashivam || 9 ||\n\nOmkareshwara-mahatmyam yah pathech-chrinuyad-api |\nSarva-papa-vinirmuktah Shiva-sayujyam-apnuyat || 10 ||\n\n|| Iti Shri Omkareshwar Stotram Sampurnam ||",
-    "hindiMeaning": "ओंकार रूप, अज, अव्यय, नर्मदा से परिवृत, मान्धाता द्वारा पूजित, जगदेकनाथ ओंकारेश्वर को नित्य प्रणाम। शिवाकृति द्वीप पर नर्मदा के जल से परिप्लुत मण्डल में ज्योतिर्मय विभान्त शम्भु को नमन। ओंकार बीज, अखिल जगत की प्रसूति, आद्याक्षर, परमशिल्पी निर्मित, प्रत्यक्ष ईश्वर पद, गगन उपमान देव को प्रणाम। विन्ध्य पर्वत के मध्य नर्मदा जल में उद्भूत यह चतुर्थ ज्योतिर्लिंग है। इसके दर्शन मात्र से सर्व पातक नष्ट होते हैं और शिव सायुज्य प्राप्त होता है।",
-    "viniyog": null,
-    "benefits": [
-        "Equivalent to pilgrimage to Omkareshwar, the fourth Jyotirlinga",
-        "Traditionally recited for removal of all sins by mere darshan of the lingam",
-        "Invokes the merit of chanting pranava (om) perpetually",
-        "Invokes the blessing of shiva-sayujya (union with shiva) after death",
-        "Hearing or reading this grants liberation",
-        "Classical tradition invokes this for removal of obstacles and bestows divine grace"
-    ],
-    "description": "The Omkareshwar Stotram, known in Sanskrit as श्री ओंकारेश्वर स्तोत्रम्, is a devotional hymn of praise in praise of Lord Shiva. This sacred composition is sourced from Shiva Purana and continues to inspire devotees worldwide. Devotees recite this prayer to bestow Shiva-sayujya (union with Shiva) after death and equivalent to pilgrimage to Omkareshwar, the fourth Jyotirlinga. It is also said to destroy all sins by mere darshan of the lingam. It is especially recommended on Monday (Somvar) and during Maha Shivaratri and Shravan Somvar for maximum spiritual benefit. Comprising 10 verses, it can be completed in approximately 8 minutes, making it suitable for daily devotional practice. On this page, you can read the complete Omkareshwar Stotram in Devanagari Sanskrit with English transliteration, Hindi meaning (arth), and free PDF download for offline recitation.",
-    "deity": "shiva",
-    "secondaryDeities": [
-        "parvati",
-        "narmada"
-    ],
-    "days": [
-        "monday"
-    ],
-    "festivals": [
-        "maha-shivaratri",
-        "shravan-somvar"
-    ],
-    "purposes": [
-        "devotion",
-        "pilgrimage",
-        "moksha",
-        "sin-removal"
-    ],
-    "readingTimeMinutes": 8,
-    "seoDescription": "Read Omkareshwar Stotram in Sanskrit with transliteration and Hindi meaning. Sacred hymn to the fourth Jyotirlinga on Narmada river island.",
-    "verseCount": 10,
-    "source": "Shiva Purana",
-    "createdAt": "2026-03-29T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
-    "isPublished": true,
-    "alsoKnownAs": [
-        "Omkareshwara Jyotirlinga Stotram",
-        "Mamaleshwar Stotra",
-        "Mandhata Shiva Stotram",
-        "Omkar Mahadev Stuti"
-    ],
-    "relatedSearches": [
-        "Omkareshwar Jyotirlinga Stotram Sanskrit",
-        "Mandhata island Om shape Narmada",
-        "Omkareshwar Mamaleshwar two lingas",
-        "Dwadasa Jyotirlinga stotram",
-        "Omkareshwar temple aarti time",
-        "Skanda Purana Omkareshwar mahatmya",
-        "Omkareshwar abhishek benefits",
-        "Vindhya mountain penance Shiva story",
-        "Omkareshwar parikrama Narmada",
-        "King Mandhata Ikshvaku dynasty"
-    ],
-    "seoFaqs": [
-        {
-            "question": "What does the name Omkareshwar mean?",
-            "answer": "Omkareshwar literally means 'the Lord of Omkara,' the cosmic syllable Om. Shiva is venerated here as the embodiment of the primordial pranava sound from which all creation arose. The shrine sits on Mandhata island in the Narmada River in Madhya Pradesh's Khandwa district, an island whose natural shape resembles the Devanagari letter ॐ when viewed from above. The stotra invokes Shiva as the formless source of sound that takes audible form for the sake of devotees. (Source: Wikipedia: Omkareshwar Temple; Simhastha guide; Tirth.com.)"
-        },
-        {
-            "question": "Where is Omkareshwar mentioned in scripture?",
-            "answer": "Omkareshwar is named in the Dwadasa Jyotirlinga Stotram as one of the twelve self-manifested jyotirlingas of Lord Shiva. Its sthala-mahatmya (legend of place) is detailed in the Skanda Purana, the Shiva Purana, and the Vayu Purana. The Skanda Purana narrates how the Vindhya mountain performed severe austerities to Shiva to gain supremacy over the Himalayas, and Shiva manifested as a jyotirlinga to bless him. This is among the earliest and most authoritative scriptural attestations of the shrine. (Source: Skanda Purana; Shiva Purana; Hindupedia Dwadasa Jyothir Linga Stotram.)"
-        },
-        {
-            "question": "Who was King Mandhata and how is he linked to this stotra?",
-            "answer": "King Mandhata, an ancestor of Lord Rama in the Ikshvaku (Suryavansha) lineage, performed intense tapas on this very island until Shiva manifested as Omkareshwara to grant him darshan. The island and the surrounding mountain are named Mandhata in his honour. The stotra often references this royal devotee as proof that even rulers and emperors must approach Shiva with humility, and that the jyotirlinga rewards sincere penance regardless of station. (Source: Skanda Purana; Behind Every Temple; Bhakti Bharat.)"
-        },
-        {
-            "question": "Why does Omkareshwar have two lingas, Omkareshwar and Mamaleshwar?",
-            "answer": "Unique among the twelve jyotirlingas, Omkareshwar features two principal Shiva lingas. The Omkareshwara linga sits on the Mandhata island, while the Mamaleshwar (also spelt Amareshwar) linga stands on the southern bank of the Narmada. Tradition holds that when Shiva manifested, he split into two so that both groups of devotees, those on the island and those on the mainland, could receive equal darshan. Pilgrims complete a parikrama covering both shrines along with the sacred Narmada. (Source: Wikipedia: Omkareshwar Temple; Pravase; Bhakti Bharat.)"
-        },
-        {
-            "question": "What benefits does the Omkareshwar Stotram offer?",
-            "answer": "Traditional Shaiva sources state that reciting the Omkareshwar Stotram and meditating on this jyotirlinga removes deep-rooted karmic patterns, grants the spiritual fruit of completing all twelve jyotirlinga darshans, and bestows steadiness in pranava (Om) meditation. Pilgrims chant the stotra during the Narmada parikrama, during annakuta offerings, and during Maha Shivaratri at the temple. The shrine is also associated with ancestral peace, since the Narmada banks are a recognised site for shraadh and pinda dana ceremonies. (Source: Devshoppe; Vedic Folks; Tirth.com.)"
-        },
-        {
-            "question": "What is the best time to visit and chant at Omkareshwar?",
-            "answer": "The temple holds special significance during the entire Shravan month, on every Pradosha, on Maha Shivaratri, and on Karthik Purnima when the Narmada banks come alive with deepdaan. The shayana aarti at night, when Shiva and Parvati are said to play chausar (dice) in the sanctum, is among the most distinctive rituals at any jyotirlinga. Visitors typically chant the stotra during morning bhasma aarti, after a Narmada snan, before entering the sanctum for darshan. (Source: Pravase; Bhakti Bharat; Simhastha guide.)"
-        }
-    ]
+  "id": "564",
+  "title": "श्री ओंकारेश्वर स्तोत्रम्",
+  "titleEn": "Omkareshwar Stotram",
+  "slug": "omkareshwar-stotram",
+  "devanagariText": "॥ श्री ओंकारेश्वर स्तोत्रम् ॥\n\nॐ नमः शिवाय ओंकारेश्वराय।\nनर्मदातीरवासिने महेश्वराय॥\n\nओंकाररूपमजमव्ययमीश्वरं तं\nनर्मदया परिवृतं शिवमोंकृतीशम्।\nमान्धातृपूजितपदं जगदेकनाथं\nओंकारमीश्वरमहं प्रणमामि नित्यम्॥ १॥\n\nद्वीपे शिवाकृतिसमे नरनाथसेव्ये\nनर्मोदकल्लोलपरिप्लुतमण्डलस्थम्।\nज्योतिर्मयं गिरिवरे विमले विभान्तं\nओंकारमीश्वरमहं प्रणमामि शम्भुम्॥ २॥\n\nओंकारबीजमखिलस्य जगत्प्रसूतिं\nआद्यक्षरं परमशिल्पिविनिर्मिताङ्गम्।\nप्रत्यक्षमीश्वरपदं गगनोपमानं\nओंकारमीश्वरमहं प्रणमामि देवम्॥ ३॥\n\nमान्धाता नृपतिर्धीमान् यत्र तेपे तपो महत्।\nशिवं प्रसाद्य वरदं प्राप लोकत्रयं यशः॥ ४॥\n\nविन्ध्यपर्वतसानूनां मध्ये नर्मदयोर्जले।\nओंकारलिङ्गमुद्भूतं चतुर्थं ज्योतिरात्मकम्॥ ५॥\n\nनर्मदायास्तटे पुण्ये मङ्गलद्वीपमध्यगम्।\nओंकारलिङ्गमासाद्य मुच्यते सर्वपातकैः॥ ६॥\n\nप्रणवस्वरूपं परमेश्वरं तं\nत्र्यम्बकं चन्द्रकलावतंसम्।\nभस्मोद्धूलितसर्वाङ्गं\nओंकारेश्वरमाश्रये॥ ७॥\n\nविन्ध्यपृष्ठे महापुण्ये सिद्धक्षेत्रे सुशोभने।\nस्नात्वा नर्मदया साक्षात् पूजयित्वा महेश्वरम्॥ ८॥\n\nओंकारेशं शिवं शान्तं शाश्वतं वरदं हरम्।\nनमामि शिरसा भक्त्या लिङ्गरूपं सदाशिवम्॥ ९॥\n\nओंकारेश्वरमाहात्म्यं यः पठेच्छृणुयादपि।\nसर्वपापविनिर्मुक्तः शिवसायुज्यमाप्नुयात्॥ १०॥\n\n॥ इति श्री ओंकारेश्वर स्तोत्रम् सम्पूर्णम् ॥",
+  "transliteration": "|| Shri Omkareshwar Stotram ||\n\nOm Namah Shivaya Omkareshwaraya |\nNarmada-tira-vasine Maheshwaraya ||\n\nOmkara-rupam-ajam-avyayam-Ishwaram tam\nNarmadaya parivritam Shivam-Omkritisham |\nMandhatra-pujita-padam jagad-eka-natham\nOmkaram-Ishwaram-aham pranamami nityam || 1 ||\n\nDvipe Shiva-akriti-same nara-natha-sevye\nNarmodaka-allola-paripluta-mandala-stham |\nJyotirmayam girivare vimale vibhantam\nOmkaram-Ishwaram-aham pranamami Shambhum || 2 ||\n\nOmkara-bijam-akhilasya jagat-prasutim\nAdya-aksharam parama-shilpi-vinirmitangam |\nPratyaksham-Ishwara-padam gaganopamanam\nOmkaram-Ishwaram-aham pranamami Devam || 3 ||\n\nMandhata nripatir-dhiman yatra tepe tapo mahat |\nShivam prasadya varadam prapa loka-trayam yashah || 4 ||\n\nVindhya-parvata-sanoonam madhye Narmadayor-jale |\nOmkara-lingam-udbhutam chaturtham jyotir-atmakam || 5 ||\n\nNarmadayas-tate punye Mangala-dvipa-madhyagam |\nOmkara-lingam-asadya muchyate sarva-patakaih || 6 ||\n\nPranava-svarupam Parameshwaram tam\nTryambakam Chandrakala-avatamsam |\nBhasmoddulita-sarvangam\nOmkareshwaram-ashraye || 7 ||\n\nVindhya-prishtthe maha-punye Siddha-kshetre sushobhane |\nSnatva Narmadaya sakshat pujayitva Maheshwaram || 8 ||\n\nOmkaresham Shivam Shantam shashvatam varadam Haram |\nNamami shirasa bhaktya linga-rupam Sadashivam || 9 ||\n\nOmkareshwara-mahatmyam yah pathech-chrinuyad-api |\nSarva-papa-vinirmuktah Shiva-sayujyam-apnuyat || 10 ||\n\n|| Iti Shri Omkareshwar Stotram Sampurnam ||",
+  "hindiMeaning": "ओंकार रूप, अज, अव्यय, नर्मदा से परिवृत, मान्धाता द्वारा पूजित, जगदेकनाथ ओंकारेश्वर को नित्य प्रणाम। शिवाकृति द्वीप पर नर्मदा के जल से परिप्लुत मण्डल में ज्योतिर्मय विभान्त शम्भु को नमन। ओंकार बीज, अखिल जगत की प्रसूति, आद्याक्षर, परमशिल्पी निर्मित, प्रत्यक्ष ईश्वर पद, गगन उपमान देव को प्रणाम। विन्ध्य पर्वत के मध्य नर्मदा जल में उद्भूत यह चतुर्थ ज्योतिर्लिंग है। इसके दर्शन मात्र से सर्व पातक नष्ट होते हैं और शिव सायुज्य प्राप्त होता है।",
+  "viniyog": null,
+  "benefits": [
+    "Equivalent to pilgrimage to Omkareshwar, the fourth Jyotirlinga",
+    "Traditionally recited for removal of all sins by mere darshan of the lingam",
+    "Invokes the merit of chanting pranava (om) perpetually",
+    "Invokes the blessing of shiva-sayujya (union with shiva) after death",
+    "Hearing or reading this grants liberation",
+    "Classical tradition invokes this for removal of obstacles and bestows divine grace"
+  ],
+  "description": "Omkareshwar, the fourth Jyotirlinga, sits on an island shaped like the syllable Om, and reciting its stotram is held equal to a pilgrimage there. The text comes from the Shiva Purana. Across ten verses it carries the merit of chanting the pranava, Om, without ceasing, and the tradition holds that the mere darshan of the lingam removes all sins. For the devoted, it promises shiva-sayujya, union with Shiva, after death. Monday (Somvar) is its weekly day, with Maha Shivaratri and Shravan Somvar its appointed times. Eight minutes sees you through the full recitation. On this page the complete Omkareshwar Stotram appears in Devanagari, accompanied by a plain transliteration, the Hindi meaning, and a free PDF you can download for offline use.",
+  "deity": "shiva",
+  "secondaryDeities": [
+    "parvati",
+    "narmada"
+  ],
+  "days": [
+    "monday"
+  ],
+  "festivals": [
+    "maha-shivaratri",
+    "shravan-somvar"
+  ],
+  "purposes": [
+    "devotion",
+    "pilgrimage",
+    "moksha",
+    "sin-removal"
+  ],
+  "readingTimeMinutes": 8,
+  "seoDescription": "Read Omkareshwar Stotram in Sanskrit with transliteration and Hindi meaning. Sacred hymn to the fourth Jyotirlinga on Narmada river island.",
+  "verseCount": 10,
+  "source": "Shiva Purana",
+  "createdAt": "2026-03-29T00:00:00Z",
+  "updatedAt": "2026-06-01",
+  "isPublished": true,
+  "alsoKnownAs": [
+    "Omkareshwara Jyotirlinga Stotram",
+    "Mamaleshwar Stotra",
+    "Mandhata Shiva Stotram",
+    "Omkar Mahadev Stuti"
+  ],
+  "relatedSearches": [
+    "Omkareshwar Jyotirlinga Stotram Sanskrit",
+    "Mandhata island Om shape Narmada",
+    "Omkareshwar Mamaleshwar two lingas",
+    "Dwadasa Jyotirlinga stotram",
+    "Omkareshwar temple aarti time",
+    "Skanda Purana Omkareshwar mahatmya",
+    "Omkareshwar abhishek benefits",
+    "Vindhya mountain penance Shiva story",
+    "Omkareshwar parikrama Narmada",
+    "King Mandhata Ikshvaku dynasty"
+  ],
+  "seoFaqs": [
+    {
+      "question": "What does the name Omkareshwar mean?",
+      "answer": "Omkareshwar literally means 'the Lord of Omkara,' the cosmic syllable Om. Shiva is venerated here as the embodiment of the primordial pranava sound from which all creation arose. The shrine sits on Mandhata island in the Narmada River in Madhya Pradesh's Khandwa district, an island whose natural shape resembles the Devanagari letter ॐ when viewed from above. The stotra invokes Shiva as the formless source of sound that takes audible form for the sake of devotees. (Source: Wikipedia: Omkareshwar Temple; Simhastha guide; Tirth.com.)"
+    },
+    {
+      "question": "Where is Omkareshwar mentioned in scripture?",
+      "answer": "Omkareshwar is named in the Dwadasa Jyotirlinga Stotram as one of the twelve self-manifested jyotirlingas of Lord Shiva. Its sthala-mahatmya (legend of place) is detailed in the Skanda Purana, the Shiva Purana, and the Vayu Purana. The Skanda Purana narrates how the Vindhya mountain performed severe austerities to Shiva to gain supremacy over the Himalayas, and Shiva manifested as a jyotirlinga to bless him. This is among the earliest and most authoritative scriptural attestations of the shrine. (Source: Skanda Purana; Shiva Purana; Hindupedia Dwadasa Jyothir Linga Stotram.)"
+    },
+    {
+      "question": "Who was King Mandhata and how is he linked to this stotra?",
+      "answer": "King Mandhata, an ancestor of Lord Rama in the Ikshvaku (Suryavansha) lineage, performed intense tapas on this very island until Shiva manifested as Omkareshwara to grant him darshan. The island and the surrounding mountain are named Mandhata in his honour. The stotra often references this royal devotee as proof that even rulers and emperors must approach Shiva with humility, and that the jyotirlinga rewards sincere penance regardless of station. (Source: Skanda Purana; Behind Every Temple; Bhakti Bharat.)"
+    },
+    {
+      "question": "Why does Omkareshwar have two lingas, Omkareshwar and Mamaleshwar?",
+      "answer": "Unique among the twelve jyotirlingas, Omkareshwar features two principal Shiva lingas. The Omkareshwara linga sits on the Mandhata island, while the Mamaleshwar (also spelt Amareshwar) linga stands on the southern bank of the Narmada. Tradition holds that when Shiva manifested, he split into two so that both groups of devotees, those on the island and those on the mainland, could receive equal darshan. Pilgrims complete a parikrama covering both shrines along with the sacred Narmada. (Source: Wikipedia: Omkareshwar Temple; Pravase; Bhakti Bharat.)"
+    },
+    {
+      "question": "What benefits does the Omkareshwar Stotram offer?",
+      "answer": "Traditional Shaiva sources state that reciting the Omkareshwar Stotram and meditating on this jyotirlinga removes deep-rooted karmic patterns, grants the spiritual fruit of completing all twelve jyotirlinga darshans, and bestows steadiness in pranava (Om) meditation. Pilgrims chant the stotra during the Narmada parikrama, during annakuta offerings, and during Maha Shivaratri at the temple. The shrine is also associated with ancestral peace, since the Narmada banks are a recognised site for shraadh and pinda dana ceremonies. (Source: Devshoppe; Vedic Folks; Tirth.com.)"
+    },
+    {
+      "question": "What is the best time to visit and chant at Omkareshwar?",
+      "answer": "The temple holds special significance during the entire Shravan month, on every Pradosha, on Maha Shivaratri, and on Karthik Purnima when the Narmada banks come alive with deepdaan. The shayana aarti at night, when Shiva and Parvati are said to play chausar (dice) in the sanctum, is among the most distinctive rituals at any jyotirlinga. Visitors typically chant the stotra during morning bhasma aarti, after a Narmada snan, before entering the sanctum for darshan. (Source: Pravase; Bhakti Bharat; Simhastha guide.)"
+    }
+  ]
 }

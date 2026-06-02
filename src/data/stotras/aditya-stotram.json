@@ -1,91 +1,91 @@
 {
-    "id": "4",
-    "title": "आदित्य स्तोत्रम्",
-    "titleEn": "Aditya Stotram",
-    "slug": "aditya-stotram",
-    "devanagariText": "॥ श्री आदित्य स्तोत्रम् ॥\n\nजपाकुसुमसङ्काशं काश्यपेयं महद्द्युतिम्।\nतमोऽरिं सर्वपापघ्नं प्रणतोऽस्मि दिवाकरम्॥१॥\n\nआदिदेवो जगन्नाथो दीनानामभयप्रदः।\nसप्तलोकैकदीपश्च सर्वव्याधिविनाशनः॥२॥\n\nआदित्यस्य नमस्कारं ये कुर्वन्ति दिने दिने।\nजन्मान्तरसहस्रेषु दारिद्र्यं नोपजायते॥३॥\n\nनमः सूर्याय शान्ताय सर्वरोगनिवारिणे।\nआयुर्वेदमयी सत्ता दिव्यौषधिमयी कृपा॥४॥\n\nत्वमादिदेवः पुरुषः पुरातनस्त्वमस्य विश्वस्य परं निधानम्।\nवेत्तासि वेद्यं च परं च धाम त्वया ततं विश्वमनन्तरूप॥५॥\n\nसविता सर्वलोकानां सविता सर्वकर्मणाम्।\nसवित्री सर्वभूतानामादित्यं प्रणमाम्यहम्॥६॥\n\nध्येयः सदा सवितृमण्डलमध्यवर्ती\nनारायणः सरसिजासनसन्निविष्टः।\nकेयूरवान् मकरकुण्डलवान् किरीटी\nहारी हिरण्मयवपुर्धृतशङ्खचक्रः॥७॥\n\nउद्यन्नद्यविवस्वानारोहन्नुत्तरां दिवम्।\nहृद्रोगं मम सूर्यो हरिमाणं चाशु नाशयेत्॥८॥\n\nघृणिं सूर्य आदित्यं भास्करं भुवनेश्वरम्।\nश्रीमन्तं श्रीकरं चैव सर्वाभीष्टप्रदायिनम्॥९॥\n\nरवये सोमदात्रे च भानवे विष्णुरूपिणे।\nसप्ताश्ववाहनायैव सूर्याय शतरश्मये॥१०॥\n\nॐ आदित्याय विद्महे भास्कराय धीमहि।\nतन्नः सूर्यः प्रचोदयात्॥११॥\n\n॥ फलश्रुति ॥\nआदित्यस्तोत्रमिदं पुण्यं यः पठेत् सुसमाहितः।\nसर्वपापविनिर्मुक्तः सूर्यलोकं स गच्छति॥\n\n॥ इति श्री आदित्य स्तोत्रं सम्पूर्णम् ॥",
-    "transliteration": "|| Shrī Āditya Stotram ||\n\nJapākusumasaṅkāśaṁ Kāśyapeyaṁ mahaddyutim.\nTamo'riṁ sarvapāpaghnaṁ praṇato'smi Divākaram.||1||\n\nĀdideveo Jagannātho dīnānāmabhayapradaḥ.\nSaptalokaikadīpaścha sarvavyādhivināśanaḥ.||2||\n\nĀdityasya namaskāraṁ ye kurvanti dine dine.\nJanmāntarasahasreṣu dāridryaṁ nopajāyate.||3||\n\nNamaḥ Sūryāya śāntāya sarvaroganivāriṇe.\nĀyurvedamayī sattā divyauṣadhimayī kṛpā.||4||\n\nTvamādiDevaḥ puruṣaḥ purātanstvamassya viśvasya paraṁ nidhānam.\nVettāsi vedyaṁ cha paraṁ cha dhāma tvayā tataṁ viśvamanantarūpa.||5||\n\nSavitā sarvalokānāṁ Savitā sarvakarmaṇām.\nSavitrī sarvabhūtānāmĀdityaṁ praṇamāmyaham.||6||\n\nDhyeyaḥ sadā Savitṛmaṇḍalamadhyavartī\nNārāyaṇaḥ sarasijāsanasanniviṣṭaḥ.\nKeyūravān makarakuṇḍalavān kirīṭī\nHārī hiraṇmayavapurdhṛtaśaṅkhachakraḥ.||7||\n\nUdyannadyavivāsvānārohanuttarāṁ divam.\nHṛdrogaṁ mama Sūryo harimāṇaṁ chāśu nāśayet.||8||\n\nGhṛṇiṁ Sūrya Ādityaṁ Bhāskaraṁ Bhuvaneśvaram.\nŚrīmantaṁ Śrīkaraṁ chaiva sarvābhīṣṭapradāyinam.||9||\n\nRavaye Somadātre cha Bhānavae Viṣṇurūpiṇe.\nSaptāśvavāhanāyaiva Sūryāya Śataraśmaye.||10||\n\nOm Ādityāya Vidmahe Bhāskarāya Dhīmahi.\nTannaḥ Sūryaḥ prachodayāt.||11||\n\n|| Phalaśruti ||\nĀdityastotramidaṁ puṇyaṁ yaḥ paṭhet susamāhitaḥ.\nSarvapāpavinirmuktaḥ Sūryalokaṁ sa gachchhati.\n\n|| Iti Shrī Āditya Stotraṁ sampūrṇam ||",
-    "hindiMeaning": "(1) जपाकुसुम (गुड़हल) के समान वर्ण वाले, कश्यप के पुत्र, महान तेज वाले, अन्धकार के शत्रु, समस्त पापों का नाश करने वाले दिवाकर को मैं प्रणाम करता हूँ। (2) आदिदेव, जगन्नाथ, दीनों को अभय देने वाले, सात लोकों के एकमात्र दीपक, सभी व्याधियों का विनाश करने वाले। (3) जो प्रतिदिन आदित्य को नमस्कार करते हैं, उन्हें हजारों जन्मों में दरिद्रता नहीं होती। (4) शान्त, सभी रोगों को दूर करने वाले सूर्य को नमस्कार, आयुर्वेदमय सत्ता, दिव्य औषधिमय कृपा। (5) आप आदिदेव, पुरातन पुरुष, विश्व का परम निधान, ज्ञाता और ज्ञेय, परम धाम हैं। (7) सवितृमण्डल के मध्य में विराजमान नारायण का ध्यान करना चाहिए जो कमलासन पर बैठे, केयूर-कुण्डल-किरीट धारी, हिरण्मय शरीर, शंख-चक्र धारण किये हैं। (8) उदय होते सूर्य मेरे हृदय रोग और पीलिया को शीघ्र नष्ट करें।",
-    "viniyog": null,
-    "benefits": [
-        "Daily recitation prevents poverty for thousands of lifetimes",
-        "Traditionally recited for removal of all diseases, especially heart ailments and jaundice",
-        "Classical tradition invokes this for removal of sins and grants entry to surya loka",
-        "Contains Surya Gayatri mantra for daily meditation",
-        "Invokes Narayana within the solar disc for supreme blessings",
-        "Invokes health, wealth, and spiritual illumination"
-    ],
-    "description": "Among the most cherished prayers to Sun God Surya, Aditya Stotram (आदित्य स्तोत्रम्) stands as a devotional hymn of praise. This sacred composition is sourced from Puranic Compilation and continues to inspire devotees worldwide. Chanting this stotra with devotion is said to daily recitation prevents poverty for thousands of lifetimes as well as remove all sins and grant entry to Surya Loka. Additionally, it is known to destroy all diseases, especially heart ailments and jaundice. It is especially recommended on Sunday (Ravivar) and during Makar Sankranti and Ratha Saptami for maximum spiritual benefit. The text contains 11 verses and takes around 6 minutes to recite, fitting conveniently into a daily spiritual routine. On this page, you can read the complete Aditya Stotram in Devanagari Sanskrit with English transliteration, Hindi meaning (arth), and free PDF download for offline recitation.",
-    "deity": "surya",
-    "secondaryDeities": [
-        "vishnu",
-        "narayana"
-    ],
-    "days": [
-        "sunday"
-    ],
-    "festivals": [
-        "makar-sankranti",
-        "ratha-saptami"
-    ],
-    "purposes": [
-        "health",
-        "wealth",
-        "planetary-remedy",
-        "devotion",
-        "protection"
-    ],
-    "readingTimeMinutes": 6,
-    "seoDescription": "Aditya Stotram in Sanskrit with Hindi meaning. Sacred hymn to Sun God for health, wealth, and removal of all diseases and sins.",
-    "verseCount": 11,
-    "source": "Puranic Compilation",
-    "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
-    "isPublished": true,
-    "alsoKnownAs": [
-        "Sri Aditya Stotram",
-        "आदित्य स्तोत्रम्",
-        "Surya Aditya Stotra",
-        "Japa Kusuma Sankasham Stotra",
-        "Aditya Hymn to Sun God",
-        "Divakara Stotram"
-    ],
-    "relatedSearches": [
-        "Aditya Stotram lyrics Sanskrit PDF download",
-        "Japa kusuma sankasham kashyapeyam meaning",
-        "Aditya Stotram for Sunday Ravivar morning recitation",
-        "Aditya Stotram audio MP3 chant download",
-        "Aditya Stotram vs Aditya Hridayam difference",
-        "Aditya Stotram for Ratha Saptami Makar Sankranti",
-        "Aditya Stotram benefits Sun planet remedy",
-        "12 Adityas names Vishnu Purana Markandeya",
-        "Aditya Stotram for poverty disease eye problems",
-        "Surya Namaskar 12 mantras Aditya names"
-    ],
-    "seoFaqs": [
-        {
-            "question": "What is the Aditya Stotram?",
-            "answer": "The Aditya Stotram (आदित्य स्तोत्रम्) is a Sanskrit devotional hymn addressed to Bhagavan Aditya — the Sun God — also known as Surya, Bhaskara, Ravi, Divakara, Bhanu, Pushan, Mitra, Savitr and Arka. The stotra opens with the universally famous verse Japa-kusuma-sankasham kashyapeyam mahad-dyutim, tamo-arim sarva-papaghnam pranatosmi divakaram — I bow to Divakara (the day-maker), bright as the red japa hibiscus flower, son of Sage Kashyapa, of immense radiance, the enemy of darkness and the destroyer of all sins. Subsequent verses describe Surya as the primordial god (Adideva), the lord of the universe (Jagannatha), the giver of fearlessness to the destitute, the single lamp of the seven worlds (sapta-loka-ekadipa), the destroyer of all diseases (sarva-vyadhi-vinashana), the source of Ayurvedic healing, the impeller of all life, and the supreme refuge. (Source: classical Surya stotra tradition.)"
-        },
-        {
-            "question": "What is the meaning of Japa Kusuma Sankasham?",
-            "answer": "The opening verse Japa-kusuma-sankasham kashyapeyam mahad-dyutim, tamo-arim sarva-papaghnam pranatosmi divakaram is one of the most beloved opening prayers in the entire Hindu tradition. Word by word: Japa-kusuma-sankasham — bright like the red japa flower (hibiscus, the favourite offering to Surya); Kashyapeyam — son of Kashyapa Rishi (since Aditi, mother of the Adityas, was Kashyapa's consort); Mahad-dyutim — of great radiance; Tamo-arim — the enemy of darkness (both physical and the inner darkness of ignorance); Sarva-papaghnam — destroyer of all sins; Pranatosmi divakaram — I bow to Divakara, the maker of day. The verse is recited at sunrise as the standard Surya namaskara mantra and is the opening of the Aditya Stotram. (Source: Brahma Purana; classical Surya stotra tradition.)"
-        },
-        {
-            "question": "When should the Aditya Stotram be recited?",
-            "answer": "The Aditya Stotram is most powerful when chanted at sunrise (the supreme Surya muhurta) on Sunday (Ravivar), facing east, after offering arghya (water libation with red flowers) to the rising sun. Major festival days: Makar Sankranti (Surya enters Capricorn, mid-January, the supreme Surya parva), Ratha Saptami (Magha Shukla Saptami, the chariot-day, also Surya Jayanti in some traditions), Chhath Puja (Kartik Shukla Shashti), every Sankranti (12 solar transits a year), Sunday vrats throughout the year, and during Surya Grahana. Daily morning recitation is especially recommended for those with afflicted Sun in the horoscope, students preparing for exams, persons with chronic eye disorders, heart issues or low vitality, and seekers of government favour. The verse is also chanted at the start of Surya Namaskar yoga sequences. (Sources: Drikpanchang Surya parva calendar; Surya bhakti tradition.)"
-        },
-        {
-            "question": "What benefits does the Aditya Stotram grant?",
-            "answer": "The Aditya Stotram explicitly promises the following blessings (drawn from its own verses): (1) sarva-papaghnam — destruction of all sins (verse 1); (2) janmantara-sahasreshu daridryam nopajayate — even after thousands of births, poverty does not arise for one who bows to Aditya daily (verse 3); (3) sarva-vyadhi-vinashana — destruction of all diseases including chronic, hereditary and unknown ailments (verse 2); (4) ayur-veda-mayi satta divyaushadhi-mayi kripa — Aditya's grace is the very form of Ayurveda and divine herbs (verse 4); (5) increased confidence, vitality, government favour, and protection from enemies; (6) cure of eye disorders (Surya is the karaka of the eyes); (7) cure of skin diseases, leprosy and Pitta-imbalance; (8) general Mangala for fathers, sons, kings, scholars and athletes (since Surya signifies all of these); and (9) ultimately Surya-loka after death. (Source: Aditya Stotram phalashruti.)"
-        },
-        {
-            "question": "What is the difference between the Aditya Stotram and the Aditya Hridayam?",
-            "answer": "Both are powerful Sanskrit hymns to Surya but differ in source, length and traditional use. The Aditya Hridayam is the famous 31-verse hymn taught by sage Agastya to Lord Rama on the battlefield of Lanka (Valmiki Ramayana, Yuddha Kanda 105) before his final duel with Ravana — promising victory in battle, removal of all enemies, royal Vedic dignity, and known across India as the supreme Surya stotra of victory. The Aditya Stotram is a shorter classical hymn (typically 5-15 verses depending on recension) opening with the universally famous Japa-kusuma-sankasham verse — used as the daily Sunday Surya prayer, easier to memorise, and the opening of countless Surya pujas. The Hridayam is the festival/crisis prayer of victory; the Stotram is the daily benediction. Many devotees recite the Stotram daily and the Hridayam on Sundays and Surya parvas. (Sources: Valmiki Ramayana Yuddha Kanda 105; classical Surya stotra corpus.)"
-        },
-        {
-            "question": "Who is Aditya and why is he called Kashyapeya?",
-            "answer": "Aditya literally means son of Aditi — the boundless mother-goddess and consort of Kashyapa Prajapati (one of the seven primordial sages). The Vedas and Puranas list twelve Adityas — twelve solar forms, one for each month of the year — born of Aditi and Kashyapa: Mitra, Aryaman, Bhaga, Varuna, Daksha, Amshu, Dhata, Indra, Vivasvan, Pushan, Tvashta and Vishnu (the Vamana avatara was born as the youngest Aditya). Of these, Vivasvan is the immediate father of Manu, Yama, Yami and the Ashvins. The name Kashyapeya in the opening verse honours this Vedic lineage — Aditya as the son of Kashyapa through Aditi — and links the Sun to the entire creation, since Kashyapa is the father of all created beings. The Dwadasha Aditya tradition is the basis of the Surya Namaskar 12-mantra invocation. (Sources: Vishnu Purana; Markandeya Purana; Mahabharata Adi Parva.)"
-        }
-    ]
+  "id": "4",
+  "title": "आदित्य स्तोत्रम्",
+  "titleEn": "Aditya Stotram",
+  "slug": "aditya-stotram",
+  "devanagariText": "॥ श्री आदित्य स्तोत्रम् ॥\n\nजपाकुसुमसङ्काशं काश्यपेयं महद्द्युतिम्।\nतमोऽरिं सर्वपापघ्नं प्रणतोऽस्मि दिवाकरम्॥१॥\n\nआदिदेवो जगन्नाथो दीनानामभयप्रदः।\nसप्तलोकैकदीपश्च सर्वव्याधिविनाशनः॥२॥\n\nआदित्यस्य नमस्कारं ये कुर्वन्ति दिने दिने।\nजन्मान्तरसहस्रेषु दारिद्र्यं नोपजायते॥३॥\n\nनमः सूर्याय शान्ताय सर्वरोगनिवारिणे।\nआयुर्वेदमयी सत्ता दिव्यौषधिमयी कृपा॥४॥\n\nत्वमादिदेवः पुरुषः पुरातनस्त्वमस्य विश्वस्य परं निधानम्।\nवेत्तासि वेद्यं च परं च धाम त्वया ततं विश्वमनन्तरूप॥५॥\n\nसविता सर्वलोकानां सविता सर्वकर्मणाम्।\nसवित्री सर्वभूतानामादित्यं प्रणमाम्यहम्॥६॥\n\nध्येयः सदा सवितृमण्डलमध्यवर्ती\nनारायणः सरसिजासनसन्निविष्टः।\nकेयूरवान् मकरकुण्डलवान् किरीटी\nहारी हिरण्मयवपुर्धृतशङ्खचक्रः॥७॥\n\nउद्यन्नद्यविवस्वानारोहन्नुत्तरां दिवम्।\nहृद्रोगं मम सूर्यो हरिमाणं चाशु नाशयेत्॥८॥\n\nघृणिं सूर्य आदित्यं भास्करं भुवनेश्वरम्।\nश्रीमन्तं श्रीकरं चैव सर्वाभीष्टप्रदायिनम्॥९॥\n\nरवये सोमदात्रे च भानवे विष्णुरूपिणे।\nसप्ताश्ववाहनायैव सूर्याय शतरश्मये॥१०॥\n\nॐ आदित्याय विद्महे भास्कराय धीमहि।\nतन्नः सूर्यः प्रचोदयात्॥११॥\n\n॥ फलश्रुति ॥\nआदित्यस्तोत्रमिदं पुण्यं यः पठेत् सुसमाहितः।\nसर्वपापविनिर्मुक्तः सूर्यलोकं स गच्छति॥\n\n॥ इति श्री आदित्य स्तोत्रं सम्पूर्णम् ॥",
+  "transliteration": "|| Shrī Āditya Stotram ||\n\nJapākusumasaṅkāśaṁ Kāśyapeyaṁ mahaddyutim.\nTamo'riṁ sarvapāpaghnaṁ praṇato'smi Divākaram.||1||\n\nĀdideveo Jagannātho dīnānāmabhayapradaḥ.\nSaptalokaikadīpaścha sarvavyādhivināśanaḥ.||2||\n\nĀdityasya namaskāraṁ ye kurvanti dine dine.\nJanmāntarasahasreṣu dāridryaṁ nopajāyate.||3||\n\nNamaḥ Sūryāya śāntāya sarvaroganivāriṇe.\nĀyurvedamayī sattā divyauṣadhimayī kṛpā.||4||\n\nTvamādiDevaḥ puruṣaḥ purātanstvamassya viśvasya paraṁ nidhānam.\nVettāsi vedyaṁ cha paraṁ cha dhāma tvayā tataṁ viśvamanantarūpa.||5||\n\nSavitā sarvalokānāṁ Savitā sarvakarmaṇām.\nSavitrī sarvabhūtānāmĀdityaṁ praṇamāmyaham.||6||\n\nDhyeyaḥ sadā Savitṛmaṇḍalamadhyavartī\nNārāyaṇaḥ sarasijāsanasanniviṣṭaḥ.\nKeyūravān makarakuṇḍalavān kirīṭī\nHārī hiraṇmayavapurdhṛtaśaṅkhachakraḥ.||7||\n\nUdyannadyavivāsvānārohanuttarāṁ divam.\nHṛdrogaṁ mama Sūryo harimāṇaṁ chāśu nāśayet.||8||\n\nGhṛṇiṁ Sūrya Ādityaṁ Bhāskaraṁ Bhuvaneśvaram.\nŚrīmantaṁ Śrīkaraṁ chaiva sarvābhīṣṭapradāyinam.||9||\n\nRavaye Somadātre cha Bhānavae Viṣṇurūpiṇe.\nSaptāśvavāhanāyaiva Sūryāya Śataraśmaye.||10||\n\nOm Ādityāya Vidmahe Bhāskarāya Dhīmahi.\nTannaḥ Sūryaḥ prachodayāt.||11||\n\n|| Phalaśruti ||\nĀdityastotramidaṁ puṇyaṁ yaḥ paṭhet susamāhitaḥ.\nSarvapāpavinirmuktaḥ Sūryalokaṁ sa gachchhati.\n\n|| Iti Shrī Āditya Stotraṁ sampūrṇam ||",
+  "hindiMeaning": "(1) जपाकुसुम (गुड़हल) के समान वर्ण वाले, कश्यप के पुत्र, महान तेज वाले, अन्धकार के शत्रु, समस्त पापों का नाश करने वाले दिवाकर को मैं प्रणाम करता हूँ। (2) आदिदेव, जगन्नाथ, दीनों को अभय देने वाले, सात लोकों के एकमात्र दीपक, सभी व्याधियों का विनाश करने वाले। (3) जो प्रतिदिन आदित्य को नमस्कार करते हैं, उन्हें हजारों जन्मों में दरिद्रता नहीं होती। (4) शान्त, सभी रोगों को दूर करने वाले सूर्य को नमस्कार, आयुर्वेदमय सत्ता, दिव्य औषधिमय कृपा। (5) आप आदिदेव, पुरातन पुरुष, विश्व का परम निधान, ज्ञाता और ज्ञेय, परम धाम हैं। (7) सवितृमण्डल के मध्य में विराजमान नारायण का ध्यान करना चाहिए जो कमलासन पर बैठे, केयूर-कुण्डल-किरीट धारी, हिरण्मय शरीर, शंख-चक्र धारण किये हैं। (8) उदय होते सूर्य मेरे हृदय रोग और पीलिया को शीघ्र नष्ट करें।",
+  "viniyog": null,
+  "benefits": [
+    "Daily recitation prevents poverty for thousands of lifetimes",
+    "Traditionally recited for removal of all diseases, especially heart ailments and jaundice",
+    "Classical tradition invokes this for removal of sins and grants entry to surya loka",
+    "Contains Surya Gayatri mantra for daily meditation",
+    "Invokes Narayana within the solar disc for supreme blessings",
+    "Invokes health, wealth, and spiritual illumination"
+  ],
+  "description": "Eleven verses to the rising sun, drawn from Puranic compilation, carry a striking promise: daily recitation is said to keep poverty away across thousands of lifetimes. The Aditya Stotram is more than a morning praise. Tradition reaches for it to clear all diseases, with heart ailments and jaundice named specifically, and to wash away sins so the reciter may enter Surya Loka. Folded into it is the Surya Gayatri mantra for daily meditation. Sundays are the natural day to chant it, and devotees give it special weight at Makar Sankranti and Ratha Saptami. The whole thing runs about six minutes. Here you will find the full Sanskrit in Devanagari, a transliteration to guide pronunciation, the meaning rendered in Hindi, and a PDF you can download and recite away from the screen.",
+  "deity": "surya",
+  "secondaryDeities": [
+    "vishnu",
+    "narayana"
+  ],
+  "days": [
+    "sunday"
+  ],
+  "festivals": [
+    "makar-sankranti",
+    "ratha-saptami"
+  ],
+  "purposes": [
+    "health",
+    "wealth",
+    "planetary-remedy",
+    "devotion",
+    "protection"
+  ],
+  "readingTimeMinutes": 6,
+  "seoDescription": "Aditya Stotram in Sanskrit with Hindi meaning. Sacred hymn to Sun God for health, wealth, and removal of all diseases and sins.",
+  "verseCount": 11,
+  "source": "Puranic Compilation",
+  "createdAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-06-01",
+  "isPublished": true,
+  "alsoKnownAs": [
+    "Sri Aditya Stotram",
+    "आदित्य स्तोत्रम्",
+    "Surya Aditya Stotra",
+    "Japa Kusuma Sankasham Stotra",
+    "Aditya Hymn to Sun God",
+    "Divakara Stotram"
+  ],
+  "relatedSearches": [
+    "Aditya Stotram lyrics Sanskrit PDF download",
+    "Japa kusuma sankasham kashyapeyam meaning",
+    "Aditya Stotram for Sunday Ravivar morning recitation",
+    "Aditya Stotram audio MP3 chant download",
+    "Aditya Stotram vs Aditya Hridayam difference",
+    "Aditya Stotram for Ratha Saptami Makar Sankranti",
+    "Aditya Stotram benefits Sun planet remedy",
+    "12 Adityas names Vishnu Purana Markandeya",
+    "Aditya Stotram for poverty disease eye problems",
+    "Surya Namaskar 12 mantras Aditya names"
+  ],
+  "seoFaqs": [
+    {
+      "question": "What is the Aditya Stotram?",
+      "answer": "The Aditya Stotram (आदित्य स्तोत्रम्) is a Sanskrit devotional hymn addressed to Bhagavan Aditya — the Sun God — also known as Surya, Bhaskara, Ravi, Divakara, Bhanu, Pushan, Mitra, Savitr and Arka. The stotra opens with the universally famous verse Japa-kusuma-sankasham kashyapeyam mahad-dyutim, tamo-arim sarva-papaghnam pranatosmi divakaram — I bow to Divakara (the day-maker), bright as the red japa hibiscus flower, son of Sage Kashyapa, of immense radiance, the enemy of darkness and the destroyer of all sins. Subsequent verses describe Surya as the primordial god (Adideva), the lord of the universe (Jagannatha), the giver of fearlessness to the destitute, the single lamp of the seven worlds (sapta-loka-ekadipa), the destroyer of all diseases (sarva-vyadhi-vinashana), the source of Ayurvedic healing, the impeller of all life, and the supreme refuge. (Source: classical Surya stotra tradition.)"
+    },
+    {
+      "question": "What is the meaning of Japa Kusuma Sankasham?",
+      "answer": "The opening verse Japa-kusuma-sankasham kashyapeyam mahad-dyutim, tamo-arim sarva-papaghnam pranatosmi divakaram is one of the most beloved opening prayers in the entire Hindu tradition. Word by word: Japa-kusuma-sankasham — bright like the red japa flower (hibiscus, the favourite offering to Surya); Kashyapeyam — son of Kashyapa Rishi (since Aditi, mother of the Adityas, was Kashyapa's consort); Mahad-dyutim — of great radiance; Tamo-arim — the enemy of darkness (both physical and the inner darkness of ignorance); Sarva-papaghnam — destroyer of all sins; Pranatosmi divakaram — I bow to Divakara, the maker of day. The verse is recited at sunrise as the standard Surya namaskara mantra and is the opening of the Aditya Stotram. (Source: Brahma Purana; classical Surya stotra tradition.)"
+    },
+    {
+      "question": "When should the Aditya Stotram be recited?",
+      "answer": "The Aditya Stotram is most powerful when chanted at sunrise (the supreme Surya muhurta) on Sunday (Ravivar), facing east, after offering arghya (water libation with red flowers) to the rising sun. Major festival days: Makar Sankranti (Surya enters Capricorn, mid-January, the supreme Surya parva), Ratha Saptami (Magha Shukla Saptami, the chariot-day, also Surya Jayanti in some traditions), Chhath Puja (Kartik Shukla Shashti), every Sankranti (12 solar transits a year), Sunday vrats throughout the year, and during Surya Grahana. Daily morning recitation is especially recommended for those with afflicted Sun in the horoscope, students preparing for exams, persons with chronic eye disorders, heart issues or low vitality, and seekers of government favour. The verse is also chanted at the start of Surya Namaskar yoga sequences. (Sources: Drikpanchang Surya parva calendar; Surya bhakti tradition.)"
+    },
+    {
+      "question": "What benefits does the Aditya Stotram grant?",
+      "answer": "The Aditya Stotram explicitly promises the following blessings (drawn from its own verses): (1) sarva-papaghnam — destruction of all sins (verse 1); (2) janmantara-sahasreshu daridryam nopajayate — even after thousands of births, poverty does not arise for one who bows to Aditya daily (verse 3); (3) sarva-vyadhi-vinashana — destruction of all diseases including chronic, hereditary and unknown ailments (verse 2); (4) ayur-veda-mayi satta divyaushadhi-mayi kripa — Aditya's grace is the very form of Ayurveda and divine herbs (verse 4); (5) increased confidence, vitality, government favour, and protection from enemies; (6) cure of eye disorders (Surya is the karaka of the eyes); (7) cure of skin diseases, leprosy and Pitta-imbalance; (8) general Mangala for fathers, sons, kings, scholars and athletes (since Surya signifies all of these); and (9) ultimately Surya-loka after death. (Source: Aditya Stotram phalashruti.)"
+    },
+    {
+      "question": "What is the difference between the Aditya Stotram and the Aditya Hridayam?",
+      "answer": "Both are powerful Sanskrit hymns to Surya but differ in source, length and traditional use. The Aditya Hridayam is the famous 31-verse hymn taught by sage Agastya to Lord Rama on the battlefield of Lanka (Valmiki Ramayana, Yuddha Kanda 105) before his final duel with Ravana — promising victory in battle, removal of all enemies, royal Vedic dignity, and known across India as the supreme Surya stotra of victory. The Aditya Stotram is a shorter classical hymn (typically 5-15 verses depending on recension) opening with the universally famous Japa-kusuma-sankasham verse — used as the daily Sunday Surya prayer, easier to memorise, and the opening of countless Surya pujas. The Hridayam is the festival/crisis prayer of victory; the Stotram is the daily benediction. Many devotees recite the Stotram daily and the Hridayam on Sundays and Surya parvas. (Sources: Valmiki Ramayana Yuddha Kanda 105; classical Surya stotra corpus.)"
+    },
+    {
+      "question": "Who is Aditya and why is he called Kashyapeya?",
+      "answer": "Aditya literally means son of Aditi — the boundless mother-goddess and consort of Kashyapa Prajapati (one of the seven primordial sages). The Vedas and Puranas list twelve Adityas — twelve solar forms, one for each month of the year — born of Aditi and Kashyapa: Mitra, Aryaman, Bhaga, Varuna, Daksha, Amshu, Dhata, Indra, Vivasvan, Pushan, Tvashta and Vishnu (the Vamana avatara was born as the youngest Aditya). Of these, Vivasvan is the immediate father of Manu, Yama, Yami and the Ashvins. The name Kashyapeya in the opening verse honours this Vedic lineage — Aditya as the son of Kashyapa through Aditi — and links the Sun to the entire creation, since Kashyapa is the father of all created beings. The Dwadasha Aditya tradition is the basis of the Surya Namaskar 12-mantra invocation. (Sources: Vishnu Purana; Markandeya Purana; Mahabharata Adi Parva.)"
+    }
+  ]
 }

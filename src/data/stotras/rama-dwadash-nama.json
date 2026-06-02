@@ -1,99 +1,99 @@
 {
-    "id": "623",
-    "title": "राम द्वादश नाम स्तोत्रम्",
-    "titleEn": "Rama Dwadash Nama Stotram",
-    "slug": "rama-dwadash-nama",
-    "devanagariText": "॥ श्री राम द्वादश नाम स्तोत्रम् ॥\n\nॐ अस्य श्री रामद्वादशनामस्तोत्रस्य\nवाल्मीकि ऋषिः। अनुष्टुप् छन्दः।\nश्रीरामचन्द्रो देवता।\nरामप्रीत्यर्थे जपे विनियोगः॥\n\nप्रथमं श्रीरामं विद्यात् द्वितीयं रामचन्द्रकम्।\nतृतीयं रामभद्रं च चतुर्थं रघुनन्दनम्॥१॥\n\nपञ्चमं राघवं विद्यात् षष्ठं राजीवलोचनम्।\nसप्तमं दाशरथिं प्रोक्तं अष्टमं सीतावल्लभम्॥२॥\n\nनवमं कोसलेन्द्रं च दशमं कौसल्यानन्दनम्।\nएकादशं रावणारिं द्वादशं रणकर्कशम्॥३॥\n\nद्वादशैतानि नामानि रामस्य परमात्मनः।\nयः पठेत् प्रातरुत्थाय सर्वसिद्धिः प्रजायते॥४॥\n\n॥ द्वादश नामानि ॥\nॐ श्रीरामाय नमः।\nॐ रामचन्द्राय नमः।\nॐ रामभद्राय नमः।\nॐ रघुनन्दनाय नमः।\nॐ राघवाय नमः।\nॐ राजीवलोचनाय नमः।\nॐ दाशरथये नमः।\nॐ सीतावल्लभाय नमः।\nॐ कोसलेन्द्राय नमः।\nॐ कौसल्यानन्दनाय नमः।\nॐ रावणारये नमः।\nॐ रणकर्कशाय नमः।\n\n॥ फलश्रुति ॥\nद्वादशैतानि नामानि प्रातः सायं पठेन्नरः।\nदुःखदारिद्र्यनाशं च सुखसम्पत्तिमाप्नुयात्॥\n\n॥ इति श्री राम द्वादश नाम स्तोत्रं सम्पूर्णम् ॥",
-    "transliteration": "|| Shri Rama Dwadash Nama Stotram ||\n\nOm Asya Shri Rama-dwadasha-nama-stotrasya\nValmiki Rishiph. Anushtup Chhandah.\nShri Ramachandro Devata.\nRama-prityarthe Jape Viniyogah.\n\nPrathamam Shri-Ramam Vidyat Dvitiyam Ramachandrakam.\nTritiyam Ramabhadram Cha Chaturtham Raghunandanam.||1||\n\nPanchamam Raghavam Vidyat Shashtham Rajeeva-lochanam.\nSaptamam Dasharathim Proktam Ashtamam Sitavallabham.||2||\n\nNavamam Koshalendram Cha Dashamam Kausalyanandanam.\nEkadasham Ravanarim Dwadasham Ranakarkasham.||3||\n\nDwadash-aitani Namani Ramasya Paramatmanah.\nYah Pathet Pratar-utthaya Sarvasiddhih Prajayate.||4||\n\n|| Dwadash Namani ||\nOm Shri Ramaya Namah.\nOm Ramachandraya Namah.\nOm Ramabhadraya Namah.\nOm Raghunandanaya Namah.\nOm Raghavaya Namah.\nOm Rajeeva-lochanaya Namah.\nOm Dasharathaye Namah.\nOm Sitavallabhaya Namah.\nOm Koshalendraya Namah.\nOm Kausalyanandanaya Namah.\nOm Ravana-araye Namah.\nOm Ranakarkashaya Namah.\n\n|| Phalashruti ||\nDwadash-aitani Namani Pratah Sayam Pathennnarah.\nDuhkha-daridryam Nasham Cha Sukha-sampattim-apnuyat.\n\n|| Iti Shri Rama Dwadash Nama Stotram Sampoornam ||",
-    "hindiMeaning": "इस राम द्वादश नाम स्तोत्र के ऋषि वाल्मीकि हैं, छन्द अनुष्टुप् है, देवता श्रीरामचन्द्र हैं।\n\n१. प्रथम श्रीराम, द्वितीय रामचन्द्र।\n२. तृतीय रामभद्र, चतुर्थ रघुनन्दन।\n३. पञ्चम राघव, षष्ठ राजीवलोचन (कमलनयन)।\n४. सप्तम दाशरथि (दशरथपुत्र), अष्टम सीतावल्लभ।\n५. नवम कोसलेन्द्र (कोसल के राजा), दशम कौसल्यानन्दन।\n६. एकादश रावणारि (रावण के शत्रु), द्वादश रणकर्कश (युद्ध में कठोर)।\n\nराम परमात्मा के ये बारह नाम जो प्रातःकाल पढ़ता है, उसे सर्वसिद्धि प्राप्त होती है।\n\nजो प्रातः-सायं इन नामों का पाठ करता है, उसके दुःख-दारिद्र्य नष्ट होते हैं और सुख-सम्पत्ति प्राप्त होती है।",
-    "viniyog": {
-        "rishi": "वाल्मीकि",
-        "chhand": "अनुष्टुप्",
-        "devata": "श्री रामचन्द्र",
-        "beej": "ॐ श्रीरामाय",
-        "shakti": "राम शक्ति",
-        "kilak": "सर्वसिद्धि प्राप्ति",
-        "shloka": "अस्य श्रीरामद्वादशनामस्तोत्रमन्त्रस्य वाल्मीकि ऋषिः। अनुष्टुप् छन्दः। श्री रामचन्द्र देवता। ॐ श्रीरामाय बीजम्। राम शक्तिः। सर्वसिद्धि प्राप्ति कीलकम्। श्रीरामचन्द्रप्रीत्यर्थे जपे विनियोगः॥"
+  "id": "623",
+  "title": "राम द्वादश नाम स्तोत्रम्",
+  "titleEn": "Rama Dwadash Nama Stotram",
+  "slug": "rama-dwadash-nama",
+  "devanagariText": "॥ श्री राम द्वादश नाम स्तोत्रम् ॥\n\nॐ अस्य श्री रामद्वादशनामस्तोत्रस्य\nवाल्मीकि ऋषिः। अनुष्टुप् छन्दः।\nश्रीरामचन्द्रो देवता।\nरामप्रीत्यर्थे जपे विनियोगः॥\n\nप्रथमं श्रीरामं विद्यात् द्वितीयं रामचन्द्रकम्।\nतृतीयं रामभद्रं च चतुर्थं रघुनन्दनम्॥१॥\n\nपञ्चमं राघवं विद्यात् षष्ठं राजीवलोचनम्।\nसप्तमं दाशरथिं प्रोक्तं अष्टमं सीतावल्लभम्॥२॥\n\nनवमं कोसलेन्द्रं च दशमं कौसल्यानन्दनम्।\nएकादशं रावणारिं द्वादशं रणकर्कशम्॥३॥\n\nद्वादशैतानि नामानि रामस्य परमात्मनः।\nयः पठेत् प्रातरुत्थाय सर्वसिद्धिः प्रजायते॥४॥\n\n॥ द्वादश नामानि ॥\nॐ श्रीरामाय नमः।\nॐ रामचन्द्राय नमः।\nॐ रामभद्राय नमः।\nॐ रघुनन्दनाय नमः।\nॐ राघवाय नमः।\nॐ राजीवलोचनाय नमः।\nॐ दाशरथये नमः।\nॐ सीतावल्लभाय नमः।\nॐ कोसलेन्द्राय नमः।\nॐ कौसल्यानन्दनाय नमः।\nॐ रावणारये नमः।\nॐ रणकर्कशाय नमः।\n\n॥ फलश्रुति ॥\nद्वादशैतानि नामानि प्रातः सायं पठेन्नरः।\nदुःखदारिद्र्यनाशं च सुखसम्पत्तिमाप्नुयात्॥\n\n॥ इति श्री राम द्वादश नाम स्तोत्रं सम्पूर्णम् ॥",
+  "transliteration": "|| Shri Rama Dwadash Nama Stotram ||\n\nOm Asya Shri Rama-dwadasha-nama-stotrasya\nValmiki Rishiph. Anushtup Chhandah.\nShri Ramachandro Devata.\nRama-prityarthe Jape Viniyogah.\n\nPrathamam Shri-Ramam Vidyat Dvitiyam Ramachandrakam.\nTritiyam Ramabhadram Cha Chaturtham Raghunandanam.||1||\n\nPanchamam Raghavam Vidyat Shashtham Rajeeva-lochanam.\nSaptamam Dasharathim Proktam Ashtamam Sitavallabham.||2||\n\nNavamam Koshalendram Cha Dashamam Kausalyanandanam.\nEkadasham Ravanarim Dwadasham Ranakarkasham.||3||\n\nDwadash-aitani Namani Ramasya Paramatmanah.\nYah Pathet Pratar-utthaya Sarvasiddhih Prajayate.||4||\n\n|| Dwadash Namani ||\nOm Shri Ramaya Namah.\nOm Ramachandraya Namah.\nOm Ramabhadraya Namah.\nOm Raghunandanaya Namah.\nOm Raghavaya Namah.\nOm Rajeeva-lochanaya Namah.\nOm Dasharathaye Namah.\nOm Sitavallabhaya Namah.\nOm Koshalendraya Namah.\nOm Kausalyanandanaya Namah.\nOm Ravana-araye Namah.\nOm Ranakarkashaya Namah.\n\n|| Phalashruti ||\nDwadash-aitani Namani Pratah Sayam Pathennnarah.\nDuhkha-daridryam Nasham Cha Sukha-sampattim-apnuyat.\n\n|| Iti Shri Rama Dwadash Nama Stotram Sampoornam ||",
+  "hindiMeaning": "इस राम द्वादश नाम स्तोत्र के ऋषि वाल्मीकि हैं, छन्द अनुष्टुप् है, देवता श्रीरामचन्द्र हैं।\n\n१. प्रथम श्रीराम, द्वितीय रामचन्द्र।\n२. तृतीय रामभद्र, चतुर्थ रघुनन्दन।\n३. पञ्चम राघव, षष्ठ राजीवलोचन (कमलनयन)।\n४. सप्तम दाशरथि (दशरथपुत्र), अष्टम सीतावल्लभ।\n५. नवम कोसलेन्द्र (कोसल के राजा), दशम कौसल्यानन्दन।\n६. एकादश रावणारि (रावण के शत्रु), द्वादश रणकर्कश (युद्ध में कठोर)।\n\nराम परमात्मा के ये बारह नाम जो प्रातःकाल पढ़ता है, उसे सर्वसिद्धि प्राप्त होती है।\n\nजो प्रातः-सायं इन नामों का पाठ करता है, उसके दुःख-दारिद्र्य नष्ट होते हैं और सुख-सम्पत्ति प्राप्त होती है।",
+  "viniyog": {
+    "rishi": "वाल्मीकि",
+    "chhand": "अनुष्टुप्",
+    "devata": "श्री रामचन्द्र",
+    "beej": "ॐ श्रीरामाय",
+    "shakti": "राम शक्ति",
+    "kilak": "सर्वसिद्धि प्राप्ति",
+    "shloka": "अस्य श्रीरामद्वादशनामस्तोत्रमन्त्रस्य वाल्मीकि ऋषिः। अनुष्टुप् छन्दः। श्री रामचन्द्र देवता। ॐ श्रीरामाय बीजम्। राम शक्तिः। सर्वसिद्धि प्राप्ति कीलकम्। श्रीरामचन्द्रप्रीत्यर्थे जपे विनियोगः॥"
+  },
+  "benefits": [
+    "Contains the 12 sacred names of Lord Rama covering all his roles",
+    "Invokes sarva siddhi — success in all endeavors",
+    "Traditionally recited for removal of poverty and sorrow when recited morning and evening",
+    "Covers Rama as son, husband, king, warrior, and divine being",
+    "Ideal for Ram Navami, Tuesdays, and daily worship",
+    "Simple recitation with profound spiritual benefits"
+  ],
+  "description": "Twelve names hold the whole of Rama, son and husband, king and warrior, the divine being behind them all. The Rama Dwadash Nama Stotram, from the Valmiki Ramayana tradition and running to twelve verses, gathers these sacred names into a recitation simple enough for anyone yet weighty in its effect. The tradition holds that, chanted morning and evening, it carries away poverty and sorrow and brings sarva siddhi, success in all that one undertakes. Thursday is its day, with Ram Navami and Dussehra as the festivals it belongs to. The twelve verses take about four minutes to recite. On this page the stotram appears in full Devanagari Sanskrit, with a Latin transliteration to follow, the Hindi meaning laid out, and a free PDF you can download for offline recitation.",
+  "deity": "rama",
+  "secondaryDeities": [
+    "sita",
+    "hanuman"
+  ],
+  "days": [
+    "thursday"
+  ],
+  "festivals": [
+    "ram-navami",
+    "dussehra"
+  ],
+  "purposes": [
+    "devotion",
+    "success",
+    "prosperity",
+    "daily-worship",
+    "protection"
+  ],
+  "readingTimeMinutes": 4,
+  "seoDescription": "Read Rama Dwadash Nama Stotram — 12 sacred names of Lord Rama from Shrirama to Ranakarkasha in Sanskrit with Hindi meaning.",
+  "verseCount": 12,
+  "source": "Valmiki Ramayana tradition",
+  "createdAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-06-01",
+  "isPublished": true,
+  "alsoKnownAs": [
+    "Shri Rama Dwadash Nama Stotram",
+    "राम द्वादश नाम स्तोत्रम्",
+    "Rama 12 Names Stotra",
+    "Twelve Names of Lord Rama",
+    "Rama Dwadasha Nama",
+    "Prathamam Shri Ramam Vidyat Stotra"
+  ],
+  "relatedSearches": [
+    "Rama Dwadash Nama Stotram Sanskrit lyrics PDF",
+    "12 names of Rama meaning translation",
+    "Prathamam Shri Ramam Vidyat verse meaning",
+    "Rama Dwadasha Nama benefits morning evening",
+    "Rama Ramachandra Ramabhadra Raghunandana names",
+    "Dasharathi Sitavallabha Koshalendra Kausalyanandana",
+    "Ravanari Ranakarkasha Rama names meaning",
+    "Rama Dwadash Nama audio MP3 chant download",
+    "Rama 12 names vs Rama Sahasranama difference",
+    "Ram Navami Rama Dwadasha Nama parayanam"
+  ],
+  "seoFaqs": [
+    {
+      "question": "What is the Rama Dwadash Nama Stotram and what are the twelve names?",
+      "answer": "The Rama Dwadash Nama Stotram (राम द्वादश नाम स्तोत्रम्) is a short, powerful devotional hymn enumerating the twelve principal sacred names of Lord Rama. The stotra is preserved in classical Vaishnava tradition (attributed to Valmiki Rishi in its viniyoga). The twelve names in their canonical order are: (1) Shri Rama — the supremely beautiful one; (2) Ramachandra — Rama like the moon; (3) Ramabhadra — the auspicious Rama; (4) Raghunandana — joy of the Raghu lineage; (5) Raghava — descendant of Raghu; (6) Rajiva-lochana — the lotus-eyed one; (7) Dasharathi — son of Dasharatha; (8) Sita-vallabha — beloved of Sita; (9) Koshalendra — king of Kosala; (10) Kausalya-nandana — joy of Kausalya; (11) Ravanari — enemy of Ravana; (12) Rana-karkasha — the fierce one in battle. (Sources: Valmiki Ramayana stotra tradition; Vaishnava paddhati.)"
     },
-    "benefits": [
-        "Contains the 12 sacred names of Lord Rama covering all his roles",
-        "Invokes sarva siddhi — success in all endeavors",
-        "Traditionally recited for removal of poverty and sorrow when recited morning and evening",
-        "Covers Rama as son, husband, king, warrior, and divine being",
-        "Ideal for Ram Navami, Tuesdays, and daily worship",
-        "Simple recitation with profound spiritual benefits"
-    ],
-    "description": "The Rama Dwadash Nama Stotram, known in Sanskrit as राम द्वादश नाम स्तोत्रम्, is a devotional hymn of praise in praise of Lord Rama. This sacred composition is sourced from Valmiki Ramayana tradition and continues to inspire devotees worldwide. Chanting this stotra with devotion is said to contain the 12 sacred names of Lord Rama covering all his roles as well as simple recitation with profound spiritual benefits. Additionally, it is known to cover Rama as son, husband, king, warrior, and divine being. For best results, devotees chant this on Thursday (Guruvar) and during Ram Navami and Dussehra. With 12 verses and a reading time of about 4 minutes, this prayer is ideal for both daily worship and special occasions. On this page, you can read the complete Rama Dwadash Nama Stotram in Devanagari Sanskrit with English transliteration, Hindi meaning (arth), and free PDF download for offline recitation.",
-    "deity": "rama",
-    "secondaryDeities": [
-        "sita",
-        "hanuman"
-    ],
-    "days": [
-        "thursday"
-    ],
-    "festivals": [
-        "ram-navami",
-        "dussehra"
-    ],
-    "purposes": [
-        "devotion",
-        "success",
-        "prosperity",
-        "daily-worship",
-        "protection"
-    ],
-    "readingTimeMinutes": 4,
-    "seoDescription": "Read Rama Dwadash Nama Stotram — 12 sacred names of Lord Rama from Shrirama to Ranakarkasha in Sanskrit with Hindi meaning.",
-    "verseCount": 12,
-    "source": "Valmiki Ramayana tradition",
-    "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
-    "isPublished": true,
-    "alsoKnownAs": [
-        "Shri Rama Dwadash Nama Stotram",
-        "राम द्वादश नाम स्तोत्रम्",
-        "Rama 12 Names Stotra",
-        "Twelve Names of Lord Rama",
-        "Rama Dwadasha Nama",
-        "Prathamam Shri Ramam Vidyat Stotra"
-    ],
-    "relatedSearches": [
-        "Rama Dwadash Nama Stotram Sanskrit lyrics PDF",
-        "12 names of Rama meaning translation",
-        "Prathamam Shri Ramam Vidyat verse meaning",
-        "Rama Dwadasha Nama benefits morning evening",
-        "Rama Ramachandra Ramabhadra Raghunandana names",
-        "Dasharathi Sitavallabha Koshalendra Kausalyanandana",
-        "Ravanari Ranakarkasha Rama names meaning",
-        "Rama Dwadash Nama audio MP3 chant download",
-        "Rama 12 names vs Rama Sahasranama difference",
-        "Ram Navami Rama Dwadasha Nama parayanam"
-    ],
-    "seoFaqs": [
-        {
-            "question": "What is the Rama Dwadash Nama Stotram and what are the twelve names?",
-            "answer": "The Rama Dwadash Nama Stotram (राम द्वादश नाम स्तोत्रम्) is a short, powerful devotional hymn enumerating the twelve principal sacred names of Lord Rama. The stotra is preserved in classical Vaishnava tradition (attributed to Valmiki Rishi in its viniyoga). The twelve names in their canonical order are: (1) Shri Rama — the supremely beautiful one; (2) Ramachandra — Rama like the moon; (3) Ramabhadra — the auspicious Rama; (4) Raghunandana — joy of the Raghu lineage; (5) Raghava — descendant of Raghu; (6) Rajiva-lochana — the lotus-eyed one; (7) Dasharathi — son of Dasharatha; (8) Sita-vallabha — beloved of Sita; (9) Koshalendra — king of Kosala; (10) Kausalya-nandana — joy of Kausalya; (11) Ravanari — enemy of Ravana; (12) Rana-karkasha — the fierce one in battle. (Sources: Valmiki Ramayana stotra tradition; Vaishnava paddhati.)"
-        },
-        {
-            "question": "Why are these twelve specific names of Rama selected for daily recitation?",
-            "answer": "The twelve names of the Dwadasha Nama Stotra are not chosen arbitrarily — they encapsulate Rama's complete identity through his twelve essential roles: (1-2) Sri Rama and Ramachandra establish his name and lunar beauty; (3-4) Ramabhadra and Raghunandana establish his auspiciousness and lineage; (5-6) Raghava and Rajiva-lochana establish his ancestry and divine form; (7-8) Dasharathi and Sita-vallabha establish his role as son of Dasharatha and husband of Sita (his family identity); (9-10) Koshalendra and Kausalya-nandana establish him as king of Ayodhya-Kosala and Kausalya's beloved son (his royal-domestic identity); (11-12) Ravanari and Rana-karkasha establish him as the cosmic warrior who slays Ravana and is fierce in righteous battle (his Dharma-protector identity). Together the twelve names cover Rama as son, husband, king, warrior, divine being and supreme reality. (Sources: classical Rama upasana tradition.)"
-        },
-        {
-            "question": "What is the proper way to recite the Rama Dwadash Nama Stotram?",
-            "answer": "The traditional vidhi for the Rama Dwadasha Nama recitation: (1) bathe and wear clean clothes at sunrise (pratah-utthaya), facing east toward the rising sun; (2) place an image or yantra of Sri Rama before you with Sita on his left and Hanuman at his feet; (3) light a ghee deepak and offer tulasi leaves, yellow flowers (campaka, marigold) and a bilva or lotus; (4) take achamana and pranayama; (5) recite the viniyoga shloka establishing Valmiki rishi, Anushtup chhandas, Sri Ramachandra devata; (6) recite the four enumeration verses listing the twelve names with Vidyat construction; (7) recite the twelve namaha mantras (Om Shri Ramaya Namah etc) with offerings of flowers — one flower per name; (8) recite the phalashruti; (9) close with Rama Aarti and Hanuman Chalisa. The entire upasana takes only 4-5 minutes daily. (Sources: classical Rama upasana paddhati; Valmiki Ramayana tradition.)"
-        },
-        {
-            "question": "What is the meaning of Ravanari and Rana-karkasha — the eleventh and twelfth names?",
-            "answer": "The eleventh and twelfth names form the heroic-warrior conclusion of the Dwadash Nama Stotra: (11) Ravanari (रावणारि) means literally enemy (ari) of Ravana — Rama as the cosmic destroyer of the ten-headed demon king who had subjugated the three worlds, abducted Sita, and oppressed the rishis; the name invokes Rama as the defender of dharma against ahankara (cosmic ego) personified by Ravana; (12) Rana-karkasha (रणकर्कश) means the fierce / hard / unyielding one in battle (rana = battle, karkasha = harsh, rough, unyielding) — Rama as the warrior who is gentle and merciful in peace but absolutely terrifying and unrelenting on the battlefield, embodying the principle that true dharma must sometimes wield the bow without hesitation. Together these names balance the gentle Rama-bhakta image with the cosmic dharma-protector image. (Sources: Valmiki Ramayana Yuddha Kanda; classical Rama tradition.)"
-        },
-        {
-            "question": "When is the Rama Dwadash Nama Stotram most auspicious to recite?",
-            "answer": "The Rama Dwadasha Nama Stotram is most powerful when recited: (1) every morning and evening (pratah sayam) as the phalashruti specifically prescribes — yah pathet pratar-utthaya sarvasiddhih prajayate; (2) every Tuesday (Mangalvar) and Thursday (Guruvar — sacred to Rama and Hanuman); (3) during the Ramayana Masa Parayana (the nine-day or one-month Valmiki Ramayana recitation); (4) Ram Navami (Chaitra Shukla Navami — Rama's appearance day, the supreme Rama festival); (5) Vivah Panchami (Margashirsha Shukla Panchami — Rama-Sita marriage day at Janakpur); (6) Dussehra / Vijayadashami (Ashvin Shukla Dashami — Rama's victory over Ravana); (7) during Hanuman Jayanti and on every Saturday (Hanuman's day); (8) in personal danger or when seeking removal of poverty (daridrya-nashana) and sorrow (duhkha-nashana); (9) at the start of any auspicious work for sarva-siddhi. (Sources: Drikpanchang Rama calendar; Valmiki Ramayana tradition.)"
-        },
-        {
-            "question": "What is the phalashruti of the Rama Dwadash Nama Stotram?",
-            "answer": "The phalashruti verses declare: Dwadash-aitani namani Ramasya paramatmanah, yah pathet pratar-utthaya sarvasiddhih prajayate — Whoever rises in the morning and recites these twelve names of Rama the Paramatma attains all siddhis (accomplishments). Dwadash-aitani namani pratah sayam pathen-narah, duhkha-daridryam nasham cha sukha-sampattim apnuyat — Whoever recites these twelve names morning and evening sees the destruction of sorrow and poverty and attains happiness and prosperity. Additional phala include: protection from all enemies through Ravanari-nama; success in righteous battles through Rana-karkasha-nama; family harmony through Sita-vallabha and Kausalya-nandana names; royal favour and authority through Koshalendra-nama; the supreme phala — Ram-sayujya-mukti (liberation through merger in Rama). (Sources: Rama Dwadash Nama Stotram phalashruti.)"
-        }
-    ]
+    {
+      "question": "Why are these twelve specific names of Rama selected for daily recitation?",
+      "answer": "The twelve names of the Dwadasha Nama Stotra are not chosen arbitrarily — they encapsulate Rama's complete identity through his twelve essential roles: (1-2) Sri Rama and Ramachandra establish his name and lunar beauty; (3-4) Ramabhadra and Raghunandana establish his auspiciousness and lineage; (5-6) Raghava and Rajiva-lochana establish his ancestry and divine form; (7-8) Dasharathi and Sita-vallabha establish his role as son of Dasharatha and husband of Sita (his family identity); (9-10) Koshalendra and Kausalya-nandana establish him as king of Ayodhya-Kosala and Kausalya's beloved son (his royal-domestic identity); (11-12) Ravanari and Rana-karkasha establish him as the cosmic warrior who slays Ravana and is fierce in righteous battle (his Dharma-protector identity). Together the twelve names cover Rama as son, husband, king, warrior, divine being and supreme reality. (Sources: classical Rama upasana tradition.)"
+    },
+    {
+      "question": "What is the proper way to recite the Rama Dwadash Nama Stotram?",
+      "answer": "The traditional vidhi for the Rama Dwadasha Nama recitation: (1) bathe and wear clean clothes at sunrise (pratah-utthaya), facing east toward the rising sun; (2) place an image or yantra of Sri Rama before you with Sita on his left and Hanuman at his feet; (3) light a ghee deepak and offer tulasi leaves, yellow flowers (campaka, marigold) and a bilva or lotus; (4) take achamana and pranayama; (5) recite the viniyoga shloka establishing Valmiki rishi, Anushtup chhandas, Sri Ramachandra devata; (6) recite the four enumeration verses listing the twelve names with Vidyat construction; (7) recite the twelve namaha mantras (Om Shri Ramaya Namah etc) with offerings of flowers — one flower per name; (8) recite the phalashruti; (9) close with Rama Aarti and Hanuman Chalisa. The entire upasana takes only 4-5 minutes daily. (Sources: classical Rama upasana paddhati; Valmiki Ramayana tradition.)"
+    },
+    {
+      "question": "What is the meaning of Ravanari and Rana-karkasha — the eleventh and twelfth names?",
+      "answer": "The eleventh and twelfth names form the heroic-warrior conclusion of the Dwadash Nama Stotra: (11) Ravanari (रावणारि) means literally enemy (ari) of Ravana — Rama as the cosmic destroyer of the ten-headed demon king who had subjugated the three worlds, abducted Sita, and oppressed the rishis; the name invokes Rama as the defender of dharma against ahankara (cosmic ego) personified by Ravana; (12) Rana-karkasha (रणकर्कश) means the fierce / hard / unyielding one in battle (rana = battle, karkasha = harsh, rough, unyielding) — Rama as the warrior who is gentle and merciful in peace but absolutely terrifying and unrelenting on the battlefield, embodying the principle that true dharma must sometimes wield the bow without hesitation. Together these names balance the gentle Rama-bhakta image with the cosmic dharma-protector image. (Sources: Valmiki Ramayana Yuddha Kanda; classical Rama tradition.)"
+    },
+    {
+      "question": "When is the Rama Dwadash Nama Stotram most auspicious to recite?",
+      "answer": "The Rama Dwadasha Nama Stotram is most powerful when recited: (1) every morning and evening (pratah sayam) as the phalashruti specifically prescribes — yah pathet pratar-utthaya sarvasiddhih prajayate; (2) every Tuesday (Mangalvar) and Thursday (Guruvar — sacred to Rama and Hanuman); (3) during the Ramayana Masa Parayana (the nine-day or one-month Valmiki Ramayana recitation); (4) Ram Navami (Chaitra Shukla Navami — Rama's appearance day, the supreme Rama festival); (5) Vivah Panchami (Margashirsha Shukla Panchami — Rama-Sita marriage day at Janakpur); (6) Dussehra / Vijayadashami (Ashvin Shukla Dashami — Rama's victory over Ravana); (7) during Hanuman Jayanti and on every Saturday (Hanuman's day); (8) in personal danger or when seeking removal of poverty (daridrya-nashana) and sorrow (duhkha-nashana); (9) at the start of any auspicious work for sarva-siddhi. (Sources: Drikpanchang Rama calendar; Valmiki Ramayana tradition.)"
+    },
+    {
+      "question": "What is the phalashruti of the Rama Dwadash Nama Stotram?",
+      "answer": "The phalashruti verses declare: Dwadash-aitani namani Ramasya paramatmanah, yah pathet pratar-utthaya sarvasiddhih prajayate — Whoever rises in the morning and recites these twelve names of Rama the Paramatma attains all siddhis (accomplishments). Dwadash-aitani namani pratah sayam pathen-narah, duhkha-daridryam nasham cha sukha-sampattim apnuyat — Whoever recites these twelve names morning and evening sees the destruction of sorrow and poverty and attains happiness and prosperity. Additional phala include: protection from all enemies through Ravanari-nama; success in righteous battles through Rana-karkasha-nama; family harmony through Sita-vallabha and Kausalya-nandana names; royal favour and authority through Koshalendra-nama; the supreme phala — Ram-sayujya-mukti (liberation through merger in Rama). (Sources: Rama Dwadash Nama Stotram phalashruti.)"
+    }
+  ]
 }
