@@ -32,7 +32,9 @@ function generateStotraFAQs(stotra: Stotra, deity: Deity | undefined): FAQItem[]
       .join("; ");
     faqs.push({
       question: `What are the benefits of reciting ${stotra.titleEn}?`,
-      answer: `Reciting ${stotra.titleEn} (${stotra.title}) regularly bestows numerous spiritual and material benefits. Key benefits include: ${benefitsList}. For best results, recite with devotion and a pure heart.`,
+      // Direct, citation-ready answer (no templated filler) — answer engines
+      // lift the concrete benefit list, not boilerplate praise.
+      answer: `Key benefits of reciting ${stotra.titleEn} (${stotra.title}) include: ${benefitsList}. Recite with devotion for the fullest effect.`,
     });
   }
 

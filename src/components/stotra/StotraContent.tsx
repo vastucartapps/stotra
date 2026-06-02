@@ -135,9 +135,10 @@ export function StotraContent({ stotra, deity, companionStotras }: StotraContent
         </p>
       </div>
 
-      {/* Key Facts — TL;DR box (citable summary from existing fields). */}
+      {/* Key Facts — TL;DR box (citable summary from existing fields).
+          id="key-facts" is the target of schema speakable cssSelector. */}
       <div className="mx-6 md:mx-8 mt-6">
-        <div className="bg-cream-mid rounded-xl px-5 py-4 border border-gold/20">
+        <div id="key-facts" className="bg-cream-mid rounded-xl px-5 py-4 border border-gold/20">
           <h2 className="font-serif text-sm font-semibold text-brand uppercase tracking-wider mb-3">
             Key Facts
           </h2>
@@ -295,7 +296,7 @@ export function StotraContent({ stotra, deity, companionStotras }: StotraContent
             <h2 className="font-serif text-sm font-semibold text-brand uppercase tracking-wider mb-3">
               About {stotra.titleEn}
             </h2>
-            <div className="text-sm md:text-[15px] text-text-light leading-relaxed md:leading-[1.85] space-y-3">
+            <div id="about-summary" className="text-sm md:text-[15px] text-text-light leading-relaxed md:leading-[1.85] space-y-3">
               {stotra.description.split("\n\n").map((para, i) => (
                 <p key={i}>{para}</p>
               ))}
@@ -341,17 +342,19 @@ export function StotraContent({ stotra, deity, companionStotras }: StotraContent
             <ChevronDown className="w-4 h-4 text-text-muted" />
           )}
         </button>
-        {showTransliteration && (
-          <div className="pb-4 animate-slide-down">
-            <div className="text-base leading-[2] text-text-light italic bg-cream-mid rounded-xl p-6">
-              {stotra.transliteration.split("\n").map((line, i) => (
-                <p key={i} className={line.trim() === "" ? "h-4" : ""}>
-                  {line}
-                </p>
-              ))}
-            </div>
+        {/* Always rendered (CSS-collapsed, not unmounted) so the transliteration
+            is present in the server HTML for AI crawlers + Google to read. A
+            conditional `{showTransliteration && …}` mount would omit it from SSR
+            output entirely — losing the most citable content on the page. */}
+        <div className={showTransliteration ? "pb-4 animate-slide-down" : "hidden"}>
+          <div className="text-base leading-[2] text-text-light italic bg-cream-mid rounded-xl p-6">
+            {stotra.transliteration.split("\n").map((line, i) => (
+              <p key={i} className={line.trim() === "" ? "h-4" : ""}>
+                {line}
+              </p>
+            ))}
           </div>
-        )}
+        </div>
       </div>
 
       {/* Hindi Meaning (Collapsible) */}
@@ -369,17 +372,18 @@ export function StotraContent({ stotra, deity, companionStotras }: StotraContent
             <ChevronDown className="w-4 h-4 text-text-muted" />
           )}
         </button>
-        {showMeaning && (
-          <div className="pb-4 animate-slide-down">
-            <div className="devanagari text-base leading-[1.9] text-text-light bg-cream-mid rounded-xl p-6">
-              {stotra.hindiMeaning.split("\n").map((line, i) => (
-                <p key={i} className={line.trim() === "" ? "h-4" : ""}>
-                  {line}
-                </p>
-              ))}
-            </div>
+        {/* Always rendered (CSS-collapsed) so the Hindi meaning (अर्थ) ships in
+            the server HTML — this is the single most AI-queried field ("what
+            does X mean?") and was previously absent from SSR output. */}
+        <div className={showMeaning ? "pb-4 animate-slide-down" : "hidden"}>
+          <div className="devanagari text-base leading-[1.9] text-text-light bg-cream-mid rounded-xl p-6">
+            {stotra.hindiMeaning.split("\n").map((line, i) => (
+              <p key={i} className={line.trim() === "" ? "h-4" : ""}>
+                {line}
+              </p>
+            ))}
           </div>
-        )}
+        </div>
       </div>
 
       {/* Pada Artha (Word by Word) */}

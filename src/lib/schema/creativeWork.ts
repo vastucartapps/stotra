@@ -122,6 +122,10 @@ export function buildStotraPageGraph(
   if (stotra.wikidataUrl) workSameAs.push(stotra.wikidataUrl);
   if (workSameAs.length) workNode.sameAs = workSameAs;
 
+  // abstract — a short machine-readable summary of the work (GEO: gives AI a
+  // concise, citable description inside structured data, not just prose HTML).
+  if (stotra.seoDescription) workNode.abstract = stotra.seoDescription;
+
   const workAuthor = resolveWorkAuthor(stotra);
   if (workAuthor) workNode.author = workAuthor;
 
@@ -138,7 +142,8 @@ export function buildStotraPageGraph(
   // lives as a sibling @graph node with its own @id. Google picks it up
   // without an explicit reference on Article.
   const articleUrl = `${STOTRA_BASE}/stotra/${stotra.slug}`;
-  const articleNode = {
+  const articleBody = stotra.description || stotra.seoDescription || "";
+  const articleNode: Record<string, unknown> = {
     "@type": "Article",
     "@id": articleId,
     url: articleUrl,
@@ -155,6 +160,17 @@ export function buildStotraPageGraph(
     publisher: ORG_PUBLISHER_REF,
     datePublished: stotra.createdAt,
     dateModified: stotra.updatedAt,
+    // GEO: the unique on-page summary inside structured data + a word count,
+    // so answer engines can extract a body without parsing the full DOM.
+    articleBody,
+    wordCount: articleBody ? articleBody.split(/\s+/).filter(Boolean).length : undefined,
+    // speakable: tells voice/AI surfaces which DOM regions are the citable
+    // answer — the H1, the Key Facts table (#key-facts), and the unique
+    // About summary (#about-summary). Matches the ids set in StotraContent.
+    speakable: {
+      "@type": "SpeakableSpecification",
+      cssSelector: ["h1", "#key-facts", "#about-summary"],
+    },
   };
 
   // #breadcrumb node (standalone sibling — Article doesn't need a `breadcrumb`
