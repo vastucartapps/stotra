@@ -1,99 +1,99 @@
 {
-    "id": "684",
-    "title": "सर्वदेवता स्तोत्रम्",
-    "titleEn": "Sarva Devata Stotram",
-    "slug": "sarva-devata-stotram",
-    "devanagariText": "॥ श्री सर्वदेवता स्तोत्रम् ॥\n\nॐ ब्रह्मा मुरारिस्त्रिपुरान्तकारी\nभानुः शशी भूमिसुतो बुधश्च।\nगुरुश्च शुक्रः शनिराहुकेतवः\nसर्वे ग्रहाः शान्तिकरा भवन्तु॥ १॥\n\nब्रह्माणं शंकरं विष्णुं देवीं सूर्यं गणेश्वरम्।\nकार्तिकेयं च सर्वांस्तान् वन्दे देवान् सनातनान्॥ २॥\n\nगणेशं शारदां शम्भुं विष्णुं ब्रह्माणमेव च।\nलक्ष्मीं सरस्वतीं गौरीं कुबेरं वरुणं यमम्॥ ३॥\n\nइन्द्रमग्निं वायुदेवं सूर्यं चन्द्रं बृहस्पतिम्।\nकामदेवं हनूमन्तं सर्वान् देवान् नमाम्यहम्॥ ४॥\n\nनमः सर्वेभ्यो देवेभ्यः सर्वाभ्यश्च ऋषिभ्य उत।\nसर्वेभ्यो भूतजातेभ्यो नमस्कारं करोम्यहम्॥ ५॥\n\nदेवा दिशन्तु नः शान्तिं देवा दिशन्तु नः सुखम्।\nदेवा दिशन्तु नः पुष्टिं देवा दिशन्तु नः श्रियम्॥ ६॥\n\nॐ सर्वदेवनमस्कारः केशवं प्रतिगच्छति।\nविष्णुः सर्वदेवमयो देवो विष्णुः सर्वत्र गीयते॥ ७॥\n\nब्रह्मणे नमो विष्णवे नमो रुद्राय नमो नमः।\nइन्द्राय नमो वायवे नमो सूर्याय नमो नमः॥ ८॥\n\nचन्द्राय नमो अग्नये नमो वरुणाय नमो नमः।\nकुबेराय नमो यमाय नमः सर्वेभ्यो देवेभ्यो नमः॥ ९॥\n\nसर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः।\nसर्वे भद्राणि पश्यन्तु मा कश्चित् दुःखभाग् भवेत्॥ १०॥\n\nॐ द्यौः शान्तिरन्तरिक्षं शान्तिः पृथिवी शान्तिरापः शान्तिः।\nओषधयः शान्तिर्वनस्पतयः शान्तिर्विश्वेदेवाः शान्तिः।\nब्रह्म शान्तिः सर्वं शान्तिः शान्तिरेव शान्तिः सा मा शान्तिरेधि॥ ११॥\n\nॐ शान्तिः शान्तिः शान्तिः॥\n\n॥ इति श्री सर्वदेवता स्तोत्रम् सम्पूर्णम् ॥",
-    "transliteration": "|| Shri Sarva Devata Stotram ||\n\nOm Brahma Muraris-Tripurantakari\nBhanuh Shashi Bhumi-suto Budhash-cha |\nGurush-cha Shukrah Shani-Rahu-Ketavah\nSarve grahah shanti-kara bhavantu || 1 ||\n\nBrahmanam Shankaram Vishnum Devim Suryam Ganeshvaram |\nKartikeyam cha sarvan-stan vande Devan Sanatanan || 2 ||\n\nGanesham Sharadam Shambhum Vishnum Brahmanam-eva cha |\nLakshmim Sarasvatim Gaurim Kuberam Varunam Yamam || 3 ||\n\nIndram-Agnim Vayu-Devam Suryam Chandram Brihaspatim |\nKama-Devam Hanumantam sarvan Devan namamy-aham || 4 ||\n\nNamah sarvebhyo Devebhyah sarvabhyash-cha Rishibhya uta |\nSarvebhyo Bhuta-jatebhyo namaskaram karomy-aham || 5 ||\n\nDeva dishantu nah shantim Deva dishantu nah sukham |\nDeva dishantu nah pushtim Deva dishantu nah shriyam || 6 ||\n\nOm Sarva-deva-namaskarah Keshavam prati-gachchhati |\nVishnuh sarva-deva-mayo Devo Vishnuh sarvatra giyate || 7 ||\n\nBrahmane namo Vishnave namo Rudraya namo namah |\nIndraya namo Vayave namo Suryaya namo namah || 8 ||\n\nChandraya namo Agnaye namo Varunaya namo namah |\nKuberaya namo Yamaya namah sarvebhyo Devebhyo namah || 9 ||\n\nSarve bhavantu sukhinah sarve santu niramayah |\nSarve bhadrani pashyantu ma kashchit duhkha-bhag bhavet || 10 ||\n\nOm Dyauh shantir-antarikshm shantih Prithivi shantir-apah shantih |\nOshadhayah shantir-Vanaspatayah shantir-Vishve-Devah shantih |\nBrahma shantih sarvam shantih shantir-eva shantih sa ma shantir-edhi || 11 ||\n\nOm Shantih Shantih Shantih ||\n\n|| Iti Shri Sarva Devata Stotram Sampurnam ||",
-    "hindiMeaning": "ॐ ब्रह्मा, विष्णु, शिव, सूर्य, चन्द्र, मंगल, बुध, गुरु, शुक्र, शनि, राहु, केतु — सब ग्रह शान्तिकारक हों॥ १॥\n\nब्रह्मा, शंकर, विष्णु, देवी, सूर्य, गणेश, कार्तिकेय — सब सनातन देवताओं को वन्दन करता हूँ॥ २॥\n\nगणेश, शारदा, शम्भु, विष्णु, ब्रह्मा, लक्ष्मी, सरस्वती, गौरी, कुबेर, वरुण, यम॥ ३॥\n\nइन्द्र, अग्नि, वायुदेव, सूर्य, चन्द्र, बृहस्पति, कामदेव, हनुमान — सब देवताओं को नमन करता हूँ॥ ४॥\n\nसब देवताओं को, सब ऋषियों को, सब भूतजातों को नमस्कार करता हूँ॥ ५॥\n\nदेवता हमें शान्ति दें, सुख दें, पुष्टि दें, श्री दें॥ ६॥\n\nॐ सब देवों को किया गया नमस्कार केशव तक पहुँचता है। विष्णु सर्वदेवमय देव हैं, विष्णु सर्वत्र गाये जाते हैं॥ ७॥\n\nब्रह्मा को नमस्कार, विष्णु को नमस्कार, रुद्र को नमस्कार। इन्द्र को नमस्कार, वायु को नमस्कार, सूर्य को नमस्कार॥ ८॥\n\nचन्द्र को नमस्कार, अग्नि को नमस्कार, वरुण को नमस्कार। कुबेर को नमस्कार, यम को नमस्कार, सब देवताओं को नमस्कार॥ ९॥\n\nसब सुखी हों, सब निरोग हों, सब कल्याण देखें, किसी को दुःख न हो॥ १०॥\n\nॐ आकाश शान्ति, अन्तरिक्ष शान्ति, पृथ्वी शान्ति, जल शान्ति, औषधियाँ शान्ति, वनस्पतियाँ शान्ति, विश्वदेव शान्ति, ब्रह्म शान्ति, सर्व शान्ति — वही शान्ति मुझे प्राप्त हो॥ ११॥\n\nॐ शान्तिः शान्तिः शान्तिः॥",
-    "viniyog": null,
-    "benefits": [
-        "Invokes the blessings of all deities in a single prayer",
-        "Invokes universal peace and harmony",
-        "Classical tradition invokes this for removal of planetary afflictions (graha dosha)",
-        "Ideal for daily worship when time is limited",
-        "Invokes the blessing of comprehensive protection from all directions",
-        "Contains the sacred Shanti Mantra for universal wellbeing"
-    ],
-    "description": "Dedicated to Lord Vishnu, the Sarva Devata Stotram (सर्वदेवता स्तोत्रम्) is a devotional hymn of praise revered in Hindu tradition. Rooted in Vedic Tradition, this composition carries deep spiritual significance. Chanting this stotra with devotion is said to bestow comprehensive protection from all directions as well as contain the sacred Shanti Mantra for universal wellbeing. Additionally, it is known to invoke the blessings of all deities in a single prayer. This prayer is traditionally recited on Sunday (Ravivar), Monday (Somvar), Tuesday (Mangalvar), Wednesday (Budhvar), Thursday (Guruvar), Friday (Shukravar), and Saturday (Shanivar) and during Diwali and Navratri to invoke divine grace. The text contains 11 verses and takes around 7 minutes to recite, fitting conveniently into a daily spiritual routine. On this page, you can read the complete Sarva Devata Stotram in Devanagari Sanskrit with English transliteration, Hindi meaning (arth), and free PDF download for offline recitation.",
-    "deity": "vishnu",
-    "secondaryDeities": [
-        "shiva",
-        "brahma",
-        "ganesha",
-        "surya",
-        "lakshmi",
-        "saraswati"
-    ],
-    "days": [
-        "sunday",
-        "monday",
-        "tuesday",
-        "wednesday",
-        "thursday",
-        "friday",
-        "saturday"
-    ],
-    "festivals": [
-        "diwali",
-        "navratri"
-    ],
-    "purposes": [
-        "peace",
-        "protection",
-        "prosperity",
-        "spiritual-growth",
-        "devotion"
-    ],
-    "readingTimeMinutes": 7,
-    "seoDescription": "Read Sarva Devata Stotram in Sanskrit with Hindi meaning. A universal prayer invoking all deities for peace, protection, prosperity, and Graha Shanti.",
-    "verseCount": 11,
-    "source": "Vedic Tradition",
-    "createdAt": "2026-03-29T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
-    "isPublished": true,
-    "alsoKnownAs": [
-        "Sarva Deva Krita Stotram",
-        "Sarva Devata Krita Lakshmi Stotram",
-        "All Deities Composite Stotram",
-        "Pancha Devata Sammilita Stotram"
-    ],
-    "relatedSearches": [
-        "Sarva Devata Stotram lyrics in Sanskrit",
-        "Sarva Deva Krita Lakshmi Stotram meaning",
-        "Composite hymn all Hindu gods together",
-        "Sarva Raksha Mahastotram for protection",
-        "Trikala Sandhya all deities prayer",
-        "Sarva Devata namavali list of deity names",
-        "Sarva Devata Stotram benefits and purpose",
-        "Deva Krita Stotram tradition Puranic origin",
-        "Pancha devata anuvaka Vedic chant",
-        "Sarva Devata aaradhana mantra"
-    ],
-    "seoFaqs": [
-        {
-            "question": "What does 'Sarva Devata Stotram' refer to in the Hindu devotional corpus?",
-            "answer": "Sarva Devata literally means 'all the deities', and Sarva Devata Stotram is the umbrella term for any composite hymn that salutes the principal deities of the Hindu pantheon in a single recitation. The most widely circulated form is the Sarva Deva Krita Lakshmi Stotram, in which all the gods collectively offer praise to Goddess Lakshmi. Other texts under the same general heading include the Sarva Devata Krita Durga Stotram, the Sarva Deva Krita Vishnu Stotram and the eclectic Sarva Devata Vandana that opens many sandhya manuals. The category therefore functions like a salutation suite rather than a single fixed composition. (Sources: Drikpanchang Stotram Collection; Vaidika Vignanam.)"
-        },
-        {
-            "question": "From which Puranic context does the most famous Sarva Devata Krita Lakshmi Stotram originate?",
-            "answer": "The Sarva Deva Krita Lakshmi Stotram is preserved in the Brahma Vaivarta Purana and the Padma Purana. Its narrative frame describes the moment after the churning of the cosmic ocean when Lakshmi emerges seated on a lotus, and all the assembled devas (Indra, Surya, Chandra, Vayu, Agni, Yama, Varuna, Kubera, Brahma, Vishnu, Shiva and the Saptarshis) collectively praise her with this stotram. Each verse is attributed to a different deva. The composite authorship is precisely what gives the stotram its 'sarva devata' (all-gods) character and its reputed efficacy in conferring fortune, since every cosmic force is held to consent to the prayer. (Sources: Teluguone; Drikpanchang.)"
-        },
-        {
-            "question": "Why is a composite all-deities prayer considered especially powerful?",
-            "answer": "Hindu devotional theology holds that each devata governs a specific domain of cosmic and human life: Surya the eyes and vitality, Chandra the mind and emotions, Agni the metabolism and ritual fire, Vayu the breath, and so on. A prayer addressed to a single deity activates that single domain. A Sarva Devata Stotram, by reciting salutations to all simultaneously, is held to align every domain of life at once with the divine order, leaving no opening for affliction. Smarta tradition further reads such hymns as a practical embodiment of Advaita: every deity is a face of the same Brahman, so saluting all is a way of bowing to the single Reality through every available form. (Sources: Vedicfeed; DharmaRenaissance Blog.)"
-        },
-        {
-            "question": "When is the Sarva Devata Stotram traditionally recited?",
-            "answer": "Daily sandhya recitation as part of the morning prayer suite is the most common practice, especially in Smarta and orthodox Brahmin households. It is also recited at the opening of major poojas such as Satyanarayan Vrata, Lakshmi Puja, Navaratri navavarana, and at the consecration (prana-pratishtha) of new murtis when every deity must be invoked to witness the installation. Family pandits include it in the conclusion of grihapravesha (housewarming), upanayana (sacred-thread ceremony), and vivaha (marriage) rituals. The stotram is also commonly chanted on Amavasya and Purnima as part of the lunar-cycle observances. (Sources: Drikpanchang Stotram Collection; HinduPad.)"
-        },
-        {
-            "question": "How does Sarva Devata Stotram relate to Sarva Raksha Mahastotram?",
-            "answer": "Both are composite hymns but differ in intent. Sarva Devata Stotram is a praise-and-vandana hymn (stuti and namaskara) where the dominant mood is reverence and acknowledgement. Sarva Raksha Mahastotram, by contrast, is explicitly protective (raksha) and invokes Ganesha, Chamunda, Shiva, Hanuman, Narasimha and other fierce protector forms with the specific request to shield the reciter from disease, witchcraft, accident and untimely death. Devotees facing acute crisis often recite the Raksha Mahastotram, while those seeking general daily blessings recite the Devata Stotram. Many traditional pandits prescribe both, with Devata Stotram in the morning and Raksha Mahastotram at dusk. (Sources: Shilaavinyaas Sarva Raksha; Drikpanchang.)"
-        },
-        {
-            "question": "Are there regional variants of Sarva Devata Stotram across South and North India?",
-            "answer": "Yes. South Indian Smarta households commonly recite the Sarva Deva Krita Lakshmi Stotram in Sanskrit followed by a Tamil or Telugu Sarva Devata Vandana that includes regional deities such as Murugan, Ayyappa and Bhagavathi. Maharashtrian households integrate Vitthal, Khandoba and Tukaram-abhanga salutations into the core composite. Bengali Shakta tradition substitutes a Sarva Devata Krita Durga Stotram during Durga Puja. North Indian devotees often append the Pancha Devata Stotram (the five-deity Smarta salutation) and the Navagraha Stotra to complete the composite. The core Sanskrit verses remain stable across regions; the appended sections reflect local devotion. (Sources: Vignanam; Vedicfeed.)"
-        }
-    ]
+  "id": "684",
+  "title": "सर्वदेवता स्तोत्रम्",
+  "titleEn": "Sarva Devata Stotram",
+  "slug": "sarva-devata-stotram",
+  "devanagariText": "॥ श्री सर्वदेवता स्तोत्रम् ॥\n\nॐ ब्रह्मा मुरारिस्त्रिपुरान्तकारी\nभानुः शशी भूमिसुतो बुधश्च।\nगुरुश्च शुक्रः शनिराहुकेतवः\nसर्वे ग्रहाः शान्तिकरा भवन्तु॥ १॥\n\nब्रह्माणं शंकरं विष्णुं देवीं सूर्यं गणेश्वरम्।\nकार्तिकेयं च सर्वांस्तान् वन्दे देवान् सनातनान्॥ २॥\n\nगणेशं शारदां शम्भुं विष्णुं ब्रह्माणमेव च।\nलक्ष्मीं सरस्वतीं गौरीं कुबेरं वरुणं यमम्॥ ३॥\n\nइन्द्रमग्निं वायुदेवं सूर्यं चन्द्रं बृहस्पतिम्।\nकामदेवं हनूमन्तं सर्वान् देवान् नमाम्यहम्॥ ४॥\n\nनमः सर्वेभ्यो देवेभ्यः सर्वाभ्यश्च ऋषिभ्य उत।\nसर्वेभ्यो भूतजातेभ्यो नमस्कारं करोम्यहम्॥ ५॥\n\nदेवा दिशन्तु नः शान्तिं देवा दिशन्तु नः सुखम्।\nदेवा दिशन्तु नः पुष्टिं देवा दिशन्तु नः श्रियम्॥ ६॥\n\nॐ सर्वदेवनमस्कारः केशवं प्रतिगच्छति।\nविष्णुः सर्वदेवमयो देवो विष्णुः सर्वत्र गीयते॥ ७॥\n\nब्रह्मणे नमो विष्णवे नमो रुद्राय नमो नमः।\nइन्द्राय नमो वायवे नमो सूर्याय नमो नमः॥ ८॥\n\nचन्द्राय नमो अग्नये नमो वरुणाय नमो नमः।\nकुबेराय नमो यमाय नमः सर्वेभ्यो देवेभ्यो नमः॥ ९॥\n\nसर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः।\nसर्वे भद्राणि पश्यन्तु मा कश्चित् दुःखभाग् भवेत्॥ १०॥\n\nॐ द्यौः शान्तिरन्तरिक्षं शान्तिः पृथिवी शान्तिरापः शान्तिः।\nओषधयः शान्तिर्वनस्पतयः शान्तिर्विश्वेदेवाः शान्तिः।\nब्रह्म शान्तिः सर्वं शान्तिः शान्तिरेव शान्तिः सा मा शान्तिरेधि॥ ११॥\n\nॐ शान्तिः शान्तिः शान्तिः॥\n\n॥ इति श्री सर्वदेवता स्तोत्रम् सम्पूर्णम् ॥",
+  "transliteration": "|| Shri Sarva Devata Stotram ||\n\nOm Brahma Muraris-Tripurantakari\nBhanuh Shashi Bhumi-suto Budhash-cha |\nGurush-cha Shukrah Shani-Rahu-Ketavah\nSarve grahah shanti-kara bhavantu || 1 ||\n\nBrahmanam Shankaram Vishnum Devim Suryam Ganeshvaram |\nKartikeyam cha sarvan-stan vande Devan Sanatanan || 2 ||\n\nGanesham Sharadam Shambhum Vishnum Brahmanam-eva cha |\nLakshmim Sarasvatim Gaurim Kuberam Varunam Yamam || 3 ||\n\nIndram-Agnim Vayu-Devam Suryam Chandram Brihaspatim |\nKama-Devam Hanumantam sarvan Devan namamy-aham || 4 ||\n\nNamah sarvebhyo Devebhyah sarvabhyash-cha Rishibhya uta |\nSarvebhyo Bhuta-jatebhyo namaskaram karomy-aham || 5 ||\n\nDeva dishantu nah shantim Deva dishantu nah sukham |\nDeva dishantu nah pushtim Deva dishantu nah shriyam || 6 ||\n\nOm Sarva-deva-namaskarah Keshavam prati-gachchhati |\nVishnuh sarva-deva-mayo Devo Vishnuh sarvatra giyate || 7 ||\n\nBrahmane namo Vishnave namo Rudraya namo namah |\nIndraya namo Vayave namo Suryaya namo namah || 8 ||\n\nChandraya namo Agnaye namo Varunaya namo namah |\nKuberaya namo Yamaya namah sarvebhyo Devebhyo namah || 9 ||\n\nSarve bhavantu sukhinah sarve santu niramayah |\nSarve bhadrani pashyantu ma kashchit duhkha-bhag bhavet || 10 ||\n\nOm Dyauh shantir-antarikshm shantih Prithivi shantir-apah shantih |\nOshadhayah shantir-Vanaspatayah shantir-Vishve-Devah shantih |\nBrahma shantih sarvam shantih shantir-eva shantih sa ma shantir-edhi || 11 ||\n\nOm Shantih Shantih Shantih ||\n\n|| Iti Shri Sarva Devata Stotram Sampurnam ||",
+  "hindiMeaning": "ॐ ब्रह्मा, विष्णु, शिव, सूर्य, चन्द्र, मंगल, बुध, गुरु, शुक्र, शनि, राहु, केतु — सब ग्रह शान्तिकारक हों॥ १॥\n\nब्रह्मा, शंकर, विष्णु, देवी, सूर्य, गणेश, कार्तिकेय — सब सनातन देवताओं को वन्दन करता हूँ॥ २॥\n\nगणेश, शारदा, शम्भु, विष्णु, ब्रह्मा, लक्ष्मी, सरस्वती, गौरी, कुबेर, वरुण, यम॥ ३॥\n\nइन्द्र, अग्नि, वायुदेव, सूर्य, चन्द्र, बृहस्पति, कामदेव, हनुमान — सब देवताओं को नमन करता हूँ॥ ४॥\n\nसब देवताओं को, सब ऋषियों को, सब भूतजातों को नमस्कार करता हूँ॥ ५॥\n\nदेवता हमें शान्ति दें, सुख दें, पुष्टि दें, श्री दें॥ ६॥\n\nॐ सब देवों को किया गया नमस्कार केशव तक पहुँचता है। विष्णु सर्वदेवमय देव हैं, विष्णु सर्वत्र गाये जाते हैं॥ ७॥\n\nब्रह्मा को नमस्कार, विष्णु को नमस्कार, रुद्र को नमस्कार। इन्द्र को नमस्कार, वायु को नमस्कार, सूर्य को नमस्कार॥ ८॥\n\nचन्द्र को नमस्कार, अग्नि को नमस्कार, वरुण को नमस्कार। कुबेर को नमस्कार, यम को नमस्कार, सब देवताओं को नमस्कार॥ ९॥\n\nसब सुखी हों, सब निरोग हों, सब कल्याण देखें, किसी को दुःख न हो॥ १०॥\n\nॐ आकाश शान्ति, अन्तरिक्ष शान्ति, पृथ्वी शान्ति, जल शान्ति, औषधियाँ शान्ति, वनस्पतियाँ शान्ति, विश्वदेव शान्ति, ब्रह्म शान्ति, सर्व शान्ति — वही शान्ति मुझे प्राप्त हो॥ ११॥\n\nॐ शान्तिः शान्तिः शान्तिः॥",
+  "viniyog": null,
+  "benefits": [
+    "Invokes the blessings of all deities in a single prayer",
+    "Invokes universal peace and harmony",
+    "Classical tradition invokes this for removal of planetary afflictions (graha dosha)",
+    "Ideal for daily worship when time is limited",
+    "Invokes the blessing of comprehensive protection from all directions",
+    "Contains the sacred Shanti Mantra for universal wellbeing"
+  ],
+  "description": "When the day is full and the time for puja short, सर्वदेवता स्तोत्रम् gathers every god into a single prayer. Its eleven verses, from the Vedic tradition, salute Vishnu at the centre with Shiva, Brahma, Ganesha, Surya, Lakshmi, and Saraswati all named, so that one recitation reaches the whole pantheon. Devotees use it to call down universal peace and harmony, to soften graha dosha and other planetary afflictions, and to draw comprehensive protection from every direction; it closes on the Shanti Mantra for the wellbeing of all. Fitting for any day of the week, it suits Diwali and Navratri especially. Seven minutes covers the full eleven — a complete daily worship for those who cannot manage more.",
+  "deity": "vishnu",
+  "secondaryDeities": [
+    "shiva",
+    "brahma",
+    "ganesha",
+    "surya",
+    "lakshmi",
+    "saraswati"
+  ],
+  "days": [
+    "sunday",
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday",
+    "saturday"
+  ],
+  "festivals": [
+    "diwali",
+    "navratri"
+  ],
+  "purposes": [
+    "peace",
+    "protection",
+    "prosperity",
+    "spiritual-growth",
+    "devotion"
+  ],
+  "readingTimeMinutes": 7,
+  "seoDescription": "Read Sarva Devata Stotram in Sanskrit with Hindi meaning. A universal prayer invoking all deities for peace, protection, prosperity, and Graha Shanti.",
+  "verseCount": 11,
+  "source": "Vedic Tradition",
+  "createdAt": "2026-03-29T00:00:00Z",
+  "updatedAt": "2026-06-02T00:00:00Z",
+  "isPublished": true,
+  "alsoKnownAs": [
+    "Sarva Deva Krita Stotram",
+    "Sarva Devata Krita Lakshmi Stotram",
+    "All Deities Composite Stotram",
+    "Pancha Devata Sammilita Stotram"
+  ],
+  "relatedSearches": [
+    "Sarva Devata Stotram lyrics in Sanskrit",
+    "Sarva Deva Krita Lakshmi Stotram meaning",
+    "Composite hymn all Hindu gods together",
+    "Sarva Raksha Mahastotram for protection",
+    "Trikala Sandhya all deities prayer",
+    "Sarva Devata namavali list of deity names",
+    "Sarva Devata Stotram benefits and purpose",
+    "Deva Krita Stotram tradition Puranic origin",
+    "Pancha devata anuvaka Vedic chant",
+    "Sarva Devata aaradhana mantra"
+  ],
+  "seoFaqs": [
+    {
+      "question": "What does 'Sarva Devata Stotram' refer to in the Hindu devotional corpus?",
+      "answer": "Sarva Devata literally means 'all the deities', and Sarva Devata Stotram is the umbrella term for any composite hymn that salutes the principal deities of the Hindu pantheon in a single recitation. The most widely circulated form is the Sarva Deva Krita Lakshmi Stotram, in which all the gods collectively offer praise to Goddess Lakshmi. Other texts under the same general heading include the Sarva Devata Krita Durga Stotram, the Sarva Deva Krita Vishnu Stotram and the eclectic Sarva Devata Vandana that opens many sandhya manuals. The category therefore functions like a salutation suite rather than a single fixed composition. (Sources: Drikpanchang Stotram Collection; Vaidika Vignanam.)"
+    },
+    {
+      "question": "From which Puranic context does the most famous Sarva Devata Krita Lakshmi Stotram originate?",
+      "answer": "The Sarva Deva Krita Lakshmi Stotram is preserved in the Brahma Vaivarta Purana and the Padma Purana. Its narrative frame describes the moment after the churning of the cosmic ocean when Lakshmi emerges seated on a lotus, and all the assembled devas (Indra, Surya, Chandra, Vayu, Agni, Yama, Varuna, Kubera, Brahma, Vishnu, Shiva and the Saptarshis) collectively praise her with this stotram. Each verse is attributed to a different deva. The composite authorship is precisely what gives the stotram its 'sarva devata' (all-gods) character and its reputed efficacy in conferring fortune, since every cosmic force is held to consent to the prayer. (Sources: Teluguone; Drikpanchang.)"
+    },
+    {
+      "question": "Why is a composite all-deities prayer considered especially powerful?",
+      "answer": "Hindu devotional theology holds that each devata governs a specific domain of cosmic and human life: Surya the eyes and vitality, Chandra the mind and emotions, Agni the metabolism and ritual fire, Vayu the breath, and so on. A prayer addressed to a single deity activates that single domain. A Sarva Devata Stotram, by reciting salutations to all simultaneously, is held to align every domain of life at once with the divine order, leaving no opening for affliction. Smarta tradition further reads such hymns as a practical embodiment of Advaita: every deity is a face of the same Brahman, so saluting all is a way of bowing to the single Reality through every available form. (Sources: Vedicfeed; DharmaRenaissance Blog.)"
+    },
+    {
+      "question": "When is the Sarva Devata Stotram traditionally recited?",
+      "answer": "Daily sandhya recitation as part of the morning prayer suite is the most common practice, especially in Smarta and orthodox Brahmin households. It is also recited at the opening of major poojas such as Satyanarayan Vrata, Lakshmi Puja, Navaratri navavarana, and at the consecration (prana-pratishtha) of new murtis when every deity must be invoked to witness the installation. Family pandits include it in the conclusion of grihapravesha (housewarming), upanayana (sacred-thread ceremony), and vivaha (marriage) rituals. The stotram is also commonly chanted on Amavasya and Purnima as part of the lunar-cycle observances. (Sources: Drikpanchang Stotram Collection; HinduPad.)"
+    },
+    {
+      "question": "How does Sarva Devata Stotram relate to Sarva Raksha Mahastotram?",
+      "answer": "Both are composite hymns but differ in intent. Sarva Devata Stotram is a praise-and-vandana hymn (stuti and namaskara) where the dominant mood is reverence and acknowledgement. Sarva Raksha Mahastotram, by contrast, is explicitly protective (raksha) and invokes Ganesha, Chamunda, Shiva, Hanuman, Narasimha and other fierce protector forms with the specific request to shield the reciter from disease, witchcraft, accident and untimely death. Devotees facing acute crisis often recite the Raksha Mahastotram, while those seeking general daily blessings recite the Devata Stotram. Many traditional pandits prescribe both, with Devata Stotram in the morning and Raksha Mahastotram at dusk. (Sources: Shilaavinyaas Sarva Raksha; Drikpanchang.)"
+    },
+    {
+      "question": "Are there regional variants of Sarva Devata Stotram across South and North India?",
+      "answer": "Yes. South Indian Smarta households commonly recite the Sarva Deva Krita Lakshmi Stotram in Sanskrit followed by a Tamil or Telugu Sarva Devata Vandana that includes regional deities such as Murugan, Ayyappa and Bhagavathi. Maharashtrian households integrate Vitthal, Khandoba and Tukaram-abhanga salutations into the core composite. Bengali Shakta tradition substitutes a Sarva Devata Krita Durga Stotram during Durga Puja. North Indian devotees often append the Pancha Devata Stotram (the five-deity Smarta salutation) and the Navagraha Stotra to complete the composite. The core Sanskrit verses remain stable across regions; the appended sections reflect local devotion. (Sources: Vignanam; Vedicfeed.)"
+    }
+  ]
 }

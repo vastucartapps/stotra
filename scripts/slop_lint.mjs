@@ -9,13 +9,17 @@
  * NOT a substitute for a real detector — a fast pre-filter so templated
  * prose never ships. Exit 1 if any page exceeds thresholds.
  *
- *   node scripts/slop_lint.mjs               # lint mantra prose
+ *   node scripts/slop_lint.mjs               # lint mantra + all 930 stotra prose
  */
 import fs from "fs";
 
 const FILES = ["planets", "days", "rashis", "nakshatras"]
   .map((n) => `src/data/mantra/${n}.json`)
   .filter((f) => fs.existsSync(f));
+
+// Proper nouns that legitimately contain a banned token (cited source names,
+// place names) — masked before the banned-phrase check so they don't false-flag.
+const PROPER_NOUNS = ["vibrant gujarat"];
 
 const BANNED = [
   "delve", "tapestry", "treasure trove", "realm of", "testament to",
@@ -68,6 +72,20 @@ for (const f of FILES) {
   }
 }
 
+// All 930 stotra pages: description + benefits + seoFaqs are the human-facing
+// prose that detectors and readers see. Same gate, same thresholds.
+const STOTRA_DIR = "src/data/stotras";
+if (fs.existsSync(STOTRA_DIR)) {
+  for (const f of fs.readdirSync(STOTRA_DIR).filter((n) => n.endsWith(".json"))) {
+    const rec = JSON.parse(fs.readFileSync(`${STOTRA_DIR}/${f}`, "utf8"));
+    const texts = [];
+    if (rec.description) texts.push(rec.description);
+    for (const b of rec.benefits || []) if (typeof b === "string") texts.push(b);
+    for (const q of rec.seoFaqs || []) if (q && q.answer) texts.push(q.answer);
+    if (texts.length) proseByPage.push({ label: `stotra/${f.replace(".json", "")}`, texts });
+  }
+}
+
 // Cross-page skeleton frequency (only count the FIRST sentence of whatIs —
 // the opening is what detectors + readers see first and what templates clone)
 const openingSkel = {};
@@ -89,7 +107,8 @@ for (const [sk, pages] of Object.entries(openingSkel)) {
 let banned = 0, lowBurst = 0;
 for (const p of proseByPage) {
   const all = p.texts.join(" ");
-  const low = all.toLowerCase();
+  let low = all.toLowerCase();
+  for (const pn of PROPER_NOUNS) low = low.split(pn).join("◆"); // mask cited proper nouns
   for (const b of BANNED) if (low.includes(b)) { issues.push(`BANNED "${b}" in ${p.label}`); banned++; }
   const lens = sentences(p.texts[0] || "").map((s) => words(s).length);
   if (lens.length >= 3 && stdev(lens) < 3.5) { lowBurst++; }

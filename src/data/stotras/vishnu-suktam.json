@@ -1,95 +1,95 @@
 {
-    "id": "911",
-    "title": "विष्णु सूक्तम्",
-    "titleEn": "Vishnu Suktam",
-    "slug": "vishnu-suktam",
-    "devanagariText": "॥ श्री विष्णु सूक्तम् ॥\n\nॐ विष्णोर्नु कं वीर्याणि प्र वोचं यः पार्थिवानि विममे रजांसि।\nयो अस्कभायदुत्तरं सधस्थं विचक्रमाणस्त्रेधोरुगायः॥ १॥\n\nप्र तद्विष्णुः स्तवते वीर्येण मृगो न भीमः कुचरो गिरिष्ठाः।\nयस्योरुषु त्रिषु विक्रमणेष्वधिक्षियन्ति भुवनानि विश्वा॥ २॥\n\nप्र विष्णवे शूषमेतु मन्म गिरिक्षित उरुगायाय वृष्णे।\nय इदं दीर्घं प्रयतं सधस्थमेको विममे त्रिभिरित्पदेभिः॥ ३॥\n\nयस्य त्री पूर्णा मधुना पदान्यक्षीयमाणा स्वधया मदन्ति।\nय उ त्रिधातु पृथिवीमुत द्यामेको दाधार भुवनानि विश्वा॥ ४॥\n\nतदस्य प्रियमभि पाथो अश्यां नरो यत्र देवयवो मदन्ति।\nउरुक्रमस्य स हि बन्धुरित्था विष्णोः पदे परमे मध्व उत्सः॥ ५॥\n\nता वां वास्तून्युश्मसि गमध्यै यत्र गावो भूरिशृङ्गा अयासः।\nअत्राह तदुरुगायस्य वृष्णः परमं पदमव भाति भूरि॥ ६॥",
-    "transliteration": "|| Shri Vishnu Suktam ||\n\nOm Vishnor-nu kam viryani pra vocham yah parthivani vimame rajamsi |\nYo askabhayad-uttaram sadha-stham vichakramanah tredho-rugayah || 1 ||\n\nPra tad-Vishnuh stavate viryena mrigo na bhimah kucharo girishthah |\nYasyo-rushu trishu vikramaneshv-adhikshiyanti bhuvanani vishva || 2 ||\n\nPra Vishnavé shusham-etu manma girikshita urugayaya vrishne |\nYa idam dirgham prayatam sadha-stham eko vimame tribhir-it padebhih || 3 ||\n\nYasya tri purna madhuna padany-akshiyamana svadhaya madanti |\nYa u tridhatu prithivim-uta dyam-eko dadhara bhuvanani vishva || 4 ||\n\nTad-asya priyam-abhi patho ashyam naro yatra devayavo madanti |\nUrukramasya sa hi bandhur-ittha Vishnoh pade parame madhva utsah || 5 ||\n\nTa vam vastuny-ushmasi gamadhyai yatra gavo bhuri-shringa ayasah |\nAtraha tad-urugayasya vrishnah paramam padam-ava bhati bhuri || 6 ||",
-    "hindiMeaning": "मैं विष्णु के वीरतापूर्ण कार्यों का वर्णन करता हूँ, जिन्होंने पार्थिव लोकों को नापा। जिन्होंने उत्तम स्थान को स्थिर किया, तीन पदों में विक्रम करने वाले उरुगाय विष्णु॥ १॥\n\nविष्णु अपने पराक्रम से स्तुत्य हैं, जैसे भयंकर मृग पर्वत पर विचरण करता है। उनके तीन विशाल विक्रमों में समस्त भुवन निवास करते हैं॥ २॥\n\nपर्वत-निवासी, विशाल-गति, वृष्णि विष्णु के लिए स्तुति हो। जिन्होंने इस विस्तृत स्थान को अकेले तीन पदों से नाप लिया॥ ३॥\n\nजिनके तीन पद मधु से पूर्ण हैं, अक्षय हैं, स्वधा से आनन्दित होते हैं। जिन्होंने अकेले पृथ्वी, द्युलोक और सभी भुवनों को धारण किया॥ ४॥\n\nउनके उस प्रिय पद को मैं प्राप्त करूँ जहाँ देवभक्त जन आनन्दित होते हैं। उरुक्रम विष्णु के परम पद में मधु का स्रोत है॥ ५॥\n\nउन आपके निवास स्थानों को हम प्राप्त करना चाहते हैं जहाँ बहुशृंगी गौएँ हैं। वहाँ उरुगाय वृष्णि का परम पद अत्यधिक प्रकाशित होता है॥ ६॥",
-    "viniyog": {
-        "rishi": "दीर्घतमा औचथ्यः",
-        "chhand": "त्रिष्टुप्",
-        "devata": "विष्णु",
-        "beej": "",
-        "shakti": "",
-        "kilak": "",
-        "shloka": ""
+  "id": "911",
+  "title": "विष्णु सूक्तम्",
+  "titleEn": "Vishnu Suktam",
+  "slug": "vishnu-suktam",
+  "devanagariText": "॥ श्री विष्णु सूक्तम् ॥\n\nॐ विष्णोर्नु कं वीर्याणि प्र वोचं यः पार्थिवानि विममे रजांसि।\nयो अस्कभायदुत्तरं सधस्थं विचक्रमाणस्त्रेधोरुगायः॥ १॥\n\nप्र तद्विष्णुः स्तवते वीर्येण मृगो न भीमः कुचरो गिरिष्ठाः।\nयस्योरुषु त्रिषु विक्रमणेष्वधिक्षियन्ति भुवनानि विश्वा॥ २॥\n\nप्र विष्णवे शूषमेतु मन्म गिरिक्षित उरुगायाय वृष्णे।\nय इदं दीर्घं प्रयतं सधस्थमेको विममे त्रिभिरित्पदेभिः॥ ३॥\n\nयस्य त्री पूर्णा मधुना पदान्यक्षीयमाणा स्वधया मदन्ति।\nय उ त्रिधातु पृथिवीमुत द्यामेको दाधार भुवनानि विश्वा॥ ४॥\n\nतदस्य प्रियमभि पाथो अश्यां नरो यत्र देवयवो मदन्ति।\nउरुक्रमस्य स हि बन्धुरित्था विष्णोः पदे परमे मध्व उत्सः॥ ५॥\n\nता वां वास्तून्युश्मसि गमध्यै यत्र गावो भूरिशृङ्गा अयासः।\nअत्राह तदुरुगायस्य वृष्णः परमं पदमव भाति भूरि॥ ६॥",
+  "transliteration": "|| Shri Vishnu Suktam ||\n\nOm Vishnor-nu kam viryani pra vocham yah parthivani vimame rajamsi |\nYo askabhayad-uttaram sadha-stham vichakramanah tredho-rugayah || 1 ||\n\nPra tad-Vishnuh stavate viryena mrigo na bhimah kucharo girishthah |\nYasyo-rushu trishu vikramaneshv-adhikshiyanti bhuvanani vishva || 2 ||\n\nPra Vishnavé shusham-etu manma girikshita urugayaya vrishne |\nYa idam dirgham prayatam sadha-stham eko vimame tribhir-it padebhih || 3 ||\n\nYasya tri purna madhuna padany-akshiyamana svadhaya madanti |\nYa u tridhatu prithivim-uta dyam-eko dadhara bhuvanani vishva || 4 ||\n\nTad-asya priyam-abhi patho ashyam naro yatra devayavo madanti |\nUrukramasya sa hi bandhur-ittha Vishnoh pade parame madhva utsah || 5 ||\n\nTa vam vastuny-ushmasi gamadhyai yatra gavo bhuri-shringa ayasah |\nAtraha tad-urugayasya vrishnah paramam padam-ava bhati bhuri || 6 ||",
+  "hindiMeaning": "मैं विष्णु के वीरतापूर्ण कार्यों का वर्णन करता हूँ, जिन्होंने पार्थिव लोकों को नापा। जिन्होंने उत्तम स्थान को स्थिर किया, तीन पदों में विक्रम करने वाले उरुगाय विष्णु॥ १॥\n\nविष्णु अपने पराक्रम से स्तुत्य हैं, जैसे भयंकर मृग पर्वत पर विचरण करता है। उनके तीन विशाल विक्रमों में समस्त भुवन निवास करते हैं॥ २॥\n\nपर्वत-निवासी, विशाल-गति, वृष्णि विष्णु के लिए स्तुति हो। जिन्होंने इस विस्तृत स्थान को अकेले तीन पदों से नाप लिया॥ ३॥\n\nजिनके तीन पद मधु से पूर्ण हैं, अक्षय हैं, स्वधा से आनन्दित होते हैं। जिन्होंने अकेले पृथ्वी, द्युलोक और सभी भुवनों को धारण किया॥ ४॥\n\nउनके उस प्रिय पद को मैं प्राप्त करूँ जहाँ देवभक्त जन आनन्दित होते हैं। उरुक्रम विष्णु के परम पद में मधु का स्रोत है॥ ५॥\n\nउन आपके निवास स्थानों को हम प्राप्त करना चाहते हैं जहाँ बहुशृंगी गौएँ हैं। वहाँ उरुगाय वृष्णि का परम पद अत्यधिक प्रकाशित होता है॥ ६॥",
+  "viniyog": {
+    "rishi": "दीर्घतमा औचथ्यः",
+    "chhand": "त्रिष्टुप्",
+    "devata": "विष्णु",
+    "beej": "",
+    "shakti": "",
+    "kilak": "",
+    "shloka": ""
+  },
+  "benefits": [
+    "Ancient Rigvedic hymn glorifying Lord Vishnu's three strides (Trivikrama)",
+    "Invokes divine protection and removal of obstacles",
+    "Invokes the blessing of prosperity and sustains all worlds",
+    "Leads the devotee towards Vishnu's supreme abode",
+    "Recited during Vishnu puja and Vaishnava rituals",
+    "Traditionally associated with stability, peace, and spiritual progress"
+  ],
+  "description": "Long before the Puranas, the Rigveda already sang of Vishnu — and विष्णु सूक्तम्, set in Mandala 1, Sukta 154, is among the oldest hymns to do so. Its six verses celebrate the Trivikrama, the three vast strides by which Vishnu measured out and sustains all the worlds. From that ancient image the Suktam draws its themes: protection, the clearing of obstacles, prosperity, and the steadying of every realm the Lord upholds. Recited in Vishnu puja and Vaishnava rites, it is held to carry the devotee toward Vishnu's supreme abode while grounding life in stability and peace. Thursdays suit it, and Devuthani Ekadashi adds occasion. The six Vedic verses take roughly five minutes.",
+  "deity": "vishnu",
+  "secondaryDeities": [],
+  "days": [
+    "thursday"
+  ],
+  "festivals": [
+    "devuthani-ekadashi"
+  ],
+  "purposes": [
+    "devotion",
+    "prosperity",
+    "moksha",
+    "protection",
+    "worship"
+  ],
+  "readingTimeMinutes": 5,
+  "seoDescription": "Read Vishnu Suktam in Sanskrit with Hindi meaning and transliteration. Rigvedic hymn praising Lord Vishnu's three cosmic strides for protection and moksha.",
+  "verseCount": 6,
+  "source": "Rigveda (Mandala 1, Sukta 154)",
+  "createdAt": "2026-03-29T00:00:00Z",
+  "updatedAt": "2026-06-02T00:00:00Z",
+  "isPublished": true,
+  "alsoKnownAs": [
+    "Sri Vishnu Suktam",
+    "विष्णु सूक्तम्",
+    "Vedic Hymn to Vishnu",
+    "Trini Pada Vichakrame Vishnu Sukta",
+    "Rigveda 1.154 Vishnu Sukta",
+    "Vishnor Nu Kam Viryani Pravocham"
+  ],
+  "relatedSearches": [
+    "Vishnu Suktam lyrics in Sanskrit Tamil Telugu PDF",
+    "Vishnor nu kam viryani pravocham meaning",
+    "Trini pada vichakrame Vishnu three strides",
+    "Vishnu Sukta Rigveda Mandala 1 Sukta 154",
+    "Vishnu Suktam parayanam Ekadashi Vaikuntha",
+    "Vishnu Vamana Trivikrama three strides Vedic",
+    "Vishnu Suktam audio MP3 chant download",
+    "Vishnu Sukta vs Narayana Sukta difference",
+    "Vishnu Suktam abhishekam Thursday",
+    "Vishnu Suktam meaning verse by verse"
+  ],
+  "seoFaqs": [
+    {
+      "question": "What is the Vishnu Suktam and where does it appear in the Vedas?",
+      "answer": "The Vishnu Suktam (विष्णु सूक्तम्) is the foundational Vedic hymn to Lord Vishnu, preserved in the Rigveda — Mandala 1, Sukta 154, comprising 6 mantras (in extended liturgical compilations totalling up to 11-13 verses with related Vishnu hymns from Rigveda 1.155, 1.156 and the Taittiriya Aranyaka). The Sukta is composed by Rishi Dirghatamas Auchathya in the Trishtubh metre and is the earliest extensive Vedic praise of Vishnu as the cosmic strider — the deity who measured out the three worlds with his three strides (trini pada vichakrame). This is the original Vedic seed of the later Puranic Vamana-Trivikrama avatara and of the entire Vaishnava theology. The Vishnu Sukta is recited daily during Vishnu abhisheka in temples and as part of Pancha-Suktam parayanam. (Sources: Rigveda 1.154; Sayana Bhashya; Vaishnava paddhati.)"
     },
-    "benefits": [
-        "Ancient Rigvedic hymn glorifying Lord Vishnu's three strides (Trivikrama)",
-        "Invokes divine protection and removal of obstacles",
-        "Invokes the blessing of prosperity and sustains all worlds",
-        "Leads the devotee towards Vishnu's supreme abode",
-        "Recited during Vishnu puja and Vaishnava rituals",
-        "Traditionally associated with stability, peace, and spiritual progress"
-    ],
-    "description": "The Vishnu Suktam, known in Sanskrit as विष्णु सूक्तम्, is a Vedic hymn in praise of Lord Vishnu. Rooted in Rigveda (Mandala 1, Sukta 154), this composition carries deep spiritual significance. Regular recitation is believed to grant divine protection and removal of obstacles, recited during Vishnu puja and Vaishnava rituals, and bestow prosperity and sustains all worlds. It is especially recommended on Thursday (Guruvar) and during Devuthani Ekadashi for maximum spiritual benefit. With 6 verses and a reading time of about 5 minutes, this prayer is ideal for both daily worship and special occasions. On this page, you can read the complete Vishnu Suktam in Devanagari Sanskrit with English transliteration, Hindi meaning (arth), and free PDF download for offline recitation.",
-    "deity": "vishnu",
-    "secondaryDeities": [],
-    "days": [
-        "thursday"
-    ],
-    "festivals": [
-        "devuthani-ekadashi"
-    ],
-    "purposes": [
-        "devotion",
-        "prosperity",
-        "moksha",
-        "protection",
-        "worship"
-    ],
-    "readingTimeMinutes": 5,
-    "seoDescription": "Read Vishnu Suktam in Sanskrit with Hindi meaning and transliteration. Rigvedic hymn praising Lord Vishnu's three cosmic strides for protection and moksha.",
-    "verseCount": 6,
-    "source": "Rigveda (Mandala 1, Sukta 154)",
-    "createdAt": "2026-03-29T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
-    "isPublished": true,
-    "alsoKnownAs": [
-        "Sri Vishnu Suktam",
-        "विष्णु सूक्तम्",
-        "Vedic Hymn to Vishnu",
-        "Trini Pada Vichakrame Vishnu Sukta",
-        "Rigveda 1.154 Vishnu Sukta",
-        "Vishnor Nu Kam Viryani Pravocham"
-    ],
-    "relatedSearches": [
-        "Vishnu Suktam lyrics in Sanskrit Tamil Telugu PDF",
-        "Vishnor nu kam viryani pravocham meaning",
-        "Trini pada vichakrame Vishnu three strides",
-        "Vishnu Sukta Rigveda Mandala 1 Sukta 154",
-        "Vishnu Suktam parayanam Ekadashi Vaikuntha",
-        "Vishnu Vamana Trivikrama three strides Vedic",
-        "Vishnu Suktam audio MP3 chant download",
-        "Vishnu Sukta vs Narayana Sukta difference",
-        "Vishnu Suktam abhishekam Thursday",
-        "Vishnu Suktam meaning verse by verse"
-    ],
-    "seoFaqs": [
-        {
-            "question": "What is the Vishnu Suktam and where does it appear in the Vedas?",
-            "answer": "The Vishnu Suktam (विष्णु सूक्तम्) is the foundational Vedic hymn to Lord Vishnu, preserved in the Rigveda — Mandala 1, Sukta 154, comprising 6 mantras (in extended liturgical compilations totalling up to 11-13 verses with related Vishnu hymns from Rigveda 1.155, 1.156 and the Taittiriya Aranyaka). The Sukta is composed by Rishi Dirghatamas Auchathya in the Trishtubh metre and is the earliest extensive Vedic praise of Vishnu as the cosmic strider — the deity who measured out the three worlds with his three strides (trini pada vichakrame). This is the original Vedic seed of the later Puranic Vamana-Trivikrama avatara and of the entire Vaishnava theology. The Vishnu Sukta is recited daily during Vishnu abhisheka in temples and as part of Pancha-Suktam parayanam. (Sources: Rigveda 1.154; Sayana Bhashya; Vaishnava paddhati.)"
-        },
-        {
-            "question": "What is the meaning of Vishnor Nu Kam Viryani Pravocham?",
-            "answer": "This celebrated opening verse of the Vishnu Suktam (Rigveda 1.154.1) declares: Vishnor nu kam viryani pravocham yah parthivani vimame rajamsi, yo askabhayad uttaram sadhastham vichakramanas tredhorugayah — Now I shall proclaim the heroic deeds of Vishnu, who measured out the earthly regions, who established the upper abode, the wide-striding one who stepped out three times. The verse establishes Vishnu's primary Vedic role: the cosmic measurer (vimame) who with his three strides (tredha vichakramane) measured out the earth, the mid-region and the heavens, thereby establishing the three worlds for the dwelling of all beings. This Vedic image directly seeded the later Puranic Vamana avatara who took three steps to measure the universe and reclaim it from Bali. (Sources: Rigveda 1.154.1; Sayana Bhashya.)"
-        },
-        {
-            "question": "What are the three strides (Trini Pada Vichakrame) of Vishnu?",
-            "answer": "The three strides of Vishnu (Trini Pada Vichakrame) are the central Vedic image of the Vishnu Suktam. The classical interpretations are multiple and complementary: (1) Cosmological — Vishnu's three strides measure the three lokas (earth, mid-region antariksha, heaven dyaus), thereby creating the cosmic ordered space; (2) Solar — the three strides represent the sunrise, zenith and sunset of the solar journey, with Vishnu identified with the cosmic Sun; (3) Avataric — the three strides anticipate the Vamana avatara who takes three steps (earth, heaven, head of King Bali) to reclaim the universe; (4) Yogic — the three strides represent the three planes of consciousness (jagrat-waking, svapna-dream, sushupti-deep sleep) which Vishnu pervades; (5) Tantric — the three strides represent ida, pingala and sushumna nadis. The third stride is said to be in the highest place (paramam padam) which only the wise can see. (Sources: Rigveda 1.154; Sayana Bhashya; classical Vedanta.)"
-        },
-        {
-            "question": "When is the Vishnu Suktam traditionally recited?",
-            "answer": "The Vishnu Suktam is recited daily by Vaishnavas during the morning sandhya, during every Vishnu abhisheka in temples, on every Ekadashi (the eleventh lunar day sacred to Vishnu), Vaikuntha Ekadashi (the great Vaishnava festival in Margashirsha-Pushya), every Thursday (Guruvar — the day of Brihaspati and Vishnu), every Sunday (Ravivar — Surya and Vishnu), all Vishnu festivals (Rama Navami, Krishna Janmashtami, Narasimha Jayanti, Vamana Jayanti — especially Vamana Jayanti since the Vishnu Sukta seeds the Vamana story, Vaikuntha Chaturdashi), during Pancha-Suktam parayanam, Vishnu Sahasranama parayanam preliminaries, all major yajnas, temple kumbhabhishekam and Brahmotsavam. The classical practice is daily recitation in Brahma muhurta facing east. (Sources: Vaishnava sandhya paddhati; temple liturgy; Drikpanchang.)"
-        },
-        {
-            "question": "What is the difference between Vishnu Suktam and Narayana Suktam?",
-            "answer": "Both are Vedic hymns to Vishnu but with distinct sources, focuses and ritual roles. The Vishnu Suktam (Rigveda 1.154) is a 6-verse Rigvedic hymn focusing on Vishnu the cosmic strider — his three world-measuring strides and his establishment of the three lokas. The Narayana Suktam (Taittiriya Aranyaka 10.13, from Krishna Yajurveda) is a longer 12-verse hymn focusing on Narayana the supreme person — sahasra-shirsham (thousand-headed), the lord seated in the heart-lotus of every being. The Vishnu Sukta is more cosmological-Rigvedic; the Narayana Sukta is more theological-Yajurvedic. Both are recited together in Vishnu abhisheka — Vishnu Sukta first (cosmic Vishnu), Narayana Sukta second (personal Narayana). (Sources: Rigveda 1.154; Taittiriya Aranyaka 10.13; Vaishnava paddhati.)"
-        },
-        {
-            "question": "What benefits are attributed to Vishnu Suktam parayanam?",
-            "answer": "Tradition attributes the following benefits to regular Vishnu Suktam parayanam: divine protection (Vishnu being the cosmic preserver) and removal of obstacles, blessings of Vishnu's three strides — success in earthly endeavours (first stride), success in subtle and aspirational matters (second stride), and ultimate liberation in the highest abode paramam padam (third stride), prosperity and abundance through the cosmic strider's grace, success in property, land and territory matters (since Vishnu's strides established the three worlds — the original Vedic Vastu), protection during travel and pilgrimage, success in any expansion or territorial venture, blessings during Vishnu festivals especially Vamana Jayanti, removal of enemies and obstacles (since Vishnu's strides reclaimed the worlds from asuras), the four purusharthas, and the supreme phala — vision of paramam padam (Vishnu's supreme abode, Vaikuntha) which the Sukta itself declares as the highest goal. (Sources: Vishnu Sukta phalashruti; Vaishnava tradition.)"
-        }
-    ]
+    {
+      "question": "What is the meaning of Vishnor Nu Kam Viryani Pravocham?",
+      "answer": "This celebrated opening verse of the Vishnu Suktam (Rigveda 1.154.1) declares: Vishnor nu kam viryani pravocham yah parthivani vimame rajamsi, yo askabhayad uttaram sadhastham vichakramanas tredhorugayah — Now I shall proclaim the heroic deeds of Vishnu, who measured out the earthly regions, who established the upper abode, the wide-striding one who stepped out three times. The verse establishes Vishnu's primary Vedic role: the cosmic measurer (vimame) who with his three strides (tredha vichakramane) measured out the earth, the mid-region and the heavens, thereby establishing the three worlds for the dwelling of all beings. This Vedic image directly seeded the later Puranic Vamana avatara who took three steps to measure the universe and reclaim it from Bali. (Sources: Rigveda 1.154.1; Sayana Bhashya.)"
+    },
+    {
+      "question": "What are the three strides (Trini Pada Vichakrame) of Vishnu?",
+      "answer": "The three strides of Vishnu (Trini Pada Vichakrame) are the central Vedic image of the Vishnu Suktam. The classical interpretations are multiple and complementary: (1) Cosmological — Vishnu's three strides measure the three lokas (earth, mid-region antariksha, heaven dyaus), thereby creating the cosmic ordered space; (2) Solar — the three strides represent the sunrise, zenith and sunset of the solar journey, with Vishnu identified with the cosmic Sun; (3) Avataric — the three strides anticipate the Vamana avatara who takes three steps (earth, heaven, head of King Bali) to reclaim the universe; (4) Yogic — the three strides represent the three planes of consciousness (jagrat-waking, svapna-dream, sushupti-deep sleep) which Vishnu pervades; (5) Tantric — the three strides represent ida, pingala and sushumna nadis. The third stride is said to be in the highest place (paramam padam) which only the wise can see. (Sources: Rigveda 1.154; Sayana Bhashya; classical Vedanta.)"
+    },
+    {
+      "question": "When is the Vishnu Suktam traditionally recited?",
+      "answer": "The Vishnu Suktam is recited daily by Vaishnavas during the morning sandhya, during every Vishnu abhisheka in temples, on every Ekadashi (the eleventh lunar day sacred to Vishnu), Vaikuntha Ekadashi (the great Vaishnava festival in Margashirsha-Pushya), every Thursday (Guruvar — the day of Brihaspati and Vishnu), every Sunday (Ravivar — Surya and Vishnu), all Vishnu festivals (Rama Navami, Krishna Janmashtami, Narasimha Jayanti, Vamana Jayanti — especially Vamana Jayanti since the Vishnu Sukta seeds the Vamana story, Vaikuntha Chaturdashi), during Pancha-Suktam parayanam, Vishnu Sahasranama parayanam preliminaries, all major yajnas, temple kumbhabhishekam and Brahmotsavam. The classical practice is daily recitation in Brahma muhurta facing east. (Sources: Vaishnava sandhya paddhati; temple liturgy; Drikpanchang.)"
+    },
+    {
+      "question": "What is the difference between Vishnu Suktam and Narayana Suktam?",
+      "answer": "Both are Vedic hymns to Vishnu but with distinct sources, focuses and ritual roles. The Vishnu Suktam (Rigveda 1.154) is a 6-verse Rigvedic hymn focusing on Vishnu the cosmic strider — his three world-measuring strides and his establishment of the three lokas. The Narayana Suktam (Taittiriya Aranyaka 10.13, from Krishna Yajurveda) is a longer 12-verse hymn focusing on Narayana the supreme person — sahasra-shirsham (thousand-headed), the lord seated in the heart-lotus of every being. The Vishnu Sukta is more cosmological-Rigvedic; the Narayana Sukta is more theological-Yajurvedic. Both are recited together in Vishnu abhisheka — Vishnu Sukta first (cosmic Vishnu), Narayana Sukta second (personal Narayana). (Sources: Rigveda 1.154; Taittiriya Aranyaka 10.13; Vaishnava paddhati.)"
+    },
+    {
+      "question": "What benefits are attributed to Vishnu Suktam parayanam?",
+      "answer": "Tradition attributes the following benefits to regular Vishnu Suktam parayanam: divine protection (Vishnu being the cosmic preserver) and removal of obstacles, blessings of Vishnu's three strides — success in earthly endeavours (first stride), success in subtle and aspirational matters (second stride), and ultimate liberation in the highest abode paramam padam (third stride), prosperity and abundance through the cosmic strider's grace, success in property, land and territory matters (since Vishnu's strides established the three worlds — the original Vedic Vastu), protection during travel and pilgrimage, success in any expansion or territorial venture, blessings during Vishnu festivals especially Vamana Jayanti, removal of enemies and obstacles (since Vishnu's strides reclaimed the worlds from asuras), the four purusharthas, and the supreme phala — vision of paramam padam (Vishnu's supreme abode, Vaikuntha) which the Sukta itself declares as the highest goal. (Sources: Vishnu Sukta phalashruti; Vaishnava tradition.)"
+    }
+  ]
 }

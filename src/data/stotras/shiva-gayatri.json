@@ -1,97 +1,97 @@
 {
-    "id": "746",
-    "title": "शिव गायत्री मन्त्र",
-    "titleEn": "Shiva Gayatri Mantra",
-    "slug": "shiva-gayatri",
-    "devanagariText": "॥ श्री शिव गायत्री मन्त्रः ॥\n\n॥ ध्यानम् ॥\nध्यायेन्नित्यं महेशं रजतगिरिनिभं चारुचन्द्रावतंसं\nरत्नाकल्पोज्ज्वलाङ्गं परशुमृगवराभीतिहस्तं प्रसन्नम्।\nपद्मासीनं समन्तात् स्तुतममरगणैर्व्याघ्रकृत्तिं वसानं\nविश्वाद्यं विश्ववन्द्यं निखिलभयहरं पञ्चवक्त्रं त्रिनेत्रम्॥\n\n॥ शिव गायत्री ॥\nॐ तत्पुरुषाय विद्महे\nमहादेवाय धीमहि।\nतन्नो रुद्रः प्रचोदयात्॥\n\n॥ अपर शिव गायत्री ॥\nॐ पञ्चवक्त्राय विद्महे\nमहेश्वराय धीमहि।\nतन्नो शिवः प्रचोदयात्॥\n\n॥ त्र्यम्बक गायत्री ॥\nॐ त्रिनेत्राय विद्महे\nत्रिशूलहस्ताय धीमहि।\nतन्नो रुद्रः प्रचोदयात्॥\n\n॥ फलश्रुति ॥\nय इमं शिवगायत्रीं त्रिसन्ध्यं पठति भक्तितः।\nसर्वपापैः प्रमुच्येत शिवसायुज्यमाप्नुयात्॥\n\n॥ इति श्री शिव गायत्री मन्त्रः सम्पूर्णः ॥",
-    "transliteration": "|| Shri Shiva Gayatri Mantrah ||\n\n|| Dhyanam ||\nDhyayen-nityam Mahesham Rajatagiri-nibham Charu-chandravatamsam\nRatnakalpojjvalangam Parashu-mriga-varabhiti-hastam Prasannam.\nPadmasinam Samantat Stutam-amara-ganair-vyaghra-krittim Vasanam\nVishvadyam Vishvavandyam Nikhila-bhaya-haram Panchavaktram Trinetram.\n\n|| Shiva Gayatri ||\nOm Tatpurushaya Vidmahe\nMahadevaya Dheemahi.\nTanno Rudrah Prachodayat.\n\n|| Apara Shiva Gayatri ||\nOm Panchavaktraya Vidmahe\nMaheshvaraya Dheemahi.\nTanno Shivah Prachodayat.\n\n|| Tryambaka Gayatri ||\nOm Trinetraya Vidmahe\nTrishulahastaya Dheemahi.\nTanno Rudrah Prachodayat.\n\n|| Phalashruti ||\nYa Imam Shiva-gayatrim Trisandhyam Pathati Bhaktitah.\nSarva-papaih Pramuchyeta Shiva-sayujyam-apnuyat.\n\n|| Iti Shri Shiva Gayatri Mantrah Sampurnah ||",
-    "hindiMeaning": "ध्यान: रजतगिरि (कैलास) के समान, सुन्दर चन्द्रावतंस, रत्नालंकारों से उज्ज्वल, परशु-मृग-वर-अभय मुद्रा वाले, प्रसन्न, पद्मासन में बैठे, देवगणों से स्तुत, व्याघ्रचर्मधारी, विश्वाद्य, विश्ववन्द्य, सर्वभयहारी, पञ्चवक्त्र, त्रिनेत्र महेश का नित्य ध्यान करें।\n\nशिव गायत्री: हम तत्पुरुष (शिव) को जानते हैं, महादेव का ध्यान करते हैं। वे रुद्र हमारी बुद्धि को प्रेरित करें।\n\nअपर गायत्री: हम पञ्चवक्त्र को जानते हैं, महेश्वर का ध्यान करते हैं। वे शिव हमें प्रेरित करें।\n\nत्र्यम्बक गायत्री: हम त्रिनेत्र को जानते हैं, त्रिशूलधारी का ध्यान करते हैं। वे रुद्र हमें प्रेरित करें।\n\nजो भक्तिपूर्वक इस शिव गायत्री का त्रिसन्ध्या पाठ करता है, वह सर्वपापों से मुक्त होकर शिवसायुज्य प्राप्त करता है।",
-    "viniyog": {
-        "rishi": "वामदेव",
-        "chhand": "गायत्री",
-        "devata": "श्री शिव (रुद्र)",
-        "beej": "ॐ नमः शिवाय",
-        "shakti": "रुद्र शक्ति",
-        "kilak": "शिवसायुज्य प्राप्ति",
-        "shloka": "अस्य श्रीशिवगायत्रीमन्त्रस्य वामदेव ऋषिः। गायत्री छन्दः। श्री शिव (रुद्र) देवता। ॐ नमः शिवाय बीजम्। रुद्र शक्तिः। शिवसायुज्य प्राप्ति कीलकम्। श्रीशिवप्रीत्यर्थे जपे विनियोगः॥"
+  "id": "746",
+  "title": "शिव गायत्री मन्त्र",
+  "titleEn": "Shiva Gayatri Mantra",
+  "slug": "shiva-gayatri",
+  "devanagariText": "॥ श्री शिव गायत्री मन्त्रः ॥\n\n॥ ध्यानम् ॥\nध्यायेन्नित्यं महेशं रजतगिरिनिभं चारुचन्द्रावतंसं\nरत्नाकल्पोज्ज्वलाङ्गं परशुमृगवराभीतिहस्तं प्रसन्नम्।\nपद्मासीनं समन्तात् स्तुतममरगणैर्व्याघ्रकृत्तिं वसानं\nविश्वाद्यं विश्ववन्द्यं निखिलभयहरं पञ्चवक्त्रं त्रिनेत्रम्॥\n\n॥ शिव गायत्री ॥\nॐ तत्पुरुषाय विद्महे\nमहादेवाय धीमहि।\nतन्नो रुद्रः प्रचोदयात्॥\n\n॥ अपर शिव गायत्री ॥\nॐ पञ्चवक्त्राय विद्महे\nमहेश्वराय धीमहि।\nतन्नो शिवः प्रचोदयात्॥\n\n॥ त्र्यम्बक गायत्री ॥\nॐ त्रिनेत्राय विद्महे\nत्रिशूलहस्ताय धीमहि।\nतन्नो रुद्रः प्रचोदयात्॥\n\n॥ फलश्रुति ॥\nय इमं शिवगायत्रीं त्रिसन्ध्यं पठति भक्तितः।\nसर्वपापैः प्रमुच्येत शिवसायुज्यमाप्नुयात्॥\n\n॥ इति श्री शिव गायत्री मन्त्रः सम्पूर्णः ॥",
+  "transliteration": "|| Shri Shiva Gayatri Mantrah ||\n\n|| Dhyanam ||\nDhyayen-nityam Mahesham Rajatagiri-nibham Charu-chandravatamsam\nRatnakalpojjvalangam Parashu-mriga-varabhiti-hastam Prasannam.\nPadmasinam Samantat Stutam-amara-ganair-vyaghra-krittim Vasanam\nVishvadyam Vishvavandyam Nikhila-bhaya-haram Panchavaktram Trinetram.\n\n|| Shiva Gayatri ||\nOm Tatpurushaya Vidmahe\nMahadevaya Dheemahi.\nTanno Rudrah Prachodayat.\n\n|| Apara Shiva Gayatri ||\nOm Panchavaktraya Vidmahe\nMaheshvaraya Dheemahi.\nTanno Shivah Prachodayat.\n\n|| Tryambaka Gayatri ||\nOm Trinetraya Vidmahe\nTrishulahastaya Dheemahi.\nTanno Rudrah Prachodayat.\n\n|| Phalashruti ||\nYa Imam Shiva-gayatrim Trisandhyam Pathati Bhaktitah.\nSarva-papaih Pramuchyeta Shiva-sayujyam-apnuyat.\n\n|| Iti Shri Shiva Gayatri Mantrah Sampurnah ||",
+  "hindiMeaning": "ध्यान: रजतगिरि (कैलास) के समान, सुन्दर चन्द्रावतंस, रत्नालंकारों से उज्ज्वल, परशु-मृग-वर-अभय मुद्रा वाले, प्रसन्न, पद्मासन में बैठे, देवगणों से स्तुत, व्याघ्रचर्मधारी, विश्वाद्य, विश्ववन्द्य, सर्वभयहारी, पञ्चवक्त्र, त्रिनेत्र महेश का नित्य ध्यान करें।\n\nशिव गायत्री: हम तत्पुरुष (शिव) को जानते हैं, महादेव का ध्यान करते हैं। वे रुद्र हमारी बुद्धि को प्रेरित करें।\n\nअपर गायत्री: हम पञ्चवक्त्र को जानते हैं, महेश्वर का ध्यान करते हैं। वे शिव हमें प्रेरित करें।\n\nत्र्यम्बक गायत्री: हम त्रिनेत्र को जानते हैं, त्रिशूलधारी का ध्यान करते हैं। वे रुद्र हमें प्रेरित करें।\n\nजो भक्तिपूर्वक इस शिव गायत्री का त्रिसन्ध्या पाठ करता है, वह सर्वपापों से मुक्त होकर शिवसायुज्य प्राप्त करता है।",
+  "viniyog": {
+    "rishi": "वामदेव",
+    "chhand": "गायत्री",
+    "devata": "श्री शिव (रुद्र)",
+    "beej": "ॐ नमः शिवाय",
+    "shakti": "रुद्र शक्ति",
+    "kilak": "शिवसायुज्य प्राप्ति",
+    "shloka": "अस्य श्रीशिवगायत्रीमन्त्रस्य वामदेव ऋषिः। गायत्री छन्दः। श्री शिव (रुद्र) देवता। ॐ नमः शिवाय बीजम्। रुद्र शक्तिः। शिवसायुज्य प्राप्ति कीलकम्। श्रीशिवप्रीत्यर्थे जपे विनियोगः॥"
+  },
+  "benefits": [
+    "The Tatpurushaya Vidmahe mantra connects to the highest Shiva tattva",
+    "Three variations cover Rudra, Shiva, and Tryambaka aspects",
+    "Traditionally recited for removal of all sins when chanted at three sandhya times",
+    "Invokes union with shiva (shiva sayujya)",
+    "Powerful for meditation and spiritual advancement",
+    "Ideal for Mondays, Maha Shivaratri, and Shravan month"
+  ],
+  "description": "Tatpurushaya vidmahe, mahadevaya dhimahi — the opening line reaches toward the highest Shiva tattva, and from it this collection draws its power. The शिव गायत्री मन्त्र holds three variations, addressing Shiva as Rudra, as Shiva, and as Tryambaka the three-eyed, rooted in the Yajur Veda and the Shvetashvatara Upanishad. Chanted at the three sandhya junctions of dawn, noon, and dusk, it is said to wash away every sin, and the goal it points to is the highest: shiva sayujya, union with Shiva himself. Steady recitation suits meditation and spiritual advancement. Its five mantras take about 4 minutes. Monday is its day, with Maha Shivaratri and the Shravan month as the seasons for deeper japa.",
+  "deity": "shiva",
+  "secondaryDeities": [],
+  "days": [
+    "monday"
+  ],
+  "festivals": [
+    "maha-shivaratri",
+    "shravan"
+  ],
+  "purposes": [
+    "devotion",
+    "meditation",
+    "moksha",
+    "peace",
+    "spiritual-growth",
+    "japa"
+  ],
+  "readingTimeMinutes": 4,
+  "seoDescription": "Read Shiva Gayatri Mantra — Tatpurushaya Vidmahe — with dhyanam in Sanskrit and Hindi meaning. Three forms of Shiva Gayatri for spiritual growth.",
+  "verseCount": 5,
+  "source": "Yajur Veda / Shvetashvatara Upanishad",
+  "createdAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-06-02T00:00:00Z",
+  "isPublished": true,
+  "alsoKnownAs": [
+    "Sri Shiva Gayatri Mantra",
+    "Tatpurushaya Vidmahe Shiva Mantra",
+    "शिव गायत्री मन्त्र",
+    "Pancha Vaktra Maheshvara Gayatri",
+    "Tryambaka Gayatri Mantra",
+    "Pashupati Shiva Gayatri"
+  ],
+  "relatedSearches": [
+    "Shiva Gayatri mantra in Sanskrit with meaning PDF",
+    "Tatpurushaya Vidmahe Mahadevaya Dheemahi pronunciation",
+    "Shiva Gayatri 108 times Monday Pradosh chanting",
+    "Maha Shivaratri puja vidhi Shiva Gayatri recitation",
+    "Pancha Brahma Gayatris five faces of Shiva",
+    "Tryambaka Gayatri vs Maha Mrityunjaya mantra",
+    "Sandhya vandana with Shiva Gayatri three times daily",
+    "Shvetashvatara Upanishad Shiva mantras",
+    "Shiva Gayatri benefits for spiritual growth moksha",
+    "Yajur Veda Shaiva Gayatri mantra collection"
+  ],
+  "seoFaqs": [
+    {
+      "question": "What is the Shiva Gayatri Mantra and where is it preserved in the Vedas?",
+      "answer": "The Shiva Gayatri Mantra is a Vedic meditation mantra dedicated to Lord Shiva, structured in the classical Gayatri tripadi form (Vidmahe — Dheemahi — Prachodayat). The most widely recited form is Om Tatpurushaya Vidmahe Mahadevaya Dheemahi, Tanno Rudrah Prachodayat — preserved in the Krishna Yajur Veda's Maha Narayana Upanishad (the tenth prashna of the Taittiriya Aranyaka, verse 47). Two closely related variants — the Apara Shiva Gayatri (Panchavaktraya Vidmahe Maheshvaraya Dheemahi Tanno Shivah Prachodayat, invoking the five-faced Sadashiva) and the Tryambaka Gayatri (Trinetraya Vidmahe Trishula-hastaya Dheemahi Tanno Rudrah Prachodayat) — are also widely chanted. The Shvetashvatara Upanishad provides additional Shaiva mantra material. (Sources: Maha Narayana Upanishad; Taittiriya Aranyaka 10.47; Shvetashvatara Upanishad.)"
     },
-    "benefits": [
-        "The Tatpurushaya Vidmahe mantra connects to the highest Shiva tattva",
-        "Three variations cover Rudra, Shiva, and Tryambaka aspects",
-        "Traditionally recited for removal of all sins when chanted at three sandhya times",
-        "Invokes union with shiva (shiva sayujya)",
-        "Powerful for meditation and spiritual advancement",
-        "Ideal for Mondays, Maha Shivaratri, and Shravan month"
-    ],
-    "description": "Shiva Gayatri Mantra — शिव गायत्री मन्त्र — is a powerful Vedic meditation mantra offered to Lord Shiva. Rooted in Yajur Veda / Shvetashvatara Upanishad, this composition carries deep spiritual significance. Regular recitation is believed to grant union with Shiva (Shiva Sayujya), destroy all sins when chanted at three Sandhya times. This sacred text is ideally recited on Monday (Somvar) and during Maha Shivaratri and Shravan month for enhanced blessings. The text contains 5 verses and takes around 4 minutes to recite, fitting conveniently into a daily spiritual routine. On this page, you can read the complete Shiva Gayatri Mantra in Devanagari Sanskrit with English transliteration, Hindi meaning (arth), and free PDF download for offline recitation.",
-    "deity": "shiva",
-    "secondaryDeities": [],
-    "days": [
-        "monday"
-    ],
-    "festivals": [
-        "maha-shivaratri",
-        "shravan"
-    ],
-    "purposes": [
-        "devotion",
-        "meditation",
-        "moksha",
-        "peace",
-        "spiritual-growth",
-        "japa"
-    ],
-    "readingTimeMinutes": 4,
-    "seoDescription": "Read Shiva Gayatri Mantra — Tatpurushaya Vidmahe — with dhyanam in Sanskrit and Hindi meaning. Three forms of Shiva Gayatri for spiritual growth.",
-    "verseCount": 5,
-    "source": "Yajur Veda / Shvetashvatara Upanishad",
-    "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
-    "isPublished": true,
-    "alsoKnownAs": [
-        "Sri Shiva Gayatri Mantra",
-        "Tatpurushaya Vidmahe Shiva Mantra",
-        "शिव गायत्री मन्त्र",
-        "Pancha Vaktra Maheshvara Gayatri",
-        "Tryambaka Gayatri Mantra",
-        "Pashupati Shiva Gayatri"
-    ],
-    "relatedSearches": [
-        "Shiva Gayatri mantra in Sanskrit with meaning PDF",
-        "Tatpurushaya Vidmahe Mahadevaya Dheemahi pronunciation",
-        "Shiva Gayatri 108 times Monday Pradosh chanting",
-        "Maha Shivaratri puja vidhi Shiva Gayatri recitation",
-        "Pancha Brahma Gayatris five faces of Shiva",
-        "Tryambaka Gayatri vs Maha Mrityunjaya mantra",
-        "Sandhya vandana with Shiva Gayatri three times daily",
-        "Shvetashvatara Upanishad Shiva mantras",
-        "Shiva Gayatri benefits for spiritual growth moksha",
-        "Yajur Veda Shaiva Gayatri mantra collection"
-    ],
-    "seoFaqs": [
-        {
-            "question": "What is the Shiva Gayatri Mantra and where is it preserved in the Vedas?",
-            "answer": "The Shiva Gayatri Mantra is a Vedic meditation mantra dedicated to Lord Shiva, structured in the classical Gayatri tripadi form (Vidmahe — Dheemahi — Prachodayat). The most widely recited form is Om Tatpurushaya Vidmahe Mahadevaya Dheemahi, Tanno Rudrah Prachodayat — preserved in the Krishna Yajur Veda's Maha Narayana Upanishad (the tenth prashna of the Taittiriya Aranyaka, verse 47). Two closely related variants — the Apara Shiva Gayatri (Panchavaktraya Vidmahe Maheshvaraya Dheemahi Tanno Shivah Prachodayat, invoking the five-faced Sadashiva) and the Tryambaka Gayatri (Trinetraya Vidmahe Trishula-hastaya Dheemahi Tanno Rudrah Prachodayat) — are also widely chanted. The Shvetashvatara Upanishad provides additional Shaiva mantra material. (Sources: Maha Narayana Upanishad; Taittiriya Aranyaka 10.47; Shvetashvatara Upanishad.)"
-        },
-        {
-            "question": "What is the meaning of the Shiva Gayatri Mantra?",
-            "answer": "Tatpurushaya Vidmahe Mahadevaya Dheemahi Tanno Rudrah Prachodayat translates as: We know (Vidmahe) the Tatpurusha (the supreme Person — the eastern face of the Pancha-mukha Sadashiva representing the cosmic Purusha); we meditate upon (Dheemahi) the Mahadeva (the Great God); may that Rudra (Tat Rudrah) inspire and direct (Prachodayat) our intellect (nah). The Apara variant invokes the Pancha-vaktra (five-faced) Maheshvara as the supreme Shiva. The Tryambaka variant invokes the three-eyed trishula-bearer. All three structures follow the original Gayatri pattern of knowing — meditating — invoking the deity's grace upon the buddhi for spiritual illumination, not material gain. (Sources: Maha Narayana Upanishad commentary; Stotra Nidhi.)"
-        },
-        {
-            "question": "What is the connection between Shiva Gayatri and the Pancha Brahma faces?",
-            "answer": "The Shiva Gayatri belongs to the broader Pancha-Brahma Upanishad tradition that names the five faces of Sadashiva — Sadyojata (west, presiding over the prithvi tattva and creation), Vamadeva (north, jala tattva and preservation), Aghora (south, agni tattva and dissolution), Tatpurusha (east, vayu tattva and concealment), and Ishana (zenith, akasha tattva and grace). Each face has its own Gayatri-style mantra in the Maha Narayana Upanishad. The Tatpurusha Gayatri (most chanted Shiva Gayatri) invokes the eastern Purusha face. Together the five Gayatris form the Pancha-Brahma mantra cycle that constitutes the foundational Shaiva Veda-mantra practice taught in the Shaiva Agamas. (Sources: Pancha-Brahma Upanishad; Shaiva Agama tradition; Hindupedia.)"
-        },
-        {
-            "question": "When should the Shiva Gayatri Mantra be chanted for maximum benefit?",
-            "answer": "Monday (Somvar) is the primary weekday for Shiva mantras. The Shiva Gayatri is especially chanted during the daily three sandhya periods (sunrise, midday, sunset — tri-sandhyam, as the phalashruti specifies), during Pradosh Kala (the twilight period of the trayodashi tithi when Shiva is said to dance the Tandava), on Maha Shivaratri (Phalguna Krishna Chaturdashi), throughout the entire month of Shravan (Sawan, July-August) when Sawan Somvar fasts are observed, on the sixteen Solah Somvar fasts, during Karkataka Sankranti Dakshinayana, and at the beginning of every Shiva puja, Rudrabhishekam, or Maha Rudra Yajna as the prathama-mantra. (Sources: Drikpanchang Shravan Somvar; Stotra Nidhi vidhi.)"
-        },
-        {
-            "question": "What benefits does the phalashruti of Shiva Gayatri promise?",
-            "answer": "The closing phalashruti declares Ya imam Shiva-gayatrim trisandhyam pathati bhaktitah, sarva-papaih pramuchyeta Shiva-sayujyam apnuyat — the devotee who recites this Shiva Gayatri with devotion at the three sandhya periods becomes liberated from all sins and attains Shiva-sayujya (union with Shiva, the highest mukti where the jiva merges into Shiva-tattva). Sayujya is the fourth of the four classical types of mukti (salokya, samipya, sarupya, sayujya) and the supreme spiritual goal in Shaiva Siddhanta. Tradition extends the benefits to buddhi-prerana, fearlessness, removal of negative karmas, protection from untimely death (when paired with Maha Mrityunjaya), and progressive identification with Shiva-tattva through sustained japa. (Sources: Maha Narayana Upanishad; Shaiva Siddhanta tradition.)"
-        },
-        {
-            "question": "How does Shiva Gayatri differ from Maha Mrityunjaya Mantra and Panchakshara?",
-            "answer": "All three are foundational Shaiva mantras serving distinct functions. Shiva Gayatri (Tatpurushaya Vidmahe) is the meditation mantra in Gayatri tripadi structure invoking Rudra's intellectual illumination; suited for sandhya-vandana and contemplative sadhana. Maha Mrityunjaya Mantra (Tryambakam yajamahe sugandhim pushtivardhanam, Urvarukam-iva bandhanan-mrityor mukshiya ma-amritat) from Rig Veda 7.59.12 is a specific apamrityu-nivarana mantra invoking Tryambaka Rudra to release the chanter from death's bondage like a ripe cucumber from its stem; chanted for healing and longevity. Panchakshara Mantra (Om Namah Shivaya) is the five-syllable seed mantra of Shiva, the most universal and accessible Shaiva mantra suited for all situations. Practitioners typically chant all three in daily Shiva sadhana. (Sources: Stotra Nidhi Shiva mantras; Yajur Veda Sri Rudram.)"
-        }
-    ]
+    {
+      "question": "What is the meaning of the Shiva Gayatri Mantra?",
+      "answer": "Tatpurushaya Vidmahe Mahadevaya Dheemahi Tanno Rudrah Prachodayat translates as: We know (Vidmahe) the Tatpurusha (the supreme Person — the eastern face of the Pancha-mukha Sadashiva representing the cosmic Purusha); we meditate upon (Dheemahi) the Mahadeva (the Great God); may that Rudra (Tat Rudrah) inspire and direct (Prachodayat) our intellect (nah). The Apara variant invokes the Pancha-vaktra (five-faced) Maheshvara as the supreme Shiva. The Tryambaka variant invokes the three-eyed trishula-bearer. All three structures follow the original Gayatri pattern of knowing — meditating — invoking the deity's grace upon the buddhi for spiritual illumination, not material gain. (Sources: Maha Narayana Upanishad commentary; Stotra Nidhi.)"
+    },
+    {
+      "question": "What is the connection between Shiva Gayatri and the Pancha Brahma faces?",
+      "answer": "The Shiva Gayatri belongs to the broader Pancha-Brahma Upanishad tradition that names the five faces of Sadashiva — Sadyojata (west, presiding over the prithvi tattva and creation), Vamadeva (north, jala tattva and preservation), Aghora (south, agni tattva and dissolution), Tatpurusha (east, vayu tattva and concealment), and Ishana (zenith, akasha tattva and grace). Each face has its own Gayatri-style mantra in the Maha Narayana Upanishad. The Tatpurusha Gayatri (most chanted Shiva Gayatri) invokes the eastern Purusha face. Together the five Gayatris form the Pancha-Brahma mantra cycle that constitutes the foundational Shaiva Veda-mantra practice taught in the Shaiva Agamas. (Sources: Pancha-Brahma Upanishad; Shaiva Agama tradition; Hindupedia.)"
+    },
+    {
+      "question": "When should the Shiva Gayatri Mantra be chanted for maximum benefit?",
+      "answer": "Monday (Somvar) is the primary weekday for Shiva mantras. The Shiva Gayatri is especially chanted during the daily three sandhya periods (sunrise, midday, sunset — tri-sandhyam, as the phalashruti specifies), during Pradosh Kala (the twilight period of the trayodashi tithi when Shiva is said to dance the Tandava), on Maha Shivaratri (Phalguna Krishna Chaturdashi), throughout the entire month of Shravan (Sawan, July-August) when Sawan Somvar fasts are observed, on the sixteen Solah Somvar fasts, during Karkataka Sankranti Dakshinayana, and at the beginning of every Shiva puja, Rudrabhishekam, or Maha Rudra Yajna as the prathama-mantra. (Sources: Drikpanchang Shravan Somvar; Stotra Nidhi vidhi.)"
+    },
+    {
+      "question": "What benefits does the phalashruti of Shiva Gayatri promise?",
+      "answer": "The closing phalashruti declares Ya imam Shiva-gayatrim trisandhyam pathati bhaktitah, sarva-papaih pramuchyeta Shiva-sayujyam apnuyat — the devotee who recites this Shiva Gayatri with devotion at the three sandhya periods becomes liberated from all sins and attains Shiva-sayujya (union with Shiva, the highest mukti where the jiva merges into Shiva-tattva). Sayujya is the fourth of the four classical types of mukti (salokya, samipya, sarupya, sayujya) and the supreme spiritual goal in Shaiva Siddhanta. Tradition extends the benefits to buddhi-prerana, fearlessness, removal of negative karmas, protection from untimely death (when paired with Maha Mrityunjaya), and progressive identification with Shiva-tattva through sustained japa. (Sources: Maha Narayana Upanishad; Shaiva Siddhanta tradition.)"
+    },
+    {
+      "question": "How does Shiva Gayatri differ from Maha Mrityunjaya Mantra and Panchakshara?",
+      "answer": "All three are foundational Shaiva mantras serving distinct functions. Shiva Gayatri (Tatpurushaya Vidmahe) is the meditation mantra in Gayatri tripadi structure invoking Rudra's intellectual illumination; suited for sandhya-vandana and contemplative sadhana. Maha Mrityunjaya Mantra (Tryambakam yajamahe sugandhim pushtivardhanam, Urvarukam-iva bandhanan-mrityor mukshiya ma-amritat) from Rig Veda 7.59.12 is a specific apamrityu-nivarana mantra invoking Tryambaka Rudra to release the chanter from death's bondage like a ripe cucumber from its stem; chanted for healing and longevity. Panchakshara Mantra (Om Namah Shivaya) is the five-syllable seed mantra of Shiva, the most universal and accessible Shaiva mantra suited for all situations. Practitioners typically chant all three in daily Shiva sadhana. (Sources: Stotra Nidhi Shiva mantras; Yajur Veda Sri Rudram.)"
+    }
+  ]
 }

@@ -1,92 +1,92 @@
 {
-    "id": "424",
-    "title": "श्री कृष्ण स्तुति",
-    "titleEn": "Krishna Stuti",
-    "slug": "krishna-stuti",
-    "devanagariText": "॥ श्री कृष्ण स्तुति ॥\n\nकृष्णाय वासुदेवाय हरये परमात्मने।\nप्रणतक्लेशनाशाय गोविन्दाय नमो नमः॥ १॥\n\nनमः पङ्कजनाभाय नमः पङ्कजमालिने।\nनमः पङ्कजनेत्राय नमस्ते पङ्कजाङ्घ्रये॥ २॥\n\nवनमाली गदी शार्ङ्गी शङ्खी चक्री च नन्दकी।\nश्रीमान् नारायणो विष्णुर्वासुदेवोऽभिरक्षतु॥ ३॥\n\nदेवकीसुतं गोविन्दं वासुदेवं जगत्पतिम्।\nदेहिमे तनयं कृष्ण त्वामहं शरणं गतः॥ ४॥\n\nनमामि यमुनातीरवनमालाविभूषितम्।\nमुरलीगानलोलं तं वन्दे श्रीनन्दनन्दनम्॥ ५॥\n\nपीताम्बरधरं देवं कुण्डलालङ्कृतप्रभम्।\nनन्दगोपकुमारं तं वन्दे गोकुलनायकम्॥ ६॥\n\nगोपीजनवल्लभं गोपालं गोवर्धनोद्धारम्।\nकालियमर्दनं कृष्णं वन्दे गोकुलरक्षकम्॥ ७॥\n\nराधाप्रियं मधुसूदनं मनोहरं\nकंसध्वंसिनं शूरसेनतनयप्रभम्।\nश्रीवत्सलाञ्छनं श्रीपतिमद्वयं\nकृष्णं वन्दे देवकीनन्दनम्॥ ८॥\n\nमथुरानाथमाद्यन्तरहितं\nमधुराधिपतिं सकलार्तिहरम्।\nद्वारकावासिनं जगदीश्वरं\nकृष्णं वन्दे शरणागतवत्सलम्॥ ९॥\n\nयशोदानन्दनं बालं गोपवेषधरं हरिम्।\nमक्खनचोरं मनोहारिणं वन्दे कृष्णं सनातनम्॥ १०॥\n\nक्षीरसागरशायिनं लक्ष्मीकान्तमनाथरक्षकम्।\nविश्वव्यापिनमीशं परात्परं कृष्णं प्रणमामि सर्वदा॥ ११॥\n\nकृष्णस्तुतिमिमां दिव्यां यः पठेत् प्रयतः शुचिः।\nसर्वपापविनिर्मुक्तो विष्णुलोकं स गच्छति॥ १२॥\n\n॥ इति श्री कृष्ण स्तुति सम्पूर्णा ॥",
-    "transliteration": "|| Shri Krishna Stuti ||\n\nKrishnaya Vasudevaya Haraye Paramatmane.\nPranata-klesha-nashaya Govindaya namo namah. || 1 ||\n\nNamah Pankaja-nabhaya namah Pankaja-maline.\nNamah Pankaja-netraya namas-te Pankaja-anghraye. || 2 ||\n\nVanamali Gadi Sharangi Shankhi Chakri cha Nandaki.\nShriman Narayano Vishnur-Vasudevo-abhirakshatu. || 3 ||\n\nDevaki-sutam Govindam Vasudevam Jagat-patim.\nDehi me tanayam Krishna tvam-aham sharanam gatah. || 4 ||\n\nNamami Yamuna-tira-vanamala-vibhushitam.\nMurali-gana-lolam tam vande Shri Nanda-nandanam. || 5 ||\n\nPitambara-dharam devam Kundala-alankrita-prabham.\nNanda-gopa-kumaram tam vande Gokula-nayakam. || 6 ||\n\nGopi-jana-vallabham Gopalam Govardhana-uddharam.\nKaliya-mardanam Krishnam vande Gokula-rakshakam. || 7 ||\n\nRadha-priyam Madhusudanam manoharam\nKamsa-dhvamsinam Shurasena-tanaya-prabham.\nShrivatsa-lanchhanam Shri-patim-advayam\nKrishnam vande Devaki-nandanam. || 8 ||\n\nMathura-natham-adyanta-rahitam\nMadhura-adhipatim sakala-arti-haram.\nDvaraka-vasinam Jagadishvaram\nKrishnam vande Sharanagata-vatsalam. || 9 ||\n\nYashoda-nandanam balam gopa-vesha-dharam Harim.\nMakkhana-choram mano-harinam vande Krishnam sanatanam. || 10 ||\n\nKshira-sagara-shayinam Lakshmi-kantam-anatha-rakshakam.\nVishva-vyapinam-isham paratparam Krishnam pranamami sarvada. || 11 ||\n\nKrishna-stutim-imam divyam yah pathet prayatah shuchih.\nSarva-papa-vinimurkto Vishnu-lokam sa gachchhati. || 12 ||\n\n|| Iti Shri Krishna Stuti Sampurna ||",
-    "hindiMeaning": "कृष्ण को, वासुदेव को, हरि को, परमात्मा को, शरणागतों के क्लेशों का नाश करने वाले गोविन्द को नमस्कार॥ १॥\n\nकमलनाभ को नमस्कार, कमलमाला धारी को नमस्कार, कमलनेत्र को नमस्कार, कमल जैसे चरणों वाले को नमस्कार॥ २॥\n\nवनमाली, गदाधारी, शार्ङ्गधारी, शंखधारी, चक्रधारी, नन्दक तलवार धारी श्रीमान नारायण विष्णु वासुदेव रक्षा करें॥ ३॥\n\nयमुना तट पर वनमाला से विभूषित, मुरली गान में लीन श्री नन्दनन्दन को मैं प्रणाम करता हूँ॥ ५॥\n\nपीताम्बर धारण करने वाले, कुण्डलों से सुशोभित, नन्द गोप के कुमार, गोकुल के नायक को मैं वन्दन करता हूँ॥ ६॥\n\nगोपीजनवल्लभ, गोपाल, गोवर्धन उठाने वाले, कालिय नाग का मर्दन करने वाले, गोकुल के रक्षक कृष्ण को मैं प्रणाम करता हूँ॥ ७॥\n\nराधा के प्रिय, मधुसूदन, मनोहर, कंसध्वंसी, श्रीवत्स लांछन धारी, अद्वय श्रीपति देवकीनन्दन कृष्ण को वन्दन करता हूँ॥ ८॥\n\nयशोदा नन्दन, बालक, गोपवेषधारी, माखनचोर, मनहरने वाले सनातन कृष्ण को वन्दन करता हूँ॥ १०॥\n\nइस दिव्य कृष्ण स्तुति को जो पवित्र होकर पढ़ता है वह सर्व पापों से मुक्त होकर विष्णुलोक जाता है॥ १२॥",
-    "viniyog": null,
-    "benefits": [
-        "Traditionally recited for removal of all sorrows and afflictions of the devotee",
-        "Invokes the blessing of the blessings of lord krishna in all forms",
-        "Classical tradition invokes this for removal of sins and purifies the soul",
-        "Invokes peace, prosperity, and happiness",
-        "Ideal for daily recitation for Krishna devotees",
-        "Leads to Vishnuloka after death"
-    ],
-    "description": "Krishna Stuti (श्री कृष्ण स्तुति) is a devotional hymn of praise dedicated to Lord Krishna. Rooted in Traditional Sanskrit Stotra, this composition carries deep spiritual significance. Chanting this stotra with devotion is said to grant peace, prosperity, and happiness as well as destroy all sorrows and afflictions of the devotee. Additionally, it is known to remove all sins and purify the soul. This prayer is traditionally recited on Wednesday (Budhvar) and Friday (Shukravar) and during Janmashtami and Holi to invoke divine grace. With 12 verses and a reading time of about 8 minutes, this prayer is ideal for both daily worship and special occasions. On this page, you can read the complete Krishna Stuti in Devanagari Sanskrit with English transliteration, Hindi meaning (arth), and free PDF download for offline recitation.",
-    "deity": "krishna",
-    "secondaryDeities": [
-        "radha"
-    ],
-    "days": [
-        "wednesday",
-        "friday"
-    ],
-    "festivals": [
-        "janmashtami",
-        "holi"
-    ],
-    "purposes": [
-        "devotion",
-        "peace",
-        "protection",
-        "spiritual-growth"
-    ],
-    "readingTimeMinutes": 8,
-    "seoDescription": "Read Krishna Stuti in Sanskrit with Hindi meaning and transliteration. Twelve verses praising Lord Krishna's divine forms and pastimes.",
-    "verseCount": 12,
-    "source": "Traditional Sanskrit Stotra",
-    "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
-    "isPublished": true,
-    "alsoKnownAs": [
-        "Shri Krishna Stuti",
-        "Krishnaya Vasudevaya Stotram",
-        "श्री कृष्ण स्तुति",
-        "Krishna Praise Hymn",
-        "Govinda Stuti"
-    ],
-    "relatedSearches": [
-        "Krishna Stuti lyrics in Sanskrit Devanagari with meaning",
-        "Krishnaya Vasudevaya Haraye Paramatmane stotra",
-        "Pankaja-nabhaya Pankaja-maline shloka",
-        "Krishna Stuti benefits daily chanting Janmashtami",
-        "Best short Krishna prayer for morning recitation",
-        "Vande Krishnam Devaki-nandanam meaning",
-        "Krishna stotra for removal of all sorrows",
-        "Krishna prayer for Vishnuloka after death",
-        "Difference between Krishna Stuti and Krishna Stotra"
-    ],
-    "seoFaqs": [
-        {
-            "question": "What is the Krishna Stuti and where does it come from?",
-            "answer": "The Krishna Stuti is a short twelve-verse Sanskrit hymn praising Lord Krishna in his many forms — Vasudeva, Govinda, Nanda-nandana, Madhusudana, Mathuranatha and Dvarakavasi. The opening verse Krishnaya Vasudevaya Haraye Paramatmane is one of the most widely recited Krishna invocations in classical tradition and appears in several stotra collections drawn from Puranic and traditional Sanskrit sources. The composition gathers Krishna's principal nama-stutis into a single recitation, making it a popular daily prayer for Vaishnava devotees and a standard inclusion in Janmashtami liturgies. (Sources: stotra-nidhi.com; sanskritdocuments.org; vedadhara.com Krishna stotras.)"
-        },
-        {
-            "question": "What is the difference between Krishna Stuti and a Krishna Stotram?",
-            "answer": "In Sanskrit, both stuti and stotra mean a hymn of praise, but stuti generally refers to a shorter, more emotional outpouring of devotion, while stotra is often a more formal composition with a fixed structure, viniyoga, dhyana and phalashruti. Many famous Krishna prayers are titled stuti — Kunti Stuti from the Bhagavata Purana, Brahma Stuti, Akrura Stuti, Arjuna Stuti — and are spoken in moments of crisis or surrender by characters in the narrative. The Krishna Stuti on this page is a compact garland-style hymn that focuses on praise and surrender rather than detailed mantra-vidhi. (Sources: classical Sanskrit stotra literature; Bhagavata Purana commentaries.)"
-        },
-        {
-            "question": "When is the best time to recite Krishna Stuti?",
-            "answer": "Krishna Stuti is traditionally recited on Wednesday and Friday, the days associated with Krishna and Vishnu, and as part of daily morning sandhya for Vaishnava households. It is especially recommended on Janmashtami midnight, on Ashtami and Ekadashi tithis of every paksha, during the month of Kartik, and on Holi when Krishna's pastimes with Radha and the gopis are remembered. The compact length of twelve verses makes it suitable for inclusion at the start of any Krishna puja, or as a closing stuti after lengthier recitations such as the Vishnu Sahasranama or Bhagavad Gita parayana. (Sources: drikpanchang.com Janmashtami; Vaishnava panchang traditions.)"
-        },
-        {
-            "question": "What benefits does the Krishna Stuti promise to its reciter?",
-            "answer": "The phalashruti at the close of the stuti — sarva-papa-vinirmukto Vishnu-lokam sa gachchhati — promises that one who recites this divine hymn with purity and devotion is freed from all sins and attains Vishnuloka (Vaikuntha) after death. Within the verses themselves, devotees seek protection from Krishna in his weapon-bearing Narayana form, the gift of a virtuous son (dehi me tanayam Krishna), removal of afflictions through the grace of Govinda, and the simple bliss of remembering Krishna's pastimes at Yamuna, Govardhana, Mathura and Dvaraka. (Sources: Puranic stotra collections; vedadhara.com.)"
-        },
-        {
-            "question": "Why does the stuti name so many different forms of Krishna?",
-            "answer": "The Krishna Stuti deliberately invokes the lila-vibhuti — the playful manifestations of Krishna across his life. The verses move geographically from Vrindavan (Yamuna-tira, Murali-gana, Nanda-nandana, Gopala, Govardhana-uddharaka, Kaliya-mardana) to Mathura (Kamsa-dhvamsi, Mathura-natha) to Dvaraka (Dvarakavasi, Jagadishvara) and finally back to the cosmic ocean (Kshira-sagara-shayi, Lakshmi-kanta). This sequence allows the devotee to meditate on Krishna both as the intimate boy of Vrindavan and as the supreme Para-Brahman, capturing the bhakti tradition's insight that the same Krishna is both the most accessible and the most transcendent reality. (Sources: traditional Krishna theology; Bhagavata Mahatmya.)"
-        },
-        {
-            "question": "Can Krishna Stuti be recited by anyone, or are there qualifications?",
-            "answer": "There are no caste, gender or age restrictions on the recitation of Krishna Stuti. The phalashruti specifies only that the reciter should be prayatah shuchih — sincere and clean in body and mind. Krishna bhakti tradition, as expounded in the Bhagavad Gita (9.32) and Bhagavata Purana, is explicitly open to all sincere devotees regardless of birth. Children are often taught the opening verse Krishnaya Vasudevaya Haraye Paramatmane as their first Krishna prayer, and the entire hymn is recited by households across India during Janmashtami without any pre-qualification. (Sources: Bhagavad Gita 9.32; classical Vaishnava acharya commentaries.)"
-        },
-        {
-            "question": "What is the significance of the Pankaja-nabhaya verse repeated in many stutis?",
-            "answer": "The verse Namah pankaja-nabhaya namah pankaja-maline namah pankaja-netraya namaste pankaja-anghraye is one of the most beloved Vishnu-Krishna invocations in Sanskrit literature. It salutes Krishna as the One whose navel bears the lotus from which Brahma was born (creator), whose chest wears a lotus garland (sustainer), whose eyes are lotus-like (the all-seeing witness), and whose feet are lotus-soft (the refuge of the surrendered). The same verse appears prominently in the Kunti Stuti of the Bhagavata Purana and in many other Vaishnava prayers, indicating its status as a foundational Krishna mantra that Vaishnava acharyas have woven into multiple stotras. (Sources: Bhagavata Purana 1.8.22; Vaishnava nitya-puja paddhati.)"
-        }
-    ]
+  "id": "424",
+  "title": "श्री कृष्ण स्तुति",
+  "titleEn": "Krishna Stuti",
+  "slug": "krishna-stuti",
+  "devanagariText": "॥ श्री कृष्ण स्तुति ॥\n\nकृष्णाय वासुदेवाय हरये परमात्मने।\nप्रणतक्लेशनाशाय गोविन्दाय नमो नमः॥ १॥\n\nनमः पङ्कजनाभाय नमः पङ्कजमालिने।\nनमः पङ्कजनेत्राय नमस्ते पङ्कजाङ्घ्रये॥ २॥\n\nवनमाली गदी शार्ङ्गी शङ्खी चक्री च नन्दकी।\nश्रीमान् नारायणो विष्णुर्वासुदेवोऽभिरक्षतु॥ ३॥\n\nदेवकीसुतं गोविन्दं वासुदेवं जगत्पतिम्।\nदेहिमे तनयं कृष्ण त्वामहं शरणं गतः॥ ४॥\n\nनमामि यमुनातीरवनमालाविभूषितम्।\nमुरलीगानलोलं तं वन्दे श्रीनन्दनन्दनम्॥ ५॥\n\nपीताम्बरधरं देवं कुण्डलालङ्कृतप्रभम्।\nनन्दगोपकुमारं तं वन्दे गोकुलनायकम्॥ ६॥\n\nगोपीजनवल्लभं गोपालं गोवर्धनोद्धारम्।\nकालियमर्दनं कृष्णं वन्दे गोकुलरक्षकम्॥ ७॥\n\nराधाप्रियं मधुसूदनं मनोहरं\nकंसध्वंसिनं शूरसेनतनयप्रभम्।\nश्रीवत्सलाञ्छनं श्रीपतिमद्वयं\nकृष्णं वन्दे देवकीनन्दनम्॥ ८॥\n\nमथुरानाथमाद्यन्तरहितं\nमधुराधिपतिं सकलार्तिहरम्।\nद्वारकावासिनं जगदीश्वरं\nकृष्णं वन्दे शरणागतवत्सलम्॥ ९॥\n\nयशोदानन्दनं बालं गोपवेषधरं हरिम्।\nमक्खनचोरं मनोहारिणं वन्दे कृष्णं सनातनम्॥ १०॥\n\nक्षीरसागरशायिनं लक्ष्मीकान्तमनाथरक्षकम्।\nविश्वव्यापिनमीशं परात्परं कृष्णं प्रणमामि सर्वदा॥ ११॥\n\nकृष्णस्तुतिमिमां दिव्यां यः पठेत् प्रयतः शुचिः।\nसर्वपापविनिर्मुक्तो विष्णुलोकं स गच्छति॥ १२॥\n\n॥ इति श्री कृष्ण स्तुति सम्पूर्णा ॥",
+  "transliteration": "|| Shri Krishna Stuti ||\n\nKrishnaya Vasudevaya Haraye Paramatmane.\nPranata-klesha-nashaya Govindaya namo namah. || 1 ||\n\nNamah Pankaja-nabhaya namah Pankaja-maline.\nNamah Pankaja-netraya namas-te Pankaja-anghraye. || 2 ||\n\nVanamali Gadi Sharangi Shankhi Chakri cha Nandaki.\nShriman Narayano Vishnur-Vasudevo-abhirakshatu. || 3 ||\n\nDevaki-sutam Govindam Vasudevam Jagat-patim.\nDehi me tanayam Krishna tvam-aham sharanam gatah. || 4 ||\n\nNamami Yamuna-tira-vanamala-vibhushitam.\nMurali-gana-lolam tam vande Shri Nanda-nandanam. || 5 ||\n\nPitambara-dharam devam Kundala-alankrita-prabham.\nNanda-gopa-kumaram tam vande Gokula-nayakam. || 6 ||\n\nGopi-jana-vallabham Gopalam Govardhana-uddharam.\nKaliya-mardanam Krishnam vande Gokula-rakshakam. || 7 ||\n\nRadha-priyam Madhusudanam manoharam\nKamsa-dhvamsinam Shurasena-tanaya-prabham.\nShrivatsa-lanchhanam Shri-patim-advayam\nKrishnam vande Devaki-nandanam. || 8 ||\n\nMathura-natham-adyanta-rahitam\nMadhura-adhipatim sakala-arti-haram.\nDvaraka-vasinam Jagadishvaram\nKrishnam vande Sharanagata-vatsalam. || 9 ||\n\nYashoda-nandanam balam gopa-vesha-dharam Harim.\nMakkhana-choram mano-harinam vande Krishnam sanatanam. || 10 ||\n\nKshira-sagara-shayinam Lakshmi-kantam-anatha-rakshakam.\nVishva-vyapinam-isham paratparam Krishnam pranamami sarvada. || 11 ||\n\nKrishna-stutim-imam divyam yah pathet prayatah shuchih.\nSarva-papa-vinimurkto Vishnu-lokam sa gachchhati. || 12 ||\n\n|| Iti Shri Krishna Stuti Sampurna ||",
+  "hindiMeaning": "कृष्ण को, वासुदेव को, हरि को, परमात्मा को, शरणागतों के क्लेशों का नाश करने वाले गोविन्द को नमस्कार॥ १॥\n\nकमलनाभ को नमस्कार, कमलमाला धारी को नमस्कार, कमलनेत्र को नमस्कार, कमल जैसे चरणों वाले को नमस्कार॥ २॥\n\nवनमाली, गदाधारी, शार्ङ्गधारी, शंखधारी, चक्रधारी, नन्दक तलवार धारी श्रीमान नारायण विष्णु वासुदेव रक्षा करें॥ ३॥\n\nयमुना तट पर वनमाला से विभूषित, मुरली गान में लीन श्री नन्दनन्दन को मैं प्रणाम करता हूँ॥ ५॥\n\nपीताम्बर धारण करने वाले, कुण्डलों से सुशोभित, नन्द गोप के कुमार, गोकुल के नायक को मैं वन्दन करता हूँ॥ ६॥\n\nगोपीजनवल्लभ, गोपाल, गोवर्धन उठाने वाले, कालिय नाग का मर्दन करने वाले, गोकुल के रक्षक कृष्ण को मैं प्रणाम करता हूँ॥ ७॥\n\nराधा के प्रिय, मधुसूदन, मनोहर, कंसध्वंसी, श्रीवत्स लांछन धारी, अद्वय श्रीपति देवकीनन्दन कृष्ण को वन्दन करता हूँ॥ ८॥\n\nयशोदा नन्दन, बालक, गोपवेषधारी, माखनचोर, मनहरने वाले सनातन कृष्ण को वन्दन करता हूँ॥ १०॥\n\nइस दिव्य कृष्ण स्तुति को जो पवित्र होकर पढ़ता है वह सर्व पापों से मुक्त होकर विष्णुलोक जाता है॥ १२॥",
+  "viniyog": null,
+  "benefits": [
+    "Traditionally recited for removal of all sorrows and afflictions of the devotee",
+    "Invokes the blessing of the blessings of lord krishna in all forms",
+    "Classical tradition invokes this for removal of sins and purifies the soul",
+    "Invokes peace, prosperity, and happiness",
+    "Ideal for daily recitation for Krishna devotees",
+    "Leads to Vishnuloka after death"
+  ],
+  "description": "A devotee's plain prayer in 12 verses, about 8 minutes, calling on Krishna in all his forms alongside Radha. श्री कृष्ण स्तुति is recited to lift sorrows and afflictions from the heart and to purify the soul of accumulated sin, leaving peace, prosperity, and quiet happiness in their place. There is no single named scripture behind it; it belongs to the broad Sanskrit stotra tradition that everyday Krishna devotees have carried forward. Daily recitation suits it well — Wednesdays and Fridays especially — and it brightens at Janmashtami and Holi. Tradition adds a final grace: the steady reciter is led, at the end, to Vishnuloka.",
+  "deity": "krishna",
+  "secondaryDeities": [
+    "radha"
+  ],
+  "days": [
+    "wednesday",
+    "friday"
+  ],
+  "festivals": [
+    "janmashtami",
+    "holi"
+  ],
+  "purposes": [
+    "devotion",
+    "peace",
+    "protection",
+    "spiritual-growth"
+  ],
+  "readingTimeMinutes": 8,
+  "seoDescription": "Read Krishna Stuti in Sanskrit with Hindi meaning and transliteration. Twelve verses praising Lord Krishna's divine forms and pastimes.",
+  "verseCount": 12,
+  "source": "Traditional Sanskrit Stotra",
+  "createdAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-06-02T00:00:00Z",
+  "isPublished": true,
+  "alsoKnownAs": [
+    "Shri Krishna Stuti",
+    "Krishnaya Vasudevaya Stotram",
+    "श्री कृष्ण स्तुति",
+    "Krishna Praise Hymn",
+    "Govinda Stuti"
+  ],
+  "relatedSearches": [
+    "Krishna Stuti lyrics in Sanskrit Devanagari with meaning",
+    "Krishnaya Vasudevaya Haraye Paramatmane stotra",
+    "Pankaja-nabhaya Pankaja-maline shloka",
+    "Krishna Stuti benefits daily chanting Janmashtami",
+    "Best short Krishna prayer for morning recitation",
+    "Vande Krishnam Devaki-nandanam meaning",
+    "Krishna stotra for removal of all sorrows",
+    "Krishna prayer for Vishnuloka after death",
+    "Difference between Krishna Stuti and Krishna Stotra"
+  ],
+  "seoFaqs": [
+    {
+      "question": "What is the Krishna Stuti and where does it come from?",
+      "answer": "The Krishna Stuti is a short twelve-verse Sanskrit hymn praising Lord Krishna in his many forms — Vasudeva, Govinda, Nanda-nandana, Madhusudana, Mathuranatha and Dvarakavasi. The opening verse Krishnaya Vasudevaya Haraye Paramatmane is one of the most widely recited Krishna invocations in classical tradition and appears in several stotra collections drawn from Puranic and traditional Sanskrit sources. The composition gathers Krishna's principal nama-stutis into a single recitation, making it a popular daily prayer for Vaishnava devotees and a standard inclusion in Janmashtami liturgies. (Sources: stotra-nidhi.com; sanskritdocuments.org; vedadhara.com Krishna stotras.)"
+    },
+    {
+      "question": "What is the difference between Krishna Stuti and a Krishna Stotram?",
+      "answer": "In Sanskrit, both stuti and stotra mean a hymn of praise, but stuti generally refers to a shorter, more emotional outpouring of devotion, while stotra is often a more formal composition with a fixed structure, viniyoga, dhyana and phalashruti. Many famous Krishna prayers are titled stuti — Kunti Stuti from the Bhagavata Purana, Brahma Stuti, Akrura Stuti, Arjuna Stuti — and are spoken in moments of crisis or surrender by characters in the narrative. The Krishna Stuti on this page is a compact garland-style hymn that focuses on praise and surrender rather than detailed mantra-vidhi. (Sources: classical Sanskrit stotra literature; Bhagavata Purana commentaries.)"
+    },
+    {
+      "question": "When is the best time to recite Krishna Stuti?",
+      "answer": "Krishna Stuti is traditionally recited on Wednesday and Friday, the days associated with Krishna and Vishnu, and as part of daily morning sandhya for Vaishnava households. It is especially recommended on Janmashtami midnight, on Ashtami and Ekadashi tithis of every paksha, during the month of Kartik, and on Holi when Krishna's pastimes with Radha and the gopis are remembered. The compact length of twelve verses makes it suitable for inclusion at the start of any Krishna puja, or as a closing stuti after lengthier recitations such as the Vishnu Sahasranama or Bhagavad Gita parayana. (Sources: drikpanchang.com Janmashtami; Vaishnava panchang traditions.)"
+    },
+    {
+      "question": "What benefits does the Krishna Stuti promise to its reciter?",
+      "answer": "The phalashruti at the close of the stuti — sarva-papa-vinirmukto Vishnu-lokam sa gachchhati — promises that one who recites this divine hymn with purity and devotion is freed from all sins and attains Vishnuloka (Vaikuntha) after death. Within the verses themselves, devotees seek protection from Krishna in his weapon-bearing Narayana form, the gift of a virtuous son (dehi me tanayam Krishna), removal of afflictions through the grace of Govinda, and the simple bliss of remembering Krishna's pastimes at Yamuna, Govardhana, Mathura and Dvaraka. (Sources: Puranic stotra collections; vedadhara.com.)"
+    },
+    {
+      "question": "Why does the stuti name so many different forms of Krishna?",
+      "answer": "The Krishna Stuti deliberately invokes the lila-vibhuti — the playful manifestations of Krishna across his life. The verses move geographically from Vrindavan (Yamuna-tira, Murali-gana, Nanda-nandana, Gopala, Govardhana-uddharaka, Kaliya-mardana) to Mathura (Kamsa-dhvamsi, Mathura-natha) to Dvaraka (Dvarakavasi, Jagadishvara) and finally back to the cosmic ocean (Kshira-sagara-shayi, Lakshmi-kanta). This sequence allows the devotee to meditate on Krishna both as the intimate boy of Vrindavan and as the supreme Para-Brahman, capturing the bhakti tradition's insight that the same Krishna is both the most accessible and the most transcendent reality. (Sources: traditional Krishna theology; Bhagavata Mahatmya.)"
+    },
+    {
+      "question": "Can Krishna Stuti be recited by anyone, or are there qualifications?",
+      "answer": "There are no caste, gender or age restrictions on the recitation of Krishna Stuti. The phalashruti specifies only that the reciter should be prayatah shuchih — sincere and clean in body and mind. Krishna bhakti tradition, as expounded in the Bhagavad Gita (9.32) and Bhagavata Purana, is explicitly open to all sincere devotees regardless of birth. Children are often taught the opening verse Krishnaya Vasudevaya Haraye Paramatmane as their first Krishna prayer, and the entire hymn is recited by households across India during Janmashtami without any pre-qualification. (Sources: Bhagavad Gita 9.32; classical Vaishnava acharya commentaries.)"
+    },
+    {
+      "question": "What is the significance of the Pankaja-nabhaya verse repeated in many stutis?",
+      "answer": "The verse Namah pankaja-nabhaya namah pankaja-maline namah pankaja-netraya namaste pankaja-anghraye is one of the most beloved Vishnu-Krishna invocations in Sanskrit literature. It salutes Krishna as the One whose navel bears the lotus from which Brahma was born (creator), whose chest wears a lotus garland (sustainer), whose eyes are lotus-like (the all-seeing witness), and whose feet are lotus-soft (the refuge of the surrendered). The same verse appears prominently in the Kunti Stuti of the Bhagavata Purana and in many other Vaishnava prayers, indicating its status as a foundational Krishna mantra that Vaishnava acharyas have woven into multiple stotras. (Sources: Bhagavata Purana 1.8.22; Vaishnava nitya-puja paddhati.)"
+    }
+  ]
 }

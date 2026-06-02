@@ -1,96 +1,96 @@
 {
-    "id": "30",
-    "title": "श्री अष्ट दिक्पालक स्तोत्रम्",
-    "titleEn": "Ashta Dikpalaka Stotram",
-    "slug": "ashta-dikpalaka-stotram",
-    "devanagariText": "॥ श्री अष्ट दिक्पालक स्तोत्रम् ॥\n\nॐ अष्टदिक्पालकेभ्यो नमः।\nसर्वदिक्‍रक्षकेभ्यो नमो नमः॥\n\nपूर्वस्यां दिशि देवेन्द्रं वज्रहस्तं शचीपतिम्।\nऐरावतगजारूढं दिक्पालं प्रणमाम्यहम्॥ १॥\n\nअग्निं दक्षिणपूर्वस्यां सप्तजिह्वं हुताशनम्।\nमेषवाहनमारूढं दिक्पालं प्रणमाम्यहम्॥ २॥\n\nदक्षिणस्यां दिशि यमं दण्डहस्तं यमुनाग्रजम्।\nमहिषवाहनारूढं दिक्पालं प्रणमाम्यहम्॥ ३॥\n\nनैर्ऋत्यां राक्षसेशानं निऋऋतिं खड्गधारिणम्।\nरक्षोगणपतिं वन्दे दिक्पालं प्रणमाम्यहम्॥ ४॥\n\nपश्चिमस्यां दिशि वरुणं पाशहस्तं जलेश्वरम्।\nमकरवाहनारूढं दिक्पालं प्रणमाम्यहम्॥ ५॥\n\nवायव्यां पवनं देवं ध्वजहस्तं बलप्रदम्।\nमृगवाहनमारूढं दिक्पालं प्रणमाम्यहम्॥ ६॥\n\nउत्तरस्यां दिशि कुबेरं गदाहस्तं धनेश्वरम्।\nनरवाहनमारूढं दिक्पालं प्रणमाम्यहम्॥ ७॥\n\nईशान्यां शूलपाणिं च ईशानं परमेश्वरम्।\nवृषभवाहनारूढं दिक्पालं प्रणमाम्यहम्॥ ८॥\n\nऊर्ध्वं ब्रह्माणमीशं च हंसवाहनमव्ययम्।\nचतुर्मुखं वेदविदं दिक्पालं प्रणमाम्यहम्॥ ९॥\n\nअधो विष्णुं महादेवं शेषनागोपरि स्थितम्।\nअनन्तशयनं धात्रीं दिक्पालं प्रणमाम्यहम्॥ १०॥\n\nइन्द्रोऽग्निर्यमो रक्षो वरुणो मारुतस्तथा।\nकुबेर ईशः सर्वे मे दिक्पालाः सन्तु शान्तिदाः॥ ११॥\n\nअष्टदिक्पालकस्तोत्रं यः पठेद् भक्तिसंयुतः।\nसर्वदिक्‍भ्यो रक्षिता स्यात् वास्तुदोषं च नश्यति॥ १२॥\n\n॥ इति श्री अष्ट दिक्पालक स्तोत्रम् सम्पूर्णम् ॥",
-    "transliteration": "|| Shri Ashta Dikpalaka Stotram ||\n\nOm Ashta-dikpalakebhyo namah |\nSarva-dik-rakshakebhyo namo namah ||\n\nPurvasyam dishi Devendram Vajra-hastam Shachi-patim |\nAiravata-gaja-arudham Dikpalam pranamamy-aham || 1 ||\n\nAgnim dakshina-purvasyam Sapta-jihvam Hutashanam |\nMesha-vahanam-arudham Dikpalam pranamamy-aham || 2 ||\n\nDakshinasyam dishi Yamam Danda-hastam Yamuna-agrajam |\nMahisha-vahana-arudham Dikpalam pranamamy-aham || 3 ||\n\nNairrittyam Rakshaseshanam Nirrritim Khadga-dharinam |\nRaksho-gana-patim vande Dikpalam pranamamy-aham || 4 ||\n\nPashchimasyam dishi Varunam Pasha-hastam Jaleshwaram |\nMakara-vahana-arudham Dikpalam pranamamy-aham || 5 ||\n\nVayavyam Pavanam Devam Dhvaja-hastam Bala-pradam |\nMriga-vahanam-arudham Dikpalam pranamamy-aham || 6 ||\n\nUttarasyam dishi Kuberam Gada-hastam Dhaneshwaram |\nNara-vahanam-arudham Dikpalam pranamamy-aham || 7 ||\n\nIshanyam Shula-panim cha Ishanam Parameshwaram |\nVrishabha-vahana-arudham Dikpalam pranamamy-aham || 8 ||\n\nUrdhvam Brahmanam-Isham cha Hamsa-vahanam-avyayam |\nChatur-mukham Veda-vidam Dikpalam pranamamy-aham || 9 ||\n\nAdho Vishnum Mahadevam Sheshanaga-upari sthitam |\nAnanta-shayanam Dhatrim Dikpalam pranamamy-aham || 10 ||\n\nIndro-Agnir-Yamo Raksho Varuno Marutas-tatha |\nKubera Ishah sarve me Dikpalah santu shanti-dah || 11 ||\n\nAshta-Dikpalaka-stotram yah pathed bhakti-samyutah |\nSarva-dikbhyo rakshita syat Vastu-dosham cha nashyati || 12 ||\n\n|| Iti Shri Ashta Dikpalaka Stotram Sampurnam ||",
-    "hindiMeaning": "पूर्व दिशा में वज्रहस्त, शचीपति, ऐरावत पर आरूढ़ इन्द्र को प्रणाम। अग्निकोण (दक्षिण-पूर्व) में सप्तजिह्व, मेषवाहन अग्नि को प्रणाम। दक्षिण में दण्डहस्त, महिषवाहन यम को प्रणाम। नैऋत्य (दक्षिण-पश्चिम) में खड्गधारी निऋऋति को प्रणाम। पश्चिम में पाशहस्त, मकरवाहन, जलेश्वर वरुण को प्रणाम। वायव्य (उत्तर-पश्चिम) में ध्वजहस्त, मृगवाहन, बलप्रद वायु को प्रणाम। उत्तर में गदाहस्त, नरवाहन, धनेश्वर कुबेर को प्रणाम। ईशान (उत्तर-पूर्व) में शूलपाणि, वृषभवाहन, परमेश्वर ईशान (शिव) को प्रणाम। ऊर्ध्व में हंसवाहन, चतुर्मुख ब्रह्मा को और अधो में शेषनाग पर शयन करने वाले विष्णु को प्रणाम। सभी दिक्पाल शान्ति प्रदान करें। इस स्तोत्र के पाठ से सभी दिशाओं से रक्षा होती है और वास्तुदोष नष्ट होता है।",
-    "viniyog": null,
-    "benefits": [
-        "Invokes protection from all eight directions simultaneously",
-        "Traditionally recited for removal of vastu dosha from homes and buildings",
-        "Invokes the blessings of all eight directional guardians",
-        "Traditionally invoked to establish a protective shield around the devotee",
-        "Essential for Vastu Shastra remedies and corrections",
-        "Invokes the blessing of peace, prosperity and security from all sides"
-    ],
-    "description": "Dedicated to Lord Vishnu, the Ashta Dikpalaka Stotram (श्री अष्ट दिक्पालक स्तोत्रम्) is a devotional hymn of praise revered in Hindu tradition. Rooted in Vastu Shastra and Matsya Purana, this composition carries deep spiritual significance. Regular recitation is believed to invoke protection from all eight directions simultaneously, bestow peace, prosperity and security from all sides, and remove Vastu dosha from homes and buildings. Recitation is particularly auspicious on Sunday (Ravivar) and Thursday (Guruvar) and during Griha Pravesh and Diwali. At 12 verses long, the recitation takes roughly 8 minutes, making it accessible for regular devotional use. On this page, you can read the complete Ashta Dikpalaka Stotram in Devanagari Sanskrit with English transliteration, Hindi meaning (arth), and free PDF download for offline recitation.",
-    "deity": "vishnu",
-    "secondaryDeities": [
-        "indra",
-        "agni",
-        "yama",
-        "varuna",
-        "vayu",
-        "kubera",
-        "shiva",
-        "brahma"
-    ],
-    "days": [
-        "sunday",
-        "thursday"
-    ],
-    "festivals": [
-        "griha-pravesh",
-        "diwali"
-    ],
-    "purposes": [
-        "vastu",
-        "protection",
-        "peace",
-        "prosperity",
-        "devotion"
-    ],
-    "readingTimeMinutes": 8,
-    "seoDescription": "Read Ashta Dikpalaka Stotram in Sanskrit with transliteration and Hindi meaning. Prayer to 8 directional deities for Vastu and protection.",
-    "verseCount": 12,
-    "source": "Vastu Shastra and Matsya Purana",
-    "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
-    "isPublished": true,
-    "alsoKnownAs": [
-        "Ashtadikpala Stotram",
-        "Dikpala Stotra",
-        "Ashta Dikpala Stuti",
-        "Eight Direction Guardians Stotram"
-    ],
-    "relatedSearches": [
-        "Ashta Dikpalaka Stotram lyrics in Sanskrit",
-        "Eight directional guardians of Hinduism with mantras",
-        "Indra Agni Yama Nirriti Varuna Vayu Kubera Ishana",
-        "Ashta Dikpalaka and Vastu Shastra connection",
-        "Dikpalaka mantra for Griha Pravesh",
-        "Ashta Dikpalaka Homa procedure and benefits",
-        "Vahanas of the eight Dikpalakas",
-        "Difference between Dikpalaka and Lokapala",
-        "Ashta Dikpalaka in temple architecture",
-        "Dikpalaka invocation in Sandhyavandanam"
-    ],
-    "seoFaqs": [
-        {
-            "question": "Who are the eight Dikpalakas and what directions do they govern?",
-            "answer": "The eight Dikpalakas are the divine guardians of the cardinal and intercardinal directions: Indra (East), Agni (South-East), Yama (South), Nirriti (South-West), Varuna (West), Vayu (North-West), Kubera (North) and Ishana (North-East). Together they are called the Asta-dik-palaka, with dik meaning direction and palaka meaning guardian. Some traditions append Brahma at the zenith and Vishnu (or Anantha) at the nadir, making a Dasa-dikpalaka set, but the standard Vastu and stotra list keeps to eight. (Sources: Wikipedia Guardians of the Directions; Templepurohit; Wisdomlib.)"
-        },
-        {
-            "question": "What is the relationship between the Dikpalakas and Vastu Shastra?",
-            "answer": "Knowledge of the Ashtadikpalakas is foundational to Vastu Shastra, the traditional Hindu science of architecture and design. Each direction inherits the qualities of its presiding deity: Indra (East) governs prosperity and authority — hence main entrances and worship rooms are auspiciously placed there; Agni (South-East) governs fire — hence the kitchen; Yama (South) is associated with restraint — hence master bedrooms; Varuna (West) with water — hence dining and reservoirs; Kubera (North) with wealth — hence safes and treasure storage; Ishana (North-East) with sanctity — hence the puja room. The Vastu Purusha Mandala formalises these placements. (Sources: Templepurohit; Exotic India Art; Vedicfolks.)"
-        },
-        {
-            "question": "What are the vahanas (mounts) and weapons of each Dikpalaka?",
-            "answer": "Indra rides the white elephant Airavata and wields the vajra (thunderbolt); Agni rides a ram and carries a flaming spear; Yama rides a buffalo and bears a danda (staff) and noose; Nirriti rides a lion or man and carries a sword; Varuna rides Makara (sea-creature) and bears the pasha (noose); Vayu rides an antelope or deer and carries a flag (dhwaja); Kubera rides a man (nara) or chariot of treasures and bears a mace and money-bag; Ishana rides Nandi-bull and bears a trishula (trident). These attributes are repeated in the dhyana shlokas of the stotram and replicated in temple sculpture across the eight outer walls of the garbhagriha. (Sources: Templepurohit; Hindu Devotional Blog; Exotic India Art.)"
-        },
-        {
-            "question": "When and why is the Ashta Dikpalaka Stotram chanted?",
-            "answer": "The stotram is recited principally at the start of any major ritual to consecrate the eight directions of the worship space — including griha pravesha (house warming), bhumi puja (ground-breaking), Vastu Shanti, Navagraha homa, marriage, upanayana and major yajnas. It is also part of the daily Sandhya-vandana sequence in some Smarta lineages, recited at sunrise, noon and sunset to acknowledge the directional protectors. Performing the eight dikpalaka homa is held to remove obstacles arising from directional doshas and to harmonise the household with cosmic order. (Sources: Vedicfolks; Sanskritdocuments; Ramana Maharshi Foundation.)"
-        },
-        {
-            "question": "Are the Dikpalakas the same as the Lokapalas?",
-            "answer": "The terms overlap substantially but differ slightly in scope. Lokapalas are 'guardians of the worlds' (loka), and the eight standard Dikpalakas are also Lokapalas in this broader sense. Some Tantric texts distinguish them by counting Lokapalas as the protectors of moral and cosmic spheres (Indra of Svarga, Yama of Pitru-loka, Varuna of the waters, Kubera of treasures), while Dikpalakas are specifically tied to spatial directions of the manifested cosmos. In daily liturgical use the two terms are interchangeable, and the same eight names appear in both lists. (Sources: Wikipedia Guardians of the Directions; Wisdomlib.)"
-        },
-        {
-            "question": "How are the Dikpalakas represented in temple architecture?",
-            "answer": "In a properly constructed Hindu temple, sculptural representations of the Ashta Dikpalakas are carved on the eight outer faces of the vimana (sanctum tower), each at the cardinal or intercardinal point they govern, riding their respective vahanas with their characteristic weapons. They also appear on the eight directional pillars of the mandapa hall and as guardian deities flanking the gopuram. Their inclusion is mandatory in Agama-compliant temples (Vaikhanasa, Pancharatra and Shaiva-Siddhanta agamas all prescribe their placement), and the consecration of the temple includes a separate Ashtadikpalaka pratishtha. (Sources: Exotic India Art; Templepurohit.)"
-        }
-    ]
+  "id": "30",
+  "title": "श्री अष्ट दिक्पालक स्तोत्रम्",
+  "titleEn": "Ashta Dikpalaka Stotram",
+  "slug": "ashta-dikpalaka-stotram",
+  "devanagariText": "॥ श्री अष्ट दिक्पालक स्तोत्रम् ॥\n\nॐ अष्टदिक्पालकेभ्यो नमः।\nसर्वदिक्‍रक्षकेभ्यो नमो नमः॥\n\nपूर्वस्यां दिशि देवेन्द्रं वज्रहस्तं शचीपतिम्।\nऐरावतगजारूढं दिक्पालं प्रणमाम्यहम्॥ १॥\n\nअग्निं दक्षिणपूर्वस्यां सप्तजिह्वं हुताशनम्।\nमेषवाहनमारूढं दिक्पालं प्रणमाम्यहम्॥ २॥\n\nदक्षिणस्यां दिशि यमं दण्डहस्तं यमुनाग्रजम्।\nमहिषवाहनारूढं दिक्पालं प्रणमाम्यहम्॥ ३॥\n\nनैर्ऋत्यां राक्षसेशानं निऋऋतिं खड्गधारिणम्।\nरक्षोगणपतिं वन्दे दिक्पालं प्रणमाम्यहम्॥ ४॥\n\nपश्चिमस्यां दिशि वरुणं पाशहस्तं जलेश्वरम्।\nमकरवाहनारूढं दिक्पालं प्रणमाम्यहम्॥ ५॥\n\nवायव्यां पवनं देवं ध्वजहस्तं बलप्रदम्।\nमृगवाहनमारूढं दिक्पालं प्रणमाम्यहम्॥ ६॥\n\nउत्तरस्यां दिशि कुबेरं गदाहस्तं धनेश्वरम्।\nनरवाहनमारूढं दिक्पालं प्रणमाम्यहम्॥ ७॥\n\nईशान्यां शूलपाणिं च ईशानं परमेश्वरम्।\nवृषभवाहनारूढं दिक्पालं प्रणमाम्यहम्॥ ८॥\n\nऊर्ध्वं ब्रह्माणमीशं च हंसवाहनमव्ययम्।\nचतुर्मुखं वेदविदं दिक्पालं प्रणमाम्यहम्॥ ९॥\n\nअधो विष्णुं महादेवं शेषनागोपरि स्थितम्।\nअनन्तशयनं धात्रीं दिक्पालं प्रणमाम्यहम्॥ १०॥\n\nइन्द्रोऽग्निर्यमो रक्षो वरुणो मारुतस्तथा।\nकुबेर ईशः सर्वे मे दिक्पालाः सन्तु शान्तिदाः॥ ११॥\n\nअष्टदिक्पालकस्तोत्रं यः पठेद् भक्तिसंयुतः।\nसर्वदिक्‍भ्यो रक्षिता स्यात् वास्तुदोषं च नश्यति॥ १२॥\n\n॥ इति श्री अष्ट दिक्पालक स्तोत्रम् सम्पूर्णम् ॥",
+  "transliteration": "|| Shri Ashta Dikpalaka Stotram ||\n\nOm Ashta-dikpalakebhyo namah |\nSarva-dik-rakshakebhyo namo namah ||\n\nPurvasyam dishi Devendram Vajra-hastam Shachi-patim |\nAiravata-gaja-arudham Dikpalam pranamamy-aham || 1 ||\n\nAgnim dakshina-purvasyam Sapta-jihvam Hutashanam |\nMesha-vahanam-arudham Dikpalam pranamamy-aham || 2 ||\n\nDakshinasyam dishi Yamam Danda-hastam Yamuna-agrajam |\nMahisha-vahana-arudham Dikpalam pranamamy-aham || 3 ||\n\nNairrittyam Rakshaseshanam Nirrritim Khadga-dharinam |\nRaksho-gana-patim vande Dikpalam pranamamy-aham || 4 ||\n\nPashchimasyam dishi Varunam Pasha-hastam Jaleshwaram |\nMakara-vahana-arudham Dikpalam pranamamy-aham || 5 ||\n\nVayavyam Pavanam Devam Dhvaja-hastam Bala-pradam |\nMriga-vahanam-arudham Dikpalam pranamamy-aham || 6 ||\n\nUttarasyam dishi Kuberam Gada-hastam Dhaneshwaram |\nNara-vahanam-arudham Dikpalam pranamamy-aham || 7 ||\n\nIshanyam Shula-panim cha Ishanam Parameshwaram |\nVrishabha-vahana-arudham Dikpalam pranamamy-aham || 8 ||\n\nUrdhvam Brahmanam-Isham cha Hamsa-vahanam-avyayam |\nChatur-mukham Veda-vidam Dikpalam pranamamy-aham || 9 ||\n\nAdho Vishnum Mahadevam Sheshanaga-upari sthitam |\nAnanta-shayanam Dhatrim Dikpalam pranamamy-aham || 10 ||\n\nIndro-Agnir-Yamo Raksho Varuno Marutas-tatha |\nKubera Ishah sarve me Dikpalah santu shanti-dah || 11 ||\n\nAshta-Dikpalaka-stotram yah pathed bhakti-samyutah |\nSarva-dikbhyo rakshita syat Vastu-dosham cha nashyati || 12 ||\n\n|| Iti Shri Ashta Dikpalaka Stotram Sampurnam ||",
+  "hindiMeaning": "पूर्व दिशा में वज्रहस्त, शचीपति, ऐरावत पर आरूढ़ इन्द्र को प्रणाम। अग्निकोण (दक्षिण-पूर्व) में सप्तजिह्व, मेषवाहन अग्नि को प्रणाम। दक्षिण में दण्डहस्त, महिषवाहन यम को प्रणाम। नैऋत्य (दक्षिण-पश्चिम) में खड्गधारी निऋऋति को प्रणाम। पश्चिम में पाशहस्त, मकरवाहन, जलेश्वर वरुण को प्रणाम। वायव्य (उत्तर-पश्चिम) में ध्वजहस्त, मृगवाहन, बलप्रद वायु को प्रणाम। उत्तर में गदाहस्त, नरवाहन, धनेश्वर कुबेर को प्रणाम। ईशान (उत्तर-पूर्व) में शूलपाणि, वृषभवाहन, परमेश्वर ईशान (शिव) को प्रणाम। ऊर्ध्व में हंसवाहन, चतुर्मुख ब्रह्मा को और अधो में शेषनाग पर शयन करने वाले विष्णु को प्रणाम। सभी दिक्पाल शान्ति प्रदान करें। इस स्तोत्र के पाठ से सभी दिशाओं से रक्षा होती है और वास्तुदोष नष्ट होता है।",
+  "viniyog": null,
+  "benefits": [
+    "Invokes protection from all eight directions simultaneously",
+    "Traditionally recited for removal of vastu dosha from homes and buildings",
+    "Invokes the blessings of all eight directional guardians",
+    "Traditionally invoked to establish a protective shield around the devotee",
+    "Essential for Vastu Shastra remedies and corrections",
+    "Invokes the blessing of peace, prosperity and security from all sides"
+  ],
+  "description": "Build a house and you inherit eight directions, each with its own guardian, and the Ashta Dikpalaka Stotram (श्री अष्ट दिक्पालक स्तोत्रम्) salutes all of them in one breath. Its twelve verses invoke Indra, Agni, Yama, Varuna, Vayu, Kubera, Ishana, and Nairrti so that protection arrives from every side at once. The text draws on Vastu Shastra and the Matsya Purana, which is why it sits at the center of vastu-dosha remedies for homes and buildings. Reciting it is held to raise a protective shield around the devotee and settle peace, prosperity, and security on the dwelling. Griha Pravesh and Diwali are favored occasions, with Sunday and Thursday the recommended weekdays. The recitation takes about eight minutes.",
+  "deity": "vishnu",
+  "secondaryDeities": [
+    "indra",
+    "agni",
+    "yama",
+    "varuna",
+    "vayu",
+    "kubera",
+    "shiva",
+    "brahma"
+  ],
+  "days": [
+    "sunday",
+    "thursday"
+  ],
+  "festivals": [
+    "griha-pravesh",
+    "diwali"
+  ],
+  "purposes": [
+    "vastu",
+    "protection",
+    "peace",
+    "prosperity",
+    "devotion"
+  ],
+  "readingTimeMinutes": 8,
+  "seoDescription": "Read Ashta Dikpalaka Stotram in Sanskrit with transliteration and Hindi meaning. Prayer to 8 directional deities for Vastu and protection.",
+  "verseCount": 12,
+  "source": "Vastu Shastra and Matsya Purana",
+  "createdAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-06-02T00:00:00Z",
+  "isPublished": true,
+  "alsoKnownAs": [
+    "Ashtadikpala Stotram",
+    "Dikpala Stotra",
+    "Ashta Dikpala Stuti",
+    "Eight Direction Guardians Stotram"
+  ],
+  "relatedSearches": [
+    "Ashta Dikpalaka Stotram lyrics in Sanskrit",
+    "Eight directional guardians of Hinduism with mantras",
+    "Indra Agni Yama Nirriti Varuna Vayu Kubera Ishana",
+    "Ashta Dikpalaka and Vastu Shastra connection",
+    "Dikpalaka mantra for Griha Pravesh",
+    "Ashta Dikpalaka Homa procedure and benefits",
+    "Vahanas of the eight Dikpalakas",
+    "Difference between Dikpalaka and Lokapala",
+    "Ashta Dikpalaka in temple architecture",
+    "Dikpalaka invocation in Sandhyavandanam"
+  ],
+  "seoFaqs": [
+    {
+      "question": "Who are the eight Dikpalakas and what directions do they govern?",
+      "answer": "The eight Dikpalakas are the divine guardians of the cardinal and intercardinal directions: Indra (East), Agni (South-East), Yama (South), Nirriti (South-West), Varuna (West), Vayu (North-West), Kubera (North) and Ishana (North-East). Together they are called the Asta-dik-palaka, with dik meaning direction and palaka meaning guardian. Some traditions append Brahma at the zenith and Vishnu (or Anantha) at the nadir, making a Dasa-dikpalaka set, but the standard Vastu and stotra list keeps to eight. (Sources: Wikipedia Guardians of the Directions; Templepurohit; Wisdomlib.)"
+    },
+    {
+      "question": "What is the relationship between the Dikpalakas and Vastu Shastra?",
+      "answer": "Knowledge of the Ashtadikpalakas is foundational to Vastu Shastra, the traditional Hindu science of architecture and design. Each direction inherits the qualities of its presiding deity: Indra (East) governs prosperity and authority — hence main entrances and worship rooms are auspiciously placed there; Agni (South-East) governs fire — hence the kitchen; Yama (South) is associated with restraint — hence master bedrooms; Varuna (West) with water — hence dining and reservoirs; Kubera (North) with wealth — hence safes and treasure storage; Ishana (North-East) with sanctity — hence the puja room. The Vastu Purusha Mandala formalises these placements. (Sources: Templepurohit; Exotic India Art; Vedicfolks.)"
+    },
+    {
+      "question": "What are the vahanas (mounts) and weapons of each Dikpalaka?",
+      "answer": "Indra rides the white elephant Airavata and wields the vajra (thunderbolt); Agni rides a ram and carries a flaming spear; Yama rides a buffalo and bears a danda (staff) and noose; Nirriti rides a lion or man and carries a sword; Varuna rides Makara (sea-creature) and bears the pasha (noose); Vayu rides an antelope or deer and carries a flag (dhwaja); Kubera rides a man (nara) or chariot of treasures and bears a mace and money-bag; Ishana rides Nandi-bull and bears a trishula (trident). These attributes are repeated in the dhyana shlokas of the stotram and replicated in temple sculpture across the eight outer walls of the garbhagriha. (Sources: Templepurohit; Hindu Devotional Blog; Exotic India Art.)"
+    },
+    {
+      "question": "When and why is the Ashta Dikpalaka Stotram chanted?",
+      "answer": "The stotram is recited principally at the start of any major ritual to consecrate the eight directions of the worship space — including griha pravesha (house warming), bhumi puja (ground-breaking), Vastu Shanti, Navagraha homa, marriage, upanayana and major yajnas. It is also part of the daily Sandhya-vandana sequence in some Smarta lineages, recited at sunrise, noon and sunset to acknowledge the directional protectors. Performing the eight dikpalaka homa is held to remove obstacles arising from directional doshas and to harmonise the household with cosmic order. (Sources: Vedicfolks; Sanskritdocuments; Ramana Maharshi Foundation.)"
+    },
+    {
+      "question": "Are the Dikpalakas the same as the Lokapalas?",
+      "answer": "The terms overlap substantially but differ slightly in scope. Lokapalas are 'guardians of the worlds' (loka), and the eight standard Dikpalakas are also Lokapalas in this broader sense. Some Tantric texts distinguish them by counting Lokapalas as the protectors of moral and cosmic spheres (Indra of Svarga, Yama of Pitru-loka, Varuna of the waters, Kubera of treasures), while Dikpalakas are specifically tied to spatial directions of the manifested cosmos. In daily liturgical use the two terms are interchangeable, and the same eight names appear in both lists. (Sources: Wikipedia Guardians of the Directions; Wisdomlib.)"
+    },
+    {
+      "question": "How are the Dikpalakas represented in temple architecture?",
+      "answer": "In a properly constructed Hindu temple, sculptural representations of the Ashta Dikpalakas are carved on the eight outer faces of the vimana (sanctum tower), each at the cardinal or intercardinal point they govern, riding their respective vahanas with their characteristic weapons. They also appear on the eight directional pillars of the mandapa hall and as guardian deities flanking the gopuram. Their inclusion is mandatory in Agama-compliant temples (Vaikhanasa, Pancharatra and Shaiva-Siddhanta agamas all prescribe their placement), and the consecration of the temple includes a separate Ashtadikpalaka pratishtha. (Sources: Exotic India Art; Templepurohit.)"
+    }
+  ]
 }

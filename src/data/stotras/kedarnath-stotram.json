@@ -1,85 +1,85 @@
 {
-    "id": "398",
-    "title": "श्री केदारनाथ स्तोत्रम्",
-    "titleEn": "Kedarnath Stotram",
-    "slug": "kedarnath-stotram",
-    "devanagariText": "॥ श्री केदारनाथ स्तोत्रम् ॥\n\nॐ नमः शिवाय केदारेश्वराय।\nहिमाचलस्थाय महादेवाय॥\n\nकेदारनाथं शिवमीश्वरं च\nहिमालयस्योपरि संस्थितं यम्।\nगङ्गाधरं चन्द्रकलावतंसं\nज्योतिर्लिङ्गं प्रणमामि नित्यम्॥ १॥\n\nहिमाद्रिशृङ्गे विमले प्रदेशे\nसदाशिवं केदारमण्डलस्थम्।\nमन्दाकिनीतीररमं महेशं\nकेदारनाथं प्रणमामि देवम्॥ २॥\n\nपञ्चानने भस्मविभूषिताङ्गे\nगजाजिनांबरधरे पिनाकी।\nउमापतिं लोकगुरुं वरेण्यं\nकेदारनाथं प्रणमामि शम्भुम्॥ ३॥\n\nत्रिशूलधारिं वृषभध्वजं च\nचन्द्रावतंसं गिरिजापतिं च।\nसर्पाभरणभूषिताङ्गं\nकेदारनाथं प्रणमामि भक्त्या॥ ४॥\n\nपाण्डवैः पूजितं पूर्वं यत्र साक्षान्महेश्वरः।\nवृषरूपेण तिष्ठन्तं कैलासाद्रौ सनातनम्॥ ५॥\n\nनरनारायणौ यत्र तपश्चक्रतुरव्ययम्।\nशङ्करस्तत्र सन्तुष्टो वरदानाय चागतः॥ ६॥\n\nनन्दीश्वरपरिवारं भूतगणसमावृतम्।\nवीरभद्रसमायुक्तं कार्तिकेयगणेशयोः॥ ७॥\n\nमन्दाकिनी यस्य पादे वहन्ती\nहिमं यस्य किरीटभूषा।\nशैलं यस्य सिंहासनं च\nकेदारनाथं शरणं प्रपद्ये॥ ८॥\n\nसप्तर्षिसेवितं नित्यं सिद्धगन्धर्वसेवितम्।\nयोगिभिर्ध्यानगम्यं तं केदारेशं नमाम्यहम्॥ ९॥\n\nयो भक्त्या केदारनाथं स्मरेत्\nत्रिसन्ध्यं प्रयतो नरः।\nसर्वपापविनिर्मुक्तः शिवलोकं स गच्छति॥ १०॥\n\nकेदारनाथस्तोत्रं यः पठेद् भक्तिसंयुतः।\nशिवसायुज्यमाप्नोति नात्र कार्या विचारणा॥ ११॥\n\n॥ इति श्री केदारनाथ स्तोत्रम् सम्पूर्णम् ॥",
-    "transliteration": "|| Shri Kedarnath Stotram ||\n\nOm Namah Shivaya Kedareshwaraya |\nHimachala-sthaya Mahadevaya ||\n\nKedaranatham Shivam-Ishwaram cha\nHimalayasya-upari samsthitam yam |\nGangadharam Chandrakala-vatamsam\nJyotirlingam pranamami nityam || 1 ||\n\nHimadri-shrringe vimale pradeshe\nSadashivam Kedara-mandala-stham |\nMandakini-tira-ramam Mahesham\nKedaranatham pranamami Devam || 2 ||\n\nPanchanane bhasma-vibhushitange\nGajajin-ambara-dhare Pinaki |\nUma-patim Loka-gurum varenyam\nKedaranatham pranamami Shambhum || 3 ||\n\nTrishula-dharim vrishabha-dhvajam cha\nChandravatamsam Girija-patim cha |\nSarpa-bharana-bhushitangam\nKedaranatham pranamami bhaktya || 4 ||\n\nPandavaih pujitam purvam yatra sakshat Maheshwarah |\nVrisha-rupena tishthantam Kailasadrau sanatanam || 5 ||\n\nNara-Narayanau yatra tapash-chakratur-avyayam |\nShankaras-tatra santushto varadanaya chagataah || 6 ||\n\nNandishwara-parivaram bhuta-gana-samavritam |\nVirabhadra-samayuktam Kartikeya-Ganeshayoh || 7 ||\n\nMandakini yasya pade vahanti\nHimam yasya kirita-bhusha |\nShailam yasya simhasanam cha\nKedaranatham sharanam prapadye || 8 ||\n\nSaptarshi-sevitam nityam Siddha-Gandharva-sevitam |\nYogibhir-dhyana-gamyam tam Kedaresham namamyaham || 9 ||\n\nYo bhaktya Kedaranatham smaret\nTrisandhyam prayato narah |\nSarva-papa-vinirmuktah Shivalokam sa gachchhati || 10 ||\n\nKedaranatha-stotram yah pathed bhakti-samyutah |\nShiva-sayujyam-apnoti natra karya vicharana || 11 ||\n\n|| Iti Shri Kedarnath Stotram Sampurnam ||",
-    "hindiMeaning": "हिमालय पर्वत के शिखर पर विराजमान, गंगाधर, चन्द्रकलावतंस, ज्योतिर्लिंग स्वरूप केदारनाथ को मैं नित्य प्रणाम करता हूँ। हिमाद्रि के निर्मल प्रदेश में, मन्दाकिनी के तट पर विराजमान सदाशिव केदारनाथ को नमस्कार। पञ्चमुख, भस्मविभूषित, गजचर्म धारी, पिनाकी, उमापति, लोकगुरु केदारनाथ शम्भु को प्रणाम। पाण्डवों ने जहाँ साक्षात् महेश्वर की वृषरूप में पूजा की, नर-नारायण ने जहाँ तप किया — वहाँ शंकर प्रसन्न होकर वरदान देने आए। मन्दाकिनी जिनके चरणों में बहती है, हिम जिनका मुकुट है, पर्वत सिंहासन है — उन केदारनाथ की शरण लेता हूँ।",
-    "viniyog": null,
-    "benefits": [
-        "Equivalent to pilgrimage to Kedarnath Dham",
-        "Traditionally recited for removal of all sins and negative karma",
-        "Invokes the devotee shiva-sayujya (union with shiva)",
-        "Traditionally invoked for protection from all dangers and calamities",
-        "Traditionally recited for fulfillment of desires when recited at three sandhya times",
-        "Invokes the blessing of spiritual liberation and eternal peace"
-    ],
-    "description": "Dedicated to Lord Shiva, the Kedarnath Stotram (श्री केदारनाथ स्तोत्रम्) is a devotional hymn of praise revered in Hindu tradition. Drawn from Shiva Purana, this text has been cherished by devotees for centuries. Regular recitation is believed to equivalent to pilgrimage to Kedarnath Dham, destroy all sins and negative karma, and grant the devotee Shiva-sayujya (union with Shiva). This sacred text is ideally recited on Monday (Somvar) and during Maha Shivaratri and Shravan Somvar for enhanced blessings. The text contains 11 verses and takes around 8 minutes to recite, fitting conveniently into a daily spiritual routine. On this page, you can read the complete Kedarnath Stotram in Devanagari Sanskrit with English transliteration, Hindi meaning (arth), and free PDF download for offline recitation.",
-    "deity": "shiva",
-    "secondaryDeities": [
-        "parvati",
-        "ganesha",
-        "kartikeya"
-    ],
-    "days": [
-        "monday"
-    ],
-    "festivals": [
-        "maha-shivaratri",
-        "shravan-somvar"
-    ],
-    "purposes": [
-        "devotion",
-        "pilgrimage",
-        "moksha",
-        "protection"
-    ],
-    "readingTimeMinutes": 8,
-    "seoDescription": "Read Kedarnath Stotram in Sanskrit with transliteration and Hindi meaning. Sacred hymn to Lord Shiva at Kedarnath Jyotirlinga in Himalayas.",
-    "verseCount": 11,
-    "source": "Shiva Purana",
-    "createdAt": "2026-03-28T00:00:00Z",
-    "updatedAt": "2026-05-06T15:00:00Z",
-    "isPublished": true,
-    "alsoKnownAs": [
-        "Kedaranatha Stotram",
-        "Kedareshwar Stotram",
-        "Sri Kedarnath Stuti",
-        "Kedarnath Jyotirlinga Stotram"
-    ],
-    "relatedSearches": [
-        "Kedarnath stotram lyrics Sanskrit",
-        "Kedarnath Jyotirlinga story Pandavas bull",
-        "Dwadasa Jyotirlinga Stotram Kedarnath verse",
-        "Kedarnath stotram English meaning",
-        "Kedaranatha mantra chant",
-        "Kedarnath temple aarti lyrics",
-        "Skanda Purana Kedarnath chapter",
-        "Panch Kedar Jyotirlinga stotram",
-        "Kedarnath stotram benefits",
-        "Kedareshwar ashtakam download"
-    ],
-    "seoFaqs": [
-        {
-            "question": "Which scripture is the source of the Kedarnath Stotram?",
-            "answer": "The Kedarnath Jyotirlinga is described in the Koti Rudra Samhita of the Shiva Purana and in the Kedara Khanda section of the Skanda Purana, which together preserve the sthala purana of the Himalayan shrine. Standalone Kedarnath stutis circulating today are largely drawn or adapted from these Puranic sources, supplemented by the verse on Kedarnath in Adi Shankaracharya's widely chanted Dwadasa Jyotirlinga Stotram. The Kedara Khanda of the Skanda Purana details the manifestation of Shiva at Kedarnath, the role of the Pandavas, and the proper modes of worship at this kshetra. Traditional priests at the temple recite verses from these Puranic chapters along with the dedicated stotram during the daily abhisheka."
-        },
-        {
-            "question": "What is the Pandava-bull legend behind the Kedarnath Stotram?",
-            "answer": "After the Mahabharata war, the Pandavas sought Shiva's forgiveness for the bloodshed of their kinsmen. Shiva, unwilling to grant a quick darshan, took the form of a bull and hid among the herds of the Garhwal Himalayas. When Bhima recognised him, Shiva tried to disappear into the earth; Bhima caught the hump of the bull, which remained at Kedarnath as the Jyotirlinga, while the other limbs of the bull are said to have emerged at the four other Panch Kedar shrines: Tungnath (arms), Rudranath (face), Madhyamaheshwar (navel) and Kalpeshwar (matted hair). The Kedarnath Stotram refers to this hump-form (vrishabha-akriti) and praises Shiva as Kedareshwara, the lord of the Kedar kshetra."
-        },
-        {
-            "question": "What position does Kedarnath occupy among the twelve Jyotirlingas?",
-            "answer": "Kedarnath is enumerated as one of the twelve Jyotirlingas in the canonical list given in Shiva Purana and reiterated by Shankaracharya in his Dwadasa Jyotirlinga Stotram. It is the only Jyotirlinga in the high Himalayas, situated at over 3,500 metres above sea level on the bank of the Mandakini, and is paired in the Char Dham Yatra with Badrinath. Within the Dwadasa Jyotirlinga Stotram, the dedicated half-verse names it as 'himalaye tu kedaram', placing it geographically. Pilgrims often recite the full Dwadasa Jyotirlinga Stotram before specifically chanting the Kedarnath Stotram so that the shrine is contextualised within the broader Jyotirlinga circuit."
-        },
-        {
-            "question": "When is the Kedarnath Stotram traditionally recited?",
-            "answer": "Because the Kedarnath temple itself is open only roughly from Akshaya Tritiya in late April or early May until Bhai Dooj in October-November, on-site recitation follows that yatra calendar. During the closed winter months, the utsava murti is moved to Ukhimath, where the stotram continues to be chanted daily. Off-site, devotees recite it on Maha Shivratri, every Shravan Somvar, on Sawan Shivratri, on Pradosha tithis, and during the Char Dham Yatra preparation. Because of the elevation and the bull-form association, the stotram is also recited as part of memorial pujas for ancestors, since Kedar kshetra is regarded in the Skanda Purana as a moksha-da kshetra (a place that grants liberation)."
-        },
-        {
-            "question": "How does the Kedarnath Stotram differ from a generic Shiva stotram?",
-            "answer": "A generic Shiva stotram such as the Lingashtakam or Shivashtakam praises Shiva in his universal attributes, applicable at any shrine. The Kedarnath Stotram is a kshetra-stotram tied to a specific geography: it invokes Shiva as Kedareshwara, references the bull-hump form, names the surrounding Himalayan peaks, mentions the Mandakini and Saraswati rivers, and ties the phala-shruti to the merit of Kedarnath darshan and to release from Pandava-style ancestral karma. This locational specificity is why temple priests treat it as the canonical hymn for the shrine, distinguishing it from pan-Shaiva hymns and from the broader Dwadasa Jyotirlinga Stotram, which mentions Kedarnath only in passing."
-        }
-    ]
+  "id": "398",
+  "title": "श्री केदारनाथ स्तोत्रम्",
+  "titleEn": "Kedarnath Stotram",
+  "slug": "kedarnath-stotram",
+  "devanagariText": "॥ श्री केदारनाथ स्तोत्रम् ॥\n\nॐ नमः शिवाय केदारेश्वराय।\nहिमाचलस्थाय महादेवाय॥\n\nकेदारनाथं शिवमीश्वरं च\nहिमालयस्योपरि संस्थितं यम्।\nगङ्गाधरं चन्द्रकलावतंसं\nज्योतिर्लिङ्गं प्रणमामि नित्यम्॥ १॥\n\nहिमाद्रिशृङ्गे विमले प्रदेशे\nसदाशिवं केदारमण्डलस्थम्।\nमन्दाकिनीतीररमं महेशं\nकेदारनाथं प्रणमामि देवम्॥ २॥\n\nपञ्चानने भस्मविभूषिताङ्गे\nगजाजिनांबरधरे पिनाकी।\nउमापतिं लोकगुरुं वरेण्यं\nकेदारनाथं प्रणमामि शम्भुम्॥ ३॥\n\nत्रिशूलधारिं वृषभध्वजं च\nचन्द्रावतंसं गिरिजापतिं च।\nसर्पाभरणभूषिताङ्गं\nकेदारनाथं प्रणमामि भक्त्या॥ ४॥\n\nपाण्डवैः पूजितं पूर्वं यत्र साक्षान्महेश्वरः।\nवृषरूपेण तिष्ठन्तं कैलासाद्रौ सनातनम्॥ ५॥\n\nनरनारायणौ यत्र तपश्चक्रतुरव्ययम्।\nशङ्करस्तत्र सन्तुष्टो वरदानाय चागतः॥ ६॥\n\nनन्दीश्वरपरिवारं भूतगणसमावृतम्।\nवीरभद्रसमायुक्तं कार्तिकेयगणेशयोः॥ ७॥\n\nमन्दाकिनी यस्य पादे वहन्ती\nहिमं यस्य किरीटभूषा।\nशैलं यस्य सिंहासनं च\nकेदारनाथं शरणं प्रपद्ये॥ ८॥\n\nसप्तर्षिसेवितं नित्यं सिद्धगन्धर्वसेवितम्।\nयोगिभिर्ध्यानगम्यं तं केदारेशं नमाम्यहम्॥ ९॥\n\nयो भक्त्या केदारनाथं स्मरेत्\nत्रिसन्ध्यं प्रयतो नरः।\nसर्वपापविनिर्मुक्तः शिवलोकं स गच्छति॥ १०॥\n\nकेदारनाथस्तोत्रं यः पठेद् भक्तिसंयुतः।\nशिवसायुज्यमाप्नोति नात्र कार्या विचारणा॥ ११॥\n\n॥ इति श्री केदारनाथ स्तोत्रम् सम्पूर्णम् ॥",
+  "transliteration": "|| Shri Kedarnath Stotram ||\n\nOm Namah Shivaya Kedareshwaraya |\nHimachala-sthaya Mahadevaya ||\n\nKedaranatham Shivam-Ishwaram cha\nHimalayasya-upari samsthitam yam |\nGangadharam Chandrakala-vatamsam\nJyotirlingam pranamami nityam || 1 ||\n\nHimadri-shrringe vimale pradeshe\nSadashivam Kedara-mandala-stham |\nMandakini-tira-ramam Mahesham\nKedaranatham pranamami Devam || 2 ||\n\nPanchanane bhasma-vibhushitange\nGajajin-ambara-dhare Pinaki |\nUma-patim Loka-gurum varenyam\nKedaranatham pranamami Shambhum || 3 ||\n\nTrishula-dharim vrishabha-dhvajam cha\nChandravatamsam Girija-patim cha |\nSarpa-bharana-bhushitangam\nKedaranatham pranamami bhaktya || 4 ||\n\nPandavaih pujitam purvam yatra sakshat Maheshwarah |\nVrisha-rupena tishthantam Kailasadrau sanatanam || 5 ||\n\nNara-Narayanau yatra tapash-chakratur-avyayam |\nShankaras-tatra santushto varadanaya chagataah || 6 ||\n\nNandishwara-parivaram bhuta-gana-samavritam |\nVirabhadra-samayuktam Kartikeya-Ganeshayoh || 7 ||\n\nMandakini yasya pade vahanti\nHimam yasya kirita-bhusha |\nShailam yasya simhasanam cha\nKedaranatham sharanam prapadye || 8 ||\n\nSaptarshi-sevitam nityam Siddha-Gandharva-sevitam |\nYogibhir-dhyana-gamyam tam Kedaresham namamyaham || 9 ||\n\nYo bhaktya Kedaranatham smaret\nTrisandhyam prayato narah |\nSarva-papa-vinirmuktah Shivalokam sa gachchhati || 10 ||\n\nKedaranatha-stotram yah pathed bhakti-samyutah |\nShiva-sayujyam-apnoti natra karya vicharana || 11 ||\n\n|| Iti Shri Kedarnath Stotram Sampurnam ||",
+  "hindiMeaning": "हिमालय पर्वत के शिखर पर विराजमान, गंगाधर, चन्द्रकलावतंस, ज्योतिर्लिंग स्वरूप केदारनाथ को मैं नित्य प्रणाम करता हूँ। हिमाद्रि के निर्मल प्रदेश में, मन्दाकिनी के तट पर विराजमान सदाशिव केदारनाथ को नमस्कार। पञ्चमुख, भस्मविभूषित, गजचर्म धारी, पिनाकी, उमापति, लोकगुरु केदारनाथ शम्भु को प्रणाम। पाण्डवों ने जहाँ साक्षात् महेश्वर की वृषरूप में पूजा की, नर-नारायण ने जहाँ तप किया — वहाँ शंकर प्रसन्न होकर वरदान देने आए। मन्दाकिनी जिनके चरणों में बहती है, हिम जिनका मुकुट है, पर्वत सिंहासन है — उन केदारनाथ की शरण लेता हूँ।",
+  "viniyog": null,
+  "benefits": [
+    "Equivalent to pilgrimage to Kedarnath Dham",
+    "Traditionally recited for removal of all sins and negative karma",
+    "Invokes the devotee shiva-sayujya (union with shiva)",
+    "Traditionally invoked for protection from all dangers and calamities",
+    "Traditionally recited for fulfillment of desires when recited at three sandhya times",
+    "Invokes the blessing of spiritual liberation and eternal peace"
+  ],
+  "description": "High in the Garhwal Himalayas stands the Kedarnath shrine, and the Shiva Purana holds that reciting this hymn earns the same merit as the arduous climb to reach it. श्री केदारनाथ स्तोत्रम् runs 11 verses, roughly 8 minutes, and is sung to clear away sins and negative karma and to bring the devotee to shiva-sayujya, union with the Lord. Recited at the three sandhya junctions of the day, it is said to fulfill heartfelt desires; recited in danger, it shields against calamity. Alongside Shiva it honors Parvati, Ganesha, and Kartikeya. Mondays are its day, and Maha Shivaratri and the Mondays of Shravan its season — a pilgrimage in verse for those who cannot make the trek.",
+  "deity": "shiva",
+  "secondaryDeities": [
+    "parvati",
+    "ganesha",
+    "kartikeya"
+  ],
+  "days": [
+    "monday"
+  ],
+  "festivals": [
+    "maha-shivaratri",
+    "shravan-somvar"
+  ],
+  "purposes": [
+    "devotion",
+    "pilgrimage",
+    "moksha",
+    "protection"
+  ],
+  "readingTimeMinutes": 8,
+  "seoDescription": "Read Kedarnath Stotram in Sanskrit with transliteration and Hindi meaning. Sacred hymn to Lord Shiva at Kedarnath Jyotirlinga in Himalayas.",
+  "verseCount": 11,
+  "source": "Shiva Purana",
+  "createdAt": "2026-03-28T00:00:00Z",
+  "updatedAt": "2026-06-02T00:00:00Z",
+  "isPublished": true,
+  "alsoKnownAs": [
+    "Kedaranatha Stotram",
+    "Kedareshwar Stotram",
+    "Sri Kedarnath Stuti",
+    "Kedarnath Jyotirlinga Stotram"
+  ],
+  "relatedSearches": [
+    "Kedarnath stotram lyrics Sanskrit",
+    "Kedarnath Jyotirlinga story Pandavas bull",
+    "Dwadasa Jyotirlinga Stotram Kedarnath verse",
+    "Kedarnath stotram English meaning",
+    "Kedaranatha mantra chant",
+    "Kedarnath temple aarti lyrics",
+    "Skanda Purana Kedarnath chapter",
+    "Panch Kedar Jyotirlinga stotram",
+    "Kedarnath stotram benefits",
+    "Kedareshwar ashtakam download"
+  ],
+  "seoFaqs": [
+    {
+      "question": "Which scripture is the source of the Kedarnath Stotram?",
+      "answer": "The Kedarnath Jyotirlinga is described in the Koti Rudra Samhita of the Shiva Purana and in the Kedara Khanda section of the Skanda Purana, which together preserve the sthala purana of the Himalayan shrine. Standalone Kedarnath stutis circulating today are largely drawn or adapted from these Puranic sources, supplemented by the verse on Kedarnath in Adi Shankaracharya's widely chanted Dwadasa Jyotirlinga Stotram. The Kedara Khanda of the Skanda Purana details the manifestation of Shiva at Kedarnath, the role of the Pandavas, and the proper modes of worship at this kshetra. Traditional priests at the temple recite verses from these Puranic chapters along with the dedicated stotram during the daily abhisheka."
+    },
+    {
+      "question": "What is the Pandava-bull legend behind the Kedarnath Stotram?",
+      "answer": "After the Mahabharata war, the Pandavas sought Shiva's forgiveness for the bloodshed of their kinsmen. Shiva, unwilling to grant a quick darshan, took the form of a bull and hid among the herds of the Garhwal Himalayas. When Bhima recognised him, Shiva tried to disappear into the earth; Bhima caught the hump of the bull, which remained at Kedarnath as the Jyotirlinga, while the other limbs of the bull are said to have emerged at the four other Panch Kedar shrines: Tungnath (arms), Rudranath (face), Madhyamaheshwar (navel) and Kalpeshwar (matted hair). The Kedarnath Stotram refers to this hump-form (vrishabha-akriti) and praises Shiva as Kedareshwara, the lord of the Kedar kshetra."
+    },
+    {
+      "question": "What position does Kedarnath occupy among the twelve Jyotirlingas?",
+      "answer": "Kedarnath is enumerated as one of the twelve Jyotirlingas in the canonical list given in Shiva Purana and reiterated by Shankaracharya in his Dwadasa Jyotirlinga Stotram. It is the only Jyotirlinga in the high Himalayas, situated at over 3,500 metres above sea level on the bank of the Mandakini, and is paired in the Char Dham Yatra with Badrinath. Within the Dwadasa Jyotirlinga Stotram, the dedicated half-verse names it as 'himalaye tu kedaram', placing it geographically. Pilgrims often recite the full Dwadasa Jyotirlinga Stotram before specifically chanting the Kedarnath Stotram so that the shrine is contextualised within the broader Jyotirlinga circuit."
+    },
+    {
+      "question": "When is the Kedarnath Stotram traditionally recited?",
+      "answer": "Because the Kedarnath temple itself is open only roughly from Akshaya Tritiya in late April or early May until Bhai Dooj in October-November, on-site recitation follows that yatra calendar. During the closed winter months, the utsava murti is moved to Ukhimath, where the stotram continues to be chanted daily. Off-site, devotees recite it on Maha Shivratri, every Shravan Somvar, on Sawan Shivratri, on Pradosha tithis, and during the Char Dham Yatra preparation. Because of the elevation and the bull-form association, the stotram is also recited as part of memorial pujas for ancestors, since Kedar kshetra is regarded in the Skanda Purana as a moksha-da kshetra (a place that grants liberation)."
+    },
+    {
+      "question": "How does the Kedarnath Stotram differ from a generic Shiva stotram?",
+      "answer": "A generic Shiva stotram such as the Lingashtakam or Shivashtakam praises Shiva in his universal attributes, applicable at any shrine. The Kedarnath Stotram is a kshetra-stotram tied to a specific geography: it invokes Shiva as Kedareshwara, references the bull-hump form, names the surrounding Himalayan peaks, mentions the Mandakini and Saraswati rivers, and ties the phala-shruti to the merit of Kedarnath darshan and to release from Pandava-style ancestral karma. This locational specificity is why temple priests treat it as the canonical hymn for the shrine, distinguishing it from pan-Shaiva hymns and from the broader Dwadasa Jyotirlinga Stotram, which mentions Kedarnath only in passing."
+    }
+  ]
 }
