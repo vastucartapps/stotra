@@ -135,6 +135,47 @@ export function StotraContent({ stotra, deity, companionStotras }: StotraContent
         </p>
       </div>
 
+      {/* Key Facts — TL;DR box (citable summary from existing fields). */}
+      <div className="mx-6 md:mx-8 mt-6">
+        <div className="bg-cream-mid rounded-xl px-5 py-4 border border-gold/20">
+          <h2 className="font-serif text-sm font-semibold text-brand uppercase tracking-wider mb-3">
+            Key Facts
+          </h2>
+          <dl className="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-1.5 text-sm">
+            {deity && (
+              <div className="flex justify-between gap-3 border-b border-border-light/70 py-1">
+                <dt className="text-text-muted">Deity</dt>
+                <dd className="text-text font-medium text-right">{deity.name}</dd>
+              </div>
+            )}
+            {stotra.source && (
+              <div className="flex justify-between gap-3 border-b border-border-light/70 py-1">
+                <dt className="text-text-muted">Source</dt>
+                <dd className="text-text font-medium text-right">{stotra.source}</dd>
+              </div>
+            )}
+            <div className="flex justify-between gap-3 border-b border-border-light/70 py-1">
+              <dt className="text-text-muted">Verses</dt>
+              <dd className="text-text font-medium text-right">{stotra.verseCount}</dd>
+            </div>
+            <div className="flex justify-between gap-3 border-b border-border-light/70 py-1">
+              <dt className="text-text-muted">Reading time</dt>
+              <dd className="text-text font-medium text-right">{stotra.readingTimeMinutes} min</dd>
+            </div>
+            {stotra.days.length > 0 && (
+              <div className="flex justify-between gap-3 border-b border-border-light/70 py-1">
+                <dt className="text-text-muted">Best day</dt>
+                <dd className="text-text font-medium text-right capitalize">{stotra.days.join(", ")}</dd>
+              </div>
+            )}
+            <div className="flex justify-between gap-3 border-b border-border-light/70 py-1">
+              <dt className="text-text-muted">Languages</dt>
+              <dd className="text-text font-medium text-right">Sanskrit, Hindi, English</dd>
+            </div>
+          </dl>
+        </div>
+      </div>
+
       {/* When to Recite — promoted from FAQ to standalone callout.
           Renders even without festivals/days so the section exists on every
           page (AI Overviews / featured-snippet bait). */}
