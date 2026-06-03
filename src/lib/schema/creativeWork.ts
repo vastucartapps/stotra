@@ -10,6 +10,7 @@ import {
   EDITORIAL_AUTHOR_REF,
   ORG_PUBLISHER_REF,
 } from "./ids";
+import { resolveSourceWikidata } from "./source-entities";
 import type { Stotra, Deity } from "@/types";
 
 /** Traditional-author mappings. name only + optional sameAs. No credentials. */
@@ -45,6 +46,13 @@ const TRADITIONAL_AUTHORS: Record<
       "https://www.wikidata.org/wiki/Q193563",
     ],
   },
+  vedantadesika: {
+    name: "Vedanta Desika",
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Vedanta_Desika",
+      "https://www.wikidata.org/wiki/Q3530291",
+    ],
+  },
 };
 
 function resolveWorkAuthor(
@@ -63,6 +71,8 @@ function resolveWorkAuthor(
     return { "@type": "Person", ...TRADITIONAL_AUTHORS.valmiki };
   if (src.includes("mahabharata") || src.includes("vyasa"))
     return { "@type": "Person", ...TRADITIONAL_AUTHORS.vyasa };
+  if (src.includes("vedanta desika") || src.includes("vedantadesika"))
+    return { "@type": "Person", ...TRADITIONAL_AUTHORS.vedantadesika };
   return undefined;
 }
 
@@ -131,10 +141,16 @@ export function buildStotraPageGraph(
 
   const classicalSource = resolveClassicalSource(stotra);
   if (classicalSource) {
-    workNode.isBasedOn = {
+    const sourceNode: Record<string, unknown> = {
       "@type": "CreativeWork",
       name: classicalSource,
     };
+    // Entity-ground the source text to its Wikidata record when it is a known
+    // classical scripture (Purana/Veda/epic). GEO: lets AI engines + Google
+    // resolve "Markandeya Purana" etc. to a Knowledge Graph entity.
+    const sourceWikidata = resolveSourceWikidata(stotra.source);
+    if (sourceWikidata) sourceNode.sameAs = sourceWikidata;
+    workNode.isBasedOn = sourceNode;
   }
 
   // #article node
