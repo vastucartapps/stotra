@@ -5,6 +5,7 @@ import { FESTIVALS, getFestivalBySlug } from "@/data/festivals";
 import { getDeityById } from "@/data/deities";
 import { getStotrasByFestival } from "@/lib/stotras";
 import { StotraCard } from "@/components/stotra/StotraCard";
+import { StotraFAQ } from "@/components/stotra/StotraFAQ";
 import { CategoryIcon } from "@/components/ui/CategoryIcon";
 import { buildTaxonomyPageGraph, buildFaqPageSchema } from "@/lib/schema";
 import type { SchemaFAQItem } from "@/lib/schema";
@@ -151,6 +152,11 @@ export default async function FestivalPage({ params }: { params: Promise<{ slug:
           </>
         );
       })()}
+
+      {/* Visible FAQ — makes the FAQPage schema valid + AI-citable. */}
+      <div className="mt-8">
+        <StotraFAQ faqs={faqs} stotraTitle={festival.name} />
+      </div>
     </div>
   );
 }

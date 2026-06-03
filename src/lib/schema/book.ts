@@ -90,6 +90,10 @@ export function buildGitaVerseGraph(
   const pageId = `${STOTRA_BASE}/gita/${chapter.slug}/${verse.slug}#webpage`;
   const breadcrumbId = `${STOTRA_BASE}/gita/${chapter.slug}/${verse.slug}#breadcrumb`;
 
+  const articleBody = [verse.englishTranslation, verse.commentary]
+    .filter(Boolean)
+    .join("\n\n");
+
   return {
     "@context": "https://schema.org",
     "@graph": [
@@ -103,7 +107,13 @@ export function buildGitaVerseGraph(
         isPartOf: {
           "@id": `${STOTRA_BASE}/gita/${chapter.slug}#chapter`,
         },
+        // The canonical Sanskrit text + its renderings, in structured data so AI
+        // answer engines can cite the verse + meaning without parsing the DOM.
+        text: verse.devanagari,
+        abstract: verse.englishTranslation,
         position: verse.verseNumber,
+        author: VYASA_PERSON,
+        isBasedOn: { "@id": BHAGAVAD_GITA_BOOK_ID },
         publisher: ORG_PUBLISHER_REF,
       },
       {
@@ -117,6 +127,8 @@ export function buildGitaVerseGraph(
         inLanguage: "en",
         about: { "@id": verseId },
         isPartOf: { "@id": STOTRA_WEBSITE_ID },
+        articleBody,
+        wordCount: articleBody ? articleBody.split(/\s+/).filter(Boolean).length : undefined,
         author: EDITORIAL_AUTHOR_REF,
         publisher: ORG_PUBLISHER_REF,
       },

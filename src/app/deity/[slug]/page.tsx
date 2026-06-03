@@ -6,6 +6,7 @@ import { getStotrasByPrimaryDeity, getStotrasBySecondaryDeity, getTopStotrasForD
 import { buildDeityPageGraph, buildFaqPageSchema } from "@/lib/schema";
 import type { SchemaFAQItem } from "@/lib/schema";
 import { StotraCard } from "@/components/stotra/StotraCard";
+import { StotraFAQ } from "@/components/stotra/StotraFAQ";
 import { CategoryIcon } from "@/components/ui/CategoryIcon";
 import { APP_URL, siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
 
@@ -239,6 +240,12 @@ export default async function DeityPage({
           </div>
         ) : null;
       })()}
+
+      {/* Visible FAQ — makes the FAQPage schema valid (Google requires the Q&A
+          to be on-page) and gives AI engines + readers a citable answer block. */}
+      <div className="mt-8">
+        <StotraFAQ faqs={faqs} stotraTitle={deity.name} />
+      </div>
     </div>
   );
 }

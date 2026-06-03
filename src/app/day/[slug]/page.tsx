@@ -8,6 +8,7 @@ import { DAYS, getDayBySlug } from "@/data/days";
 import { getDeityById } from "@/data/deities";
 import { getStotrasByDay } from "@/lib/stotras";
 import { StotraCard } from "@/components/stotra/StotraCard";
+import { StotraFAQ } from "@/components/stotra/StotraFAQ";
 import { APP_URL, siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
 
 export function generateStaticParams() {
@@ -179,6 +180,11 @@ export default async function DayPage({
           </>
         );
       })()}
+
+      {/* Visible FAQ — makes the FAQPage schema valid + AI-citable. */}
+      <div className="mt-8">
+        <StotraFAQ faqs={faqs} stotraTitle={day.name} />
+      </div>
     </div>
   );
 }

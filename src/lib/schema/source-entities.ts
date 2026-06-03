@@ -14,7 +14,12 @@
 export interface SourceEntity { match: string; wikidata: string; }
 
 export const SOURCE_ENTITIES: SourceEntity[] = [
+  { match: "vishnu dharmottara", wikidata: "https://www.wikidata.org/wiki/Q3521936" },
   { match: "devi bhagavata purana", wikidata: "https://www.wikidata.org/wiki/Q1206749" },
+  // "Devi Purana" is the common name for the Devi Bhagavata (confirmed by the
+  // site owner + Wikipedia's own redirect). Alias -> same Q1206749. Placed after
+  // the longer "devi bhagavata purana" so that match still wins first.
+  { match: "devi purana", wikidata: "https://www.wikidata.org/wiki/Q1206749" },
   { match: "brahmavaivarta purana", wikidata: "https://www.wikidata.org/wiki/Q2392874" },
   { match: "lalita sahasranama", wikidata: "https://www.wikidata.org/wiki/Q2080574" },
   { match: "vishnu sahasranama", wikidata: "https://www.wikidata.org/wiki/Q947063" },

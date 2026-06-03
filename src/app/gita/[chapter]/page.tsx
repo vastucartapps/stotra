@@ -2,8 +2,10 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { getAllGitaChapters, getGitaChapter } from "@/lib/gita";
-import { buildGitaChapterGraph } from "@/lib/schema";
-import { siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
+import { buildGitaChapterGraph, buildFaqPageSchema } from "@/lib/schema";
+import type { SchemaFAQItem } from "@/lib/schema";
+import { StotraFAQ } from "@/components/stotra/StotraFAQ";
+import { APP_URL, siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
 
 export function generateStaticParams() {
   return getAllGitaChapters().map((c) => ({ chapter: c.slug }));
@@ -51,12 +53,36 @@ export default async function GitaChapterPage({
   void chapters;
   const chapterGraph = buildGitaChapterGraph(chapter);
 
+  // FAQ derived from chapter data — factual and unique per chapter (the
+  // description differs for all 18), so no cross-page templating risk.
+  const faqs: SchemaFAQItem[] = [
+    {
+      question: `How many verses are in Bhagavad Gita Chapter ${chapter.chapterNumber}?`,
+      answer: `Chapter ${chapter.chapterNumber} of the Bhagavad Gita, ${chapter.titleEnglish} (${chapter.titleSanskrit}), contains ${chapter.verseCount} verses.`,
+    },
+    {
+      question: `What is Bhagavad Gita Chapter ${chapter.chapterNumber} about?`,
+      answer: chapter.description,
+    },
+    {
+      question: `What is Chapter ${chapter.chapterNumber} of the Bhagavad Gita called?`,
+      answer: `Chapter ${chapter.chapterNumber} is called ${chapter.titleSanskrit} (${chapter.titleHindi}) — "${chapter.titleEnglish}" in English.`,
+    },
+  ];
+  const faqSchema = buildFaqPageSchema(faqs, `${APP_URL}/gita/${slug}`);
+
   return (
     <div className="mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8 py-8">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(chapterGraph) }}
       />
+      {faqSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
+      )}
       {/* Breadcrumb */}
       <nav className="flex items-center gap-2 text-xs text-text-muted mb-8">
         <Link href="/" className="hover:text-brand transition-colors">Home</Link>
@@ -155,6 +181,11 @@ export default async function GitaChapterPage({
             Chapter {chapter.chapterNumber + 1} &rarr;
           </Link>
         ) : <span />}
+      </div>
+
+      {/* Visible FAQ — valid FAQPage schema + AI-citable chapter summary. */}
+      <div className="mt-12">
+        <StotraFAQ faqs={faqs} stotraTitle={`Bhagavad Gita Chapter ${chapter.chapterNumber}`} />
       </div>
     </div>
   );

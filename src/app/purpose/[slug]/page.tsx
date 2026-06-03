@@ -4,6 +4,7 @@ import Link from "next/link";
 import { PURPOSES, getPurposeBySlug } from "@/data/purposes";
 import { getStotrasByPurpose } from "@/lib/stotras";
 import { StotraCard } from "@/components/stotra/StotraCard";
+import { StotraFAQ } from "@/components/stotra/StotraFAQ";
 import { CategoryIcon } from "@/components/ui/CategoryIcon";
 import { buildTaxonomyPageGraph, buildFaqPageSchema } from "@/lib/schema";
 import type { SchemaFAQItem } from "@/lib/schema";
@@ -142,6 +143,11 @@ export default async function PurposePage({ params }: { params: Promise<{ slug: 
           </>
         );
       })()}
+
+      {/* Visible FAQ — makes the FAQPage schema valid + AI-citable. */}
+      <div className="mt-8">
+        <StotraFAQ faqs={faqs} stotraTitle={purpose.name} />
+      </div>
     </div>
   );
 }
