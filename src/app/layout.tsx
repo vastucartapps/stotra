@@ -1,18 +1,11 @@
 import type { Metadata } from "next";
-import { Lora, Open_Sans, Noto_Sans_Devanagari } from "next/font/google";
+import { Lora, Noto_Sans_Devanagari } from "next/font/google";
 import { Navbar } from "@/components/layout/Navbar";
 import { Footer } from "@/components/layout/Footer";
 import "./globals.css";
 import Script from "next/script";
 const lora = Lora({
   variable: "--font-lora",
-  subsets: ["latin"],
-  weight: ["400", "500", "600", "700"],
-  display: "swap",
-});
-
-const openSans = Open_Sans({
-  variable: "--font-open-sans",
   subsets: ["latin"],
   weight: ["400", "500", "600", "700"],
   display: "swap",
@@ -120,7 +113,7 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${lora.variable} ${openSans.variable} ${notoDevanagari.variable} h-full`}
+      className={`${lora.variable} ${notoDevanagari.variable} h-full`}
     >
       <head>
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-0S0YXDH1XC" />
@@ -136,12 +129,13 @@ export default function RootLayout({
   crossOrigin="anonymous"
   strategy="afterInteractive"
 />
+<link rel="preload" href="/VastuCartLogo.png" as="image" />
       </head>
-      <body className="min-h-full flex flex-col antialiased bg-cream pattern-zodiac">
-        <Navbar />
-        <main className="flex-1 w-full">{children}</main>
-        <Footer />
-      </body>
+      <body className="min-h-full flex flex-col antialiased bg-cream pattern-zodiac google-anno-skip">
+  <Navbar />
+  <main className="flex-1 w-full">{children}</main>
+  <Footer />
+</body>
     </html>
   );
 }
