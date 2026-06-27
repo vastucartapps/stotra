@@ -4,6 +4,7 @@ import { Navbar } from "@/components/layout/Navbar";
 import { Footer } from "@/components/layout/Footer";
 import "./globals.css";
 import Script from "next/script";
+
 const lora = Lora({
   variable: "--font-lora",
   subsets: ["latin"],
@@ -21,121 +22,37 @@ const notoDevanagari = Noto_Sans_Devanagari({
 const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
 
 export const metadata: Metadata = {
-  title: {
-    default: "Stotra - Sacred Hindu Prayers & Hymns | VastuCart",
-    template: "%s | Stotra by VastuCart",
-  },
-  description:
-    "Explore a comprehensive collection of Hindu stotras, chalisa, and sacred hymns in Sanskrit and Hindi with transliteration, meaning, and free PDF downloads. Organized by deity, day, and festival.",
-  keywords: [
-    "stotra",
-    "hindu prayers",
-    "chalisa",
-    "sanskrit hymns",
-    "hanuman chalisa",
-    "vishnu sahasranama",
-    "devotional prayers",
-    "stotram",
-    "hindu mantras",
-    "sacred texts",
-    "hindi stotra",
-    "prayer download",
-  ],
+  title: { default: "Stotra - Sacred Hindu Prayers & Hymns | VastuCart", template: "%s | Stotra by VastuCart" },
+  description: "Explore a comprehensive collection of Hindu stotras, chalisa, and sacred hymns in Sanskrit and Hindi.",
   metadataBase: new URL(APP_URL),
-  alternates: {
-    canonical: "/",
-  },
-  openGraph: {
-    type: "website",
-    locale: "en_IN",
-    url: APP_URL,
-    siteName: "Stotra by VastuCart",
-    title: "Stotra - Sacred Hindu Prayers & Hymns | VastuCart",
-    description:
-      "Complete collection of Hindu stotras, chalisa, and sacred hymns with transliteration, meaning, and free PDF downloads.",
-    images: [
-      {
-        url: `${APP_URL}/og-default.jpg`,
-        width: 1200,
-        height: 630,
-        alt: "Stotra by VastuCart - Sacred Hindu Prayers",
-      },
-    ],
-  },
-  twitter: {
-    card: "summary_large_image",
-    site: "@vastucart",
-    title: "Stotra - Sacred Hindu Prayers & Hymns | VastuCart",
-    description:
-      "Complete collection of Hindu stotras, chalisa, and sacred hymns with transliteration, meaning, and free PDF downloads.",
-    images: [`${APP_URL}/og-default.jpg`],
-  },
-  robots: {
-    index: true,
-    follow: true,
-    googleBot: {
-      index: true,
-      follow: true,
-      "max-snippet": -1,
-      "max-image-preview": "large",
-      "max-video-preview": -1,
-    },
-  },
-  icons: {
-    icon: [
-      { url: "/favicon.ico", sizes: "32x32" },
-      { url: "/favicon-16x16.png", sizes: "16x16", type: "image/png" },
-      { url: "/favicon-32x32.png", sizes: "32x32", type: "image/png" },
-      { url: "/icon-192x192.png", sizes: "192x192", type: "image/png" },
-      { url: "/icon-512x512.png", sizes: "512x512", type: "image/png" },
-    ],
-    apple: [
-      { url: "/apple-touch-icon.png" },
-      { url: "/apple-touch-icon-180.png", sizes: "180x180" },
-    ],
-  },
-  manifest: "/site.webmanifest",
-  other: {
-    "msapplication-TileColor": "#013F47",
-    "theme-color": "#013F47",
-  },
 };
 
-// Canonical Organization is NOT emitted here — per 00-shared-contracts.md §2.1
-// it is owned by vastucart.in and referenced via @id string only.
-// WebSite + Brand moved to homepage only (06 §1.1) via lib/schema/website.ts.
-
-export default function RootLayout({
-  children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html
-      lang="en"
-      className={`${lora.variable} ${notoDevanagari.variable} h-full`}
-    >
+    <html lang="en" className={`${lora.variable} ${notoDevanagari.variable} h-full`}>
       <head>
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-0S0YXDH1XC" />
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-0S0YXDH1XC');`,
-          }}
-        />
+        <link rel="preload" href="/VastuCartLogo.png" as="image" />
         <Script
-  id="adsense-init"
-  async
-  src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1411902986257886"
-  crossOrigin="anonymous"
-  strategy="afterInteractive"
-/>
-<link rel="preload" href="/VastuCartLogo.png" as="image" />
+          async
+          src="https://www.googletagmanager.com/gtag/js?id=G-0S0YXDH1XC"
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-0S0YXDH1XC');`}
+        </Script>
+        <Script
+          id="adsense-init"
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1411902986257886"
+          crossOrigin="anonymous"
+          strategy="afterInteractive"
+        />
       </head>
       <body className="min-h-full flex flex-col antialiased bg-cream pattern-zodiac google-anno-skip">
-  <Navbar />
-  <main className="flex-1 w-full">{children}</main>
-  <Footer />
-</body>
+        <Navbar />
+        <main className="flex-1 w-full">{children}</main>
+        <Footer />
+      </body>
     </html>
   );
 }
