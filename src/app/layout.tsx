@@ -3,7 +3,7 @@ import { Lora, Open_Sans, Noto_Sans_Devanagari } from "next/font/google";
 import { Navbar } from "@/components/layout/Navbar";
 import { Footer } from "@/components/layout/Footer";
 import "./globals.css";
-
+import Script from "next/script";
 const lora = Lora({
   variable: "--font-lora",
   subsets: ["latin"],
@@ -129,10 +129,12 @@ export default function RootLayout({
             __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-0S0YXDH1XC');`,
           }}
         />
-        <script
+        <Script
+  id="adsense-init"
   async
   src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1411902986257886"
   crossOrigin="anonymous"
+  strategy="afterInteractive"
 />
       </head>
       <body className="min-h-full flex flex-col antialiased bg-cream pattern-zodiac">
