@@ -20,6 +20,7 @@ const notoDevanagari = Noto_Sans_Devanagari({
 });
 
 const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
+const ADSENSE_CLIENT_ID = process.env.NEXT_PUBLIC_ADSENSE_CLIENT_ID || "ca-pub-1411902986257886";
 
 export const metadata: Metadata = {
   title: { default: "Stotra - Sacred Hindu Prayers & Hymns | VastuCart", template: "%s | Stotra by VastuCart" },
@@ -43,9 +44,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Script
           id="adsense-init"
           async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1411902986257886"
+          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT_ID}`}
           crossOrigin="anonymous"
           strategy="afterInteractive"
+          onError={(e) => console.error('AdSense script failed to load:', e)}
         />
       </head>
       <body className="min-h-full flex flex-col antialiased bg-cream pattern-zodiac">
