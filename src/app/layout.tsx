@@ -20,6 +20,7 @@ const notoDevanagari = Noto_Sans_Devanagari({
 });
 
 const APP_URL = process.env.NEXT_PUBLIC_APP_URL || "https://stotra.vastucart.in";
+const ADSENSE_CLIENT_ID = process.env.NEXT_PUBLIC_ADSENSE_CLIENT_ID;
 
 export const metadata: Metadata = {
   title: { default: "Stotra - Sacred Hindu Prayers & Hymns | VastuCart", template: "%s | Stotra by VastuCart" },
@@ -40,13 +41,16 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Script id="google-analytics" strategy="afterInteractive">
           {`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-0S0YXDH1XC');`}
         </Script>
-        <Script
-          id="adsense-init"
-          async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1411902986257886"
-          crossOrigin="anonymous"
-          strategy="afterInteractive"
-        />
+        {ADSENSE_CLIENT_ID && (
+          <Script
+            id="adsense-init"
+            async
+            src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT_ID}`}
+            crossOrigin="anonymous"
+            strategy="lazyOnload"
+            onError={(e) => console.error('AdSense script failed to load:', e)}
+          />
+        )}
       </head>
       <body className="min-h-full flex flex-col antialiased bg-cream pattern-zodiac google-anno-skip">
         <Navbar />
