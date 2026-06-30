@@ -47,7 +47,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT_ID}`}
           crossOrigin="anonymous"
           strategy="afterInteractive"
-          onError={(e) => console.error('AdSense script failed to load:', e)}
         />
       </head>
       <body className="min-h-full flex flex-col antialiased bg-cream pattern-zodiac">
