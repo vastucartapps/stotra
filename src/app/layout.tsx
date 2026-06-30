@@ -32,7 +32,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en" className={`${lora.variable} ${notoDevanagari.variable} h-full`}>
       <head>
-        <link rel="preload" href="/VastuCartLogo.png" as="image" />
         <Script
           async
           src="https://www.googletagmanager.com/gtag/js?id=G-0S0YXDH1XC"

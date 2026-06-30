@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Central pillar / staff of authority (Danda) -->
+  <line x1="32" y1="12" x2="32" y2="52" />
+  <!-- Base of the scale -->
+  <path d="M22 52 L42 52" />
+  <!-- Top cap decoration -->
+  <circle cx="32" cy="10" r="2" />
+  
+  <!-- Balance beam -->
+  <line x1="16" y1="24" x2="48" y2="24" />
+  <!-- Hanger ring -->
+  <circle cx="32" cy="24" r="1.5" />
+  
+  <!-- Left Pan strings -->
+  <line x1="16" y1="24" x2="10" y2="40" />
+  <line x1="16" y1="24" x2="22" y2="40" />
+  <!-- Left Pan -->
+  <path d="M10 40 Q16 43 22 40 Z" />
+  
+  <!-- Right Pan strings -->
+  <line x1="48" y1="24" x2="42" y2="40" />
+  <line x1="48" y1="24" x2="54" y2="40" />
+  <!-- Right Pan -->
+  <path d="M42 40 Q48 43 54 40 Z" />
+
+  <!-- Noose (pasha) loop decoration hanging on the side -->
+  <path d="M32 28 C 36 28, 38 34, 38 38 C 38 42, 34 44, 32 44 C 30 44, 26 42, 26 38 C 26 34, 28 28, 32 28 Z" stroke-dasharray="1 1" />
+</svg>
