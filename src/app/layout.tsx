@@ -48,7 +48,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           strategy="afterInteractive"
         />
       </head>
-      <body className="min-h-full flex flex-col antialiased bg-cream pattern-zodiac google-anno-skip">
+      <body className="min-h-full flex flex-col antialiased bg-cream pattern-zodiac">
         <Navbar />
         <main className="flex-1 w-full">{children}</main>
         <Footer />
