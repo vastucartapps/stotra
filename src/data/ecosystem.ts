@@ -14,12 +14,6 @@ export const ECOSYSTEM_SITES: EcosystemSite[] = [
     tagline: "Decode Your Birth Chart",
   },
   {
-    name: "Panchang",
-    url: "https://panchang.vastucart.in",
-    description: "Daily Hindu calendar with tithi, nakshatra & muhurta",
-    tagline: "Today's Hindu Calendar",
-  },
-  {
     name: "Horoscope",
     url: "https://horoscope.vastucart.in",
     description: "Daily, weekly & monthly horoscope predictions",
@@ -65,7 +59,6 @@ export const NETWORK_LINKS = {
   store: "https://store.vastucart.in",
   blog: "https://blog.vastucart.in",
   kundali: "https://kundali.vastucart.in",
-  panchang: "https://panchang.vastucart.in",
   horoscope: "https://horoscope.vastucart.in",
   stotra: "https://stotra.vastucart.in",
   muhurta: "https://muhurta.vastucart.in",

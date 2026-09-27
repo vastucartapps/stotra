@@ -24,7 +24,6 @@ const ECOSYSTEM_NAV = [
   { label: "VastuCart", href: NETWORK_LINKS.home },
   { label: "Store", href: NETWORK_LINKS.store },
   { label: "Kundali", href: NETWORK_LINKS.kundali },
-  { label: "Panchang", href: NETWORK_LINKS.panchang },
   { label: "Horoscope", href: NETWORK_LINKS.horoscope },
   { label: "Tarot", href: NETWORK_LINKS.tarot },
   { label: "Blog", href: NETWORK_LINKS.blog },

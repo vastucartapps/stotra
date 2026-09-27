@@ -192,7 +192,6 @@ window.onafterprint = function() { window.close(); };
       <a href="https://stotra.vastucart.in" class="ftr-l">stotra.vastucart.in</a>
       <a href="https://store.vastucart.in" class="ftr-l">VastuCart Store</a>
       <a href="https://kundali.vastucart.in" class="ftr-l">Kundali</a>
-      <a href="https://panchang.vastucart.in" class="ftr-l">Panchang</a>
     </div>
     <div class="ftr-c">&copy; ${yr} VastuCart · Content from public domain scriptures · stotra.vastucart.in</div>
   </div>

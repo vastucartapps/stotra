@@ -32,6 +32,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en" className={`${lora.variable} ${notoDevanagari.variable} h-full`}>
       <head>
+        {/* Verifies site ownership for AdSense — Auto Ads will not serve
+            reliably until the publisher account is confirmed for the domain. */}
+        <meta name="google-adsense-account" content="ca-pub-1411902986257886" />
         <Script
           async
           src="https://www.googletagmanager.com/gtag/js?id=G-0S0YXDH1XC"

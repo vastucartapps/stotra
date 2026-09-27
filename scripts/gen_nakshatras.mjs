@@ -151,7 +151,6 @@ const out = N.map(([slug, en, iast, lord], idx) => {
     relatedDeitySlug: p.deity,
     links: [
       { label: `Full ${planetWord} mantra & vidhi`, url: `/mantra/planet/${lord}`, rel: "internal" },
-      { label: "Find your nakshatra (Panchang)", url: "https://panchang.vastucart.in", rel: "consultation" },
     ],
     faqs: [
       { question: `Which mantra is for ${en} nakshatra?`, answer: `${en} is ruled by ${p.en} in the Vimshottari system, so its mantra is used: "${nameM.name_iast}" (Vedic) or the bija "${bijaM.bija_iast}".` },
