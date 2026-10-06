@@ -22,6 +22,7 @@ const NAV_LINKS = [
 
 const ECOSYSTEM_NAV = [
   { label: "VastuCart", href: NETWORK_LINKS.home },
+  { label: "Panchang", href: NETWORK_LINKS.panchang },
   { label: "Store", href: NETWORK_LINKS.store },
   { label: "Kundali", href: NETWORK_LINKS.kundali },
   { label: "Horoscope", href: NETWORK_LINKS.horoscope },
