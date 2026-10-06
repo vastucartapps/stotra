@@ -43,12 +43,6 @@ export const ECOSYSTEM_SITES: EcosystemSite[] = [
     description: "Hindu wedding planning, muhurta & rituals guide",
     tagline: "Plan Your Wedding",
   },
-  {
-    name: "Panchang",
-    url: "https://panchang.vastucart.in",
-    description: "Daily Vedic calendar, Tithi, Nakshatra, Rahu Kaal & Auspicious Timings",
-    tagline: "Daily Vedic Almanac",
-  },
 ];
 
 export const SOCIAL_LINKS = {
@@ -62,7 +56,6 @@ export const SOCIAL_LINKS = {
 
 export const NETWORK_LINKS = {
   home: "https://vastucart.in",
-  panchang: "https://panchang.vastucart.in",
   store: "https://store.vastucart.in",
   blog: "https://blog.vastucart.in",
   kundali: "https://kundali.vastucart.in",
