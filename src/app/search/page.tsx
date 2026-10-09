@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { SearchPageContent } from "@/components/pages/SearchPage";
-import { getAllStotras } from "@/lib/stotras";
+import { getAllStotras, toStotraCard } from "@/lib/stotras";
+import { SEARCH_PAGE_SIZE } from "@/lib/stotra-search";
 import { siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
 
 const PAGE_TITLE = "Search Stotras | Stotra by VastuCart";
@@ -28,6 +29,9 @@ export const metadata: Metadata = {
 
 export default function SearchPage() {
   const allStotras = getAllStotras();
+  // First page only, as card summaries. The full texts stay on the server and
+  // are searched through /api/search (the page used to ship all of them: 16 MB).
+  const initial = allStotras.slice(0, SEARCH_PAGE_SIZE).map(toStotraCard);
 
   // /search is noindex — no schema. The canonical WebSite + SearchAction
   // are emitted on the homepage via buildStotraWebsiteSchema (lib/schema/website.ts)
@@ -41,7 +45,7 @@ export default function SearchPage() {
           Find stotras by name, deity, or keyword
         </p>
       </div>
-      <SearchPageContent stotras={allStotras} />
+      <SearchPageContent initial={initial} total={allStotras.length} />
     </div>
   );
 }

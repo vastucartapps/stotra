@@ -153,6 +153,7 @@ export function Navbar() {
             <div className="flex items-center gap-2">
               <Link
                 href="/search"
+                prefetch={false}
                 className="p-2.5 rounded-lg text-text-light hover:text-brand hover:bg-cream-mid transition-colors duration-200"
                 aria-label="Search stotras"
               >

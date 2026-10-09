@@ -78,6 +78,7 @@ export default function AllStotraPage() {
         <div className="mt-4 mx-auto w-24 h-1 rounded-full bg-gradient-to-r from-brand via-gold to-saffron" />
         <Link
           href="/search"
+          prefetch={false}
           className="mt-6 inline-flex items-center gap-2 bg-brand text-white text-sm font-medium px-5 py-2.5 rounded-lg hover:bg-brand-light transition-colors duration-200"
         >
           <Search className="w-4 h-4" />
