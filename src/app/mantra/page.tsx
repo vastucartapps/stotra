@@ -4,9 +4,9 @@ import { MANTRA_AXES, getMantrasByAxis, getMantraCount } from "@/lib/mantra";
 import { buildHubPageGraph, STOTRA_BASE } from "@/lib/schema";
 import { siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
 
-const PAGE_TITLE = "Hindu Mantras — Bija, Gayatri & Remedial Mantras by Planet, Rashi, Nakshatra & Day";
+const PAGE_TITLE = "Hindu Mantras by Planet, Rashi, Nakshatra & Day";
 const PAGE_DESC =
-  "Authentic Hindu mantras organised by planet (Navagraha), zodiac sign, birth star and weekday — each with Sanskrit Devanagari, transliteration, classical source, and step-by-step vidhi (how to chant).";
+  "Authentic Hindu mantras by planet (Navagraha), zodiac sign, birth star and weekday, each with Sanskrit, transliteration, source and step-by-step vidhi.";
 
 export function generateMetadata(): Metadata {
   return {

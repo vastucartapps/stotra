@@ -1,3 +1,4 @@
+import { buildGitaChapterDescription } from "@/lib/gita-meta";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import Link from "next/link";
@@ -22,20 +23,21 @@ export async function generateMetadata({
   // Compact title (≤70 chars). Long English chapter subtitle removed; Sanskrit
   // title is the canonical Hindu name for the chapter and remains in H1 + meta description.
   const title = `Bhagavad Gita Chapter ${chapter.chapterNumber} — Sanskrit, Hindi, PDF`;
+  const description = buildGitaChapterDescription(chapter);
   return {
     title: { absolute: title },
-    description: chapter.description,
+    description,
     alternates: { canonical: `/gita/${slug}` },
     openGraph: siteOpenGraph({
       path: `/gita/${slug}`,
       title,
-      description: chapter.description,
+      description,
       type: "article",
     }),
     twitter: siteTwitter({
       path: `/gita/${slug}`,
       title,
-      description: chapter.description,
+      description,
     }),
   };
 }

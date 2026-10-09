@@ -84,3 +84,14 @@ test("batch 1 pages carry a PDF-first title and description with the searched ph
     assert.ok(/PDF/.test(t), `${slug} title has PDF`);
   }
 });
+
+test("no two published stotras share a title (they would compete in results)", () => {
+  const seen = new Map<string, string>();
+  const dupes: string[] = [];
+  for (const s of published) {
+    const t = buildStotraTitle(s);
+    if (seen.has(t)) dupes.push(`${s.slug} = ${seen.get(t)}: ${t}`);
+    else seen.set(t, s.slug);
+  }
+  assert.deepEqual(dupes, []);
+});

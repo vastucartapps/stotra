@@ -1,3 +1,4 @@
+import { GITA_INDEX_DESCRIPTION } from "@/lib/gita-meta";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { getAllGitaChapters, getTotalVerseCount } from "@/lib/gita";
@@ -12,8 +13,7 @@ const PAGE_DESC =
 
 export const metadata: Metadata = {
   title: { absolute: "Bhagavad Gita — 18 Chapters, 701 Verses with Meaning, PDF" },
-  description:
-    "Read the complete Bhagavad Gita (श्रीमद्भगवद्गीता) verse by verse — all 18 chapters, 701 shlokas in Devanagari Sanskrit with word-by-word meaning (anvaya), English transliteration, Hindi translation, English translation, and commentary.",
+  description: GITA_INDEX_DESCRIPTION,
   alternates: { canonical: "/gita" },
   openGraph: siteOpenGraph({
     path: "/gita",

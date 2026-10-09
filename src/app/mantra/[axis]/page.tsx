@@ -20,10 +20,10 @@ export async function generateMetadata({
   if (!meta) return {};
   const items = getMantrasByAxis(axis as MantraAxis);
   const title = `${meta.label} Mantras (${items.length}) — Sanskrit, Vidhi & Benefits`;
-  const description = `${meta.blurb}. ${items.length} authentic mantras with Devanagari, transliteration, classical source, and step-by-step vidhi.`;
+  const description = `${meta.blurb}. ${items.length} mantras with Devanagari, transliteration, source and vidhi.`;
   const path = `/mantra/${axis}`;
   return {
-    title: { absolute: `${title} | Stotra by VastuCart` },
+    title: { absolute: title },
     description,
     alternates: { canonical: path },
     openGraph: siteOpenGraph({ path, title, description, type: "website" }),

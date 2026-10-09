@@ -1,3 +1,4 @@
+import { buildGitaVerseDescription } from "@/lib/gita-meta";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import Link from "next/link";
@@ -27,7 +28,7 @@ export async function generateMetadata({
 
   const firstWords = verse.devanagari.split("\n")[0].slice(0, 40);
   const title = `Bhagavad Gita ${chapter.chapterNumber}.${verse.verseNumber} - ${firstWords}`;
-  const description = `${verse.englishTranslation.slice(0, 150)}... Read with Sanskrit text, transliteration, word-by-word meaning, Hindi & English translation.`;
+  const description = buildGitaVerseDescription(verse);
 
   return {
     title: { absolute: title },

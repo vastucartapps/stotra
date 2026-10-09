@@ -19,7 +19,7 @@ import { APP_URL, siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
 export function generateMetadata(): Metadata {
   const count = getAllStotras().length;
   const title = `${count}+ Hindu Stotras in Sanskrit & Hindi | VastuCart`;
-  const description = `Read ${count} stotras, chalisas, the Bhagavad Gita (701 verses per Gita Press), and vrat kathas in Sanskrit and Hindi with transliteration, meaning, and free PDF. Browse by deity, purpose, or day.`;
+  const description = `Read ${count} stotras, chalisas, the Bhagavad Gita (701 verses) and vrat kathas in Sanskrit and Hindi with transliteration, meaning and free PDF.`;
   return {
     title: { absolute: title },
     description,

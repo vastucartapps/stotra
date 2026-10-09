@@ -10,7 +10,7 @@ const PAGE_DESC =
 export const metadata: Metadata = {
   title: { absolute: "Editorial Process — Stotra Translations | VastuCart" },
   description:
-    "How VastuCart Editorial prepares the Sanskrit, transliteration, and Hindi meaning for every stotra on this site — our sources, our translation approach, and how you can report corrections.",
+    "How VastuCart Editorial prepares the Sanskrit, transliteration and Hindi meaning of every stotra: our sources, our approach and how to report corrections.",
   alternates: { canonical: "/editorial-process" },
   openGraph: siteOpenGraph({
     path: "/editorial-process",

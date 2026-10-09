@@ -12,7 +12,7 @@ const PAGE_DESC =
 export const metadata: Metadata = {
   title: { absolute: PAGE_TITLE },
   description:
-    "Read all Hindu Vrat Kathas organized by 12 months (Vikram Samvat) — Satyanarayan Katha, Karwa Chauth, Ekadashi, Somvar Vrat, and more. Complete collection in Hindi with transliteration and free PDF download.",
+    "Read all Hindu Vrat Kathas by month: Satyanarayan Katha, Karwa Chauth, Ekadashi, Somvar Vrat and more, in Hindi with transliteration and free PDF.",
   alternates: { canonical: "/vrat-katha" },
   openGraph: siteOpenGraph({
     path: "/vrat-katha",
