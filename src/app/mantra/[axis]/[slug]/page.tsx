@@ -1,3 +1,4 @@
+import { buildMantraTitle, buildMantraDescription } from "@/lib/mantra-meta";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import Link from "next/link";
@@ -22,11 +23,12 @@ export async function generateMetadata({
   if (!AXES.has(axis)) return {};
   const m = getMantra(axis as MantraAxis, slug);
   if (!m) return {};
-  const title = `${m.name.en} Mantra — Meaning, Vidhi & Benefits`;
-  const description = m.whatIs.length > 155 ? m.whatIs.slice(0, 152).trimEnd() + "…" : m.whatIs;
+  // Title/description lead with the real mantra (src/lib/mantra-meta.ts).
+  const title = buildMantraTitle({ ...m, axis });
+  const description = buildMantraDescription({ ...m, axis });
   const path = `/mantra/${axis}/${slug}`;
   return {
-    title: { absolute: `${title} | Stotra by VastuCart` },
+    title: { absolute: title },
     description,
     keywords: m.alsoKnownAs,
     alternates: { canonical: path },
