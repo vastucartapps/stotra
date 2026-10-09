@@ -14,7 +14,6 @@ export async function GET(): Promise<Response> {
     { loc: `${SITEMAP_BASE}/day`, lastmod, changefreq: "weekly", priority: 0.7 },
     { loc: `${SITEMAP_BASE}/festival`, lastmod, changefreq: "weekly", priority: 0.7 },
     { loc: `${SITEMAP_BASE}/purpose`, lastmod, changefreq: "weekly", priority: 0.7 },
-    { loc: `${SITEMAP_BASE}/search`, lastmod, changefreq: "monthly", priority: 0.5 },
     { loc: `${SITEMAP_BASE}/editorial-process`, lastmod, changefreq: "yearly", priority: 0.5 },
     { loc: `${SITEMAP_BASE}/privacy-policy`, lastmod, changefreq: "yearly", priority: 0.2 },
     { loc: `${SITEMAP_BASE}/terms`, lastmod, changefreq: "yearly", priority: 0.2 },

@@ -63,3 +63,10 @@ test("search and the navbar never prefetch the heavy /search route", () => {
     assert.match(link[0], /prefetch=\{false\}/, `${f} must not prefetch /search`);
   }
 });
+
+test("the sitemap does not list /search, which is noindex (a sitemap must only list indexable pages)", () => {
+  const sitemap = readFileSync("src/app/sitemap-static.xml/route.ts", "utf8");
+  const page = readFileSync("src/app/search/page.tsx", "utf8");
+  assert.match(page, /robots: \{ index: false/);
+  assert.doesNotMatch(sitemap, /\/search`/);
+});
