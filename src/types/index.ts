@@ -30,6 +30,9 @@ export interface Stotra {
   description?: string;
   padaartha?: PadaArthaVerse[];
   seoDescription: string;
+  /** Optional search-result overrides (Search Console CTR work); see lib/stotra-meta.ts. */
+  metaTitle?: string;
+  metaDescription?: string;
   verseCount: number;
   source: string;
   createdAt: string;

@@ -1,3 +1,4 @@
+import { buildStotraTitle, buildStotraDescription } from "@/lib/stotra-meta";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import Link from "next/link";
@@ -101,32 +102,9 @@ export async function generateMetadata({
 
   const deity = getDeityById(stotra.deity);
 
-  // Title: trim subtitle after " - ", " — ", or parenthetical suffix
-  const titleName = stotra.titleEn
-    .split(/\s[-—]\s/)[0]
-    .replace(/\s*\([^)]*\)\s*$/, "")
-    .trim();
-  // Title template per 06 §P4.4: {Name} — {Devanagari} | Sanskrit, Hindi, PDF | Stotra by VastuCart
-  // Cascading fallback to keep title within Google's ~70-char display window:
-  //   full   : Name — Devanagari | Sanskrit, Hindi, PDF | Stotra by VastuCart
-  //   short  : Name — Devanagari | Sanskrit, Hindi, PDF
-  //   medium : Name | Sanskrit, Hindi, PDF | Stotra
-  //   minimal: Name | Stotra by VastuCart
-  const titleFull = `${titleName} — ${stotra.title} | Sanskrit, Hindi, PDF | Stotra by VastuCart`;
-  const titleShort = `${titleName} — ${stotra.title} | Sanskrit, Hindi, PDF`;
-  const titleMedium = `${titleName} | Sanskrit, Hindi, PDF | Stotra`;
-  const titleMinimal = `${titleName} | Stotra by VastuCart`;
-  const title =
-    titleFull.length <= 70 ? titleFull
-    : titleShort.length <= 70 ? titleShort
-    : titleMedium.length <= 70 ? titleMedium
-    : titleMinimal;
-
-  // Description: capitalize first benefit
-  const firstBenefit = stotra.benefits[0]
-    ? stotra.benefits[0].charAt(0).toUpperCase() + stotra.benefits[0].slice(1)
-    : "";
-  const metaDescription = `Read ${stotra.titleEn} in Sanskrit with Hindi arth, English transliteration, and free PDF download. ${stotra.verseCount} verses sourced from ${stotra.source}.${firstBenefit ? ` Recite for ${firstBenefit}.` : ""}`;
+  // Title and description: src/lib/stotra-meta.ts (curated copy, optional per-stotra overrides).
+  const title = buildStotraTitle(stotra);
+  const metaDescription = buildStotraDescription(stotra);
 
   return {
     title: { absolute: title },
