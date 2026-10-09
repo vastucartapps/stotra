@@ -1,5 +1,6 @@
 "use client";
 
+import { buildQuickTakeaway } from "@/lib/quick-takeaway";
 import { useState } from "react";
 import {
   Clock,
@@ -142,6 +143,10 @@ export function StotraContent({ stotra, deity, companionStotras }: StotraContent
           <h2 className="font-serif text-sm font-semibold text-brand uppercase tracking-wider mb-3">
             Key Facts
           </h2>
+          <p className="text-sm text-text leading-relaxed mb-3">
+            <strong className="font-semibold text-brand">Quick Takeaway: </strong>
+            {buildQuickTakeaway(stotra, deity?.name ?? null)}
+          </p>
           <dl className="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-1.5 text-sm">
             {deity && (
               <div className="flex justify-between gap-3 border-b border-border-light/70 py-1">
