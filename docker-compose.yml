@@ -1,0 +1,23 @@
+# Production deployment on the VastuCart VPS (nginx proxies stotra.vastucart.in
+# to 127.0.0.1:3002). Secrets come from a .env file next to this file that is
+# never committed:
+#   ADMIN_PASSWORD        admin login password
+#   ADMIN_SESSION_SECRET  32+ random characters; signs admin sessions.
+#                         Changing it signs every admin out.
+# Deploy:  docker compose build stotra && docker compose up -d --no-deps --force-recreate stotra
+services:
+  stotra:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: vastucart-stotra
+    ports:
+      - "127.0.0.1:3002:3000"
+    environment:
+      - PORT=3000
+      - NODE_ENV=production
+      - NEXT_PUBLIC_APP_URL=https://stotra.vastucart.in
+      - NEXT_PUBLIC_ADSENSE_CLIENT_ID=ca-pub-1411902986257886
+      - ADMIN_PASSWORD=${ADMIN_PASSWORD:?set ADMIN_PASSWORD in .env}
+      - ADMIN_SESSION_SECRET=${ADMIN_SESSION_SECRET:?set ADMIN_SESSION_SECRET in .env}
+    restart: unless-stopped

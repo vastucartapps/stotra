@@ -1,31 +1,27 @@
 import { NextResponse } from "next/server";
 import type { NextRequest } from "next/server";
+import { SESSION_COOKIE, isValidSessionCookie } from "@/lib/admin-session";
 
-function isAuthenticated(request: NextRequest): boolean {
-  const adminToken = request.cookies.get("admin_token")?.value;
-  const tokenHash = request.cookies.get("admin_token_hash")?.value;
-  // Both cookies must exist and token hash must be non-empty
-  return !!(adminToken && tokenHash && adminToken.length >= 32 && tokenHash.length >= 32);
-}
-
-export function middleware(request: NextRequest) {
+export async function middleware(request: NextRequest) {
   const { pathname } = request.nextUrl;
 
-  // Protect admin routes (except login)
-  if (pathname.startsWith("/admin") && pathname !== "/admin/login") {
-    if (!isAuthenticated(request)) {
-      return NextResponse.redirect(new URL("/admin/login", request.url));
-    }
+  // The login page and the auth endpoint must stay reachable without a session.
+  if (pathname.startsWith("/admin/login") || pathname.startsWith("/api/admin/auth")) {
+    return NextResponse.next();
   }
 
-  // Protect admin API routes
-  if (pathname.startsWith("/api/admin") && !pathname.startsWith("/api/admin/auth")) {
-    if (!isAuthenticated(request)) {
-      return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
-    }
+  if (await isValidSessionCookie(request.cookies.get(SESSION_COOKIE)?.value)) {
+    return NextResponse.next();
   }
 
-  return NextResponse.next();
+  if (pathname.startsWith("/api/")) {
+    return NextResponse.json({ error: "Unauthorized" }, { status: 401, headers: { "Cache-Control": "no-store" } });
+  }
+
+  const loginUrl = request.nextUrl.clone();
+  loginUrl.pathname = "/admin/login";
+  loginUrl.search = "";
+  return NextResponse.redirect(loginUrl);
 }
 
 export const config = {

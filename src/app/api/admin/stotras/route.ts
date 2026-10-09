@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server";
 import { getAllStotrasIncludingDrafts, saveStotra } from "@/lib/stotras";
 import type { Stotra } from "@/types";
+import { requireAdmin } from "@/lib/require-admin";
 
 function validateStotra(data: unknown): data is Stotra {
   if (!data || typeof data !== "object") return false;
@@ -18,11 +19,15 @@ function validateStotra(data: unknown): data is Stotra {
 }
 
 export async function GET() {
+  const denied = await requireAdmin();
+  if (denied) return denied;
   const stotras = getAllStotrasIncludingDrafts();
   return NextResponse.json(stotras);
 }
 
 export async function POST(request: Request) {
+  const denied = await requireAdmin();
+  if (denied) return denied;
   try {
     const body = await request.json();
 
