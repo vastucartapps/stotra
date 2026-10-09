@@ -4,9 +4,9 @@ import { getMantrasByAxis } from "@/lib/mantra";
 import { buildHubPageGraph, STOTRA_BASE } from "@/lib/schema";
 import { siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
 
-const PAGE_TITLE = "Lagna (Ascendant) Mantra — How to Find Your Rising-Sign Remedy";
+const PAGE_TITLE = "Lagna (Ascendant) Mantra: Find Your Remedy";
 const PAGE_DESC =
-  "Your lagna (ascendant) mantra is the mantra of your lagna lord — the planet ruling your rising sign. Find your ascendant, then chant that planet's mantra. Explained with the classical rulerships.";
+  "Your lagna (ascendant) mantra is the mantra of your lagna lord, the planet ruling your rising sign. Find your ascendant, then chant that planet's mantra.";
 
 // Sign -> ruling planet (BPHS), same rulership the rashi pages use.
 const SIGN_LORD: { sign: string; rashiSlug: string; lord: string; planetSlug: string }[] = [

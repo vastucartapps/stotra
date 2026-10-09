@@ -45,3 +45,11 @@ test("mantra axis pages do not append the brand and stay within 70 characters in
   const d = dtpl.replace("${meta.blurb}", "Bija & Gayatri mantras for the nine planets and more here").replace("${items.length}", "27");
   assert.ok(d.length <= 160, `${d.length}: ${d}`);
 });
+
+test("lagna mantra page title (with brand) and description fit", () => {
+  const code = src("src/app/mantra/lagna/page.tsx");
+  const title = str(code, /const PAGE_TITLE = "([^"]+)"/);
+  const desc = str(code, /const PAGE_DESC =\s*\n?\s*"([^"]+)"/);
+  assert.ok(`${title} | Stotra by VastuCart`.length <= 70, `${title.length}: ${title}`);
+  assert.ok(desc.length <= 160, `${desc.length}: ${desc}`);
+});
