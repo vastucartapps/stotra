@@ -6,13 +6,19 @@ import { getDeityById } from "@/data/deities";
 import { getStotrasByFestival } from "@/lib/stotras";
 import { buildHubPageGraph, STOTRA_BASE } from "@/lib/schema";
 import { siteOpenGraph, siteTwitter } from "@/lib/seo-meta";
+import { getUpcomingFestivals } from "@/lib/festival-calendar-api";
+import { formatFestivalDate } from "@/lib/festival-calendar";
+import { getFestivalById } from "@/data/festivals";
 
-const PAGE_TITLE = "Stotras by Festival | Stotra by VastuCart";
+// Re-check the astroengine dates hourly (also retries after a failed build-time fetch).
+export const revalidate = 3600;
+
+const PAGE_TITLE = "Festival Calendar: Stotras to Read | Stotra by VastuCart";
 const PAGE_DESC =
-  "Find the right stotras for Hindu festivals - Navratri, Diwali, Maha Shivaratri, Ganesh Chaturthi, Janmashtami, and more.";
+  "Upcoming Hindu festival dates with the stotras to read on each - Navratri, Diwali, Maha Shivaratri, Janmashtami and more. Free PDF for every stotra.";
 
 export const metadata: Metadata = {
-  title: "Stotras by Festival",
+  title: "Festival Calendar: Stotras to Read",
   description: PAGE_DESC,
   alternates: { canonical: "/festival" },
   openGraph: siteOpenGraph({
@@ -29,7 +35,8 @@ export const metadata: Metadata = {
   }),
 };
 
-export default function FestivalListPage() {
+export default async function FestivalListPage() {
+  const upcoming = await getUpcomingFestivals(8);
   const graph = buildHubPageGraph({
     path: "/festival",
     name: "Stotras by Festival",
@@ -56,6 +63,39 @@ export default function FestivalListPage() {
         </p>
         <div className="mt-4 mx-auto w-24 h-1 rounded-full bg-gradient-to-r from-brand via-gold to-saffron" />
       </div>
+      {upcoming.length > 0 && (
+        <section className="mb-12" aria-labelledby="upcoming-festivals">
+          <h2 id="upcoming-festivals" className="font-serif text-2xl font-bold text-brand mb-1">Upcoming festivals and what to read</h2>
+          <p className="text-sm text-text-muted mb-5">Dates are calculated by the VastuCart astroengine for New Delhi (IST). Observance can differ by a day in some regions.</p>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {upcoming.map((u) => {
+              const festival = getFestivalById(u.festivalId);
+              if (!festival) return null;
+              const picks = getStotrasByFestival(festival.id).slice(0, 4);
+              return (
+                <div key={`${u.key}-${u.date}`} className="bg-white rounded-xl p-5 border border-border-light">
+                  <p className="text-xs font-semibold text-saffron mb-1">
+                    {formatFestivalDate(u.date)}
+                    {u.vaishnavDate ? ` (Vaishnav: ${formatFestivalDate(u.vaishnavDate)})` : ""}
+                  </p>
+                  <h3 className="font-serif text-lg font-semibold text-brand">
+                    <Link href={`/festival/${festival.slug}`} className="hover:text-brand-light">{u.name}</Link>
+                    {u.nameHi ? <span className="devanagari-heading text-sm text-text-muted"> {u.nameHi}</span> : null}
+                  </h3>
+                  {picks.length > 0 && (
+                    <ul className="mt-2 space-y-1 text-sm">
+                      {picks.map((s) => (
+                        <li key={s.slug}><Link href={`/stotra/${s.slug}`} className="text-text hover:text-brand underline-offset-2 hover:underline">{s.titleEn}</Link></li>
+                      ))}
+                    </ul>
+                  )}
+                  <Link href={`/festival/${festival.slug}`} className="inline-block mt-3 text-xs text-brand hover:underline">All {festival.name} stotras</Link>
+                </div>
+              );
+            })}
+          </div>
+        </section>
+      )}
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
         {FESTIVALS.map((festival) => {
           const count = getStotrasByFestival(festival.id).length;
