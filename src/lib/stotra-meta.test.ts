@@ -95,3 +95,46 @@ test("no two published stotras share a title (they would compete in results)", (
   }
   assert.deepEqual(dupes, []);
 });
+
+// Batch 2 (G04): Hindi / Hinglish phrasing taken from Search Console queries.
+// Exact searched phrase first, PDF hook kept, and no claim the page cannot back up.
+const BATCH2: Record<string, string> = {
+  "lakshmi-aarti": "ओम जय लक्ष्मी माता आरती",
+  "shanivar-vrat-katha": "शनिवार व्रत कथा",
+  "devi-atharvashirsha": "देवी अथर्वशीर्ष हिंदी में",
+  "vivaha-mantras": "विवाह मंत्र हिंदी में",
+  "bhairav-aarti": "भैरव जी की आरती",
+  "shani-dashrath-stotram": "दशरथ कृत शनि स्तोत्र",
+  "khatu-shyam-aarti": "श्याम बाबा की आरती",
+  "shrinathji-aarti": "Shrinathji Ki Aarti",
+  "kamakhya-kavacham": "Kamakhya Kavach",
+  "jagannatha-ashtakam": "Jagannath Ashtakam in Hindi",
+  "kali-ashtottara-shatanamavali": "Maa Kali 108 Names in Hindi",
+  "brahma-kavacham": "Brahm Kavach Path in Hindi",
+  "hanuman-vadvanal-stotra": "Hanuman Vadvanal Stotra",
+};
+
+test("batch 2 pages lead with the searched Hindi/Hinglish phrase and keep the PDF hook", () => {
+  for (const [slug, phrase] of Object.entries(BATCH2)) {
+    const s = all.find((x) => x.slug === slug);
+    assert.ok(s, slug);
+    const t = buildStotraTitle(s);
+    const d = buildStotraDescription(s);
+    assert.ok(s.metaTitle && s.metaDescription, `${slug} has overrides`);
+    assert.ok(t.toLowerCase().startsWith(phrase.toLowerCase()), `${slug} title starts with "${phrase}": ${t}`);
+    assert.ok(/PDF/.test(t), `${slug} title has PDF`);
+    assert.ok(t.length <= 68, `${slug} title ${t.length}`);
+    assert.ok(d.length <= MAX_DESCRIPTION && d.length >= 100, `${slug} description ${d.length}`);
+    assert.ok(/free pdf/i.test(d), `${slug} description keeps the free PDF hook`);
+  }
+});
+
+test("batch 2 descriptions only claim what the page has", () => {
+  for (const slug of Object.keys(BATCH2)) {
+    const s = all.find((x) => x.slug === slug);
+    const d = buildStotraDescription(s);
+    if (/hindi meaning|with meaning/i.test(d)) assert.ok(s.hindiMeaning, `${slug} claims meaning`);
+    if (/transliteration/i.test(d)) assert.ok(s.transliteration, `${slug} claims transliteration`);
+    assert.ok(!/stuti/i.test(d) || /stuti/i.test(JSON.stringify(s.title + s.titleEn)), `${slug} stuti claim`);
+  }
+});
